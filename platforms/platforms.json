@@ -1,0 +1,2983 @@
+{
+  "database_meta": {
+    "name": "AI Wingman Forge \u2014 Public Platform Database",
+    "description": "Sanitized platform data for the Forge build planner. Contracts, funding, and operational intel are excluded.",
+    "source": "DroneWuKong/Ai-Project (private)",
+    "last_sync": "2026-03-19",
+    "platform_count": 151,
+    "license": "Data sourced from public manufacturer specs, DoD program announcements, and industry reporting."
+  },
+  "platforms": [
+    {
+      "id": "neros-archer",
+      "manufacturer": "Neros Technologies",
+      "manufacturer_hq": "El Segundo, CA",
+      "manufacturer_founded": 2023,
+      "manufacturer_url": "https://neros.tech",
+      "platform_name": "Archer",
+      "variants": [
+        "Archer 5in",
+        "Archer 8in",
+        "Archer 10in",
+        "Archer Fiber",
+        "Archer Strike",
+        "Archer Block 2"
+      ],
+      "category": "fpv_strike",
+      "compliance": {
+        "blue_uas": true,
+        "blue_uas_date": "2025-02",
+        "ndaa_compliant": true,
+        "note": "First FPV on Blue UAS list. Sanctioned by China Dec 2025."
+      },
+      "specs": {
+        "type": "quadcopter",
+        "prop_size_inches": [
+          5,
+          8,
+          10
+        ],
+        "payload_kg": 2.0,
+        "range_km": 20,
+        "speed_kmh": 160,
+        "unit_cost_usd_approx": "~2000",
+        "flight_controller": "Custom proprietary (not PX4/ArduPilot/Betaflight)",
+        "radios": "Custom in-house jam-resistant C2 and VTX",
+        "strike_payload": "Kraken Kinetics Terminus (anti-armor, anti-personnel)",
+        "ew_resistance": true,
+        "gps_denied_capable": true,
+        "block2_sensors": [
+          "EO camera",
+          "downward camera",
+          "EO illuminator",
+          "IR illuminator",
+          "thermal camera"
+        ],
+        "block2_field_reconfigurable": true,
+        "fiber_variant_range_km": "5 (10km and 15km planned early 2026)",
+        "fiber_partner": "Kela Technologies (Israel)"
+      },
+      "gcs": {
+        "crossbow": "Tactical GCS \u2014 EW resistance at range",
+        "flatbow": "Soldier-borne \u2014 3 drones per field pack, 150m displaced antenna, anti-jamming"
+      },
+      "documentation_availability": "Minimal public \u2014 most specs locked. neros.tech",
+      "tags": [
+        "attritable",
+        "mass-production",
+        "combat-proven",
+        "kinetic",
+        "fpv",
+        "fiber-optic"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "skycutter-shrike",
+      "manufacturer": "Skycutter (UK) / SkyFall (Ukraine)",
+      "manufacturer_url": "https://skycutteruas.co.uk",
+      "platform_name": "Shrike 10 Fiber",
+      "category": "fpv_strike_fiber",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "DDG Phase I winner \u2014 procurement pathway, not Blue UAS"
+      },
+      "specs": {
+        "type": "FPV quadcopter with fiber-optic link",
+        "fiber_spool_km": 20,
+        "payload_kg": 1.0,
+        "video": "4K zero-latency over fiber",
+        "ew_immunity": "Complete \u2014 zero RF emissions, invisible to SIGINT, immune to jamming",
+        "unit_cost_usd": {
+          "daytime_basic": "~300",
+          "night_fiber": "~1500"
+        },
+        "ai": "Gunslinger AI for pilot decision support"
+      },
+      "other_products": {
+        "gryphon": "Heavy-lift hydrogen fuel cell multirotor, 2-3hr endurance, 200km range"
+      },
+      "documentation_availability": "Gryphon spec sheet at skycutteruas.co.uk. Shrike specs limited.",
+      "tags": [
+        "fiber-optic",
+        "ew-immune",
+        "ultra-low-cost",
+        "ddg-winner",
+        "fpv",
+        "strike"
+      ],
+      "country": "UK/Ukraine"
+    },
+    {
+      "id": "redcat-fang",
+      "manufacturer": "Red Cat Holdings",
+      "manufacturer_hq": "San Juan, PR",
+      "manufacturer_ticker": "RCAT",
+      "manufacturer_url": "https://redcat.red/fang",
+      "platform_name": "FANG F7",
+      "category": "fpv_isr",
+      "compliance": {
+        "blue_uas": true,
+        "blue_uas_date": "2025-10",
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "quadcopter",
+        "prop_size_inches": [
+          7
+        ],
+        "frame": "CL2 3K carbon fiber, 8mm arm, 19mm motor mount",
+        "motors": "UMAC 2807 (28mm x 7mm stator, N552SH magnets, 12mm bearings, 3-8S)",
+        "esc": "Rotor Riot Brave F7 55A 4-in-1 (3-8S, BLHeli_32)",
+        "flight_controller": "Brave F7 (STM32 F722, BMI270 Gyro, BMP390 Barometer)",
+        "camera": "FatShark Aura Analog (1200 TVL, Sony 1/3\" CMOS)",
+        "vtx": "Aura VTX (up to 1W, 5.8 GHz)",
+        "receiver": "ModalAI 915 MHz ELRS",
+        "endurance_min": 12,
+        "payload_capacity_g": 658,
+        "battery": "6S Li-Ion",
+        "flight_modes": "Manual FPV only (acro/horizon/angle)",
+        "unit_cost_usd_approx": "~3000",
+        "modular_diy_kit": true,
+        "retrievable": true
+      },
+      "ecosystem": {
+        "black_widow": {
+          "weight_lb": 4.26,
+          "endurance_min": 50,
+          "range_km": 8,
+          "speed_mph": 29,
+          "camera": "64MP EO + Boson+ 640R thermal",
+          "processor": "Qualcomm RB5",
+          "radio": "Doodle Labs Hex-Band (M1-M6)",
+          "ai": "FLIR Prism AI + Palantir VNav GPS-denied",
+          "gcs": "WEB (ATAK)",
+          "production": "2000/month",
+          "note": "SRR Program of Record"
+        },
+        "teal_2": {
+          "weight_lb": 2.75,
+          "endurance_min": 30,
+          "range_km": 5,
+          "camera": "FLIR Hadron 640R",
+          "processor": "Snapdragon 845",
+          "price_usd": "~16000"
+        }
+      },
+      "documentation_availability": "Specs at redcat.red/fang. Black Widow at redcat.red/black-widow.",
+      "tags": [
+        "retrievable",
+        "diy-kit",
+        "modular",
+        "fpv",
+        "umac-motors",
+        "atak"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "modalai-seeker-vision",
+      "manufacturer": "ModalAI",
+      "manufacturer_hq": "San Diego, CA",
+      "manufacturer_url": "https://modalai.com",
+      "platform_name": "Seeker Vision FPV",
+      "variants": [
+        "5in",
+        "7in (Max)"
+      ],
+      "category": "fpv_isr_dev",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "framework_components": 16
+      },
+      "specs": {
+        "autopilot": "VOXL 2 Mini (Qualcomm QRB5165, 8 cores @ 3.091 GHz, 8GB LPDDR5, 15+ TOPS AI)",
+        "flight_controller": "PX4 (integrated)",
+        "imu": "Dual TDK ICM-42688",
+        "sensors": [
+          "4MP low-light IR-sensitive EO (IMX664)",
+          "Optional Boson+ 640 thermal",
+          "Dual AR0144 CV cameras",
+          "Downward thermal"
+        ],
+        "video_system": "MVX \u2014 US-built, ChaCha256 encrypted, sub-40ms latency, dual-band digital HD, 11km+ tested",
+        "gps_denied_capable": true,
+        "backtrack_mode": true,
+        "controller": "Zorro Blue (gutted Radiomaster Zorro, US ModalAI electronics, ELRS 915MHz)"
+      },
+      "documentation": {
+        "voxl2_mini": "docs.modalai.com/voxl2-mini",
+        "sdk": "docs.modalai.com/voxl-sdk",
+        "source_code": "gitlab.com/voxl-public",
+        "stinger_docs": "docs.modalai.com/stinger-vision-fpv",
+        "px4_integration": "docs.modalai.com/voxl-px4-dev-build-guide",
+        "ros2": "docs.modalai.com/ros2-installation-voxl2",
+        "ai_detection": "docs.modalai.com/ai-detection",
+        "forum": "forum.modalai.com",
+        "bootcamp": "docs.modalai.com/voxl-developer-bootcamp"
+      },
+      "tags": [
+        "developer-friendly",
+        "open-sdk",
+        "px4",
+        "voxl2",
+        "autonomous",
+        "gps-denied",
+        "best-documented"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "modalai-stinger-vision",
+      "manufacturer": "ModalAI",
+      "platform_name": "Stinger Vision FPV",
+      "category": "fpv_indoor_recon",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "prop_size_inches": [
+          3.5
+        ],
+        "weight_g": 575,
+        "weight_no_battery_g": 371,
+        "flight_time_min": 12,
+        "motors": "Lumenier 2305 2400kv",
+        "battery": "4S Li-Ion only",
+        "autopilot": "VOXL 2 Mini",
+        "sensors": [
+          "4MP IMX664 EO",
+          "Dual AR0144 CV",
+          "FLIR Lepton 3.5 downward thermal",
+          "Optional Boson+ 640"
+        ],
+        "video_system": "MVX VTX (ChaCha256, sub-40ms, dual-band HD)",
+        "radio": "Gemini ELRS 915 MHz",
+        "ai_flight_modes": [
+          "Chill (CV-assisted position hold)",
+          "Still (altitude hold night)",
+          "Backtrack (auto retrace on signal loss)"
+        ],
+        "price_usd": "2599-3399"
+      },
+      "tags": [
+        "indoor",
+        "recon",
+        "compact",
+        "gps-denied",
+        "developer-friendly"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "renegade-nightmare",
+      "manufacturer": "Renegade UxS",
+      "manufacturer_hq": "Denmark (founded Jan 2024)",
+      "manufacturer_url": "https://renegadeuxs.com",
+      "platform_name": "Nightmare",
+      "variants": [
+        "Nightmare",
+        "Nightmare Digital",
+        "Nightmare Fiber"
+      ],
+      "category": "fpv_strike",
+      "compliance": {
+        "blue_uas": true,
+        "blue_uas_date": "2025-12",
+        "via": "Nokturnal AI",
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "quadcopter",
+        "strike_capable": true,
+        "combat_proven": true,
+        "units_delivered_ukraine": "10000+",
+        "navigation": "GNSS-independent \u2014 inertial + visual + RF-based layered nav",
+        "datalink": "Engineered for heavy jamming/spoofing",
+        "founders": "Former Danish J\u00e6gerkorpet special forces operators",
+        "note": "No public specs \u2014 strict OPSEC. Top-3 in US Army and Marine Corps FPV fly-offs."
+      },
+      "documentation_availability": "Intentionally minimal. renegadeuxs.com provides no tech specs or detailed images.",
+      "tags": [
+        "combat-proven",
+        "ew-resistant",
+        "gps-denied",
+        "strike",
+        "opsec-heavy"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "pdw-c100",
+      "manufacturer": "Performance Drone Works (PDW)",
+      "manufacturer_hq": "Huntsville, AL",
+      "manufacturer_url": "https://pdw.ai",
+      "platform_name": "C100",
+      "category": "heavy_lift_multi_mission",
+      "compliance": {
+        "blue_uas": true,
+        "blue_uas_date": "2023-12",
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Foldable man-packable quadcopter (Group 2)",
+        "endurance_min": 74,
+        "max_speed_mph": 40,
+        "payload_capacity_lb": 21.4,
+        "range_km": 10,
+        "ip_rating": "IP54",
+        "deploy_time": "<2 minutes from rucksack",
+        "datalink": "Doodle Labs mesh radio, AES-256",
+        "autonomy": [
+          "Object detection",
+          "VIO (GPS-denied)",
+          "Vision-based collision prevention"
+        ],
+        "payloads": [
+          "ISR",
+          "EW",
+          "Kinetic",
+          "SIGINT",
+          "Resupply",
+          "Comms relay"
+        ]
+      },
+      "other_products": [
+        "AM-FPV (attritable multirotor)"
+      ],
+      "documentation_availability": "Product page at pdw.ai/products/c100-defense. Available via GSA and Darley.",
+      "tags": [
+        "heavy-lift",
+        "man-packable",
+        "multi-mission",
+        "group-2",
+        "blue-uas"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "titan-raptor",
+      "manufacturer": "Titan Dynamics",
+      "manufacturer_hq": "USA (founded 2023)",
+      "manufacturer_url": "https://titandynamics.aero",
+      "platform_name": "Raptor [BLUE]",
+      "category": "fixed_wing_isr",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "3D-printed/additive-manufactured fixed-wing",
+        "manufacturing": "Additive (3D-printed) + AI-powered drone generation software",
+        "transport": "Pelican 1740 case, toolless removable wings",
+        "note": "Falcon V3 holds 300.4 km / 5h7m record for 3D-printed aircraft"
+      },
+      "other_products": {
+        "falcon_v3": "Fixed-wing, 500km range, 10hr endurance capable",
+        "vulcan": "Deployable mobile drone factory \u2014 auto-generates thousands of drones, 150+ printable designs"
+      },
+      "tags": [
+        "3d-printed",
+        "additive-manufacturing",
+        "fixed-wing",
+        "isr",
+        "rapid-production"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "vantage-vesper",
+      "manufacturer": "Vantage Robotics",
+      "manufacturer_hq": "San Leandro, CA",
+      "manufacturer_url": "https://vantagerobotics.com",
+      "platform_name": "Vesper",
+      "category": "tactical_isr",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Compact recon quadcopter",
+        "weight_g": 690,
+        "endurance_min": "50-55",
+        "max_speed_mph": 45,
+        "range_km": 10,
+        "cameras": "Dual 4K EO + thermal (320x240 or 640p)",
+        "zoom": "48x",
+        "gimbal": "3-axis stabilized",
+        "encryption": "AES-256",
+        "acoustic_signature": "Inaudible at 50m",
+        "low_light": "Effective down to 0.01 lux"
+      },
+      "tags": [
+        "compact",
+        "quiet",
+        "isr",
+        "thermal",
+        "tactical"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "vantage-trace",
+      "manufacturer": "Vantage Robotics",
+      "platform_name": "Trace",
+      "category": "nano_isr",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Nano UAS",
+        "weight_g": 153,
+        "folded_dimensions": "5.7 x 2.5 x 1.6 inches",
+        "endurance_min": "30-45",
+        "max_speed_mph": 32,
+        "range_km": 2,
+        "cameras": "48MP EO + 320p thermal",
+        "zoom": "24x",
+        "obstacle_avoidance": "7 laser sensors",
+        "ai": "Object classification",
+        "acoustic_signature": "Invisible at 10m, <34 dBA at 30m",
+        "construction": "Carbon fiber and titanium",
+        "ip_rating": "IP-53"
+      },
+      "gcs": {
+        "name": "Vision2",
+        "screen": "2500-nit 7in touchscreen",
+        "ai_tops": 15,
+        "encryption": "AES-256",
+        "storage_gb": 500
+      },
+      "tags": [
+        "nano",
+        "covert",
+        "pocketable",
+        "isr",
+        "ai"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "zone5-paladin",
+      "manufacturer": "Zone 5 Technologies",
+      "manufacturer_hq": "San Luis Obispo, CA (founded 2011, 200+ staff)",
+      "manufacturer_url": "https://zone5tech.com",
+      "platform_name": "Paladin",
+      "category": "autonomous_interceptor",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "First autonomous interceptor on Blue UAS list"
+      },
+      "specs": {
+        "type": "Multi-mission autonomous UAS / LCEI",
+        "autonomy": "Self-deploys upon radar alert to engage hostile drones",
+        "payloads": [
+          "Explosive munitions",
+          "7.62/.308 rifle",
+          "Loudspeaker",
+          "Spotlight"
+        ],
+        "radar": "Echodyne EchoFlight airborne MESA + EchoShield ground radar",
+        "tak_integrated": true,
+        "mosa_compliant": true
+      },
+      "tags": [
+        "counter-uas",
+        "interceptor",
+        "autonomous",
+        "radar-integrated"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "hoverfly-spectre",
+      "manufacturer": "Hoverfly Technologies",
+      "manufacturer_hq": "Sanford, FL (founded 2010)",
+      "manufacturer_url": "https://hoverflytech.com",
+      "platform_name": "Spectre",
+      "category": "tethered_persistent",
+      "compliance": {
+        "blue_uas": true,
+        "green_uas": true,
+        "note": "First tethered drone on both Blue and Green UAS lists"
+      },
+      "specs": {
+        "type": "Fully closed-loop tethered UAS",
+        "payload_lb": "5.0-8.0",
+        "flight_duration": "Continuous/unlimited (tether-powered)",
+        "operating_altitude_ft": 200,
+        "wind_tolerance_mph": "Sustained 25, gusts 30",
+        "aircraft_weight_lb": 8.8,
+        "base_station_weight_lb": 70,
+        "power_w": "<2000 continuous, 2400 peak",
+        "setup_time_min": 10,
+        "transport": "2 cases, 175 lbs total",
+        "rf_emission": "Zero (all power/data over tether)",
+        "jam_proof": true,
+        "compatible_radios": [
+          "Silvus",
+          "TrellisWare",
+          "Persistent Systems",
+          "L3Harris"
+        ],
+        "army_program": "VHA-H (Variable Height Antenna - Heavy) by PEO Soldier"
+      },
+      "tags": [
+        "tethered",
+        "persistent",
+        "jam-proof",
+        "zero-rf",
+        "comms-relay"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "shield-ai-vbat",
+      "manufacturer": "Shield AI",
+      "manufacturer_hq": "San Diego, CA (founded 2015, $500M+ raised)",
+      "manufacturer_url": "https://shield.ai/v-bat",
+      "platform_name": "V-BAT (MQ-35A)",
+      "category": "group3_vtol_isr",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Single-engine ducted-fan VTOL tail-sitter (Group 3)",
+        "engine": "157cc two-stroke (13hp), 90+ octane Mogas",
+        "endurance_hours": "10-12+",
+        "max_speed_knots": 90,
+        "range_miles": 300,
+        "ceiling_ft": 20000,
+        "landing_zone_ft": "12 x 12",
+        "payload_lb": "25 standard (40 tested)",
+        "payload_power_w": 600,
+        "vtol_transition_sec": 15,
+        "crew": 2,
+        "setup_time_min": 15,
+        "transport": "Pickup truck bed",
+        "ai": "Hivemind \u2014 GPS-denied, comms-contested nav, swarming (4\u21928\u219216+ teams, doubling annually)",
+        "combat_proven": "Ukraine"
+      },
+      "tags": [
+        "vtol",
+        "long-endurance",
+        "hivemind",
+        "autonomous",
+        "group-3"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "quantum-vector-ai",
+      "manufacturer": "Quantum Systems",
+      "manufacturer_hq": "Gilching, Germany; Moorpark, CA (135,000 sq ft US facility, June 2025)",
+      "manufacturer_url": "https://quantum-systems.com",
+      "platform_name": "Vector AI",
+      "category": "evtol_fixed_wing_isr",
+      "compliance": {
+        "blue_uas": true,
+        "blue_uas_date": "2025-08",
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "eVTOL fixed-wing (also configurable as multicopter 'Scorpion')",
+        "mtow_lb": 17.6,
+        "wingspan_ft": 4.5,
+        "packed_size": "30x15x11 inches",
+        "endurance_min": "120+ (claims 3+ hours)",
+        "range_km": 40,
+        "max_speed_mph": 53,
+        "ceiling_ft": 18045,
+        "sensors": "HD40-LV (720p, 10x optical zoom, LWIR 640x480, laser illuminator, 360\u00b0 gimbal)",
+        "processors": "Dual NVIDIA Jetson Orin",
+        "ai": [
+          "Real-time object recognition",
+          "Auto target tracking",
+          "VIO GPS-denied",
+          "SLAM"
+        ],
+        "encryption": "AES-256",
+        "setup_time_min": 3,
+        "operator": "Single operator"
+      },
+      "tags": [
+        "evtol",
+        "fixed-wing",
+        "dual-jetson",
+        "ai",
+        "mapping",
+        "isr"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "aerovironment-switchblade-300",
+      "manufacturer": "AeroVironment",
+      "manufacturer_hq": "Arlington, VA",
+      "manufacturer_ticker": "AVAV",
+      "manufacturer_url": "https://www.avinc.com/lms/switchblade",
+      "platform_name": "Switchblade 300 Block 20",
+      "category": "loitering_munition",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed-wing tube-launched",
+        "munition_weight_lb": 3.69,
+        "aur_weight_lb": 7.2,
+        "tactical_loadout_lb": 8,
+        "range_km": 30,
+        "endurance_min": 20,
+        "loiter_speed_mph": 63,
+        "sprint_speed_mph": 100,
+        "warhead": "Modular \u2014 fragmentation AND EFP (new anti-armor capability)",
+        "guidance": "GPS with Tap-to-Target on tablet FCU",
+        "datalink": "Enhanced frequency-hopping DDL, AES-256",
+        "wave_off": true,
+        "recommit": true,
+        "launch_time_min": 2
+      },
+      "datasheets": [
+        "avinc.com/images/uploads/product_docs/Switchblade-300B20_Datasheet_v04.pdf"
+      ],
+      "tags": [
+        "loitering-munition",
+        "combat-proven",
+        "backpackable",
+        "anti-personnel",
+        "anti-armor"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "aerovironment-switchblade-600",
+      "manufacturer": "AeroVironment",
+      "platform_name": "Switchblade 600",
+      "variants": [
+        "Switchblade 600",
+        "Switchblade 600 Block 2"
+      ],
+      "category": "loitering_munition",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "base": {
+          "munition_weight_lb": 33,
+          "aur_weight_lb": 65,
+          "range_km": 60,
+          "range_with_relay_km": 90,
+          "endurance_min": 40,
+          "loiter_speed_mph": 70,
+          "sprint_speed_mph": 115,
+          "warhead": "Anti-armor (Javelin-derived)",
+          "gimbal": "2-axis, 4-sensor dual EO/IR",
+          "setup_time_min": 10
+        },
+        "block_2": {
+          "munition_weight_lb": 36,
+          "aur_weight_lb": 68,
+          "total_payload_lb": 7,
+          "range_km": 60,
+          "range_with_relay_km": 100,
+          "endurance_min": 50,
+          "ai": "NVIDIA GPU, Automatic Target Recognition (AI/ML edge)",
+          "gps": "Encrypted M-Code GPS",
+          "datalink": "Silvus 4200/4400 MANET radio",
+          "ip_rating": "IP67 (maritime hardened)"
+        }
+      },
+      "datasheets": [
+        "avinc.com/images/uploads/product_docs/Switchblade-600_Datasheet_v04.pdf",
+        "avinc.com/images/uploads/product_docs/2025_Switchblade-600b2_Datasheet_250923_v13.pdf"
+      ],
+      "tags": [
+        "loitering-munition",
+        "anti-armor",
+        "javelin-warhead",
+        "combat-proven"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "aerovironment-switchblade-400",
+      "manufacturer": "AeroVironment",
+      "platform_name": "Switchblade 400",
+      "category": "loitering_munition",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Rocket-assisted tube-launched fixed-wing",
+        "mtow_kg": 18.1,
+        "range_km": 65,
+        "endurance_min": 35,
+        "warhead": "Javelin-class multi-purpose",
+        "compute": "NVIDIA onboard",
+        "setup_time_min": 5,
+        "note": "New \u2014 fills gap between SB 300 and SB 600. Targets LASSO requirement."
+      },
+      "tags": [
+        "loitering-munition",
+        "new",
+        "multi-purpose-warhead"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "anduril-bolt-m",
+      "manufacturer": "Anduril Industries",
+      "manufacturer_hq": "Costa Mesa, CA",
+      "manufacturer_url": "https://www.anduril.com/bolt",
+      "platform_name": "Bolt-M",
+      "category": "loitering_munition",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "quadcopter VTOL",
+        "weight_lb": "12-15",
+        "setup_time_min": 5,
+        "range_km": 20,
+        "endurance_min": 40,
+        "payload_lb": 3,
+        "warhead_provider": "Kraken Kinetics",
+        "warhead_swappable": true,
+        "battery_hot_swap": true,
+        "autonomy": "Lattice AI/ML \u2014 autonomous tracking, waypoint nav, object classification",
+        "gcs": "Touchscreen \u2014 select target, standoff distance, engagement angle",
+        "unit_cost": "Low tens of thousands"
+      },
+      "other_products": {
+        "altius_600": "27 lb, 2.54m wingspan, 440km range, 4+ hrs, tube-launched, swarming",
+        "altius_600m": "Strike variant, 3-7 lb warhead, ~160 km range",
+        "altius_700m": "~65 lbs, 33-35 lb warhead (Hellfire-class), 160+ km range, 75 min. Largest loitering munition on market."
+      },
+      "documentation": {
+        "bolt": "anduril.com/bolt",
+        "altius": "anduril.com/altius",
+        "lattice_sdk": "anduril.com/lattice/lattice-sdk"
+      },
+      "tags": [
+        "loitering-munition",
+        "ai-enabled",
+        "lattice",
+        "low-training",
+        "autonomous"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "teledyne-rogue-1",
+      "manufacturer": "Teledyne FLIR Defense",
+      "manufacturer_hq": "Wilsonville, OR",
+      "platform_name": "Rogue 1",
+      "category": "loitering_munition",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "Optionally-lethal VTOL sUAS / loitering munition",
+        "weight_lb": "~10",
+        "endurance_min": 30,
+        "burst_speed_mph": "70+",
+        "range_km": 10,
+        "sensors": "EO + FLIR Boson 640+ thermal, gimballed",
+        "warheads": [
+          "EFP (anti-armor)",
+          "Forward fragmenting (anti-personnel)",
+          "Non-lethal trainer"
+        ],
+        "recoverable": true,
+        "mechanical_interrupt": true,
+        "gps_denied": "GPS + ground image matching"
+      },
+      "tags": [
+        "loitering-munition",
+        "recoverable",
+        "modular-warhead",
+        "thermal"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "greensight-platforms",
+      "manufacturer": "GreenSight",
+      "manufacturer_hq": "Boston, MA",
+      "platform_name": "Warlock / Pikeman / Mustang",
+      "category": "fpv_strike_and_tactical",
+      "compliance": {
+        "blue_uas_framework": true,
+        "ndaa_compliant": true,
+        "note": "UltraBlue/MicroBlue avionics on Framework. Platforms not individually Blue UAS Cleared."
+      },
+      "specs": {
+        "ultrablue": "Bespoke NDAA-compliant avionics stack \u2014 mission computer + flight controller, in commercial deployment since 2020",
+        "microblue": "Smaller form factor variant",
+        "pikeman": "100+ km strike drone",
+        "warlock_5_10": "FPV strike platforms (5in and 10in)",
+        "mustang": "Folding tactical VTOL, 4 kg payload"
+      },
+      "documentation_availability": "greensightag.com/defense",
+      "tags": [
+        "avionics",
+        "strike",
+        "tactical-vtol",
+        "framework-components"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "thunder-tiger-overkill",
+      "manufacturer": "Thunder Tiger Corporation",
+      "platform_name": "Overkill FPV",
+      "category": "fpv",
+      "compliance": {
+        "blue_uas": true
+      },
+      "specs": {
+        "note": "Limited public specs"
+      },
+      "tags": [
+        "fpv",
+        "blue-uas"
+      ],
+      "country": "Taiwan"
+    },
+    {
+      "id": "zepher-z1",
+      "manufacturer": "Zepher Flight Labs",
+      "platform_name": "Z1",
+      "category": "fpv",
+      "compliance": {
+        "blue_uas": true
+      },
+      "specs": {
+        "note": "Limited public specs"
+      },
+      "tags": [
+        "fpv",
+        "blue-uas"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "skytech-replicator",
+      "manufacturer": "SkyTech Orion Global (Citrine Global)",
+      "manufacturer_ticker": "CTGL",
+      "platform_name": "SkyTech Replicator",
+      "category": "modular_multi_mission",
+      "compliance": {
+        "ndaa_compliant": true,
+        "blue_uas": false,
+        "note": "Self-declared NDAA. Early stage."
+      },
+      "specs": {
+        "configurations": 4,
+        "missions": [
+          "ISR",
+          "Strike",
+          "Lift",
+          "Loitering"
+        ],
+        "payload_light_kg": 0.5,
+        "payload_endura_kg": 2.5,
+        "tool_less": true,
+        "single_case": true
+      },
+      "tags": [
+        "modular",
+        "multi-mission",
+        "early-stage"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "helsing-hx2-karma",
+      "manufacturer": "Helsing",
+      "manufacturer_hq": "Munich, Germany",
+      "manufacturer_founded": 2021,
+      "manufacturer_url": "https://helsing.ai",
+      "platform_name": "HX-2 Karma",
+      "category": "loitering_munition",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "European/German sovereign"
+      },
+      "specs": {
+        "type": "AI-enabled loitering munition (x-wing config)",
+        "weight_kg": 12,
+        "range_km": 100,
+        "ew_resistance": true,
+        "gps_denied_capable": true,
+        "ai": "Onboard AI for GNSS-denied navigation, target recognition, multi-drone single-operator",
+        "swarm_capable": true
+      },
+      "tags": [
+        "ai-enabled",
+        "combat-proven",
+        "loitering-munition",
+        "swarm",
+        "ew-resistant",
+        "european"
+      ],
+      "country": "Germany"
+    },
+    {
+      "id": "stark-owe-v-virtus",
+      "manufacturer": "Stark Defence",
+      "manufacturer_hq": "Berlin/Munich, Germany",
+      "platform_name": "OWE-V Virtus",
+      "category": "loitering_munition",
+      "specs": {
+        "type": "VTOL loitering munition",
+        "warhead_kg": 5,
+        "range_km": 100,
+        "speed_kmh": 250,
+        "ai": "AI object recognition, Minerva C2 swarm software",
+        "swarm_capable": true
+      },
+      "tags": [
+        "loitering-munition",
+        "vtol",
+        "swarm",
+        "ai-enabled"
+      ],
+      "country": "Germany"
+    },
+    {
+      "id": "rheinmetall-luna-ng",
+      "manufacturer": "Rheinmetall",
+      "manufacturer_hq": "Dusseldorf, Germany",
+      "platform_name": "LUNA NG (HUSAR)",
+      "category": "tactical_isr",
+      "specs": {
+        "type": "fixed-wing catapult-launched ISR",
+        "endurance_hours": 12,
+        "range_km": 150
+      },
+      "tags": [
+        "isr",
+        "tactical",
+        "fixed-wing",
+        "nato"
+      ],
+      "country": "Germany"
+    },
+    {
+      "id": "rheinmetall-hero-family",
+      "manufacturer": "Rheinmetall / UVision (license)",
+      "manufacturer_hq": "Sardinia, Italy (production)",
+      "platform_name": "Hero Loitering Munition Family",
+      "variants": [
+        "Hero-30",
+        "Hero-70",
+        "Hero-120",
+        "Hero-250",
+        "Hero-400EC",
+        "Hero-900",
+        "Hero-1250",
+        "Hero-HLD"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "Family of loitering munitions (0.5-50kg warhead)",
+        "range_km": "varies 10-150+"
+      },
+      "tags": [
+        "loitering-munition",
+        "scalable-family",
+        "combat-proven"
+      ],
+      "country": "Italy"
+    },
+    {
+      "id": "delair-knds-oskar",
+      "manufacturer": "Delair / KNDS",
+      "manufacturer_hq": "France",
+      "platform_name": "MV-25 OSKAR",
+      "variants": [
+        "MV-25 OSKAR",
+        "MV-50",
+        "MV-100",
+        "MV-Heavy"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "hand-launched loitering munition",
+        "weight_kg": 2.3,
+        "range_km": 25
+      },
+      "tags": [
+        "loitering-munition",
+        "hand-launched",
+        "combat-proven",
+        "french-sovereign"
+      ],
+      "country": "France"
+    },
+    {
+      "id": "safran-patroller",
+      "manufacturer": "Safran",
+      "manufacturer_hq": "Paris, France",
+      "platform_name": "Patroller",
+      "category": "group3_tactical_male",
+      "specs": {
+        "type": "tactical MALE UAV",
+        "weight_kg": 1050,
+        "endurance_hours": "15-20",
+        "note": "NATO STANAG 4671 certified"
+      },
+      "tags": [
+        "male",
+        "isr",
+        "certified",
+        "multi-payload"
+      ],
+      "country": "France"
+    },
+    {
+      "id": "novadem-nx70",
+      "manufacturer": "Novadem",
+      "manufacturer_hq": "Aix-en-Provence, France",
+      "platform_name": "NX70",
+      "category": "micro_isr",
+      "specs": {
+        "type": "micro reconnaissance quadcopter",
+        "weight_kg": 1,
+        "endurance_min": 45
+      },
+      "tags": [
+        "micro",
+        "isr",
+        "quadcopter"
+      ],
+      "country": "France"
+    },
+    {
+      "id": "tekever-ar3",
+      "manufacturer": "Tekever",
+      "manufacturer_hq": "Lisbon, Portugal / Swindon, UK",
+      "platform_name": "AR3/AR5",
+      "variants": [
+        "AR3 Net Ray",
+        "AR5"
+      ],
+      "category": "tactical_isr",
+      "specs": {
+        "type": "fixed-wing tactical ISTAR",
+        "endurance_hours": "8-16",
+        "flight_hours_total": "10000+",
+        "ar5_class": "MALE, SATCOM BLOS"
+      },
+      "tags": [
+        "isr",
+        "combat-proven",
+        "fixed-wing",
+        "blos"
+      ],
+      "country": "UK"
+    },
+    {
+      "id": "malloy-t150",
+      "manufacturer": "Malloy Aeronautics / BAE Systems",
+      "manufacturer_hq": "UK",
+      "platform_name": "T-150",
+      "category": "heavy_lift_vtol",
+      "specs": {
+        "type": "heavy-lift VTOL multirotor",
+        "payload_kg": 68,
+        "note": "Released to service RN/RM. Missile-armed variant tested July 2025"
+      },
+      "tags": [
+        "heavy-lift",
+        "vtol",
+        "combat-proven",
+        "logistics",
+        "strike-variant"
+      ],
+      "country": "UK"
+    },
+    {
+      "id": "arquimea-qslam",
+      "manufacturer": "Arquimea",
+      "manufacturer_hq": "Madrid, Spain",
+      "platform_name": "Q-SLAM Family",
+      "variants": [
+        "Q-SLAM-40",
+        "Q-SLAM-100"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "man-portable loitering munition family",
+        "qslam40_weight_kg": 4.2,
+        "qslam40_range_km": 15,
+        "qslam100_weight_kg": 12
+      },
+      "tags": [
+        "loitering-munition",
+        "man-portable",
+        "anti-armor"
+      ],
+      "country": "Spain"
+    },
+    {
+      "id": "deltaquad-evo",
+      "manufacturer": "DeltaQuad",
+      "manufacturer_hq": "Netherlands",
+      "platform_name": "Evo Tactical",
+      "category": "vtol_fixed_wing_isr",
+      "specs": {
+        "type": "VTOL fixed-wing ISR",
+        "endurance_hours": 8,
+        "range_km": 500,
+        "ew_resistance": true
+      },
+      "tags": [
+        "vtol",
+        "fixed-wing",
+        "isr",
+        "combat-proven",
+        "ew-resistant"
+      ],
+      "country": "Netherlands"
+    },
+    {
+      "id": "saab-skeldar-v200",
+      "manufacturer": "Saab / UMS Skeldar",
+      "manufacturer_hq": "Sweden",
+      "platform_name": "Skeldar V-200",
+      "category": "rotary_maritime_isr",
+      "specs": {
+        "type": "rotary-wing maritime UAS",
+        "endurance_hours": 6,
+        "ship_deck_capable": true
+      },
+      "tags": [
+        "rotary",
+        "maritime",
+        "isr",
+        "ship-deck"
+      ],
+      "country": "Sweden"
+    },
+    {
+      "id": "alx-systems-lm",
+      "manufacturer": "ALX Systems",
+      "manufacturer_hq": "Belgium",
+      "platform_name": "ALX Tactical LM",
+      "category": "loitering_munition",
+      "specs": {
+        "type": "Belgian-made tactical loitering munition",
+        "range_km": 50,
+        "gps_denied_capable": true
+      },
+      "tags": [
+        "loitering-munition",
+        "sovereign",
+        "gps-denied"
+      ],
+      "country": "Belgium"
+    },
+    {
+      "id": "taf-kolibri",
+      "manufacturer": "TAF Industries",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Kolibri Series",
+      "variants": [
+        "Kolibri 7in",
+        "Kolibri 8in",
+        "Kolibri 10in",
+        "Fiber variants"
+      ],
+      "category": "fpv_strike",
+      "specs": {
+        "type": "FPV kamikaze quadcopter",
+        "warhead_kg": 1.5,
+        "range_km": 12,
+        "ai": "Last Mile AI-assisted targeting",
+        "fiber_optic_variant": true
+      },
+      "tags": [
+        "fpv",
+        "strike",
+        "mass-production",
+        "combat-proven",
+        "fiber-optic",
+        "ai-targeting"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "vyriy-molfar",
+      "manufacturer": "Vyriy Drone",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Molfar FPV Series",
+      "category": "fpv_strike",
+      "specs": {
+        "type": "FPV kamikaze",
+        "frequency": "sub-1 GHz anti-jamming",
+        "domestic_components_pct": 80
+      },
+      "tags": [
+        "fpv",
+        "strike",
+        "anti-jamming",
+        "combat-proven"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "wild-hornets-fpv",
+      "manufacturer": "Wild Hornets",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Wild Hornets FPV Family",
+      "variants": [
+        "Kamikaze",
+        "Bomber",
+        "Interceptor",
+        "Heavy-lift"
+      ],
+      "category": "fpv_strike",
+      "specs": {
+        "type": "FPV multi-role family",
+        "note": "100+ military units. Interceptor reduced Lancet strikes 75%"
+      },
+      "tags": [
+        "fpv",
+        "strike",
+        "interceptor",
+        "combat-proven",
+        "multi-role"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "escadrone-fpv",
+      "manufacturer": "Escadrone",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Escadrone FPV",
+      "category": "fpv_strike",
+      "specs": {
+        "type": "FPV kamikaze (pioneered FPV combat Sept 2022)",
+        "unit_cost_usd": "341-500"
+      },
+      "tags": [
+        "fpv",
+        "strike",
+        "combat-proven",
+        "pioneer"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "ukrspecsystems-shark",
+      "manufacturer": "UkrSpecSystems",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Shark",
+      "variants": [
+        "Shark",
+        "PD-2",
+        "Leleka-100",
+        "MiniShark"
+      ],
+      "category": "tactical_isr",
+      "specs": {
+        "type": "catapult-launched fixed-wing ISR",
+        "range_km": 80,
+        "system_cost_usd": 520000,
+        "pd2_endurance_hours": 10,
+        "pd2_mtow_kg": 45,
+        "anti_jam": true
+      },
+      "tags": [
+        "isr",
+        "fixed-wing",
+        "combat-proven",
+        "anti-jam"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "aerorozvidka-r18",
+      "manufacturer": "Aerorozvidka",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "R18 Octocopter",
+      "category": "heavy_multirotor_strike",
+      "specs": {
+        "type": "octocopter bomber/strike",
+        "payload_kg": 5
+      },
+      "tags": [
+        "octocopter",
+        "strike",
+        "bomber",
+        "combat-proven"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "ua-dynamics-punisher",
+      "manufacturer": "UA Dynamics",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "Punisher",
+      "category": "fixed_wing_strike",
+      "specs": {
+        "type": "reusable fixed-wing strike drone",
+        "range_km": 45,
+        "speed_kmh": 190,
+        "units_deployed": "230+"
+      },
+      "tags": [
+        "fixed-wing",
+        "strike",
+        "reusable",
+        "combat-proven",
+        "sof"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "ukrjet-uj26-bober",
+      "manufacturer": "UkrJet",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "UJ-26 Bober",
+      "variants": [
+        "UJ-26 Bober",
+        "UJ-25 Skyline",
+        "UJ-22 Airborne"
+      ],
+      "category": "deep_strike",
+      "specs": {
+        "type": "long-range fixed-wing kamikaze",
+        "range_km": 1000
+      },
+      "tags": [
+        "deep-strike",
+        "long-range",
+        "kamikaze",
+        "combat-proven"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "terminal-autonomy-aq400",
+      "manufacturer": "Terminal Autonomy",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "AQ-400 Scythe",
+      "category": "deep_strike",
+      "specs": {
+        "type": "fixed-wing kamikaze (plywood)",
+        "range_km": 750,
+        "unit_cost_usd": 30000
+      },
+      "tags": [
+        "deep-strike",
+        "ultra-low-cost",
+        "mass-production",
+        "combat-proven"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "skyeton-raybird3",
+      "manufacturer": "Skyeton",
+      "manufacturer_hq": "Ukraine/Slovakia",
+      "platform_name": "Raybird-3",
+      "category": "deep_isr",
+      "specs": {
+        "type": "long-endurance fixed-wing ISR",
+        "endurance_hours": 28,
+        "range_km": 2500
+      },
+      "tags": [
+        "isr",
+        "long-endurance",
+        "deep-isr",
+        "combat-proven"
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "id": "wb-warmate3",
+      "manufacturer": "WB Group",
+      "manufacturer_hq": "Warsaw, Poland",
+      "platform_name": "Warmate / FlyEye",
+      "variants": [
+        "Warmate 3.0",
+        "Warmate 20",
+        "FlyEye"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "LM + ISR family",
+        "warmate_weight_kg": 5.3,
+        "warmate_endurance_min": 70,
+        "warmate_range_km": 30,
+        "warmate20_warhead_kg": 20,
+        "flyeye_weight_kg": 12,
+        "flyeye_endurance_hours": 2.5,
+        "flyeye_units_produced": "1000+",
+        "gps_denied_capable": true
+      },
+      "tags": [
+        "loitering-munition",
+        "isr",
+        "combat-proven",
+        "gps-denied",
+        "nato"
+      ],
+      "country": "Poland"
+    },
+    {
+      "id": "primoco-one150",
+      "manufacturer": "Primoco UAV",
+      "manufacturer_hq": "Czech Republic",
+      "platform_name": "One 150",
+      "category": "tactical_isr",
+      "specs": {
+        "type": "fixed-wing tactical ISR",
+        "weight_kg": 150,
+        "endurance_hours": 15,
+        "range_km": 1800,
+        "note": "First in class certified NATO STANAG 4703"
+      },
+      "tags": [
+        "isr",
+        "fixed-wing",
+        "certified",
+        "nato",
+        "export"
+      ],
+      "country": "Czech Republic"
+    },
+    {
+      "id": "threod-eos-c",
+      "manufacturer": "Threod Systems",
+      "manufacturer_hq": "Estonia",
+      "platform_name": "EOS C VTOL",
+      "category": "vtol_isr",
+      "specs": {
+        "type": "VTOL ISR drone"
+      },
+      "tags": [
+        "vtol",
+        "isr",
+        "baltic"
+      ],
+      "country": "Estonia"
+    },
+    {
+      "id": "krattworks-ghost-dragon",
+      "manufacturer": "KrattWorks",
+      "manufacturer_hq": "Estonia",
+      "platform_name": "Ghost Dragon",
+      "category": "tactical_isr",
+      "specs": {
+        "type": "ISR quadcopter with neural-net GPS-denied navigation",
+        "gps_denied_capable": true
+      },
+      "tags": [
+        "isr",
+        "quadcopter",
+        "gps-denied",
+        "ai-navigation",
+        "baltic"
+      ],
+      "country": "Estonia"
+    },
+    {
+      "id": "origin-robotics-beak",
+      "manufacturer": "Origin Robotics",
+      "manufacturer_hq": "Latvia",
+      "platform_name": "BEAK",
+      "category": "autonomous_combat",
+      "specs": {
+        "type": "autonomous combat drone"
+      },
+      "tags": [
+        "autonomous",
+        "combat",
+        "baltic",
+        "combat-proven"
+      ],
+      "country": "Latvia"
+    },
+    {
+      "id": "baykar-tb2",
+      "manufacturer": "Baykar Technology",
+      "manufacturer_hq": "Istanbul, Turkey",
+      "platform_name": "Bayraktar TB2",
+      "category": "tactical_ucav",
+      "specs": {
+        "type": "tactical MALE UCAV",
+        "mtow_kg": 700,
+        "endurance_hours": 27,
+        "flight_hours_global": "1M+",
+        "combat_proven_in": [
+          "Libya",
+          "Syria",
+          "Nagorno-Karabakh",
+          "Ukraine",
+          "Ethiopia",
+          "Pakistan-India 2025"
+        ]
+      },
+      "tags": [
+        "ucav",
+        "male",
+        "combat-proven",
+        "mass-export"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "baykar-akinci",
+      "manufacturer": "Baykar Technology",
+      "manufacturer_hq": "Istanbul, Turkey",
+      "platform_name": "Bayraktar Akinci",
+      "category": "heavy_ucav",
+      "specs": {
+        "type": "heavy UCAV",
+        "mtow_kg": 6000,
+        "payload_kg": 1500,
+        "endurance_hours": 24,
+        "sensors": "AESA radar"
+      },
+      "tags": [
+        "ucav",
+        "heavy",
+        "aesa",
+        "export"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "baykar-kizilelma",
+      "manufacturer": "Baykar Technology",
+      "manufacturer_hq": "Istanbul, Turkey",
+      "platform_name": "Bayraktar Kizilelma (MIUS)",
+      "category": "jet_ucav",
+      "specs": {
+        "type": "jet-powered stealth unmanned fighter",
+        "mtow_kg": 8500,
+        "speed": "Mach 0.9",
+        "sensors": "AESA radar, internal weapons bays",
+        "milestones": "First UCAV BVR air-to-air kill (Nov 2025), first autonomous close formation (Dec 2025)"
+      },
+      "tags": [
+        "jet-ucav",
+        "stealth",
+        "air-to-air",
+        "autonomous",
+        "first-of-kind"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "baykar-k2",
+      "manufacturer": "Baykar Technology",
+      "manufacturer_hq": "Istanbul, Turkey",
+      "platform_name": "K2 Kamikaze",
+      "category": "loitering_munition",
+      "specs": {
+        "type": "long-range AI swarm kamikaze",
+        "weight_kg": 800,
+        "warhead_kg": 200,
+        "range_km": 2000,
+        "swarm_capable": true,
+        "note": "Multi-day formation flight tests completed March 2026"
+      },
+      "tags": [
+        "loitering-munition",
+        "deep-strike",
+        "swarm",
+        "ai-enabled"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "tai-anka-series",
+      "manufacturer": "TAI/TUSAS",
+      "manufacturer_hq": "Ankara, Turkey",
+      "platform_name": "Anka Series",
+      "variants": [
+        "Anka-S",
+        "Aksungur",
+        "Anka-3 (stealth)"
+      ],
+      "category": "male_ucav",
+      "specs": {
+        "type": "MALE UCAV family",
+        "endurance_hours": 24,
+        "units_built": "100+",
+        "anka3": "stealth flying-wing UCAV, 6500kg, internal weapons bay"
+      },
+      "tags": [
+        "ucav",
+        "male",
+        "stealth",
+        "combat-proven"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "stm-kargu",
+      "manufacturer": "STM",
+      "manufacturer_hq": "Ankara, Turkey",
+      "platform_name": "Kargu",
+      "variants": [
+        "Kargu-2",
+        "Alpagu"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "rotary-wing loitering munition",
+        "weight_kg": 6.3,
+        "ai": "AI facial recognition, autonomous target engagement",
+        "swarm_capable": true,
+        "swarm_tested": "20-drone live-fire (Jan 2026), up to 30 coordinated",
+        "note": "UN-reported first autonomous lethal drone engagement (Libya)"
+      },
+      "tags": [
+        "loitering-munition",
+        "rotary",
+        "swarm",
+        "ai-enabled",
+        "combat-proven",
+        "autonomous-lethal"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "asisguard-songar",
+      "manufacturer": "Asisguard",
+      "manufacturer_hq": "Ankara, Turkey",
+      "platform_name": "Songar",
+      "category": "armed_multirotor",
+      "specs": {
+        "type": "armed quadrotor",
+        "weight_kg": 45,
+        "weapons": [
+          "machine gun",
+          "40mm grenade launcher",
+          "mortar",
+          "rocket"
+        ]
+      },
+      "tags": [
+        "armed",
+        "quadrotor",
+        "multi-weapon",
+        "combat-proven"
+      ],
+      "country": "Turkey"
+    },
+    {
+      "id": "elbit-hermes900",
+      "manufacturer": "Elbit Systems",
+      "manufacturer_hq": "Haifa, Israel",
+      "platform_name": "Hermes 900",
+      "variants": [
+        "Hermes 900",
+        "Hermes 450",
+        "StarLiner"
+      ],
+      "category": "male_ucav",
+      "specs": {
+        "type": "MALE UCAV/ISR",
+        "endurance_hours": 30,
+        "combat_proven_in": [
+          "Gaza",
+          "Lebanon",
+          "Iran"
+        ]
+      },
+      "tags": [
+        "male",
+        "ucav",
+        "isr",
+        "combat-proven"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "elbit-skylark",
+      "manufacturer": "Elbit Systems",
+      "manufacturer_hq": "Haifa, Israel",
+      "platform_name": "Skylark Family",
+      "variants": [
+        "Skylark I-LE",
+        "Skylark 3 Hybrid",
+        "Thor Mini"
+      ],
+      "category": "mini_isr",
+      "specs": {
+        "type": "hand-launched mini ISR family",
+        "customers": "30+",
+        "flight_hours": "100000+",
+        "thor_mini_units": "1000+"
+      },
+      "tags": [
+        "mini",
+        "isr",
+        "hand-launched",
+        "export"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "elbit-lanius",
+      "manufacturer": "Elbit Systems",
+      "manufacturer_hq": "Haifa, Israel",
+      "platform_name": "Lanius",
+      "category": "micro_indoor_lm",
+      "specs": {
+        "type": "micro indoor loitering munition",
+        "weight_kg": 1.25,
+        "ai": "Autonomous SLAM, NVIDIA Jetson",
+        "note": "Deployed in Gaza"
+      },
+      "tags": [
+        "micro",
+        "indoor",
+        "loitering-munition",
+        "ai-enabled",
+        "combat-proven"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "iai-harop",
+      "manufacturer": "Israel Aerospace Industries",
+      "manufacturer_hq": "Lod, Israel",
+      "platform_name": "Harop/Harpy",
+      "variants": [
+        "Harop",
+        "Harpy",
+        "Mini Harpy"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "loitering munition family",
+        "harop_warhead_kg": 23,
+        "harop_endurance_hours": 6,
+        "harpy_range_km": 500,
+        "harpy_type": "anti-radiation",
+        "combat_proven_in": [
+          "Azerbaijan",
+          "Syria",
+          "India-Pakistan 2025"
+        ]
+      },
+      "tags": [
+        "loitering-munition",
+        "anti-radiation",
+        "combat-proven",
+        "export"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "aeronautics-orbiter",
+      "manufacturer": "Aeronautics Group",
+      "manufacturer_hq": "Israel",
+      "platform_name": "Orbiter Series",
+      "variants": [
+        "Orbiter 2",
+        "Orbiter 3",
+        "Orbiter 4",
+        "Dominator XP"
+      ],
+      "category": "tactical_isr",
+      "specs": {
+        "type": "tactical ISR family",
+        "orbiter2_units_sold": "2000+",
+        "export_countries": "35+"
+      },
+      "tags": [
+        "isr",
+        "tactical",
+        "export",
+        "family"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "xtend-xos",
+      "manufacturer": "XTEND",
+      "manufacturer_hq": "Israel (mfg Tampa FL)",
+      "platform_name": "XTEND XOS Platform",
+      "category": "ai_fpv_swarm",
+      "specs": {
+        "type": "VR-operated AI tactical drone system",
+        "ai": "XOS operating system, Mark & Fly AR/VR",
+        "swarm_capable": true,
+        "combat_proven_in": "5+ war zones",
+        "integration": "Lockheed MDCX (JADC2)"
+      },
+      "tags": [
+        "ai-enabled",
+        "fpv",
+        "swarm",
+        "combat-proven",
+        "vr-operated"
+      ],
+      "country": "Israel"
+    },
+    {
+      "id": "edge-qx-family",
+      "manufacturer": "EDGE Group / ADASI / HALCON",
+      "manufacturer_hq": "Abu Dhabi, UAE",
+      "platform_name": "QX/Shadow/Hunter Family",
+      "variants": [
+        "QX-1",
+        "QX-3",
+        "Shadow 25/50",
+        "Hunter 2-S"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "family of loitering munitions (6 variants)",
+        "hunter2s_swarm_capable": true
+      },
+      "tags": [
+        "loitering-munition",
+        "family",
+        "swarm",
+        "middle-east"
+      ],
+      "country": "UAE"
+    },
+    {
+      "id": "hesa-shahed136",
+      "manufacturer": "HESA / Iran Aviation Industries",
+      "manufacturer_hq": "Isfahan, Iran",
+      "platform_name": "Shahed Family",
+      "variants": [
+        "Shahed-131",
+        "Shahed-136",
+        "Shahed-238"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "one-way attack UAV family",
+        "shahed136_range_km": "1000-2500",
+        "shahed136_cost_usd": "20000-50000",
+        "shahed136_launched_vs_ukraine": "2628+ in 6 months",
+        "shahed238_speed_kmh": 500,
+        "shahed238_guidance": [
+          "GPS/INS",
+          "IR-seeker",
+          "radar-seeking SEAD"
+        ],
+        "ai_upgrade": "NVIDIA Jetson autonomous target-finding (MS series June 2025)"
+      },
+      "tags": [
+        "loitering-munition",
+        "mass-production",
+        "combat-proven",
+        "deep-strike",
+        "ultra-low-cost"
+      ],
+      "country": "Iran"
+    },
+    {
+      "id": "avic-wing-loong",
+      "manufacturer": "AVIC / Chengdu Aircraft",
+      "manufacturer_hq": "Chengdu, China",
+      "platform_name": "Wing Loong Series",
+      "variants": [
+        "Wing Loong I",
+        "Wing Loong II",
+        "Wing Loong III"
+      ],
+      "category": "male_ucav",
+      "specs": {
+        "type": "MALE UCAV export family",
+        "wl2_mtow_kg": 4200,
+        "wl2_endurance_hours": 20,
+        "wl2_payload_kg": 480,
+        "unit_cost_usd": "~1M",
+        "exports": "100+ to 17 countries"
+      },
+      "tags": [
+        "ucav",
+        "male",
+        "export",
+        "mass-production"
+      ],
+      "country": "China"
+    },
+    {
+      "id": "casc-ch-series",
+      "manufacturer": "CASC",
+      "manufacturer_hq": "Beijing, China",
+      "platform_name": "CH (Rainbow) Series",
+      "variants": [
+        "CH-4",
+        "CH-5",
+        "CH-7",
+        "CH-901"
+      ],
+      "category": "male_ucav_and_lm",
+      "specs": {
+        "type": "UCAV and loitering munition family",
+        "ch4_combat_proven": "260+ Iraqi strikes vs ISIS",
+        "ch5_endurance_hours": "40-60",
+        "ch7_type": "stealth UCAV, Mach 0.75, flying wing",
+        "ch901_weight_kg": 9,
+        "ch901_type": "tube-launched LM, 48-tube vehicle launchers"
+      },
+      "tags": [
+        "ucav",
+        "male",
+        "loitering-munition",
+        "stealth",
+        "export",
+        "combat-proven"
+      ],
+      "country": "China"
+    },
+    {
+      "id": "hongdu-gj11",
+      "manufacturer": "Hongdu / AVIC",
+      "manufacturer_hq": "Nanchang, China",
+      "platform_name": "GJ-11 Sharp Sword",
+      "category": "stealth_ucav",
+      "specs": {
+        "type": "stealth flying-wing UCAV",
+        "payload_kg": 2000,
+        "note": "Loyal wingman to J-20, operational PLAAF ~2021, naval variant for Type 076"
+      },
+      "tags": [
+        "stealth",
+        "ucav",
+        "flying-wing",
+        "loyal-wingman"
+      ],
+      "country": "China"
+    },
+    {
+      "id": "tengden-tb001",
+      "manufacturer": "Tengden",
+      "manufacturer_hq": "Sichuan, China",
+      "platform_name": "TB-001 Twin-Tailed Scorpion",
+      "category": "male_ucav",
+      "specs": {
+        "type": "twin-boom MALE",
+        "mtow_kg": 3200,
+        "endurance_hours": 35,
+        "range_km": 6000
+      },
+      "tags": [
+        "male",
+        "ucav",
+        "isr",
+        "anti-ship-support"
+      ],
+      "country": "China"
+    },
+    {
+      "id": "norinco-feilong300d",
+      "manufacturer": "Norinco",
+      "manufacturer_hq": "Beijing, China",
+      "platform_name": "Feilong-300D",
+      "category": "loitering_munition",
+      "specs": {
+        "type": "Shahed-136 analog OWA",
+        "unit_cost_usd": "~10000"
+      },
+      "tags": [
+        "loitering-munition",
+        "ultra-low-cost",
+        "export"
+      ],
+      "country": "China"
+    },
+    {
+      "id": "kai-kus-fs",
+      "manufacturer": "Korean Air / KAI",
+      "manufacturer_hq": "South Korea",
+      "platform_name": "KUS-FS MUAV",
+      "category": "male_ucav",
+      "specs": {
+        "type": "MALE ISR/strike",
+        "endurance_hours": 30,
+        "contract_value_usd": 353600000
+      },
+      "tags": [
+        "male",
+        "ucav",
+        "isr"
+      ],
+      "country": "South Korea"
+    },
+    {
+      "id": "ideaforge-switch",
+      "manufacturer": "ideaForge",
+      "manufacturer_hq": "Mumbai, India",
+      "platform_name": "SWITCH / Netra",
+      "category": "tactical_isr",
+      "specs": {
+        "type": "tactical ISR quadcopter family",
+        "units_deployed": "700+",
+        "combat_proven_in": [
+          "Operation Sindoor (India-Pakistan 2025)"
+        ]
+      },
+      "tags": [
+        "isr",
+        "quadcopter",
+        "combat-proven"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "solar-nagastra1",
+      "manufacturer": "Solar Industries",
+      "manufacturer_hq": "Nagpur, India",
+      "platform_name": "Nagastra-1",
+      "category": "loitering_munition",
+      "specs": {
+        "type": "man-portable loitering munition",
+        "combat_proven_in": [
+          "Operation Sindoor May 2025"
+        ]
+      },
+      "tags": [
+        "loitering-munition",
+        "man-portable",
+        "combat-proven",
+        "indigenous"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "sypaq-corvo",
+      "manufacturer": "SYPAQ",
+      "manufacturer_hq": "Melbourne, Australia",
+      "platform_name": "Corvo PPDS",
+      "category": "expendable_strike",
+      "specs": {
+        "type": "cardboard expendable drone",
+        "weight_kg": 2.4,
+        "range_km": 120,
+        "unit_cost_usd": "670-3350",
+        "gps_denied_capable": true,
+        "note": "Radar-invisible. Combat-proven Ukraine"
+      },
+      "tags": [
+        "expendable",
+        "ultra-low-cost",
+        "combat-proven",
+        "stealth"
+      ],
+      "country": "Australia"
+    },
+    {
+      "id": "ncsist-chien-hsiang",
+      "manufacturer": "NCSIST",
+      "manufacturer_hq": "Taiwan",
+      "platform_name": "Chien Hsiang",
+      "variants": [
+        "Chien Hsiang",
+        "Albatross II"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "type": "anti-radiation loitering munition"
+      },
+      "tags": [
+        "loitering-munition",
+        "anti-radiation",
+        "indigenous"
+      ],
+      "country": "Taiwan"
+    },
+    {
+      "id": "st-engineering-skyblade",
+      "manufacturer": "ST Engineering",
+      "manufacturer_hq": "Singapore",
+      "platform_name": "Skyblade / EagleStrike",
+      "variants": [
+        "Skyblade 360",
+        "EagleStrike LM",
+        "DroNet"
+      ],
+      "category": "tactical_isr_and_lm",
+      "specs": {
+        "type": "tactical ISR and LM family",
+        "dronet": "AI-powered drone operating platform"
+      },
+      "tags": [
+        "isr",
+        "loitering-munition",
+        "ai-platform"
+      ],
+      "country": "Singapore"
+    },
+    {
+      "manufacturer": "Helsing",
+      "name": "HX-2 Karma",
+      "country": "Germany",
+      "category": "loitering_munition",
+      "weight_kg": 12,
+      "range_km": 100,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Stark Defence",
+      "name": "OWE-V Virtus",
+      "country": "Germany",
+      "category": "loitering_munition",
+      "range_km": 100,
+      "payload_kg": 5,
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Quantum Systems",
+      "name": "Vector AI",
+      "country": "Germany",
+      "category": "evtol_fixed_wing_isr",
+      "range_km": 30,
+      "endurance_min": 180,
+      "compliance": "blue_uas",
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Rheinmetall",
+      "name": "LUNA NG (HUSAR)",
+      "country": "Germany",
+      "category": "tactical_isr",
+      "range_km": 150,
+      "endurance_min": 720,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Rheinmetall/UVision",
+      "name": "Hero Family (EU)",
+      "country": "Germany/Italy",
+      "category": "loitering_munition",
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Delair/KNDS",
+      "name": "MV-25 OSKAR",
+      "country": "France",
+      "category": "loitering_munition",
+      "weight_kg": 2.3,
+      "range_km": 25,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Safran",
+      "name": "Patroller",
+      "country": "France",
+      "category": "tactical_male",
+      "weight_kg": 1050,
+      "endurance_min": 1200,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Novadem",
+      "name": "NX70",
+      "country": "France",
+      "category": "micro_isr",
+      "weight_kg": 1,
+      "endurance_min": 45,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Tekever",
+      "name": "AR3/AR5",
+      "country": "Portugal/UK",
+      "category": "tactical_isr_male",
+      "endurance_min": 960,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Malloy/BAE Systems",
+      "name": "T-150",
+      "country": "UK",
+      "category": "heavy_lift_vtol",
+      "payload_kg": 68,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Arquimea",
+      "name": "Q-SLAM-40/100",
+      "country": "Spain",
+      "category": "loitering_munition",
+      "weight_kg": 4.2,
+      "range_km": 15,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "DeltaQuad",
+      "name": "Evo Tactical",
+      "country": "Netherlands",
+      "category": "vtol_fixed_wing_isr",
+      "range_km": 500,
+      "endurance_min": 480,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Saab/UMS Skeldar",
+      "name": "V-200",
+      "country": "Sweden",
+      "category": "rotary_naval_isr",
+      "endurance_min": 360,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Saab/BlueBear",
+      "name": "Centurion Swarm",
+      "country": "Sweden/UK",
+      "category": "swarm_autonomy",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "ALX Systems",
+      "name": "Tactical LM",
+      "country": "Belgium",
+      "category": "loitering_munition",
+      "range_km": 50,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "TAF Industries",
+      "name": "Kolibri Series",
+      "country": "Ukraine",
+      "category": "fpv_strike",
+      "range_km": 12,
+      "payload_kg": 1.5,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Vyriy",
+      "name": "Molfar FPV",
+      "country": "Ukraine",
+      "category": "fpv_strike",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Wild Hornets",
+      "name": "FPV Kamikaze/Interceptor",
+      "country": "Ukraine",
+      "category": "fpv_strike",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Escadrone",
+      "name": "FPV Strike",
+      "country": "Ukraine",
+      "category": "fpv_strike",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "UkrSpecSystems",
+      "name": "Shark/PD-2/Leleka",
+      "country": "Ukraine",
+      "category": "tactical_isr",
+      "range_km": 80,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Terminal Autonomy",
+      "name": "AQ-400 Scythe",
+      "country": "Ukraine",
+      "category": "deep_strike_owa",
+      "range_km": 750,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "UkrJet",
+      "name": "UJ-26 Bober/UJ-25",
+      "country": "Ukraine",
+      "category": "deep_strike_owa",
+      "range_km": 1000,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Skyeton",
+      "name": "Raybird-3",
+      "country": "Ukraine/Slovakia",
+      "category": "long_range_isr",
+      "range_km": 2500,
+      "endurance_min": 1680,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Aerorozvidka",
+      "name": "R18 Octocopter",
+      "country": "Ukraine",
+      "category": "multirotor_strike",
+      "payload_kg": 5,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "UA Dynamics",
+      "name": "Punisher",
+      "country": "Ukraine",
+      "category": "fixed_wing_strike",
+      "range_km": 45,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "WB Group",
+      "name": "Warmate 3.0",
+      "country": "Poland",
+      "category": "loitering_munition",
+      "weight_kg": 5.3,
+      "range_km": 30,
+      "endurance_min": 70,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "WB Group",
+      "name": "FlyEye",
+      "country": "Poland",
+      "category": "tactical_isr",
+      "weight_kg": 12,
+      "endurance_min": 150,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "WB Group",
+      "name": "Warmate 20",
+      "country": "Poland",
+      "category": "loitering_munition",
+      "payload_kg": 20,
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Primoco UAV",
+      "name": "One 150",
+      "country": "Czech Republic",
+      "category": "tactical_isr",
+      "weight_kg": 150,
+      "range_km": 1800,
+      "endurance_min": 900,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Threod Systems",
+      "name": "EOS C VTOL",
+      "country": "Estonia",
+      "category": "tactical_isr",
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "KrattWorks",
+      "name": "Ghost Dragon",
+      "country": "Estonia",
+      "category": "tactical_isr",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Origin Robotics",
+      "name": "BEAK",
+      "country": "Latvia",
+      "category": "fpv_strike",
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "UDS",
+      "name": "Swarm Platform",
+      "country": "Lithuania",
+      "category": "swarm_autonomy",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Baykar",
+      "name": "Bayraktar TB2",
+      "country": "Turkey",
+      "category": "male_ucav",
+      "weight_kg": 700,
+      "endurance_min": 1620,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Baykar",
+      "name": "Ak\u0131nc\u0131",
+      "country": "Turkey",
+      "category": "male_ucav",
+      "weight_kg": 6000,
+      "endurance_min": 1440,
+      "payload_kg": 1500,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Baykar",
+      "name": "K\u0131z\u0131lelma (MIUS)",
+      "country": "Turkey",
+      "category": "stealth_ucav_fighter",
+      "weight_kg": 8500,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Baykar",
+      "name": "K2 Kamikaze",
+      "country": "Turkey",
+      "category": "loitering_munition",
+      "weight_kg": 800,
+      "range_km": 2000,
+      "payload_kg": 200,
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "TAI/TUSA\u015e",
+      "name": "Anka/Anka-3",
+      "country": "Turkey",
+      "category": "male_ucav",
+      "endurance_min": 1440,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "STM",
+      "name": "Kargu-2",
+      "country": "Turkey",
+      "category": "loitering_munition",
+      "weight_kg": 6.3,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Asisguard",
+      "name": "Songar",
+      "country": "Turkey",
+      "category": "armed_multirotor",
+      "weight_kg": 45,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Elbit Systems",
+      "name": "Hermes 900",
+      "country": "Israel",
+      "category": "male_isr_strike",
+      "endurance_min": 1800,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Elbit Systems",
+      "name": "Skylark/Thor/Lanius",
+      "country": "Israel",
+      "category": "mini_tactical",
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "IAI",
+      "name": "Harop/Harpy",
+      "country": "Israel",
+      "category": "loitering_munition",
+      "range_km": 500,
+      "endurance_min": 360,
+      "payload_kg": 23,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Aeronautics Group",
+      "name": "Orbiter/Dominator",
+      "country": "Israel",
+      "category": "tactical_isr",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "XTEND",
+      "name": "XOS Platform",
+      "country": "Israel/USA",
+      "category": "ai_fpv_swarm",
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "EDGE Group/ADASI",
+      "name": "QX/Shadow/Hunter",
+      "country": "UAE",
+      "category": "loitering_munition_isr",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "HESA/IRGC",
+      "name": "Shahed-136/238",
+      "country": "Iran",
+      "category": "loitering_munition",
+      "range_km": 2500,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "AVIC/Chengdu",
+      "name": "Wing Loong I/II",
+      "country": "China",
+      "category": "male_ucav",
+      "weight_kg": 4200,
+      "endurance_min": 1200,
+      "payload_kg": 480,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "CASC",
+      "name": "CH-4/5/7",
+      "country": "China",
+      "category": "male_ucav",
+      "endurance_min": 3600,
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "CASC",
+      "name": "CH-901",
+      "country": "China",
+      "category": "loitering_munition",
+      "weight_kg": 9,
+      "endurance_min": 120,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Hongdu/AVIC",
+      "name": "GJ-11 Sharp Sword",
+      "country": "China",
+      "category": "stealth_ucav",
+      "payload_kg": 2000,
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Tengden",
+      "name": "TB-001",
+      "country": "China",
+      "category": "male_isr",
+      "weight_kg": 3200,
+      "range_km": 6000,
+      "endurance_min": 2100,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Norinco",
+      "name": "Feilong-300D",
+      "country": "China",
+      "category": "loitering_munition",
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Ziyan",
+      "name": "Blowfish A3",
+      "country": "China",
+      "category": "armed_helo_uav",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "Korean Air",
+      "name": "KUS-FS",
+      "country": "South Korea",
+      "category": "male_isr",
+      "endurance_min": 1800,
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "ideaForge",
+      "name": "Netra/SWITCH",
+      "country": "India",
+      "category": "tactical_isr",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "Solar Industries",
+      "name": "Nagastra-1",
+      "country": "India",
+      "category": "loitering_munition",
+      "combat_proven": true,
+      "ai_autonomy": false,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "SYPAQ",
+      "name": "Corvo PPDS",
+      "country": "Australia",
+      "category": "disposable_strike",
+      "weight_kg": 2.4,
+      "range_km": 120,
+      "combat_proven": true,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "manufacturer": "NCSIST",
+      "name": "Chien Hsiang/Albatross",
+      "country": "Taiwan",
+      "category": "loitering_munition",
+      "combat_proven": false,
+      "ai_autonomy": false,
+      "swarm_capable": true
+    },
+    {
+      "manufacturer": "ST Engineering",
+      "name": "Skyblade/EagleStrike",
+      "country": "Singapore",
+      "category": "tactical_isr_lm",
+      "combat_proven": false,
+      "ai_autonomy": true,
+      "swarm_capable": false
+    },
+    {
+      "id": "uvision-hero-30",
+      "manufacturer": "UVision",
+      "manufacturer_hq": "Ness Ziona, Israel",
+      "platform_name": "Hero-30",
+      "variants": [
+        "Hero-20",
+        "Hero-30",
+        "Hero-70",
+        "Hero-120",
+        "Hero-400EC",
+        "Hero-900",
+        "Hero-1250",
+        "Hero-6000"
+      ],
+      "category": "loitering_munition",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "Israeli manufacturer. Selected for US Army LMAMS. Licensed to Rheinmetall for European production."
+      },
+      "specs": {
+        "weight_kg": "0.5\u2013125 (family)",
+        "warhead_kg": "0.5\u201350 (family)",
+        "endurance_min": "varies by variant"
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "Israel"
+    },
+    {
+      "id": "skydio-x10d",
+      "manufacturer": "Skydio",
+      "manufacturer_hq": "San Mateo, CA",
+      "platform_name": "X10D",
+      "variants": [
+        "X10D",
+        "F10"
+      ],
+      "category": "tactical_isr",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS Cleared List. Army SRR Tranche 1."
+      },
+      "specs": {
+        "weight_kg": 2.2,
+        "endurance_min": 35,
+        "range_km": 6
+      },
+      "status": "production",
+      "combat_proven": false,
+      "ai_autonomy": {
+        "level": "high",
+        "note": "Industry-leading visual-inertial odometry, 360\u00b0 obstacle avoidance, NightSense zero-light navigation. Deeply integrated into own hardware \u2014 not standalone."
+      },
+      "country": "USA"
+    },
+    {
+      "id": "airlogix-gor",
+      "manufacturer": "Airlogix",
+      "manufacturer_hq": "Kyiv, Ukraine",
+      "platform_name": "GOR",
+      "category": "tactical_isr",
+      "specs": {
+        "note": "ISR quadcopter"
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "Ukraine"
+    },
+    {
+      "id": "deviro-ram-ii",
+      "manufacturer": "DeViRo",
+      "manufacturer_hq": "Kyiv, Ukraine",
+      "platform_name": "RAM II",
+      "variants": [
+        "Leleka-100",
+        "RAM II"
+      ],
+      "category": "fpv_strike",
+      "specs": {
+        "weight_kg": 8,
+        "warhead_kg": 3,
+        "range_km": 30
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "Ukraine"
+    },
+    {
+      "id": "ukrjet-uj26-bober",
+      "manufacturer": "UkrJet",
+      "manufacturer_hq": "Ukraine",
+      "platform_name": "UJ-26 Bober",
+      "variants": [
+        "UJ-22 Airborne",
+        "UJ-25 Skyline",
+        "UJ-26 Bober"
+      ],
+      "category": "deep_strike_kamikaze",
+      "specs": {
+        "range_km": 1000
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "Ukraine"
+    },
+    {
+      "id": "antonov-an196",
+      "manufacturer": "Antonov",
+      "manufacturer_hq": "Kyiv, Ukraine",
+      "platform_name": "AN-196 Liutyi",
+      "category": "deep_strike_kamikaze",
+      "specs": {
+        "range_km": 750,
+        "cost_usd": 200000
+      },
+      "status": "development",
+      "combat_proven": false,
+      "country": "Ukraine"
+    },
+    {
+      "id": "frontline-robotics-qfi",
+      "manufacturer": "Frontline Robotics / Quantum Frontline Industries",
+      "manufacturer_hq": "Ukraine/Germany",
+      "platform_name": "QFI Series",
+      "category": "fpv_strike",
+      "status": "production",
+      "combat_proven": false,
+      "country": "Ukraine"
+    },
+    {
+      "id": "kai-kus-fs",
+      "manufacturer": "KAI (Korea Aerospace Industries)",
+      "manufacturer_hq": "Sacheon, South Korea",
+      "platform_name": "Stealth Carrier-Based UCAV",
+      "category": "group3_plus_ucav",
+      "specs": {
+        "weight_kg": 6000,
+        "note": "6-ton stealth carrier-based UCAV in development. MUM-T roadmap: KF-21 controlling up to 20 unmanned aircraft."
+      },
+      "status": "development",
+      "combat_proven": false,
+      "country": "South Korea"
+    },
+    {
+      "id": "leonardo-awhero",
+      "manufacturer": "Leonardo",
+      "manufacturer_hq": "Rome, Italy",
+      "platform_name": "AWHERO",
+      "variants": [
+        "AWHERO",
+        "Falco",
+        "Falco Xplorer"
+      ],
+      "category": "tactical_isr",
+      "specs": {
+        "note": "AWHERO: rotary UAS for naval ISR. Falco family for fixed-wing ISR."
+      },
+      "status": "production",
+      "combat_proven": false,
+      "country": "Italy"
+    },
+    {
+      "id": "adani-hermes900-india",
+      "manufacturer": "Adani / Alpha Design Technologies",
+      "manufacturer_hq": "Hyderabad, India",
+      "platform_name": "Hermes 900 (Indian co-production)",
+      "variants": [
+        "Hermes 900 (co-production)",
+        "SkyStriker (co-production)"
+      ],
+      "category": "group3_plus_isr",
+      "specs": {
+        "note": "Co-manufactured with Elbit Systems. Hermes 900 MALE + SkyStriker loitering munition."
+      },
+      "status": "production",
+      "combat_proven": false,
+      "country": "India"
+    },
+    {
+      "id": "hal-cats-warrior",
+      "manufacturer": "HAL (Hindustan Aeronautics Limited)",
+      "manufacturer_hq": "Bangalore, India",
+      "platform_name": "CATS Warrior",
+      "variants": [
+        "CATS Warrior",
+        "Ghatak (DRDO)"
+      ],
+      "category": "loyal_wingman_ucav",
+      "specs": {
+        "note": "CATS Warrior: loyal wingman UCAV. Ghatak: stealth UCAV (DRDO program)."
+      },
+      "status": "development",
+      "combat_proven": false,
+      "country": "India"
+    },
+    {
+      "id": "droneshield-aus",
+      "manufacturer": "DroneShield",
+      "manufacturer_hq": "Sydney, Australia",
+      "platform_name": "DroneGun / DroneSentry",
+      "category": "counter_uas",
+      "specs": {
+        "note": "C-UAS detection and defeat systems. Not a drone manufacturer per se but critical ecosystem player."
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "Australia"
+    },
+    {
+      "id": "knds-mataris",
+      "manufacturer": "KNDS (Delair partnership)",
+      "manufacturer_hq": "Paris, France",
+      "platform_name": "MATARIS Program",
+      "variants": [
+        "MV-25 OSKAR",
+        "MV-50",
+        "MV-100"
+      ],
+      "category": "loitering_munition",
+      "specs": {
+        "weight_kg": 2.3,
+        "range_km": "25\u2013100 (family)",
+        "note": "First fully French indigenous loitering munition family"
+      },
+      "status": "production",
+      "combat_proven": true,
+      "country": "France"
+    },
+    {
+      "id": "sami-akinci-coprod",
+      "manufacturer": "SAMI (Saudi Arabian Military Industries)",
+      "manufacturer_hq": "Riyadh, Saudi Arabia",
+      "platform_name": "Ak\u0131nc\u0131 (co-production)",
+      "category": "group3_plus_ucav",
+      "specs": {
+        "note": "Co-production of Baykar Ak\u0131nc\u0131 under technology transfer agreement."
+      },
+      "status": "development",
+      "combat_proven": false,
+      "country": "Saudi Arabia"
+    }
+  ]
+}

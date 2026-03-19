@@ -1,0 +1,74 @@
+{
+  "api_version": "1.0",
+  "base_url": "https://dronewukong.github.io/forge-data",
+  "last_updated": "2026-03-19",
+  "parts": {
+    "antennas": {
+      "file": "parts/antennas.json",
+      "count": 439
+    },
+    "batteries": {
+      "file": "parts/batteries.json",
+      "count": 203
+    },
+    "build_guides": {
+      "file": "parts/build_guides.json",
+      "count": 3
+    },
+    "drone_models": {
+      "file": "parts/drone_models.json",
+      "count": 35
+    },
+    "escs": {
+      "file": "parts/escs.json",
+      "count": 148
+    },
+    "flight_controllers": {
+      "file": "parts/flight_controllers.json",
+      "count": 420
+    },
+    "fpv_cameras": {
+      "file": "parts/fpv_cameras.json",
+      "count": 199
+    },
+    "frames": {
+      "file": "parts/frames.json",
+      "count": 490
+    },
+    "gps_modules": {
+      "file": "parts/gps_modules.json",
+      "count": 74
+    },
+    "mesh_radios": {
+      "file": "parts/mesh_radios.json",
+      "count": 13
+    },
+    "motors": {
+      "file": "parts/motors.json",
+      "count": 275
+    },
+    "propellers": {
+      "file": "parts/propellers.json",
+      "count": 471
+    },
+    "receivers": {
+      "file": "parts/receivers.json",
+      "count": 167
+    },
+    "stacks": {
+      "file": "parts/stacks.json",
+      "count": 102
+    },
+    "video_transmitters": {
+      "file": "parts/video_transmitters.json",
+      "count": 125
+    }
+  },
+  "platforms": {
+    "file": "platforms/platforms.json",
+    "count": 151
+  },
+  "schema": {
+    "file": "schema/drone_parts_schema_v3.json"
+  }
+}
