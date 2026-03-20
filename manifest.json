@@ -25,7 +25,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 145
+      "count": 146
     },
     "esad": {
       "file": "parts/esad.json",
@@ -89,7 +89,7 @@
     },
     "uas_nexus_syndicate": {
       "file": "parts/uas_nexus_syndicate.json",
-      "count": 24
+      "count": 23
     },
     "video_transmitters": {
       "file": "parts/video_transmitters.json",

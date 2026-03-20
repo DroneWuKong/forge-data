@@ -931,7 +931,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -978,7 +978,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -1353,7 +1353,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -1395,7 +1395,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -1437,7 +1437,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -1705,7 +1705,7 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
     }
   },
   {
@@ -1882,7 +1882,7 @@
       "compliance": {
         "blue_uas": false,
         "ndaa_compliant": true,
-        "note": "DDG Phase I winner — procurement pathway, not Blue UAS"
+        "note": "DDG Phase I winner \u2014 procurement pathway, not Blue UAS"
       },
       "contracts": [
         {
@@ -1901,7 +1901,7 @@
         "fiber_spool_km": 20,
         "payload_kg": 1.0,
         "video": "4K zero-latency over fiber",
-        "ew_immunity": "Complete — zero RF emissions, invisible to SIGINT, immune to jamming",
+        "ew_immunity": "Complete \u2014 zero RF emissions, invisible to SIGINT, immune to jamming",
         "unit_cost_usd": {
           "daytime_basic": "~300",
           "night_fiber": "~1500"
@@ -2022,7 +2022,7 @@
     "max_flight_time_min": null,
     "max_payload_kg": null,
     "rf_bands": [],
-    "video_system": "MVX — US-built, ChaCha256 encrypted, sub-40ms latency, dual-band digital HD, 11km+ tested",
+    "video_system": "MVX \u2014 US-built, ChaCha256 encrypted, sub-40ms latency, dual-band digital HD, 11km+ tested",
     "thermal_capable": false,
     "thermal_sensor": "",
     "sdk_available": false,
@@ -2051,7 +2051,7 @@
           "Dual AR0144 CV cameras",
           "Downward thermal"
         ],
-        "video_system": "MVX — US-built, ChaCha256 encrypted, sub-40ms latency, dual-band digital HD, 11km+ tested",
+        "video_system": "MVX \u2014 US-built, ChaCha256 encrypted, sub-40ms latency, dual-band digital HD, 11km+ tested",
         "gps_denied_capable": true,
         "backtrack_mode": true,
         "controller": "Zorro Blue (gutted Radiomaster Zorro, US ModalAI electronics, ELRS 915MHz)"
@@ -2198,10 +2198,10 @@
         "strike_capable": true,
         "combat_proven": true,
         "units_delivered_ukraine": "10000+",
-        "navigation": "GNSS-independent — inertial + visual + RF-based layered nav",
+        "navigation": "GNSS-independent \u2014 inertial + visual + RF-based layered nav",
         "datalink": "Engineered for heavy jamming/spoofing",
-        "founders": "Former Danish Jægerkorpet special forces operators",
-        "note": "No public specs — strict OPSEC. Top-3 in US Army and Marine Corps FPV fly-offs."
+        "founders": "Former Danish J\u00e6gerkorpet special forces operators",
+        "note": "No public specs \u2014 strict OPSEC. Top-3 in US Army and Marine Corps FPV fly-offs."
       },
       "tags": [
         "combat-proven",
@@ -2631,7 +2631,7 @@
         "crew": 2,
         "setup_time_min": 15,
         "transport": "Pickup truck bed",
-        "ai": "Hivemind — GPS-denied, comms-contested nav, swarming (4→8→16+ teams, doubling annually)",
+        "ai": "Hivemind \u2014 GPS-denied, comms-contested nav, swarming (4\u21928\u219216+ teams, doubling annually)",
         "combat_proven": "Ukraine"
       },
       "tags": [
@@ -2693,12 +2693,12 @@
         },
         {
           "customer": "Spain",
-          "value": "€27M",
+          "value": "\u20ac27M",
           "units": 91
         },
         {
           "customer": "Romania",
-          "value": "€18.4M"
+          "value": "\u20ac18.4M"
         }
       ],
       "production": {},
@@ -2714,7 +2714,7 @@
         "range_km": 40,
         "max_speed_mph": 53,
         "ceiling_ft": 18045,
-        "sensors": "HD40-LV (720p, 10x optical zoom, LWIR 640x480, laser illuminator, 360° gimbal)",
+        "sensors": "HD40-LV (720p, 10x optical zoom, LWIR 640x480, laser illuminator, 360\u00b0 gimbal)",
         "processors": "Dual NVIDIA Jetson Orin",
         "ai": [
           "Real-time object recognition",
@@ -2787,7 +2787,7 @@
         "endurance_min": 20,
         "loiter_speed_mph": 63,
         "sprint_speed_mph": 100,
-        "warhead": "Modular — fragmentation AND EFP (new anti-armor capability)",
+        "warhead": "Modular \u2014 fragmentation AND EFP (new anti-armor capability)",
         "guidance": "GPS with Tap-to-Target on tablet FCU",
         "datalink": "Enhanced frequency-hopping DDL, AES-256",
         "wave_off": true,
@@ -2942,7 +2942,7 @@
         "warhead": "Javelin-class multi-purpose",
         "compute": "NVIDIA onboard",
         "setup_time_min": 5,
-        "note": "New — fills gap between SB 300 and SB 600. Targets LASSO requirement."
+        "note": "New \u2014 fills gap between SB 300 and SB 600. Targets LASSO requirement."
       },
       "tags": [
         "loitering-munition",
@@ -3017,8 +3017,8 @@
         "warhead_provider": "Kraken Kinetics",
         "warhead_swappable": true,
         "battery_hot_swap": true,
-        "autonomy": "Lattice AI/ML — autonomous tracking, waypoint nav, object classification",
-        "gcs": "Touchscreen — select target, standoff distance, engagement angle",
+        "autonomy": "Lattice AI/ML \u2014 autonomous tracking, waypoint nav, object classification",
+        "gcs": "Touchscreen \u2014 select target, standoff distance, engagement angle",
         "unit_cost": "Low tens of thousands"
       },
       "tags": [
@@ -3152,7 +3152,7 @@
       "gcs": {},
       "variants": [],
       "specs": {
-        "ultrablue": "Bespoke NDAA-compliant avionics stack — mission computer + flight controller, in commercial deployment since 2020",
+        "ultrablue": "Bespoke NDAA-compliant avionics stack \u2014 mission computer + flight controller, in commercial deployment since 2020",
         "microblue": "Smaller form factor variant",
         "pikeman": "100+ km strike drone",
         "warlock_5_10": "FPV strike platforms (5in and 10in)",
@@ -3425,14 +3425,14 @@
     "compliance": {
       "blue_uas": false,
       "ndaa_compliant": true,
-      "note": "DDG Phase I winner — procurement pathway, not Blue UAS"
+      "note": "DDG Phase I winner \u2014 procurement pathway, not Blue UAS"
     },
     "specs": {
       "type": "FPV quadcopter with fiber-optic link",
       "fiber_spool_km": 20,
       "payload_kg": 1.0,
       "video": "4K zero-latency over fiber",
-      "ew_immunity": "Complete — zero RF emissions, invisible to SIGINT, immune to jamming",
+      "ew_immunity": "Complete \u2014 zero RF emissions, invisible to SIGINT, immune to jamming",
       "unit_cost_usd": {
         "daytime_basic": "~300",
         "night_fiber": "~1500"
@@ -5398,7 +5398,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "Iran origin — NOT NDAA"
+      "note": "Iran origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "one-way attack UAV family",
@@ -5452,7 +5452,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "MALE UCAV export family",
@@ -5500,7 +5500,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "UCAV and loitering munition family",
@@ -5551,7 +5551,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "stealth flying-wing UCAV",
@@ -5588,7 +5588,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "twin-boom MALE",
@@ -5627,7 +5627,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "type": "Shahed-136 analog OWA",
@@ -5906,7 +5906,7 @@
     "pid": "DM-0059",
     "name": "Rheinmetall/UVision Hero Family (EU)",
     "manufacturer": "Rheinmetall/UVision",
-    "description": "Sardinia factory, €200M+ backlog, 8 variants",
+    "description": "Sardinia factory, \u20ac200M+ backlog, 8 variants",
     "vehicle_type": "fixed_wing",
     "build_class": "tactical",
     "category": "loitering_munition",
@@ -6250,7 +6250,7 @@
     "pid": "DM-0068",
     "name": "UDS Swarm Platform",
     "manufacturer": "UDS",
-    "description": "€3.2M funding, AI swarm technologies",
+    "description": "\u20ac3.2M funding, AI swarm technologies",
     "vehicle_type": "multirotor",
     "build_class": "defense",
     "category": "swarm_autonomy",
@@ -6299,7 +6299,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "mtow_kg": 9,
@@ -6336,7 +6336,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "mtow_kg": 10000,
@@ -6374,7 +6374,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "mtow_kg": 2800,
@@ -6410,7 +6410,7 @@
     "compliance": {
       "ndaa_compliant": false,
       "blue_uas": false,
-      "note": "China origin — NOT NDAA"
+      "note": "China origin \u2014 NOT NDAA"
     },
     "specs": {
       "mtow_kg": 38,
@@ -6762,7 +6762,7 @@
       "note": "Allied/partner nation (Australia)"
     },
     "specs": {
-      "note": "C-UAS company, not a drone platform — DroneGun/DroneSentry",
+      "note": "C-UAS company, not a drone platform \u2014 DroneGun/DroneSentry",
       "mtow_kg": null,
       "endurance_hr": null,
       "range_km": null,
@@ -6787,7 +6787,7 @@
     "pid": "DM-0082",
     "name": "KNDS (Delair partnership) MATARIS Program",
     "manufacturer": "KNDS (Delair partnership)",
-    "description": "France plans to procure 2,000+ loitering munitions. Four variants spanning 10–100 km range.",
+    "description": "France plans to procure 2,000+ loitering munitions. Four variants spanning 10\u2013100 km range.",
     "vehicle_type": "fixed_wing",
     "build_class": "tactical",
     "category": "loitering_munition",
@@ -6801,7 +6801,7 @@
     },
     "specs": {
       "weight_kg": 2.3,
-      "range_km": "25–100 (family)",
+      "range_km": "25\u2013100 (family)",
       "note": "First fully French indigenous loitering munition family"
     },
     "combat_proven": true,
@@ -6822,7 +6822,7 @@
   },
   {
     "pid": "DM-0083",
-    "name": "SAMI (Saudi Arabian Military Industries) Akıncı (co-production)",
+    "name": "SAMI (Saudi Arabian Military Industries) Ak\u0131nc\u0131 (co-production)",
     "manufacturer": "SAMI (Saudi Arabian Military Industries)",
     "description": "300 Saudi engineers training at Baykar in Turkey. Part of Saudi Vision 2030 defense localization.",
     "vehicle_type": "fixed_wing",
@@ -6837,7 +6837,7 @@
       "note": "Allied/partner nation (Saudi Arabia)"
     },
     "specs": {
-      "note": "Akıncı co-production with SAMI",
+      "note": "Ak\u0131nc\u0131 co-production with SAMI",
       "mtow_kg": 6000,
       "endurance_hr": 24,
       "range_km": 300,
@@ -6979,7 +6979,7 @@
   },
   {
     "pid": "DM-86",
-    "name": "Firestorm El Niño",
+    "name": "Firestorm El Ni\u00f1o",
     "manufacturer": "Firestorm Labs",
     "description": "Hand-launchable miniature precision-guided system (mPGS). Under 10 lbs, ruck-portable, launch-ready in under 30 seconds. Onboard ATR (Automatic Target Recognition) with autonomous terminal guidance. Designed for small-team organic fires and real-time ISR. Priced for mass employment.",
     "vehicle_type": "fixed_wing",
@@ -7024,7 +7024,7 @@
       "attritable"
     ],
     "variants": [
-      "El Niño"
+      "El Ni\u00f1o"
     ],
     "manufacturer_hq": "San Diego, CA, USA",
     "manufacturer_url": "https://launchfirestorm.com",
@@ -7121,7 +7121,7 @@
       "lidar_range_m": "0.2-50",
       "compute": "NVIDIA Xavier NX 16GB or Orin NX 16GB",
       "storage": "512GB M.2 SSD",
-      "forward_sensors": "Stereo camera 120mm baseline, 1280x800px, FOV 92.76° x 66.89°",
+      "forward_sensors": "Stereo camera 120mm baseline, 1280x800px, FOV 92.76\u00b0 x 66.89\u00b0",
       "downward_sensor": "Mono camera 1280x800px",
       "flight_stack": "DroneCore.OS, MAVLink-based FMU, PX4/ArduPilot compatible",
       "connectivity": "WiFi, LTE modem",
@@ -7190,5 +7190,117 @@
       "training_platform",
       "nato"
     ]
+  },
+  {
+    "pid": "MDL-2044",
+    "name": "UAS Nexus Platform One",
+    "description": "First-of-its-kind ecosystem fusing Western drone technologies. Inspired by Ukraine's decentralized FPV production model. Solder-free option available for trainer config. MOSA-first, attritable, interoperable, COTS-compatible",
+    "vehicle_type": "quad",
+    "build_class": "tactical_fpv",
+    "image_file": "",
+    "pdf_file": "",
+    "manufacturer": "UAS Nexus",
+    "manufacturer_country": "United States",
+    "ndaa_compliant": true,
+    "blue_uas": true,
+    "relations": {
+      "frames": [],
+      "motors": [],
+      "stacks": [],
+      "flight_controllers": [],
+      "escs": [],
+      "propellers": [],
+      "batteries": [],
+      "fpv_cameras": [],
+      "video_transmitters": [],
+      "receivers": [],
+      "antennas": [],
+      "gps_modules": [],
+      "companion_computers": []
+    },
+    "country": "United States",
+    "compliance": {
+      "blue_uas": true,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "NDAA \u00a7848 compliant. MOSA-first, attritable design."
+    },
+    "specs": {
+      "airframe_dimensions": "17in wide x 14in long",
+      "propeller_support": [
+        "7-inch",
+        "10-inch"
+      ],
+      "max_speed_mph": 80,
+      "flight_endurance_min": 20,
+      "power": "6S LiPO or LiON, XT60 bulkhead connector",
+      "materials": [
+        "Carbon fiber",
+        "Flexible FDM print (Shore 95A)",
+        "Stainless hardware"
+      ],
+      "cooling": "Active cooling or heatsink",
+      "production_capacity": "10,000+ aircraft/month (decentralized manufacturing)"
+    },
+    "compatible_hardware": [
+      "ModalAI VOXL2",
+      "ModalAI VOXL2 Mini",
+      "TBS Lucid H7",
+      "BrainFPV RADIX 2 HD",
+      "Raspberry Pi CM5",
+      "Orqa APB",
+      "Orqa F405 3030 FC",
+      "Auterion Skynode-S",
+      "ARK FPV"
+    ],
+    "compatible_radios": [
+      "ELRS",
+      "CRSF",
+      "GHOST",
+      "Doodle Labs",
+      "DTC",
+      "Silvus"
+    ],
+    "autopilot_software": [
+      "INAV",
+      "Betaflight",
+      "PX4",
+      "ArduPilot"
+    ],
+    "configurations": [
+      {
+        "name": "FPV Trainer or EW",
+        "description": "Learn to fly or defeat some jammers",
+        "featured_components": [
+          "ORQA Iron Ghost or TBS/ELRS radio",
+          "TBS Lucid H7 FC or Orqa F405 3030 FC",
+          "NDAA camera",
+          "3-5 kg payload",
+          "Solder-free option"
+        ]
+      },
+      {
+        "name": "Mesh Node",
+        "description": "Communications relay for comms extension in GPS-denied environments",
+        "featured_components": [
+          "VOXL 2 Mini",
+          "Choice of Doodle Labs, BlueSDR, L3Harris, or Silvus radio",
+          "Low-light EO camera"
+        ]
+      },
+      {
+        "name": "Autonomy Testing",
+        "description": "Perception and navigation testing with modular sensors and autonomy stacks",
+        "featured_components": [
+          "VOXL 2 / VOXL 2 Mini",
+          "Doodle Nano",
+          "Low-light EO camera",
+          "Perception camera",
+          "Autonomy software",
+          "Downward LiDAR"
+        ]
+      }
+    ],
+    "url": "https://syndicate.uasnexus.com/pages/platform-one"
   }
 ]
