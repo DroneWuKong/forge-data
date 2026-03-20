@@ -30,7 +30,13 @@
       "Heat gun or lighter"
     ],
     "settings": {
-      "checklist_fields": ["visual_inspection", "electrical_test", "firmware_version", "signal_check", "balance_check"]
+      "checklist_fields": [
+        "visual_inspection",
+        "electrical_test",
+        "firmware_version",
+        "signal_check",
+        "balance_check"
+      ]
     },
     "steps": [
       {
@@ -43,7 +49,16 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 10,
-        "required_components": ["FRM-1005", "MTR-1000", "STK-1000", "PRP-1009", "CAM-1001", "VTX-1028", "RCV-1000", "ANT-1017"]
+        "required_components": [
+          "FRM-1005",
+          "MTR-1000",
+          "STK-1000",
+          "PRP-1009",
+          "CAM-1001",
+          "VTX-1028",
+          "RCV-1000",
+          "ANT-1017"
+        ]
       },
       {
         "order": 2,
@@ -55,7 +70,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 10,
-        "required_components": ["FRM-1005"]
+        "required_components": [
+          "FRM-1005"
+        ]
       },
       {
         "order": 3,
@@ -67,7 +84,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 15,
-        "required_components": ["MTR-1000"]
+        "required_components": [
+          "MTR-1000"
+        ]
       },
       {
         "order": 4,
@@ -79,7 +98,10 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 25,
-        "required_components": ["STK-1000", "MTR-1000"]
+        "required_components": [
+          "STK-1000",
+          "MTR-1000"
+        ]
       },
       {
         "order": 5,
@@ -91,7 +113,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 5,
-        "required_components": ["STK-1000"]
+        "required_components": [
+          "STK-1000"
+        ]
       },
       {
         "order": 6,
@@ -103,7 +127,9 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 15,
-        "required_components": ["RCV-1000"]
+        "required_components": [
+          "RCV-1000"
+        ]
       },
       {
         "order": 7,
@@ -115,7 +141,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 8,
-        "required_components": ["CAM-1001"]
+        "required_components": [
+          "CAM-1001"
+        ]
       },
       {
         "order": 8,
@@ -127,7 +155,9 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 10,
-        "required_components": ["VTX-1028"]
+        "required_components": [
+          "VTX-1028"
+        ]
       },
       {
         "order": 9,
@@ -139,7 +169,10 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 10,
-        "required_components": ["ANT-1017", "BAT-1009"]
+        "required_components": [
+          "ANT-1017",
+          "BAT-1009"
+        ]
       },
       {
         "order": 10,
@@ -151,7 +184,9 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 10,
-        "required_components": ["BAT-1009"]
+        "required_components": [
+          "BAT-1009"
+        ]
       },
       {
         "order": 11,
@@ -163,7 +198,9 @@
         "betaflight_cli": "# Betaflight CLI — Initial Setup for 5\" Freestyle\n# Paste these commands in the CLI tab, then type 'save'\n\n# Motor protocol\nset motor_pwm_protocol = DSHOT600\nset dshot_bidir = ON\nset dshot_bitbang = AUTO\n\n# Arming\nset small_angle = 180\n\n# Battery monitoring\nset vbat_min_cell_voltage = 330\nset vbat_warning_cell_voltage = 350\nset vbat_max_cell_voltage = 430\n\n# Receiver protocol (ELRS uses CRSF)\nset serialrx_provider = CRSF\n\n# Beeper\nset beeper_dshot_beacon_tone = 3\n\n# OSD basics\nset osd_vbat_pos = 2433\nset osd_rssi_pos = 2105\nset osd_flymode_pos = 2457\nset osd_craft_name_pos = 2506\nset osd_warnings_pos = 2377\n\n# Name your quad\nname Apex Freestyle\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 15,
-        "required_components": ["STK-1000"]
+        "required_components": [
+          "STK-1000"
+        ]
       },
       {
         "order": 12,
@@ -175,7 +212,10 @@
         "betaflight_cli": "# Motor direction (if reversals needed via DShot commands)\n# Use BLHeli configurator for BLHeli_S/32 ESCs\n# Or in Betaflight CLI for bidirectional DShot:\nset motor_direction_inverted = OFF\n\n# Verify motor protocol is working\nset motor_pwm_protocol = DSHOT600\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 10,
-        "required_components": ["MTR-1000", "STK-1000"]
+        "required_components": [
+          "MTR-1000",
+          "STK-1000"
+        ]
       },
       {
         "order": 13,
@@ -187,7 +227,9 @@
         "betaflight_cli": "# Receiver and failsafe settings\nset serialrx_provider = CRSF\nset serialrx_halfduplex = AUTO\n\n# Failsafe — critical safety setting\nset failsafe_procedure = DROP\nset failsafe_delay = 4\nset failsafe_off_delay = 10\n\n# Arm switch on AUX1\naux 0 0 0 1700 2100 0 0\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 10,
-        "required_components": ["RCV-1000"]
+        "required_components": [
+          "RCV-1000"
+        ]
       },
       {
         "order": 14,
@@ -211,9 +253,18 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 12,
-        "required_components": ["PRP-1009"]
+        "required_components": [
+          "PRP-1009"
+        ]
       }
-    ]
+    ],
+    "country": "Unknown",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BG-1001",
@@ -248,7 +299,15 @@
       "Torque wrench or calibrated driver (optional)"
     ],
     "settings": {
-      "checklist_fields": ["visual_inspection", "electrical_test", "firmware_version", "gps_fix", "signal_check", "range_check", "balance_check"]
+      "checklist_fields": [
+        "visual_inspection",
+        "electrical_test",
+        "firmware_version",
+        "gps_fix",
+        "signal_check",
+        "range_check",
+        "balance_check"
+      ]
     },
     "steps": [
       {
@@ -261,7 +320,16 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 15,
-        "required_components": ["MTR-1001", "FC-1003", "ESC-1002", "PRP-1008", "BAT-1000", "RCV-1008", "GPS-1009", "VTX-1010"]
+        "required_components": [
+          "MTR-1001",
+          "FC-1003",
+          "ESC-1002",
+          "PRP-1008",
+          "BAT-1000",
+          "RCV-1008",
+          "GPS-1009",
+          "VTX-1010"
+        ]
       },
       {
         "order": 2,
@@ -285,7 +353,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 15,
-        "required_components": ["MTR-1001"]
+        "required_components": [
+          "MTR-1001"
+        ]
       },
       {
         "order": 4,
@@ -297,7 +367,10 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 25,
-        "required_components": ["ESC-1002", "MTR-1001"]
+        "required_components": [
+          "ESC-1002",
+          "MTR-1001"
+        ]
       },
       {
         "order": 5,
@@ -309,7 +382,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 10,
-        "required_components": ["FC-1003"]
+        "required_components": [
+          "FC-1003"
+        ]
       },
       {
         "order": 6,
@@ -321,7 +396,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 15,
-        "required_components": ["GPS-1009"]
+        "required_components": [
+          "GPS-1009"
+        ]
       },
       {
         "order": 7,
@@ -333,7 +410,9 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 15,
-        "required_components": ["RCV-1008"]
+        "required_components": [
+          "RCV-1008"
+        ]
       },
       {
         "order": 8,
@@ -345,7 +424,11 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 15,
-        "required_components": ["CAM-1001", "VTX-1010", "ANT-1005"]
+        "required_components": [
+          "CAM-1001",
+          "VTX-1010",
+          "ANT-1005"
+        ]
       },
       {
         "order": 9,
@@ -357,7 +440,9 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 10,
-        "required_components": ["BAT-1000"]
+        "required_components": [
+          "BAT-1000"
+        ]
       },
       {
         "order": 10,
@@ -381,7 +466,9 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 12,
-        "required_components": ["BAT-1000"]
+        "required_components": [
+          "BAT-1000"
+        ]
       },
       {
         "order": 12,
@@ -393,7 +480,9 @@
         "betaflight_cli": "# Betaflight CLI — 7\" Long Range Configuration\n# Flash target: IFLIGHT_BLITZ_H7 (or your specific board target)\n\n# Motor protocol\nset motor_pwm_protocol = DSHOT600\nset dshot_bidir = ON\nset dshot_bitbang = AUTO\n\n# Arming\nset small_angle = 180\n\n# Battery — Li-Ion voltage thresholds (lower than LiPo)\nset vbat_min_cell_voltage = 290\nset vbat_warning_cell_voltage = 310\nset vbat_max_cell_voltage = 420\n\n# Receiver\nset serialrx_provider = CRSF\n\n# GPS configuration\nset gps_provider = UBLOX\nset gps_sbas_mode = AUTO\nset gps_auto_baud = ON\nset gps_auto_config = ON\nset gps_ublox_use_galileo = ON\nset gps_set_home_point_once = ON\n\n# Compass calibration (run 'calibrate mag' after setup)\nset mag_hardware = AUTO\nset align_mag = DEFAULT\n\n# Dynamic idle (critical for efficiency)\nset dyn_idle_min_rpm = 20\nset motor_idle_throttle = 4.5\n\n# Beeper\nset beeper_dshot_beacon_tone = 3\n\n# OSD — long range essentials\nset osd_vbat_pos = 2433\nset osd_rssi_pos = 2105\nset osd_gps_speed_pos = 2369\nset osd_gps_sats_pos = 2073\nset osd_home_dist_pos = 2393\nset osd_home_dir_pos = 2266\nset osd_altitude_pos = 2345\nset osd_flymode_pos = 2457\nset osd_craft_name_pos = 2506\nset osd_warnings_pos = 2377\nset osd_avg_cell_voltage_pos = 2465\nset osd_flight_dist_pos = 2425\nset osd_gps_lon_pos = 0\nset osd_gps_lat_pos = 0\n\n# Name\nname Horizon Scout\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 15,
-        "required_components": ["FC-1003"]
+        "required_components": [
+          "FC-1003"
+        ]
       },
       {
         "order": 13,
@@ -405,7 +494,9 @@
         "betaflight_cli": "# GPS Rescue Configuration\nset gps_rescue_min_sats = 8\nset gps_rescue_angle = 32\nset gps_rescue_initial_alt = 50\nset gps_rescue_descent_dist = 200\nset gps_rescue_ground_speed = 750\nset gps_rescue_throttle_min = 1200\nset gps_rescue_throttle_max = 1700\nset gps_rescue_throttle_hover = 1350\nset gps_rescue_sanity_checks = RESCUE_SANITY_ON\nset gps_rescue_allow_arming_without_fix = OFF\nset gps_rescue_alt_mode = MAX_ALT\nset gps_rescue_use_mag = ON\n\n# Failsafe — triggers GPS rescue on signal loss\nset failsafe_procedure = GPS-RESCUE\nset failsafe_delay = 10\nset failsafe_off_delay = 200\nset failsafe_recovery_delay = 20\n\n# Aux switch for GPS rescue (manual activation)\naux 1 46 1 1700 2100 0 0\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 15,
-        "required_components": ["GPS-1009"]
+        "required_components": [
+          "GPS-1009"
+        ]
       },
       {
         "order": 14,
@@ -429,9 +520,19 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 15,
-        "required_components": ["PRP-1008", "BAT-1000"]
+        "required_components": [
+          "PRP-1008",
+          "BAT-1000"
+        ]
       }
-    ]
+    ],
+    "country": "Unknown",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BG-1002",
@@ -464,7 +565,13 @@
       "Heat gun or lighter"
     ],
     "settings": {
-      "checklist_fields": ["visual_inspection", "electrical_test", "firmware_version", "signal_check", "video_link_check"]
+      "checklist_fields": [
+        "visual_inspection",
+        "electrical_test",
+        "firmware_version",
+        "signal_check",
+        "video_link_check"
+      ]
     },
     "steps": [
       {
@@ -477,7 +584,16 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 10,
-        "required_components": ["FRM-1009", "MTR-1000", "STK-1005", "PRP-1007", "CAM-1019", "VTX-1010", "RCV-1008", "ANT-1009"]
+        "required_components": [
+          "FRM-1009",
+          "MTR-1000",
+          "STK-1005",
+          "PRP-1007",
+          "CAM-1019",
+          "VTX-1010",
+          "RCV-1008",
+          "ANT-1009"
+        ]
       },
       {
         "order": 2,
@@ -489,7 +605,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 10,
-        "required_components": ["FRM-1009"]
+        "required_components": [
+          "FRM-1009"
+        ]
       },
       {
         "order": 3,
@@ -501,7 +619,9 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 12,
-        "required_components": ["MTR-1000"]
+        "required_components": [
+          "MTR-1000"
+        ]
       },
       {
         "order": 4,
@@ -513,7 +633,10 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 25,
-        "required_components": ["STK-1005", "MTR-1000"]
+        "required_components": [
+          "STK-1005",
+          "MTR-1000"
+        ]
       },
       {
         "order": 5,
@@ -525,7 +648,10 @@
         "betaflight_cli": "",
         "step_type": "assembly",
         "estimated_time_minutes": 15,
-        "required_components": ["CAM-1019", "VTX-1010"]
+        "required_components": [
+          "CAM-1019",
+          "VTX-1010"
+        ]
       },
       {
         "order": 6,
@@ -537,7 +663,9 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 12,
-        "required_components": ["RCV-1008"]
+        "required_components": [
+          "RCV-1008"
+        ]
       },
       {
         "order": 7,
@@ -549,7 +677,10 @@
         "betaflight_cli": "",
         "step_type": "soldering",
         "estimated_time_minutes": 10,
-        "required_components": ["ANT-1009", "BAT-1009"]
+        "required_components": [
+          "ANT-1009",
+          "BAT-1009"
+        ]
       },
       {
         "order": 8,
@@ -561,7 +692,9 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 10,
-        "required_components": ["BAT-1009"]
+        "required_components": [
+          "BAT-1009"
+        ]
       },
       {
         "order": 9,
@@ -573,7 +706,9 @@
         "betaflight_cli": "# Betaflight CLI — 5\" HD Digital Freestyle\n\n# Motor protocol\nset motor_pwm_protocol = DSHOT600\nset dshot_bidir = ON\nset dshot_bitbang = AUTO\n\n# Arming\nset small_angle = 180\n\n# Battery (LiPo)\nset vbat_min_cell_voltage = 330\nset vbat_warning_cell_voltage = 350\nset vbat_max_cell_voltage = 430\n\n# Receiver (ELRS/CRSF)\nset serialrx_provider = CRSF\n\n# Digital OSD — use MSP DisplayPort\n# (Configure in Ports tab: enable MSP on VTX UART)\n\n# OSD layout — optimized for HD resolution\nset osd_vbat_pos = 2433\nset osd_rssi_pos = 2105\nset osd_flymode_pos = 2457\nset osd_craft_name_pos = 2506\nset osd_warnings_pos = 2377\nset osd_avg_cell_voltage_pos = 2465\nset osd_timer_1_pos = 2497\n\n# Beeper\nset beeper_dshot_beacon_tone = 3\n\n# Dynamic idle\nset dyn_idle_min_rpm = 25\nset motor_idle_throttle = 5.5\n\n# Name\nname Cloudwalker HD\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 12,
-        "required_components": ["STK-1005"]
+        "required_components": [
+          "STK-1005"
+        ]
       },
       {
         "order": 10,
@@ -585,7 +720,10 @@
         "betaflight_cli": "# Failsafe\nset failsafe_procedure = DROP\nset failsafe_delay = 4\n\n# Arm on AUX1\naux 0 0 0 1700 2100 0 0\n\nsave",
         "step_type": "firmware",
         "estimated_time_minutes": 10,
-        "required_components": ["MTR-1000", "RCV-1008"]
+        "required_components": [
+          "MTR-1000",
+          "RCV-1008"
+        ]
       },
       {
         "order": 11,
@@ -609,8 +747,17 @@
         "betaflight_cli": "",
         "step_type": "inspection",
         "estimated_time_minutes": 12,
-        "required_components": ["PRP-1007"]
+        "required_components": [
+          "PRP-1007"
+        ]
       }
-    ]
+    ],
+    "country": "Unknown",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   }
 ]

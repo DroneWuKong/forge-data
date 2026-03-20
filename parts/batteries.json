@@ -7,7 +7,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-6s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s1p-18650-front-rev1.jpg",
-    "approx_price": 103.99,
     "capacity_mah": 4000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -34,7 +33,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1001",
@@ -44,7 +50,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-4s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s1p-18650-front-rev1.jpg",
-    "approx_price": 74.49,
     "capacity_mah": 4000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -71,7 +76,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1002",
@@ -81,7 +93,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-6s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s2p-18650-front-rev1.jpg",
-    "approx_price": 191.99,
     "capacity_mah": 8000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -108,7 +119,14 @@
       "8000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1003",
@@ -118,7 +136,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-4s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s1p-21700-front-rev1.jpg",
-    "approx_price": 117.49,
     "capacity_mah": 6000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -145,7 +162,14 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1004",
@@ -155,7 +179,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-6s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s2p-21700-front-rev1.jpg",
-    "approx_price": 321.49,
     "capacity_mah": 12000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -182,7 +205,14 @@
       "12000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1005",
@@ -192,7 +222,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-4s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s2p-18650-front-rev1.jpg",
-    "approx_price": 134.99,
     "capacity_mah": 8000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -219,7 +248,14 @@
       "8000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1006",
@@ -229,7 +265,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-4s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s2p-21700-front-rev1.jpg",
-    "approx_price": 218.99,
     "capacity_mah": 12000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -256,7 +291,14 @@
       "12000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1007",
@@ -266,7 +308,6 @@
     "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s1p-21700-front-rev1.jpg",
-    "approx_price": 168.99,
     "capacity_mah": 6000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -293,7 +334,14 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1008",
@@ -303,7 +351,6 @@
     "description": "The Tattu R-Line Version 4.0 1300mAh 6S1P 130C Lipo Battery is the updated version of the R-Line series in 2021.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1300mah-6s1p-130c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1300mah-6s1p-130c-lipo-battery-1.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "discharge_rate_c": 130,
@@ -331,7 +378,14 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1009",
@@ -341,12 +395,10 @@
     "description": "Discover the DOGCOM SBang V2 1480mAh 6S 22.2V 160C LiPo Battery, perfect for SBang style flight.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-sbang-v2-1480mah-6s-22-2v-160c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23859-1.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1480,
     "cell_count": 6,
     "discharge_rate_c": 160,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -370,7 +422,14 @@
       "1480mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1010",
@@ -380,12 +439,10 @@
     "description": "Discover the DOGCOM SBang 1480mAh 6S 22.2V 150C LiPo Battery, perfect for SBang style flight.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-sbang-1480mah-6s-22-2v-150c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/o/dogcom-dogcom-sbang-22-2v-6s-1480mah-150c-lipo-battery-xt60-battery-31219903627377.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1480,
     "cell_count": 6,
     "discharge_rate_c": 150,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -409,7 +466,14 @@
       "1480mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1011",
@@ -419,12 +483,10 @@
     "description": "The DOGCOM 22.2V 1480mAh 6S 150C Ultra Series LiPo Battery is part of a new ultra light-weight LiPo Series designed for FPV Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-ultra-series-1480mah-6s-22-2v-150c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/2/g23853-1.jpg",
-    "approx_price": 49.99,
     "capacity_mah": 1480,
     "cell_count": 6,
     "discharge_rate_c": 150,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -448,7 +510,14 @@
       "1480mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1012",
@@ -458,7 +527,6 @@
     "description": "The RadioMaster 5000mAh 2S Li-ion pack is the perfect battery for your TX16S.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/radiomaster-tx16s-5000mah-2s-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/a/radiomaster-tx16s-5000mah-2s-li-ion-battery.jpg",
-    "approx_price": 25.99,
     "capacity_mah": 5000,
     "cell_count": 16,
     "chemistry": "LiPo",
@@ -485,7 +553,14 @@
       "5000mAh",
       "XT60",
       "8-10 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1013",
@@ -495,7 +570,6 @@
     "description": "This Lumenier 6000mAh 4S 35C Battery is perfect for powering small aircraft that require a compact battery but need the high amperage that the XT60 connector can provide.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-6000mah-4s-35c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-6000mah-4s-35c-lipo-battery---xt60_11_.jpg",
-    "approx_price": 175.49,
     "capacity_mah": 6000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -522,7 +596,15 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1014",
@@ -532,7 +614,6 @@
     "description": "With a phenomenal discharge rate at 100C, this 2000mAh 4S Black Series Battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-2000mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-2000mah-4s-update-low_res-width-1000px.jpg",
-    "approx_price": 40.49,
     "capacity_mah": 2000,
     "cell_count": 4,
     "discharge_rate_c": 100,
@@ -560,7 +641,14 @@
       "2000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1015",
@@ -570,7 +658,6 @@
     "description": "The XILO Basher LiPo battery series was made to provide you maximum performance for your multi-rotor airframes. The XILO LiPo batteries offer the best bang for your buck! These batteries have awesome performance with 100c discharge capability and cost a fraction of most other batteries on the market.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1250mah-6s-100c-basher-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-1250mah-6s-100c-basher-lipo-battery-xt60-main.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 1250,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -597,7 +684,15 @@
       "1250mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1016",
@@ -607,11 +702,9 @@
     "description": "With a phenomenal discharge rate at 150C, the CNHL Speedy Pizza Pro 1350mAh Battery will maintain high power and stability for multirotor FPV racing drones!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-speedy-pizza-drones-1350mah-22-2v-6s-150c-hp-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl13506spizzapro2.jpg",
-    "approx_price": 52.99,
     "capacity_mah": 1350,
     "cell_count": 6,
     "discharge_rate_c": 150,
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "battery_connector": "XT60",
     "voltage_nominal_v": 22.2,
@@ -636,7 +729,14 @@
       "1350mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1017",
@@ -646,7 +746,6 @@
     "description": "Lumenier NAV Lithium-Ion batteries offer extended flight times in a compact design, featuring premium quality cells and casing for the best Li-ion battery performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-3000mah-4s-lithium-ion-battery---xt60_3_.jpg",
-    "approx_price": 67.49,
     "capacity_mah": 3000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -673,7 +772,14 @@
       "3000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1018",
@@ -683,15 +789,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-3000mah-4s-lithium-ion-battery---xt60_bundle_.jpg",
-    "approx_price": 199.99,
     "capacity_mah": 3000,
     "cell_count": 4,
     "battery_connector": "XT60",
     "chemistry": "LiPo",
-    "pack_count": 3,
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 66.66,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -712,7 +815,14 @@
       "3000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1019",
@@ -722,15 +832,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-basher-lipo-battery-xt60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-basher-1500-4s-bundle.jpg",
-    "approx_price": 115.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "battery_connector": "XT60",
     "chemistry": "LiPo",
-    "pack_count": 3,
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 38.5,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -751,7 +858,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1020",
@@ -761,7 +876,6 @@
     "description": "Lumenier NAV Lithium-Ion batteries offer extended flight times in a compact design, featuring premium quality cells and casing for the best Li-ion battery performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-6000mah-6s-lithium-ion-battery---xt60-_2_.jpg",
-    "approx_price": 188.99,
     "capacity_mah": 6000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -788,7 +902,14 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1021",
@@ -798,15 +919,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-3000mah-6s-lithium-ion-battery---xt60_bundle_.jpg",
-    "approx_price": 279.99,
     "capacity_mah": 3000,
     "cell_count": 6,
     "battery_connector": "XT60",
     "chemistry": "LiPo",
-    "pack_count": 3,
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
-    "price_per_unit": 93.33,
     "compatibility": {
       "cell_count": 6,
       "voltage_nominal_v": 22.2,
@@ -827,7 +945,14 @@
       "3000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1022",
@@ -837,15 +962,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-6000mah-6s-lithium-ion-battery---xt60-_bundle_.jpg",
-    "approx_price": 558.99,
     "capacity_mah": 6000,
     "cell_count": 6,
     "battery_connector": "XT60",
     "chemistry": "LiPo",
-    "pack_count": 3,
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
-    "price_per_unit": 186.33,
     "compatibility": {
       "cell_count": 6,
       "voltage_nominal_v": 22.2,
@@ -866,7 +988,14 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1023",
@@ -876,7 +1005,6 @@
     "description": "Lumenier NAV Lithium-Ion batteries offer extended flight times in a compact design, featuring premium quality cells and casing for the best Li-ion battery performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-nav-3000mah-6s-lithium-ion-battery---xt60_3_.jpg",
-    "approx_price": 94.49,
     "capacity_mah": 3000,
     "cell_count": 6,
     "battery_connector": "XT60",
@@ -903,7 +1031,14 @@
       "3000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1024",
@@ -913,7 +1048,6 @@
     "description": "With a phenomenal discharge rate at 150C, this 1550mAh Ultra Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1550mah-150c-4s-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-ultra-black-series-1550mah-150c-4s-lipo-battery---xt60_4_.jpg",
-    "approx_price": 40.99,
     "capacity_mah": 1550,
     "cell_count": 4,
     "discharge_rate_c": 150,
@@ -941,7 +1075,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1025",
@@ -951,7 +1092,6 @@
     "description": "With a phenomenal discharge rate at 150C, this 1050mAh Ultra Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1050mah-150c-6s-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-ultra-black-series-1050mah-150c-6s-lipo-battery---xt60-_1_.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 1050,
     "cell_count": 6,
     "discharge_rate_c": 150,
@@ -979,7 +1119,14 @@
       "1050mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1026",
@@ -989,10 +1136,8 @@
     "description": "The Auline SONY VTC5A 2600mAh 4S1P 14.8V Li-ion Battery is a very powerful battery that is suited for 5\"-7\" builds! This battery features 4S, XT-30 connector, 14.8V, and 2600mAh.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-4s1p-14-8v-li-ion-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/u/auline-sony-vtc5a-18650-2600mah-4s1p-14.8v-li-ion-battery---xt30_3_.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 2600,
     "cell_count": 4,
-    "voltage_from_name": 8.0,
     "chemistry": "LiPo",
     "battery_connector": "XT30",
     "voltage_nominal_v": 14.8,
@@ -1017,7 +1162,14 @@
       "2600mAh",
       "XT30",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1027",
@@ -1027,7 +1179,6 @@
     "description": "The Lumenier N2O Feather-Lite 1400mAh 4S 150c Lipo Battery is the power you need for your next flight! Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1400mah-4s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1400mah-6s-150c-lipo-battery---xt-60-_main__1_1.jpg",
-    "approx_price": 64.99,
     "capacity_mah": 1400,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1054,7 +1205,15 @@
       "1400mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1028",
@@ -1064,7 +1223,6 @@
     "description": "The Lumenier N2O Feather-Lite 750mAh 6S 100c LiPo Battery is the power you need for your next flight! Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-750mah-6s-100c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-750mah-6s-100c-lipo-battery---xt-30_1_.jpg",
-    "approx_price": 40.49,
     "capacity_mah": 750,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -1091,7 +1249,15 @@
       "750mAh",
       "XT30",
       "7 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1029",
@@ -1101,7 +1267,6 @@
     "description": "The Lumenier CineLifter LiPo battery series was made to provide you with maximum performance for your multi-rotor CineLifters. This LiPo's 120c discharge rating is designed for multi-rotor CineLifter applications where extreme power is needed.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-4500mah-120c-6s-cinelifter-lipo-battery-as150.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-4500mah-6s-120c-cinelifter-lipo-battery---as150-_updated-connector_.jpg",
-    "approx_price": 202.49,
     "capacity_mah": 4500,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -1128,7 +1293,15 @@
       "4500mAh",
       "AS150",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1030",
@@ -1138,7 +1311,6 @@
     "description": "The Lumenier CineLifter LiPo battery series was made to provide you with maximum performance for your multi-rotor CineLifters. This LiPo's 120c discharge rating is designed for multi-rotor CineLifter applications where extreme power is needed.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-5200mah-4s-120c-cinelifter-lipo-battery-as150.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-5200mah-4s-120c-cinelifter-lipo-battery---as150-_updated-connector_.jpg",
-    "approx_price": 121.49,
     "capacity_mah": 5200,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1165,7 +1337,15 @@
       "5200mAh",
       "AS150",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1031",
@@ -1175,7 +1355,6 @@
     "description": "The 550mAh LiPo Battery works with the iFlight Defender 25. Good capacity for great endurance!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/iflight-defender-25-4s-lipo-battery-550mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-defender-25-4s-lipo-battery---550mah_3_.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 550,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1202,7 +1381,14 @@
       "550mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1032",
@@ -1212,7 +1398,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/8/5/850-4s-45c-xt30-top.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1239,7 +1424,15 @@
       "850mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 45,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1033",
@@ -1249,15 +1442,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery-xt-30-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-850mah-4s-45c-lipo-battery-_xt-30_---3-pack-bundle-main.jpg",
-    "approx_price": 79.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
-    "pack_count": 3,
     "battery_connector": "XT30",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 26.66,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -1278,7 +1468,15 @@
       "850mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 45,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1034",
@@ -1288,9 +1486,15 @@
     "description": "The DJI Avata Fly More Kit features two DJI Avata Intelligent Flight Batteries and a 4 Capacity Battery Charging Hub.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dji-avata-fly-more-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-avata-fly-more-kit.jpg",
-    "approx_price": 279.0,
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1035",
@@ -1300,7 +1504,6 @@
     "description": "The Tattu R-Line Version 5.0 1200mAh 22.2V 150C 6S1P LiPo Battery pack is the updated version of the R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1200mah-6s1p-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu_r-line_version_5.0_1200mah_22.2v_150c_6s1p_lipo_battery_pack_with_xt60_plug.jpg",
-    "approx_price": 44.99,
     "capacity_mah": 1200,
     "cell_count": 6,
     "discharge_rate_c": 150,
@@ -1328,7 +1531,14 @@
       "1200mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1036",
@@ -1338,7 +1548,6 @@
     "description": "With a phenomenal discharge rate of 100C, this 1100mAh Black Series Battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-1100mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-100c-4s-lipo-battery---1100mah-front.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1100,
     "cell_count": 4,
     "discharge_rate_c": 100,
@@ -1366,7 +1575,14 @@
       "1100mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1037",
@@ -1376,7 +1592,6 @@
     "description": "The Tattu R-Line Version 4.0 1550mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1550mah-4s-130c-lipo-battery---xt60-main.jpg",
-    "approx_price": 33.99,
     "capacity_mah": 1550,
     "cell_count": 4,
     "discharge_rate_c": 130,
@@ -1404,7 +1619,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1038",
@@ -1414,7 +1636,6 @@
     "description": "The Tattu R-Line Version 4.0 1300mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1300mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1300mah-4s-130c-lipo-battery---xt60-main.jpg",
-    "approx_price": 41.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "discharge_rate_c": 130,
@@ -1442,7 +1663,14 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1039",
@@ -1452,7 +1680,6 @@
     "description": "With a phenomenal discharge rate at 130C, this 1300mAh Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-130c-4s-lipo-battery-1300mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/130c-_image-1_2_.jpg",
-    "approx_price": 24.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "discharge_rate_c": 130,
@@ -1480,7 +1707,14 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1040",
@@ -1490,15 +1724,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-xt-60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-_xt-60_---3-pack-bundle-main.jpg",
-    "approx_price": 199.99,
     "capacity_mah": 1550,
     "cell_count": 4,
     "chemistry": "LiPo",
-    "pack_count": 3,
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 66.66,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -1519,7 +1750,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1041",
@@ -1529,15 +1768,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-xt-60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-_xt-60_---3-pack-bundle-main.jpg",
-    "approx_price": 227.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
-    "pack_count": 3,
     "battery_connector": "XT60",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
-    "price_per_unit": 76.0,
     "compatibility": {
       "cell_count": 6,
       "voltage_nominal_v": 22.2,
@@ -1558,7 +1794,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1042",
@@ -1568,15 +1812,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-xt-60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-_xt-60_---3-pack-bundle-main-2.jpg",
-    "approx_price": 267.99,
     "capacity_mah": 1550,
     "cell_count": 6,
     "chemistry": "LiPo",
-    "pack_count": 3,
     "battery_connector": "XT60",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
-    "price_per_unit": 89.33,
     "compatibility": {
       "cell_count": 6,
       "voltage_nominal_v": 22.2,
@@ -1597,7 +1838,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1043",
@@ -1607,15 +1856,12 @@
     "description": "See bundle details below for stock status! Need multiple 3-count bundles? Add 2 or more and hit the Add to Cart button! For extra single batteries, please check out the recommended section and add them to your cart separately.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-4s-120c-lipo-battery-xt-60-3-pack-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-1500mah-4s-120c-lipo-battery---3-pack-bundle_2.jpg",
-    "approx_price": 183.99,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
-    "pack_count": 3,
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 61.33,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -1636,7 +1882,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1044",
@@ -1646,15 +1900,12 @@
     "description": "The Lumenier 550mAh 4s 80c Lipo Battery (XT-30) now comes in a 5-Pack Bundle! High-quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-550mah-4s-80c-lipo-battery-xt-30-5-pack-bundle-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-550mah-4s-80c-lipo-battery-_xt-30_---5-pack-bundle-main_2.jpg",
-    "approx_price": 121.49,
     "capacity_mah": 550,
     "cell_count": 4,
     "chemistry": "LiPo",
-    "pack_count": 5,
     "battery_connector": "XT30",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 24.3,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -1675,7 +1926,15 @@
       "550mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1045",
@@ -1685,7 +1944,6 @@
     "description": "The Lumenier N2O Feather-Lite 1600mAh 4s 130c LiPo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1600mah-4s-130c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1600mah-4s-130c-lipo-battery-_xt-60_-main.jpg",
-    "approx_price": 66.49,
     "capacity_mah": 1600,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1712,7 +1970,15 @@
       "1600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 130,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1046",
@@ -1722,7 +1988,6 @@
     "description": "The XILO Basher LiPo battery series was made to provide you maximum performance for your multi-rotor airframes. The XILO LiPo batteries offer the best bang for your buck! These batteries have awesome performance with 100c discharge capability and cost a fraction of most other batteries on the market.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-4s-100c-basher-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-850mah-4s-100c-basher-lipo-battery-xt60.jpg-main.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 850,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -1749,7 +2014,15 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1047",
@@ -1759,7 +2032,6 @@
     "description": "The Lumenier N2O Feather-Lite 1550mAh 4s 150c Lipo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0188.jpg",
-    "approx_price": 67.49,
     "capacity_mah": 1550,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1786,7 +2058,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1048",
@@ -1796,7 +2076,6 @@
     "description": "The EX line of batteries by Auline are powerful Lipo batteries that are best suited for racing whoops or 5\" freestyle quadcopters! This 6S battery is equipped with 1050mAh capacity,  22.2V,  and comes with an XT-60 connector.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-ex-1050mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/e/x/ex_1bbc554c-7ac9-4ccb-b602-767d5107a35e_1512x.jpg",
-    "approx_price": 43.49,
     "capacity_mah": 1050,
     "cell_count": 6,
     "discharge_rate_c": 120,
@@ -1824,7 +2103,14 @@
       "1050mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1049",
@@ -1834,7 +2120,6 @@
     "description": "The Lumenier N2O Feather-Lite 1550mAh 6s 150c Lipo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-_xt-60_-main_1.jpg",
-    "approx_price": 90.49,
     "capacity_mah": 1550,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -1861,7 +2146,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1050",
@@ -1871,7 +2164,6 @@
     "description": "The Lumenier N2O Feather-Lite 1300mAh 4s 150c Lipo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-4s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0176_4.jpg",
-    "approx_price": 59.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -1898,7 +2190,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1051",
@@ -1908,10 +2208,8 @@
     "description": "The VTC6 18650 series batteries by GEPRC are very powerful batteries specially designed for long-range quads!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-6s2p-6000mah-22-2v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/5/-/5-9.jpg",
-    "approx_price": 211.99,
     "capacity_mah": 6000,
     "cell_count": 6,
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "battery_connector": "XT60",
     "voltage_nominal_v": 22.2,
@@ -1936,7 +2234,14 @@
       "6000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1052",
@@ -1946,11 +2251,9 @@
     "description": "The Auline SONY VTC5A 2600mAh 4S1P 14.8V Li-ion Battery by Auline is a very powerful battery that is suited for 5\"-7\" builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-4s1p-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/_/1_51be96d4-0a51-4b36-88d6-dd387fb2e788.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 2600,
     "cell_count": 4,
     "battery_connector": "XT60",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -1974,7 +2277,14 @@
       "2600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1053",
@@ -1984,10 +2294,8 @@
     "description": "The Explorer Flywoo Lionpack 3000mAh is the highest quality battery customized for Explorer LR.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-lionpack-18650-4s-3000mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-14.8v-4s-18650-3000mah-10c-li-ion-battery-for-explorer-lr---xt30.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 3000,
     "cell_count": 4,
-    "voltage_from_name": 14.8,
     "chemistry": "Li-Ion",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.4,
@@ -2012,7 +2320,14 @@
       "3000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1054",
@@ -2022,11 +2337,9 @@
     "description": "The Auline SONY VTC5A 2600mAh 6S1P 22.2V Li-ion Battery by Auline is a very powerful battery that is suited for 5\"-7\" builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-6s1p-22-2v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/a/u/auline_sony_vtc5a_2600mah_6s_35c_li-ion_battery.jpg",
-    "approx_price": 80.99,
     "capacity_mah": 2600,
     "cell_count": 6,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -2050,7 +2363,14 @@
       "2600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1055",
@@ -2060,10 +2380,8 @@
     "description": "After the outstanding success of the initial 18650 models, ZOHD is now bringing you even more flight time with the Lionpack Copter!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-copter-21700-6s1p-4000mah-22-2v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/o/zohd_lionpack_copter_21700_6s1p_4000mah_22.2v_li-ion_battery_2_.jpg",
-    "approx_price": 116.49,
     "capacity_mah": 4000,
     "cell_count": 6,
-    "voltage_from_name": 22.2,
     "chemistry": "Li-Ion",
     "battery_connector": "XT60",
     "voltage_nominal_v": 21.6,
@@ -2088,7 +2406,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1056",
@@ -2098,7 +2423,6 @@
     "description": "With a phenomenal discharge rate at 100C, this 1100mAh Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-6s-lipo-battery-1100mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-1100mah-22.2v-6s-100c-lipo-battery-5.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1100,
     "cell_count": 6,
     "discharge_rate_c": 100,
@@ -2126,7 +2450,14 @@
       "1100mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1057",
@@ -2136,7 +2467,6 @@
     "description": "The Tattu Funfly series provides Tattu quality Lipos at a new affordable price point.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1300mah-6s1p-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_57_5.jpg",
-    "approx_price": 39.49,
     "capacity_mah": 1300,
     "cell_count": 6,
     "discharge_rate_c": 100,
@@ -2164,7 +2494,14 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1058",
@@ -2174,7 +2511,6 @@
     "description": "The Tattu R-Line Version 3.0 1550mAh 22.2V 120C 6S1P Lipo Battery is the updated version of the R-Line series in 2019.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1550mah-6s1p-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/5/_/5_13_1_1.jpg",
-    "approx_price": 59.49,
     "capacity_mah": 1550,
     "cell_count": 6,
     "discharge_rate_c": 120,
@@ -2202,7 +2538,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1059",
@@ -2212,7 +2555,6 @@
     "description": "The Tattu R-Line Version 3.0 1550mAh 5S1P 120C Lipo Battery is the updated version of the R-Line series in 2019.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1550mah-5s1p-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1550-120-5s.jpg",
-    "approx_price": 51.49,
     "capacity_mah": 1550,
     "cell_count": 5,
     "discharge_rate_c": 120,
@@ -2239,7 +2581,14 @@
       "5S",
       "1550mAh",
       "XT60"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1060",
@@ -2249,7 +2598,6 @@
     "description": "The XILO 850mAh 6s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-6s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/8/5/850mah-6s-100c-main.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 850,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2276,7 +2624,15 @@
       "850mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1061",
@@ -2286,7 +2642,6 @@
     "description": "The Lumenier N2O 850mAh 6s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-6s-120c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-850-6s-main_1.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 850,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2313,7 +2668,15 @@
       "850mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1062",
@@ -2323,7 +2686,6 @@
     "description": "The Lumenier N2O 850mAh 6s 120c Lipo Battery with XT-30 connector. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-6s-120c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-850-6s-xt30.main.jpg",
-    "approx_price": 60.99,
     "capacity_mah": 850,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2350,7 +2712,15 @@
       "850mAh",
       "XT30",
       "7 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1063",
@@ -2360,7 +2730,6 @@
     "description": "With more punch, lower internal resistance and less weight, The R-Line V3 will dominate the race track.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-2000mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/3/_/3_36_30.jpg",
-    "approx_price": 58.49,
     "capacity_mah": 2000,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -2388,7 +2757,14 @@
       "2000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1064",
@@ -2398,7 +2774,6 @@
     "description": "With more punch, lower internal resistance and less weight, The R-Line V3 will dominate the race track.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1800mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_40_29.jpg",
-    "approx_price": 52.99,
     "capacity_mah": 1800,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -2426,7 +2801,14 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1065",
@@ -2436,7 +2818,6 @@
     "description": "The Lumenier N2O Extreme 1350mAh 5s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-5s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1350-5s-main.jpg",
-    "approx_price": 72.99,
     "capacity_mah": 1350,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2462,7 +2843,15 @@
       "5S",
       "1350mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1066",
@@ -2472,7 +2861,6 @@
     "description": "The Lumenier N2O Extreme 1550mAh 5s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-5s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1550-5s-main.jpg",
-    "approx_price": 78.49,
     "capacity_mah": 1550,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2498,7 +2886,15 @@
       "5S",
       "1550mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1067",
@@ -2508,7 +2904,6 @@
     "description": "The Lumenier N2O Extreme 1550mAh 4s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-4s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1550-4s-main.jpg",
-    "approx_price": 70.49,
     "capacity_mah": 1550,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -2535,7 +2930,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1068",
@@ -2545,7 +2948,6 @@
     "description": "The Lumenier N2O Extreme 1850mAh 4s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1850mah-4s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1850-4s-main.jpg",
-    "approx_price": 76.99,
     "capacity_mah": 1850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -2572,7 +2974,15 @@
       "1850mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1069",
@@ -2582,7 +2992,6 @@
     "description": "The Lumenier N2O Extreme 1550mAh 6s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-6s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1550-6s-main.jpg",
-    "approx_price": 93.49,
     "capacity_mah": 1550,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2609,7 +3018,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1070",
@@ -2619,7 +3036,6 @@
     "description": "The XILO 1300mAh 5s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-5s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300mah-5s-100c-main.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1300,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2645,7 +3061,15 @@
       "5S",
       "1300mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1071",
@@ -2655,7 +3079,6 @@
     "description": "The XILO 1500mAh 5s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-5s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500mah-5s-100c-main.jpg",
-    "approx_price": 39.49,
     "capacity_mah": 1500,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2681,7 +3104,15 @@
       "5S",
       "1500mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1072",
@@ -2691,7 +3122,6 @@
     "description": "The Tattu Funfly series provides Tattu quality lipos at a new affordable price point.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1550mah-4s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/_/2_43_3.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 1550,
     "cell_count": 4,
     "discharge_rate_c": 100,
@@ -2719,7 +3149,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1073",
@@ -2729,7 +3166,6 @@
     "description": "The Lumenier N2O 850mAh 4s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-850-4s-main.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -2756,7 +3192,15 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1074",
@@ -2766,7 +3210,6 @@
     "description": "With a phenomenal discharge rate at 120C, this battery will maintain high power and stability for the most extreme builds.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ministar-1500mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/-/1-500x500.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -2794,7 +3237,14 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1075",
@@ -2804,7 +3254,6 @@
     "description": "The Lumenier N2O 1500mAh 6s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1500-6s-main.jpg",
-    "approx_price": 59.99,
     "capacity_mah": 1500,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2831,7 +3280,15 @@
       "1500mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1076",
@@ -2841,7 +3298,6 @@
     "description": "The Lumenier N2O 1500mAh 4s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-4s-120c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1500-4s-main.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -2868,7 +3324,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1077",
@@ -2878,7 +3342,6 @@
     "description": "The Lumenier N2O 1500mAh 5s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-5s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1500-5s-main.jpg",
-    "approx_price": 71.49,
     "capacity_mah": 1500,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2904,7 +3367,15 @@
       "5S",
       "1500mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1078",
@@ -2914,7 +3385,6 @@
     "description": "The Lumenier N2O 1250mAh 5s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-5s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/2/1250-5s-main.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1250,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -2940,7 +3410,15 @@
       "5S",
       "1250mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1079",
@@ -2950,7 +3428,6 @@
     "description": "Get ready to rip with CNHL's MiniStar 6S lipos. A perfect merging of value and performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ministar-1250mah-6s-70c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/0/201806121750-500x500.jpg",
-    "approx_price": 41.99,
     "capacity_mah": 1250,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -2977,7 +3454,15 @@
       "1250mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 70,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1080",
@@ -2987,7 +3472,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-6s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300mah-6s-95-main.jpg",
-    "approx_price": 58.49,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -3014,7 +3498,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1081",
@@ -3024,7 +3516,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500-4s-95c-top.jpg",
-    "approx_price": 40.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -3051,7 +3542,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1082",
@@ -3061,7 +3560,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-75c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-1300mah-4s-75c-lipo-battery-xt60.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -3088,7 +3586,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1083",
@@ -3098,7 +3604,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0234.jpg",
-    "approx_price": 43.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3125,7 +3630,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1084",
@@ -3135,7 +3648,6 @@
     "description": "Lumenier batteries with the latest Graphene technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1300mah-4s-80c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-4s-80c-graphene-top.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3162,7 +3674,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1085",
@@ -3172,7 +3692,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-6s-35c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500-6s-top.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 1500,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -3199,7 +3718,15 @@
       "1500mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1086",
@@ -3209,7 +3736,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1800-4s-75c-top.jpg",
-    "approx_price": 39.49,
     "capacity_mah": 1800,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3236,7 +3762,15 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1087",
@@ -3246,7 +3780,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-2250mah-4s-35c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/2/2250-4s-top.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 2250,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3273,7 +3806,15 @@
       "2250mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1088",
@@ -3283,7 +3824,6 @@
     "description": "The XILO Basher LiPo battery series was made to provide you maximum performance for your multi-rotor airframes. The XILO LiPo batteries offer the best bang for your buck! These batteries have awesome performance with 100c discharge capability.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-basher-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-1500mah-4s-100c-basher-lipo-battery-xt60-main.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -3310,7 +3850,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1089",
@@ -3320,11 +3868,9 @@
     "description": "The Tattu R-Line 2200mAh 95C 6S1P battery pack is a high-quality, reliable battery. Suitable for 7” lightweight cine-lifters and 7\" long-range FPV.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-22-2v-2200mah-6s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/t/a/tattu_r-line_22.2v_2200mah_6s_95c_lipo_battery_for_7_quad_-_xt60_3_.jpg",
-    "approx_price": 70.49,
     "capacity_mah": 2200,
     "cell_count": 6,
     "discharge_rate_c": 95,
-    "voltage_from_name": 2.0,
     "battery_connector": "Xt60",
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
@@ -3349,7 +3895,14 @@
       "2200mAh",
       "Xt60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1090",
@@ -3359,7 +3912,6 @@
     "description": "Lumenier batteries with the latest Graphene technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-700mah-4s-75c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/r/graphene-700mah-4s-75c-lipo-main_1.jpg",
-    "approx_price": 29.99,
     "capacity_mah": 700,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3386,7 +3938,15 @@
       "700mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1091",
@@ -3396,7 +3956,6 @@
     "description": "Tattu R-Line 650mAh 14.8V 95C 4S1P Lipo Battery Pack with XT30 plug has full capacity and discharge rate.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-650mah-4s1p-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/5/650-1.jpg",
-    "approx_price": 22.99,
     "capacity_mah": 650,
     "cell_count": 4,
     "discharge_rate_c": 95,
@@ -3424,7 +3983,14 @@
       "650mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1092",
@@ -3434,7 +4000,6 @@
     "description": "The Lumenier N2O Feather-Lite 1300mAh 6s 150c Lipo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/e/feather-lite-1300-6s.jpg",
-    "approx_price": 76.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -3461,7 +4026,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1093",
@@ -3471,7 +4044,6 @@
     "description": "The Tattu R-Line Version 5.0 1400mAh 22.2V 150C 6S1P LiPo Battery pack is the updated version of the R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1400mah-6s1p150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu_r-line_version_5.0_1400mah_22.2v_150c_6s1p_lipo_battery_pack_with_xt60_plug_2_.jpg",
-    "approx_price": 55.49,
     "capacity_mah": 1400,
     "cell_count": 6,
     "discharge_rate_c": 150,
@@ -3499,7 +4071,14 @@
       "1400mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1094",
@@ -3509,7 +4088,6 @@
     "description": "The Lumenier N2O 1250mAh 6s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1250-6s-main.jpg",
-    "approx_price": 75.99,
     "capacity_mah": 1250,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -3536,7 +4114,15 @@
       "1250mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1095",
@@ -3546,7 +4132,6 @@
     "description": "The Flywoo Explorer 900mAh HV 4S1P 80C LiPo Battery is designed for longer flight time and higher voltage.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-900mah-hv-4s1p-80c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/untitled_design_45_.jpg",
-    "approx_price": 31.49,
     "capacity_mah": 900,
     "cell_count": 4,
     "discharge_rate_c": 80,
@@ -3574,7 +4159,14 @@
       "900mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1096",
@@ -3584,11 +4176,9 @@
     "description": "The Auline 21700 A45 is a very powerful 6S Li-ion battery featuring an XT-60 connector, 22.2V, and 4000mAh.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-4000mah-22-2v-a45-6s-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/u/auline-21700-4000mah-22.2v-a45-6s-li-ion-battery---xt60.jpg",
-    "approx_price": 94.49,
     "capacity_mah": 4000,
     "cell_count": 6,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -3612,7 +4202,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1097",
@@ -3622,7 +4219,6 @@
     "description": "The new R-Line 850mAh TATTU release is a high quality, high capacity battery with lower internal resistance and landing temperatures. Tattu's R-Line is made to devour the racetrack and power your amp hungry quad, giving you the edge in competition.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-850mah-4s-95c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/-/s-l300_b2dd2330-2efb-4ab0-9c77-2b44ddb4c9e1_1024x1024.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 850,
     "cell_count": 4,
     "discharge_rate_c": 95,
@@ -3650,7 +4246,14 @@
       "850mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1098",
@@ -3660,7 +4263,6 @@
     "description": "With a phenomenal discharge rate at 130C, this 1500mAh Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-v2-0-130c-4s-lipo-battery-1500mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500mah-_image-1_1_.jpg",
-    "approx_price": 31.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "discharge_rate_c": 130,
@@ -3688,7 +4290,14 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1099",
@@ -3698,7 +4307,6 @@
     "description": "The Lumenier N2O Extreme 1850mAh 6s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1850mah-6s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1850-6s-main_1.jpg",
-    "approx_price": 105.49,
     "capacity_mah": 1850,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -3725,7 +4333,15 @@
       "1850mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1100",
@@ -3735,7 +4351,6 @@
     "description": "With a phenomenal discharge rate at 100C, this 2000mAh 6S Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-6s-lipo-battery-2000mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl_black_series_2000mah-6s_1_.jpg",
-    "approx_price": 56.99,
     "capacity_mah": 2000,
     "cell_count": 6,
     "discharge_rate_c": 100,
@@ -3763,7 +4378,14 @@
       "2000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1101",
@@ -3773,7 +4395,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-75c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-850mah-4s-75c-lipo-battery-xt-30.jpg",
-    "approx_price": 31.49,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3800,7 +4421,15 @@
       "850mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1102",
@@ -3810,7 +4439,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-550mah-4s-80c-lipo-battery-xt-30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier_550mah_4s_80c_lipo_battery_xt-30_.jpg",
-    "approx_price": 24.49,
     "capacity_mah": 550,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -3837,7 +4465,15 @@
       "550mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1103",
@@ -3847,10 +4483,8 @@
     "description": "The Auline 18650 2600mAh 4S1P 14.8V Li-ion Battery by Auline comes with a built-in protective board for the DJI Digital HD FPV Goggles.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-18650-2600mah-4s1p-14-8v-li-ion-battery-w-built-in-protective-board-for-dji-goggles.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/6/2600.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 2600,
     "cell_count": 4,
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
@@ -3875,7 +4509,14 @@
       "2600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1104",
@@ -3885,7 +4526,6 @@
     "description": "The Tattu R-Line Version 4.0 850mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-850mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-850mah-4s-130c-lipo-battery---xt60-main.jpg",
-    "approx_price": 29.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "discharge_rate_c": 130,
@@ -3913,7 +4553,14 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1105",
@@ -3923,11 +4570,9 @@
     "description": "The Auline 21700 40T A35 is a very powerful 6S Li-ion battery featuring an XT-60 connector, 22.2V, and 4000mAh.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-40t-4000mah-6s-22-2v-a35-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/u/auline-21700-40t-4000mah-6s-22.2v-a35-li-ion-battery---xt60.jpg",
-    "approx_price": 80.99,
     "capacity_mah": 4000,
     "cell_count": 6,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -3951,7 +4596,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1106",
@@ -3961,12 +4613,10 @@
     "description": "With a phenomenal discharge rate at 120C, the CNHL Speedy Pizza 600mAh Battery will maintain high power and stability for micro multirotor FPV racing drones!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-speedy-pizza-drones-600mah-14-8v-4s-120c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-speedy-pizza-drones-600mah-14.8v-4s-120c-lipo-battery---xt30_1_.jpg",
-    "approx_price": 17.99,
     "capacity_mah": 600,
     "cell_count": 4,
     "discharge_rate_c": 120,
     "battery_connector": "XT30",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -3990,7 +4640,14 @@
       "600mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1107",
@@ -4000,7 +4657,6 @@
     "description": "The Tattu R-Line Version 4.0 1550mAh 22.2V 130C 6S1P LiPo battery pack is the updated version of R-Line series in 2021. With More Punch, Lower Internal Resistance and Less weight, Tattu R-line V4 definitely dominate all your races.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-6s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1550mah-6s-130c-lipo-battery---xt60-main.jpg",
-    "approx_price": 60.99,
     "capacity_mah": 1550,
     "cell_count": 6,
     "discharge_rate_c": 130,
@@ -4028,7 +4684,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1108",
@@ -4038,7 +4701,6 @@
     "description": "With a phenomenal discharge rate at 150C, this 1550mAh Ultra Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1550mah-150c-6s-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-ultra-1550mah-6s-150c-lipo-battery-5.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 1550,
     "cell_count": 6,
     "discharge_rate_c": 150,
@@ -4066,7 +4728,14 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1109",
@@ -4076,7 +4745,6 @@
     "description": "The Tattu Funfly series provides Tattu quality lipos at a new affordable price point.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1300mah-4s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/3/_/3_34_4.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "discharge_rate_c": 100,
@@ -4104,7 +4772,14 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1110",
@@ -4114,11 +4789,9 @@
     "description": "The Auline 21700 40T A35 is a very powerful 4S Li-ion battery featuring an XT-60 connector, 14.8V, and 4000mAh.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-40t-4000mah-4s-14-8v-a35-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/u/auline-21700-40t-4000mah-4s-14.8v-a35-li-ion-battery---xt60.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 4000,
     "cell_count": 4,
     "battery_connector": "XT60",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -4142,7 +4815,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1111",
@@ -4152,16 +4832,12 @@
     "description": "A two-pack of rechargeable Molicel P28A 18650 size Li-ion batteries.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/molicel-p28a-18650-2800mah-35a-3-6v-li-ion-battery-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/2/p28a-18650-2800mah-li-ion-battery-_image-3_1_.jpg",
-    "approx_price": 22.99,
     "capacity_mah": 2800,
     "cell_count": 1,
     "chemistry": "Li-Ion",
-    "voltage_from_name": 3.6,
-    "pack_count": 2,
     "battery_connector": "PH2.0",
     "voltage_nominal_v": 3.6,
     "voltage_max_v": 4.2,
-    "price_per_unit": 11.49,
     "compatibility": {
       "cell_count": 1,
       "voltage_nominal_v": 3.6,
@@ -4182,7 +4858,14 @@
       "2800mAh",
       "PH2.0",
       "2 inch"
-    ]
+    ],
+    "country": "Taiwan",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Taiwan manufacture — allied nation, NDAA compliant"
+    }
   },
   {
     "pid": "BAT-1112",
@@ -4192,7 +4875,6 @@
     "description": "The Tattu R-Line Version 1.0 1050mAh 14.8V 95C 4S1P LiPo battery pack comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-1050mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-1050mah-4s-95c-lipo-battery---xt60-1.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 1050,
     "cell_count": 4,
     "discharge_rate_c": 95,
@@ -4220,7 +4902,14 @@
       "1050mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1113",
@@ -4230,7 +4919,6 @@
     "description": "Tattu's R-Line series provides super high C ratings with high-quality cells giving you tons of power for FPV racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-850mah-4s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/ta8504s1pt60_3.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -4257,7 +4945,15 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1114",
@@ -4267,7 +4963,6 @@
     "description": "The Lumenier N2O Feather-Lite 1400mAh 6s 150c Lipo Battery is the power you need for your next flight! Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1400mah-6s-150c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1400mah-6s-150c-lipo-battery---xt-60-_main__1.jpg",
-    "approx_price": 80.99,
     "capacity_mah": 1400,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -4294,7 +4989,15 @@
       "1400mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1115",
@@ -4304,7 +5007,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-6s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500mah-6s-95-main.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 1500,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -4331,7 +5033,15 @@
       "1500mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1116",
@@ -4341,7 +5051,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-35c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1800-4s-top.jpg",
-    "approx_price": 33.99,
     "capacity_mah": 1800,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -4368,7 +5077,15 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1117",
@@ -4378,7 +5095,6 @@
     "description": "The Lumenier N2O Feather-Lite 1600mAh 6s 130c 22.2V LiPo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1600mah-6s-130c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1600mah-6s-130c-lipo-battery-_xt-60_-main-2.jpg",
-    "approx_price": 89.49,
     "capacity_mah": 1600,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -4405,7 +5121,15 @@
       "1600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 130,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1118",
@@ -4415,17 +5139,13 @@
     "description": "The BETAFPV Aquila16 Exclusive Battery features a modular design that enhances aerodynamics and ensures durability during collisions.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-aquila16-1100mah-15c-3-8v-battery-2pcs-bt2-0.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/betafpv-aquila16-1100mah-battery.jpg",
-    "approx_price": 21.99,
     "capacity_mah": 1100,
     "discharge_rate_c": 15,
-    "voltage_from_name": 3.8,
     "battery_connector": "BT2.0",
     "chemistry": "LiPo",
     "cell_count": 1,
-    "pack_count": 2,
     "voltage_nominal_v": 3.7,
     "voltage_max_v": 4.2,
-    "price_per_unit": 10.99,
     "compatibility": {
       "cell_count": 1,
       "voltage_nominal_v": 3.7,
@@ -4446,7 +5166,14 @@
       "1100mAh",
       "BT2.0",
       "2 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1119",
@@ -4456,7 +5183,6 @@
     "description": "The Lumenier N2O Feather-Lite 750mAh 4S 100c LiPo Battery is the power you need for your next flight! Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-750mah-4s-100c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-750mah-4s-100c-lipo-battery---xt-30_1_.jpg",
-    "approx_price": 35.49,
     "capacity_mah": 750,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -4483,7 +5209,15 @@
       "750mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1120",
@@ -4493,7 +5227,6 @@
     "description": "With a phenomenal discharge rate at 150C, this 1400mAh Ultra Black Series battery by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1400mah-150c-6s-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-150c-6s-lipo-battery---1400mah-5.jpg",
-    "approx_price": 60.99,
     "capacity_mah": 1400,
     "cell_count": 6,
     "discharge_rate_c": 150,
@@ -4521,7 +5254,14 @@
       "1400mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1121",
@@ -4531,7 +5271,6 @@
     "description": "With more punch, lower internal resistance and less weight, The R-Line V3 will dominate the race track.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1300mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/2/120c-1300-6s1p.jpg",
-    "approx_price": 52.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "discharge_rate_c": 120,
@@ -4559,7 +5298,14 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1122",
@@ -4569,7 +5315,6 @@
     "description": "The Lumenier N2O 1250mAh 4s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1250-4s-main.jpg",
-    "approx_price": 55.99,
     "capacity_mah": 1250,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -4596,7 +5341,15 @@
       "1250mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1123",
@@ -4606,16 +5359,12 @@
     "description": "A two-pack of rechargeable Molicel M35A 18650 size Li-ion batteries.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/molicel-m35a-18650-3500mah-10a-3-6v-li-ion-battery-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/3/m35a-18650-3500mah-10a-li-io-battery-_image-2_1_.jpg",
-    "approx_price": 22.99,
     "capacity_mah": 3500,
     "cell_count": 1,
     "chemistry": "Li-Ion",
-    "voltage_from_name": 3.6,
-    "pack_count": 2,
     "battery_connector": "PH2.0",
     "voltage_nominal_v": 3.6,
     "voltage_max_v": 4.2,
-    "price_per_unit": 11.49,
     "compatibility": {
       "cell_count": 1,
       "voltage_nominal_v": 3.6,
@@ -4636,7 +5385,14 @@
       "3500mAh",
       "PH2.0",
       "2 inch"
-    ]
+    ],
+    "country": "Taiwan",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Taiwan manufacture — allied nation, NDAA compliant"
+    }
   },
   {
     "pid": "BAT-1124",
@@ -4646,7 +5402,6 @@
     "description": "Lumenier batteries with the latest Silicon Graphene infused technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-silicon-graphene-1300mah-6s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/i/silicon-graphene-1300mah-6s-95c-main.jpg",
-    "approx_price": 59.49,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -4673,7 +5428,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1125",
@@ -4683,7 +5446,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-1800mah-4s-95c-lipo-battery-xt60.jpg",
-    "approx_price": 58.49,
     "capacity_mah": 1800,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -4710,7 +5472,15 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1126",
@@ -4720,7 +5490,6 @@
     "description": "The Tattu R-Line Version 1.0 550mAh 22.2V 95C 6S1P LiPo battery pack comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-6s-95c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-550mah-6s-95c-lipo-battery---xt30-main.jpg",
-    "approx_price": 31.49,
     "capacity_mah": 550,
     "cell_count": 6,
     "discharge_rate_c": 95,
@@ -4748,7 +5517,14 @@
       "550mAh",
       "XT30",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1127",
@@ -4758,7 +5534,6 @@
     "description": "The Lumenier N2O Extreme 1350mAh 6s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-6s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1350-6s-main.jpg",
-    "approx_price": 78.49,
     "capacity_mah": 1350,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -4785,7 +5560,15 @@
       "1350mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1128",
@@ -4795,7 +5578,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-35c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-4s-front.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -4822,7 +5604,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1129",
@@ -4832,7 +5622,6 @@
     "description": "The XILO Basher LiPo battery series was made to provide you maximum performance for your multi-rotor airframes. The XILO LiPo batteries offer the best bang for your buck! These batteries have awesome performance with 100c discharge capability and cost a fraction of most other batteries on the market.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-4s-100c-basher-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-1300mah-4s-100c-basher-lipo-battery-xt60-main.jpg",
-    "approx_price": 31.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -4859,7 +5648,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1130",
@@ -4869,12 +5666,10 @@
     "description": "Designed for professional FPV racing, the Tattu R-Line Version 5.0 stands out with its enhanced capacity, reduced internal resistance, and lower temperatures upon landing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1050mah-8s-150c-29-6v-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-5.0-1050mah-8s-150c-29.6v-lipo-battery---xt60-_image-1__1.jpg",
-    "approx_price": 59.49,
     "capacity_mah": 1050,
     "cell_count": 8,
     "discharge_rate_c": 150,
     "battery_connector": "XT60",
-    "voltage_from_name": 29.6,
     "chemistry": "LiPo",
     "voltage_nominal_v": 29.6,
     "voltage_max_v": 33.6,
@@ -4898,7 +5693,14 @@
       "1050mAh",
       "XT60",
       "8-10 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1131",
@@ -4908,7 +5710,6 @@
     "description": "Lumenier batteries with the latest Graphene technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1000mah-4s-80c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/e/lead_9.jpg",
-    "approx_price": 51.49,
     "capacity_mah": 1000,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -4935,7 +5736,15 @@
       "1000mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1132",
@@ -4945,12 +5754,10 @@
     "description": "The DOGCOM 1380mAh 6S 22.2V 150C LiPo Battery - XT60 is the top-selling version of the FPV Lipo battery series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-1380mah-6s-22-2v-150c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23857-1.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1380,
     "cell_count": 6,
     "discharge_rate_c": 150,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -4974,7 +5781,14 @@
       "1380mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1133",
@@ -4984,7 +5798,6 @@
     "description": "Upgrade Energy batteries are USA-manufactured with the very best Li-ion cells.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-5000mah-4s-20c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-green-5000mah-4s-20c-li-ion-battery---xt60_1_.jpg",
-    "approx_price": 148.49,
     "capacity_mah": 5000,
     "cell_count": 4,
     "discharge_rate_c": 20,
@@ -5012,7 +5825,14 @@
       "5000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1134",
@@ -5022,7 +5842,6 @@
     "description": "Built from the best Li-ion cells, Upgrade Energy batteries are the perfect choice for high-quality power output for your long-range drone.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-5000mah-6s-20c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-green-5000mah-6s-20c-li-ion-battery---xt60.jpg",
-    "approx_price": 182.49,
     "capacity_mah": 5000,
     "cell_count": 6,
     "discharge_rate_c": 20,
@@ -5050,7 +5869,14 @@
       "5000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1135",
@@ -5060,7 +5886,6 @@
     "description": "Built from the best Li-ion cells, Upgrade Energy batteries are the perfect choice for high-quality power output for your long-range drone.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-10000mah-6s-20c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-green-10000mah-6s-20c-li-ion-battery-xt60.jpg",
-    "approx_price": 337.49,
     "capacity_mah": 10000,
     "cell_count": 6,
     "discharge_rate_c": 20,
@@ -5088,7 +5913,14 @@
       "10000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1136",
@@ -5098,7 +5930,6 @@
     "description": "The Auline SR Super Rate 1350mAh 120C 4S FPV Lipo Battery promises a blend of efficiency, power, and reliability. Specially tailored for 5\" quads, this battery from the SR series ensures longer flight times and consistent power output, making your flying experience unparalleled.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sr-1350mah-120c-4s-super-rate-fpv-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/u/auline-sr-super-rate-1350mah-120c-4s-fpv-lipo-battery_3_.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 1350,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -5126,7 +5957,14 @@
       "1350mAh",
       "Xt60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1137",
@@ -5136,12 +5974,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 6S battery is the perfect solution for your 6”+ cinema quad!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-6s-22-2v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-5600mah-6s-22.2v-30c-li-ion-battery---xt60_1.jpg",
-    "approx_price": 202.49,
     "capacity_mah": 5600,
     "cell_count": 6,
     "discharge_rate_c": 30,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -5165,7 +6001,14 @@
       "5600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1138",
@@ -5175,12 +6018,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-4s-22.2v-30c-li-ion-battery---xt60.jpg",
-    "approx_price": 87.99,
     "capacity_mah": 2800,
     "cell_count": 4,
     "discharge_rate_c": 30,
     "battery_connector": "XT60",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -5204,7 +6045,14 @@
       "2800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1139",
@@ -5214,12 +6062,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 4S battery is the perfect solution for your 5”+ cinema quad!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-4s-14-8v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-5600mah-4s-14.8v-30c-li-ion-battery---xt60.jpg",
-    "approx_price": 156.99,
     "capacity_mah": 5600,
     "cell_count": 4,
     "discharge_rate_c": 30,
     "battery_connector": "XT60",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -5243,7 +6089,14 @@
       "5600mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1140",
@@ -5253,12 +6106,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-6s-22-2v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-6s-22.2v-30c-li-ion-battery.jpg",
-    "approx_price": 121.49,
     "capacity_mah": 2800,
     "cell_count": 6,
     "discharge_rate_c": 30,
     "battery_connector": "XT60",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -5282,7 +6133,14 @@
       "2800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1141",
@@ -5292,12 +6150,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-22-2v-30c-6s-li-ion-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-6s-22.2v-30c-li-ion-battery_1.jpg",
-    "approx_price": 121.49,
     "capacity_mah": 2800,
     "cell_count": 6,
     "discharge_rate_c": 30,
     "battery_connector": "XT30",
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
@@ -5321,7 +6177,14 @@
       "2800mAh",
       "XT30",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1142",
@@ -5331,12 +6194,10 @@
     "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-4s-22.2v-30c-li-ion-battery---xt30.jpg",
-    "approx_price": 87.99,
     "capacity_mah": 2800,
     "cell_count": 4,
     "discharge_rate_c": 30,
     "battery_connector": "XT30",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -5360,7 +6221,14 @@
       "2800mAh",
       "XT30",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1143",
@@ -5370,7 +6238,6 @@
     "description": "The 900mAh LiPo Battery works with the iFlight Defender 25. Higher capacity for higher endurance!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/iflight-defender-25-4s-lipo-battery-900mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight_defender_900mah_battery_1_.jpg",
-    "approx_price": 36.49,
     "capacity_mah": 900,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -5397,7 +6264,14 @@
       "900mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1144",
@@ -5407,16 +6281,13 @@
     "description": "The Flywoo Explorer 750mAh HV is a 4S 80C LiPo Battery with an XT30 connector.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-750mah-hv-4s-80c-lipo-battery-2pcs-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo_explorer_750mah_hv_4s_80c_lipo_battery_2pcs_-_xt30_1_.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 750,
     "cell_count": 4,
     "discharge_rate_c": 80,
     "battery_connector": "XT30",
     "chemistry": "LiHV",
-    "pack_count": 2,
     "voltage_nominal_v": 15.4,
     "voltage_max_v": 17.4,
-    "price_per_unit": 27.0,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 15.4,
@@ -5437,7 +6308,14 @@
       "750mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1145",
@@ -5447,7 +6325,6 @@
     "description": "The Tattu R-Line 750mAh 4s1P 95C LiPo Battery with XT30 plug has full capacity and discharge rate. Works perfectly with your powerful FPV 3inch and also 4inch copters.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-750mah4s1p-95c-lipo-battery-v1-0-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/untitled_design_79_.png",
-    "approx_price": 25.99,
     "capacity_mah": 750,
     "cell_count": 4,
     "discharge_rate_c": 95,
@@ -5475,7 +6352,14 @@
       "750mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1146",
@@ -5485,7 +6369,6 @@
     "description": "The DJI Avata Intelligent Flight Battery has a rated capacity of 35.71 Wh and a powerful battery life of approximately 18 minutes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dji-avata-intelligent-flight-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-avata-intelligent-flight-battery_1.jpg",
-    "approx_price": 129.0,
     "chemistry": "LiPo",
     "compatibility": {
       "cell_count": null,
@@ -5502,7 +6385,14 @@
       ]
     },
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1147",
@@ -5512,7 +6402,6 @@
     "description": "Highly efficient and extremely powerful, the KRATOS 4S 450mAh 75C Lipo Battery by HGLRC features 3.7 voltage, an XT30 discharge plug, and a 75C discharge rate.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/hglrc-kratos-4s-450mah-75c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-kratos-4s-450mah-75c-lipo-battery---xt30--main-2.jpg",
-    "approx_price": 15.99,
     "capacity_mah": 450,
     "cell_count": 4,
     "discharge_rate_c": 75,
@@ -5540,7 +6429,14 @@
       "450mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1148",
@@ -5550,7 +6446,6 @@
     "description": "The Lumenier N2O Feather-Lite 1150mAh 6s 130c LiPo Battery. Compared to the N2O Extreme, the N2O Feather-Lite series weighs less, while still giving you the highest discharge capabilities.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1150mah-6s-130c-lipo-battery-xt-60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-n2o-feather-lite-1150mah-6s-130c-lipo-battery-_xt-60_-main-2.jpg",
-    "approx_price": 74.49,
     "capacity_mah": 1150,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -5577,7 +6472,15 @@
       "1150mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 130,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1149",
@@ -5587,7 +6490,6 @@
     "description": "The EX line of batteries by Auline are powerful Lipo batteries that are best suited for racing or freestyle 5\" quadcopters! This 4S battery is equipped with a 1350mAh capacity,  14.8V,  and comes with an XT-60 connector.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-ex-1350mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/1/f11103f5d372a366274064541b9c1048.jpg",
-    "approx_price": 37.99,
     "capacity_mah": 1350,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -5615,7 +6517,14 @@
       "1350mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1150",
@@ -5625,7 +6534,6 @@
     "description": "The Tattu R-Line Version 4.0 1050mAh 6S1P 130C Lipo Battery is the updated version of the R-Line series in 2021.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1050mah-6s1p-130c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1050mah-6s1p-130c-lipo-battery.jpg",
-    "approx_price": 45.99,
     "capacity_mah": 1050,
     "cell_count": 6,
     "discharge_rate_c": 130,
@@ -5653,7 +6561,14 @@
       "1050mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1151",
@@ -5663,7 +6578,6 @@
     "description": "The Tattu R-Line Version 4.0 1400mAh 6S1P 130C Lipo Battery is the updated version of the R-Line series in 2021.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1400mah-6s1p-130c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1400mah-6s1p-130c-lipo-battery-1.jpg",
-    "approx_price": 56.99,
     "capacity_mah": 1400,
     "cell_count": 6,
     "discharge_rate_c": 130,
@@ -5691,7 +6605,14 @@
       "1400mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1152",
@@ -5701,11 +6622,9 @@
     "description": "The 4S2P 3000mAh 14.8 Li-ion Battery brings high-efficient performance and can be charged over 350 times and still store 85% of its original capacity.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-4s1p-3000mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/-/1-8_2_2.jpg",
-    "approx_price": 76.99,
     "capacity_mah": 3000,
     "cell_count": 4,
     "battery_connector": "XT30",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -5729,7 +6648,14 @@
       "3000mAh",
       "XT30",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1153",
@@ -5739,10 +6665,8 @@
     "description": "After the outstanding success of the initial 18650 models, ZOHD is now bringing you even more flight time with the 21700 cells!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-max-21700-4s2p-10000mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/o/zohd-lionpack-max-21700-4s2p-10000mah-14.8v-li-ion-battery.jpg",
-    "approx_price": 121.49,
     "capacity_mah": 10000,
     "cell_count": 4,
-    "voltage_from_name": 14.8,
     "chemistry": "Li-Ion",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.4,
@@ -5767,7 +6691,14 @@
       "10000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1154",
@@ -5777,10 +6708,8 @@
     "description": "After the outstanding success of the initial 18650 models, ZOHD is now bringing you even more flight time with the 21700 cells!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-max-21700-4s1p-5000mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/o/zohd-lionpack-max-21700-4s1p-5000mah-14.8v-li-ion-battery.jpg",
-    "approx_price": 80.99,
     "capacity_mah": 5000,
     "cell_count": 4,
-    "voltage_from_name": 14.8,
     "chemistry": "Li-Ion",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.4,
@@ -5805,7 +6734,14 @@
       "5000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1155",
@@ -5815,16 +6751,13 @@
     "description": "The BETAFPV 850mAh 4S battery has 4S (14.8V) high voltage and 75C high discharge rate. Coming in at 850mAh, you are sure to get longer flight time and be able to accelerate to the full speed in a short period of time.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-850mah-4s-75c-battery-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/8/5/850mah-4s-75c-lipo-battery-3.jpg",
-    "approx_price": 37.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "discharge_rate_c": 75,
     "chemistry": "LiPo",
-    "pack_count": 2,
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
-    "price_per_unit": 19.0,
     "compatibility": {
       "cell_count": 4,
       "voltage_nominal_v": 14.8,
@@ -5845,7 +6778,14 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1156",
@@ -5855,16 +6795,13 @@
     "description": "The 550mAh 6S 75C battery is a lightweight and high-quality lipo battery released by BETAFPV.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-550mah-6s-75c-battery-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/betafpv-550mah-6s-75c-battery-1.jpg",
-    "approx_price": 41.99,
     "capacity_mah": 550,
     "cell_count": 6,
     "discharge_rate_c": 75,
     "chemistry": "LiPo",
-    "pack_count": 2,
     "battery_connector": "XT60",
     "voltage_nominal_v": 22.2,
     "voltage_max_v": 25.2,
-    "price_per_unit": 21.0,
     "compatibility": {
       "cell_count": 6,
       "voltage_nominal_v": 22.2,
@@ -5885,7 +6822,14 @@
       "550mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1157",
@@ -5895,7 +6839,6 @@
     "description": "With a 120C and 200C max burst discharge, Thunder Power's new Adrenaline 1340mAh LiPo 6S Battery is the perfect choice for high-quality power output.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/h/thunder-power-adrenaline-v3.0-1340mah-6s-120c-lipo-battery.jpg",
-    "approx_price": 59.99,
     "capacity_mah": 1340,
     "cell_count": 6,
     "discharge_rate_c": 120,
@@ -5923,7 +6866,14 @@
       "1340mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1158",
@@ -5933,7 +6883,6 @@
     "description": "With a 120C and 190C max burst discharge, Thunder Power's new Adrenaline 1340mAh LiPo 4S Battery is the perfect choice for high-quality power output.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/h/thunder-power-adrenaline-v3.0-1340mah-4s-120c-lipo-battery.jpg",
-    "approx_price": 28.99,
     "capacity_mah": 1340,
     "cell_count": 4,
     "discharge_rate_c": 120,
@@ -5961,7 +6910,14 @@
       "1340mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1159",
@@ -5971,7 +6927,6 @@
     "description": "With a 120C and 200C max burst discharge, Thunder Power's new Adrenaline 1340mAh LiPo 5S Battery is the perfect choice for high-quality power output.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-5s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/h/thunder-power-adrenaline-v3.0-1340mah-5s-120c-lipo-battery.jpg",
-    "approx_price": 34.99,
     "capacity_mah": 1340,
     "cell_count": 5,
     "discharge_rate_c": 120,
@@ -5998,7 +6953,14 @@
       "5S",
       "1340mAh",
       "XT60"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1160",
@@ -6008,10 +6970,8 @@
     "description": "The ZOHD 18650 Lionpack Battery will give you double the flight time you will get with a similar Li-Po battery.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-18650-4s1p-3500mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/_/z/_zohd-lionpack-18650-lithium-ion-battery-14.8v-3.5ah-_4s1p-3500mah_5.jpg",
-    "approx_price": 67.49,
     "capacity_mah": 3500,
     "cell_count": 4,
-    "voltage_from_name": 14.8,
     "chemistry": "Li-Ion",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.4,
@@ -6036,7 +6996,14 @@
       "3500mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1161",
@@ -6046,7 +7013,6 @@
     "description": "The Lumenier N2O Extreme 1350mAh 4s 150c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-4s-150c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1350-4s-main.jpg",
-    "approx_price": 34.99,
     "capacity_mah": 1350,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6073,7 +7039,15 @@
       "1350mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 150,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1162",
@@ -6083,7 +7057,6 @@
     "description": "The XILO 2250mAh 6s 75c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-2250mah-6s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/2/2250mah-6s-75c-main.jpg",
-    "approx_price": 78.49,
     "capacity_mah": 2250,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -6110,7 +7083,15 @@
       "2250mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1163",
@@ -6120,7 +7101,6 @@
     "description": "The AHTECH Inifinty V2 battery is a high-discharge graphene-infused lipo that is smaller and lighter than its predecessor.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/ahtech-infinity-rs-force-v2-1300mah-120c-6s-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/9/2/92d1ff23-2ea9-448f-ace9-b1cd0aa8601b.jpg",
-    "approx_price": 34.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "discharge_rate_c": 120,
@@ -6148,7 +7128,14 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1164",
@@ -6158,7 +7145,6 @@
     "description": "The XILO 2250mAh 4s 75c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-2250mah-4s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/2/2250mah-4s-75c-main.jpg",
-    "approx_price": 53.49,
     "capacity_mah": 2250,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6185,7 +7171,15 @@
       "2250mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1165",
@@ -6195,7 +7189,6 @@
     "description": "The XILO 850mAh 4s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-4s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/8/5/850mah-4s-100c-main_1.jpg",
-    "approx_price": 19.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6222,7 +7215,15 @@
       "850mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1166",
@@ -6232,7 +7233,6 @@
     "description": "The AHTECH Inifinty V2 battery is a high-discharge graphene-infused lipo that is smaller and lighter than its predecessor.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/ahtech-infinity-rs-force-v2-1300mah-100c-4s-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/n/infinity-1300-4s-v2-1.jpg",
-    "approx_price": 27.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "discharge_rate_c": 100,
@@ -6260,7 +7260,14 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1167",
@@ -6270,7 +7277,6 @@
     "description": "The XILO 1250mah 6s 75c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1250mah-6s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500mah-6s-75c-lipo-main.jpg",
-    "approx_price": 34.99,
     "capacity_mah": 1250,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -6297,7 +7303,15 @@
       "1250mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1168",
@@ -6307,7 +7321,6 @@
     "description": "With a 100C and 200C discharge, Thunder Power's new Adrenaline 1100mAh LiPo Battery is the perfect choice for high-quality power output.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1100mah-6s-100c-adrenaline-series-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/p/tp1100-6sa100x_1.jpg",
-    "approx_price": 52.99,
     "capacity_mah": 1100,
     "cell_count": 6,
     "discharge_rate_c": 100,
@@ -6335,7 +7348,14 @@
       "1100mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1169",
@@ -6345,7 +7365,6 @@
     "description": "The XILO 1500mAh 4s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500mah-100c-lipo-main.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6372,7 +7391,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1170",
@@ -6382,7 +7409,6 @@
     "description": "The XILO 1300mAh 4s 100c Lipo Battery. XILO gives you the best bang for your buck with affordable batteries for FPV Drone Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-4s-100c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-100c-lipo-main.jpg",
-    "approx_price": 15.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6409,7 +7435,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1171",
@@ -6419,11 +7453,18 @@
     "description": "NewBeeDrone's new line of Nitro Nectar batteries made for your full-size quad - featuring a removable balance lead.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/nitro-nectar-4s-1300-mah-battery-with-removable-balance-lead-rbl-aluminum-shield.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone-1300-4s-main1.jpg",
-    "approx_price": 29.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1172",
@@ -6433,11 +7474,18 @@
     "description": "NewBeeDrone's tiny battery for tiny quads! Comes with XT-60 connector.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-850mah-4s-60c-lipo-battery-w-removable-balance-lead.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone-850-4s-main.jpg",
-    "approx_price": 18.99,
     "capacity_mah": 850,
     "cell_count": 4,
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "discharge_rate_c": 60,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1173",
@@ -6447,11 +7495,18 @@
     "description": "NewBeeDrone's new line of Nitro Nectar batteries made for your full-size quad - featuring a removable balance lead.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-1800mah-4s-80c-lipo-battery-w-removable-balance-lead-aluminum-shield.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone-1800-4s-main2.jpg",
-    "approx_price": 39.99,
     "capacity_mah": 1800,
     "cell_count": 4,
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1174",
@@ -6461,11 +7516,18 @@
     "description": "NewBeeDrone's new line of Nitro Nectar batteries made for your full-size quad - featuring a removable balance lead.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-1500mah-4s-80c-lipo-battery-w-removable-balance-lead-aluminum-shield.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone-1500-4s-main.jpg",
-    "approx_price": 30.99,
     "capacity_mah": 1500,
     "cell_count": 4,
     "size_class": "universal",
-    "tags": []
+    "tags": [],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1175",
@@ -6475,7 +7537,6 @@
     "description": "Lumenier batteries with the latest Silicon Graphene infused technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1300mah-4s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-graphene-1300mah-4s-95c-lipo-battery.jpg",
-    "approx_price": 51.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6502,7 +7563,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1176",
@@ -6512,12 +7581,10 @@
     "description": "All Tattu LiPos are packed with vibration-proof & fire-proof material and our luxury battery box ensuring you get your battery in perfect condition.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-850mah-14-8v-75c-4s1p-lipo-battery-pack-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-850mah-14-8v-75c-4s1p-lipo-battery-pack.jpg",
-    "approx_price": 18.86,
     "capacity_mah": 850,
     "cell_count": 4,
     "discharge_rate_c": 75,
     "battery_connector": "XT30",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -6541,7 +7608,14 @@
       "850mAh",
       "XT30",
       "4 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1177",
@@ -6551,7 +7625,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-1000mah-4s-95c-lipo-battery-xt60_1.jpg",
-    "approx_price": 39.49,
     "capacity_mah": 1000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -6578,7 +7651,15 @@
       "1000mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1178",
@@ -6588,7 +7669,6 @@
     "description": "Lumenier batteries with the latest Graphene technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1500mah-5s-80c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-graphene-1500mah-5s-80c-lipo-battery.jpg",
-    "approx_price": 56.99,
     "capacity_mah": 1500,
     "cell_count": 5,
     "chemistry": "LiPo",
@@ -6614,7 +7694,15 @@
       "5S",
       "1500mAh",
       "XT60"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1179",
@@ -6624,7 +7712,6 @@
     "description": "A TATTU R-Line 1550mAh 4s 95c Lipo Battery. Ultra high C rated racing battery.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-1550mah-4s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-rline-1550-4s.jpg",
-    "approx_price": 51.49,
     "capacity_mah": 1550,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6651,7 +7738,15 @@
       "1550mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1180",
@@ -6661,7 +7756,6 @@
     "description": "A TATTU R-Line 1300mAh 4s 95c Lipo Battery. Ultra high C rated racing battery.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-1300mah-4s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-rline-1300mah-95c-lipo-battery-top.jpg",
-    "approx_price": 43.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6688,7 +7782,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1181",
@@ -6698,7 +7800,6 @@
     "description": "Lumenier batteries with the latest Graphene technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1500mah-4s-80c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/e/lead_9_1.jpg",
-    "approx_price": 56.99,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6725,7 +7826,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1182",
@@ -6735,7 +7844,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1900mah-4s-85c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/9/1900-4s-85c-top.jpg",
-    "approx_price": 67.49,
     "capacity_mah": 1900,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6762,7 +7870,15 @@
       "1900mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 85,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1183",
@@ -6772,7 +7888,6 @@
     "description": "The Thunder Power 1300mAh 6s battery is the perfect match for multirotors and UAVs which require insane power and quality all in one package.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1300mah-6s-70c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-6s-70c-lead_1.jpg",
-    "approx_price": 9.99,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -6799,7 +7914,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 70,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1184",
@@ -6809,7 +7932,6 @@
     "description": "The Thunder Power 1300mAh 4s battery is the perfect match for multirotors and UAVs which require insane power and quality all in one package.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-rampage-1300mah-4s-70c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-4s-70-rampage-main.jpg",
-    "approx_price": 9.99,
     "capacity_mah": 1300,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6836,7 +7958,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 70,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1185",
@@ -6846,7 +7976,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-60c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/0/1000-4s-60c-top.jpg",
-    "approx_price": 26.99,
     "capacity_mah": 1000,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -6873,7 +8002,15 @@
       "1000mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 60,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1186",
@@ -6883,7 +8020,6 @@
     "description": "The Lumenier N2O 3500mAh 4s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-3500mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-3500-4s-side.jpg",
-    "approx_price": 90.49,
     "capacity_mah": 3500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -6910,7 +8046,15 @@
       "3500mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1187",
@@ -6920,7 +8064,6 @@
     "description": "The Tattu R-Line Version 1.0 550mAh 14.8V 95C 4S1P LiPo battery pack comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-4s-95c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-550mah-4s-95c-lipo-battery---xt30-1.jpg",
-    "approx_price": 20.49,
     "capacity_mah": 550,
     "cell_count": 4,
     "discharge_rate_c": 95,
@@ -6948,7 +8091,14 @@
       "550mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1188",
@@ -6958,7 +8108,6 @@
     "description": "The Tattu 450mAh 14.8V 45C 4S1P Lipo Battery Pack with XT30 plug is the best battery choice for micro H-Frame quads.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-450mah-4s-75c-lipo-battery-long-size-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-450mah-4s-75c-lipo-battery---long-size-xt30-main.jpg",
-    "approx_price": 20.49,
     "capacity_mah": 450,
     "cell_count": 4,
     "discharge_rate_c": 75,
@@ -6986,7 +8135,14 @@
       "450mAh",
       "XT30",
       "3.5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1189",
@@ -6996,11 +8152,9 @@
     "description": "The Auline 21700 A45 is a very powerful 4S Li-ion battery featuring an XT-60 connector, 14.8V, and 4000mAh.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-4000mah-14-8v-a45-4s-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/u/auline-21700-4000mah-14.8v-a45-4s-li-ion-battery---xt60.jpg",
-    "approx_price": 67.49,
     "capacity_mah": 4000,
     "cell_count": 4,
     "battery_connector": "XT60",
-    "voltage_from_name": 14.8,
     "chemistry": "LiPo",
     "voltage_nominal_v": 14.8,
     "voltage_max_v": 16.8,
@@ -7024,7 +8178,14 @@
       "4000mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1190",
@@ -7034,7 +8195,6 @@
     "description": "Lumenier batteries with the latest Silicon Graphene infused technology give you the best performance for your aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-silicon-graphene-1500mah-6s-95c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/i/silicon-graphene-1500mah-6s-95c-main.jpg",
-    "approx_price": 70.49,
     "capacity_mah": 1500,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -7061,7 +8221,15 @@
       "1500mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1191",
@@ -7071,7 +8239,6 @@
     "description": "The Lumenier LX series of batteries have high C ratings for extreme performance.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-4s-95c-top.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 1300,
     "cell_count": 4,
     "battery_connector": "XT60",
@@ -7098,7 +8265,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 95,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1192",
@@ -7108,7 +8283,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-45c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/5/1500-4s-45c-top_1.jpg",
-    "approx_price": 39.49,
     "capacity_mah": 1500,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -7135,7 +8309,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 45,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1193",
@@ -7145,7 +8327,6 @@
     "description": "The Thunder Power 1800mAh 4s battery is the perfect match for multirotors and UAVs which require insane power and quality all in one package.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1800mah-4s-70c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1800-4s-70c-lead-1000x_1.jpg",
-    "approx_price": 79.99,
     "capacity_mah": 1800,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -7172,7 +8353,15 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 70,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1194",
@@ -7182,7 +8371,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-6s-35c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-6s-35-top.jpg",
-    "approx_price": 40.49,
     "capacity_mah": 1300,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -7209,7 +8397,15 @@
       "1300mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1195",
@@ -7219,7 +8415,6 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-35c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/0/1000-4s-front_1.jpg",
-    "approx_price": 28.49,
     "capacity_mah": 1000,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -7246,7 +8441,15 @@
       "1000mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1196",
@@ -7256,7 +8459,6 @@
     "description": "The Tattu 1800mAh 4s battery is the perfect match for many multirotors and UAVs which demand high quality batteries.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-1800mah-4s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/8/1800-4s-75c_1.jpg",
-    "approx_price": 30.99,
     "capacity_mah": 1800,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -7283,7 +8485,15 @@
       "1800mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1197",
@@ -7293,7 +8503,6 @@
     "description": "The Tattu 1400mAh 6s battery is the perfect match for many multirotors and UAVs which demand high quality batteries.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-1400mah-6s-75c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/4/1400mah-6s-75c-lead.jpg",
-    "approx_price": 53.99,
     "capacity_mah": 1400,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -7320,7 +8529,15 @@
       "1400mAh",
       "XT60",
       "6 inch"
-    ]
+    ],
+    "discharge_rate_c": 75,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1198",
@@ -7330,7 +8547,6 @@
     "description": "Tattu batteries provide high quality, reliable power for your Multirotor or Aircraft.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-2200mah-4s-35c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/ta-35c-2200-4s1p.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 2200,
     "cell_count": 4,
     "chemistry": "LiPo",
@@ -7357,7 +8573,15 @@
       "2200mAh",
       "XT60",
       "5 inch"
-    ]
+    ],
+    "discharge_rate_c": 35,
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
   },
   {
     "pid": "BAT-1199",
@@ -7367,10 +8591,8 @@
     "description": "The Lumenier High Voltage series of  lipo batteries provide a little extra voltage to give you more power.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-80c-15-2v-high-voltage-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/3/1300-4s-80c-hv-top.jpg",
-    "approx_price": 37.99,
     "capacity_mah": 1300,
     "cell_count": 4,
-    "voltage_from_name": 15.2,
     "chemistry": "LiPo",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
@@ -7395,7 +8617,15 @@
       "1300mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1200",
@@ -7405,10 +8635,8 @@
     "description": "High quality Lumenier lipo batteries provide you with great performance for your multi-rotor airframes and planes.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-80c-15-2v-high-voltage-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/o/top-1000x1000.jpg",
-    "approx_price": 47.49,
     "capacity_mah": 1500,
     "cell_count": 4,
-    "voltage_from_name": 15.2,
     "chemistry": "LiPo",
     "battery_connector": "XT60",
     "voltage_nominal_v": 14.8,
@@ -7433,7 +8661,15 @@
       "1500mAh",
       "XT60",
       "4 inch"
-    ]
+    ],
+    "discharge_rate_c": 80,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1201",
@@ -7443,7 +8679,6 @@
     "description": "The Lumenier N2O 1100mAh 6s 120c Lipo Battery. The N2O series features Polycrystalline Super Nanotubes technology to bring you the highest performing batteries for your racing drones.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1100mah-6s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/2/n2o-1100-6s-main_1.jpg",
-    "approx_price": 62.49,
     "capacity_mah": 1100,
     "cell_count": 6,
     "chemistry": "LiPo",
@@ -7470,7 +8705,15 @@
       "1100mAh",
       "XT60",
       "7 inch"
-    ]
+    ],
+    "discharge_rate_c": 120,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "BAT-1202",
@@ -7480,10 +8723,8 @@
     "description": "The VTC6 18650 series batteries by GEPRC are very powerful batteries specially designed for long-range quads!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-6s1p-3000mah-22-2v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc_vtc6_18650_6s1p_3000mah_22.2v_li-ion_battery.jpg",
-    "approx_price": 75.99,
     "capacity_mah": 3000,
     "cell_count": 6,
-    "voltage_from_name": 22.2,
     "chemistry": "LiPo",
     "battery_connector": "XT30",
     "voltage_nominal_v": 22.2,
@@ -7508,6 +8749,527 @@
       "3000mAh",
       "XT30",
       "5 inch"
-    ]
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture — NOT NDAA"
+    }
+  },
+  {
+    "pid": "BAT-1300",
+    "category": "batteries",
+    "name": "Molicel P42A 21700 4200mAh 45A Li-Ion Cell",
+    "manufacturer": "Molicel",
+    "description": "High-power 21700 Li-Ion cell delivering 4200 mAh at 45A continuous (10.7C). 230 Wh/kg energy density. The workhorse cell for FPV long-range and tactical drone builds. Taiwan-manufactured, allied-nation supply chain. Widely used in Ukrainian FPV drone production.",
+    "link": "https://www.molicel.com/",
+    "image_file": "",
+    "capacity_mah": 4200,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 10.7,
+    "discharge_rate_a": 45,
+    "energy_density_wh_kg": 230,
+    "cycle_life": 500,
+    "weight_g": 70,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "high_power",
+      "45A",
+      "fpv_long_range",
+      "tactical",
+      "ukraine_fpv",
+      "workhorse"
+    ],
+    "country": "Taiwan",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true,
+      "note": "Taiwan. Allied nation. ~$8-10/cell. Combat-proven (Ukraine FPV)"
+    }
+  },
+  {
+    "pid": "BAT-1301",
+    "category": "batteries",
+    "name": "Molicel P50B 21700 5000mAh 60A Li-Ion Cell",
+    "manufacturer": "Molicel",
+    "description": "Highest-capacity high-power 21700 cell at 5000 mAh with 60A continuous (12C). 265 Wh/kg energy density. Used in KULR K1A defense battery system. Taiwan-manufactured.",
+    "link": "https://www.molicel.com/",
+    "image_file": "",
+    "capacity_mah": 5000,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 12,
+    "discharge_rate_a": 60,
+    "energy_density_wh_kg": 265,
+    "cycle_life": 500,
+    "weight_g": 70,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "highest_capacity",
+      "60A",
+      "12C",
+      "kulr_k1a",
+      "best_power_energy_ratio"
+    ],
+    "country": "Taiwan",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Taiwan. Allied nation. ~$10-13/cell. Used in KULR K1A."
+    }
+  },
+  {
+    "pid": "BAT-1302",
+    "category": "batteries",
+    "name": "Molicel P45B 21700 4500mAh 45A Li-Ion Cell",
+    "manufacturer": "Molicel",
+    "description": "Balanced 21700 cell offering 4500 mAh at 45A continuous. Sits between P42A and P50B.",
+    "link": "https://www.molicel.com/",
+    "image_file": "",
+    "capacity_mah": 4500,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 10,
+    "discharge_rate_a": 45,
+    "energy_density_wh_kg": 245,
+    "cycle_life": 500,
+    "weight_g": 68,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "balanced",
+      "45A"
+    ],
+    "country": "Taiwan",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Taiwan. Allied nation. ~$9-11/cell."
+    }
+  },
+  {
+    "pid": "BAT-1303",
+    "category": "batteries",
+    "name": "Samsung SDI 40T 21700 4000mAh 35A Li-Ion Cell",
+    "manufacturer": "Samsung SDI",
+    "description": "High-power 21700 cell from Samsung SDI delivering 4000 mAh at 35A continuous. 200 Wh/kg. Widely available, cost-effective. South Korean manufacture.",
+    "link": "https://www.samsungsdi.com/",
+    "image_file": "",
+    "capacity_mah": 4000,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 8.75,
+    "discharge_rate_a": 35,
+    "energy_density_wh_kg": 200,
+    "cycle_life": 500,
+    "weight_g": 72,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "high_power",
+      "35A",
+      "cost_effective"
+    ],
+    "country": "South Korea",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "South Korea. Allied nation. ~$5-8/cell."
+    }
+  },
+  {
+    "pid": "BAT-1304",
+    "category": "batteries",
+    "name": "Samsung SDI 50E 21700 5000mAh 10A Li-Ion Cell",
+    "manufacturer": "Samsung SDI",
+    "description": "Energy-optimized 21700 cell with 5000 mAh at 10A continuous. High energy density for endurance-focused platforms.",
+    "link": "https://www.samsungsdi.com/",
+    "image_file": "",
+    "capacity_mah": 5000,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 2,
+    "discharge_rate_a": 10,
+    "energy_density_wh_kg": 260,
+    "cycle_life": 500,
+    "weight_g": 69,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "energy_optimized",
+      "endurance",
+      "survey"
+    ],
+    "country": "South Korea",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "South Korea. Allied nation. ~$5-7/cell."
+    }
+  },
+  {
+    "pid": "BAT-1305",
+    "category": "batteries",
+    "name": "LG Energy Solution M50LT 21700 5000mAh Li-Ion Cell",
+    "manufacturer": "LG Energy Solution",
+    "description": "High-capacity 21700 energy cell with 5000 mAh at 7.3A continuous. 267 Wh/kg with 1,000 cycle life. South Korean manufacture.",
+    "link": "https://www.lgensol.com/",
+    "image_file": "",
+    "capacity_mah": 5000,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 1.5,
+    "discharge_rate_a": 7.3,
+    "energy_density_wh_kg": 267,
+    "cycle_life": 1000,
+    "weight_g": 68,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "267_wh_kg",
+      "1000_cycles",
+      "endurance"
+    ],
+    "country": "South Korea",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "South Korea. Allied nation. ~$5-8/cell. 1,000 cycle life."
+    }
+  },
+  {
+    "pid": "BAT-1306",
+    "category": "batteries",
+    "name": "Amprius SiCore 450 Wh/kg Silicon-Anode Cell",
+    "manufacturer": "Amprius Technologies",
+    "description": "Next-generation silicon-anode lithium-ion cell achieving 450 Wh/kg and 950 Wh/L. 1,300 cycles at 10C charge/discharge. UN38.3 certified. DIU contracts. Supplies AeroVironment, Teledyne FLIR, BAE Systems.",
+    "link": "https://www.amprius.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion Silicon-Anode",
+    "cell_format": "pouch",
+    "voltage_nominal_v": 3.8,
+    "voltage_max_v": 4.35,
+    "discharge_rate_c": 10,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": 450,
+    "cycle_life": 1300,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "silicon_anode",
+      "450_wh_kg",
+      "diu_contract",
+      "aerovironment",
+      "bae_systems",
+      "un38.3"
+    ],
+    "country": "United States",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "NYSE: AMPX. DIU contracts. 450 Wh/kg — highest commercially available."
+    }
+  },
+  {
+    "pid": "BAT-1307",
+    "category": "batteries",
+    "name": "Amprius SiMaxx 500 Wh/kg Silicon-Anode Cell",
+    "manufacturer": "Amprius Technologies",
+    "description": "Ultra-high energy density silicon-anode cell targeting 500 Wh/kg. In development for military and aerospace applications.",
+    "link": "https://www.amprius.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion Silicon-Anode",
+    "cell_format": "pouch",
+    "voltage_nominal_v": 3.8,
+    "voltage_max_v": 4.4,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": 500,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "silicon_anode",
+      "500_wh_kg",
+      "next_gen",
+      "military_aerospace"
+    ],
+    "country": "United States",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "In development. 500 Wh/kg target."
+    }
+  },
+  {
+    "pid": "BAT-1308",
+    "category": "batteries",
+    "name": "KULR K1A Modular Battery System",
+    "manufacturer": "KULR Technology",
+    "description": "Modular 6S battery system integrating Amprius SiCore and Molicel P50B cells with NASA-grade thermal management. Texas manufacturing with Hylio.",
+    "link": "https://www.kulrtechnology.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": 6,
+    "battery_connector": "custom defense",
+    "chemistry": "Li-Ion (Amprius SiCore + Molicel P50B)",
+    "cell_format": "modular pack",
+    "voltage_nominal_v": 22.2,
+    "voltage_max_v": 25.2,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": null,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "pack_defense",
+    "tags": [
+      "modular",
+      "6S",
+      "nasa_thermal",
+      "amprius_sicore",
+      "molicel_p50b",
+      "texas_mfg"
+    ],
+    "country": "United States",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "NASA-grade thermal. Texas manufacturing."
+    }
+  },
+  {
+    "pid": "BAT-1309",
+    "category": "batteries",
+    "name": "EaglePicher UAS Battery Pack",
+    "manufacturer": "EaglePicher Technologies",
+    "description": "Defense heritage battery manufacturer with 85% of US missile battery market share. First Li-Ion UAV battery (Global Hawk). Custom MIL-SPEC UAS packs.",
+    "link": "https://www.eaglepicher.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": null,
+    "battery_connector": "custom defense",
+    "chemistry": "Li-Ion",
+    "cell_format": "custom pack",
+    "voltage_nominal_v": null,
+    "voltage_max_v": null,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": null,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "pack_defense",
+    "tags": [
+      "defense_heritage",
+      "85pct_missile_market",
+      "global_hawk_first",
+      "mil_spec"
+    ],
+    "country": "United States",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true,
+      "note": "85% of US missile batteries. First Li-Ion UAV battery (Global Hawk)."
+    }
+  },
+  {
+    "pid": "BAT-1310",
+    "category": "batteries",
+    "name": "Epsilor Military UAS Battery Pack",
+    "manufacturer": "Epsilor",
+    "description": "Military-grade UAS battery packs tested for bullet penetration and extreme temperature. Israeli defense supply chain.",
+    "link": "https://epsilor.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": null,
+    "battery_connector": "custom defense",
+    "chemistry": "Li-Ion",
+    "cell_format": "custom pack",
+    "voltage_nominal_v": null,
+    "voltage_max_v": null,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": null,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "pack_defense",
+    "tags": [
+      "military_grade",
+      "bullet_penetration_tested",
+      "extreme_temperature",
+      "israeli_defense"
+    ],
+    "country": "Israel",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true,
+      "note": "Israeli military battery specialist. Bullet-penetration tested."
+    }
+  },
+  {
+    "pid": "BAT-1311",
+    "category": "batteries",
+    "name": "DP Battery Semi-Solid 400 Wh/kg Cell",
+    "manufacturer": "DP Battery",
+    "description": "Ukrainian semi-solid lithium cell achieving ~400 Wh/kg. Enables 100+ km FPV range versus 70 km conventional. Wartime-driven innovation.",
+    "link": "",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li semi-solid",
+    "cell_format": "pouch",
+    "voltage_nominal_v": 3.7,
+    "voltage_max_v": 4.3,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": 400,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "semi_solid",
+      "400_wh_kg",
+      "100km_fpv",
+      "wartime_innovation"
+    ],
+    "country": "Ukraine",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true,
+      "note": "Ukrainian sovereign battery. ~400 Wh/kg. 100+ km FPV range."
+    }
+  },
+  {
+    "pid": "BAT-1312",
+    "category": "batteries",
+    "name": "Lyten Lithium-Sulfur Cell",
+    "manufacturer": "Lyten",
+    "description": "Next-generation lithium-sulfur chemistry using 3D graphene technology. No cobalt/nickel dependency. Acquiring Northvolt assets. Pre-production.",
+    "link": "https://lyten.com/",
+    "image_file": "",
+    "capacity_mah": null,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Lithium-Sulfur",
+    "cell_format": "pouch",
+    "voltage_nominal_v": 2.1,
+    "voltage_max_v": 2.5,
+    "discharge_rate_c": null,
+    "discharge_rate_a": null,
+    "energy_density_wh_kg": null,
+    "cycle_life": null,
+    "weight_g": null,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "lithium_sulfur",
+      "3d_graphene",
+      "no_cobalt",
+      "northvolt_assets",
+      "next_gen"
+    ],
+    "country": "United States",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Li-S with 3D graphene. Pre-production. Acquiring Northvolt assets."
+    }
+  },
+  {
+    "pid": "BAT-1313",
+    "category": "batteries",
+    "name": "EVE Energy 40PL 21700 4000mAh 70A Li-Ion Cell",
+    "manufacturer": "EVE Energy",
+    "description": "High-power tabless 21700 cell at 70A continuous. Chinese manufacture. Reference competitor. Subject to NDAA battery ban effective January 2028.",
+    "link": "https://www.evebattery.com/",
+    "image_file": "",
+    "capacity_mah": 4000,
+    "cell_count": 1,
+    "battery_connector": "bare cell",
+    "chemistry": "Li-Ion NMC",
+    "cell_format": "21700",
+    "voltage_nominal_v": 3.6,
+    "voltage_max_v": 4.2,
+    "discharge_rate_c": 17.5,
+    "discharge_rate_a": 70,
+    "energy_density_wh_kg": 200,
+    "cycle_life": 300,
+    "weight_g": 72,
+    "compatibility": {},
+    "size_class": "cell",
+    "tags": [
+      "21700",
+      "tabless",
+      "70A",
+      "chinese",
+      "ndaa_ban_2028"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture. NOT NDAA. Subject to ban effective Jan 2028."
+    }
   }
 ]

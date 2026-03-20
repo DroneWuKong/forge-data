@@ -7,27 +7,54 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "The MPU5 is a handheld 3x3 MIMO MANET smart radio running Wave Relay OS (custom Android). Integrates data, video, voice, PTT audio, GPS, and onboard compute in a single ruggedized IP68 unit. Self-forming/self-healing peer-to-peer mesh with no master node, no hop limit, and no node limit. Interchangeable Frequency Module architecture supports L-band through upper C-band. FIPS 140-2 Level 2 validated. Blue UAS certified. Wave Relay IRD provides EW countermeasures assessed by DoD.",
     "link": "https://persistentsystems.com/mpu5/",
-    "approx_price_range": "$10,000–50,000",
     "form_factor": "manpack / body-worn / vehicle-mount",
     "mesh_protocol": "Wave Relay (proprietary)",
     "mimo": "3x3 MIMO",
     "max_tx_power_w": 10,
     "max_throughput_mbps": 150,
-    "channel_bandwidth_mhz": [5, 10, 20],
-    "modulation": ["BPSK", "QPSK", "16QAM", "64QAM"],
+    "channel_bandwidth_mhz": [
+      5,
+      10,
+      20
+    ],
+    "modulation": [
+      "BPSK",
+      "QPSK",
+      "16QAM",
+      "64QAM"
+    ],
     "frequency_architecture": "Interchangeable Frequency Module (IFM)",
-    "compatible_rf_modules": ["RF-1100 (L-Band)", "RF-1350HP (L-Band HP)", "RF-2000 (BAS)", "RF-2150 (S-Band)", "RF-4100 (Lower C-Band)", "RF-5100 (Upper C-Band)"],
+    "compatible_rf_modules": [
+      "RF-1100 (L-Band)",
+      "RF-1350HP (L-Band HP)",
+      "RF-2000 (BAS)",
+      "RF-2150 (S-Band)",
+      "RF-4100 (Lower C-Band)",
+      "RF-5100 (Upper C-Band)"
+    ],
     "encryption": "CTR-AES-256, SHA-256 HMAC, FIPS 140-2 Level 2, NSA CSfC approved",
     "ip_rating": "IP68",
     "mil_std": "MIL-STD-810G",
-    "operating_temp_c": [-20, 45],
-    "storage_temp_c": [-40, 70],
+    "operating_temp_c": [
+      -20,
+      45
+    ],
+    "storage_temp_c": [
+      -40,
+      70
+    ],
     "onboard_compute": "Wave Relay OS (Android-based), 128GB flash storage",
     "video_encoding": "Integrated HD video encoder/decoder",
     "max_hops": "No limit (38 hops / 31 miles demonstrated subterranean)",
     "max_nodes": "No limit (thousands in active deployments)",
     "max_range_between_nodes_mi": 130,
-    "interfaces": ["Ethernet", "USB OTG", "RS-232", "HDMI in/out", "3x SMP antenna ports"],
+    "interfaces": [
+      "Ethernet",
+      "USB OTG",
+      "RS-232",
+      "HDMI in/out",
+      "3x SMP antenna ports"
+    ],
     "ew_capability": "Wave Relay IRD — DoD-assessed EW countermeasure library",
     "compliance": {
       "ndaa": true,
@@ -36,7 +63,16 @@
       "csfc": true,
       "manufactured_in": "USA"
     },
-    "tags": ["defense", "tactical", "MANET", "mesh", "SOF", "combat-proven", "smart-radio"]
+    "tags": [
+      "defense",
+      "tactical",
+      "MANET",
+      "mesh",
+      "SOF",
+      "combat-proven",
+      "smart-radio"
+    ],
+    "country": "USA"
   },
   {
     "pid": "MESH-1001",
@@ -46,31 +82,62 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "Low-SWaP version of the MPU5 designed for integration into UAVs, UGVs, and sensors. Same Wave Relay MANET, same IFM architecture, same mesh protocol. Combines communication, computing, and video subsystems into a single 90.7g module. Onboard Android compute enables swarming algorithms and autonomy applications directly on the radio. FIPS 140-2 Level 2 validated. Blue UAS certified. Pre-certified MIL-STD-461 RE102 for EMI/EMC.",
     "link": "https://persistentsystems.com/embedded-module/",
-    "approx_price_range": "$5,000–15,000 (estimated)",
     "form_factor": "embedded module (2.00 x 3.29 x 0.59 in / 5.08 x 8.35 x 1.49 cm)",
     "weight_g": 90.7,
     "mesh_protocol": "Wave Relay (proprietary)",
     "mimo": "3x3 MIMO",
     "max_tx_power_w": 10,
     "max_throughput_mbps": 150,
-    "channel_bandwidth_mhz": [5, 10, 20],
-    "modulation": ["BPSK", "QPSK", "16QAM", "64QAM"],
+    "channel_bandwidth_mhz": [
+      5,
+      10,
+      20
+    ],
+    "modulation": [
+      "BPSK",
+      "QPSK",
+      "16QAM",
+      "64QAM"
+    ],
     "frequency_architecture": "Interchangeable Frequency Module (IFM) — stackable or ribbon-cable separated",
-    "compatible_rf_modules": ["RF-1100 (L-Band)", "RF-1350HP (L-Band HP)", "RF-2000 (BAS)", "RF-2150 (S-Band)", "RF-4100 (Lower C-Band)", "RF-5100 (Upper C-Band)"],
+    "compatible_rf_modules": [
+      "RF-1100 (L-Band)",
+      "RF-1350HP (L-Band HP)",
+      "RF-2000 (BAS)",
+      "RF-2150 (S-Band)",
+      "RF-4100 (Lower C-Band)",
+      "RF-5100 (Upper C-Band)"
+    ],
     "encryption": "CTR-AES-256, SHA-256 HMAC, FIPS 140-2 Level 2",
     "mil_std": "MIL-STD-461 RE102 (EMI/EMC pre-certified)",
     "onboard_compute": "Wave Relay OS (Android-based), 128GB flash storage",
     "video_encoding": "Integrated HD video encoder",
     "max_hops": "No limit",
     "max_nodes": "No limit",
-    "interfaces": ["Ethernet", "USB", "RS-232", "HDMI input", "3x SMP antenna ports"],
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "RS-232",
+      "HDMI input",
+      "3x SMP antenna ports"
+    ],
     "compliance": {
       "ndaa": true,
       "blue_uas": true,
       "fips_140_2": true,
       "manufactured_in": "USA"
     },
-    "tags": ["defense", "UAS", "UGV", "embedded", "SWaP", "MANET", "mesh", "swarming"]
+    "tags": [
+      "defense",
+      "UAS",
+      "UGV",
+      "embedded",
+      "SWaP",
+      "MANET",
+      "mesh",
+      "swarming"
+    ],
+    "country": "USA"
   },
   {
     "pid": "MESH-1010",
@@ -81,7 +148,10 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "L-Band Interchangeable Frequency Module for MPU5 and Embedded Module. Military band (1350–1390 MHz). Longer wavelength provides extended range with omnidirectional antennas — ideal for aviation applications. 3x3 MIMO, 6W aggregate TX power.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [1350, 1390],
+    "frequency_range_mhz": [
+      1350,
+      1390
+    ],
     "band": "L-Band",
     "max_aggregate_tx_power_w": 6,
     "tx_power_per_chain_w": 2,
@@ -90,11 +160,34 @@
     "receiver_sensitivity_dbm": -98,
     "sensitivity_bandwidth_mhz": 5,
     "max_rf_input_dbm": -20,
-    "dimensions_in": [3.8, 2.6, 0.5],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
     "weight_oz": 4.2,
-    "operating_temp_c": [-40, 85],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "Military, overseas operations",
-    "tags": ["L-Band", "military", "aviation", "long-range"]
+    "tags": [
+      "L-Band",
+      "military",
+      "aviation",
+      "long-range"
+    ],
+    "frequency_ghz": 1.5,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1011",
@@ -105,7 +198,10 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "High Power L-Band Interchangeable Frequency Module. Delivers increased output power and greater power efficiency for military and overseas customers. Provides increased noise immunity in congested and contested RF environments.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [1350, 1390],
+    "frequency_range_mhz": [
+      1350,
+      1390
+    ],
     "band": "L-Band (High Power)",
     "max_aggregate_tx_power_w": 10,
     "antenna_chains": 3,
@@ -113,11 +209,34 @@
     "receiver_sensitivity_dbm": -93,
     "sensitivity_bandwidth_mhz": 5,
     "max_peak_power_consumption_w": 30.8,
-    "dimensions_in": [3.8, 2.6, 0.5],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
     "weight_oz": 4.7,
-    "operating_temp_c": [-40, 85],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "Military, overseas operations (high power)",
-    "tags": ["L-Band", "high-power", "military", "contested-spectrum"]
+    "tags": [
+      "L-Band",
+      "high-power",
+      "military",
+      "contested-spectrum"
+    ],
+    "frequency_ghz": 1.5,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1012",
@@ -128,16 +247,41 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "Broadcast Auxiliary Service band module for TV/radio stations. Licensed spectrum — no monthly fees. Live event video streaming and electronic newsgathering.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [2025, 2150],
+    "frequency_range_mhz": [
+      2025,
+      2150
+    ],
     "band": "BAS Band",
     "max_aggregate_tx_power_w": 6,
     "tx_power_per_chain_w": 2,
     "antenna_chains": 3,
     "antenna_connector": "SMP (50 Ohm)",
-    "dimensions_in": [3.8, 2.6, 0.5],
-    "operating_temp_c": [-40, 85],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "Broadcast, electronic newsgathering",
-    "tags": ["BAS", "broadcast", "licensed-spectrum"]
+    "tags": [
+      "BAS",
+      "broadcast",
+      "licensed-spectrum"
+    ],
+    "frequency_ghz": 1.35,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1013",
@@ -148,7 +292,10 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "S-Band Interchangeable Frequency Module covering Federal (2200–2290 MHz), Commercial Licensed (2300–2400 MHz), and ISM (2412–2462 MHz) ranges. FCC Part 15 certified for ISM. Ideal for urban environments where S-Band wavelength provides superior RF reflections and building penetration.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [2200, 2507],
+    "frequency_range_mhz": [
+      2200,
+      2507
+    ],
     "band": "S-Band",
     "max_aggregate_tx_power_w": 6,
     "tx_power_per_chain_w": 2,
@@ -156,12 +303,38 @@
     "antenna_connector": "SMP (50 Ohm)",
     "receiver_sensitivity_dbm": -94,
     "sensitivity_bandwidth_mhz": 5,
-    "certifications": ["FCC Part 15 Subpart C"],
-    "dimensions_in": [3.8, 2.6, 0.5],
+    "certifications": [
+      "FCC Part 15 Subpart C"
+    ],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
     "weight_oz": 4.2,
-    "operating_temp_c": [-40, 85],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "Federal, commercial, ISM band users, urban operations",
-    "tags": ["S-Band", "ISM", "FCC-Part-15", "urban", "federal"]
+    "tags": [
+      "S-Band",
+      "ISM",
+      "FCC-Part-15",
+      "urban",
+      "federal"
+    ],
+    "frequency_ghz": 2.4,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1014",
@@ -172,7 +345,10 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "Lower C-Band module for NATO (4.4–4.6 GHz), Federal/DHS/DOJ (4.6–4.8 GHz), and Public Safety (4.9 GHz) customers. Less congested spectrum than S-Band. Required for multiple UGV Programs of Record.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [4400, 5000],
+    "frequency_range_mhz": [
+      4400,
+      5000
+    ],
     "band": "Lower C-Band",
     "max_aggregate_tx_power_w": 6,
     "tx_power_per_chain_w": 2,
@@ -181,10 +357,34 @@
     "receiver_sensitivity_dbm": -94,
     "sensitivity_bandwidth_mhz": 5,
     "max_peak_power_consumption_w": 50,
-    "dimensions_in": [3.8, 2.6, 0.5],
-    "operating_temp_c": [-40, 85],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "NATO, Federal, Public Safety, UGV programs",
-    "tags": ["C-Band", "NATO", "federal", "public-safety", "UGV"]
+    "tags": [
+      "C-Band",
+      "NATO",
+      "federal",
+      "public-safety",
+      "UGV"
+    ],
+    "frequency_ghz": 5.0,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1015",
@@ -195,7 +395,10 @@
     "manufacturer_hq": "New York, NY, USA",
     "description": "Upper C-Band module for unlicensed ISM band (5.1–5.9 GHz). FCC Part 15 and Japan Type certified. Less congested than 2.4 GHz ISM. 4W aggregate TX power (1.3W per chain). Allows defense customers to blend into commercial 5 GHz traffic in urban areas.",
     "link": "https://persistentsystems.com/radio-modules/",
-    "frequency_range_mhz": [5100, 6000],
+    "frequency_range_mhz": [
+      5100,
+      6000
+    ],
     "band": "Upper C-Band",
     "max_aggregate_tx_power_w": 4,
     "tx_power_per_chain_w": 1.3,
@@ -203,13 +406,41 @@
     "antenna_connector": "SMP (50 Ohm)",
     "receiver_sensitivity_dbm": -94,
     "sensitivity_bandwidth_mhz": 5,
-    "certifications": ["FCC Part 15", "Japan Type Certification RB"],
+    "certifications": [
+      "FCC Part 15",
+      "Japan Type Certification RB"
+    ],
     "max_peak_power_consumption_w": 50,
-    "dimensions_in": [3.8, 2.6, 0.5],
+    "dimensions_in": [
+      3.8,
+      2.6,
+      0.5
+    ],
     "weight_oz": 4.8,
-    "operating_temp_c": [-40, 85],
+    "operating_temp_c": [
+      -40,
+      85
+    ],
     "primary_users": "Commercial, defense (LPI in urban), UAV operators",
-    "tags": ["C-Band", "ISM", "5GHz", "FCC-Part-15", "commercial", "UAV"]
+    "tags": [
+      "C-Band",
+      "ISM",
+      "5GHz",
+      "FCC-Part-15",
+      "commercial",
+      "UAV"
+    ],
+    "frequency_ghz": 5.0,
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "mesh_protocol": "Wave Relay (proprietary)",
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-1020",
@@ -227,7 +458,16 @@
       "ndaa": true,
       "manufactured_in": "USA"
     },
-    "tags": ["vehicle", "dual-band", "ground", "aircraft", "defense"]
+    "tags": [
+      "vehicle",
+      "dual-band",
+      "ground",
+      "aircraft",
+      "defense"
+    ],
+    "encryption": "AES-256",
+    "max_throughput_mbps": 150,
+    "country": "USA"
   },
   {
     "pid": "MESH-2000",
@@ -237,12 +477,26 @@
     "manufacturer_hq": "Singapore / Kitchener, ON, Canada",
     "description": "Compact mesh radio for drone integration. OpenWRT-based with batman-adv mesh protocol. SSH-accessible. Small enough for 5-inch quads. Configurable OGM interval for fast-moving platforms.",
     "link": "https://www.doodlelabs.com/",
-    "approx_price_range": "$1,500–3,000",
     "form_factor": "mini OEM module",
     "mesh_protocol": "batman-adv (Layer 2 mesh, open-source)",
     "operating_system": "OpenWRT (Linux)",
     "frequency_ghz": 2.4,
-    "tags": ["commercial", "drone", "open-platform", "OpenWRT", "batman-adv"]
+    "tags": [
+      "commercial",
+      "drone",
+      "open-platform",
+      "OpenWRT",
+      "batman-adv"
+    ],
+    "encryption": "AES-256",
+    "max_throughput_mbps": 86,
+    "country": "Singapore/Canada",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-2001",
@@ -252,12 +506,25 @@
     "manufacturer_hq": "Singapore / Kitchener, ON, Canada",
     "description": "Defense-grade mesh radio covering L, S, and C bands. MIMO with higher TX power than Mini series. Designed for tactical UAV/UGV operations. OpenWRT platform with enhanced RF front-end.",
     "link": "https://www.doodlelabs.com/",
-    "approx_price_range": "$3,000–8,000",
     "form_factor": "embedded / OEM",
     "mesh_protocol": "batman-adv (Layer 2 mesh, open-source)",
     "operating_system": "OpenWRT (Linux)",
     "bands": "L-Band, S-Band, C-Band (model-dependent)",
-    "tags": ["defense", "tactical", "MIMO", "OpenWRT"]
+    "tags": [
+      "defense",
+      "tactical",
+      "MIMO",
+      "OpenWRT"
+    ],
+    "encryption": "AES-256",
+    "max_throughput_mbps": 86,
+    "country": "Singapore/Canada",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
   },
   {
     "pid": "MESH-3000",
@@ -267,7 +534,6 @@
     "manufacturer_hq": "Los Angeles, CA, USA",
     "description": "Custom MIMO MANET radio with TDMA-based MAC layer for deterministic latency. Up to 100 Mbps throughput. Multicast-aware mesh for video streaming. Strong defense/government customer base. Closed platform — configured via web GUI.",
     "link": "https://silvustechnologies.com/",
-    "approx_price_range": "$5,000–15,000",
     "form_factor": "manpack / embedded",
     "mesh_protocol": "Custom MAC + TDMA (proprietary)",
     "mimo": "4x4 MIMO",
@@ -276,7 +542,15 @@
       "ndaa": true,
       "manufactured_in": "USA"
     },
-    "tags": ["defense", "TDMA", "MIMO", "video-streaming", "government"]
+    "tags": [
+      "defense",
+      "TDMA",
+      "MIMO",
+      "video-streaming",
+      "government"
+    ],
+    "encryption": "AES-256",
+    "country": "USA"
   },
   {
     "pid": "MESH-4000",
@@ -286,10 +560,703 @@
     "manufacturer_hq": "Morrisville, PA, USA",
     "description": "Dual-radio mesh architecture — each node has two radios on different bands for simultaneous TX/RX, avoiding half-duplex throughput penalty. InstaMesh protocol handles mobility. Strong industrial track record (mining, oil & gas).",
     "link": "https://www.rajant.com/",
-    "approx_price_range": "$3,000–8,000",
     "form_factor": "module / fixed",
     "mesh_protocol": "InstaMesh (proprietary)",
     "radios": "Dual-radio (two bands)",
-    "tags": ["industrial", "mining", "dual-radio", "full-duplex"]
+    "tags": [
+      "industrial",
+      "mining",
+      "dual-radio",
+      "full-duplex"
+    ],
+    "encryption": "AES-256",
+    "max_throughput_mbps": 100,
+    "country": "USA",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": ""
+    }
+  },
+  {
+    "pid": "MESH-3001",
+    "category": "mesh_radios",
+    "name": "Silvus Technologies StreamCaster SC MINI 5200 — Compact MANET",
+    "manufacturer": "Silvus Technologies",
+    "manufacturer_hq": "Los Angeles, CA, USA",
+    "description": "Compact 2x2 MIMO MANET radio delivering 100 Mbps throughput at only 182g. 2W TX (4W effective EIRP). Supports 550+ nodes with self-forming/self-healing mesh. AES-256 FIPS 140-3 encryption with LPI/LPD waveform. Designed for Group 1-2 sUAS where SWaP is critical.",
+    "link": "https://silvustechnologies.com/",
+    "form_factor": "OEM board / enclosed",
+    "mesh_protocol": "StreamCaster MN-MIMO",
+    "mimo": "2x2",
+    "max_tx_power_w": 2,
+    "max_throughput_mbps": 100,
+    "channel_bandwidth_mhz": null,
+    "modulation": "OFDM",
+    "frequency_architecture": "configurable",
+    "compatible_rf_modules": null,
+    "encryption": "AES-256 FIPS 140-3",
+    "ip_rating": "varies by enclosure",
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": "H.264/H.265",
+    "max_hops": null,
+    "max_nodes": 550,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial"
+    ],
+    "ew_capability": "LPI/LPD waveform",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "fips": "140-3",
+      "combat_proven": true
+    },
+    "tags": [
+      "manet",
+      "mimo_2x2",
+      "182g",
+      "100mbps",
+      "550_nodes",
+      "lpi_lpd",
+      "fips_140_3",
+      "suas"
+    ],
+    "country": "USA"
+  },
+  {
+    "pid": "MESH-3002",
+    "category": "mesh_radios",
+    "name": "Silvus Technologies StreamCaster SC4400E — Blue UAS MANET",
+    "manufacturer": "Silvus Technologies",
+    "manufacturer_hq": "Los Angeles, CA, USA",
+    "description": "Blue UAS Framework certified MANET radio. Enhanced variant of the SC4200 with improved SWaP and Blue UAS compliance. Full MN-MIMO mesh networking with AES-256 encryption.",
+    "link": "https://silvustechnologies.com/",
+    "form_factor": "enclosed tactical",
+    "mesh_protocol": "StreamCaster MN-MIMO",
+    "mimo": "2x2",
+    "max_tx_power_w": 2,
+    "max_throughput_mbps": 100,
+    "channel_bandwidth_mhz": null,
+    "modulation": "OFDM",
+    "frequency_architecture": "configurable",
+    "compatible_rf_modules": null,
+    "encryption": "AES-256 FIPS 140-3",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": "H.264/H.265",
+    "max_hops": null,
+    "max_nodes": 550,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial"
+    ],
+    "ew_capability": "LPI/LPD",
+    "compliance": {
+      "blue_uas": true,
+      "ndaa_compliant": true,
+      "fips": "140-3",
+      "combat_proven": true
+    },
+    "tags": [
+      "blue_uas",
+      "manet",
+      "mimo_2x2",
+      "100mbps",
+      "enhanced"
+    ],
+    "country": "USA"
+  },
+  {
+    "pid": "MESH-5000",
+    "category": "mesh_radios",
+    "name": "TrellisWare TW-880 Ghost — TSM Barrage Relay MANET",
+    "manufacturer": "TrellisWare Technologies",
+    "manufacturer_hq": "San Diego, CA, USA",
+    "description": "Single-radio wideband MANET covering 225-2600 MHz with TSM (Tactical Scalable MANET) Barrage Relay waveform — the US Army ITN standard. 400+ nodes with NSA Type 1 encryption. Embedded in L3Harris, Collins, and Thales radio platforms. Extreme anti-jam and LPI/LPD capability.",
+    "link": "https://www.trellisware.com/",
+    "form_factor": "OEM module / standalone",
+    "mesh_protocol": "TSM Barrage Relay",
+    "mimo": null,
+    "max_tx_power_w": 5,
+    "max_throughput_mbps": 8,
+    "channel_bandwidth_mhz": null,
+    "modulation": "spread spectrum / OFDM",
+    "frequency_architecture": "wideband 225-2600 MHz",
+    "compatible_rf_modules": null,
+    "encryption": "NSA Type 1",
+    "ip_rating": null,
+    "mil_std": "MIL-STD-810",
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": 400,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial"
+    ],
+    "ew_capability": "anti-jam, LPI/LPD, Barrage Relay",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "nsa_type_1": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "tsm",
+      "barrage_relay",
+      "us_army_itn",
+      "nsa_type_1",
+      "225-2600mhz",
+      "anti_jam",
+      "400_nodes",
+      "embedded_in_l3harris"
+    ],
+    "country": "USA"
+  },
+  {
+    "pid": "MESH-5001",
+    "category": "mesh_radios",
+    "name": "TrellisWare TW-400 — Compact TSM Radio",
+    "manufacturer": "TrellisWare Technologies",
+    "manufacturer_hq": "San Diego, CA, USA",
+    "description": "Compact variant of the TSM Barrage Relay waveform platform for size-constrained applications. Same anti-jam and networking capability as TW-880 in a smaller form factor suitable for sUAS integration.",
+    "link": "https://www.trellisware.com/",
+    "form_factor": "compact OEM",
+    "mesh_protocol": "TSM Barrage Relay",
+    "mimo": null,
+    "max_tx_power_w": 2,
+    "max_throughput_mbps": 8,
+    "channel_bandwidth_mhz": null,
+    "modulation": "spread spectrum / OFDM",
+    "frequency_architecture": "multi-band",
+    "compatible_rf_modules": null,
+    "encryption": "NSA Type 1",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": 400,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "serial"
+    ],
+    "ew_capability": "anti-jam, LPI/LPD",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "nsa_type_1": true,
+      "combat_proven": false
+    },
+    "tags": [
+      "tsm",
+      "barrage_relay",
+      "compact",
+      "suas",
+      "nsa_type_1"
+    ],
+    "country": "USA"
+  },
+  {
+    "pid": "MESH-6000",
+    "category": "mesh_radios",
+    "name": "Microhard pDDL2450 — Ultra-Light COFDM Datalink",
+    "manufacturer": "Microhard Systems",
+    "manufacturer_hq": "Calgary, AB, Canada",
+    "description": "Lightest datalink available at only 5g (OEM board). 2.4 GHz COFDM, 25 Mbps, 1W TX. AES-128/256 encryption. Operating temp -40°C to +85°C. Ideal for micro-UAS and weight-critical applications where even grams matter.",
+    "link": "https://www.microhardcorp.com/",
+    "form_factor": "OEM board (5g)",
+    "mesh_protocol": "point-to-point / multipoint",
+    "mimo": null,
+    "max_tx_power_w": 1,
+    "max_throughput_mbps": 25,
+    "channel_bandwidth_mhz": null,
+    "modulation": "COFDM",
+    "frequency_architecture": "2.4 GHz",
+    "compatible_rf_modules": null,
+    "encryption": "AES-128/256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false
+    },
+    "tags": [
+      "lightest_datalink",
+      "5g_weight",
+      "cofdm",
+      "2.4ghz",
+      "25mbps",
+      "micro_uas",
+      "oem"
+    ],
+    "country": "Canada"
+  },
+  {
+    "pid": "MESH-6001",
+    "category": "mesh_radios",
+    "name": "Microhard pMDDL — Multi-Band Digital Data Link",
+    "manufacturer": "Microhard Systems",
+    "manufacturer_hq": "Calgary, AB, Canada",
+    "description": "Multi-band COFDM digital data link supporting 900 MHz, 1.3 GHz, 2.4 GHz bands. Up to 27 Mbps throughput. Multiple frequency options for regulatory flexibility across different countries and applications. Well-established in commercial UAS market.",
+    "link": "https://www.microhardcorp.com/",
+    "form_factor": "enclosed module",
+    "mesh_protocol": "point-to-point / multipoint",
+    "mimo": null,
+    "max_tx_power_w": 1,
+    "max_throughput_mbps": 27,
+    "channel_bandwidth_mhz": null,
+    "modulation": "COFDM",
+    "frequency_architecture": "900 MHz / 1.3 GHz / 2.4 GHz",
+    "compatible_rf_modules": null,
+    "encryption": "AES-256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial",
+      "RS-232"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false
+    },
+    "tags": [
+      "multi_band",
+      "cofdm",
+      "commercial_uas",
+      "regulatory_flexible"
+    ],
+    "country": "Canada"
+  },
+  {
+    "pid": "MESH-6002",
+    "category": "mesh_radios",
+    "name": "Microhard nMRR — Nano Mesh Rider Radio",
+    "manufacturer": "Microhard Systems",
+    "manufacturer_hq": "Calgary, AB, Canada",
+    "description": "Ultra-compact mesh networking radio for sUAS and robotic platforms. Provides self-forming mesh capability in a form factor suitable for Group 1 platforms. Based on Microhard's proven COFDM technology.",
+    "link": "https://www.microhardcorp.com/",
+    "form_factor": "nano OEM",
+    "mesh_protocol": "mesh",
+    "mimo": null,
+    "max_tx_power_w": 1,
+    "max_throughput_mbps": 20,
+    "channel_bandwidth_mhz": null,
+    "modulation": "COFDM",
+    "frequency_architecture": "2.4 GHz",
+    "compatible_rf_modules": null,
+    "encryption": "AES-256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +85",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "serial"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false
+    },
+    "tags": [
+      "nano",
+      "mesh",
+      "suas",
+      "group_1",
+      "cofdm"
+    ],
+    "country": "Canada"
+  },
+  {
+    "pid": "MESH-7000",
+    "category": "mesh_radios",
+    "name": "Elsight Halo — Multi-Link Bonding System",
+    "manufacturer": "Elsight",
+    "manufacturer_hq": "Israel",
+    "description": "Unique multi-link bonding system that combines 4x LTE/5G + SATCOM + P2P radio into one resilient connection at 93g and 6.5W. Encrypted. DIU Phase 3 validated. Combat-proven. Does not replace mesh radios — instead provides always-on BVLOS connectivity by bonding whatever links are available.",
+    "link": "https://www.elsight.com/",
+    "form_factor": "compact module (93g)",
+    "mesh_protocol": "multi-link bonding (not mesh)",
+    "mimo": null,
+    "max_tx_power_w": null,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": null,
+    "frequency_architecture": "LTE/5G + SATCOM + P2P",
+    "compatible_rf_modules": null,
+    "encryption": "encrypted",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": null,
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB"
+    ],
+    "ew_capability": "link redundancy / failover",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "diu_phase_3": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "multi_link_bonding",
+      "4x_lte",
+      "satcom",
+      "93g",
+      "6.5w",
+      "bvlos",
+      "diu_validated",
+      "always_on"
+    ],
+    "country": "Israel"
+  },
+  {
+    "pid": "MESH-8000",
+    "category": "mesh_radios",
+    "name": "Sine Engineering Pasika — C2 Datalink + GPS-Denied Nav",
+    "manufacturer": "Sine Engineering",
+    "manufacturer_hq": "Ukraine",
+    "description": "Ukrainian C2 datalink combining command-and-control link with GPS-denied navigation via TOF triangulation from ground beacons, plus multi-drone swarm control. Smart FHSS with jamming detect-and-avoid. 150 employees, 70+ clients, 100+ Ukrainian drone manufacturers integrated. NATO Innovation Range participant. Combat-proven across all Ukrainian drone operations.",
+    "link": "",
+    "form_factor": "OEM module",
+    "mesh_protocol": "FHSS swarm",
+    "mimo": null,
+    "max_tx_power_w": null,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": "FHSS",
+    "frequency_architecture": null,
+    "compatible_rf_modules": null,
+    "encryption": "encrypted",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": null,
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "serial",
+      "UART"
+    ],
+    "ew_capability": "FHSS jamming detect-and-avoid, GPS-denied TOF navigation",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "c2_datalink",
+      "gps_denied",
+      "tof_triangulation",
+      "swarm_control",
+      "fhss",
+      "anti_jam",
+      "100_manufacturers_integrated",
+      "nato_innovation",
+      "combat_proven_ukraine"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "pid": "MESH-9000",
+    "category": "mesh_radios",
+    "name": "uAvionix SkyLine — UAS C2 Datalink",
+    "manufacturer": "uAvionix",
+    "manufacturer_hq": "Bigfork, MT, USA",
+    "description": "Purpose-built UAS command and control datalink designed for BVLOS operations. Focused on meeting FAA/EASA C2 link requirements for beyond-visual-line-of-sight drone operations. Part of uAvionix's broader avionics suite including ADS-B transponders.",
+    "link": "https://uavionix.com/",
+    "form_factor": "compact enclosed",
+    "mesh_protocol": "point-to-point C2",
+    "mimo": null,
+    "max_tx_power_w": null,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": null,
+    "frequency_architecture": null,
+    "compatible_rf_modules": null,
+    "encryption": "AES-256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": null,
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "serial"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false
+    },
+    "tags": [
+      "c2_datalink",
+      "bvlos",
+      "faa_compliant",
+      "ads_b_ecosystem"
+    ],
+    "country": "USA"
+  },
+  {
+    "pid": "MESH-10000",
+    "category": "mesh_radios",
+    "name": "TUALCOM C-Band Datalink",
+    "manufacturer": "TUALCOM",
+    "manufacturer_hq": "Turkey",
+    "description": "Turkish defense-grade C-band/S-band/L-band datalinks with AES-256 encryption and LDPC forward error correction. Up to 10 Mbps throughput. Designed for Turkish defense UAS programs. NATO-member supply chain.",
+    "link": "https://www.tualcom.com/",
+    "form_factor": "enclosed tactical",
+    "mesh_protocol": "point-to-point / multipoint",
+    "mimo": null,
+    "max_tx_power_w": null,
+    "max_throughput_mbps": 10,
+    "channel_bandwidth_mhz": null,
+    "modulation": "OFDM / LDPC FEC",
+    "frequency_architecture": "L-band / S-band / C-band",
+    "compatible_rf_modules": null,
+    "encryption": "AES-256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": "-40 to +70",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "serial",
+      "RS-422"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "nato_member": true
+    },
+    "tags": [
+      "c_band",
+      "s_band",
+      "l_band",
+      "ldpc",
+      "turkish_defense",
+      "nato"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "pid": "MESH-11000",
+    "category": "mesh_radios",
+    "name": "DTC/Codan BluSDR-90-UL — Ultralight MANET",
+    "manufacturer": "DTC (Codan Communications)",
+    "manufacturer_hq": "UK/Australia",
+    "description": "Ultralight MANET radio at 210g with 10W TX power, 150+ km LOS range. MeshUltra MANET protocol supporting 144 nodes. Described as critical to Ukraine's unmanned operations. UK/Australian defense-grade supply chain.",
+    "link": "https://www.dtccom.com/",
+    "form_factor": "ultralight enclosed (210g)",
+    "mesh_protocol": "MeshUltra MANET",
+    "mimo": null,
+    "max_tx_power_w": 10,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": null,
+    "frequency_architecture": null,
+    "compatible_rf_modules": null,
+    "encryption": "AES-256",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": null,
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": 144,
+    "max_range_between_nodes_mi": 93,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "ultralight",
+      "210g",
+      "10w",
+      "150km_los",
+      "144_nodes",
+      "meshultra",
+      "ukraine_critical",
+      "five_eyes"
+    ],
+    "country": "UK/Australia"
+  },
+  {
+    "pid": "MESH-12000",
+    "category": "mesh_radios",
+    "name": "Commtact/BIRD Tactical P2P Datalink",
+    "manufacturer": "Commtact (BIRD Aerosystems)",
+    "manufacturer_hq": "Israel",
+    "description": "Israeli tactical point-to-point datalink for defense UAS platforms. Provides C2 and payload data connectivity. Part of Israel's indigenous defense electronics supply chain.",
+    "link": "https://www.birdaero.com/",
+    "form_factor": "enclosed tactical",
+    "mesh_protocol": "point-to-point",
+    "mimo": null,
+    "max_tx_power_w": null,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": null,
+    "frequency_architecture": null,
+    "compatible_rf_modules": null,
+    "encryption": "encrypted",
+    "ip_rating": null,
+    "mil_std": null,
+    "operating_temp_c": null,
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "serial"
+    ],
+    "ew_capability": null,
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "tactical_p2p",
+      "c2_datalink",
+      "israeli_defense"
+    ],
+    "country": "Israel"
+  },
+  {
+    "pid": "MESH-13000",
+    "category": "mesh_radios",
+    "name": "L3Harris Falcon IV (AN/PRC-163) — Tactical Radio with MANET",
+    "manufacturer": "L3Harris Technologies",
+    "manufacturer_hq": "Melbourne, FL, USA",
+    "description": "Next-generation tactical radio with integrated MANET waveform capability. Supports TSM, SRW, SINCGARS, and MUOS waveforms. Used as airborne relay node and UAS control link in combined manned-unmanned teaming operations. NSA Type 1 certified.",
+    "link": "https://www.l3harris.com/",
+    "form_factor": "handheld / vehicular / airborne",
+    "mesh_protocol": "TSM / SRW / multi-waveform",
+    "mimo": null,
+    "max_tx_power_w": 10,
+    "max_throughput_mbps": null,
+    "channel_bandwidth_mhz": null,
+    "modulation": "multi-waveform",
+    "frequency_architecture": "30 MHz - 2.6 GHz",
+    "compatible_rf_modules": null,
+    "encryption": "NSA Type 1",
+    "ip_rating": "IP68",
+    "mil_std": "MIL-STD-810",
+    "operating_temp_c": "-40 to +70",
+    "storage_temp_c": null,
+    "onboard_compute": null,
+    "video_encoding": null,
+    "max_hops": null,
+    "max_nodes": null,
+    "max_range_between_nodes_mi": null,
+    "interfaces": [
+      "Ethernet",
+      "USB",
+      "serial",
+      "GPS"
+    ],
+    "ew_capability": "ECCM, frequency hopping",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "nsa_type_1": true,
+      "combat_proven": true
+    },
+    "tags": [
+      "falcon_iv",
+      "an_prc_163",
+      "multi_waveform",
+      "tsm",
+      "srw",
+      "sincgars",
+      "muos",
+      "nsa_type_1",
+      "mum_t"
+    ],
+    "country": "USA"
   }
 ]

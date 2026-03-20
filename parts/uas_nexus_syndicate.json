@@ -1,0 +1,259 @@
+{
+  "manufacturer": "UAS Nexus",
+  "manufacturer_hq": "Salt Lake City, UT, USA",
+  "manufacturer_country": "United States",
+  "founded_by": "Bobby Sakaki",
+  "head_of_mechanical": "Ryan LaBarre",
+  "website": "https://syndicate.uasnexus.com/",
+  "store_type": "Members-only marketplace (membership request required)",
+  "focus": "NDAA and Blue UAS compliant components and platforms",
+  "ndaa_compliant": true,
+  "blue_uas_aligned": true,
+
+  "platforms": [
+    {
+      "id": "platform_uasnexus_platformone",
+      "name": "Platform One",
+      "manufacturer": "UAS Nexus",
+      "category": "drone_platform",
+      "subcategory": "FPV / attritable ecosystem",
+      "type": "Modular MOSA-first FPV platform",
+      "airframe_dimensions": "17in wide x 14in long",
+      "propeller_support": ["7-inch", "10-inch"],
+      "max_speed_mph": 80,
+      "flight_endurance_min": 20,
+      "endurance_note": "20+ min at cruise",
+      "power": "6S LiPO or LiON, XT60 bulkhead connector",
+      "materials": ["Carbon fiber", "Flexible FDM print (Shore 95A)", "Stainless hardware"],
+      "cooling": "Active cooling or heatsink",
+      "sensors": ["GPS", "Current sensor", "FPV camera", "Optional TOF sensor"],
+      "autopilot_software": ["INAV", "Betaflight", "PX4", "ArduPilot"],
+      "compatible_hardware": [
+        "ModalAI VOXL2",
+        "ModalAI VOXL2 Mini",
+        "TBS Lucid H7",
+        "BrainFPV RADIX 2 HD",
+        "Raspberry Pi CM5",
+        "Orqa APB",
+        "Orqa F405 3030 FC",
+        "Auterion Skynode-S",
+        "ARK FPV"
+      ],
+      "compatible_radios": ["ELRS", "CRSF", "GHOST", "Doodle Labs", "DTC", "Silvus"],
+      "production_capacity": "10,000+ aircraft/month (decentralized manufacturing)",
+      "design_philosophy": "MOSA-first, attritable, interoperable, COTS-compatible",
+      "price_usd": null,
+      "url": "https://syndicate.uasnexus.com/pages/platform-one",
+      "notes": "First-of-its-kind ecosystem fusing Western drone technologies. Inspired by Ukraine's decentralized FPV production model. Solder-free option available for trainer config.",
+
+      "configurations": [
+        {
+          "name": "FPV Trainer or EW",
+          "description": "Learn to fly or defeat some jammers",
+          "featured_components": [
+            "ORQA Iron Ghost or TBS/ELRS radio",
+            "TBS Lucid H7 FC or Orqa F405 3030 FC",
+            "NDAA camera",
+            "3-5 kg payload",
+            "Solder-free option"
+          ]
+        },
+        {
+          "name": "Mesh Node",
+          "description": "Communications relay for comms extension in GPS-denied environments",
+          "featured_components": [
+            "VOXL 2 Mini",
+            "Choice of Doodle Labs, BlueSDR, L3Harris, or Silvus radio",
+            "Low-light EO camera"
+          ]
+        },
+        {
+          "name": "Autonomy Testing",
+          "description": "Perception and navigation testing with modular sensors and autonomy stacks",
+          "featured_components": [
+            "VOXL 2 / VOXL 2 Mini",
+            "Doodle Nano",
+            "Low-light EO camera",
+            "Perception camera",
+            "Autonomy software",
+            "Downward LiDAR"
+          ]
+        }
+      ]
+    }
+  ],
+
+  "syndicate_component_categories": [
+    "Platform One",
+    "BlueUAS Components",
+    "Antennas",
+    "Batteries",
+    "Cameras",
+    "Computers",
+    "ESCs",
+    "Flight Controllers and Autopilots",
+    "Goggles",
+    "GPS",
+    "Motors",
+    "Radios and C2",
+    "Software",
+    "Transmitters",
+    "Other Components"
+  ],
+
+  "featured_components": {
+    "radios": [
+      {
+        "name": "Doodle Labs NANO Mesh Rider Radio",
+        "type": "Mesh datalink",
+        "waveform": "Mesh (PTP/PTMP)",
+        "interfaces": ["Ethernet", "UART", "USB"],
+        "notes": "Compact, low-SWaP datalink for small UxVs and swarms"
+      },
+      {
+        "name": "Doodle Labs MINI Mesh Rider Radio",
+        "type": "Mesh datalink",
+        "mimo": "2x2",
+        "interfaces": ["Ethernet", "UART"],
+        "notes": "High-throughput control & video backhaul. Used in Mesh Node config."
+      },
+      {
+        "name": "BlueSDR",
+        "type": "SDR module",
+        "notes": "Ultra-light SDR for signal monitoring and EW experimentation. Wideband front-end."
+      },
+      {
+        "name": "L3Harris SDR",
+        "type": "SDR",
+        "ruggedization": "MIL-grade",
+        "interfaces": ["Ethernet", "USB"],
+        "notes": "Rugged SDR for contested RF environments."
+      },
+      {
+        "name": "Silvus StreamCaster",
+        "type": "Mesh radio",
+        "mimo": "MN-MIMO",
+        "interfaces": ["Ethernet"],
+        "notes": "MIMO mesh radio for resilient long-range data links. Used in Mesh Node config."
+      }
+    ],
+
+    "rc_links": [
+      {
+        "name": "ORQA Ghost",
+        "frequency_ghz": 2.4,
+        "type": "Digital RC link",
+        "notes": "Low-latency digital RC. Used in FPV Trainer config."
+      },
+      {
+        "name": "TBS Crossfire / ELRS",
+        "frequency_bands": ["900 MHz", "2.4 GHz"],
+        "type": "Long-range RC link",
+        "notes": "Long-range control with robust LQ. Used in FPV Trainer or EW config."
+      }
+    ],
+
+    "flight_controllers": [
+      {
+        "name": "TBS Lucid H7",
+        "mcu": "STM32H7",
+        "form_factor": "30x30mm",
+        "notes": "High-performance H7 FC for demanding builds. Ample UARTs."
+      },
+      {
+        "name": "BrainFPV RADIX 2 HD",
+        "mcu": "STM32H7",
+        "form_factor": "30x30mm",
+        "notes": "Next-gen RADIX platform with digital-video friendly I/O. OSD/telemetry support."
+      },
+      {
+        "name": "Orqa F405 3030 FC",
+        "mcu": "STM32F405",
+        "form_factor": "30x30mm",
+        "notes": "Reliable F405-class controller for training and testing frames."
+      }
+    ],
+
+    "autopilot_compute": [
+      {
+        "name": "Raspberry Pi Compute Module 5 (CM5)",
+        "type": "Companion compute",
+        "compute": "Multi-core ARM SoC",
+        "interfaces": ["CSI", "DSI", "USB", "UART", "Ethernet", "PCIe"],
+        "notes": "Pairs with carrier boards for flexible I/O. Autonomy, logging, networking."
+      },
+      {
+        "name": "ModalAI VOXL 2",
+        "type": "Integrated AI compute + flight control",
+        "blue_uas_aligned": true,
+        "interfaces": ["CSI", "USB", "Ethernet", "UART"],
+        "notes": "On-board AI accelerator SoC. Used in Autonomy Testing config."
+      },
+      {
+        "name": "ModalAI VOXL 2 Mini",
+        "type": "Compact companion compute + flight control",
+        "form_factor": "42x42mm",
+        "blue_uas_aligned": true,
+        "notes": "Low SWaP. Integrates with Doodle Labs radios. Used in Mesh Node config."
+      }
+    ],
+
+    "cameras_sensors": [
+      {
+        "name": "NDAA Camera",
+        "compliance": "NDAA-compliant supply chain",
+        "interfaces": ["CSI", "USB"],
+        "notes": "Used in FPV Trainer or EW config."
+      },
+      {
+        "name": "Low-light EO Camera",
+        "type": "Large-pixel CMOS",
+        "notes": "Enhanced sensitivity for dawn/dusk ops. Used in Mesh Node and Autonomy Testing."
+      },
+      {
+        "name": "Perception Camera",
+        "type": "Vision sensor for SLAM/VIO",
+        "interfaces": ["CSI", "USB"],
+        "notes": "Global/rolling shutter options. Obstacle detection. Used in Autonomy Testing."
+      },
+      {
+        "name": "Downward LiDAR",
+        "type": "Altitude/terrain sensor",
+        "interfaces": ["I2C", "UART", "CAN"],
+        "notes": "Short-to-mid range. Precision landing aid. Used in Autonomy Testing."
+      }
+    ],
+
+    "other_noted_products": [
+      {
+        "name": "Orqa FPV.One Pilot Goggles",
+        "price_usd": 699.99,
+        "notes": "Analog goggles available in Syndicate store."
+      },
+      {
+        "name": "Fat Shark Aura Analog FPV Camera",
+        "notes": "Available in Syndicate camera category."
+      },
+      {
+        "name": "Gremsy G-Hadron 640R",
+        "notes": "Higher-end camera/gimbal option in Syndicate store."
+      },
+      {
+        "name": "Auterion Skynode-S",
+        "notes": "Listed as Platform One compatible autopilot/compute."
+      },
+      {
+        "name": "ARK FPV",
+        "notes": "Listed as Platform One compatible hardware."
+      }
+    ]
+  },
+
+  "services": [
+    "BlueUAS Compliance",
+    "Engineering (custom integration)",
+    "Go-to-Market (GTM)",
+    "Regulatory",
+    "Training"
+  ]
+}
