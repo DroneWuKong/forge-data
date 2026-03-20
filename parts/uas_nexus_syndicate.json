@@ -1,419 +1,208 @@
 [
   {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_doodle_labs_nano_mesh_rider_radio",
-    "category": "radios",
-    "name": "Doodle Labs NANO Mesh Rider Radio",
-    "type": "Mesh datalink",
-    "waveform": "Mesh (PTP/PTMP)",
-    "interfaces": [
-      "Ethernet",
-      "UART",
-      "USB"
+    "id": "mfr_uas_nexus",
+    "name": "UAS Nexus",
+    "type": [
+      "manufacturer",
+      "dealer"
     ],
-    "notes": "Compact, low-SWaP datalink for small UxVs and swarms"
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_doodle_labs_mini_mesh_rider_radio",
-    "category": "radios",
-    "name": "Doodle Labs MINI Mesh Rider Radio",
-    "type": "Mesh datalink",
-    "mimo": "2x2",
-    "interfaces": [
-      "Ethernet",
-      "UART"
-    ],
-    "notes": "High-throughput control & video backhaul. Used in Mesh Node config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_bluesdr",
-    "category": "radios",
-    "name": "BlueSDR",
-    "type": "SDR module",
-    "notes": "Ultra-light SDR for signal monitoring and EW experimentation. Wideband front-end."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_l3harris_sdr",
-    "category": "radios",
-    "name": "L3Harris SDR",
-    "type": "SDR",
-    "ruggedization": "MIL-grade",
-    "interfaces": [
-      "Ethernet",
-      "USB"
-    ],
-    "notes": "Rugged SDR for contested RF environments."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_silvus_streamcaster",
-    "category": "radios",
-    "name": "Silvus StreamCaster",
-    "type": "Mesh radio",
-    "mimo": "MN-MIMO",
-    "interfaces": [
-      "Ethernet"
-    ],
-    "notes": "MIMO mesh radio for resilient long-range data links. Used in Mesh Node config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_orqa_ghost",
-    "category": "rc_links",
-    "name": "ORQA Ghost",
-    "frequency_ghz": 2.4,
-    "type": "Digital RC link",
-    "notes": "Low-latency digital RC. Used in FPV Trainer config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_tbs_crossfire___elrs",
-    "category": "rc_links",
-    "name": "TBS Crossfire / ELRS",
-    "frequency_bands": [
-      "900 MHz",
-      "2.4 GHz"
-    ],
-    "type": "Long-range RC link",
-    "notes": "Long-range control with robust LQ. Used in FPV Trainer or EW config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_tbs_lucid_h7",
-    "category": "flight_controllers",
-    "name": "TBS Lucid H7",
-    "mcu": "STM32H7",
-    "form_factor": "30x30mm",
-    "notes": "High-performance H7 FC for demanding builds. Ample UARTs."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_brainfpv_radix_2_hd",
-    "category": "flight_controllers",
-    "name": "BrainFPV RADIX 2 HD",
-    "mcu": "STM32H7",
-    "form_factor": "30x30mm",
-    "notes": "Next-gen RADIX platform with digital-video friendly I/O. OSD/telemetry support."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_orqa_f405_3030_fc",
-    "category": "flight_controllers",
-    "name": "Orqa F405 3030 FC",
-    "mcu": "STM32F405",
-    "form_factor": "30x30mm",
-    "notes": "Reliable F405-class controller for training and testing frames."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_raspberry_pi_compute_module_5_cm5",
-    "category": "autopilot_compute",
-    "name": "Raspberry Pi Compute Module 5 (CM5)",
-    "type": "Companion compute",
-    "compute": "Multi-core ARM SoC",
-    "interfaces": [
-      "CSI",
-      "DSI",
-      "USB",
-      "UART",
-      "Ethernet",
-      "PCIe"
-    ],
-    "notes": "Pairs with carrier boards for flexible I/O. Autonomy, logging, networking."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_modalai_voxl_2",
-    "category": "autopilot_compute",
-    "name": "ModalAI VOXL 2",
-    "type": "Integrated AI compute + flight control",
-    "interfaces": [
-      "CSI",
-      "USB",
-      "Ethernet",
-      "UART"
-    ],
-    "notes": "On-board AI accelerator SoC. Used in Autonomy Testing config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_modalai_voxl_2_mini",
-    "category": "autopilot_compute",
-    "name": "ModalAI VOXL 2 Mini",
-    "type": "Compact companion compute + flight control",
-    "form_factor": "42x42mm",
-    "notes": "Low SWaP. Integrates with Doodle Labs radios. Used in Mesh Node config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_ndaa_camera",
-    "category": "cameras_sensors",
-    "name": "NDAA Camera",
-    "compliance": "NDAA-compliant supply chain",
-    "interfaces": [
-      "CSI",
-      "USB"
-    ],
-    "notes": "Used in FPV Trainer or EW config."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_low-light_eo_camera",
-    "category": "cameras_sensors",
-    "name": "Low-light EO Camera",
-    "type": "Large-pixel CMOS",
-    "notes": "Enhanced sensitivity for dawn/dusk ops. Used in Mesh Node and Autonomy Testing."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_perception_camera",
-    "category": "cameras_sensors",
-    "name": "Perception Camera",
-    "type": "Vision sensor for SLAM/VIO",
-    "interfaces": [
-      "CSI",
-      "USB"
-    ],
-    "notes": "Global/rolling shutter options. Obstacle detection. Used in Autonomy Testing."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_downward_lidar",
-    "category": "cameras_sensors",
-    "name": "Downward LiDAR",
-    "type": "Altitude/terrain sensor",
-    "interfaces": [
-      "I2C",
-      "UART",
-      "CAN"
-    ],
-    "notes": "Short-to-mid range. Precision landing aid. Used in Autonomy Testing."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_orqa_fpv.one_pilot_goggles",
-    "category": "other_noted_products",
-    "name": "Orqa FPV.One Pilot Goggles",
-    "price_usd": 699.99,
-    "notes": "Analog goggles available in Syndicate store."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_fat_shark_aura_analog_fpv_camera",
-    "category": "other_noted_products",
-    "name": "Fat Shark Aura Analog FPV Camera",
-    "notes": "Available in Syndicate camera category."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_gremsy_g-hadron_640r",
-    "category": "other_noted_products",
-    "name": "Gremsy G-Hadron 640R",
-    "notes": "Higher-end camera/gimbal option in Syndicate store."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_auterion_skynode-s",
-    "category": "other_noted_products",
-    "name": "Auterion Skynode-S",
-    "notes": "Listed as Platform One compatible autopilot/compute."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_ark_fpv",
-    "category": "other_noted_products",
-    "name": "ARK FPV",
-    "notes": "Listed as Platform One compatible hardware."
-  },
-  {
-    "manufacturer": "UAS Nexus",
-    "manufacturer_hq": "Salt Lake City, UT, USA",
-    "manufacturer_country": "United States",
-    "source": "UAS Nexus Syndicate",
-    "website": "https://syndicate.uasnexus.com/",
-    "store_type": "Members-only marketplace (membership request required)",
-    "ndaa_compliant": true,
-    "blue_uas_aligned": true,
-    "id": "uas_nexus_syndicate_overview",
-    "name": "UAS Nexus Syndicate Overview",
-    "category": "manufacturer_profile",
+    "hq": "Salt Lake City, UT, USA",
+    "country": "United States",
     "founded_by": "Bobby Sakaki",
     "head_of_mechanical": "Ryan LaBarre",
-    "focus": "NDAA and Blue UAS compliant components and platforms",
-    "syndicate_component_categories": [
-      "Platform One",
-      "BlueUAS Components",
-      "Antennas",
-      "Batteries",
-      "Cameras",
-      "Computers",
-      "ESCs",
-      "Flight Controllers and Autopilots",
-      "Goggles",
-      "GPS",
-      "Motors",
-      "Radios and C2",
-      "Software",
-      "Transmitters",
-      "Other Components"
-    ],
+    "website": "https://syndicate.uasnexus.com/",
+    "ndaa_compliant": true,
+    "blue_uas_aligned": true,
+    "manufacturer": {
+      "description": "Designs and manufactures the Platform One modular FPV ecosystem. MOSA-first, attritable drone platform built for interoperability across Western drone technologies.",
+      "platforms": [
+        "MDL-2044"
+      ],
+      "focus": "Modular tactical FPV platforms with decentralized manufacturing capability",
+      "production_capacity": "10,000+ aircraft/month (decentralized manufacturing)",
+      "design_philosophy": "MOSA-first, attritable, interoperable, COTS-compatible"
+    },
+    "dealer": {
+      "storefront": "UAS Nexus Syndicate",
+      "store_url": "https://syndicate.uasnexus.com/",
+      "store_type": "Members-only marketplace (membership request required)",
+      "description": "Curated marketplace of NDAA and Blue UAS compliant components. All parts vetted for Platform One compatibility and defense/enterprise use.",
+      "component_categories": [
+        "BlueUAS Components",
+        "Antennas",
+        "Batteries",
+        "Cameras",
+        "Computers",
+        "ESCs",
+        "Flight Controllers and Autopilots",
+        "Goggles",
+        "GPS",
+        "Motors",
+        "Radios and C2",
+        "Software",
+        "Transmitters",
+        "Other Components"
+      ],
+      "catalog": [
+        {
+          "name": "Doodle Labs NANO Mesh Rider Radio",
+          "original_manufacturer": "Doodle Labs",
+          "category": "radios",
+          "type": "Mesh datalink",
+          "notes": "Compact, low-SWaP datalink for small UxVs and swarms"
+        },
+        {
+          "name": "Doodle Labs MINI Mesh Rider Radio",
+          "original_manufacturer": "Doodle Labs",
+          "category": "radios",
+          "type": "Mesh datalink",
+          "mimo": "2x2",
+          "notes": "High-throughput control & video backhaul"
+        },
+        {
+          "name": "BlueSDR",
+          "original_manufacturer": "BlueSDR",
+          "category": "radios",
+          "type": "SDR module",
+          "notes": "Ultra-light SDR for signal monitoring and EW experimentation"
+        },
+        {
+          "name": "L3Harris SDR",
+          "original_manufacturer": "L3Harris",
+          "category": "radios",
+          "type": "SDR",
+          "notes": "Rugged SDR for contested RF environments"
+        },
+        {
+          "name": "Silvus StreamCaster",
+          "original_manufacturer": "Silvus Technologies",
+          "category": "radios",
+          "type": "Mesh radio",
+          "notes": "MIMO mesh radio for resilient long-range data links"
+        },
+        {
+          "name": "ORQA Ghost",
+          "original_manufacturer": "ORQA",
+          "category": "rc_links",
+          "type": "Digital RC link",
+          "frequency_ghz": 2.4,
+          "notes": "Low-latency digital RC"
+        },
+        {
+          "name": "TBS Crossfire / ELRS",
+          "original_manufacturer": "TBS",
+          "category": "rc_links",
+          "type": "Long-range RC link",
+          "notes": "Long-range control with robust LQ"
+        },
+        {
+          "name": "TBS Lucid H7",
+          "original_manufacturer": "TBS",
+          "category": "flight_controllers",
+          "mcu": "STM32H7",
+          "form_factor": "30x30mm",
+          "notes": "High-performance H7 FC. Ample UARTs."
+        },
+        {
+          "name": "BrainFPV RADIX 2 HD",
+          "original_manufacturer": "BrainFPV",
+          "category": "flight_controllers",
+          "mcu": "STM32H7",
+          "form_factor": "30x30mm",
+          "notes": "Digital-video friendly I/O. OSD/telemetry support."
+        },
+        {
+          "name": "Orqa F405 3030 FC",
+          "original_manufacturer": "ORQA",
+          "category": "flight_controllers",
+          "mcu": "STM32F405",
+          "form_factor": "30x30mm",
+          "notes": "Reliable F405-class controller for training and testing"
+        },
+        {
+          "name": "Raspberry Pi Compute Module 5",
+          "original_manufacturer": "Raspberry Pi Foundation",
+          "category": "companion_compute",
+          "type": "Companion compute module",
+          "notes": "Pairs with carrier boards for flexible I/O. Autonomy, logging, networking."
+        },
+        {
+          "name": "ModalAI VOXL 2",
+          "original_manufacturer": "ModalAI",
+          "category": "companion_compute",
+          "type": "Integrated AI compute + flight control",
+          "blue_uas_aligned": true,
+          "notes": "On-board AI accelerator SoC"
+        },
+        {
+          "name": "ModalAI VOXL 2 Mini",
+          "original_manufacturer": "ModalAI",
+          "category": "companion_compute",
+          "type": "Compact companion compute + flight control",
+          "form_factor": "42x42mm",
+          "blue_uas_aligned": true,
+          "notes": "Low SWaP. Integrates with Doodle Labs radios."
+        },
+        {
+          "name": "NDAA-Compliant FPV Camera",
+          "original_manufacturer": "Various",
+          "category": "cameras",
+          "notes": "NDAA-compliant supply chain camera for FPV"
+        },
+        {
+          "name": "Low-light EO Camera",
+          "original_manufacturer": "Various",
+          "category": "cameras",
+          "type": "Large-pixel CMOS",
+          "notes": "Enhanced sensitivity for dawn/dusk ops"
+        },
+        {
+          "name": "Perception Camera",
+          "original_manufacturer": "Various",
+          "category": "cameras",
+          "type": "Vision sensor for SLAM/VIO",
+          "notes": "Global/rolling shutter options. Obstacle detection."
+        },
+        {
+          "name": "Downward LiDAR",
+          "original_manufacturer": "Various",
+          "category": "sensors",
+          "type": "Altitude/terrain sensor",
+          "notes": "Short-to-mid range. Precision landing aid."
+        },
+        {
+          "name": "Orqa FPV.One Pilot Goggles",
+          "original_manufacturer": "ORQA",
+          "category": "goggles",
+          "price_usd": 699.99,
+          "notes": "Analog FPV goggles"
+        },
+        {
+          "name": "Fat Shark Aura Analog FPV Camera",
+          "original_manufacturer": "Fat Shark",
+          "category": "cameras",
+          "notes": "Analog FPV camera"
+        },
+        {
+          "name": "Gremsy G-Hadron 640R",
+          "original_manufacturer": "Gremsy",
+          "category": "cameras",
+          "notes": "Higher-end camera/gimbal option"
+        },
+        {
+          "name": "Auterion Skynode-S",
+          "original_manufacturer": "Auterion",
+          "category": "companion_compute",
+          "notes": "Platform One compatible autopilot/compute"
+        },
+        {
+          "name": "ARK FPV",
+          "original_manufacturer": "ARK Electronics",
+          "category": "flight_controllers",
+          "notes": "Platform One compatible flight controller"
+        }
+      ]
+    },
     "services": [
       "BlueUAS Compliance",
       "Engineering (custom integration)",
