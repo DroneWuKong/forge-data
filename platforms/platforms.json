@@ -3,7 +3,7 @@
     "name": "AI Wingman Forge \u2014 Public Platform Database",
     "description": "Sanitized platform data for the Forge build planner.",
     "last_sync": "2026-03-20",
-    "platform_count": 108,
+    "platform_count": 137,
     "stripped_fields": [
       "combat_theater",
       "combat_use",
@@ -67,7 +67,17 @@
         "fiber_partner": "Kela Technologies (Israel)",
         "mtow_kg": 2,
         "endurance_hr": 0.3,
-        "speed_max_kmh": 160
+        "speed_max_kmh": 160,
+        "weight_(empty)": "0.9\u20131.4 kg (2\u20133 lb)",
+        "max_payload": "2 kg (4.5 lb)",
+        "range_note": "20+ km (12+ mi)",
+        "speed": "160 km/h (100 mph)",
+        "camera": "High-performance FPV with low-light/night capability",
+        "video_link": "Wide-band, multi-frequency, jam-resistant",
+        "unit_cost": "< $5,000",
+        "blue_uas": "Yes",
+        "ndaa": "Compliant \u2014 non-Chinese supply chain",
+        "manufacturing": "El Segundo, CA \u2014 scaling to 10,000/month target"
       },
       "gcs": {
         "crossbow": "Tactical GCS \u2014 EW resistance at range",
@@ -84,7 +94,10 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "description": "The Archer is a compact, expendable FPV strike drone designed for asymmetric warfare. First FPV platform ever approved for the Blue UAS list. Battle-tested in Ukraine (6,000+ units delivered via International Drone Coalition) before U.S. military evaluators touched it. Neros finished 2nd overall in the Drone Dominance Gauntlet Phase I (87.5 points out of 100).",
+      "handbook_profile": "docs/handbook/platforms/tactical/neros-archer.md",
+      "image_url": "https://neros.tech/images/archer-hero.jpg"
     },
     {
       "id": "skycutter-shrike",
@@ -127,7 +140,10 @@
       ],
       "country": "UK/Ukraine",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "description": "The Shrike 10 Fiber won the Drone Dominance Gauntlet Phase I with 99.3 points \u2014 the highest score of all 26 competitors. It is a fiber-optic FPV strike drone, meaning the video and control signals travel through a thin fiber-optic cable rather than RF, making it completely immune to electronic warfare jamming.",
+      "handbook_profile": "docs/handbook/platforms/tactical/skycutter-shrike.md",
+      "image_url": "https://skycutter.co.uk/images/shrike-hero.jpg"
     },
     {
       "id": "redcat-fang",
@@ -168,7 +184,13 @@
         "wingspan_m": null,
         "ceiling_m": null,
         "payload_kg": 0.1,
-        "note": "Blue UAS FPV ISR"
+        "note": "Blue UAS FPV ISR",
+        "frame_size": "7\" class",
+        "ndaa": "Compliant",
+        "manufacturing": "USA (Orlando, FL \u2014 UMAC components)",
+        "teal_2": "Night ISR, FLIR Hadron 640R thermal",
+        "black_widow": "Army SRR Tranche 2 Program of Record",
+        "fang_f7": "FPV strike platform"
       },
       "ecosystem": {
         "black_widow": {
@@ -204,7 +226,10 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "description": "The FANG (Fierce, Agile, Nimble, Guerrilla) F7 is Red Cat's entry into the tactical FPV strike market. Built with NDAA-compliant components including UMAC (Unusual Machines) American-made motors. Red Cat is also the manufacturer of the Teal 2 (ISR) and Teal Black Widow (Army SRR Program of Record).",
+      "handbook_profile": "docs/handbook/platforms/tactical/red-cat-fang.md",
+      "image_url": "https://redcat.red/wp-content/uploads/2024/fang-f7-hero.png"
     },
     {
       "id": "modalai-seeker-vision",
@@ -267,7 +292,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://www.modalai.com/images/seeker-hero.jpg"
     },
     {
       "id": "modalai-stinger-vision",
@@ -320,7 +346,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://www.modalai.com/images/stinger-hero.jpg"
     },
     {
       "id": "renegade-nightmare",
@@ -367,7 +394,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://renegadeuxs.com/og-image.jpg"
     },
     {
       "id": "pdw-c100",
@@ -421,7 +449,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://pdworks.com/images/c100-hero.jpg"
     },
     {
       "id": "titan-raptor",
@@ -460,7 +489,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://titandynamics.ai/images/raptor-hero.jpg"
     },
     {
       "id": "vantage-vesper",
@@ -489,7 +519,10 @@
         "endurance_hr": 0.6,
         "speed_max_kmh": 60,
         "ceiling_m": 4000,
-        "payload_kg": 0.3
+        "payload_kg": 0.3,
+        "display": "2500 nit (sunlight readable)",
+        "ai_compute": "15 TOPS",
+        "ndaa": "Compliant"
       },
       "tags": [
         "compact",
@@ -500,7 +533,10 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "description": "Vantage Robotics builds compact ISR platforms for defense and public safety. The Vesper and Trace are small, portable reconnaissance drones designed for squad-level deployment with encrypted communications and secure data handling.",
+      "handbook_profile": "docs/handbook/platforms/tactical/vantage-robotics.md",
+      "image_url": "https://vantage-robotics.com/images/vesper-hero.jpg"
     },
     {
       "id": "vantage-trace",
@@ -590,7 +626,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://zone5tech.com/og-image.jpg"
     },
     {
       "id": "hoverfly-spectre",
@@ -642,7 +679,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://hoverflytech.com/og-image.jpg"
     },
     {
       "id": "shield-ai-vbat",
@@ -691,7 +729,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://shield.ai/wp-content/uploads/2024/v-bat-hero.jpg"
     },
     {
       "id": "quantum-vector-ai",
@@ -742,7 +781,10 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "description": "VTOL fixed-wing platform from Germany's leading tactical drone manufacturer. The Trinity Pro is a commercial mapping/survey platform while the Vector AI is the defense variant with AI-powered autonomous capabilities. Quantum Systems won a Bundeswehr (German military) contract and has been active in the Ukrainian conflict.",
+      "handbook_profile": "docs/handbook/platforms/cots/quantum-trinity-pro.md",
+      "image_url": "https://quantum-systems.com/og-image.jpg"
     },
     {
       "id": "aerovironment-switchblade-300",
@@ -787,7 +829,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://www.avinc.com/images/switchblade-300-hero.jpg"
     },
     {
       "id": "aerovironment-switchblade-600",
@@ -848,7 +891,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://www.avinc.com/images/switchblade-600-hero.jpg"
     },
     {
       "id": "aerovironment-switchblade-400",
@@ -926,7 +970,8 @@
       ],
       "country": "USA",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://www.anduril.com/wp-content/uploads/2024/bolt-m.jpg"
     },
     {
       "id": "teledyne-rogue-1",
@@ -1135,7 +1180,8 @@
       ],
       "country": "Germany",
       "combat_proven": false,
-      "status": "production"
+      "status": "production",
+      "image_url": "https://helsing.ai/og-image.jpg"
     },
     {
       "id": "stark-owe-v-virtus",
@@ -3533,7 +3579,20 @@
         "endurance_hr": 0.6,
         "speed_max_kmh": 57,
         "ceiling_m": 5500,
-        "payload_kg": 0.5
+        "payload_kg": 0.5,
+        "weight_note": "<4.7 lb (2.13 kg)",
+        "max_flight_time": "~40 min",
+        "speed_note": "45 mph (20 m/s)",
+        "processors": "NVIDIA Jetson Orin + Qualcomm QRB5165",
+        "nav_cameras": "Six 32MP custom cameras (360\u00b0 coverage)",
+        "encryption": "AES-256",
+        "ip_rating": "IP55",
+        "gnss": "GPS, GLONASS, Galileo, BeiDou + ADS-B In receiver",
+        "deployment": "Folds to 13.8\u2033, sub-40 second launch",
+        "modular_payload": "4 attachment bays, 340g max",
+        "vt300-l": "50MP 1\u2033 f/1.95",
+        "vt300-z": "50MP 1\u2033 f/1.95",
+        "v100-l": "50MP 1\u2033 f/1.95"
       },
       "status": "production",
       "combat_proven": false,
@@ -3548,7 +3607,12 @@
         "ai_autonomy",
         "blue_uas",
         "ndaa"
-      ]
+      ],
+      "description": "Skydio's flagship AI-autonomous drone. The X10 is the commercial/public safety variant; the X10D is the defense variant with hardened comms, MAVLink support, and RAS-A compliance. Both feature six navigation cameras, NVIDIA Jetson Orin GPU, and the industry's most capable obstacle avoidance. Best-in-class autonomy. Built in the USA.",
+      "gotchas": [
+        "X10 (commercial) is locked to Skydio software. No MAVLink, no QGC, no Mission Planner. If you need open protocol access, you need the X10D \u2014 which costs more and requires government/defense procurement."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/skydio-x10.md"
     },
     {
       "id": "airlogix-gor",
@@ -3942,7 +4006,8 @@
         "tei_pd170"
       ],
       "status": "flight_testing",
-      "combat_proven": false
+      "combat_proven": false,
+      "image_url": "https://baykartech.com/og-image.jpg"
     },
     {
       "manufacturer": "Firestorm Labs",
@@ -4001,7 +4066,8 @@
         "xcell",
         "group_2",
         "group_3"
-      ]
+      ],
+      "image_url": "https://launchfirestorm.com/og-image.jpg"
     },
     {
       "manufacturer": "Firestorm Labs",
@@ -4052,7 +4118,8 @@
         "group_1",
         "mpgs",
         "attritable"
-      ]
+      ],
+      "image_url": "https://launchfirestorm.com/og-image.jpg"
     },
     {
       "manufacturer": "Firestorm Labs",
@@ -4091,7 +4158,8 @@
         "3d_printed",
         "group_1",
         "attritable"
-      ]
+      ],
+      "image_url": "https://launchfirestorm.com/og-image.jpg"
     },
     {
       "manufacturer": "Airvolute",
@@ -4160,7 +4228,8 @@
         "ip54",
         "eu_funded",
         "nato"
-      ]
+      ],
+      "image_url": "https://airvolute.com/og-image.jpg"
     },
     {
       "manufacturer": "Airvolute",
@@ -4210,7 +4279,1100 @@
         "single_pcb",
         "training_platform",
         "nato"
-      ]
+      ],
+      "image_url": "https://airvolute.com/og-image.jpg"
+    },
+    {
+      "id": "ardupilot-px4-reference",
+      "manufacturer": "",
+      "manufacturer_hq": "",
+      "platform_name": "Custom ArduPilot / PX4 Builds \u2014 General Integration Reference",
+      "category": "open_source",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": ""
+      },
+      "specs": {
+        "pixhawk_6x_/_6x_pro_(holybro)": "STM32H753",
+        "cubepilot_cube_orange+": "STM32H757",
+        "range_km": 32.0,
+        "matek_h743": "STM32H743",
+        "speedybee_f405": "STM32F405",
+        "speed_max_kmh": 32.0,
+        "ark_electronics_fmu": "\u2014",
+        "auterion_skynode_s": "\u2014",
+        "sik_(3dr-style)": "915/433 MHz",
+        "rfd900x": "900 MHz",
+        "doodle_labs_mesh_rider": "Multi-band",
+        "microhard_p900": "900 MHz",
+        "herelink": "2.4 GHz",
+        "mission_planner": "ArduPilot",
+        "qgroundcontrol": "PX4 (+ ArduPilot)",
+        "auterion_mission_control": "PX4 (Auterion)",
+        "ugcs": "Both",
+        "mavproxy": "Both",
+        "vehicle_support": "Widest (copter, plane, heli, rover, sub, boat)",
+        "community": "Larger, more hobbyist/operator focus",
+        "documentation": "Extensive, community-driven",
+        "commercial_use": "Widespread (IF1200, many custom builds)",
+        "licensing": "GPL v3 (copyleft)",
+        "default_gcs": "Mission Planner",
+        "configuration": "More parameters, more flexibility, steeper curve"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "open_source"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Any drone built on ArduPilot or PX4 firmware running Pixhawk-compatible hardware. This covers hundreds of commercial products (Freefly Astro, Inspired Flight IF1200, Watts Innovations Prism, Harris Aerial H6, CubePilot-based builds) and thousands of custom builds. The open-source ecosystem is the backbone of non-DJI drone integration.",
+      "handbook_profile": "docs/handbook/platforms/open-source/ardupilot-px4-reference.md"
+    },
+    {
+      "id": "holybro-x500-pixhawk6x",
+      "manufacturer": "Holybro",
+      "manufacturer_hq": "",
+      "platform_name": "Holybro X500 V2 + Pixhawk 6X (PX4 Dev Kit)",
+      "category": "open_source",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant (Chinese-sourced components)"
+      },
+      "specs": {
+        "frame": "Carbon fiber twill, 500mm class",
+        "flight_controller": "Pixhawk 6X (STM32H753 H7, triple IMU, Ethernet) or Pixhawk 6C",
+        "firmware": "PX4 (ships default) / ArduPilot compatible",
+        "gps": "Holybro M10 (requires PX4 1.14+ / ArduPilot 4.3+)",
+        "telemetry": "SiK radio (915 MHz or 433 MHz), plug-and-play",
+        "flight_time": "~18 min hover (no payload, 5000mAh 4S)",
+        "payload_note": "~1.5 kg (at 70% throttle)",
+        "payload_kg": 1.5,
+        "companion_mount": "RPi 4, Jetson Nano, Intel RealSense",
+        "assembly_time": "~30 min, no soldering",
+        "processor": "STM32H753 (Arm Cortex-M7 @ 480 MHz)",
+        "flash_/_ram": "2MB / 1MB",
+        "imus": "3x (triple redundant, isolated sensor domains)",
+        "barometers": "2x",
+        "interfaces": "Multiple UART, I2C, SPI, CAN, ADC, Ethernet",
+        "vibration_isolation": "Custom-formulated durable material",
+        "temperature_control": "On-board heating for IMU temp stability",
+        "connector_standard": "Pixhawk Autopilot Bus (100-pin + 50-pin)",
+        "debug": "Pixhawk Debug Full (JST SM10B)"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "open_source"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "The reference development platform for PX4 and ArduPilot. Carbon fiber frame with no-solder assembly. Ships with Pixhawk 6X (or 6C), M10 GPS, and SiK telemetry radio. Mounts for Raspberry Pi, Jetson Nano, and Intel RealSense depth cameras.",
+      "gotchas": [
+        "18-minute flight time is short. Bigger batteries help but add weight. Budget for multiple batteries.",
+        "No obstacle avoidance out of the box. Add Intel RealSense + PX4 avoidance module if needed.",
+        "No weatherproofing. This is a fair-weather development platform.",
+        "SiK radios are low-bandwidth (~64 kbps). Fine for MAVLink telemetry, not for video.",
+        "Pixhawk 6X PM02D-HV power module requires firmware setting (`SENS_EN_INA228`) and ArduPilot 4.4+.",
+        "M10 GPS needs PX4 1.14+ or ArduPilot 4.3+. Older firmware won't see it.",
+        "Chinese-sourced components \u2014 not NDAA compliant. For federal work, look at ARK Electronics FC + U.S.-sourced components."
+      ],
+      "handbook_profile": "docs/handbook/platforms/open-source/holybro-x500-pixhawk6x.md"
+    },
+    {
+      "id": "dji-mavic3-enterprise",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Mavic 3 Enterprise (Thermal / Multispectral)",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "weight_note": "~920 g (Thermal) / ~951 g (Multispectral)",
+        "payload_kg": 0.92,
+        "flight_time": "Up to 45 min",
+        "cameras_(3t)": "48MP wide, 12MP zoom (56x), 640\u00d7512 thermal",
+        "cameras_(3m)": "20MP RGB + 4-band multispectral (G/R/RE/NIR)",
+        "video_tx": "DJI O3 Enterprise, 15 km",
+        "rtk": "Via D-RTK 2 or network RTK module",
+        "ip_rating": "\u2014",
+        "controller": "DJI RC Pro Enterprise"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's compact enterprise platform. Available in Thermal (Mavic 3T) and Multispectral (Mavic 3M) variants. The go-to portable enterprise drone for inspection, search & rescue, and precision agriculture. Lightweight, foldable, excellent camera. The platform most fire departments and small agencies buy first.",
+      "gotchas": [
+        "NOT NDAA compliant.",
+        "No payload swap \u2014 fixed sensor package per variant.",
+        "Not as robust as M30T or M350 \u2014 smaller platform, less wind resistance.",
+        "Widely deployed \u2014 good parts availability and support network."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/dji-mavic3-enterprise.md",
+      "image_url": "https://enterprise.dji.com/images/mavic-3e/hero.jpg"
+    },
+    {
+      "id": "dji-mavic4-pro",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Mavic 4 Pro",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's flagship prosumer/light commercial drone. The Mavic 4 Pro continues the Mavic line's focus on imaging quality in a foldable, portable form factor. Positioned below the Matrice 4 series for enterprise use but increasingly used in commercial operations where the full enterprise feature set isn't required.",
+      "handbook_profile": "docs/handbook/platforms/cots/dji-mavic4-pro.md",
+      "image_url": "https://store.dji.com/images/mavic-4-pro/hero.jpg"
+    },
+    {
+      "id": "dji-matrice-4",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Matrice 4 Series",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "weight_(standard_props)": "~1,229 g (takeoff: 1,420 g max)",
+        "payload_kg": 1.23,
+        "flight_time": "49 min (standard props, no wind, no payload)",
+        "hover_time": "42 min",
+        "speed_note": "21 m/s (forward)",
+        "speed_max_kmh": 21.0,
+        "max_wind_resistance": "12 m/s",
+        "max_range_(transmission)": "25 km (FCC), 12 km (CE)",
+        "range_km": 25.0,
+        "video_transmission": "DJI O4 Enterprise, 20 MB/s, 130 ms latency",
+        "gnss": "GPS + Galileo + BeiDou + GLONASS (with RTK)",
+        "rtk_accuracy": "1 cm + 1 ppm (horizontal)",
+        "obstacle_sensing": "Omnidirectional binocular + 3D IR (bottom)",
+        "battery": "4S Li-ion, 6,741 mAh, 99.5 Wh",
+        "ip_rating": "IP55",
+        "operating_temp": "-10\u00b0C to 40\u00b0C",
+        "storage": "128 GB ROM + microSD",
+        "interfaces": "E-Port (PSDK), E-Port Lite (USB)",
+        "foldable": "Yes"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's compact flagship enterprise drone series, launched January 2025. Two models: the Matrice 4T (thermal/inspection) and Matrice 4E (mapping/survey). Features onboard AI computing, laser rangefinder, and DJI O4 Enterprise transmission. Replaces the Mavic 3 Enterprise line for most enterprise use cases while complementing the larger M350 RTK for heavy-lift missions.",
+      "handbook_profile": "docs/handbook/platforms/cots/dji-matrice-4.md",
+      "image_url": "https://enterprise.dji.com/images/matrice-4/hero.jpg"
+    },
+    {
+      "id": "autel-evo2-enterprise",
+      "manufacturer": "Autel Robotics",
+      "manufacturer_hq": "",
+      "platform_name": "Autel EVO II Enterprise V3",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "Autel claims NDAA compliance; XE variant targeting formal listing"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Dual-sensor enterprise workhorse. The EVO II Enterprise V3 offers thermal + visible imaging in a portable platform with robust flight performance. Autel positions itself as the alternative to DJI for operators who need non-DJI solutions but don't require full Blue UAS verification.",
+      "handbook_profile": "docs/handbook/platforms/cots/autel-evo2-enterprise.md",
+      "image_url": "https://www.autelrobotics.com/images/evo2-enterprise-hero.jpg"
+    },
+    {
+      "id": "sensefly-ebee-x",
+      "manufacturer": "senseFly, Switzerland",
+      "manufacturer_hq": "",
+      "platform_name": "senseFly eBee X",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant (Swiss/French manufacturing)"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Fixed-wing mapping drone designed for large-area survey and photogrammetry. Hand-launched, autonomous flight with RTK/PPK positioning. The eBee X covers up to 500 hectares in a single flight, making it the reference platform for agricultural, mining, and environmental survey applications.",
+      "handbook_profile": "docs/handbook/platforms/cots/sensefly-ebee-x.md",
+      "image_url": "https://www.sensefly.com/images/ebee-x-hero.jpg"
+    },
+    {
+      "id": "dji-flycart-30",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI FlyCart 30",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "max_payload": "30 kg (dual battery) / 40 kg (single battery)",
+        "payload_kg": 30.0,
+        "flight_distance": "28 km (no payload) / 16 km (full load)",
+        "speed_note": "20 m/s (45 mph)",
+        "speed_max_kmh": 32.0,
+        "ceiling_note": "6,000 m",
+        "operating_temp": "-20\u00b0C to 45\u00b0C",
+        "wind_resistance": "12 m/s",
+        "ip_rating": "IP55",
+        "video_tx": "DJI O3, 20 km + 4G enhanced",
+        "obstacle_avoidance": "Front/rear phased array radar + binocular vision",
+        "ads-b": "Integrated receiver",
+        "parachute": "Integrated, independent power source",
+        "delivery_modes": "Cargo mode (direct), Winch mode (30 m cable)"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's heavy-lift delivery drone. 4-axis, 8-propeller configuration. 30 kg payload (dual battery) / 40 kg (single battery). Cargo mode and winch mode (30 m retractable cable). FAA-approved with Remote ID in the US. Built for logistics, agriculture supply, emergency response, and industrial material transport.",
+      "gotchas": [
+        "NOT NDAA compliant.",
+        "Winch kit sold separately \u2014 base price does not include it.",
+        "Battery and charger sold separately.",
+        "Requires careful weight/CG management \u2014 drone auto-detects payload weight and center of gravity.",
+        "FlyCart 100 (80 kg payload) exists but is China-only as of 2026."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/dji-flycart-30.md",
+      "image_url": "https://enterprise.dji.com/images/flycart-30/hero.jpg"
+    },
+    {
+      "id": "dji-m30t",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Matrice 30T",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "weight_note": "3.77 kg (8.31 lb) with battery",
+        "payload_kg": 1.7,
+        "max_flight_time": "41 min",
+        "speed_note": "23 m/s",
+        "speed_max_kmh": 23.0,
+        "payload_note": "Integrated \u2014 no swappable gimbals",
+        "cameras": "48MP zoom (5\u201316x optical), 12MP wide, 640\u00d7512 thermal, LRF",
+        "video_tx": "DJI O3 Enterprise, 2.4/5.8 GHz, 15 km range",
+        "ip_rating": "IP55"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's mid-tier enterprise drone \u2014 smaller and more portable than the M350 but still a serious inspection and public safety platform. Integrated dual-camera + thermal + laser rangefinder payload. Weather-sealed and designed for rapid deployment.",
+      "gotchas": [
+        "Not NDAA compliant.",
+        "No payload flexibility \u2014 the integrated sensor package is the only option. No LiDAR, no custom payloads.",
+        "DJI Dock integration is powerful but locks you into DJI's cloud ecosystem.",
+        "If you need LiDAR or custom sensors, use the M350 RTK instead."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/dji-m30t.md",
+      "image_url": "https://enterprise.dji.com/images/matrice-30/hero.jpg"
+    },
+    {
+      "id": "autel-evo-max-4t",
+      "manufacturer": "Autel Robotics",
+      "manufacturer_hq": "",
+      "platform_name": "Autel Robotics EVO MAX 4T V2",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "XE variant is NDAA compliant; standard V2 has mixed sourcing"
+      },
+      "specs": {
+        "weight_note": "~1.185 kg (2.61 lb) takeoff",
+        "payload_kg": 0.5,
+        "max_flight_time": "42 min",
+        "speed_note": "23 m/s",
+        "speed_max_kmh": 23.0,
+        "service_ceiling": "23,000 ft",
+        "wind_resistance": "27 mph",
+        "ip_rating": "IP43",
+        "operating_temp": "-20\u00b0C to 50\u00b0C (-4\u00b0F to 122\u00b0F)",
+        "wide_camera": "50MP 1/1.28\u2033 CMOS, f/1.9, 85\u00b0 DFOV",
+        "zoom_camera": "48MP, 10x optical / 160x hybrid zoom, 8K",
+        "thermal": "640\u00d7512, 13mm, 16x digital zoom, -20\u00b0C to 550\u00b0C",
+        "laser_rangefinder": "5\u20131200 m, \u00b11 m accuracy",
+        "range_km": 5.0,
+        "obstacle_avoidance": "720\u00b0 \u2014 binocular vision + mmWave radar"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Autel's flagship enterprise drone and the most direct competitor to the DJI M30T. Quad-sensor gimbal (wide, zoom, thermal, laser rangefinder), GPS-denied flight via SLAM, A-Mesh drone-to-drone networking, and **no geofencing**. Positioned as the go-to DJI alternative for public safety and inspection operators.",
+      "gotchas": [
+        "No geofencing \u2014 good for operators who need flexibility, but means no built-in airspace safety net. Know your airspace."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/autel-evo-max-4t.md",
+      "image_url": "https://www.autelrobotics.com/images/evo-max-4t-hero.jpg"
+    },
+    {
+      "id": "dji-agras-t50",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Agras T50",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "empty_weight": "39.9 kg (88 lb)",
+        "payload_kg": 18.1,
+        "max_takeoff_weight": "92 kg (spraying) / 103 kg (spreading)",
+        "spray_tank": "40 L (10.56 gal), 40 kg operating payload",
+        "spread_tank": "50 kg capacity",
+        "spray_width": "4\u201311 m (13\u201336 ft) at 3 m height",
+        "flow_rate": "Up to 16 L/min (2 nozzles), 24 L/min (4 nozzles)",
+        "droplet_size": "50\u2013500 \u03bcm (adjustable)",
+        "coverage": "~52 acres/hour",
+        "rtk_accuracy": "\u00b110 cm (H/V) with D-RTK",
+        "battery": "DB1560, 9-min fast charging, 1500 cycle life",
+        "obstacle_avoidance": "360\u00b0 \u2014 front/rear phased array radar + binocular vision",
+        "camera": "12MP adjustable gimbal for surveying"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "DJI's flagship agricultural spraying/spreading drone. Coaxial twin-rotor design carrying 40 kg spraying or 50 kg spreading payloads. Dual atomizing spraying system, front/rear phased array radars, binocular vision. The dominant platform in commercial ag spraying worldwide. Covers ~52 acres/hour at 2 GPA.",
+      "gotchas": [
+        "NOT NDAA compliant. Federal ag funding that requires compliant equipment cannot be used for this platform.",
+        "Requires Part 137 exemption for commercial agricultural application in the US.",
+        "88 lb empty weight \u2014 not remotely portable. Requires truck/trailer setup.",
+        "DJI FlyCart 100 and T60 exist in China but are NOT FAA approved in the US. The T50 is currently the largest DJI ag drone available in the US market.",
+        "Battery logistics are critical. 9-min fast charge with DJI C10000 charger + generator is the only way to maintain production rates.",
+        "Nozzle clogging with powder-base products was an issue on earlier models \u2014 dual atomizing centrifugal nozzles on T50 address this."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/dji-agras-t50.md",
+      "image_url": "https://ag.dji.com/images/t50/hero.jpg"
+    },
+    {
+      "id": "xag-p100-p150",
+      "manufacturer": "XAG Co.",
+      "manufacturer_hq": "",
+      "platform_name": "XAG P100 Pro / P150",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant (Chinese manufacturer)"
+      },
+      "specs": {
+        "rated_payload": "50 kg (110 lb)",
+        "payload_kg": 22.7,
+        "spray_tank": "70 L (18.5 gal) / 80 L (P150 Max)",
+        "max_flow_rate": "32 L/min (P150 Max with RevoSpray 5)",
+        "spray_width": "Up to 10 m (33 ft)",
+        "coverage": "70+ acres/hr",
+        "droplet_size": "60\u2013400 \u03bcm (centrifugal atomization)",
+        "flight_speed": "Up to 20 m/s (P150 Max)",
+        "speed_max_kmh": 20.0,
+        "spread_rate": "150+ kg/min",
+        "battery": "B13960S, 962 Wh, 11-min water-cooled fast charge",
+        "ip_rating": "IPX6K (flight platform), IPX7 (components)",
+        "rtk": "Centimeter-level, integrated base station support",
+        "obstacle_avoidance": "4D imaging radar, terrain-following radar",
+        "max_payload": "50 kg (P150) / 80 kg (P150 Max)"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "XAG's flagship agricultural drone family. The P100 Pro carries 50 kg payload with 60L spray tank, covering 70 acres/hour. The P150 steps up to 70L tank and 80 kg max payload (P150 Max). Modular hot-swap payload system: spraying, spreading, mapping, and cargo transport. Fully autonomous via XAG One App with RTK cm-level positioning. Biggest direct competitor to DJI Agras T50.",
+      "gotchas": [
+        "NOT NDAA compliant. Chinese manufacturer \u2014 same procurement restrictions as DJI.",
+        "Massive platform \u2014 requires truck/trailer infrastructure, generator for fast charging.",
+        "Part 137 exemption required for commercial ag application in the US.",
+        "XAG ecosystem is less mature in North America than DJI Agras \u2014 fewer dealers, less local support.",
+        "Competes directly with DJI Agras T50 \u2014 DJI has better software integration, XAG has larger payload options."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/xag-p100-p150.md",
+      "image_url": "https://www.xa.com/images/p100-hero.jpg"
+    },
+    {
+      "id": "hylio-ag-272",
+      "manufacturer": "Hylio, Inc.",
+      "manufacturer_hq": "",
+      "platform_name": "Hylio AG-272",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant (designed and manufactured in USA)"
+      },
+      "specs": {
+        "configuration": "8-rotor",
+        "tank_capacity": "18.0 gal (68.2 L)",
+        "swath_width": "Up to 40 ft (12.2 m)",
+        "coverage_rate": "Up to 50 acres/hr @ 2 GPA",
+        "max_spray_rate": "4.6 gal/min",
+        "nozzles": "TeeJet with electronic flowmeters",
+        "batteries": "2x 42 Ah, 51.8V (2175.6 Wh) LiPo \u2014 30 min charge",
+        "gps": "Dual GPS, RTK-compatible (base station sold separately)",
+        "obstacle_avoidance": "Multi-angle wide-angle radar (lateral, up, down)",
+        "fpv": "1080p HD video streaming",
+        "controller": "GroundLink: 13.3\" Windows tablet + 2.4 GHz radio, NDAA compliant",
+        "multi-drone": "Up to 3 UAS from single ground station",
+        "software": "AgroSol GCS (lifetime access, no recurring fees)",
+        "waterproof": "Yes",
+        "ndaa": "Compliant \u2014 designed and manufactured in Houston, TX",
+        "ag-210": "2.6 gal (10 L)",
+        "ag-216": "4.5 gal",
+        "ag-230": "8.0 gal (2x4)",
+        "ag-272": "18.0 gal"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "American-made agricultural spray drone. 18-gallon capacity, 8-rotor configuration, up to 50 acres/hour at 2 GPA. NDAA-compliant GroundLink Controller. The largest and most capable US-made ag spray drone currently available. Designed for producers and applicators who need NDAA compliance or want to avoid Chinese supply chain dependencies.",
+      "gotchas": [
+        "Requires Part 137 exemption \u2014 Hylio assists with onboarding (complimentary).",
+        "RTK base station sold separately. Budget for it.",
+        "30-minute battery charge time is slower than DJI's 9-minute fast charge \u2014 need more battery sets for production rates.",
+        "US-made means higher price point than Chinese alternatives (DJI, XAG).",
+        "AgroSol software is functional but not as polished as DJI Agras app."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/hylio-ag-272.md",
+      "image_url": "https://hylio.com/images/ag-272-hero.jpg"
+    },
+    {
+      "id": "flyability-elios-3",
+      "manufacturer": "Flyability",
+      "manufacturer_hq": "",
+      "platform_name": "Flyability Elios 3",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "Not listed (Swiss manufacturer)"
+      },
+      "specs": {
+        "type": "Quadcopter in protective carbon cage",
+        "flight_time": "Up to 12 min (standard), 17 min (high-capacity battery)",
+        "camera": "4K visual, 180\u00b0 unobstructed FOV",
+        "thermal": "Radiometric thermal camera",
+        "lidar": "SLAM-based 3D mapping and stabilization",
+        "lighting": "16k lumens, oblique dust-proof, adaptive",
+        "ip_rating": "IP44 (designed, not certified)",
+        "navigation": "FlyAware\u2122 \u2014 computer vision + LiDAR + NVIDIA GPU",
+        "stabilization": "SLAM-based, cm-accurate indoor positioning",
+        "payloads_(modular)": "LiDAR surveying, UT (ultrasonic testing), radiation detection, gas sensing"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "The only collision-tolerant inspection drone in mass production. Designed for confined spaces \u2014 tanks, boilers, pressure vessels, tunnels, mines, ore passes. Protective carbon cage allows contact with walls and structures without crashing. LiDAR SLAM for GPS-denied navigation and 3D mapping. Unique reversing motors recover from upside-down flips.",
+      "gotchas": [
+        "12-minute flight time is limiting for large assets. High-capacity battery helps (17 min). Tether power unit eliminates limit entirely.",
+        "Not for outdoor use \u2014 the cage creates drag, no GPS, limited speed (7 m/s max).",
+        "Not NDAA listed \u2014 may be an issue for US federal confined-space inspection contracts.",
+        "Environments must be cleaned and inerted before flying in explosive atmospheres \u2014 drone is NOT ATEX certified.",
+        "$50K+ system cost \u2014 justified by the 90% cost reduction vs scaffolding/rope access, but significant upfront investment."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/flyability-elios-3.md",
+      "image_url": "https://www.flyability.com/images/elios-3-hero.jpg"
+    },
+    {
+      "id": "dji-m350-rtk",
+      "manufacturer": "DJI",
+      "manufacturer_hq": "",
+      "platform_name": "DJI Matrice 350 RTK",
+      "category": "cots_enterprise",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant \u2014 banned from U.S. federal procurement as of Dec 2025 (American Security Drone Act)"
+      },
+      "specs": {
+        "weight_(no_payload)": "~3.77 kg (8.31 lb)",
+        "payload_kg": 1.7,
+        "max_takeoff_weight": "9.2 kg (20.3 lb)",
+        "max_payload": "2.73 kg (6.01 lb) \u2014 triple gimbal support",
+        "max_flight_time": "55 min (no payload, no wind)",
+        "speed_note": "23 m/s (51.5 mph)",
+        "speed_max_kmh": 37.0,
+        "ceiling_note": "7000 m (with high-altitude propellers)",
+        "ip_rating": "IP55",
+        "operating_temp": "-20\u00b0C to 50\u00b0C",
+        "rtk_positioning": "1 cm + 1 ppm (H) / 1.5 cm + 1 ppm (V)"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "cots_enterprise"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "The DJI M350 RTK is DJI's flagship enterprise platform and the successor to the M300 RTK. It is the most widely deployed commercial drone for inspection, mapping, and public safety worldwide. Closed ecosystem, but deep third-party payload support via E-Port and Payload SDK.",
+      "gotchas": [
+        "NOT NDAA compliant. Banned from U.S. federal procurement as of December 2025 under the American Security Drone Act. If your funding source is federal, you cannot buy this."
+      ],
+      "handbook_profile": "docs/handbook/platforms/cots/dji-m350-rtk.md",
+      "image_url": "https://enterprise.dji.com/images/matrice-350-rtk/hero.jpg"
+    },
+    {
+      "id": "teal-black-widow",
+      "manufacturer": "Teal Drones / Red Cat Holdings",
+      "manufacturer_hq": "",
+      "platform_name": "Teal Black Widow",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant / Blue UAS"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "The Black Widow is the U.S. Army's Short Range Reconnaissance (SRR) Tranche 2 Program of Record winner. Designed as a soldier-carried ISR platform for squad-level operations. Part of the Red Cat Holdings portfolio alongside the Teal 2 and FANG F7.",
+      "handbook_profile": "docs/handbook/platforms/tactical/teal-black-widow.md",
+      "image_url": "https://redcat.red/wp-content/uploads/2024/black-widow.png"
+    },
+    {
+      "id": "skyfish-osprey",
+      "manufacturer": "Skyfish",
+      "manufacturer_hq": "",
+      "platform_name": "Skyfish Osprey",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Precision inspection and mapping platform designed for infrastructure and industrial applications. NDAA compliant. Skyfish focuses on high-accuracy 3D modeling and measurement for sectors like energy, construction, and telecommunications.",
+      "handbook_profile": "docs/handbook/platforms/tactical/skyfish-osprey.md"
+    },
+    {
+      "id": "uas-nexus-platform-one",
+      "manufacturer": "UAS Nexus",
+      "manufacturer_hq": "",
+      "platform_name": "UAS Nexus Platform One",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "NDAA \u00a7848 compliant, Blue UAS aligned"
+      },
+      "specs": {
+        "airframe": "17in wide \u00d7 14in long",
+        "propellers": "7-inch, 10-inch",
+        "speed_note": "80 mph",
+        "speed_max_kmh": 129.0,
+        "endurance_note": "20+ min at cruise",
+        "endurance_hr": 0.33,
+        "power": "6S LiPO or LiON, XT60 bulkhead connector",
+        "materials": "Carbon fiber, flexible FDM print (Shore 95A), stainless hardware",
+        "cooling": "Active cooling or heatsink",
+        "production_note": "10,000+ aircraft/month (decentralized manufacturing)",
+        "type": "MOSA-first, attritable, interoperable, COTS-compatible"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "UAS Nexus Platform One is a modular, MOSA-first FPV platform designed to fuse Western drone technologies into a single interoperable ecosystem. Inspired by Ukraine's decentralized FPV production model, it supports multiple configurations from FPV training to autonomous mesh networking. The airframe accepts 7-inch and 10-inch propellers and is compatible with flight controllers, companion computers, and radios from across the Blue UAS supply chain. Solder-free option available for the trainer con",
+      "gotchas": [
+        "Members-only store \u2014 Syndicate access requires membership request approval.",
+        "No fixed BOM \u2014 Platform One is an ecosystem, not a single SKU. Component selection varies by configuration and availability.",
+        "Decentralized manufacturing \u2014 high volume capacity but supply chain coordination is on the operator/integrator.",
+        "Multi-firmware support means no single \"golden path\" \u2014 operator must choose and configure autopilot stack.",
+        "Deeper product scrape pending \u2014 Syndicate catalog details are behind the membership wall."
+      ],
+      "handbook_profile": "docs/handbook/platforms/tactical/uas-nexus-platform-one.md",
+      "image_url": "https://syndicate.uasnexus.com/images/platform-one-hero.jpg"
+    },
+    {
+      "id": "modalai-fpv",
+      "manufacturer": "ModalAI",
+      "manufacturer_hq": "",
+      "platform_name": "ModalAI Seeker / Stinger",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS Framework (16 components listed \u2014 most of any manufacturer)"
+      },
+      "specs": {
+        "processor": "Qualcomm QRB5165 (8-core, 2.84 GHz)",
+        "ai_performance": "15 TOPS (GPU + DSP)",
+        "camera_inputs": "7\u00d7 MIPI CSI-2",
+        "weight_note": "~16 g (module only)",
+        "payload_kg": 16.0,
+        "software": "PX4, ROS 2, VOXL SDK",
+        "blue_uas": "Framework component"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "ModalAI produces the most Blue UAS Framework components of any single manufacturer (16 listings). Their VOXL 2 compute platform is the reference companion computer for PX4-based autonomous drones. The Seeker and Stinger are ModalAI's own FPV/autonomous drone platforms built on this ecosystem.",
+      "handbook_profile": "docs/handbook/platforms/tactical/modalai-fpv.md"
+    },
+    {
+      "id": "anduril-ghost-x",
+      "manufacturer": "Anduril Industries",
+      "manufacturer_hq": "",
+      "platform_name": "Anduril Ghost X",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed"
+      },
+      "specs": {
+        "type": "Helicopter-type (main + tail rotor), Group 2 (<55 lb)",
+        "endurance_note": "80\u201390 min",
+        "endurance_hr": 1.33,
+        "range_note": "~15 miles (24 km)",
+        "range_km": 24.1,
+        "payload_note": "~11 kg (24 lb)",
+        "payload_kg": 5.0,
+        "deployment": "Two-person team, fits in rifle case, minutes to assemble",
+        "software": "Anduril Lattice AI autonomy platform"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Anduril's medium-range reconnaissance drone designed for company-level military operations. Helicopter-type design (main + tail rotor) for superior endurance and payload compared to typical quadcopters. Controlled through Anduril's Lattice AI software. Combat-proven in Ukraine. Deployed at JPMRC Hawaii, Combined Resolve Germany, and Balikatan Philippines.",
+      "gotchas": [
+        "Military/government procurement only \u2014 not available for commercial purchase.",
+        "Lattice is proprietary \u2014 no MAVLink, no open protocol access.",
+        "Helicopter design provides endurance but is mechanically more complex than multirotor.",
+        "Requires Anduril training and support pipeline.",
+        "Combat-deployed in Ukraine since 2022 \u2014 real-world validation, but also means adversaries have had time to study it."
+      ],
+      "handbook_profile": "docs/handbook/platforms/tactical/anduril-ghost-x.md",
+      "image_url": "https://www.anduril.com/wp-content/uploads/2024/ghost-x.jpg"
+    },
+    {
+      "id": "sifly-q12",
+      "manufacturer": "SiFly",
+      "manufacturer_hq": "",
+      "platform_name": "SiFly Q12",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "SiFly entered the market with the Q12, a platform that prioritizes endurance and range above everything else. American-made, NDAA-compliant. Positioned for long-duration inspection and surveillance missions where flight time is the primary constraint.",
+      "handbook_profile": "docs/handbook/platforms/tactical/sifly-q12.md"
+    },
+    {
+      "id": "shield-ai-nova-2",
+      "manufacturer": "Shield AI",
+      "manufacturer_hq": "",
+      "platform_name": "Shield AI Nova 2",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {
+        "type": "Small quadcopter",
+        "environment": "Indoor / GPS-denied",
+        "autonomy": "Hivemind \u2014 full autonomous flight",
+        "gps_required": "No",
+        "comms_required": "No (autonomous operation)",
+        "sensors": "Stereo cameras, IMU, LiDAR (varies by config)",
+        "ndaa": "Compliant"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Indoor-capable autonomous quadcopter designed for GPS-denied, comms-denied operations. Runs Shield AI's Hivemind autonomy stack \u2014 the same AI pilot that has been integrated onto platforms from small quadcopters to the Anduril YFQ-44A CCA and GA-ASI MQ-20 Avenger. Nova 2 can explore buildings, map interiors, and provide ISR without GPS, communications, or human piloting.",
+      "handbook_profile": "docs/handbook/platforms/tactical/shield-ai-nova-2.md",
+      "image_url": "https://shield.ai/wp-content/uploads/2023/nova-2-hero.jpg"
+    },
+    {
+      "id": "hoverfly-livesky",
+      "manufacturer": "HoverFly Technologies",
+      "manufacturer_hq": "",
+      "platform_name": "HoverFly LiveSky",
+      "category": "tactical",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "tactical"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Tethered drone system designed for persistent surveillance and communications relay. The tether provides continuous power and a hard-wired data link, eliminating battery endurance constraints and RF interception concerns. Designed for fixed-site security, event overwatch, and forward operating base (FOB) protection.",
+      "handbook_profile": "docs/handbook/platforms/tactical/hoverfly-livesky.md",
+      "image_url": "https://hoverflytech.com/wp-content/uploads/livesky-hero.jpg"
+    },
+    {
+      "id": "wingtra-wingtraone",
+      "manufacturer": "Wingtra",
+      "manufacturer_hq": "",
+      "platform_name": "WingtraOne GEN II / WingtraRAY",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed, Green UAS certified"
+      },
+      "specs": {
+        "type": "Fixed-wing VTOL (tail-sitter)",
+        "flight_time": "Up to 59 min",
+        "cruise_speed": "16 m/s (36 mph)",
+        "speed_max_kmh": 26.0,
+        "payload_note": "Up to 800 g",
+        "payload_kg": 0.8,
+        "wind_resistance": "12 m/s sustained, 18 m/s gusts",
+        "gnss": "Multi-band PPK, 1\u20133 cm absolute accuracy",
+        "coverage": "Up to 1,300 acres (~550 ha) per 1-hour flight",
+        "ndaa_/_blue_uas": "Blue UAS listed",
+        "cameras": "Sony A7R IV (61MP), Sony RX1R II (42MP), MicaSense RedEdge-P",
+        "controller": "Rugged Samsung Galaxy Tab Active 3",
+        "gcs_software": "WingtraPilot",
+        "capture_speed": "~10x faster than multicopters, ~30x faster than terrestrial",
+        "accuracy": "1\u20133 cm absolute without GCPs",
+        "payload_bay": "Hot-swap, 6 dedicated payloads (RGB, oblique, LiDAR, multispectral)",
+        "turnaround": "Under 5 min between flights"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Professional fixed-wing VTOL mapping drone. Vertical takeoff, fixed-wing cruise at 16 m/s for up to 59 minutes. PPK GNSS for cm-level accuracy without ground control points. Swappable sensors (61MP RGB, 42MP full-frame, multispectral, LiDAR). Over 100,000 flights worldwide. The WingtraRAY (2025) successor covers up to 1,300 acres in one hour-long flight.",
+      "gotchas": [
+        "Fixed-wing means no hover capability during mission. Can't stop and inspect a point.",
+        "Requires open launch/landing area \u2014 tail-sitter VTOL needs clear space.",
+        "Not for inspection or close-proximity work \u2014 this is a mapping/survey platform only.",
+        "Proprietary autopilot \u2014 no MAVLink, no QGC, no Mission Planner.",
+        "Wind limits on ground (8 m/s for launch/land) are lower than in-flight limits."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/wingtra-wingtraone.md",
+      "image_url": "https://wingtra.com/wp-content/uploads/2023/wingtraone-gen-ii.jpg"
+    },
+    {
+      "id": "inspired-flight-if1200a",
+      "manufacturer": "Inspired Flight Technologies",
+      "manufacturer_hq": "",
+      "platform_name": "Inspired Flight IF1200A",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified, NDAA compliant, Green UAS certified"
+      },
+      "specs": {
+        "configuration": "Hexacopter (coaxial dual-prop)",
+        "max_payload": "19.1 lb (8.66 kg) under Part 107; 28.7 lb with certification",
+        "payload_kg": 8.7,
+        "max_flight_time": "43 min (no payload)",
+        "real-world_with_8_lb_payload": "30+ min",
+        "speed_note": "56 mph (25 m/s)",
+        "speed_max_kmh": 90.0,
+        "wind_resistance": "29 knots",
+        "batteries": "16000mAh intelligent batteries",
+        "gps": "Dual GPS units",
+        "fpv": "Built-in FPV camera",
+        "remote_id": "Integrated"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Heavy-lift hexacopter developed to U.S. Air Force standards. The workhorse of the NDAA-compliant drone world. Carries large payloads (LiDAR, EO/IR, Phase One cameras) with 43-minute endurance. Open payload interface. ArduPilot-based. SAFE motor-out redundancy keeps flying if a motor fails.",
+      "gotchas": [
+        "Heavy platform \u2014 not backpackable. This is a truck drone, not a backpack drone.",
+        "Folding arms can be stiff after flight \u2014 thrust loads the locking mechanism. Support the arm bottom with upward force while sliding the lock.",
+        "Requires Part 107 waiver if total weight (aircraft + payload) exceeds 55 lb.",
+        "Batteries are proprietary.",
+        "No integrated camera \u2014 payload must be purchased separately. Budget accordingly.",
+        "SAFE motor-out capability is a lifesaver for expensive payloads but requires pilot awareness \u2014 land promptly when alerted."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/inspired-flight-if1200a.md",
+      "image_url": "https://inspiredflight.com/wp-content/uploads/2023/IF1200A-hero.jpg"
+    },
+    {
+      "id": "parrot-anafi-usa",
+      "manufacturer": "Parrot",
+      "manufacturer_hq": "",
+      "platform_name": "Parrot ANAFI USA",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed"
+      },
+      "specs": {
+        "weight_note": "500g (GOV) / 1.16 kg (MIL with Microhard)",
+        "payload_kg": 0.5,
+        "max_flight_time": "32 min",
+        "speed_note": "14.7 m/s (33 mph)",
+        "speed_max_kmh": 24.0,
+        "cameras": "32x zoom (21MP), wide (48MP), FLIR Boson 320 thermal",
+        "encryption": "AES-XTS 256-bit",
+        "video_output": "RTSP via Ethernet from Skycontroller",
+        "transmission": "Wi-Fi 802.11 a/b/g/n (GOV); + Microhard radio (MIL)"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "One of the lightest enterprise drones on the market at 500g. French-designed. Triple-sensor payload (32x zoom, wide, FLIR thermal). GOV and MIL variants. The MIL version adds a Microhard radio for extended comms. ISO9001 certified manufacturing.",
+      "gotchas": [
+        "Wi-Fi link on GOV version is range-limited and susceptible to interference in dense RF environments.",
+        "Small thermal sensor \u2014 FLIR Boson 320 vs competitors at 640\u00d7512. Adequate for detection, not ideal for detailed thermal analysis.",
+        "No payload swap. The integrated sensor package is all you get.",
+        "Lightweight is a double-edged sword \u2014 extremely portable, but poor wind resistance.",
+        "Parrot's enterprise support has historically been inconsistent compared to DJI/Autel/Skydio."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/parrot-anafi-usa.md",
+      "image_url": "https://www.parrot.com/assets/s3fs-public/2023-03/anafi-usa-hero.png"
+    },
+    {
+      "id": "ascent-aerosystems",
+      "manufacturer": "Ascent Aerosystems",
+      "manufacturer_hq": "",
+      "platform_name": "Ascent Aerosystems",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Coaxial drone platform \u2014 two counter-rotating rotors on a single axis. Compact, robust, and high-performance. Designed for industrial, defense, and public safety markets. The coaxial design provides exceptional stability and efficiency in a smaller footprint than equivalent multirotor platforms.",
+      "handbook_profile": "docs/handbook/platforms/blue-uas/ascent-aerosystems.md"
+    },
+    {
+      "id": "freefly-astro",
+      "manufacturer": "Freefly Systems",
+      "manufacturer_hq": "",
+      "platform_name": "Freefly Astro (Astro Max)",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified (NDAA-compliant build available)"
+      },
+      "specs": {
+        "weight_note": "~2.3 kg (varies with payload)",
+        "payload_kg": 2.3,
+        "max_flight_time": "25 min with LR1 payload, 30 min with 2 lb payload",
+        "payload_note": "2 lb (0.9 kg)",
+        "flight_controller": "Auterion Skynode (Pixhawk-class)",
+        "firmware": "Auterion Enterprise PX4",
+        "imu_redundancy": "Triple-redundant",
+        "gnss": "Multi-band with RTK (NTRIP or base station)",
+        "connectivity": "LTE via AuterionOS, Doodle Labs RF link",
+        "controller": "Pilot Pro (ruggedized, hot-swap power)",
+        "folded_size": "~390 \u00d7 178 mm \u2014 fits in a backpack",
+        "batteries": "Dual SL8-Air, 500+ cycle guarantee"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "American-made, open-architecture mapping and inspection drone built on PX4. Running Auterion Enterprise PX4 on a Skynode flight controller with triple-redundant IMUs. Blue UAS certified. Swappable payload via Smart Dovetail system. The Astro Max variant carries the 61MP Sony LR1 full-frame sensor. Over 100,000 commercial flights logged.",
+      "gotchas": [
+        "25-minute flight time is shorter than competitors. DJI M350 does 55 min. Inspired Flight IF1200A does 43 min. If endurance is critical, factor this in."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/freefly-astro.md",
+      "image_url": "https://freeflysystems.com/app/uploads/2023/01/astro-hero-1.jpg"
+    },
+    {
+      "id": "teal-2",
+      "manufacturer": "Teal Drones / Red Cat Holdings",
+      "manufacturer_hq": "",
+      "platform_name": "Teal 2",
+      "category": "blue_uas",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified (added June 2023)"
+      },
+      "specs": {
+        "weight_note": "2.75 lb (1.25 kg) takeoff",
+        "payload_kg": 1.2,
+        "max_flight_time": "30+ min",
+        "speed_note": "23 mph (10 m/s) cruise",
+        "speed_max_kmh": 37.0,
+        "service_ceiling": "10,000 ft MSL",
+        "operating_temp": "-35\u00b0C to 43\u00b0C (-32\u00b0F to 110\u00b0F)",
+        "encryption": "AES-256 (command, control, video)",
+        "type": "Modular \u2014 field-replaceable payload, propulsion, battery",
+        "thermal": "FLIR Hadron 640R: 640\u00d7512, radiometric, <30mK sensitivity",
+        "eo": "16MP visible-light camera"
+      },
+      "gcs": {},
+      "documentation_availability": {},
+      "tags": [
+        "blue_uas"
+      ],
+      "country": "",
+      "combat_proven": false,
+      "status": "active",
+      "description": "Compact, rucksack-portable ISR drone optimized for night operations. \"Dominate the Night.\" FLIR Hadron 640R EO/IR payload delivers exceptional thermal imaging in a Group 1 package. Used by DoD, law enforcement, and public safety.",
+      "gotchas": [
+        "Small payload capacity \u2014 this is an ISR scout, not a mapping or inspection platform.",
+        "No swappable primary sensor beyond the Hadron EO/IR.",
+        "Near-silent propulsion is a tactical advantage but limits max speed and wind resistance.",
+        "Multi-vehicle command supported from single TAC."
+      ],
+      "handbook_profile": "docs/handbook/platforms/blue-uas/teal-2.md",
+      "image_url": "https://redcat.red/wp-content/uploads/2024/01/teal-2-front.png"
     }
   ]
 }

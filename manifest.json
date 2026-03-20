@@ -98,7 +98,7 @@
   },
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 108
+    "count": 137
   },
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
