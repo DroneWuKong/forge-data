@@ -1,0 +1,127 @@
+[
+  {
+    "pid": "SCRM-UA-Carrier--Chameleon",
+    "category": "video_scramblers",
+    "name": "Chameleon",
+    "manufacturer": "Carrier Electronics",
+    "country": "Ukraine",
+    "approx_price_usd": 73.17,
+    "approx_price_uah": 3000.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian video encryption hardware."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "video_encryption",
+      "rf_security",
+      "analog_fpv"
+    ]
+  },
+  {
+    "pid": "SCRM-UA-Sezam-vi-\u0421\u0435\u0437\u0430\u043c-\u0410",
+    "category": "video_scramblers",
+    "name": "\u0421\u0435\u0437\u0430\u043c-\u0410",
+    "manufacturer": "Sezam video",
+    "country": "Ukraine",
+    "approx_price_usd": 22.88,
+    "approx_price_uah": 938.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian video encryption hardware."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "video_encryption",
+      "rf_security",
+      "analog_fpv"
+    ]
+  },
+  {
+    "pid": "SCRM-UA-Sezam-vi-\u0421\u0435\u0437\u0430\u043c-\u0410-(\u0434\u0435\u0448",
+    "category": "video_scramblers",
+    "name": "\u0421\u0435\u0437\u0430\u043c-\u0410 (\u0434\u0435\u0448\u0438\u0444\u0440\u0430\u0442\u043e\u0440)",
+    "manufacturer": "Sezam video",
+    "country": "Ukraine",
+    "approx_price_usd": 40.12,
+    "approx_price_uah": 1645.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian video encryption hardware."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "video_encryption",
+      "rf_security",
+      "analog_fpv"
+    ]
+  },
+  {
+    "pid": "SCRM-UA-Sezam-vi-\u0412\u0456\u0434\u0435\u043e\u043a\u0440\u0438\u043f\u0442",
+    "category": "video_scramblers",
+    "name": "\u0412\u0456\u0434\u0435\u043e\u043a\u0440\u0438\u043f\u0442",
+    "manufacturer": "Sezam video",
+    "country": "Ukraine",
+    "approx_price_usd": 21.9,
+    "approx_price_uah": 898.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian video encryption hardware."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "video_encryption",
+      "rf_security",
+      "analog_fpv"
+    ]
+  },
+  {
+    "pid": "SCRM-UA-Sezam-vi-\u0412\u0456\u0434\u0435\u043e\u043a\u0440\u0438\u043f\u0442-(",
+    "category": "video_scramblers",
+    "name": "\u0412\u0456\u0434\u0435\u043e\u043a\u0440\u0438\u043f\u0442 (\u0434\u0435\u0448\u0438\u0444\u0440\u0430\u0442\u043e\u0440)",
+    "manufacturer": "Sezam video",
+    "country": "Ukraine",
+    "approx_price_usd": 32.78,
+    "approx_price_uah": 1344.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian video encryption hardware."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "video_encryption",
+      "rf_security",
+      "analog_fpv"
+    ]
+  }
+]
