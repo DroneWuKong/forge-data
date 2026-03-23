@@ -3,7 +3,7 @@
   "metadata": {
     "exported_at": "2026-02-22T00:00:00Z",
     "source": "ProjectDClear",
-    "notes": "Master schema template v3. One example entry per category shows ALL valid fields. Omit fields that are not applicable — do not null-fill everything. The compatibility block on each component is what the compatibility engine reads. Each compatibility block includes _compat_hard (ERROR if violated) and _compat_soft (WARNING if violated) arrays."
+    "notes": "Master schema template v3. One example entry per category shows ALL valid fields. Omit fields that are not applicable \u2014 do not null-fill everything. The compatibility block on each component is what the compatibility engine reads. Each compatibility block includes _compat_hard (ERROR if violated) and _compat_soft (WARNING if violated) arrays."
   },
   "components": {
     "frames": [

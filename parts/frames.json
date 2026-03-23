@@ -56,7 +56,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -64,7 +68,7 @@
     "category": "frames",
     "name": "HGLRC MY5 5\" Frame Kit",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC MY5 Frame Kit is a lightweight, durable 5‑inch frame designed for freestyle builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
+    "description": "The HGLRC MY5 Frame Kit is a lightweight, durable 5\u2011inch frame designed for freestyle builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-my5-5-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc_my5_5__frame_kit.jpg",
     "prop_size_max_in": 5.0,
@@ -116,7 +120,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -177,7 +185,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -237,15 +249,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27.99,
+    "schema_data": {
+      "weight_g": 110
     }
   },
   {
     "pid": "FRM-1008",
     "category": "accessories",
-    "name": "Beginner DIY FPV Drone Bundle - QAV-S 2 Bardwell SE 5” + Fat Shark Dominator HD Goggles + Walksnail Avatar HD Pro",
+    "name": "Beginner DIY FPV Drone Bundle - QAV-S 2 Bardwell SE 5\u201d + Fat Shark Dominator HD Goggles + Walksnail Avatar HD Pro",
     "manufacturer": "Lumenier",
-    "description": "This Bundle features the  Beginner DIY Drone Kit - QAV-S 2 Joshua Bardwell SE 5” (HD Ready), Fat Shark Dominator Digital HD FPV Goggles, and the Walksnail Avatar HD Pro Kit - 32GB w/ Dual Antennas at a special price!",
+    "description": "This\u00a0Bundle\u00a0features the\u00a0\u00a0Beginner DIY Drone Kit - QAV-S 2 Joshua Bardwell SE 5\u201d (HD Ready),\u00a0Fat Shark Dominator Digital HD FPV Goggles,\u00a0and the\u00a0Walksnail Avatar HD Pro Kit - 32GB w/ Dual Antennas\u00a0at a special price!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/beginner-diy-fpv-drone-bundle-qav-s-2-bardwell-fat-shark-dominator-hd-walksnail-avatar.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/beginner-diy-fpv-drone-kit---qav-s-2-joshua-bardwell-se-5---dominator-bundle1.jpg",
     "prop_size_max_in": 5.0,
@@ -259,14 +275,18 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
     "pid": "FRM-1009",
     "category": "frames",
-    "name": "FlyFishRC Volador Ⅱ VX5 O4 Pro Freestyle Frame Kit - Black",
+    "name": "FlyFishRC Volador \u2161 VX5 O4 Pro Freestyle Frame Kit - Black",
     "manufacturer": "FlyFish",
-    "description": "The FlyFishRC Volador II VX5 O4 Pro Freestyle Frame Kit is a refined 5” Squashed X frame built for top-tier performance and ultra-clean builds.",
+    "description": "The FlyFishRC Volador II VX5 O4 Pro Freestyle Frame Kit is a refined 5\u201d Squashed X frame built for top-tier performance and ultra-clean builds.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vx5-o4-pro-freestyle-frame-kit-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/v/o/volador-vx5-1.jpg",
     "prop_size_max_in": 5.0,
@@ -319,7 +339,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 39.99,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -380,7 +404,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -441,7 +469,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -502,14 +534,18 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
     "pid": "FRM-1013",
     "category": "frames",
-    "name": "FlyFishRC Volador Ⅱ VD5 O4 Pro Deadcat Frame Kit - Black",
+    "name": "FlyFishRC Volador \u2161 VD5 O4 Pro Deadcat Frame Kit - Black",
     "manufacturer": "FlyFish",
-    "description": "The FlyFishRC Volador II VD5 O4 Pro Frame Kit is a refined 5-inch Deadcat frame designed for ultra-clean HD footage with no props in view. Based on pilot feedback, it’s been upgraded for easier builds, better durability, and a sleeker look.",
+    "description": "The FlyFishRC Volador II VD5 O4 Pro Frame Kit is a refined 5-inch Deadcat frame designed for ultra-clean HD footage with no props in view. Based on pilot feedback, it\u2019s been upgraded for easier builds, better durability, and a sleeker look.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vd5-o4-pro-deadcat-frame-kit-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/v/o/voladoriivd5-1.jpg",
     "prop_size_max_in": 5.0,
@@ -563,7 +599,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -624,15 +664,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
     "pid": "FRM-1015",
     "category": "frames",
-    "name": "Lumenier QAV-S 2 Joshua Bardwell SE 5” Frame Kit",
+    "name": "Lumenier QAV-S 2 Joshua Bardwell SE 5\u201d Frame Kit",
     "manufacturer": "Lumenier",
-    "description": "Introducing the Lumenier QAV-S 2 5\" Freestyle Quadcopter Frame - Joshua Bardwell Special Edition, a custom-designed drone frame for FPV Freestyle flying! It is feature packed and Bardwell's favorite frame!",
+    "description": "Introducing the\u00a0Lumenier QAV-S 2 5\" Freestyle Quadcopter Frame - Joshua Bardwell Special Edition, a custom-designed drone frame for FPV Freestyle flying! It is feature packed and Bardwell's favorite frame!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s2-joshua-bardwell-se-5-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-qav-s-2-joshua-bardwell-se-5-frame-kit-main.jpg",
     "prop_size_max_in": 5.0,
@@ -685,6 +729,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -744,15 +792,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
     "pid": "FRM-1018",
     "category": "accessories",
-    "name": "Beginner DIY FPV Drone Kit - QAV-S 2 Joshua Bardwell SE 5” - Analog",
+    "name": "Beginner DIY FPV Drone Kit - QAV-S 2 Joshua Bardwell SE 5\u201d - Analog",
     "manufacturer": "Lumenier",
-    "description": "The Beginner DIY Drone Kit - QAV-S 2 Joshua Bardwell SE 5” - Analog is the ultimate bundle that comes with all of the components necessary to build a beginner FPV drone.",
+    "description": "The\u00a0Beginner DIY Drone Kit - QAV-S 2 Joshua Bardwell SE 5\u201d - Analog\u00a0is the ultimate bundle that comes with all of the components necessary to build a beginner FPV drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/beginner-diy-fpv-drone-kit-qav-s-2-joshua-bardwell-se-5-analog.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/beginner-diy-fpv-drone-kit---qav-s-2-joshua-bardwell-se-5-analog-main.jpg",
     "prop_size_max_in": 5.0,
@@ -766,6 +818,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -826,6 +882,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -885,7 +945,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -945,7 +1009,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -1005,7 +1073,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -1066,7 +1138,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -1126,7 +1202,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -1134,7 +1214,7 @@
     "category": "frames",
     "name": "iFlight Mach R5 Sport Frame Kit",
     "manufacturer": "iFlight",
-    "description": "The iFlight Mach R5 Sport Frame Kit aims to provide racing pilots with a high-quality finished FPV frame that allows for DIY customization.",
+    "description": "The iFlight Mach R5 Sport Frame Kit\u00a0aims to provide racing pilots with a high-quality finished FPV frame that allows for DIY customization.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-mach-r5-sport-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-mach-r5-sport-frame-kit-_image-1_1_.jpg",
     "prop_size_max_in": 5.0,
@@ -1186,7 +1266,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -1248,6 +1332,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -1308,6 +1396,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -1315,7 +1407,7 @@
     "category": "frames",
     "name": "Lumenier QAV-S 2 JohnnyFPV SE - Rear Mounting Plates",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier QAV-S 2 JohnnyFPV SE rear mounting plates provide a personalized solution for a hard-mounted XT60 connection and a range of accessories.",
+    "description": "The Lumenier QAV-S 2 JohnnyFPV SE\u00a0rear mounting plates provide a personalized solution for a hard-mounted XT60 connection and a range of accessories.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-rear-mounting-plates.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-qav-s-2-johnnyfpv-se-rear-mounting-plates.jpg",
     "prop_size_max_in": 5.0,
@@ -1368,6 +1460,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -1428,6 +1524,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -1488,6 +1588,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -1548,6 +1652,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -1608,6 +1716,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -1667,7 +1779,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -1728,7 +1844,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -1788,13 +1908,17 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
     "pid": "FRM-1039",
     "category": "frames",
-    "name": "Lumenier QAV-S 2 JohnnyFPV SE 5” Frame Kit",
+    "name": "Lumenier QAV-S 2 JohnnyFPV SE 5\u201d Frame Kit",
     "manufacturer": "Lumenier",
     "description": "Introducing the Lumenier QAV-S 2 JohnnyFPV Special Edition frame, a cutting-edge masterpiece designed to elevate your FPV drone experience.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-5-frame-kit.html",
@@ -1849,6 +1973,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -1909,7 +2037,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -1970,6 +2102,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -2030,6 +2166,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -2089,7 +2229,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -2097,7 +2241,7 @@
     "category": "frames",
     "name": "GEPRC Mark5 GEP-MK5 5\" Freestyle Frame Kit - Black Pro Version ",
     "manufacturer": "GEPRC",
-    "description": "The GEPRC MARK5 Pro Frame Kit is developed specifically for freestyle with squashed X arm design.",
+    "description": "The\u00a0GEPRC MARK5 Pro Frame Kit\u00a0is developed specifically for freestyle with squashed X arm design.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-gep-mk5-5-freestyle-frame-black-pro-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-mark5-gep-mk5-5-freestyle-frame-kit---black-pro-version-main.jpg",
     "prop_size_max_in": 5.0,
@@ -2149,7 +2293,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -2157,7 +2305,7 @@
     "category": "frames",
     "name": "HGLRC Sector X5 FR 5\" Freestyle FPV Frame Kit - Wide X",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC Sector X5 FR is a 5\" Freestyle FPV Frame with Wide X configuration. Take your freestyle flights to the next level with this durable frame! This frame features quick swap arms for easy electronic fixes and CNC aluminum side plates.",
+    "description": "The\u00a0HGLRC Sector X5 FR\u00a0is a 5\" Freestyle FPV Frame with Wide X configuration. Take your freestyle flights to the next level with this durable frame! This frame features quick swap arms for easy electronic fixes and CNC aluminum side plates.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-x5-fr-5-freestyle-fpv-frame-kit-wide-x.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/h/g/hglrc_sector_x5_frame_2_.jpg",
     "prop_size_max_in": 5.0,
@@ -2209,7 +2357,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -2269,7 +2421,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 47,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -2277,7 +2433,7 @@
     "category": "frames",
     "name": "PIRAT Hook V2 FPV Drone - Caddx Vista Mounting Kit",
     "manufacturer": "PIRAT",
-    "description": "This Caddx Vista Mounting Kit is specially designed for the new PIRAT Hook V2 Frame!  Crafted in high-quality 3D printing material with durable hardware.",
+    "description": "This\u00a0Caddx Vista Mounting Kit\u00a0is specially designed for the new\u00a0PIRAT Hook V2 Frame!\u00a0\u00a0Crafted in high-quality 3D printing material with durable hardware.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-v2-fpv-drone-caddx-vista-mounting-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pirat-hook-v2-fpv-drone-caddx-vista-mounting-kit.jpg",
     "prop_size_max_in": 5.0,
@@ -2329,7 +2485,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -2337,7 +2497,7 @@
     "category": "frames",
     "name": "Lumenier QAV-PRO Whoop 5\" Cinequads Edition - Motor Plate",
     "manufacturer": "Lumenier",
-    "description": "This Motor Plate is for the Lumenier QAV-PRO WHOOP Cinequads Edition, which is a versatile 5-inch caged FPV quadcopter that is designed to be durable and agile while offering full propeller protection.",
+    "description": "This\u00a0Motor Plate\u00a0is for the\u00a0Lumenier QAV-PRO WHOOP Cinequads Edition,\u00a0which\u00a0is a versatile 5-inch caged FPV quadcopter that is designed to be durable and agile while offering full propeller protection.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-whoop-5-cinequads-edition-motor-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-qav-pro-whoop-5-cinequads-edition-motor-plate_1.jpg",
     "prop_size_max_in": 5.0,
@@ -2390,6 +2550,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -2450,6 +2614,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -2457,7 +2625,7 @@
     "category": "frames",
     "name": "Lumenier QAV-PRO Camera Isolation Kit w/ Alpha Gel",
     "manufacturer": "Lumenier",
-    "description": "This Camera Isolation Kit is specifically designed for the Lumenier QAV-PRO series!",
+    "description": "This\u00a0Camera Isolation Kit\u00a0is specifically designed for the Lumenier QAV-PRO series!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-camera-isolation-kit-w-alpha-gel.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-qav-pro-camera-isolation-kit-w-alpha-gel-includes.jpg",
     "prop_size_max_in": 5.0,
@@ -2510,6 +2678,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -2517,7 +2689,7 @@
     "category": "frames",
     "name": "Diatone Roma L5 5 Rear Arm",
     "manufacturer": "Diatone",
-    "description": "A replacement rear arm for the Diatone Roma L5 5\" Frame.",
+    "description": "A replacement rear arm for the\u00a0Diatone Roma L5 5\" Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-l5-5-rear-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/i/diatone_roma_l5_5_22_rear_arm-w.jpg",
     "prop_size_max_in": 5.0,
@@ -2569,7 +2741,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -2577,7 +2753,7 @@
     "category": "frames",
     "name": "Camera Butter Cinema One 5 Arm",
     "manufacturer": "",
-    "description": "A replacement or spare 5\" arm for the Camera Butter Cinema ONE 5\" Frame. This versatile 5\" arm can be used as an X configuration or deadcat style when flip over!",
+    "description": "A replacement or spare 5\" arm for the\u00a0Camera Butter Cinema ONE 5\" Frame. This versatile 5\" arm can be used as\u00a0an X configuration or deadcat style when flip over!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/camera-butter-cinema-one-5-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/c/a/camera_butter_cinema_one_5_22_arm.jpg",
     "vehicle_subtype": "cine",
@@ -2629,7 +2805,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -2689,7 +2869,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -2697,7 +2881,7 @@
     "category": "frames",
     "name": "Lumenier Qav S 5 Joshua Bardwell Se Replacement Camera Side Plates 2Pcs",
     "manufacturer": "Lumenier",
-    "description": "Two replacement Camera Side Plates for the Lumenier Joshua Bardwell QAV-S 5\" Freestyle Quadcopter Frame.",
+    "description": "Two replacement Camera Side Plates for the\u00a0Lumenier\u00a0Joshua Bardwell QAV-S 5\" Freestyle Quadcopter Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-5-joshua-bardwell-se-replacement-camera-side-plates-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/j/o/joshua-bardwell-qav-s-5-freestyle-quadcopter-frame-side-camera-plates_1.jpg",
     "prop_size_max_in": 5.0,
@@ -2750,6 +2934,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -2810,6 +2998,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -2870,6 +3062,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -2877,7 +3073,7 @@
     "category": "frames",
     "name": "Diatone ROMA F5 HD Injection Molded Parts - Gray",
     "manufacturer": "Diatone",
-    "description": "A replacement or spare injection molded parts for the ROMA F5 HD Freestyle Quadcopter!",
+    "description": "A replacement or spare injection molded parts for the\u00a0ROMA F5 HD Freestyle Quadcopter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-injection-molded-parts-gray.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-h_1024x1024_2x.jpg",
     "prop_size_max_in": 5.0,
@@ -2929,7 +3125,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -2990,6 +3190,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -3050,6 +3254,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -3057,7 +3265,7 @@
     "category": "frames",
     "name": "Lumenier Chief Pro V2 Arm Lock Plate (2pcs)",
     "manufacturer": "Lumenier",
-    "description": "A replacement Arm Lock for the Chief Pro V2 Racing Quadcopter.",
+    "description": "A replacement Arm Lock for the\u00a0Chief Pro V2 Racing Quadcopter.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-chief-pro-v2-arm-lock-plate-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumeneir_chief_pro_v2_arm_lock_plate.jpg",
     "prop_size_max_in": 5.0,
@@ -3110,6 +3318,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -3117,7 +3329,7 @@
     "category": "frames",
     "name": "Lumenier Chief Pro V2 Main Plate",
     "manufacturer": "Lumenier",
-    "description": "A replacement main plate for the Chief Pro V2 Racing Quadcopter.",
+    "description": "A replacement main plate for the\u00a0Chief Pro V2 Racing Quadcopter.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-chief-pro-v2-main-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier_chief_pro_v2_main_plate_.jpg",
     "prop_size_max_in": 5.0,
@@ -3170,6 +3382,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -3230,6 +3446,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -3237,7 +3457,7 @@
     "category": "frames",
     "name": "Lumenier QAV-R 2 5\" Deadcat Rear Arm",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 5\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the Lumenier QAV-R 2 Deadcat Quadcopter Frames.",
+    "description": "A Lumenier 5\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the\u00a0Lumenier QAV-R 2 Deadcat Quadcopter Frames.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-5-deadcat-rear-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/2/12154--qavr-2-5inch-deadcat-rear-arm.jpg",
     "prop_size_max_in": 5.0,
@@ -3291,6 +3511,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -3298,7 +3522,7 @@
     "category": "frames",
     "name": "Lumenier QAV-R 2 Deadcat Freestyle Quadcopter Frame (5\", 6\", 7\")",
     "manufacturer": "Lumenier",
-    "description": "The QAV-R 2 Deadcat Frame retracted front arms make sure your props are never in view in your camera footage. The body of the frame is also extended to give more room for mounting options such as DJI's FPV Air Unit. Fly freestyle your way with the Lumenier QAV-R 2 Deadcat Freestyle Frame.",
+    "description": "The QAV-R 2 Deadcat Frame retracted front arms make sure your props are never in view in your camera footage. The body of the frame is also extended to give more room for mounting options such as DJI's FPV Air Unit.\u00a0Fly freestyle your way with the Lumenier QAV-R 2 Deadcat Freestyle Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-deadcat-freestyle-quadcopter-frame-5-6-7.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-qav-r-2-deadcat-freestyle-quadcopter-frame---5-1000x1000_1.jpg",
     "prop_size_max_in": 5.0,
@@ -3352,6 +3576,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -3412,6 +3640,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -3472,6 +3704,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -3532,6 +3768,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -3539,7 +3779,7 @@
     "category": "frames",
     "name": "XILO PHREAK Soft Mount Arm Guards (Set of 4) - Black",
     "manufacturer": "Brain3D",
-    "description": "A set of 4 Motor Soft Mount Arm Guards, which are made specifically for the XILO PHREAK. These soft mounts are perfect for protecting your arms from damage.",
+    "description": "A set of 4 Motor Soft Mount Arm Guards, which are made specifically\u00a0for the XILO PHREAK. These soft mounts are perfect for protecting your arms from damage.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreak-soft-mount-arm-guards-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/9/8/9838_front.jpg",
     "prop_size_max_in": 5.0,
@@ -3592,6 +3832,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -3652,6 +3896,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -3712,6 +3960,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -3772,6 +4024,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -3832,6 +4088,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -3892,6 +4152,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -3952,6 +4216,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -3959,7 +4227,7 @@
     "category": "frames",
     "name": "Lumenier Qav R 2C Frame Kit 5",
     "manufacturer": "Lumenier",
-    "description": "Introducing the Lumenier QAV-R 2C  5\" Frame Kit, crafted with silky, clear-coated carbon fiber and features an extended main body, offering ample space for accessories and electronics.",
+    "description": "Introducing the Lumenier QAV-R 2C\u00a0 5\" Frame Kit, crafted with silky, clear-coated carbon fiber and features an extended main body, offering ample space for accessories and electronics.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2c-frame-kit-5.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/l/u/lumenier-qav-r-2c-quadcopter-frame-5-_image-1__1.jpg",
     "prop_size_max_in": 5.0,
@@ -4012,6 +4280,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -4073,7 +4345,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -4135,7 +4411,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -4195,15 +4475,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
     "pid": "FRM-1098",
     "category": "frames",
-    "name": "FlyFishRC Volador Ⅱ VD6 O4 Pro Deadcat Frame Kit - Black",
+    "name": "FlyFishRC Volador \u2161 VD6 O4 Pro Deadcat Frame Kit - Black",
     "manufacturer": "FlyFish",
-    "description": "The FlyFishRC Volador II VD6 O4 Pro Deadcat Frame Kit is a refined 6\" frame built for clean, pro-level builds with no props in view. Designed from pilot feedback, it features a tight, low-resonance structure, high-strength T700 carbon fiber, and CNC aluminum parts.",
+    "description": "The FlyFishRC Volador II VD6 O4 Pro Deadcat Frame Kit\u00a0is a refined 6\" frame built for clean, pro-level builds with no props in view. Designed from pilot feedback, it features a tight, low-resonance structure, high-strength T700 carbon fiber, and CNC aluminum parts.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vd6-o4-pro-deadcat-frame-kit-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/v/o/volador-vd6-1.jpg",
     "prop_size_max_in": 6.0,
@@ -4255,7 +4539,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -4263,7 +4551,7 @@
     "category": "frames",
     "name": "GEPRC Mark5 Standard DC O3 Frame - Coral Orange ",
     "manufacturer": "GEPRC",
-    "description": "The GEPRC Mark5 Standard DC Frame has a newly upgraded 7075-T6 aluminum alloy camera side plate.",
+    "description": "The GEPRC Mark5\u00a0Standard DC Frame has a newly upgraded 7075-T6 aluminum alloy camera side plate.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-standard-dc-o3-frame-coral-orange.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-mark5-standard-dc-o3-frame---coral-orange.jpg",
     "prop_size_max_in": 5.0,
@@ -4317,7 +4605,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -4377,7 +4669,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -4437,7 +4733,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -4498,7 +4798,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -4558,7 +4862,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -4618,7 +4926,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -4678,7 +4990,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -4738,7 +5054,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -4798,7 +5118,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -4858,7 +5182,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -4919,7 +5247,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -4979,7 +5311,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -5040,7 +5376,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -5100,7 +5440,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -5160,7 +5504,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -5168,7 +5516,7 @@
     "category": "frames",
     "name": "Quadifier Diamondback O3 MK-2 5\" FPV Frame Kit",
     "manufacturer": "Quadifier",
-    "description": "The Quadifier Diamondback DJI O3 MK-2 is a sleek 5-inch freestyle frame engineered for nimbleness, agility, and compatibility with the DJI O3 system.",
+    "description": "The\u00a0Quadifier Diamondback DJI O3 MK-2\u00a0is a sleek 5-inch freestyle frame engineered for nimbleness, agility, and compatibility with the DJI O3 system.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/quadifier-diamondback-o3-mk-2-5-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/q/u/quadifier-diamondback-o3mk-2-5inch-fpv-frame-kit_6_.jpg",
     "prop_size_max_in": 5.0,
@@ -5221,7 +5569,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -5282,14 +5634,18 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
     "pid": "FRM-1119",
     "category": "frames",
-    "name": "Lumenier QAV-S 2 Joshua Bardwell SE 5” Arm",
+    "name": "Lumenier QAV-S 2 Joshua Bardwell SE 5\u201d Arm",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier QAV-S 2 Bardwell SE Arm is made of 5mm carbon fiber and has a universal fit on the QAV-S 2 frame.",
+    "description": "The Lumenier QAV-S 2 Bardwell SE\u00a0Arm is made of 5mm carbon fiber and has a universal fit on the QAV-S 2 frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-joshua-bardwell-se-5-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-qav-s-2-joshua-bardwell-se-arm.jpg",
     "prop_size_max_in": 5.0,
@@ -5342,6 +5698,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -5349,7 +5709,7 @@
     "category": "frames",
     "name": "SpeedyBee Master 5 V2 Frame Kit",
     "manufacturer": "SpeedyBee",
-    "description": "Designed to handle cinematic and freestyle flying, the SpeedyBee Master 5 V2 Frame Kit with Deadcat geometry, places the flight controller closer to the center of gravity than other DC frames.",
+    "description": "Designed to handle cinematic and freestyle flying, the SpeedyBee Master 5 V2 Frame Kit\u00a0with Deadcat geometry, places the flight controller closer to the center of gravity than other DC frames.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-master-5-v2-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/p/speedybee-master-5-v2-frame-kit.jpg",
     "prop_size_max_in": 5.0,
@@ -5401,7 +5761,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -5409,7 +5773,7 @@
     "category": "frames",
     "name": "ImpulseRC ApexDC EVO 5\" FPV Frame Kit - Mr Steele Version",
     "manufacturer": "Apex",
-    "description": "Get ready to push your FPV drone flying to new heights with the ImpulseRC ApexDC EVO 5\" FPV Frame Kit - Mr. Steele Version.",
+    "description": "Get ready to push your FPV drone flying to new heights with the ImpulseRC ApexDC EVO 5\" FPV Frame Kit\u00a0- Mr. Steele Version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apexdc-evo-5-fpv-frame-kit-mr-steele-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/i/m/impulserc-apexdc-evo-5-fpv-frame-kit---mr-steele-version-standard-width-1000px.jpg",
     "prop_size_max_in": 5.0,
@@ -5461,7 +5825,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -5469,7 +5837,7 @@
     "category": "frames",
     "name": "ImpulseRC Apex EVO 5\" FPV Frame Kit - Mr Steele Version",
     "manufacturer": "Apex",
-    "description": "Get ready to push your FPV drone flying to new heights with the ImpulseRC Apex EVO 5\" FPV Frame Kit - Mr. Steele Version.",
+    "description": "Get ready to push your FPV drone flying to new heights with the ImpulseRC Apex EVO 5\" FPV Frame Kit\u00a0- Mr. Steele Version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-evo-5-fpv-frame-kit-mr-steele-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/i/m/impulserc-apex-evo-5-fpv-frame-kit---mr-steele-version-standard-width-1000px.jpg",
     "prop_size_max_in": 5.0,
@@ -5521,7 +5889,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -5581,7 +5953,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -5589,7 +5965,7 @@
     "category": "frames",
     "name": "GEPRC Mark5 Pro DC O3 Frame - Emerald Green",
     "manufacturer": "GEPRC",
-    "description": "The GEPRC Mark5 DC Pro Frame has a newly upgraded 7075-T6 aluminum alloy camera side plate. This drone is fully adapted to carry DJI’s new O3 camera.",
+    "description": "The GEPRC Mark5 DC Pro Frame has a newly upgraded 7075-T6 aluminum alloy camera side plate. This drone is fully adapted to carry DJI\u2019s new O3 camera.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-pro-dc-o3-frame-emerald-green.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-mark5-pro-dc-o3-frame---green.jpg",
     "prop_size_max_in": 5.0,
@@ -5643,7 +6019,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -5703,7 +6083,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -5763,7 +6147,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -5771,7 +6159,7 @@
     "category": "frames",
     "name": "AOS RC O3 Freestyle FPV Frame Kit",
     "manufacturer": "AOS RC",
-    "description": "Exceptional flight performance. Unparalleled versatility. Improved durability. Simple to build. Easy to maintain. This version has been specially designed to house the DJI O3 Air Unit.",
+    "description": "Exceptional flight performance. Unparalleled versatility. Improved durability. Simple to build. Easy to maintain. This version has been specially\u00a0designed to house the DJI O3 Air Unit.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-03-freestyle-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/o/aos-03-freestyle-fpv-frame-kit.jpg",
     "prop_size_max_in": 5.0,
@@ -5824,7 +6212,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -5884,7 +6276,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -5945,6 +6341,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -6005,6 +6405,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -6012,7 +6416,7 @@
     "category": "frames",
     "name": "Vanover Vannystyle 5 Mid Plate",
     "manufacturer": "Vannys",
-    "description": "A replacement Vanover Vannystyle 5\" Mid Plate for the Vannystyle 5\" frame kIt by Alex Vanover.",
+    "description": "A replacement\u00a0Vanover Vannystyle 5\" Mid Plate for the Vannystyle 5\" frame kIt by Alex Vanover.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/vanover-vannystyle-5-mid-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/s/c/screwplate2_900x_copy.jpg",
     "prop_size_max_in": 5.0,
@@ -6065,6 +6469,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -6124,7 +6532,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -6132,7 +6544,7 @@
     "category": "frames",
     "name": "RUSHFPV STP Armor C 5\" Quadcopter Frame Kit w/ 2 Armor Sets",
     "manufacturer": "",
-    "description": "The RUSHFPV STP Armor C 5\" Black Frame has a sleek design with a Carbon Fiber finish. This upgraded frame kit comes with two sets of Armor (one Black and one Gray) and two sets of Skids (one Gray and one Red).",
+    "description": "The\u00a0RUSHFPV STP Armor C 5\" Black Frame\u00a0has a sleek design with a Carbon Fiber finish. This upgraded frame kit comes with two sets of Armor (one Black and one Gray) and two sets of Skids (one Gray and one Red).",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/rushfpv-stp-armor-5-quadcopter-frame-kit-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/u/n/untitled_design_55_.jpg",
     "prop_size_max_in": 5.0,
@@ -6184,7 +6596,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -6245,6 +6661,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -6252,7 +6672,7 @@
     "category": "frames",
     "name": "Rekon Fpv Rekon5 5 Arm",
     "manufacturer": "HGLRC",
-    "description": "The Rekon FPV Rekon5 5\" Arm is a spare or replacement 5\" arm for the Rekon FPV Rekon5.",
+    "description": "The Rekon FPV Rekon5 5\" Arm\u00a0is a\u00a0spare or replacement 5\" arm for the Rekon FPV Rekon5.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/rekon-fpv-rekon5-5-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/r/e/rekon5-frame_5_.png",
     "prop_size_max_in": 5.0,
@@ -6304,7 +6724,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -6364,7 +6788,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -6372,7 +6800,7 @@
     "category": "frames",
     "name": "HGLRC Sector D5 FR 5\" Freestyle FPV Frame Kit - DeadCat",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC Sector D5 FR is a 5\" Freestyle FPV Frame with DeadCat configuration. Take your freestyle flights to the next level with this durable frame! This frame features quick swap arms for easy electronic fixes and CNC aluminum side plates.",
+    "description": "The\u00a0HGLRC Sector D5 FR\u00a0is a 5\" Freestyle FPV Frame with DeadCat configuration. Take your freestyle flights to the next level with this durable frame! This frame features quick swap arms for easy electronic fixes and CNC aluminum side plates.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-d5-fr-5-freestyle-fpv-frame-deadcat.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/h/g/hglrc-sector-d5_frame_2_black.jpg",
     "prop_size_max_in": 5.0,
@@ -6425,7 +6853,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -6433,7 +6865,7 @@
     "category": "frames",
     "name": "Holybro Kopis X8 5\" Cinelifter Frame Kit - Caged Version",
     "manufacturer": "Holybro",
-    "description": "This caged version Holybro Kopis X8 Cinelifter 5” Frame Kit is for the ultimate Kopis Cinelifter!",
+    "description": "This caged version\u00a0Holybro Kopis X8 Cinelifter 5\u201d\u00a0Frame Kit\u00a0is for the ultimate Kopis Cinelifter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-frame-kit-caged-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-kopis-x8-5-cinelifter-frame-kit---caged-version-1.jpg",
     "prop_size_max_in": 5.0,
@@ -6485,7 +6917,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -6493,7 +6929,7 @@
     "category": "frames",
     "name": "Holybro Kopis X8 5\" Cinelifter DIY Full Kit - Caged Version",
     "manufacturer": "Holybro",
-    "description": "This caged version Holybro Kopis X8 Cinelifter 5” Full Kit has everything you need to assemble your Kopis Cinelifter!",
+    "description": "This caged version\u00a0Holybro Kopis X8 Cinelifter 5\u201d\u00a0Full Kit\u00a0has everything you need to assemble your Kopis Cinelifter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-diy-full-kit-caged-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-kopis-x8-5-cinelifter-diy-full-kit---caged-version-graphic-2_1.jpg",
     "prop_size_max_in": 5.0,
@@ -6545,7 +6981,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -6553,7 +6993,7 @@
     "category": "frames",
     "name": "Holybro Kopis X8 5\" Cinelifter DIY ARF Kit - Caged Version",
     "manufacturer": "Holybro",
-    "description": "This caged version Holybro Kopis X8 Cinelifter 5” ARF Kit includes motors and props that you will you need to assemble your Kopis Cinelifter!",
+    "description": "This caged version\u00a0Holybro Kopis X8 Cinelifter 5\u201d\u00a0ARF Kit\u00a0includes motors and props that you will you need to assemble your Kopis Cinelifter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-diy-arf-kit-caged-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-kopis-x8-5-cinelifter-diy-arf-kit---caged-version-graphic.jpg",
     "prop_size_max_in": 5.0,
@@ -6605,7 +7045,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -6613,7 +7057,7 @@
     "category": "frames",
     "name": "Holybro Kopis X8 5\" Cinelifter Frame Kit - Ducted Version",
     "manufacturer": "Holybro",
-    "description": "This ducted version Holybro Kopis X8 Cinelifter 5” Frame Kit is for the ultimate Kopis Cinelifter!",
+    "description": "This ducted version\u00a0Holybro Kopis X8 Cinelifter 5\u201d\u00a0Frame Kit\u00a0is for the ultimate Kopis Cinelifter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-frame-kit-ducted-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-kopis-x8-5-cinelifter-frame-kit---ducted-version-main.jpg",
     "prop_size_max_in": 5.0,
@@ -6665,7 +7109,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -6725,7 +7173,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -6785,7 +7237,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -6793,7 +7249,7 @@
     "category": "frames",
     "name": "Hyperlite Freerange 5\" LR Freestyle HD Frame Kit",
     "manufacturer": "Hyperlite",
-    "description": "Introducing the Hyperlite Freerange 5'' LR Freestyle frame!",
+    "description": "Introducing the\u00a0Hyperlite Freerange 5'' LR Freestyle frame!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-freerange-5-lr-freestyle-hd-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/y/hyperlite-freerange-5-freestyle-hd-frame-kit-main-1.jpg",
     "prop_size_max_in": 5.0,
@@ -6845,7 +7301,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -6905,7 +7365,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -6965,7 +7429,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -7025,7 +7493,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -7085,7 +7557,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -7146,6 +7622,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -7203,7 +7683,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 40,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -7263,7 +7747,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -7323,7 +7811,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -7383,7 +7875,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -7391,7 +7887,7 @@
     "category": "frames",
     "name": "PIRAT Hook V2 FPV Drone Frame Kit",
     "manufacturer": "PIRAT",
-    "description": "Get a precise flying experience with the new PIRAT Hook V2 Frame! The V2 frame now features more durability (even in reverse), Caddx Vista integration, and adaptivity to all camera sizes. Developed in collaboration with PDEVX FPV pilot.",
+    "description": "Get a precise flying experience with the new\u00a0PIRAT Hook V2 Frame! The V2 frame now features more durability (even in reverse),\u00a0Caddx Vista integration, and\u00a0adaptivity to all camera sizes.\u00a0Developed in collaboration with\u00a0PDEVX\u00a0FPV\u00a0pilot.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-v2-fpv-drone-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pirat-hook-v2-fpv-drone-frame-kit-main.jpg",
     "prop_size_max_in": 5.0,
@@ -7443,7 +7939,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -7451,7 +7951,7 @@
     "category": "frames",
     "name": "AOS RC Freestyle FPV Drone Frame Kit",
     "manufacturer": "",
-    "description": "Introducing...the AOS RC Freestyle FPV Drone Frame Kit!",
+    "description": "Introducing...the\u00a0AOS RC Freestyle FPV Drone Frame Kit!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-freestyle-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/i/f/iflight-aos-5.5-freestyle-fpv-frame-kit-main_1.jpg",
     "prop_size_max_in": 5.0,
@@ -7503,7 +8003,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -7511,7 +8015,7 @@
     "category": "frames",
     "name": "Diatone Roma F5 5\" V2 Frame Kit - HD",
     "manufacturer": "Diatone",
-    "description": "The Diatone's Roma F5 5\" V2 HD frame introduces a number of changes to the new and optimized Roma F5 frame, like an upgraded alloy material from 7075 to titanium steel for an extra high-end and tactile quality frame!",
+    "description": "The Diatone's Roma F5 5\" V2 HD frame introduces\u00a0a\u00a0number\u00a0of\u00a0changes\u00a0to\u00a0the\u00a0new and optimized Roma F5 frame, like an upgraded alloy\u00a0material\u00a0from\u00a07075\u00a0to\u00a0titanium\u00a0steel for an extra\u00a0high-end and tactile\u00a0quality frame!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-v2-frame-kit-hd.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_roma_f5_5_22_v2_frame_kit_-_hd.jpg",
     "prop_size_max_in": 5.0,
@@ -7563,7 +8067,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -7571,7 +8079,7 @@
     "category": "frames",
     "name": "Diatone Roma F5 5\" V2 Frame Kit - Analog",
     "manufacturer": "Diatone",
-    "description": "The Diatone's Roma F5 5\" V2 Analog frame introduces a number of changes to the new and optimized Roma F5 frame, like an upgraded alloy material from 7075 to titanium steel for an extra high-end and tactile quality frame!",
+    "description": "The Diatone's Roma F5 5\" V2 Analog frame introduces a\u00a0number\u00a0of\u00a0changes\u00a0to\u00a0the\u00a0new and optimized Roma F5 frame, like an upgraded alloy\u00a0material\u00a0from\u00a07075\u00a0to\u00a0titanium\u00a0steel for an extra\u00a0high-end and tactile\u00a0quality frame!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-v2-frame-kit-analog.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone-roma-f5-v2-frame-kit_-replacement-image__2.jpg",
     "prop_size_max_in": 5.0,
@@ -7623,7 +8131,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -7683,7 +8195,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -7691,7 +8207,7 @@
     "category": "frames",
     "name": "Diatone Roma L5 5\" Front Arm (1pc)",
     "manufacturer": "Diatone",
-    "description": "A replacement front arm for the Diatone Roma L5 5\" Frame.",
+    "description": "A replacement front arm for the\u00a0Diatone Roma L5 5\" Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-l5-5-front-arm-1pc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_roma_l5_5_22_front_arm_1pc__1.jpg",
     "prop_size_max_in": 5.0,
@@ -7743,7 +8259,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -7803,7 +8323,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -7863,7 +8387,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -7924,7 +8452,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -7985,6 +8517,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -7992,7 +8528,7 @@
     "category": "frames",
     "name": "Ummagawd Cricket FPV Moongoat Replacement Shoulder Bolts (2pcs)",
     "manufacturer": "Ummagawd",
-    "description": "These Replacement Shoulder Bolts are for the 5\" Ummagawd Moongoat Frame.",
+    "description": "These\u00a0Replacement Shoulder Bolts\u00a0are for the\u00a05\" Ummagawd Moongoat Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-cricket-fpv-moongoat-replacement-shoulder-bolts-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/m/o/moongoat_shoulder_boats.jpeg",
     "prop_size_max_in": 5.0,
@@ -8045,6 +8581,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -8052,7 +8592,7 @@
     "category": "frames",
     "name": "Ummagawd Cricket Fpv Moongoat Hardware Pack",
     "manufacturer": "Ummagawd",
-    "description": "This Hardware Pack is for the 5\" Ummagawd Moongoat Frame.",
+    "description": "This\u00a0Hardware Pack\u00a0is\u00a0for the\u00a05\" Ummagawd Moongoat Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-cricket-fpv-moongoat-hardware-pack.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/u/m/ummagawd-cricket-fpv-moongoat-hardware-pack.jpg",
     "prop_size_max_in": 5.0,
@@ -8105,6 +8645,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -8165,6 +8709,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -8224,7 +8772,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -8232,7 +8784,7 @@
     "category": "frames",
     "name": "Zbroy Prometheus 5 Titanium Head Detail",
     "manufacturer": "iFlight",
-    "description": "This Titanium Head Detail is a replacement part for the ZBROY Prometheus 5\" Drone.",
+    "description": "This Titanium Head Detail is a replacement part for the\u00a0ZBROY Prometheus 5\" Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/zbroy-prometheus-5-titanium-head-detail.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/z/b/zbroy-prometheus-5-titanium-head-detail-main1000x1000.jpg",
     "prop_size_max_in": 5.0,
@@ -8284,7 +8836,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -8344,7 +8900,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -8352,7 +8912,7 @@
     "category": "frames",
     "name": "Stan FPV 5\" Injected UDP Propeller Guards - Basic Conversion Kit",
     "manufacturer": "",
-    "description": "TAME THE BEAST! The Stan FPV 5\" UDP Guards - Basic Conversion Kit allows you to easily convert your current 5\" or larger drone into a safe and smooth cinematic flyer! 99% of frames that hold a 5\" prop will fit these universal ducted prop guards.",
+    "description": "TAME THE BEAST! The Stan FPV 5\" UDP Guards - Basic Conversion Kit allows you to easily convert your current 5\" or larger drone into a safe and smooth cinematic flyer!\u00a099% of frames that hold a 5\" prop will fit these universal ducted prop guards.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-5-injected-udp-propeller-guards-basic-conversion-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/s/t/stanfpvudpguards.jpg",
     "prop_size_max_in": 5.0,
@@ -8404,7 +8964,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -8464,7 +9028,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -8472,7 +9040,7 @@
     "category": "frames",
     "name": "Bqe Botafx Banger 5 6Mm Arm",
     "manufacturer": "",
-    "description": "A replacement or spare 5\" 6mm arm for the BQE Botafx Banger 5\" Freestyle Frame.",
+    "description": "A replacement or spare 5\" 6mm arm for the\u00a0BQE Botafx Banger 5\" Freestyle Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/bqe-botafx-banger-5-6mm-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/b/o/botafx-bqe-arm-5-6mm.jpg",
     "prop_size_max_in": 5.0,
@@ -8524,7 +9092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -8584,7 +9156,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -8644,7 +9220,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -8704,7 +9284,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -8712,7 +9296,7 @@
     "category": "frames",
     "name": "Xhover Blastr V2 5\" Arms (2pcs)",
     "manufacturer": "XHover",
-    "description": "Two replacement or spare 5\" arms for the Xhover Blastr V2 5\" Air Frame.",
+    "description": "Two replacement or spare 5\" arms for the\u00a0Xhover Blastr V2 5\" Air Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-5-arms-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/x/h/xhover-blastr-v2-5-arms.jpg",
     "prop_size_max_in": 5.0,
@@ -8764,7 +9348,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -8772,7 +9360,7 @@
     "category": "frames",
     "name": "Xhover Blastr V2 5 Airframe",
     "manufacturer": "XHover",
-    "description": "The Blastr V2 5\" Frame by Xhover is compatible with the DJI Digital HD FPV System and was inspire by the new Lift Kit system.",
+    "description": "The Blastr V2 5\" Frame by Xhover is compatible with the\u00a0DJI Digital HD FPV System\u00a0and was inspire by the new Lift Kit system.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-5-airframe.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/x/h/xhover_blastr_v2_5_air_frame_2_.jpg",
     "prop_size_max_in": 5.0,
@@ -8824,7 +9412,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -8885,6 +9477,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -8892,7 +9488,7 @@
     "category": "frames",
     "name": "Xhover Blastr V2 Main Plate",
     "manufacturer": "XHover",
-    "description": "A replacement or spare main plate for the Xhover Blastr V2 5\" Air Frame.",
+    "description": "A replacement or spare main plate for the\u00a0Xhover Blastr V2 5\" Air Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-main-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/x/h/xhover-blastr-v2-main-plate.jpg",
     "prop_size_max_in": 5.0,
@@ -8944,7 +9540,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -9005,6 +9605,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -9012,7 +9616,7 @@
     "category": "frames",
     "name": "Diatone ROMA F5 HD Air Unit Mount",
     "manufacturer": "Diatone",
-    "description": "A replacement or spare air unit mount (HD) for the Diatone Roma F5 5\" HD Freestyle Quadcopter.",
+    "description": "A replacement or spare air unit mount (HD) for the\u00a0Diatone Roma F5 5\" HD Freestyle Quadcopter.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-air-unit-mount.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/a/i/air_unit_mount_hd_roma_f5.jpg",
     "prop_size_max_in": 5.0,
@@ -9064,7 +9668,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -9124,7 +9732,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -9132,7 +9744,7 @@
     "category": "frames",
     "name": "Diatone ROMA F5 HD GPS Mount",
     "manufacturer": "Diatone",
-    "description": "A replacement or spare HD GPS mount for the Diatone Roma F5 5\" HD Freestyle Quadcopter.",
+    "description": "A replacement or spare HD GPS mount for the\u00a0Diatone Roma F5 5\" HD Freestyle Quadcopter.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-gps-mount.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/o/roma_f5_hd_gps_mount_black.jpg",
     "prop_size_max_in": 5.0,
@@ -9184,7 +9796,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -9244,7 +9860,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -9304,7 +9924,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -9312,7 +9936,7 @@
     "category": "frames",
     "name": "Diatone Roma F5 Sma Antenna Mount",
     "manufacturer": "Diatone",
-    "description": "A replacement or spare SMA Antenna Mount for the ROMA F5 5\" Freestyle Quadcopter!",
+    "description": "A replacement or spare SMA Antenna Mount for the\u00a0ROMA F5 5\" Freestyle Quadcopter!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-sma-antenna-mount.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/s/dsc07593_1024x1024_2x.jpg",
     "prop_size_max_in": 5.0,
@@ -9364,7 +9988,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -9425,6 +10053,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -9485,6 +10117,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -9545,6 +10181,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -9605,6 +10245,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -9665,6 +10309,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -9672,7 +10320,7 @@
     "category": "frames",
     "name": "Diatone ROMA F5 5\" Arm",
     "manufacturer": "Diatone",
-    "description": "A spare or replacement 5\" arm for the Diatone Roma F5 5\" Freestyle Quadcopter - Analog version or Roma F5 Frame Kit.",
+    "description": "A spare or replacement 5\" arm for the\u00a0Diatone Roma F5 5\" Freestyle Quadcopter\u00a0- Analog version or\u00a0Roma F5 Frame Kit.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_roma_f5_5_arm.jpg",
     "prop_size_max_in": 5.0,
@@ -9724,7 +10372,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -9732,7 +10384,7 @@
     "category": "frames",
     "name": "Diatone ROMA F5 5\" HD Arm",
     "manufacturer": "Diatone",
-    "description": "A spare or replacement 5\" arm for the Diatone Roma F5 5\" HD Freestyle Quadcopter - DJI version or Roma F5 HD Frame Kit.",
+    "description": "A spare or replacement 5\" arm for the\u00a0Diatone Roma F5 5\" HD Freestyle Quadcopter\u00a0- DJI version or\u00a0Roma F5 HD Frame Kit.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-hd-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_roma_f5_5_hd_arm.jpg",
     "prop_size_max_in": 5.0,
@@ -9784,7 +10436,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -9844,7 +10500,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -9852,7 +10512,7 @@
     "category": "frames",
     "name": "Stan FPV Cine-Bird XL 5\" FPV Frame Kit w/ GoPro MAX Mount (Invisible)",
     "manufacturer": "StanFPV",
-    "description": "Stan FPV has designed the Cine-Bird XL to give pilots the options to go faster while flying with their favorite 360 cams!",
+    "description": "Stan FPV\u00a0has designed the Cine-Bird XL to give pilots the options to go faster while flying with their favorite 360 cams!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-cine-bird-xl-5-fpv-frame-kit-w-gopro-max-mount-invisible.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/t/stan_fpv_cine-bird_xl_5_fpv_frame_kit_w_gopro_max_mount_2_.jpg",
     "prop_size_max_in": 5.0,
@@ -9904,7 +10564,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -9912,7 +10576,7 @@
     "category": "frames",
     "name": "Stan FPV Cine-Bird XL 5\" FPV Frame Kit w/ Insta360 One-R Mount (Invisible)",
     "manufacturer": "StanFPV",
-    "description": "Stan FPV has designed the Cine-Bird XL to give pilots the options to go faster while flying with their favorite 360 cams!",
+    "description": "Stan FPV\u00a0has designed the Cine-Bird XL to give pilots the options to go faster while flying with their favorite 360 cams!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-cine-bird-xl-5-fpv-frame-kit-w-insta360-one-r-mount-invisible.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/t/stan_fpv_cine-bird_xl_5_fpv_frame_kit_insta360_one-r_mount_.jpg",
     "prop_size_max_in": 5.0,
@@ -9964,7 +10628,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -10024,7 +10692,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -10032,7 +10704,7 @@
     "category": "frames",
     "name": "HGLRC Sector 5\", 6\",7\" V3 HD Freestyle FPV Frame Kit",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC Sector 5/6/7 V3 Freestyle Frame comes in three different sizes: 5\", 6\", and 7\". It features no props in view, so you can enjoy a clear view when flying and you can adjust the camera mount from 25°, 30°, 35° to 40° to suit your needs.",
+    "description": "The HGLRC Sector 5/6/7 V3 Freestyle Frame comes in three different sizes: 5\", 6\", and 7\". It features no props in view, so you can enjoy a clear view when flying and you can adjust the camera mount from 25\u00b0, 30\u00b0, 35\u00b0 to 40\u00b0 to suit your needs.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-5-6-7-v3-hd-freestyle-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/h/g/hglrc-sector-v3-hd-freestyle-frame-5-6-7-8_3.jpg",
     "prop_size_max_in": 5.0,
@@ -10084,7 +10756,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -10145,7 +10821,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -10205,7 +10885,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -10265,7 +10949,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -10325,7 +11013,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -10333,7 +11025,7 @@
     "category": "frames",
     "name": "Fpvcrate Stark Camera Side Plate 2Pcs",
     "manufacturer": "",
-    "description": "STARK Camera Side Plate. Use as a spare or replacement for the STARK 5\" Frame.",
+    "description": "STARK Camera Side Plate. Use as a spare or replacement for the\u00a0STARK 5\" Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/fpvcrate-stark-camera-side-plate-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/f/p/fpvcrate-stark-side-cam-plates.jpg",
     "prop_size_max_in": 5.0,
@@ -10385,7 +11077,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -10445,7 +11141,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -10505,15 +11205,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
     "pid": "FRM-1256",
     "category": "frames",
-    "name": "Flywoo Mr.Croc 5‘’ HD Frame Kit",
+    "name": "Flywoo Mr.Croc 5\u2018\u2019 HD Frame Kit",
     "manufacturer": "Flywoo",
-    "description": "The Flywoo Mr.Croc HD 5\" Frame is specifically made for the DJI Digital HD FPV System.",
+    "description": "The Flywoo Mr.Croc HD 5\" Frame is specifically made for the\u00a0DJI Digital HD FPV System.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flywoo-mr-croc-5-hd-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/l/flywoo-mr.croc-7--hd-frame-kit-44_1.jpg",
     "prop_size_max_in": 5.0,
@@ -10565,7 +11269,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -10626,6 +11334,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -10686,6 +11398,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -10746,6 +11462,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -10753,7 +11473,7 @@
     "category": "frames",
     "name": "Zeez Design Capish 5.5\" Racing Frame Kit",
     "manufacturer": "Zeez Design",
-    "description": "The Zeez Design Capish 5.5″ Racing Frame is an excellent racing frame that is made of Japanese T700 top quality carbon and features easy to swap arms, making it easier to change props!",
+    "description": "The Zeez Design Capish 5.5\u2033 Racing Frame is an excellent racing frame that is made of Japanese T700 top quality carbon and features easy to swap arms, making it easier to change props!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/zeez-design-capish-5-5-racing-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/e/zeez-design-capish-5.5_-racing-frame-kit-6.jpg",
     "prop_size_max_in": 5.5,
@@ -10805,7 +11525,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -10813,7 +11537,7 @@
     "category": "frames",
     "name": "GEPRC MARK4 HD5 5\" Frame Kit",
     "manufacturer": "GEPRC",
-    "description": "The MARK4 HD5 5\" Frame by GEPRC is perfect for the DJI FPV Air Unit!",
+    "description": "The MARK4 HD5 5\" Frame by GEPRC is perfect for the\u00a0DJI FPV Air Unit!",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark4-hd5-5-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/1/11_4.jpg",
     "prop_size_max_in": 5.0,
@@ -10865,7 +11589,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -10873,7 +11601,7 @@
     "category": "frames",
     "name": "Armattan Marmotte Tail Post - Aluminum (1pc)",
     "manufacturer": "Armattan",
-    "description": "A single replacement FPV tail post for the Armattan Marmotte.",
+    "description": "A single replacement FPV tail post for the\u00a0Armattan Marmotte.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-marmotte-tail-post-aluminum-1pc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tail_post__42808.1551173560.jpg",
     "prop_size_max_in": 5.0,
@@ -10925,7 +11653,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -10985,7 +11717,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -11045,7 +11781,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -11105,7 +11845,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -11165,7 +11909,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -11173,7 +11921,7 @@
     "category": "frames",
     "name": "Diatone GT X549 Exorcist Stacked Fixed Board",
     "manufacturer": "Diatone",
-    "description": "A replacement Stacked Fixed Board for the Diatone GT X549 Exorcist Racing Drone.",
+    "description": "A replacement\u00a0Stacked Fixed Board\u00a0for the\u00a0Diatone GT X549 Exorcist\u00a0Racing Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-stacked-fixed-board.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone-gt-x549-exorcist-frame-kit-accessories-gtx549stack-fixed-board-x-innovations-official-auto-part_835_1024x1024_2x.jpg",
     "prop_size_max_in": 5.0,
@@ -11225,7 +11973,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -11233,7 +11985,7 @@
     "category": "frames",
     "name": "Diatone GT X549 Exorcist Flight Control Bottom - 20mm",
     "manufacturer": "Diatone",
-    "description": "A replacement Flight Control Bottom (20mm) for the Diatone GT X549 Exorcist Racing Drone.",
+    "description": "A replacement\u00a0Flight Control Bottom (20mm) for the\u00a0Diatone GT X549 Exorcist\u00a0Racing Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-flight-control-bottom-20mm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone-gt-x549-exorcist-frame-kit-accessories-gtx-flightcontrol-bottom-20mm-x-innovations-official-auto-part_328_1024x1024_2x.jpg",
     "prop_size_max_in": 5.0,
@@ -11285,7 +12037,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -11293,7 +12049,7 @@
     "category": "frames",
     "name": "Diatone GT X549 Exorcist Flight Control Bottom - 30.5mm",
     "manufacturer": "Diatone",
-    "description": "A replacement Flight Control Bottom (30.5mm) for the Diatone GT X549 Exorcist Racing Drone.",
+    "description": "A replacement\u00a0Flight Control Bottom (30.5mm)\u00a0for the\u00a0Diatone GT X549 Exorcist\u00a0Racing Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-flight-control-bottom-30-5mm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone-gt-x549-exorcist-frame-kit-accessories-gtx-flightcontrol-bottom-30-5mm-x-innovations-official-auto-part_835_1024x1024_2x.jpg",
     "prop_size_max_in": 5.0,
@@ -11345,7 +12101,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -11405,7 +12165,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -11466,6 +12230,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -11525,7 +12293,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -11586,6 +12358,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -11645,7 +12421,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -11705,7 +12485,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -11765,7 +12549,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -11826,6 +12614,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -11885,7 +12677,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -11945,7 +12741,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -12005,7 +12805,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -12066,7 +12870,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -12126,7 +12934,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -12186,7 +12998,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -12246,7 +13062,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -12306,7 +13126,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -12367,7 +13191,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -12427,7 +13255,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -12487,7 +13319,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -12547,7 +13383,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -12607,7 +13447,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -12668,6 +13512,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -12728,6 +13576,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -12788,6 +13640,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -12848,6 +13704,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -12855,7 +13715,7 @@
     "category": "frames",
     "name": "Menace RC FiziX 5\" Frame",
     "manufacturer": "Menace RC",
-    "description": "Welcome to the new racing frame FIZIX…",
+    "description": "Welcome to the new racing frame FIZIX\u2026",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/menace-fizix-5-frame.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/i/fizix_5_main.jpg",
     "prop_size_max_in": 5.0,
@@ -12907,7 +13767,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -12967,7 +13831,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -13027,7 +13895,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -13087,7 +13959,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -13147,7 +14023,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -13207,7 +14087,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -13269,6 +14153,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -13329,6 +14217,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -13387,6 +14279,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -13446,7 +14342,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -13507,6 +14407,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -13566,7 +14470,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -13626,7 +14534,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -13686,7 +14598,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -13747,7 +14663,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -13808,6 +14728,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -13867,7 +14791,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -13927,7 +14855,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -13987,7 +14919,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -14048,6 +14984,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -14108,6 +15048,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -14115,7 +15059,7 @@
     "category": "frames",
     "name": "Ummagawd Remix V2 FPV Freestyle Frame",
     "manufacturer": "Ummagawd",
-    "description": "The Ummagawd Remix V2 FPV Freestyle Frame by Tommy Tibajia. RETHINK. REDESIGN. REMIX V2",
+    "description": "The Ummagawd Remix V2 FPV Freestyle Frame by Tommy Tibajia.\u00a0RETHINK. REDESIGN. REMIX V2",
     "link": "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-remix-fpv-freestyle-frame-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/u/m/ummagawd-v2-main-web.jpg",
     "prop_size_max_in": 5.0,
@@ -14168,6 +15112,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -14227,7 +15175,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -14235,7 +15187,7 @@
     "category": "frames",
     "name": "HGLRC MY7 7\" LR Frame Kit",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC MY7 Frame Kit is a lightweight, durable 7‑inch frame designed for long‑range and freestyle builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
+    "description": "The HGLRC MY7 Frame Kit is a lightweight, durable 7\u2011inch frame designed for long\u2011range and freestyle builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hglrc-my7-7-lr-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc_my7_7__lr_frame_kit.jpg",
     "prop_size_max_in": 7.0,
@@ -14285,7 +15237,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 42,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -14293,7 +15249,7 @@
     "category": "frames",
     "name": "HGLRC MY10 10\" LR Frame Kit",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC MY10 Frame Kit is a lightweight, durable 10‑inch frame designed for long‑range builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
+    "description": "The HGLRC MY10 Frame Kit is a lightweight, durable 10\u2011inch frame designed for long\u2011range builds. Its rigid construction and optimized layout make installation easy while supporting a wide range of components.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hglrc-my10-10-lr-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc_my10_10__lr_frame_kit.jpg",
     "prop_size_max_in": 10.0,
@@ -14343,7 +15299,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -14402,6 +15362,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -14459,7 +15423,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -14517,7 +15485,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -14575,7 +15547,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 72,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -14635,7 +15611,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -14694,7 +15674,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -14752,7 +15736,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 79,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -14810,7 +15798,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -14868,7 +15860,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -14927,6 +15923,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -14934,7 +15934,7 @@
     "category": "frames",
     "name": "Lumenier QAV-S 2 JohnnyFPV SE - Rear Mounting Plates",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier QAV-S 2 JohnnyFPV SE rear mounting plates provide a personalized solution for a hard-mounted XT60 connection and a range of accessories.",
+    "description": "The Lumenier QAV-S 2 JohnnyFPV SE\u00a0rear mounting plates provide a personalized solution for a hard-mounted XT60 connection and a range of accessories.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-rear-mounting-plates.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-qav-s-2-johnnyfpv-se-rear-mounting-plates.jpg",
     "prop_size_max_in": 6.0,
@@ -14985,6 +15985,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -15043,6 +16047,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -15101,6 +16109,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -15108,7 +16120,7 @@
     "category": "frames",
     "name": "Lumenier QAV-S 2 JohnnyFPV SE - 7\" Arm Kit",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier QAV-S 2 JohnnyFPV SE introduces a durable 7\" arm kit!",
+    "description": "The Lumenier QAV-S 2 JohnnyFPV SE introduces a durable\u00a07\" arm kit!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-7-arm-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-qav-s-2-johnnyfpv-se---7-arm-kit-_1_.jpg",
     "prop_size_max_in": 7.0,
@@ -15159,6 +16171,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -15216,13 +16232,17 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 72,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
     "pid": "FRM-1363",
     "category": "frames",
-    "name": "Lumenier QAV-S 2 JohnnyFPV SE 7” Frame Kit",
+    "name": "Lumenier QAV-S 2 JohnnyFPV SE 7\u201d Frame Kit",
     "manufacturer": "Lumenier",
     "description": "Introducing the Lumenier QAV-S 2 JohnnyFPV Special Edition frame, a cutting-edge masterpiece designed to elevate your FPV drone experience.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-7-frame-kit.html",
@@ -15275,6 +16295,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -15332,13 +16356,17 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
     "pid": "FRM-1365",
     "category": "frames",
-    "name": "Lumenier QAV-PRO Mega Whoop 7” Cinequads Edition X8 Upgrade Kit",
+    "name": "Lumenier QAV-PRO Mega Whoop 7\u201d Cinequads Edition X8 Upgrade Kit",
     "manufacturer": "Lumenier",
     "description": "With the addition of this X8 Upgrade Kit for the QAV-PRO Mega Whoop, this setup ensures an exceptional QAV-PRO experience where additional power and stability are needed.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-mega-whoop-7-cinequads-edition-x8-upgrade-kit.html",
@@ -15391,6 +16419,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 9,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -15449,6 +16481,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -15506,7 +16542,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -15565,7 +16605,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -15623,7 +16667,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -15631,7 +16679,7 @@
     "category": "frames",
     "name": "ImpulseRC ApexLR EVO 7\" FPV Frame Kit - Mr Steele Version",
     "manufacturer": "Apex",
-    "description": "Get ready to push your long-range FPV drone flying to new heights with the ImpulseRC ApexLR EVO 7\" FPV Frame Kit - Mr. Steele Version.",
+    "description": "Get ready to push your long-range FPV drone flying to new heights with the ImpulseRC ApexLR EVO 7\" FPV Frame Kit\u00a0- Mr. Steele Version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/impulserc-apexlr-evo-7-fpv-frame-kit-mr-steele-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba_mk4_f740_aioimpulserc-apexlr-evo-7-fpv-frame-kit---mr-steele-version-standard-width-1000px.jpg",
     "prop_size_max_in": 7.0,
@@ -15681,7 +16729,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 49,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -15739,7 +16791,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -15747,7 +16803,7 @@
     "category": "frames",
     "name": "Johnnyfpv Banshee 8 Cinema Drone Landing Plate",
     "manufacturer": "",
-    "description": "This Landing Plate and Skids are a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone.",
+    "description": "This\u00a0Landing Plate and Skids are a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-landing-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/b/a/banshee-landing-plate.jpg",
     "vehicle_subtype": "cine",
@@ -15797,7 +16853,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -15805,7 +16865,7 @@
     "category": "frames",
     "name": "Johnnyfpv Banshee 8 Cinema Drone Universal Camera Bracket Kit",
     "manufacturer": "",
-    "description": "This Universal Camera Bracket Kit is for the JohnnyFPV Banshee 8\" Cinema Drone.",
+    "description": "This\u00a0Universal Camera Bracket Kit\u00a0is for the JohnnyFPV Banshee 8\" Cinema Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-universal-camera-bracket-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/u/n/universal-camera-mount.jpg",
     "vehicle_subtype": "cine",
@@ -15855,7 +16915,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -15863,7 +16927,7 @@
     "category": "frames",
     "name": "Johnnyfpv Banshee 8 Cinema Drone Komodo Camera Bracket Kit",
     "manufacturer": "",
-    "description": "This Komodo Camera Bracket Kit is for the JohnnyFPV Banshee 8\" Cinema Drone.",
+    "description": "This\u00a0Komodo Camera Bracket Kit is for the JohnnyFPV Banshee 8\" Cinema Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-komodo-camera-bracket-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/k/o/komodo-camera-bracket-kit.jpg",
     "vehicle_subtype": "cine",
@@ -15913,7 +16977,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -15971,7 +17039,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -15979,7 +17051,7 @@
     "category": "frames",
     "name": "Johnnyfpv Banshee 8 Cinema Drone Anchor Kit",
     "manufacturer": "",
-    "description": "This Anchor Kit is a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone. These anchors secure the cinema camera brackets to the frame.",
+    "description": "This\u00a0Anchor Kit is a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone. These anchors secure the cinema camera brackets to the frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-anchor-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/n/anchor-kit.jpg",
     "vehicle_subtype": "cine",
@@ -16029,7 +17101,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -16088,6 +17164,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 82,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -16146,6 +17226,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -16204,6 +17288,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -16211,7 +17299,7 @@
     "category": "frames",
     "name": "PIRAT Hook V2 FPV Drone - Caddx Vista Mounting Kit",
     "manufacturer": "PIRAT",
-    "description": "This Caddx Vista Mounting Kit is specially designed for the new PIRAT Hook V2 Frame!  Crafted in high-quality 3D printing material with durable hardware.",
+    "description": "This\u00a0Caddx Vista Mounting Kit\u00a0is specially designed for the new\u00a0PIRAT Hook V2 Frame!\u00a0\u00a0Crafted in high-quality 3D printing material with durable hardware.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/pirat-hook-v2-fpv-drone-caddx-vista-mounting-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pirat-hook-v2-fpv-drone-caddx-vista-mounting-kit.jpg",
     "prop_size_max_in": 6.0,
@@ -16261,7 +17349,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -16320,6 +17412,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -16378,6 +17474,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -16436,6 +17536,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -16494,6 +17598,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -16501,7 +17609,7 @@
     "category": "frames",
     "name": "Lumenier QAV-R 2 6\" Deadcat Front Arm",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 6\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the Lumenier QAV-R 2 Deadcat Quadcopter Frame and Slam version.",
+    "description": "A Lumenier 6\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the\u00a0Lumenier QAV-R 2 Deadcat Quadcopter Frame\u00a0and\u00a0Slam version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-6-deadcat-front-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/2/12155-qavr-2-6inch-deadcat-front-arm.jpg",
     "prop_size_max_in": 6.0,
@@ -16553,6 +17661,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -16560,7 +17672,7 @@
     "category": "frames",
     "name": "Lumenier Qav R 2 6 Deadcat Rear Arm",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 6\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the Lumenier QAV-R 2 Deadcat Quadcopter Frame and Slam version.",
+    "description": "A Lumenier 6\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the\u00a0Lumenier QAV-R 2 Deadcat Quadcopter Frame\u00a0and\u00a0Slam version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-6-deadcat-rear-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/1/2/12156--qavr-2-5inch-deadcat-reart-arm.jpg",
     "arm_configuration": "deadcat",
@@ -16612,6 +17724,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -16619,7 +17735,7 @@
     "category": "frames",
     "name": "Lumenier QAV-R 2 Deadcat Freestyle Quadcopter Frame (5\", 6\", 7\")",
     "manufacturer": "Lumenier",
-    "description": "The QAV-R 2 Deadcat Frame retracted front arms make sure your props are never in view in your camera footage. The body of the frame is also extended to give more room for mounting options such as DJI's FPV Air Unit. Fly freestyle your way with the Lumenier QAV-R 2 Deadcat Freestyle Frame.",
+    "description": "The QAV-R 2 Deadcat Frame retracted front arms make sure your props are never in view in your camera footage. The body of the frame is also extended to give more room for mounting options such as DJI's FPV Air Unit.\u00a0Fly freestyle your way with the Lumenier QAV-R 2 Deadcat Freestyle Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-deadcat-freestyle-quadcopter-frame-5-6-7.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-qav-r-2-deadcat-freestyle-quadcopter-frame---5-1000x1000_1.jpg",
     "prop_size_max_in": 5.0,
@@ -16673,6 +17789,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -16680,7 +17800,7 @@
     "category": "frames",
     "name": "Lumenier Qav Rxl 2 6Mm Arm 8",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 8\" QAV-RXL 2 Carbon Fiber Arm (6mm). Use as a spare or replacement to the QAV-RXL 2 8\" FPV Quadcopter Frame.",
+    "description": "A Lumenier 8\" QAV-RXL 2 Carbon Fiber Arm (6mm). Use as a spare or replacement to the\u00a0QAV-RXL 2 8\" FPV Quadcopter Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-rxl-2-6mm-arm-8.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/s/dsc_0009.jpg",
     "prop_size_max_in": 6.0,
@@ -16731,6 +17851,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -16789,6 +17913,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -16847,6 +17975,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -16905,6 +18037,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 46,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -16963,6 +18099,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -17021,6 +18161,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -17079,6 +18223,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 70,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -17137,6 +18285,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -17194,7 +18346,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -17252,7 +18408,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -17310,7 +18470,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -17368,7 +18532,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 109
     }
   },
   {
@@ -17426,13 +18594,17 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
     "pid": "FRM-1413",
     "category": "frames",
-    "name": "FlyFishRC Volador Ⅱ VX6 O4 Pro Freestyle Frame Kit - Black",
+    "name": "FlyFishRC Volador \u2161 VX6 O4 Pro Freestyle Frame Kit - Black",
     "manufacturer": "FlyFish",
     "description": "The FlyFishRC Volador II VX6 O4 Pro Frame kit is the refined second version of FlyFishRC's 6-inch freestyle frame, developed with valuable pilot feedback to enhance performance, durability, and build simplicity.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/flyfishrc-volador-vx6-o4-pro-freestyle-frame-kit-black.html",
@@ -17485,7 +18657,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -17493,7 +18669,7 @@
     "category": "frames",
     "name": "Lumenier QAV-R 2C Frame Kit - 7\"",
     "manufacturer": "Lumenier",
-    "description": "Introducing the Lumenier QAV-R 2C  7\" Frame Kit, crafted with silky, clear-coated carbon fiber and features an extended main body, offering ample space for accessories and electronics.",
+    "description": "Introducing the Lumenier QAV-R 2C \u00a07\" Frame Kit, crafted with silky, clear-coated carbon fiber and features an extended main body, offering ample space for accessories and electronics.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2c-quadcopter-frame-7.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-qav-r-2c-quadcopter-frame-7-_angle_.jpg",
     "prop_size_max_in": 7.0,
@@ -17544,6 +18720,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 43,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -17602,6 +18782,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 42,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -17609,7 +18793,7 @@
     "category": "frames",
     "name": "Foxeer Aura 8 Lr Frame Kit",
     "manufacturer": "",
-    "description": "Introducing the Foxeer Aura 8\" LR Frame – crafted for long-range FPV enthusiasts. Built tough with a sleek design, it offers stability and agility with its 8-inch wheelbase.",
+    "description": "Introducing the Foxeer Aura 8\" LR Frame \u2013 crafted for long-range FPV enthusiasts. Built tough with a sleek design, it offers stability and agility with its 8-inch wheelbase.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/foxeer-aura-8-lr-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/f/o/foxeer-aura-8-lr-frame-_image-1_.jpg",
     "vehicle_subtype": "long_range",
@@ -17659,7 +18843,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -17717,7 +18905,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 73,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -17775,7 +18967,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -17835,6 +19031,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 45,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -17892,7 +19092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -17950,7 +19154,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 43,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -17958,7 +19166,7 @@
     "category": "frames",
     "name": "AOS RC O3 Freestyle FPV Frame Kit",
     "manufacturer": "AOS RC",
-    "description": "Exceptional flight performance. Unparalleled versatility. Improved durability. Simple to build. Easy to maintain. This version has been specially designed to house the DJI O3 Air Unit.",
+    "description": "Exceptional flight performance. Unparalleled versatility. Improved durability. Simple to build. Easy to maintain. This version has been specially\u00a0designed to house the DJI O3 Air Unit.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/aos-03-freestyle-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/o/aos-03-freestyle-fpv-frame-kit.jpg",
     "prop_size_max_in": 6.0,
@@ -18009,7 +19217,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -18067,7 +19279,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 75,
+    "schema_data": {
+      "weight_g": 98
     }
   },
   {
@@ -18075,7 +19291,7 @@
     "category": "frames",
     "name": "Johnnyfpv Banshee 8 Cinema Drone Battery Plate",
     "manufacturer": "",
-    "description": "This Battery Plate is a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone.",
+    "description": "This\u00a0Battery Plate is a replacement or spare for the JohnnyFPV Banshee 8\" Cinema Drone.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-battery-plate.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/b/a/banshee-battery-plate.jpg",
     "vehicle_subtype": "cine",
@@ -18125,7 +19341,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -18133,7 +19353,7 @@
     "category": "frames",
     "name": "iFlight Nazgul Evoque F6 Long Range Frame Kit - F6D DeadCat",
     "manufacturer": "iFlight",
-    "description": "Introducing.. the iFlight Nazgul Evoque F6 Long Range Frame Kit with F6D DeadCat configuration!",
+    "description": "Introducing.. the\u00a0iFlight Nazgul Evoque F6 Long Range Frame Kit\u00a0with\u00a0F6D DeadCat\u00a0configuration!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-evoque-f6-long-range-frame-kit-f6d-deadcat.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-nazgul-evoque-f6-long-range-frame-kit---f6d-deadcat-main.jpg",
     "arm_configuration": "deadcat",
@@ -18184,7 +19404,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 47,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -18192,7 +19416,7 @@
     "category": "frames",
     "name": "iFlight Nazgul Evoque F6 Long Range Frame Kit - F6X Squashed X",
     "manufacturer": "iFlight",
-    "description": "Introducing.. the iFlight Nazgul Evoque F6 Long Range Frame Kit with F6X Squashed X configuration!",
+    "description": "Introducing.. the\u00a0iFlight Nazgul Evoque F6 Long Range Frame Kit\u00a0with\u00a0F6X Squashed X\u00a0configuration!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-evoque-f6-long-range-frame-kit-f6x-squashed-x.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-nazgul-evoque-f6-long-range-frame-kit---f6x-squashed-x-main.jpg",
     "vehicle_subtype": "long_range",
@@ -18242,7 +19466,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 49,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -18250,7 +19478,7 @@
     "category": "frames",
     "name": "Diatone Roma F7 7\" Frame Kit",
     "manufacturer": "Diatone",
-    "description": "The Diatone Roma F7 Frame Kit is a 7\" Quadcopter frame that is great for HD or Analog flying!",
+    "description": "The\u00a0Diatone Roma F7 Frame Kit\u00a0is a 7\" Quadcopter frame that is great for HD or Analog flying!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/diatone-roma-f7-7-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone-roma-f7-7-frame-kit-main.jpg",
     "prop_size_max_in": 7.0,
@@ -18300,7 +19528,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 43,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -18360,7 +19592,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -18418,7 +19654,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -18426,7 +19666,7 @@
     "category": "frames",
     "name": "PIRAT Hook V2 FPV Drone Frame Kit",
     "manufacturer": "PIRAT",
-    "description": "Get a precise flying experience with the new PIRAT Hook V2 Frame! The V2 frame now features more durability (even in reverse), Caddx Vista integration, and adaptivity to all camera sizes. Developed in collaboration with PDEVX FPV pilot.",
+    "description": "Get a precise flying experience with the new\u00a0PIRAT Hook V2 Frame! The V2 frame now features more durability (even in reverse),\u00a0Caddx Vista integration, and\u00a0adaptivity to all camera sizes.\u00a0Developed in collaboration with\u00a0PDEVX\u00a0FPV\u00a0pilot.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/pirat-hook-v2-fpv-drone-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pirat-hook-v2-fpv-drone-frame-kit-main.jpg",
     "prop_size_max_in": 6.0,
@@ -18476,7 +19716,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 108
     }
   },
   {
@@ -18484,7 +19728,7 @@
     "category": "frames",
     "name": "OnwardFPV R4LA 7\" Injection Molded Frame Kit - V2",
     "manufacturer": "",
-    "description": "The OnwardFPV R4LA Frame Kit V2 is made of injection-molded smoked black polycarbonate and carbon fiber. The V2 Main Plate now has multiple mounting pattern options allowing 20x20 or 30x30 stacks.",
+    "description": "The OnwardFPV R4LA\u00a0Frame Kit\u00a0V2 is made of injection-molded smoked black polycarbonate and carbon fiber.\u00a0The V2\u00a0Main Plate\u00a0now has multiple mounting pattern options allowing 20x20 or 30x30 stacks.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/onwardfpv-r4la-7-injection-molded-frame-kit-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/o/n/onwardfpv-r4la-7-injection-molded-frame-kit-main_3.jpg",
     "prop_size_max_in": 7.0,
@@ -18534,7 +19778,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 40,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -18542,7 +19790,7 @@
     "category": "frames",
     "name": "Camera Butter Cinema One 7 Arm",
     "manufacturer": "",
-    "description": "A replacement or spare 7\" arm for the Camera Butter Cinema ONE 7\" Frame. This versatile 7\" arm can be used as an X configuration or deadcat style when flip over!",
+    "description": "A replacement or spare 7\" arm for the\u00a0Camera Butter Cinema ONE 7\" Frame. This versatile 7\" arm can be used as\u00a0an X configuration or deadcat style when flip over!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/camera-butter-cinema-one-7-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/c/a/camera_butter_cinema_one_7_22_arm_1_1.jpg",
     "vehicle_subtype": "cine",
@@ -18592,7 +19840,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -18650,7 +19902,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 84,
+    "schema_data": {
+      "weight_g": 91
     }
   },
   {
@@ -18708,7 +19964,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 47,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -18766,7 +20026,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -18824,7 +20088,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 45,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -18882,7 +20150,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 42,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -18940,7 +20212,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 47,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -18948,7 +20224,7 @@
     "category": "frames",
     "name": "Xhover Blastr V2 6 Arms 2Pcs",
     "manufacturer": "XHover",
-    "description": "Two replacement or spare 6\" arms for the Xhover Blastr V2 5\" Air Frame.",
+    "description": "Two replacement or spare 6\" arms for the\u00a0Xhover Blastr V2 5\" Air Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/xhover-blastr-v2-6-arms-2pcs.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/b/l/blastr-6-arms.jpg",
     "prop_size_max_in": 6.0,
@@ -18998,7 +20274,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -19059,6 +20339,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -19119,6 +20403,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -19177,6 +20465,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 106
     }
   },
   {
@@ -19235,6 +20527,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 48,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -19242,7 +20538,7 @@
     "category": "frames",
     "name": "BrotherHobby Hyperbola 701 7\" FPV Frame Kit",
     "manufacturer": "",
-    "description": "The Hyperbola 701 FPV Frame Kit by BrotherHobby is a 7\" ultralight True-X frame that is designed to fit the DJI Digital FPV System.",
+    "description": "The\u00a0Hyperbola 701 FPV Frame Kit by BrotherHobby is a 7\" ultralight True-X frame that is designed to fit the\u00a0DJI Digital FPV System.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/brotherhobby-hyperbola-701-7-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/b/r/brotherhobby_hyperbola_701_7_fpv_frame_kit.jpg",
     "prop_size_max_in": 7.0,
@@ -19292,7 +20588,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 40,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -19300,7 +20600,7 @@
     "category": "frames",
     "name": "Hyperlite Floss 3 0 Lite Replacement 7 Arm Slotted Mounting Holes",
     "manufacturer": "",
-    "description": "A replacement 7\" LITE Arm (slotted mounting holes) for the Hyperlite Floss 3.0 LITE Race Frame.",
+    "description": "A replacement 7\" LITE Arm (slotted mounting holes) for the\u00a0Hyperlite Floss 3.0 LITE Race Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hyperlite-floss-3-0-lite-replacement-7-arm-slotted-mounting-holes.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/r/e/replacement-7-floss-3.0lite-arm-slotted-mounting-holes.jpg",
     "prop_size_max_in": 6.0,
@@ -19350,7 +20650,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -19358,7 +20662,7 @@
     "category": "frames",
     "name": "HGLRC Sector 5\", 6\",7\" V3 HD Freestyle FPV Frame Kit",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC Sector 5/6/7 V3 Freestyle Frame comes in three different sizes: 5\", 6\", and 7\". It features no props in view, so you can enjoy a clear view when flying and you can adjust the camera mount from 25°, 30°, 35° to 40° to suit your needs.",
+    "description": "The HGLRC Sector 5/6/7 V3 Freestyle Frame comes in three different sizes: 5\", 6\", and 7\". It features no props in view, so you can enjoy a clear view when flying and you can adjust the camera mount from 25\u00b0, 30\u00b0, 35\u00b0 to 40\u00b0 to suit your needs.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hglrc-sector-5-6-7-v3-hd-freestyle-fpv-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/h/g/hglrc-sector-v3-hd-freestyle-frame-5-6-7-8_3.jpg",
     "prop_size_max_in": 5.0,
@@ -19410,7 +20714,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -19418,7 +20726,7 @@
     "category": "frames",
     "name": "Flywoo Mr Croc 6 Arm 1Pc",
     "manufacturer": "Flywoo",
-    "description": "A replacement or spare 6\" arm for the Flywoo Mr.Croc 6‘’ Frame.",
+    "description": "A replacement or spare 6\" arm for the\u00a0Flywoo Mr.Croc 6\u2018\u2019 Frame.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/flywoo-mr-croc-6-arm-1pc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/f/l/flywoo-mr.croc-6_-arm.jpg",
     "prop_size_max_in": 6.0,
@@ -19468,7 +20776,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -19527,6 +20839,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 46,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -19587,6 +20903,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 99
     }
   },
   {
@@ -19645,6 +20965,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -19652,7 +20976,7 @@
     "category": "frames",
     "name": "Lumenier Qav R 2 7 Deadcat Front Arm",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 7\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the Lumenier QAV-R 2 Deadcat Quadcopter Frame and Slam version.",
+    "description": "A Lumenier 7\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the\u00a0Lumenier QAV-R 2 Deadcat Quadcopter Frame\u00a0and\u00a0Slam version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-7-deadcat-front-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/1/2/12157-qavr-2-7inch-deadcat-front-arm.jpg",
     "arm_configuration": "deadcat",
@@ -19704,6 +21028,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 46,
+    "schema_data": {
+      "weight_g": 95
     }
   },
   {
@@ -19711,7 +21039,7 @@
     "category": "frames",
     "name": "Lumenier Qav R 2 7 Deadcat Rear Arm",
     "manufacturer": "Lumenier",
-    "description": "A Lumenier 7\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the Lumenier QAV-R 2 Deadcat Quadcopter Frame and Slam version.",
+    "description": "A Lumenier 7\" QAV-R 2 Deadcat Carbon Fiber Arm (4.5mm). Use as a spare or replacement to the\u00a0Lumenier QAV-R 2 Deadcat Quadcopter Frame\u00a0and\u00a0Slam version.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-7-deadcat-rear-arm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/1/2/12158-qavr-2-7inch-deadcat-rear-arm.jpg",
     "arm_configuration": "deadcat",
@@ -19763,6 +21091,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 40,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -19770,7 +21102,7 @@
     "category": "frames",
     "name": "Xilo Phreakstyle Arm 6",
     "manufacturer": "",
-    "description": "A XILO Phreakstyle 6\" arm. Use as a spare or replacement to the XILO Phreakstyle or Phreakstyle Slam.",
+    "description": "A XILO Phreakstyle 6\" arm. Use as a spare or replacement to the\u00a0XILO Phreakstyle\u00a0or\u00a0Phreakstyle Slam.",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/xilo-phreakstyle-arm-6.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/x/i/xilo-phreakstyle-arm---6-actual-size.jpg",
     "prop_size_max_in": 6.0,
@@ -19821,6 +21153,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -19878,7 +21214,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 104
     }
   },
   {
@@ -19886,7 +21226,7 @@
     "category": "frames",
     "name": "iFlight TITAN DC7 HD Freestyle 7\" Frame Kit ",
     "manufacturer": "iFlight",
-    "description": "The TITAN DC7 HD Frame is suitable for the new DJI Digital FPV System. This frame includes boomerang arms, which makes flying FPV truly breathtaking!",
+    "description": "The TITAN DC7 HD Frame is suitable for the new\u00a0DJI Digital FPV System. This frame includes\u00a0boomerang arms, which makes flying FPV truly breathtaking!",
     "link": "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-titan-dc7-hd-freestyle-7-frame-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/c/dc7-hd-frame-_4_-1000x1000.jpg",
     "prop_size_max_in": 7.0,
@@ -19936,7 +21276,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -19994,7 +21338,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -20053,6 +21401,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -20110,7 +21462,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -20168,7 +21524,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 105
     }
   },
   {
@@ -20226,7 +21586,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 45,
+    "schema_data": {
+      "weight_g": 102
     }
   },
   {
@@ -20284,7 +21648,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -20343,6 +21711,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 103
     }
   },
   {
@@ -20401,6 +21773,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -20459,6 +21835,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 96
     }
   },
   {
@@ -20516,7 +21896,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -20574,7 +21958,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 100
     }
   },
   {
@@ -20632,7 +22020,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 90
     }
   },
   {
@@ -20690,7 +22082,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 93
     }
   },
   {
@@ -20748,7 +22144,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 97
     }
   },
   {
@@ -20807,7 +22207,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 70,
+    "schema_data": {
+      "weight_g": 101
     }
   },
   {
@@ -20866,7 +22270,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 48,
+    "schema_data": {
+      "weight_g": 107
     }
   },
   {
@@ -20924,7 +22332,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 94
     }
   },
   {
@@ -20982,7 +22394,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 42,
+    "schema_data": {
+      "weight_g": 92
     }
   },
   {
@@ -21040,7 +22456,561 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 109
     }
+  },
+  {
+    "pid": "FRM-UA-\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e-KHARAK-7.2",
+    "category": "frames",
+    "name": "KHARAK 7.2",
+    "manufacturer": "\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e\u041d\u0422\u0410\u041a\u0422",
+    "country": "Ukraine",
+    "approx_price_usd": 29.76,
+    "approx_price_uah": 1220.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e-KHARAK-8.2",
+    "category": "frames",
+    "name": "KHARAK 8.2",
+    "manufacturer": "\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e\u041d\u0422\u0410\u041a\u0422",
+    "country": "Ukraine",
+    "approx_price_usd": 33.66,
+    "approx_price_uah": 1380.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-DRONE-FR-KARMA-10",
+    "category": "frames",
+    "name": "KARMA-10",
+    "manufacturer": "DRONE FRAMES",
+    "country": "Ukraine",
+    "approx_price_usd": 12.2,
+    "approx_price_uah": 500.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-DRONE-FR-KARMA-8",
+    "category": "frames",
+    "name": "KARMA-8",
+    "manufacturer": "DRONE FRAMES",
+    "country": "Ukraine",
+    "approx_price_usd": 10.98,
+    "approx_price_uah": 450.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-DRONE-FR-KARMA-7",
+    "category": "frames",
+    "name": "KARMA-7",
+    "manufacturer": "DRONE FRAMES",
+    "country": "Ukraine",
+    "approx_price_usd": 9.76,
+    "approx_price_uah": 400.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-7-\u0434\u044e\u0439\u043c\u0456\u0432",
+    "category": "frames",
+    "name": "7 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 21.1,
+    "approx_price_uah": 865.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-\u041e.\u0421.\u0410---7",
+    "category": "frames",
+    "name": "\u041e.\u0421.\u0410 - 7",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 30.49,
+    "approx_price_uah": 1250.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-10-\u0434\u044e\u0439\u043c\u0456\u0432",
+    "category": "frames",
+    "name": "10 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 47.56,
+    "approx_price_uah": 1950.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-10-\u0434\u044e\u0439\u043c\u0456\u0432-V2",
+    "category": "frames",
+    "name": "10 \u0434\u044e\u0439\u043c\u0456\u0432 V2",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 51.22,
+    "approx_price_uah": 2100.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-13-\u0434\u044e\u0439\u043c\u0456\u0432",
+    "category": "frames",
+    "name": "13 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 58.54,
+    "approx_price_uah": 2400.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FiberFor-13-15-\u0434\u044e\u0439\u043c\u0456\u0432",
+    "category": "frames",
+    "name": "13-15 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "manufacturer": "FiberForm",
+    "country": "Ukraine",
+    "approx_price_usd": 109.76,
+    "approx_price_uah": 4500.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-PROP-UA-10''",
+    "category": "frames",
+    "name": "10''",
+    "manufacturer": "PROP UA",
+    "country": "Ukraine",
+    "approx_price_usd": 12.2,
+    "approx_price_uah": 500.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-LEADER-T-LT10",
+    "category": "frames",
+    "name": "LT10",
+    "manufacturer": "LEADER Tech",
+    "country": "Ukraine",
+    "approx_price_usd": 56.07,
+    "approx_price_uah": 2299.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-\u041c\u0410\u0413\u0423\u0420\u0410-\u0410\u043c\u0430\u0433\u0430-7",
+    "category": "frames",
+    "name": "\u0410\u043c\u0430\u0433\u0430 7",
+    "manufacturer": "\u041c\u0410\u0413\u0423\u0420\u0410",
+    "country": "Ukraine",
+    "approx_price_usd": 22.44,
+    "approx_price_uah": 920.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-\u041c\u0410\u0413\u0423\u0420\u0410-\u0410\u043c\u0430\u0433\u0430-8",
+    "category": "frames",
+    "name": "\u0410\u043c\u0430\u0433\u0430 8",
+    "manufacturer": "\u041c\u0410\u0413\u0423\u0420\u0410",
+    "country": "Ukraine",
+    "approx_price_usd": 22.8,
+    "approx_price_uah": 935.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-UDC-Mark4-7",
+    "category": "frames",
+    "name": "Mark4 7",
+    "manufacturer": "UDC",
+    "country": "Ukraine",
+    "approx_price_usd": 14.63,
+    "approx_price_uah": 600.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "7_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-UDC-Mark4-10",
+    "category": "frames",
+    "name": "Mark4 10",
+    "manufacturer": "UDC",
+    "country": "Ukraine",
+    "approx_price_usd": 29.27,
+    "approx_price_uah": 1200.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "10_inch"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FT-13\u201d-Heavy-Li",
+    "category": "frames",
+    "name": "13\u201d Heavy Line F413",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 221.41,
+    "approx_price_uah": 9078.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FT-13\u201d-Heavy-Li",
+    "category": "frames",
+    "name": "13\u201d Heavy Line F613",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 167.71,
+    "approx_price_uah": 6876.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FT-15\u201d-Heavy-Li",
+    "category": "frames",
+    "name": "15\u201d Heavy Line F415",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 131.27,
+    "approx_price_uah": 5382.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FT-18\u201d-Heavy-Li",
+    "category": "frames",
+    "name": "18\u201d Heavy Line F418",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 154.98,
+    "approx_price_uah": 6354.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
+  },
+  {
+    "pid": "FRM-UA-FT-21\u201d-Heavy-Li",
+    "category": "frames",
+    "name": "21\u201d Heavy Line F421",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 168.29,
+    "approx_price_uah": 6900.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "frame",
+      "heavy_lift"
+    ]
   }
 ]

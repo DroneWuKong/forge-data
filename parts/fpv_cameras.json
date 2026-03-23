@@ -4,7 +4,7 @@
     "category": "fpv_cameras",
     "name": "WalleFPV Naked O4 Pro Air Unit",
     "manufacturer": "WalleFPV",
-    "description": "The WalleFPV Naked O4 Pro Air Unit is here to make your ultra-lightweight HD FPV drones even lighter.",
+    "description": "The\u00a0WalleFPV Naked O4 Pro Air Unit is here to make your ultra-lightweight HD FPV drones even lighter.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/wallefpv-naked-o4-pro-air-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/wallefpv_naked_o4_pro_air_unit-1.jpg",
     "size_class": "universal",
@@ -15,7 +15,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -36,7 +40,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24.99,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -55,7 +63,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -74,7 +86,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -95,7 +111,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -103,7 +123,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Mini Cat 4 - 1200TVL StarLight FPV Camera",
     "manufacturer": "Foxeer",
-    "description": "The Foxeer Mini Cat 4 1200TVL StarLight FPV Camera offers ultra-high resolution with its 1200 TVL Sony 1/3″ CMOS sensor and delivers exceptional clarity day or night.",
+    "description": "The Foxeer Mini Cat 4 1200TVL StarLight FPV Camera offers ultra-high resolution with its 1200 TVL Sony 1/3\u2033 CMOS sensor and delivers exceptional clarity day or night.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mini-cat-4-1200tvl-starlight-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23573-2a_1.jpg",
     "camera_size": "mini",
@@ -116,7 +136,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -136,7 +160,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -144,7 +172,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Phoenix 2 FPV Camera - Special Edition V2",
     "manufacturer": "RunCam",
-    "description": "The RunCam Phoenix 2 FPV Camera - Special Edition V2 features a Day & Night Freestyle FPV Camera with a fully covered back cover design that is dustproof and short-circuit proof.",
+    "description": "The RunCam Phoenix 2 FPV Camera - Special Edition V2\u00a0features a Day & Night Freestyle FPV Camera with a fully covered back cover design that is dustproof and short-circuit proof.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-fpv-camera-v2-special-edition.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-phoenix-2-fpv-camera---special-edition-v2.jpg",
     "size_class": "universal",
@@ -157,7 +185,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -176,7 +208,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -195,7 +231,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -216,7 +256,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -235,7 +279,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -254,7 +302,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -275,7 +327,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -296,7 +352,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -317,7 +377,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -338,7 +402,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -359,7 +427,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -367,7 +439,7 @@
     "category": "fpv_cameras",
     "name": "Walksnail Avatar HD Pro Camera",
     "manufacturer": "Walksnail",
-    "description": "This Walksnail Avatar HD Pro Camera features Gyroflow support and a 1/1.8 inch Sony Starvis Ⅱ sensor.",
+    "description": "This Walksnail Avatar HD Pro Camera features Gyroflow support and a 1/1.8 inch Sony Starvis \u2161 sensor.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-pro-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-camera.jpg",
     "video_system": "Walksnail",
@@ -380,7 +452,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 44.99,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -388,7 +464,7 @@
     "category": "fpv_cameras",
     "name": "RunCam HDZero Nano 90 HD Camera ",
     "manufacturer": "RunCam",
-    "description": "The RunCam HDZero Nano 90 HD Camera is the first 90fps camera for HDZero VTX. This camera enables HDZero to be 5ms faster than analog 60i video to show a full field/frame.",
+    "description": "The RunCam HDZero Nano 90 HD Camera\u00a0is the first 90fps camera for HDZero VTX. This camera enables HDZero to be 5ms faster than analog 60i video to show a full field/frame.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-hdzero-nano-90-hd-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam_hdzero_nano_90_hd_camera_4.jpg",
     "video_system": "HDZero",
@@ -401,7 +477,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -422,7 +502,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -443,7 +527,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -464,7 +552,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -485,7 +577,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -493,7 +589,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Ant Lite 1200TVL FPV Camera (FPVCycle Edition)",
     "manufacturer": "",
-    "description": "The Ant Lite (FPVCycle Edition) features a camera ratio of 4:3, NTSC and PAL (switchable), 1/3\" CMOS sensor, global WDR, among other specs that make this camera great for flying small builds!",
+    "description": "The Ant Lite (FPVCycle Edition) features a camera ratio of 4:3,\u00a0NTSC and PAL (switchable), 1/3\" CMOS sensor, global WDR, among other specs that make this camera great for flying small builds!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ant-lite-1200tvl-fpv-camera-fpvcycle-edition.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/a/n/antlite4_3_2000x.jpg",
     "size_class": "universal",
@@ -506,7 +602,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -527,7 +627,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -548,7 +652,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -569,7 +677,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -577,7 +689,7 @@
     "category": "fpv_cameras",
     "name": "EMAX Nanohawk Runcam Nano 3 FPV Camera ",
     "manufacturer": "EMAX",
-    "description": "A replacement or spare FPV camera for the EMAX Nanohawk 1S Micro Brushless FPV Drone.",
+    "description": "A replacement or spare FPV camera for the\u00a0EMAX Nanohawk 1S Micro Brushless FPV Drone.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/emax-nanohawk-runcam-nano-3-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/m/emax_nanohawk_runcam_nano_3_fpv_camera_.jpg",
     "camera_size": "nano",
@@ -590,7 +702,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -611,7 +727,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -632,7 +752,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -651,7 +775,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -659,7 +787,7 @@
     "category": "fpv_cameras",
     "name": "Runcam Phoenix 2 1000TVL 2.1mm FPV Camera - Joshua Bardwell Edition - Silver",
     "manufacturer": "RunCam",
-    "description": "The Runcam Phoenix 2 - Joshua Bardwell Edition is now available in Silver!",
+    "description": "The\u00a0Runcam Phoenix 2 - Joshua Bardwell Edition\u00a0is now available in\u00a0Silver!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-1000tvl-2-1mm-fpv-camera-joshua-bardwell-edition-silver.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-phoenix-2-1000tvl-2.1mm-fpv-camera---joshua-bardwell-edition---silver-jb.jpg",
     "size_class": "universal",
@@ -672,7 +800,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -692,7 +824,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -700,7 +836,7 @@
     "category": "fpv_cameras",
     "name": "BetaFPV C02 2.1mm 1200TVL FPV Micro Camera",
     "manufacturer": "BETAFPV",
-    "description": "The BETAFPV C02 Micro Camera is a lightweight camera that is made to fit weight-sensitive micro whoop drones. The C02 Micro Camera features an adapted 1/4'' CMOS sensor, a 2.1mm lens with 1200TVL resolution, and excellent latency while minimizing the weight to 1.4g.",
+    "description": "The\u00a0BETAFPV C02 Micro Camera\u00a0is a lightweight camera that is made to fit weight-sensitive micro whoop drones.\u00a0The C02 Micro Camera features an adapted 1/4'' CMOS sensor, a 2.1mm lens with 1200TVL resolution, and excellent latency while minimizing the weight to 1.4g.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/betafpv-c02-2-1mm-1200tvl-fpv-micro-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/betafpv-c02-2.1mm-1200tvl-fpv-micro-camera-main.jpg",
     "camera_size": "micro",
@@ -713,7 +849,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -734,7 +874,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -742,7 +886,7 @@
     "category": "fpv_cameras",
     "name": "HDZero Eco Camera",
     "manufacturer": "HDZero",
-    "description": "The HDZero ECO Camera is designed to bring digital FPV to more pilots by offering a low-cost, lightweight, and durable alternative to analog video.",
+    "description": "The\u00a0HDZero ECO Camera\u00a0is designed to bring digital FPV to more pilots by offering a low-cost, lightweight, and durable alternative to analog video.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-eco-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-eco-camera-_image-2_.jpg",
     "video_system": "HDZero",
@@ -755,7 +899,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -763,7 +911,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Thumb Pro 4K HD Action Camera (Wide FOV)",
     "manufacturer": "",
-    "description": "The RunCam Thumb Pro 4K (New Version) is an ultralight FPV camera that only weighs 16g and comes with a bigger FOV than the original. Suitable for 2\" and 2.5\" CineWhoops!",
+    "description": "The\u00a0RunCam Thumb Pro 4K (New Version) is an ultralight FPV camera that only weighs 16g and comes with a bigger FOV than the original. Suitable for 2\" and 2.5\" CineWhoops!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-thumb-pro-4k-hd-action-camera-wide-fov.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/_/1__19604.jpg",
     "size_class": "universal",
@@ -776,7 +924,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -797,7 +949,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -818,7 +974,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -839,7 +999,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -860,7 +1024,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -879,7 +1047,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -887,7 +1059,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Infra V2 FPV Camera",
     "manufacturer": "Caddx",
-    "description": "The Caddx Infra V2 FPV Camera delivers exceptional low-light performance with a black & white sensor.",
+    "description": "The Caddx Infra V2 FPV Camera\u00a0delivers exceptional low-light performance with a black & white sensor.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-infra-v2-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_infra_v2_fpv_camera8.jpg",
     "size_class": "universal",
@@ -898,7 +1070,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -917,7 +1093,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -938,7 +1118,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -957,7 +1141,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -978,7 +1166,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -997,7 +1189,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -1018,7 +1214,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -1039,7 +1239,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -1060,7 +1264,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -1068,7 +1276,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Racer Nano 4 FPV Camera",
     "manufacturer": "RunCam",
-    "description": "Experience exceptional FPV with the RunCam Racer Nano 4. Capture vivid visuals in 1200TVL resolution and a wide 125° field of view.",
+    "description": "Experience exceptional FPV with the RunCam Racer Nano 4. Capture vivid visuals in 1200TVL resolution and a wide 125\u00b0 field of view.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-nano-4-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-racer-nano-4-fpv-camera-_1_.jpg",
     "camera_size": "nano",
@@ -1081,7 +1289,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -1102,7 +1314,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -1123,7 +1339,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -1144,7 +1364,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 40,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -1165,7 +1389,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -1184,7 +1412,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1205,7 +1437,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -1224,7 +1460,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1245,7 +1485,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -1266,7 +1510,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -1287,7 +1535,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 46,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1308,7 +1560,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -1316,7 +1572,7 @@
     "category": "fpv_cameras",
     "name": "Walksnail Avatar HD Camera / VTX Kit",
     "manufacturer": "Walksnail",
-    "description": "The Walksnail Avatar HD Camera / VTX Kit features a digital camera and VTX that works with HD Goggles such as the Walksnail Avatar and Fat Shark HD Dominator.",
+    "description": "The Walksnail Avatar HD\u00a0Camera / VTX Kit features a digital camera and VTX that works with HD Goggles such as the Walksnail Avatar and Fat Shark HD Dominator.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/avatar-hd-camera-vtx-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/v/avatar-hd-camera-vtx-kit-main.jpg",
     "video_system": "Walksnail",
@@ -1329,7 +1585,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 41,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -1337,7 +1597,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nuts Combo - Nebula Pro Nano Vista Kit + Peanut Camera",
     "manufacturer": "Caddx",
-    "description": "The Caddx Nuts Combo combines the Nebula Pro Nano Vista Kit with the Caddx Peanut Camera for all of your HD action flying needs!",
+    "description": "The\u00a0Caddx Nuts Combo\u00a0combines the\u00a0Nebula Pro Nano Vista Kit\u00a0with the\u00a0Caddx Peanut Camera\u00a0for all of your HD action flying needs!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nuts-combo-nebula-pro-nano-vista-kit-peanut-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx-nuts-combo-main-photo.jpg",
     "camera_size": "nano",
@@ -1350,7 +1610,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -1358,7 +1622,7 @@
     "category": "fpv_cameras",
     "name": "DJI Digital HD FPV Air Unit Kit - Original Version",
     "manufacturer": "DJI",
-    "description": "The Original DJI Digital HD FPV Air Unit Kit is back - Limited Quantities Available! This is the original DJI Air Unit with 120fps HD camera.",
+    "description": "The Original DJI Digital HD FPV Air Unit Kit is back - Limited Quantities Available! This is\u00a0the original DJI Air Unit with 120fps HD camera.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/dji-digital-hd-fpv-air-unit-kit-original-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-digital-hd-fpv-air-unit-kit---original-version-dji-main.jpg",
     "size_class": "universal",
@@ -1369,7 +1633,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1377,7 +1645,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Split HD Camera Kit",
     "manufacturer": "RunCam",
-    "description": "The RunCam Split HD offers a switchable 16:9 / 4:3 video resolution with 2.7K+720P FPV HD Integrated Video. The GyroFlow data files allow for post-stage image stabilization.",
+    "description": "The\u00a0RunCam Split HD offers a switchable 16:9 / 4:3 video resolution with\u00a02.7K+720P FPV HD Integrated Video. The GyroFlow data files allow for post-stage image stabilization.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-split-hd-camera-kit-w-nd-16-filter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-split-hd-camera-kit-w-nd-16-filter-main.jpg",
     "size_class": "universal",
@@ -1388,7 +1656,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1396,7 +1668,7 @@
     "category": "fpv_cameras",
     "name": "Runcam Phoenix Hd Nano Fpv Camera W 12Cm Cable",
     "manufacturer": "",
-    "description": "The RunCam Phoenix HD Nano Camera provides a 1280x720 60fps resolution and uses a 1/2\" sensor with up to 10650 mv/lux-sec ultra-high sensitivity - making this camera excellent for night vision.",
+    "description": "The\u00a0RunCam Phoenix HD Nano\u00a0Camera provides a 1280x720 60fps resolution and uses a 1/2\" sensor with up to 10650 mv/lux-sec ultra-high sensitivity - making this camera excellent for night vision.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-hd-nano-fpv-camera-w-12cm-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/r/u/runcam_phoenix_hd_nanophoenix-hd-nano-low_res-width-1000px.jpg",
     "camera_size": "nano",
@@ -1409,7 +1681,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -1417,7 +1693,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Apollo Micro Digital FPV Camera - Standard",
     "manufacturer": "",
-    "description": "The Foxeer Apollo Micro FPV Camera works with the DJI Digital FPV Vista system. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
+    "description": "The\u00a0Foxeer Apollo Micro FPV Camera\u00a0works with the DJI Digital FPV Vista system. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-apollo-micro-digital-fpv-camera-standard.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/o/foxeer_apollo_apollo-main-low_res-width-1000px_2.jpg",
     "camera_size": "micro",
@@ -1430,7 +1706,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -1438,7 +1718,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Digisight V3 Micro Digital FPV Camera - Standard",
     "manufacturer": "",
-    "description": "The Foxeer DigiSight V3 Micro FPV Camera works with both the HDZero ad SharkByte Digital FPV systems. This is the standard version with 160° FOV. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
+    "description": "The\u00a0Foxeer DigiSight V3 Micro FPV Camera\u00a0works with both the HDZero ad SharkByte Digital FPV systems. This is the standard version with 160\u00b0 FOV. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-v3-micro-digital-fpv-camera-standard.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/o/foxeer_digisight_v3_digisight-v3-black-low_res-width-1000px_2.jpg",
     "camera_size": "micro",
@@ -1451,7 +1731,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -1459,7 +1743,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Digisight V3 Micro Digital FPV Camera - Starlight",
     "manufacturer": "",
-    "description": "The Foxeer DigiSight V3 Micro FPV Camera works with both the HDZero ad SharkByte Digital FPV systems. This is the starlight version with 170° FOV. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
+    "description": "The\u00a0Foxeer DigiSight V3 Micro FPV Camera\u00a0works with both the HDZero ad SharkByte Digital FPV systems. This is the starlight version with 170\u00b0 FOV. With its small size, low latency, and 1/2\" sensor, it is sure to give you optimal performance with your digital system!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-v3-micro-digital-fpv-camera-starlight.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/o/foxeer_digisight_v3_digisight-v3-black-low_res-width-1000px.jpg",
     "camera_size": "micro",
@@ -1472,7 +1756,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -1493,7 +1781,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -1514,7 +1806,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -1535,7 +1831,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -1556,7 +1856,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1577,7 +1881,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -1596,7 +1904,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -1604,7 +1916,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Pico Razer - 1200TVL 1/3\" 1.6mm FPV Camera",
     "manufacturer": "",
-    "description": "The Pico Razor 1200TVL is a day and night 12x12mm FPV camera by Foxeer. This camera features 1/3\" sensor for tiny whoops, FOV 160°, 1200TVL definition with advanced natural image, and comes in a 1.6mm lens.",
+    "description": "The Pico Razor 1200TVL is a day and night 12x12mm FPV camera by Foxeer. This camera features 1/3\" sensor for tiny whoops, FOV 160\u00b0, 1200TVL definition with advanced natural image, and comes in a 1.6mm lens.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-1-3-1-6mm-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/o/foxeer-pico-razer-1200tvl-12x12mm-fpv-camera.jpg",
     "sensor_size": "1/3\"",
@@ -1616,7 +1928,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -1637,7 +1953,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -1658,7 +1978,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -1679,7 +2003,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -1700,7 +2028,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -1721,7 +2053,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -1740,7 +2076,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -1761,7 +2101,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -1782,7 +2126,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1790,7 +2138,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Nano HDZero Camera",
     "manufacturer": "RunCam",
-    "description": "This HDZero Camera first is powered by Runcam is the newest HD Camera that supports the HDZero and Sharkbyte HD Systems. 14x16 mount fits most of the 14mm wide camera mounts.",
+    "description": "This\u00a0HDZero Camera first is powered by Runcam is the newest HD Camera that supports the HDZero and Sharkbyte HD Systems. 14x16 mount fits most of the 14mm wide camera mounts.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-nano-hdzero-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-nano-hdzero-camera-main.jpg",
     "video_system": "HDZero",
@@ -1803,7 +2151,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1811,7 +2163,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Pro Nano Vista Kit",
     "manufacturer": "Caddx",
-    "description": "The Caddx Nebula Pro Nano Vista Kit is another advanced video transmission module by Caddx and fully authorized by DJI that supports a 5.8GHz digital video signal and switchable 16:9/4:3 1080p to 720p image transmission.",
+    "description": "The\u00a0Caddx Nebula Pro Nano Vista Kit\u00a0is another advanced video transmission module by Caddx and fully authorized by DJI that supports a 5.8GHz digital video signal and switchable 16:9/4:3 1080p to 720p image transmission.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-nano-vista-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_8d5f554f-08ff-4fad-825d-8beb3487b716_1500x.jpeg",
     "camera_size": "nano",
@@ -1824,7 +2176,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -1832,7 +2188,7 @@
     "category": "fpv_cameras",
     "name": "EMAX TinyHawk III RunCam Nano 4 ",
     "manufacturer": "EMAX",
-    "description": "The RunCam Nano 4 is a 14x14 2.1mm lens camera with 800VTL. This camera is a replacement for the EMAX TinyHawk III.",
+    "description": "The\u00a0RunCam Nano 4\u00a0is a 14x14 2.1mm lens camera with 800VTL. This camera is a replacement for the EMAX TinyHawk III.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/emax-tinyhawk-iii-runcam-nano-4.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/m/emax_tinyhawk_iii_spare_partscamera-left-low_res-width-1000px.jpg",
     "camera_size": "nano",
@@ -1845,7 +2201,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -1864,7 +2224,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -1883,7 +2247,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1891,7 +2259,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Polar Nano Starlight Camera Vista Kit",
     "manufacturer": "",
-    "description": "The Caddx Polar Nano Starlight Camera Vista Kit is a low-light camera with a 1/1.8\" digital starlight sensor. This camera has low-latency HD image transmission video recorded through the DJI FPV Goggles.",
+    "description": "The\u00a0Caddx Polar Nano Starlight Camera Vista Kit\u00a0is a low-light camera with a 1/1.8\" digital starlight sensor. This camera has low-latency HD image transmission video recorded through the DJI FPV Goggles.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-nano-starlight-camera-vista-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/c/a/caddx-polar-nano-starlight-camera-vista-kit-main.jpg",
     "camera_size": "nano",
@@ -1904,7 +2272,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -1925,7 +2297,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -1946,7 +2322,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -1954,7 +2334,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Link Phoenix HD FPV Camera Kit",
     "manufacturer": "RunCam",
-    "description": "The new HD system from Runcam combines a digital HD transceiver, the Link Digital Air Unit, and the RunCam Phoenix HD Camera.",
+    "description": "The new HD system from Runcam combines a digital HD transceiver, the Link Digital Air Unit, and the\u00a0RunCam Phoenix HD Camera.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-link-phoenix-hd-fpv-camera-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam_link_phoenix_hd_fpv_vista_camera_kit_2.jpg",
     "size_class": "universal",
@@ -1967,7 +2347,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -1988,7 +2372,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -2009,7 +2397,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2030,7 +2422,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -2051,7 +2447,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -2072,7 +2472,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -2080,7 +2484,7 @@
     "category": "fpv_cameras",
     "name": "Foxeer Digisight 2 Nano - 720P Digital + 1000TVL Analog FPV Camera",
     "manufacturer": "Foxeer",
-    "description": "The Foxeer Digisight 2 Nano FPV Camera provides both HD and Analog transmission options. With its small size and low latency, it is sure to give you optimal performance whether you use digital or analog FPV systems! Works great with the Shark Byte System.",
+    "description": "The\u00a0Foxeer Digisight 2 Nano FPV Camera\u00a0provides both HD and Analog transmission options. With its small size and low latency, it is sure to give you optimal performance whether you use digital or analog FPV systems! Works great with the Shark Byte System.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-2-nano-720p-digital-1000tvl-analog-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-digisight-2-nano---720p-digital-1000tv-analog---fpv-camera-black-1000x1000.jpg",
     "video_system": "Analog",
@@ -2093,7 +2497,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -2114,7 +2522,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -2135,7 +2547,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -2156,7 +2572,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -2177,7 +2597,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2185,7 +2609,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Pro Digital FPV Camera",
     "manufacturer": "",
-    "description": "The Caddx Nebula Pro Digital FPV Camera features a 1/3\" CMOS sensor,4:3&16:9 (Switchable), 720/60fps resolution, and comes in two colors: white and black.",
+    "description": "The Caddx Nebula Pro\u00a0Digital FPV Camera features a 1/3\" CMOS sensor,4:3&16:9 (Switchable), 720/60fps resolution, and comes in two colors: white and black.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-digital-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/c/a/caddx-nebula-pro-hd-digital-fpv-camera-1.jpg",
     "size_class": "universal",
@@ -2198,7 +2622,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2219,7 +2647,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2240,7 +2672,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -2261,7 +2697,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2282,7 +2722,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -2290,7 +2734,7 @@
     "category": "fpv_cameras",
     "name": "RunCam Shark Byte Nano Digital FPV Camera w/ 8cm MPI Cable",
     "manufacturer": "RunCam",
-    "description": "Introducing... the new Shark Byte Nano Digital FPV Camera by Fat Shark!",
+    "description": "Introducing... the new\u00a0Shark Byte Nano Digital FPV Camera\u00a0by Fat Shark!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-shark-byte-nano-digital-fpv-camera-w-8cm-mpi-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-shark-byte-nano-hd-camera.jpg",
     "camera_size": "nano",
@@ -2303,7 +2747,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -2323,7 +2771,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -2331,7 +2783,7 @@
     "category": "fpv_cameras",
     "name": "Runcam Racer 1000TVL 1.8mm FPV Camera 1.8mm - MCK Edition",
     "manufacturer": "RunCam",
-    "description": "The Runcam Racer MCK Edition is MCK FPV  first customized camera in collaboration with Runcam that features MCK customized settings, 1000TVL, 1.8mm lens, NTSC / PAL, and 4:3 / Widescreen Switchable, super WDR CMOS Sensor, and many other cool features!",
+    "description": "The Runcam Racer MCK Edition is\u00a0MCK FPV\u00a0\u00a0first customized camera in collaboration with Runcam that features MCK customized settings, 1000TVL, 1.8mm lens,\u00a0NTSC / PAL, and\u00a04:3 / Widescreen Switchable, super WDR CMOS Sensor, and many other cool features!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-1000tvl-1-8mm-fpv-camera-1-8mm-mck-edition.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam_racer_mck_edition_2_.jpg",
     "size_class": "universal",
@@ -2344,7 +2796,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2366,6 +2822,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2387,6 +2847,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2407,7 +2871,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -2428,7 +2896,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -2449,7 +2921,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2457,7 +2933,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Nano Digital FPV Camera",
     "manufacturer": "Caddx",
-    "description": "The Caddx Nano Digital FPV Camera adapts to the Caddx Vista and the DJI Air Unit with the option of an 8cm/12 coaxial cable.",
+    "description": "The Caddx Nano Digital FPV Camera adapts to the\u00a0Caddx Vista\u00a0and the\u00a0DJI Air Unit\u00a0with the option of an 8cm/12 coaxial cable.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-digital-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx-nebula-nano-fpv-camera.jpg",
     "camera_size": "nano",
@@ -2470,7 +2946,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -2491,7 +2971,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -2499,7 +2983,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Nano - Silver (Camera Only)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10114.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_silver.jpg",
     "camera_size": "nano",
@@ -2512,7 +2996,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2520,7 +3008,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Nano - Silver (8cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-silver-8cm-coaxial-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_black_cable_3.jpg",
     "camera_size": "nano",
@@ -2533,7 +3021,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -2541,7 +3033,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro - Silver",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-silver-camera-only.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx-nebula-micro-digital-fpv-camera-1.jpg",
     "camera_size": "micro",
@@ -2554,7 +3046,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -2562,7 +3058,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Nano - Black (12cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10115.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_black_cable.jpg",
     "camera_size": "nano",
@@ -2575,7 +3071,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -2583,7 +3083,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro Kit - Black (12cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10334.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_digital_fpv_camera_kit_3_1_1.jpg",
     "camera_size": "micro",
@@ -2596,7 +3096,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -2604,7 +3108,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro Kit - Silver (12cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-silver-12cm-coaxial-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_digital_fpv_camera_kit_1_1_1.jpg",
     "camera_size": "micro",
@@ -2617,7 +3121,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -2625,7 +3133,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro Kit - Black (8cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-black-8cm-coaxial-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_digital_fpv_camera_kit_2_1_1.jpg",
     "camera_size": "micro",
@@ -2638,7 +3146,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -2646,7 +3158,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Nano - Black (Camera Only)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-black-camera-only.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_black.jpg",
     "camera_size": "nano",
@@ -2659,7 +3171,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -2667,7 +3183,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro Digital + Analog FPV Camera",
     "manufacturer": "",
-    "description": "The Caddx Nebula Micro size camera features a WDR 1000 TVL image quality, 1/3\" CMOS sensor,  NTSC/PAL(Switchable), 720/60fps resolution, full metal casing, Analog & Digital, 4ms low latency, and many other cool features!",
+    "description": "The Caddx Nebula Micro\u00a0size camera\u00a0features a WDR 1000 TVL image quality, 1/3\" CMOS sensor,\u00a0 NTSC/PAL(Switchable), 720/60fps resolution, full metal casing, Analog & Digital, 4ms low latency, and many other cool features!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-digital-fpv-camera-only.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/c/a/caddx-nebula-micro-digital-fpv-camera_1.jpg",
     "video_system": "Analog",
@@ -2680,7 +3196,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -2688,7 +3208,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Micro Kit - Silver (8cm Coaxial Cable)",
     "manufacturer": "Caddx",
-    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular Caddx Vista DJI VTX, along with the DJI Digital HD FPV Goggle!",
+    "description": "Get HD footage and more with the Caddx Vista Special Combo! Featuring two of the popular\u00a0Caddx Vista DJI VTX, along with the\u00a0DJI Digital HD FPV Goggle!",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-silver-8cm-coaxial-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx_nebula_nano_digital_fpv_camera_kit_4_1_1.jpg",
     "camera_size": "micro",
@@ -2701,7 +3221,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -2721,7 +3245,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -2742,7 +3270,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -2763,7 +3295,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -2784,7 +3320,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -2805,7 +3345,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -2826,7 +3370,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -2847,7 +3395,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2868,7 +3420,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -2889,7 +3445,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -2910,7 +3470,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -2931,7 +3495,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -2952,7 +3520,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -2973,7 +3545,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -2994,7 +3570,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3013,7 +3593,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": -1
     }
   },
   {
@@ -3034,7 +3618,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -3055,7 +3643,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -3076,7 +3668,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -3097,7 +3693,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -3118,7 +3718,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -3139,7 +3743,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -3160,7 +3768,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -3179,7 +3791,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3198,7 +3814,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3217,7 +3837,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -3236,7 +3860,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -3257,7 +3885,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3278,7 +3910,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3299,7 +3935,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -3320,7 +3960,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -3341,7 +3985,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -3362,7 +4010,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3383,7 +4035,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -3404,7 +4060,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3425,7 +4085,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -3446,7 +4110,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -3467,7 +4135,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -3488,7 +4160,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3509,7 +4185,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": -4
     }
   },
   {
@@ -3528,7 +4208,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3550,6 +4234,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -3570,7 +4258,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -3591,7 +4283,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -3611,7 +4307,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3631,7 +4331,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3651,7 +4355,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3672,7 +4380,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -3680,7 +4392,7 @@
     "category": "fpv_cameras",
     "name": "Walksnail Avatar HD Nano Kit V3",
     "manufacturer": "Walksnail",
-    "description": "The Walksnail Avatar HD Nano Kit V3 features 32GB of built-in storage, and supports 1080P/60fps, with a 4:3 native sensor that provides smooth and stunning images.",
+    "description": "The\u00a0Walksnail Avatar HD Nano Kit V3\u00a0features 32GB of built-in storage, and supports 1080P/60fps, with a 4:3 native sensor that provides smooth and stunning images.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-nano-kit-v3.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-nano-kit-v3.jpg",
     "video_system": "Walksnail",
@@ -3693,7 +4405,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -3714,7 +4430,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -3735,7 +4455,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": -2
     }
   },
   {
@@ -3756,7 +4480,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -3775,7 +4503,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -3783,7 +4515,7 @@
     "category": "fpv_cameras",
     "name": "Caddx Nebula Pro Nano Digital FPV Camera",
     "manufacturer": "Caddx",
-    "description": "The Caddx Nebula Pro Nano Camera supports a 5.8GHz digital video signal and a switchable 16:9/4:3 1080p to 720p image transmission.",
+    "description": "The Caddx Nebula Pro Nano Camera\u00a0supports a 5.8GHz digital video signal and a switchable 16:9/4:3 1080p to 720p image transmission.",
     "link": "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-nano-digital-fpv-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/_/4_a2d95a28-e23c-4667-9d6d-c9df28a7a1e7_1500x.jpeg",
     "camera_size": "nano",
@@ -3796,7 +4528,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -3817,7 +4553,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -3838,7 +4578,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -3859,7 +4603,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3880,7 +4628,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -3901,7 +4653,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": -3
     }
   },
   {
@@ -3922,7 +4678,83 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": -3
     }
+  },
+  {
+    "pid": "CAM-UA-KaraFPV-SPY-1200TVL",
+    "category": "fpv_cameras",
+    "name": "SPY 1200TVL",
+    "manufacturer": "KaraFPV",
+    "country": "Ukraine",
+    "approx_price_usd": 26.95,
+    "approx_price_uah": 1105.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "fpv",
+      "ukraine"
+    ]
+  },
+  {
+    "pid": "CAM-UA-SkyPulse-PRO-Camera",
+    "category": "fpv_cameras",
+    "name": "PRO Camera",
+    "manufacturer": "SkyPulse",
+    "country": "Ukraine",
+    "approx_price_usd": 28.61,
+    "approx_price_uah": 1173.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "fpv",
+      "ukraine"
+    ]
+  },
+  {
+    "pid": "CAM-UA-SkyPulse-HDR-Camera",
+    "category": "fpv_cameras",
+    "name": "HDR Camera",
+    "manufacturer": "SkyPulse",
+    "country": "Ukraine",
+    "approx_price_usd": 18.02,
+    "approx_price_uah": 739.0,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "fpv",
+      "ukraine"
+    ]
   }
 ]
