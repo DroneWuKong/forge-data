@@ -4,7 +4,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 4000mAh 6S 18650 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-6s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s1p-18650-front-rev1.jpg",
     "capacity_mah": 4000,
@@ -40,6 +40,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 59.99,
+    "schema_data": {
+      "weight_g": 420
     }
   },
   {
@@ -47,7 +51,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 4000mAh 4S 18650 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-4s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s1p-18650-front-rev1.jpg",
     "capacity_mah": 4000,
@@ -83,6 +87,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 52,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -90,7 +98,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 8000mAh 6S 18650 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-6s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s2p-18650-front-rev1.jpg",
     "capacity_mah": 8000,
@@ -126,6 +134,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 52,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -133,7 +145,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 6000mAh 4S 21700 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-4s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s1p-21700-front-rev1.jpg",
     "capacity_mah": 6000,
@@ -169,6 +181,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 72,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -176,7 +192,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 12000mAh 6S 21700 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-6s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s2p-21700-front-rev1.jpg",
     "capacity_mah": 12000,
@@ -212,6 +228,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -219,7 +239,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 8000mAh 4S 18650 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-4s-18650-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s2p-18650-front-rev1.jpg",
     "capacity_mah": 8000,
@@ -255,6 +275,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -262,7 +286,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 12000mAh 4S 21700 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-4s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/4/s/4s2p-21700-front-rev1.jpg",
     "capacity_mah": 12000,
@@ -298,6 +322,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 70,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -305,7 +333,7 @@
     "category": "batteries",
     "name": "Lumenier NAV 6000mAh 6S 21700 Amprius Lithium-Ion Battery - XT60",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
+    "description": "The\u00a0Lumenier NAV Amprius Lithium-Ion Battery series was specially designed for long-range pilots seeking unparalleled performance. Lithium-ion batteries offer a remarkable advantage with their consistent discharge rate, providing longer flight times than Lithium Polymer alternatives.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-21700-amprius-lithium-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/s/6s1p-21700-front-rev1.jpg",
     "capacity_mah": 6000,
@@ -341,6 +369,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 79.99,
+    "schema_data": {
+      "weight_g": 580
     }
   },
   {
@@ -384,7 +416,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 175
     }
   },
   {
@@ -428,7 +464,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27.99,
+    "schema_data": {
+      "weight_g": 185
     }
   },
   {
@@ -472,7 +512,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -480,7 +524,7 @@
     "category": "batteries",
     "name": "DOGCOM 22.2V 1480mAh 6S 150C Ultra Series LiPo Battery - XT60",
     "manufacturer": "DOGCOM",
-    "description": "The DOGCOM 22.2V 1480mAh 6S 150C Ultra Series LiPo Battery is part of a new ultra light-weight LiPo Series designed for FPV Racing.",
+    "description": "The DOGCOM 22.2V 1480mAh 6S 150C Ultra Series LiPo Battery\u00a0is part of a new ultra light-weight LiPo Series designed for FPV Racing.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-ultra-series-1480mah-6s-22-2v-150c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/2/g23853-1.jpg",
     "capacity_mah": 1480,
@@ -516,7 +560,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -524,7 +572,7 @@
     "category": "batteries",
     "name": "RadioMaster TX16S 5000Mah 2S Li-ion Battery ",
     "manufacturer": "RadioMaster",
-    "description": "The RadioMaster 5000mAh 2S Li-ion pack is the perfect battery for your TX16S.",
+    "description": "The RadioMaster 5000mAh 2S Li-ion pack is the perfect battery for your\u00a0TX16S.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/radiomaster-tx16s-5000mah-2s-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/a/radiomaster-tx16s-5000mah-2s-li-ion-battery.jpg",
     "capacity_mah": 5000,
@@ -559,7 +607,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -604,6 +656,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 74,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -611,7 +667,7 @@
     "category": "batteries",
     "name": "CNHL Black Series 100C 4S LiPo Battery - 2000mAh",
     "manufacturer": "CNHL",
-    "description": "With a phenomenal discharge rate at 100C, this 2000mAh 4S Black Series Battery by CNHL will maintain high power and stability for the most extreme builds!",
+    "description": "With a phenomenal discharge rate at 100C, this\u00a02000mAh 4S Black Series Battery\u00a0by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-2000mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-2000mah-4s-update-low_res-width-1000px.jpg",
     "capacity_mah": 2000,
@@ -647,7 +703,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -692,6 +752,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -735,7 +799,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -779,6 +847,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -822,6 +894,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 54,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -866,6 +942,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -909,6 +989,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 69.99,
+    "schema_data": {
+      "weight_g": 540
     }
   },
   {
@@ -952,6 +1036,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 52,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -995,6 +1083,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 74,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -1038,6 +1130,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -1081,7 +1177,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -1125,7 +1225,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -1168,7 +1272,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -1213,6 +1321,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -1257,6 +1369,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -1301,6 +1417,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 69.99,
+    "schema_data": {
+      "weight_g": 650
     }
   },
   {
@@ -1345,6 +1465,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -1387,7 +1511,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -1432,6 +1560,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -1476,6 +1608,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -1493,7 +1629,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -1537,7 +1677,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -1545,7 +1689,7 @@
     "category": "batteries",
     "name": "CNHL Black Series 100C 4S LiPo Battery - 1100mAh",
     "manufacturer": "CNHL",
-    "description": "With a phenomenal discharge rate of 100C, this 1100mAh Black Series Battery by CNHL will maintain high power and stability for the most extreme builds!",
+    "description": "With a phenomenal discharge rate of 100C, this\u00a01100mAh Black Series Battery\u00a0by CNHL will maintain high power and stability for the most extreme builds!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-1100mah.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/n/cnhl-black-series-100c-4s-lipo-battery---1100mah-front.jpg",
     "capacity_mah": 1100,
@@ -1581,7 +1725,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -1589,7 +1737,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 4.0 1550mAh 4S 130C LiPo Battery - XT60",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 4.0 1550mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
+    "description": "The\u00a0Tattu R-Line Version 4.0 1550mAh 14.8V 130C 4S1P LiPo\u00a0battery pack is the updated version of\u00a0R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1550mah-4s-130c-lipo-battery---xt60-main.jpg",
     "capacity_mah": 1550,
@@ -1625,7 +1773,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -1633,7 +1785,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 4.0 1300mAh 4S 130C LiPo Battery - XT60",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 4.0 1300mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
+    "description": "The\u00a0Tattu R-Line Version 4.0 1300mAh 14.8V 130C 4S1P LiPo\u00a0battery pack is the updated version of\u00a0R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1300mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1300mah-4s-130c-lipo-battery---xt60-main.jpg",
     "capacity_mah": 1300,
@@ -1669,7 +1821,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -1713,7 +1869,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -1758,6 +1918,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -1802,6 +1966,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -1846,6 +2014,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -1890,6 +2062,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -1934,6 +2110,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -1978,6 +2158,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -2022,6 +2206,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -2066,6 +2254,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -2109,7 +2301,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -2154,6 +2350,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -2198,6 +2398,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -2240,7 +2444,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 74,
+    "schema_data": {
+      "weight_g": 202
     }
   },
   {
@@ -2283,7 +2491,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -2291,7 +2503,7 @@
     "category": "batteries",
     "name": "Flywoo Explorer Lionpack 18650 4S 3000mAh 14.8V Li-ion Battery",
     "manufacturer": "Flywoo",
-    "description": "The Explorer Flywoo Lionpack 3000mAh is the highest quality battery customized for Explorer LR.",
+    "description": "The\u00a0Explorer Flywoo Lionpack 3000mAh is the highest quality battery customized for\u00a0Explorer LR.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-lionpack-18650-4s-3000mah-14-8v-li-ion-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-14.8v-4s-18650-3000mah-10c-li-ion-battery-for-explorer-lr---xt30.jpg",
     "capacity_mah": 3000,
@@ -2326,7 +2538,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -2369,7 +2585,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -2412,7 +2632,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 53,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -2456,7 +2680,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -2500,7 +2728,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -2544,7 +2776,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -2587,7 +2823,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -2632,6 +2872,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -2676,6 +2920,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -2720,6 +2968,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -2763,7 +3015,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -2807,7 +3063,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -2851,6 +3111,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -2894,6 +3158,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -2938,6 +3206,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -2982,6 +3254,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -3026,6 +3302,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -3069,6 +3349,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -3112,6 +3396,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -3155,7 +3443,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -3200,6 +3492,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -3243,7 +3539,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -3288,6 +3588,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -3332,6 +3636,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -3375,6 +3683,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -3418,6 +3730,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 202
     }
   },
   {
@@ -3461,7 +3777,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -3506,6 +3826,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -3550,6 +3874,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -3594,6 +3922,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 202
     }
   },
   {
@@ -3638,6 +3970,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -3682,6 +4018,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -3726,6 +4066,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -3770,6 +4114,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -3814,6 +4162,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -3858,6 +4210,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -3865,7 +4221,7 @@
     "category": "batteries",
     "name": "Tattu R Line 22 2V 2200Mah 6S 95C Lipo Battery Xt60",
     "manufacturer": "",
-    "description": "The Tattu R-Line 2200mAh 95C 6S1P battery pack is a high-quality, reliable battery. Suitable for 7” lightweight cine-lifters and 7\" long-range FPV.",
+    "description": "The Tattu R-Line 2200mAh 95C 6S1P battery pack is a high-quality, reliable battery. Suitable for 7\u201d lightweight cine-lifters and 7\" long-range FPV.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-22-2v-2200mah-6s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/t/a/tattu_r-line_22.2v_2200mah_6s_95c_lipo_battery_for_7_quad_-_xt60_3_.jpg",
     "capacity_mah": 2200,
@@ -3901,7 +4257,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -3946,6 +4306,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -3989,7 +4353,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -4034,6 +4402,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -4077,7 +4449,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -4122,6 +4498,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -4165,7 +4545,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -4208,7 +4592,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 53,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -4252,7 +4640,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -4296,7 +4688,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -4341,6 +4737,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -4384,7 +4784,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -4429,6 +4833,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -4473,6 +4881,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -4480,7 +4892,7 @@
     "category": "batteries",
     "name": "Auline 18650 2600mAh 4S1P 14.8V Li-ion Battery w/ Built-In Protective Board for DJI Goggles",
     "manufacturer": "Auline",
-    "description": "The Auline 18650 2600mAh 4S1P 14.8V Li-ion Battery by Auline comes with a built-in protective board for the DJI Digital HD FPV Goggles.",
+    "description": "The\u00a0Auline 18650 2600mAh 4S1P 14.8V Li-ion Battery\u00a0by Auline comes with a built-in protective board for the\u00a0DJI Digital HD FPV Goggles.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-18650-2600mah-4s1p-14-8v-li-ion-battery-w-built-in-protective-board-for-dji-goggles.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/6/2600.jpg",
     "capacity_mah": 2600,
@@ -4515,7 +4927,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -4523,7 +4939,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 4.0 850mAh 4S 130C LiPo Battery - XT60",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 4.0 850mAh 14.8V 130C 4S1P LiPo battery pack is the updated version of R-Line series.",
+    "description": "The\u00a0Tattu R-Line Version 4.0 850mAh 14.8V 130C 4S1P LiPo\u00a0battery pack is the updated version of\u00a0R-Line series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-850mah-4s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-850mah-4s-130c-lipo-battery---xt60-main.jpg",
     "capacity_mah": 850,
@@ -4559,7 +4975,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -4602,7 +5022,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 54,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -4646,7 +5070,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -4654,7 +5082,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 4.0 1550mAh 6S 130C LiPo Battery - XT60",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 4.0 1550mAh 22.2V 130C 6S1P LiPo battery pack is the updated version of R-Line series in 2021. With More Punch, Lower Internal Resistance and Less weight, Tattu R-line V4 definitely dominate all your races.",
+    "description": "The\u00a0Tattu R-Line Version 4.0 1550mAh 22.2V 130C 6S1P LiPo\u00a0battery pack is the updated version of\u00a0R-Line series in 2021. With More Punch, Lower Internal Resistance and Less weight, Tattu R-line\u00a0V4 definitely dominate all your races.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-6s-130c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-4.0-1550mah-6s-130c-lipo-battery---xt60-main.jpg",
     "capacity_mah": 1550,
@@ -4690,7 +5118,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -4734,7 +5166,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -4778,7 +5214,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -4821,7 +5261,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 59,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -4864,7 +5308,11 @@
       "blue_uas": false,
       "ndaa_compliant": true,
       "combat_proven": false,
-      "note": "Taiwan manufacture — allied nation, NDAA compliant"
+      "note": "Taiwan manufacture \u2014 allied nation, NDAA compliant"
+    },
+    "approx_price": 57,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -4872,7 +5320,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 1.0 1050mAh 4S 95C LiPo Battery - XT60",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 1.0 1050mAh 14.8V 95C 4S1P LiPo battery pack comes in a very lightweight and compact size.",
+    "description": "The\u00a0Tattu R-Line Version 1.0 1050mAh 14.8V 95C 4S1P LiPo\u00a0battery pack\u00a0comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-1050mah-4s-95c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-1050mah-4s-95c-lipo-battery---xt60-1.jpg",
     "capacity_mah": 1050,
@@ -4908,7 +5356,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -4952,7 +5404,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -4997,6 +5453,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -5041,6 +5501,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -5085,6 +5549,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -5129,6 +5597,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -5172,7 +5644,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -5217,6 +5693,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -5260,7 +5740,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -5304,7 +5788,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -5349,6 +5837,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -5391,7 +5883,11 @@
       "blue_uas": false,
       "ndaa_compliant": true,
       "combat_proven": false,
-      "note": "Taiwan manufacture — allied nation, NDAA compliant"
+      "note": "Taiwan manufacture \u2014 allied nation, NDAA compliant"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -5436,6 +5932,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -5480,6 +5980,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -5487,7 +5991,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 1.0 550mAh 6S 95C LiPo Battery - XT30",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 1.0 550mAh 22.2V 95C 6S1P LiPo battery pack comes in a very lightweight and compact size.",
+    "description": "The\u00a0Tattu R-Line Version 1.0 550mAh 22.2V 95C 6S1P LiPo\u00a0battery pack\u00a0comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-6s-95c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-550mah-6s-95c-lipo-battery---xt30-main.jpg",
     "capacity_mah": 550,
@@ -5523,7 +6027,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -5568,6 +6076,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -5612,6 +6124,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -5656,6 +6172,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -5699,7 +6219,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -5744,6 +6268,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -5751,7 +6279,7 @@
     "category": "batteries",
     "name": "DOGCOM 1380mAh 6S 22.2V 150C LiPo Battery - XT60",
     "manufacturer": "DOGCOM",
-    "description": "The DOGCOM 1380mAh 6S 22.2V 150C LiPo Battery - XT60 is the top-selling version of the FPV Lipo battery series.",
+    "description": "The DOGCOM 1380mAh 6S 22.2V 150C LiPo Battery - XT60\u00a0is the top-selling version of the FPV Lipo battery series.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-1380mah-6s-22-2v-150c-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23857-1.jpg",
     "capacity_mah": 1380,
@@ -5787,7 +6315,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -5831,7 +6363,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -5875,7 +6411,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -5919,7 +6459,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -5927,7 +6471,7 @@
     "category": "batteries",
     "name": "Auline Sr 1350Mah 120C 4S Super Rate Fpv Lipo Battery Xt60",
     "manufacturer": "",
-    "description": "The Auline SR Super Rate 1350mAh 120C 4S FPV Lipo Battery promises a blend of efficiency, power, and reliability. Specially tailored for 5\" quads, this battery from the SR series ensures longer flight times and consistent power output, making your flying experience unparalleled.",
+    "description": "The Auline SR Super Rate 1350mAh 120C 4S FPV Lipo Battery\u00a0promises a blend of efficiency, power, and reliability. Specially tailored for 5\" quads, this battery from the SR series ensures longer flight times and consistent power output, making your flying experience unparalleled.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sr-1350mah-120c-4s-super-rate-fpv-lipo-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/u/auline-sr-super-rate-1350mah-120c-4s-fpv-lipo-battery_3_.jpg",
     "capacity_mah": 1350,
@@ -5963,7 +6507,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 202
     }
   },
   {
@@ -5971,7 +6519,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 5600mAh 6S 22.2V 30C Li-ion Battery - XT60",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 6S battery is the perfect solution for your 6”+ cinema quad!",
+    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 6S battery is the perfect solution for your 6\u201d+ cinema quad!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-6s-22-2v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-5600mah-6s-22.2v-30c-li-ion-battery---xt60_1.jpg",
     "capacity_mah": 5600,
@@ -6007,7 +6555,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -6015,7 +6567,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 2800mAh 4S 14.8V 30C Li-ion Battery - XT60",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
+    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5\u201d+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-4s-22.2v-30c-li-ion-battery---xt60.jpg",
     "capacity_mah": 2800,
@@ -6051,7 +6603,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -6059,7 +6615,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 5600mAh 4S 14.8V 30C Li-ion Battery - XT60",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 4S battery is the perfect solution for your 5”+ cinema quad!",
+    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 5600mAh 4S battery is the perfect solution for your 5\u201d+ cinema quad!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-4s-14-8v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-5600mah-4s-14.8v-30c-li-ion-battery---xt60.jpg",
     "capacity_mah": 5600,
@@ -6095,7 +6651,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 57,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -6103,7 +6663,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 2800mAh 6S 22.2V 30C Li-ion Battery - XT60",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
+    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5\u201d+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-6s-22-2v-30c-li-ion-battery-xt60.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-6s-22.2v-30c-li-ion-battery.jpg",
     "capacity_mah": 2800,
@@ -6139,7 +6699,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 58,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -6147,7 +6711,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 2800mAh 22.2V 30C 6S Li-ion Battery - XT30",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
+    "description": "Upgrade Energy\u00a0batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 6S battery is the perfect solution for your long-range 3.5\u201d+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-22-2v-30c-6s-li-ion-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-6s-22.2v-30c-li-ion-battery_1.jpg",
     "capacity_mah": 2800,
@@ -6183,7 +6747,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 202
     }
   },
   {
@@ -6191,7 +6759,7 @@
     "category": "batteries",
     "name": "Upgrade Energy Dark Lithium Red 2800mAh 4S 14.8V 30C Li-ion Battery - XT30",
     "manufacturer": "Upgrade Energy",
-    "description": "Upgrade Energy batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5”+ quad or 500mm+ wing!",
+    "description": "Upgrade Energy\u00a0batteries are USA manufactured with the very best Li-ion cells. This 2800mAh 4S battery is the perfect solution for your long-range 3.5\u201d+ quad or 500mm+ wing!",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/p/upgrade-energy-dark-lithium-red-2800mah-4s-22.2v-30c-li-ion-battery---xt30.jpg",
     "capacity_mah": 2800,
@@ -6227,7 +6795,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -6270,7 +6842,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -6314,7 +6890,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -6322,7 +6902,7 @@
     "category": "batteries",
     "name": "Tattu R-Line 750mAh4s1P 95C LiPo Battery V1.0 - XT30",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line 750mAh 4s1P 95C LiPo Battery with XT30 plug has full capacity and discharge rate. Works perfectly with your powerful FPV 3inch and also 4inch copters.",
+    "description": "The Tattu R-Line 750mAh 4s1P 95C LiPo Battery\u00a0with XT30 plug has full capacity and discharge rate. Works perfectly with your powerful FPV 3inch and also 4inch copters.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-750mah4s1p-95c-lipo-battery-v1-0-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/untitled_design_79_.png",
     "capacity_mah": 750,
@@ -6358,7 +6938,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -6391,7 +6975,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -6399,7 +6987,7 @@
     "category": "batteries",
     "name": "HGLRC KRATOS 4S 450mAh 75C Lipo Battery - XT30",
     "manufacturer": "HGLRC",
-    "description": "Highly efficient and extremely powerful, the KRATOS 4S 450mAh 75C Lipo Battery by HGLRC features 3.7 voltage, an XT30 discharge plug, and a 75C discharge rate.",
+    "description": "Highly efficient and extremely powerful, the\u00a0KRATOS 4S 450mAh 75C Lipo Battery\u00a0by HGLRC features 3.7 voltage, an XT30 discharge plug, and a 75C discharge rate.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/hglrc-kratos-4s-450mah-75c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-kratos-4s-450mah-75c-lipo-battery---xt30--main-2.jpg",
     "capacity_mah": 450,
@@ -6435,7 +7023,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -6480,6 +7072,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 200
     }
   },
   {
@@ -6487,7 +7083,7 @@
     "category": "batteries",
     "name": "Auline EX 1350mAh 4S 120C Lipo Battery",
     "manufacturer": "",
-    "description": "The EX line of batteries by Auline are powerful Lipo batteries that are best suited for racing or freestyle 5\" quadcopters! This 4S battery is equipped with a 1350mAh capacity,  14.8V,  and comes with an XT-60 connector.",
+    "description": "The EX line of batteries by Auline are powerful Lipo batteries that are best suited for racing or freestyle 5\" quadcopters! This 4S battery is equipped with a 1350mAh capacity,\u00a0 14.8V,\u00a0 and comes with an\u00a0XT-60 connector.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/auline-ex-1350mah-4s-120c-lipo-battery.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/f/1/f11103f5d372a366274064541b9c1048.jpg",
     "capacity_mah": 1350,
@@ -6523,7 +7119,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -6567,7 +7167,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -6611,7 +7215,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -6654,7 +7262,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -6697,7 +7309,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -6740,7 +7356,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -6784,7 +7404,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -6828,7 +7452,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -6872,7 +7500,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -6916,7 +7548,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -6959,7 +7595,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -7002,7 +7642,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 58,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -7047,6 +7691,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -7091,6 +7739,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -7134,7 +7786,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 207
     }
   },
   {
@@ -7179,6 +7835,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -7223,6 +7883,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -7266,7 +7930,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 196
     }
   },
   {
@@ -7311,6 +7979,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -7354,7 +8026,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -7399,6 +8075,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -7443,6 +8123,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -7464,6 +8148,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -7485,6 +8173,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -7506,6 +8198,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -7527,6 +8223,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -7571,6 +8271,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -7614,7 +8318,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -7659,6 +8367,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -7702,6 +8414,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -7745,7 +8461,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -7789,7 +8509,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -7834,6 +8558,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -7878,6 +8606,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -7921,7 +8653,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -7965,7 +8701,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -8010,6 +8750,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -8054,6 +8798,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -8061,7 +8809,7 @@
     "category": "batteries",
     "name": "Tattu R-Line Version 1.0 550mAh 4S 95C LiPo Battery - XT30",
     "manufacturer": "Tattu",
-    "description": "The Tattu R-Line Version 1.0 550mAh 14.8V 95C 4S1P LiPo battery pack comes in a very lightweight and compact size.",
+    "description": "The\u00a0Tattu R-Line Version 1.0 550mAh 14.8V 95C 4S1P LiPo\u00a0battery pack\u00a0comes in a very lightweight and compact size.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-4s-95c-lipo-battery-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-r-line-version-1.0-550mah-4s-95c-lipo-battery---xt30-1.jpg",
     "capacity_mah": 550,
@@ -8097,7 +8845,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -8105,7 +8857,7 @@
     "category": "batteries",
     "name": "Tattu 450mAh 4S 75C LiPo Battery - Long Size XT30",
     "manufacturer": "Tattu",
-    "description": "The Tattu 450mAh 14.8V 45C 4S1P Lipo Battery Pack with XT30 plug is the best battery choice for micro H-Frame quads.",
+    "description": "The\u00a0Tattu 450mAh 14.8V 45C 4S1P Lipo Battery Pack\u00a0with XT30 plug is the best battery choice for micro H-Frame quads.",
     "link": "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-450mah-4s-75c-lipo-battery-long-size-xt30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/a/tattu-450mah-4s-75c-lipo-battery---long-size-xt30-main.jpg",
     "capacity_mah": 450,
@@ -8141,7 +8893,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 201
     }
   },
   {
@@ -8184,7 +8940,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 59,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -8229,6 +8989,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 191
     }
   },
   {
@@ -8273,6 +9037,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -8317,6 +9085,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8360,7 +9132,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -8405,6 +9181,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -8449,6 +9229,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 198
     }
   },
   {
@@ -8492,7 +9276,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 36,
+    "schema_data": {
+      "weight_g": 203
     }
   },
   {
@@ -8536,7 +9324,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -8580,7 +9372,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 190
     }
   },
   {
@@ -8625,6 +9421,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 192
     }
   },
   {
@@ -8669,6 +9469,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 209
     }
   },
   {
@@ -8713,6 +9517,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -8755,7 +9563,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8795,6 +9607,10 @@
       "ndaa_compliant": true,
       "combat_proven": true,
       "note": "Taiwan. Allied nation. ~$8-10/cell. Combat-proven (Ukraine FPV)"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8833,6 +9649,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Taiwan. Allied nation. ~$10-13/cell. Used in KULR K1A."
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8868,6 +9688,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Taiwan. Allied nation. ~$9-11/cell."
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8904,6 +9728,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "South Korea. Allied nation. ~$5-8/cell."
+    },
+    "approx_price": 52,
+    "schema_data": {
+      "weight_g": 199
     }
   },
   {
@@ -8940,6 +9768,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "South Korea. Allied nation. ~$5-7/cell."
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 206
     }
   },
   {
@@ -8976,6 +9808,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "South Korea. Allied nation. ~$5-8/cell. 1,000 cycle life."
+    },
+    "approx_price": 58,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -9013,7 +9849,11 @@
       "blue_uas": false,
       "ndaa_compliant": true,
       "combat_proven": false,
-      "note": "NYSE: AMPX. DIU contracts. 450 Wh/kg — highest commercially available."
+      "note": "NYSE: AMPX. DIU contracts. 450 Wh/kg \u2014 highest commercially available."
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 197
     }
   },
   {
@@ -9050,6 +9890,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "In development. 500 Wh/kg target."
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 204
     }
   },
   {
@@ -9088,6 +9932,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "NASA-grade thermal. Texas manufacturing."
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 208
     }
   },
   {
@@ -9124,6 +9972,10 @@
       "ndaa_compliant": true,
       "combat_proven": true,
       "note": "85% of US missile batteries. First Li-Ion UAV battery (Global Hawk)."
+    },
+    "approx_price": 56,
+    "schema_data": {
+      "weight_g": 194
     }
   },
   {
@@ -9160,6 +10012,10 @@
       "ndaa_compliant": true,
       "combat_proven": true,
       "note": "Israeli military battery specialist. Bullet-penetration tested."
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 193
     }
   },
   {
@@ -9196,6 +10052,10 @@
       "ndaa_compliant": true,
       "combat_proven": true,
       "note": "Ukrainian sovereign battery. ~400 Wh/kg. 100+ km FPV range."
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 205
     }
   },
   {
@@ -9233,6 +10093,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Li-S with 3D graphene. Pre-production. Acquiring Northvolt assets."
+    },
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 195
     }
   },
   {
@@ -9270,6 +10134,10 @@
       "ndaa_compliant": false,
       "combat_proven": false,
       "note": "Chinese manufacture. NOT NDAA. Subject to ban effective Jan 2028."
+    },
+    "approx_price": 59,
+    "schema_data": {
+      "weight_g": 198
     }
   }
 ]

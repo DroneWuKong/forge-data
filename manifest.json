@@ -1,7 +1,11 @@
 {
-  "api_version": "1.0",
+  "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-03-20",
+  "last_updated": "2026-03-23",
+  "platforms": {
+    "file": "platforms/platforms.json",
+    "count": 184
+  },
   "parts": {
     "antennas": {
       "file": "parts/antennas.json",
@@ -17,15 +21,19 @@
     },
     "companion_computers": {
       "file": "parts/companion_computers.json",
-      "count": 19
+      "count": 22
+    },
+    "control_link_tx": {
+      "file": "parts/control_link_tx.json",
+      "count": 137
     },
     "counter_uas": {
       "file": "parts/counter_uas.json",
-      "count": 15
+      "count": 23
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 146
+      "count": 162
     },
     "esad": {
       "file": "parts/esad.json",
@@ -33,39 +41,55 @@
     },
     "escs": {
       "file": "parts/escs.json",
-      "count": 152
+      "count": 165
     },
     "flight_controllers": {
       "file": "parts/flight_controllers.json",
-      "count": 310
+      "count": 322
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
-      "count": 190
+      "count": 193
+    },
+    "fpv_detectors": {
+      "file": "parts/fpv_detectors.json",
+      "count": 30
     },
     "frames": {
       "file": "parts/frames.json",
-      "count": 355
+      "count": 377
+    },
+    "gimbals": {
+      "file": "parts/gimbals.json",
+      "count": 12
     },
     "gps_modules": {
       "file": "parts/gps_modules.json",
       "count": 74
     },
+    "integrated_stacks": {
+      "file": "parts/integrated_stacks.json",
+      "count": 5
+    },
     "lidar": {
       "file": "parts/lidar.json",
-      "count": 10
+      "count": 18
     },
     "mesh_radios": {
       "file": "parts/mesh_radios.json",
-      "count": 27
+      "count": 24
     },
     "motors": {
       "file": "parts/motors.json",
-      "count": 288
+      "count": 303
+    },
+    "payload_droppers": {
+      "file": "parts/payload_droppers.json",
+      "count": 5
     },
     "propellers": {
       "file": "parts/propellers.json",
-      "count": 471
+      "count": 484
     },
     "propulsion": {
       "file": "parts/propulsion.json",
@@ -73,34 +97,39 @@
     },
     "receivers": {
       "file": "parts/receivers.json",
-      "count": 127
+      "count": 394
     },
     "sensors": {
       "file": "parts/sensors.json",
-      "count": 23
+      "count": 35
     },
     "stacks": {
       "file": "parts/stacks.json",
-      "count": 99
+      "count": 115
+    },
+    "swarm_software": {
+      "file": "parts/swarm_software.json",
+      "count": 10
     },
     "thermal_cameras": {
       "file": "parts/thermal_cameras.json",
-      "count": 31
+      "count": 44
     },
     "uas_nexus_syndicate": {
       "file": "parts/uas_nexus_syndicate.json",
       "count": 1
     },
+    "video_scramblers": {
+      "file": "parts/video_scramblers.json",
+      "count": 5
+    },
     "video_transmitters": {
       "file": "parts/video_transmitters.json",
-      "count": 103
+      "count": 124
     }
-  },
-  "platforms": {
-    "file": "platforms/platforms.json",
-    "count": 137
   },
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
-  }
+  },
+  "total_parts": 3726
 }

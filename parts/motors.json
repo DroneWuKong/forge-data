@@ -52,7 +52,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22.99,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -108,7 +112,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 42
     }
   },
   {
@@ -164,7 +172,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -220,7 +232,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24.99,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -276,7 +292,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -284,7 +304,7 @@
     "category": "motors",
     "name": "iFlight XING2 2207 Unibell Motor - 2050KV",
     "manufacturer": "iFlight",
-    "description": "The iFlight XING2 2207 Motor is built for smooth, reliable FPV performance in a lightweight package.",
+    "description": "The\u00a0iFlight XING2 2207 Motor is built for smooth, reliable FPV performance in a lightweight package.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2207-unibell-motor-2050kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xing2-2207-2_1.jpg",
     "stator_size": "2207",
@@ -332,7 +352,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -387,6 +411,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -442,7 +470,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -497,6 +529,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -552,7 +588,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -608,7 +648,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -664,7 +708,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -720,7 +768,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -765,7 +817,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -821,7 +877,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -877,7 +937,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -933,7 +997,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -989,7 +1057,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -1045,7 +1117,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -1101,7 +1177,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -1157,7 +1237,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -1165,7 +1249,7 @@
     "category": "motors",
     "name": "Lumenier ZIP V2 2305 Cinematic Motor w/ M3 Shaft - 1800KV/2400KV/3200KV",
     "manufacturer": "Lumenier",
-    "description": "The Lumenier ZIP V2 is a premium, high-performance 2305 Brushless drone motor featuring a lightweight M3 shaft with an additional aluminum spacer that goes from M3 to M5 for universal propeller mounting. Just screw this spacer to the hub of the motor and then use your regular M5 propeller.",
+    "description": "The Lumenier ZIP V2 is a premium, high-performance 2305 Brushless drone motor featuring\u00a0a lightweight M3 shaft with an additional aluminum spacer that goes from M3 to M5 for universal propeller mounting. Just screw this spacer to the hub of the motor and then use your regular M5 propeller.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2305-cinematic-motor-w-m3-shaft-1800kv-2400kv-3200kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-zip-v2-2305-m3-shaft---2400kv_1.jpg",
     "stator_size": "2305",
@@ -1214,6 +1298,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -1269,7 +1357,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -1277,7 +1369,7 @@
     "category": "motors",
     "name": "T-Motor VELOX V3008 Cinematic Motor - 1155KV/1350KV/1500KV",
     "manufacturer": "",
-    "description": "The T-Motor VELOX V3008 Motor continues the lineage of great FPV racing motors by T-Motor! The V3008 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
+    "description": "The\u00a0T-Motor VELOX V3008 Motor continues the lineage of great FPV racing motors by T-Motor! The V3008 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v3008-cinematic-motor-1155kv-1350kv-1500kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/t/-/t-motor-velox-v3008-cinematic-motor-1350.jpg",
     "stator_size": "3008",
@@ -1325,7 +1417,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -1375,7 +1471,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -1432,6 +1532,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -1488,6 +1592,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -1495,7 +1603,7 @@
     "category": "motors",
     "name": "iFlight XING2 3110 Cinelifter Motor - 900KV/1250KV/1600KV",
     "manufacturer": "iFlight",
-    "description": "The iFlight XING2 3110 is powerful Cinelifter motor with three KV's options available: 900KV, 1250KV, or 1600KV.",
+    "description": "The\u00a0iFlight XING2 3110\u00a0is powerful Cinelifter motor with three KV's options available: 900KV, 1250KV, or 1600KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-3110-cinelifter-motor-900kv-1250kv-1600kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-xing2-3110-cinelifter-motor-main.jpg",
     "stator_size": "3110",
@@ -1543,7 +1651,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24.99,
+    "schema_data": {
+      "weight_g": 58
     }
   },
   {
@@ -1599,7 +1711,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -1607,7 +1723,7 @@
     "category": "motors",
     "name": "T-Motor PACER V3 P2306 Powerful Freestyle Motor -1750KV/ 1950KV/ 2550KV",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor PACER V3 P2306 Powerful Freestyle Motor has become one of the most popular motors in the market. T-Motor has updated and upgraded their Pacer motor to V3!",
+    "description": "The\u00a0T-Motor PACER V3 P2306 Powerful Freestyle Motor\u00a0has become one of the most popular motors in the market. T-Motor has updated and upgraded their Pacer motor to V3!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v3-p2306-powerful-freestyle-motor-1750kv-1950kv-2550kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-pacer-v3-p2306-powerful-freestyle-motor_1_.jpg",
     "stator_size": "2306",
@@ -1655,7 +1771,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -1663,7 +1783,7 @@
     "category": "motors",
     "name": "Foxeer Datura 2207.5 FPV Motor",
     "manufacturer": "Foxeer",
-    "description": "The Foxeer Datura 2207.5 FPV Motor is one of Foxeer's new line of motors! This is an ultralight motor with semi-hollow titanium shaft that reduces weight while strengthening the motor.",
+    "description": "The\u00a0Foxeer Datura 2207.5 FPV Motor\u00a0is one of Foxeer's new line of motors! This is an ultralight motor with semi-hollow titanium shaft that reduces weight while strengthening the motor.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/foxeer-datura-2207-5-fpv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-datura-2207.5-fpv-motor-3.jpg",
     "stator_size": "2207",
@@ -1709,7 +1829,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -1717,7 +1841,7 @@
     "category": "motors",
     "name": "Diatone Mamba Toka 2203.5 Motor - 1650KV/2200KV/2650KV/3300KV",
     "manufacturer": "",
-    "description": "The Mamba Toka 2203.5 Motor is part of a new series of motors by Diatone that is best suited for CineWhoops, like the Diatone MX-C Taycan or any 3\"-4\" builds! Choose between four KVs to best fit your FPV needs: 1650KV, 2200KV, 2650KV, or 3300KV.",
+    "description": "The\u00a0Mamba Toka 2203.5 Motor\u00a0is part of a new series of motors by Diatone that is best suited for CineWhoops, like the\u00a0Diatone MX-C Taycan\u00a0or any 3\"-4\" builds! Choose between four KVs to best fit your FPV needs: 1650KV, 2200KV, 2650KV, or 3300KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2203-5-motor-1650kv-2200kv-2650kv-3300kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba_toka_2203.5_motordiatone-mamba-toka-2203.5-motormain-very_compressed-height-1000px.jpg",
     "stator_size": "2203",
@@ -1759,7 +1883,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -1815,7 +1943,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -1823,7 +1955,7 @@
     "category": "motors",
     "name": "BrotherHobby Avenger 3120 Motor - 500KV/700KV",
     "manufacturer": "BrotherHobby",
-    "description": "The BrotherHobby Avenger 31230 Motor is a great motor for larger-sized drones using larger props that need insane torque and power. Perfect for X-Class drones and bigger builds!",
+    "description": "The\u00a0BrotherHobby\u00a0Avenger 31230 Motor\u00a0is a great motor for larger-sized drones using larger props that need insane torque and power. Perfect for X-Class drones and bigger builds!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-3120-motor-500kv-700kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/r/brotherhobby_avenger_3120_motor_2.jpg",
     "stator_size": "3120",
@@ -1865,7 +1997,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -1873,7 +2009,7 @@
     "category": "motors",
     "name": "Brotherhobby Vs 2207 Motor Cw 1720Kv 2400Kv 2700Kv",
     "manufacturer": "",
-    "description": "The BrotherHobby VS 2207 Motor comes in an anti-skid design and is suitable for any 5\" quad! This motor is durable, lightweight, and has excellent performance.",
+    "description": "The\u00a0BrotherHobby\u00a0VS 2207\u00a0Motor\u00a0comes in an\u00a0anti-skid design\u00a0and is suitable for any 5\" quad! This motor is durable, lightweight, and has excellent performance.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-vs-2207-motor-cw-1720kv-2400kv-2700kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/b/r/brotherhobby_vs_2207_motor_4_3.jpg",
     "stator_size": "2207",
@@ -1921,7 +2057,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -1929,7 +2069,7 @@
     "category": "motors",
     "name": "BrotherHobby Avenger 3008 Motor - 1150KV/1300KV/1500KV/1900KV",
     "manufacturer": "BrotherHobby",
-    "description": "The BrotherHobby Avenger 3800 Motor is your next big step into cinematic FPV! The Avenger 3800 is a high-quality motor made with Japanese NMB bearings for smooth, and free-flying.",
+    "description": "The\u00a0BrotherHobby Avenger 3800 Motor\u00a0is your next big step into cinematic FPV!\u00a0The Avenger 3800 is a high-quality motor made with Japanese NMB bearings for smooth, and free-flying.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-3008-motor-1150kv-1300kv-1500kv-1900kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/r/brotherhobby_avenger_3008_motor_1_2.jpg",
     "stator_size": "3008",
@@ -1977,7 +2117,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -2033,7 +2177,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -2041,7 +2189,7 @@
     "category": "motors",
     "name": "BrotherHobby Avenger 2816 Motor - 620KV/750KV/810KV/1050KV",
     "manufacturer": "BrotherHobby",
-    "description": "The BrotherHobby Avenger 2816 Motor is your next big step in FPV Racing! The Avenger 2816 is a high-quality motor made with Japanese NMB bearings for smooth, and free-flying.",
+    "description": "The\u00a0BrotherHobby Avenger 2816\u00a0Motor\u00a0is your next big step in FPV Racing! The Avenger 2816 is a high-quality motor made with Japanese NMB bearings for smooth, and free-flying.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2816-motor-620kv-750kv-810kv-1050kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/r/brotherhobby-avenger-2816-motor---620kv750kv810kv1050kv-main.jpg",
     "stator_size": "2816",
@@ -2083,7 +2231,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -2139,7 +2291,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -2195,7 +2351,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -2252,6 +2412,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -2301,7 +2465,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -2351,7 +2519,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -2407,7 +2579,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -2463,7 +2639,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -2471,7 +2651,7 @@
     "category": "motors",
     "name": "T-Motor VELOX VELOCE V2207.5 V2 Motor - 1750KV/1950KV/2550KV (Royal Blue)",
     "manufacturer": "Tiger Motors",
-    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2207.5 motors come in a new and sleek design and are made with premium components to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1750KV or 2550KV.",
+    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2207.5 motors come in a new and sleek design and are made with\u00a0premium components\u00a0to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1750KV or 2550KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2207-5-v2-motor-1750kv-2550kv-royal-blue.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_8cf8b1hhhhhhhhhh3e-2984-4236-8286-929252f4f8ce_1200x1200_2.jpg",
     "stator_size": "2207",
@@ -2519,7 +2699,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -2576,6 +2760,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -2583,7 +2771,7 @@
     "category": "motors",
     "name": "RCINPOWER SmooX 2306 Plus Motor - 1350KV/1880KV/2280KV/2580KV",
     "manufacturer": "RCINPOWER",
-    "description": "The SmooX 2306 Plus Motor is a powerful new motor by RCINPOWER! Choose a KV option: 1350KV, 1880KV, 2280KV/2580KV.",
+    "description": "The SmooX 2306 Plus Motor is a powerful new motor by RCINPOWER!\u00a0Choose a KV option: 1350KV, 1880KV, 2280KV/2580KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-smoox-2306-plus-motor-1350kv-1880kv-2280kv-2580kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0301.jpg",
     "stator_size": "2306",
@@ -2631,7 +2819,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -2687,7 +2879,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14.99,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -2743,7 +2939,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -2799,7 +2999,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -2849,7 +3053,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -2905,7 +3113,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -2961,7 +3173,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -3017,7 +3233,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -3073,7 +3293,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -3129,7 +3353,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -3185,7 +3413,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -3241,7 +3473,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -3297,7 +3533,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -3354,6 +3594,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -3409,7 +3653,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -3465,7 +3713,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -3521,7 +3773,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -3577,7 +3833,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -3627,7 +3887,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -3674,7 +3938,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -3682,7 +3950,7 @@
     "category": "motors",
     "name": "VCI Hobby 2207 LT Motor - 2160KV (Fire)",
     "manufacturer": "VCI Hobby",
-    "description": "The VCI Hobby 2207 LT 2160KV Motor is a high-performance brushless motor designed for FPV racing and freestyle drones.",
+    "description": "The\u00a0VCI Hobby 2207 LT 2160KV Motor is a high-performance brushless motor designed for FPV racing and freestyle drones.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/vci-hobby-2207-lt-motor-2160kv-fire.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/v/c/vci_hobby_2207_lt_motor-1.jpg",
     "stator_size": "2207",
@@ -3730,7 +3998,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -3784,7 +4056,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -3840,7 +4116,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -3896,7 +4176,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -3952,7 +4236,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -4008,7 +4296,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -4064,7 +4356,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -4120,7 +4416,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -4128,7 +4428,7 @@
     "category": "motors",
     "name": "Axisflying 2207.5 Bando Motor - 1860KV/1960KV ",
     "manufacturer": "Axisflying",
-    "description": "Introducing the Axisflying 2207.5 Bando Motor series. The Axisflying 2207.5 Bando Motor provides exceptional performance, top-notch quality, and our unwavering commitment to high standards.",
+    "description": "Introducing the Axisflying 2207.5 Bando Motor series. The Axisflying 2207.5 Bando Motor\u00a0provides exceptional performance, top-notch quality, and our unwavering commitment to high standards.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/axisflying-2207-5-bando-motor-1860kv-1960kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/x/axisflying-2207.5-bando-motor---1860-_-1960kv-_hero-image_.jpg",
     "stator_size": "2207",
@@ -4176,7 +4476,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -4232,7 +4536,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -4288,7 +4596,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -4338,7 +4650,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -4346,7 +4662,7 @@
     "category": "motors",
     "name": "T-Motor VELOX V3115 Motor - 400KV/640KV/900KV",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor VELOX V3115 motors come in a new and sleek design and are made with premium components to give your multirotor visibility and speed in the game! Great for freestyle and racing!",
+    "description": "The T-Motor VELOX V3115\u00a0motors come in a new and sleek design and are made with premium components to give your multirotor visibility and speed in the game! Great for freestyle and racing!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v3115-motor-400kv-640kv-900kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-v3115-motor-_image-1__1.jpg",
     "stator_size": "3115",
@@ -4394,7 +4710,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -4444,7 +4764,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -4500,7 +4824,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -4508,7 +4836,7 @@
     "category": "motors",
     "name": "T-Motor P2207 V2 Motor (Silver + Blue) - 1750KV/1950KV/2550KV",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor PACER V2 P2207 features more power to give your freestyle quadcopter extremely power. Available in two KV options: 1750KV, 1950KV, 2550KV.",
+    "description": "The T-Motor PACER V2 P2207 features more power to give your freestyle quadcopter extremely power.\u00a0Available in two KV options: 1750KV, 1950KV, 2550KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v2-p2207-powerful-freestyle-1750kv-1950kv-2550kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/a/pacer_v2_p2207_powerful_freestyle_2__2.jpg",
     "stator_size": "2207",
@@ -4556,7 +4884,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -4612,7 +4944,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -4620,7 +4956,7 @@
     "category": "motors",
     "name": "RCINPOWER GTS V2 2207 Plus Motor - 1860KV/2500KV/2750KV",
     "manufacturer": "",
-    "description": "The GTS V2 2207 Plus Motor is a powerful new motor by RCINPOWER!",
+    "description": "The\u00a0GTS V2 2207 Plus Motor\u00a0is a powerful new motor by RCINPOWER!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-gts-v2-2207-plus-motor-1860kv-2500kv-2750kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/c/rcinpower-gts-v2-2207-plus-motor-main.jpg",
     "stator_size": "2207",
@@ -4668,7 +5004,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -4724,7 +5064,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -4780,7 +5124,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -4836,7 +5184,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -4893,6 +5245,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -4948,7 +5304,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -5004,7 +5364,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -5012,7 +5376,7 @@
     "category": "motors",
     "name": "Flash Hobby King K2207.5 Motor (Army Green) - 1750KV/1950KV/2580KV/2750KV",
     "manufacturer": "Flash Hobby",
-    "description": "The Flash Hobby King 2207.5 Motors are here! Featuring a sleek and tough one-piece Army Green aluminum bell these little tanks are perfect for pack after pack of freestyle bashing!",
+    "description": "The\u00a0Flash Hobby King 2207.5 Motors are here! Featuring a sleek and tough one-piece Army Green aluminum bell these little tanks are perfect for pack after pack of freestyle bashing!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/flash-hobby-king-k2207-5-motor-army-green-1750kv-1950kv-2580kv-2750kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_1184.jpgflashhobby-king-k2207.5-motor-_army-green_-1.jpg",
     "stator_size": "2207",
@@ -5060,7 +5424,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -5117,6 +5485,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24.99,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -5173,6 +5545,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -5180,7 +5556,7 @@
     "category": "motors",
     "name": "T-Motor PACER V2 P2306 Powerful Freestyle 1950KV/2550KV Motor",
     "manufacturer": "",
-    "description": "The T-Motor PACER V2 P2306 features a lower throttle to give your freestyle quadcopter a smooth and stable feel. Available in two KV options: 1950KV, 2550KV.",
+    "description": "The T-Motor PACER V2 P2306 features a lower throttle to give your freestyle quadcopter a smooth and stable feel.\u00a0Available in two KV options: 1950KV, 2550KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v2-p2306-powerful-freestyle-1950kv-2550kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/t/-/t-motor_pacer_v2_p2306_powerful_freestyle_1950kv2550kv_motor_3_.jpg",
     "stator_size": "2306",
@@ -5228,7 +5604,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -5284,7 +5664,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -5341,6 +5725,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -5397,6 +5785,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -5453,6 +5845,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -5502,7 +5898,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -5558,7 +5958,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -5566,7 +5970,7 @@
     "category": "motors",
     "name": "T-Motor VELOX V2808 Cinematic Motor - 1300KV/1500KV/1950KV",
     "manufacturer": "",
-    "description": "The T-Motor VELOX V2808 Motor continues the lineage of great FPV racing motors by T-Motor! The V2808 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
+    "description": "The\u00a0T-Motor VELOX V2808 Motor continues the lineage of great FPV racing motors by T-Motor! The V2808 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2808-cinematic-motor-1300kv-1500kv-1950kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/t/-/t-motor-velox-v2808-cinematic-motor-1300kv_1.jpg",
     "stator_size": "2808",
@@ -5614,7 +6018,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -5622,7 +6030,7 @@
     "category": "motors",
     "name": "Amaxinno Superleggera 2305 5 A Bell Motor 1750Kv 1950Kv 2550Kv",
     "manufacturer": "",
-    "description": "The AMAXinno Superleggera 2305.5 A-Bell Motor comes with a special half-hollow shaft and further improved \"A-Bell\" design, making slipped magnets and dented bells a thing of the past! This motor is smooth, powerful, and extremely durable!",
+    "description": "The\u00a0AMAXinno Superleggera 2305.5 A-Bell Motor\u00a0comes with a special half-hollow shaft and further improved \"A-Bell\" design, making slipped magnets and dented bells a thing of the past! This motor is smooth, powerful, and extremely durable!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/amaxinno-superleggera-2305-5-a-bell-motor-1750kv-1950kv-2550kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/m/amaxinno_superleggera_2305.5_motor_3.jpg",
     "stator_size": "2305",
@@ -5670,7 +6078,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -5678,7 +6090,7 @@
     "category": "motors",
     "name": "Amaxinno Performante 2207 A Bell Motor 1750Kv 1950Kv 2550Kv",
     "manufacturer": "",
-    "description": "The AMAXinno Superleggera 2207 A-Bell Motor comes with a special half-hollow shaft and further improved \"A-Bell\" design, making slipped magnets and dented bells a thing of the past! This motor is smooth, powerful, and extremely durable!",
+    "description": "The\u00a0AMAXinno Superleggera 2207 A-Bell Motor\u00a0comes with a special half-hollow shaft and further improved \"A-Bell\" design, making slipped magnets and dented bells a thing of the past! This motor is smooth, powerful, and extremely durable!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/amaxinno-performante-2207-a-bell-motor-1750kv-1950kv-2550kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/m/amaxinno_performante_2207_a-bell_motor_2__3.jpg",
     "stator_size": "2207",
@@ -5726,7 +6138,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -5782,7 +6198,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -5790,7 +6210,7 @@
     "category": "motors",
     "name": "T-Motor VELOX V2812 Cinematic Motor - 925KV/1155KV",
     "manufacturer": "",
-    "description": "The T-Motor VELOX V2812 Motor continues the lineage of great FPV racing motors by T-Motor! The V2812 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
+    "description": "The\u00a0T-Motor VELOX V2812 Motor continues the lineage of great FPV racing motors by T-Motor! The V2812 is great for 4-8\" drones providing cinematic power for all of your extreme flights.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2812-cinematic-motor-925kv-1155kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/t/-/t-motor-velox-v2812-cinematic-motor-925_1.jpg",
     "stator_size": "2812",
@@ -5838,7 +6258,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -5894,7 +6318,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -5902,7 +6330,7 @@
     "category": "motors",
     "name": "ELEV8 FPV Cricket 2306.5 Motor - 1750KV",
     "manufacturer": "",
-    "description": "The ELEV8_FPV Cricket FPV 2306.5 1750KV Motors are now here! We’re proud to introduce you to this absolutely stunning creation. Designed by Rotor Riot Pilot, Corey Tapp aka \"CricketFPV\".",
+    "description": "The ELEV8_FPV Cricket FPV 2306.5 1750KV Motors are now here! We\u2019re proud to introduce you to this absolutely stunning creation. Designed by Rotor Riot Pilot, Corey Tapp aka \"CricketFPV\".",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/elev8-fpv-cricket-fpv-2306-5-motor-1750kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/e/l/elev8-fpv-cricket-2306.5-motor---1750kv-main-1.jpg",
     "stator_size": "2306",
@@ -5950,7 +6378,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -5958,7 +6390,7 @@
     "category": "motors",
     "name": "TBS Grinder V3 2207 Motor - 1750KV ",
     "manufacturer": "Team BlackSheep",
-    "description": "The TBS Grinder V3 Freestyle Motor is made for hardcore FPV pilots who misjudge power loops and are a bit too cocky on the sticks. This motor won't burn a hole in your wallet and will keep up with the craziest freestyle pilots.",
+    "description": "The TBS\u00a0Grinder V3 Freestyle Motor is made for hardcore FPV pilots who misjudge power loops and are a bit too cocky on the sticks. This motor won't burn a hole in your wallet and will keep up with the craziest freestyle pilots.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/tbs-grinder-v3-2207-motor-1750kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-grinder-v3-2207-motor---1750kv.jpg",
     "stator_size": "2207",
@@ -6007,6 +6439,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -6014,7 +6450,7 @@
     "category": "motors",
     "name": "T-Motor PACER V3 P2207 Powerful Freestyle Motor -1750KV/ 1950KV/ 2080KV/ 2550KV",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor PACER V3 P2207 Powerful Freestyle Motor has become one of the most popular motors in the market. T-Motor has updated and upgraded their Pacer motor to V3!",
+    "description": "The\u00a0T-Motor PACER V3 P2207 Powerful Freestyle Motor\u00a0has become one of the most popular motors in the market. T-Motor has updated and upgraded their Pacer motor to V3!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v3-p2207-powerful-freestyle-motor-1750kv-1950kv-2080kv-2550kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-pacer-v3-p2207-powerful-freestyle-motor_2_.jpg",
     "stator_size": "2207",
@@ -6062,7 +6498,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -6070,7 +6510,7 @@
     "category": "motors",
     "name": "Diatone Mamba Toka 2808 Motor - 1100KV",
     "manufacturer": "",
-    "description": "The Mamba Toka 2808 Motor is an ideal motor for 7\" quads, such as the Diatone Roma F7.",
+    "description": "The\u00a0Mamba Toka 2808 Motor\u00a0is an ideal motor for 7\" quads, such as the\u00a0Diatone Roma F7.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2808-motor-1100kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba-toka-2808-motor---1100kv_3_.jpg",
     "stator_size": "2808",
@@ -6118,7 +6558,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -6126,7 +6570,7 @@
     "category": "motors",
     "name": "T-Motor P2505 1850KV Motor - Pale Rose",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor P2505 1850KV motor is a responsive, smooth, and super lightweight motor that is made of high-quality components like an N54 magnet for better performance and a unique hollow-carved design to bring you smooth flying!",
+    "description": "The T-Motor P2505 1850KV motor is a responsive, smooth, and super lightweight motor that is made of\u00a0high-quality components like an N54 magnet for better performance and a unique\u00a0hollow-carved design to bring you smooth flying!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-p2505-1850kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor_p2505_1850kv_motor_silver_red_.jpg",
     "stator_size": "2505",
@@ -6168,7 +6612,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -6224,7 +6672,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -6232,7 +6684,7 @@
     "category": "motors",
     "name": "Diatone Mamba Toka 2306.5 Motor - 1700KV/2450KV/2650KV",
     "manufacturer": "",
-    "description": "The Mamba Toka 2306.5 Motor is part of a new series of motors by Diatone that is best suited for CineWhoops, like the Diatone MX-C Taycan or any 3\"-4\" builds! Choose between three KVs to best fit your FPV needs: 1700KV, 2450KV, or 2650KV.",
+    "description": "The Mamba Toka 2306.5 Motor is part of a new series of motors by Diatone that is best suited for CineWhoops, like the\u00a0Diatone MX-C Taycan\u00a0or any 3\"-4\" builds! Choose between three KVs to best fit your FPV needs: 1700KV, 2450KV, or 2650KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2306-5-motor-1700kv-2450kv-2650kv.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba_toka_2306.5_motordiatone-mamba-toka-2306.5-motormain-very_compressed-height-1000px.jpg",
     "stator_size": "2306",
@@ -6280,7 +6732,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -6336,7 +6792,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -6392,7 +6852,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -6448,7 +6912,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -6504,7 +6972,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -6560,7 +7032,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -6616,7 +7092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -6624,7 +7104,7 @@
     "category": "motors",
     "name": "T-Motor MCK 2207.5 V3 1910KV/2100KV Motor ",
     "manufacturer": "Tiger Motors",
-    "description": "Made in collaboration with one of the fastest FPV pilots in the world, MinChan Kim, the MCK 2207.5 V3 Motor from T-Motor is a fast-racing-motor made with premium components",
+    "description": "Made in collaboration with one of the fastest FPV pilots in the world,\u00a0MinChan Kim, the MCK 2207.5 V3 Motor from T-Motor is a fast-racing-motor made with premium components",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-2207-5-v3-1910kv-2100kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor_mck_2207.5_v3_1910kv2100kv_motor_champion_edition.jpg",
     "stator_size": "2207",
@@ -6672,7 +7152,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -6728,7 +7212,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -6784,7 +7272,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -6840,7 +7332,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -6896,7 +7392,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -6953,6 +7453,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -7009,6 +7513,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -7063,6 +7571,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -7118,7 +7630,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -7175,6 +7691,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -7229,6 +7749,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -7284,7 +7808,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -7334,7 +7862,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -7384,7 +7916,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -7440,7 +7976,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -7490,7 +8030,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -7498,7 +8042,7 @@
     "category": "motors",
     "name": "iFlight XING 2203.5 1900KV/2700KV Motor - 1.5mm Shaft",
     "manufacturer": "iFlight",
-    "description": "New toothpick-style motor from iFlight with a 1.5mm shaft instead of the larger 5mm shaft found on the similar 2203.5 XING motor. This version is much lighter than the 5mm shaft version which makes it a much better partner for ultralight builds.",
+    "description": "New toothpick-style motor from iFlight with a 1.5mm shaft instead of the larger 5mm shaft found on the similar\u00a02203.5 XING\u00a0motor. This version is much lighter than the 5mm shaft version which makes it a much\u00a0better partner for ultralight builds.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-1900kv-2700kv-motor-1-5mm-shaft.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflightxing-2203.5main.jpg",
     "stator_size": "2203",
@@ -7540,7 +8084,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -7590,7 +8138,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -7640,7 +8192,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -7648,7 +8204,7 @@
     "category": "motors",
     "name": "T-Motor VELOX VELOCE V2208 V2 Motor - 1750KV/1950KV/2450KV (Gray)",
     "manufacturer": "Tiger Motors",
-    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2800 motors come in a new and sleek design and are made with premium components to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1750KV,1950KV, or 2450KV.",
+    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2800 motors come in a new and sleek design and are made with\u00a0premium components\u00a0to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1750KV,1950KV, or 2450KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2208-v2-motor-1750kv-1950kv-2450kv-gray.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-v2208-v2-main.jpg",
     "stator_size": "2208",
@@ -7696,7 +8252,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -7704,7 +8264,7 @@
     "category": "motors",
     "name": "T-Motor VELOX VELOCE V2307 V2 Motor - 1950KV/2550KV (Rose Gold)",
     "manufacturer": "Tiger Motors",
-    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2307 motors come in a new and sleek design and are made with premium components to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1950KV or 2550KV.",
+    "description": "Introducing the new V2 VELOX motors by T-Motor. The V2307 motors come in a new and sleek design and are made with\u00a0premium components\u00a0to give your multirotor visibility and speed in the game! Great for freestyle and racing. Velox series is designed for pilots to challenge themselves constantly, so they can be free while flying! Feel the wind, free yourself, and challenge your limits! Available in 1950KV or 2550KV.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2307-v2-motor-1950kv-2550kv-rose-gold.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-gggggmotor-v2307-v2-rg-0.jpg",
     "stator_size": "2307",
@@ -7752,7 +8312,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -7808,7 +8372,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -7864,7 +8432,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -7872,7 +8444,7 @@
     "category": "motors",
     "name": "Lumenier 2207 2050KV Chief Racing Motor V2",
     "manufacturer": "",
-    "description": "The Chief Racing Motor was developed by Lumenier in collaboration with professional drone racing pilot Alex \"Chief\" Campbell. This is a high performance, ultra-light racing motor designed to give you the ultimate performance on the FPV race track.\n\n\n2207\n2050Kv (4s-6s)\n28g\nN52SH Curved Magnets\n240C° Rated Enamel\nTitanium Shaft",
+    "description": "The Chief Racing Motor was developed by Lumenier in collaboration with professional drone racing pilot Alex \"Chief\" Campbell. This is a high performance, ultra-light racing motor designed to give you the ultimate performance on the FPV race track.\n\n\n2207\n2050Kv (4s-6s)\n28g\nN52SH Curved Magnets\n240C\u00b0 Rated Enamel\nTitanium Shaft",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2207-2050kv-chief-racing-motor-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/c/h/chief-motor-chief_1_1.jpg",
     "stator_size": "2207",
@@ -7921,6 +8493,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -7970,7 +8546,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -8020,7 +8600,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -8070,7 +8654,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -8078,7 +8666,7 @@
     "category": "motors",
     "name": "iFlight XING 2203.5 Unibell Motor (1pc) - 2500KV/3600KV",
     "manufacturer": "iFlight",
-    "description": "The XING 2203.5 sized motor features a high-strength 5mm titanium alloy shaft, N52H curved magnets, M3 shaft screw, and larger Japanese NSK 9x9x4 bearings.",
+    "description": "The XING 2203.5 sized motor features a high-strength 5mm titanium alloy shaft,\u00a0N52H curved magnets, M3 shaft screw, and larger Japanese NSK 9x9x4 bearings.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-2500kv-3600kv-motor-1pc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/2/2203-unibell_6_-1000x1000.jpg",
     "stator_size": "2203",
@@ -8120,7 +8708,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -8176,7 +8768,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -8232,7 +8828,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -8240,7 +8840,7 @@
     "category": "motors",
     "name": "Diatone Mamba Toka 2207.5 1700KV/1800KV/2450KV/2650KV Motor",
     "manufacturer": "",
-    "description": "The Mamba Toka 2207.5 Motor is a new series of motors by Diatone that is best suited for the Roma F5 5\" Freestyle Quadcopter or similar quadcopters!",
+    "description": "The Mamba Toka 2207.5 Motor is a new series of motors by Diatone that is best suited for the\u00a0Roma F5 5\" Freestyle Quadcopter\u00a0or similar quadcopters!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2207-5-1700kv-1800kv-2450kv-2650kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba_toka_2207.5_motor_3_.jpg",
     "stator_size": "2207",
@@ -8288,7 +8888,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -8338,7 +8942,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -8388,7 +8996,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -8444,7 +9056,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -8500,7 +9116,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -8556,7 +9176,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -8612,7 +9236,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -8668,7 +9296,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -8724,7 +9356,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -8780,7 +9416,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -8836,7 +9476,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -8892,7 +9536,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -8949,6 +9597,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -9004,7 +9656,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -9060,7 +9716,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -9117,6 +9777,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -9124,7 +9788,7 @@
     "category": "motors",
     "name": "iFlight Cyber XING 2207.5 1777KV/1999KV/2555KV FPV Motor ",
     "manufacturer": "iFlight",
-    "description": "A high-quality motor by iFlight. The Cyber series features high-strength 4mm Titanium alloy shaft, ultra-smooth & durable bearings, 220℃ specific heat-resistant copper wire, among many other cool features!",
+    "description": "A high-quality motor by iFlight. The Cyber series features high-strength 4mm Titanium alloy shaft, ultra-smooth & durable bearings, 220\u2103 specific heat-resistant copper wire, among many other cool features!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-cyber-xing-2207-5-1777kv-1999kv-2555kv-fpv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-cyber-xing-2207.5_1777kv1999kv2555kv_fpv_motor_3_3.jpg",
     "stator_size": "2207",
@@ -9172,7 +9836,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -9180,7 +9848,7 @@
     "category": "motors",
     "name": "iFlight Cyber XING 2306.5 1777KV/1999KV/2555KV FPV Motor ",
     "manufacturer": "iFlight",
-    "description": "A high-quality motor by iFlight. The Cyber series features high-strength 4mm Titanium alloy shaft, ultra-smooth & durable bearings, 220℃ specific heat-resistant copper wire, among many other cool features!",
+    "description": "A high-quality motor by iFlight. The Cyber series features high-strength 4mm Titanium alloy shaft, ultra-smooth & durable bearings, 220\u2103 specific heat-resistant copper wire, among many other cool features!",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/iflight-cyber-xing-2306-1777kv-1999kv-2555kv-fpv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/y/cyber_xing_2306.5_2-6s_fpv_motor.jpg",
     "stator_size": "2306",
@@ -9228,7 +9896,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -9284,7 +9956,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -9340,7 +10016,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -9396,7 +10076,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -9453,6 +10137,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -9508,7 +10196,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -9564,7 +10256,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -9620,7 +10316,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -9677,6 +10377,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -9733,6 +10437,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -9789,6 +10497,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -9845,6 +10557,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -9901,6 +10617,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -9956,7 +10676,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -10012,7 +10736,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -10069,6 +10797,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -10125,6 +10857,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -10181,6 +10917,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -10236,7 +10976,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -10293,6 +11037,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -10348,7 +11096,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -10405,6 +11157,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -10461,6 +11217,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -10517,6 +11277,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 40
     }
   },
   {
@@ -10573,6 +11337,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -10629,6 +11397,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -10685,6 +11457,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -10741,6 +11517,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -10797,6 +11577,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -10852,7 +11636,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -10908,7 +11696,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -10964,7 +11756,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -11018,7 +11814,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 27,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -11072,7 +11872,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -11122,7 +11926,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -11178,7 +11986,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -11232,7 +12044,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -11288,7 +12104,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -11344,7 +12164,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -11394,7 +12218,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -11451,6 +12279,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -11506,7 +12338,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -11562,7 +12398,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -11618,7 +12458,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -11675,6 +12519,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -11730,7 +12578,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -11786,7 +12638,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -11843,6 +12699,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -11899,6 +12759,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -11952,7 +12816,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -12008,7 +12876,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 37
     }
   },
   {
@@ -12064,7 +12936,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 39
     }
   },
   {
@@ -12118,7 +12994,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -12172,7 +13052,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -12228,7 +13112,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -12285,6 +13173,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -12341,6 +13233,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -12397,6 +13293,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -12452,7 +13352,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -12508,7 +13412,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -12564,7 +13472,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 32
     }
   },
   {
@@ -12621,6 +13533,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -12677,6 +13593,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -12733,6 +13653,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -12789,6 +13713,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 30
     }
   },
   {
@@ -12845,6 +13773,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -12901,14 +13833,18 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
     "pid": "MTR-1236",
     "category": "motors",
-    "name": "T-Motor F40 PRO II POPO® Pro - 2600kv Motor",
+    "name": "T-Motor F40 PRO II POPO\u00ae Pro - 2600kv Motor",
     "manufacturer": "Tiger Motors",
-    "description": "The powerful T-Motor F40 PROII POPO® Pro - 2600kv.",
+    "description": "The powerful T-Motor F40 PROII POPO\u00ae Pro - 2600kv.",
     "link": "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f40-pro-ii-popor-pro-2600kv-motor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0627.jpg",
     "kv_rating": 2600,
@@ -12956,7 +13892,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -13012,7 +13952,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -13068,7 +14012,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -13124,7 +14072,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 31
     }
   },
   {
@@ -13180,7 +14132,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -13237,6 +14193,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -13293,6 +14253,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -13348,7 +14312,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 25,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -13404,7 +14372,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 28,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -13460,7 +14432,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -13516,7 +14492,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -13572,7 +14552,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -13628,7 +14612,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -13684,7 +14672,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -13740,7 +14732,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -13796,7 +14792,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -13852,7 +14852,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -13908,7 +14912,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 34
     }
   },
   {
@@ -13964,7 +14972,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 35
     }
   },
   {
@@ -14020,7 +15032,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -14076,7 +15092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -14132,7 +15152,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 30,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -14188,7 +15212,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 36
     }
   },
   {
@@ -14244,7 +15272,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -14301,6 +15333,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -14356,7 +15392,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -14413,6 +15453,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -14468,7 +15512,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -14524,7 +15572,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -14580,7 +15632,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -14636,7 +15692,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -14692,7 +15752,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -14748,7 +15812,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -14804,7 +15872,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 38
     }
   },
   {
@@ -14861,6 +15933,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -14916,7 +15992,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 33
     }
   },
   {
@@ -14973,6 +16053,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 24,
+    "schema_data": {
+      "weight_g": 41
     }
   },
   {
@@ -15029,6 +16113,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -15084,7 +16172,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 23,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -15121,7 +16213,10 @@
       "7 inch",
       "combat_proven",
       "ukraine"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 23
+    }
   },
   {
     "pid": "MTR-1276",
@@ -15158,7 +16253,10 @@
       "long_range",
       "combat_proven",
       "ukraine"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 31
+    }
   },
   {
     "pid": "MTR-1277",
@@ -15194,7 +16292,10 @@
       "combat_proven",
       "ukraine",
       "VANDAL"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 34
+    }
   },
   {
     "pid": "MTR-1278",
@@ -15230,7 +16331,10 @@
       "7 inch",
       "combat_proven",
       "ukraine"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 33
+    }
   },
   {
     "pid": "MTR-1279",
@@ -15266,7 +16370,10 @@
       "custom",
       "combat_proven",
       "ukraine"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 33
+    }
   },
   {
     "pid": "MTR-1280",
@@ -15301,7 +16408,10 @@
       "6S",
       "combat_proven",
       "ukraine"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 34
+    }
   },
   {
     "pid": "MTR-1281",
@@ -15338,7 +16448,10 @@
       "ndaa",
       "dronecan",
       "position_sensing"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 37
+    }
   },
   {
     "pid": "MTR-1282",
@@ -15373,7 +16486,10 @@
       "blue_uas",
       "ndaa",
       "dronecan"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 23
+    }
   },
   {
     "pid": "MTR-1283",
@@ -15409,7 +16525,10 @@
       "ndaa",
       "heavy_lift",
       "dronecan"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 23
+    }
   },
   {
     "pid": "MTR-1284",
@@ -15446,7 +16565,10 @@
       "heavy_lift",
       "dronecan",
       "servo"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 32
+    }
   },
   {
     "pid": "MTR-1285",
@@ -15454,7 +16576,7 @@
     "name": "KDE Direct 7215XF-135 UAS Heavy-Lift Motor",
     "manufacturer": "KDE Direct",
     "country": "USA",
-    "description": "Heavy-lift UAS motor with 72×15mm stator, 135KV. Triple-bearing ABEC-7 design. Patent pending bearing layout. 200°C copper windings. For 27.5\" props. US-designed and quality-controlled.",
+    "description": "Heavy-lift UAS motor with 72\u00d715mm stator, 135KV. Triple-bearing ABEC-7 design. Patent pending bearing layout. 200\u00b0C copper windings. For 27.5\" props. US-designed and quality-controlled.",
     "link": "https://www.kdedirect.com/products/kde7215xf-135",
     "approx_price": 270.0,
     "kv_rating": 135,
@@ -15482,7 +16604,10 @@
       "heavy_lift",
       "ndaa",
       "usa_made"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 40
+    }
   },
   {
     "pid": "MTR-1286",
@@ -15490,7 +16615,7 @@
     "name": "KDE Direct 10218XF-105 UAS Flagship Motor",
     "manufacturer": "KDE Direct",
     "country": "USA",
-    "description": "KDE Direct flagship heavy-lift motor. 102×18mm stator, 105KV, 28-pole high-efficiency design. Triple ABEC-7 angular-contact + radial bearings. For 30.5\" triple-propeller blades. Commercial/industrial/military.",
+    "description": "KDE Direct flagship heavy-lift motor. 102\u00d718mm stator, 105KV, 28-pole high-efficiency design. Triple ABEC-7 angular-contact + radial bearings. For 30.5\" triple-propeller blades. Commercial/industrial/military.",
     "link": "https://www.kdedirect.com/products/kde10218xf-105",
     "approx_price": 450.0,
     "kv_rating": 105,
@@ -15519,7 +16644,10 @@
       "ndaa",
       "usa_made",
       "flagship"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 28
+    }
   },
   {
     "pid": "MTR-1287",
@@ -15527,7 +16655,7 @@
     "name": "KDE Direct 6815XF-205 UAS Heavy-Lift Motor",
     "manufacturer": "KDE Direct",
     "country": "USA",
-    "description": "Mid-range KDE heavy-lift motor. 68×15mm stator, 205KV. High-efficiency design for 24.5\" dual-blade props. 200°C copper windings, ABEC-7 bearings.",
+    "description": "Mid-range KDE heavy-lift motor. 68\u00d715mm stator, 205KV. High-efficiency design for 24.5\" dual-blade props. 200\u00b0C copper windings, ABEC-7 bearings.",
     "link": "https://www.kdedirect.com/products/kde6815xf-205",
     "approx_price": 200.0,
     "kv_rating": 205,
@@ -15555,7 +16683,10 @@
       "heavy_lift",
       "ndaa",
       "usa_made"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 37
+    }
   },
   {
     "pid": "MTR-1288",
@@ -15592,7 +16723,10 @@
       "redundant",
       "heavy_lift",
       "Germany"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 24
+    }
   },
   {
     "pid": "MTR-1289",
@@ -15628,6 +16762,414 @@
       "fiberprinting",
       "high_efficiency",
       "heavy_lift"
-    ]
+    ],
+    "schema_data": {
+      "weight_g": 29
+    }
+  },
+  {
+    "pid": "MTR-UA-Flytex-4215-510KV",
+    "category": "motors",
+    "name": "4215 510KV",
+    "manufacturer": "Flytex",
+    "country": "Ukraine",
+    "approx_price_usd": 34.15,
+    "approx_price_uah": 1400.0,
+    "size_class": "heavy_lift",
+    "best_for_inches": "13+ \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "heavy_lift"
+    ],
+    "approx_price": 34.15
+  },
+  {
+    "pid": "MTR-UA-Flytex-3115-900KV",
+    "category": "motors",
+    "name": "3115 900KV",
+    "manufacturer": "Flytex",
+    "country": "Ukraine",
+    "approx_price_usd": 16.95,
+    "approx_price_uah": 695.0,
+    "size_class": "10_inch",
+    "best_for_inches": "9-10 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "10_inch"
+    ],
+    "approx_price": 16.95
+  },
+  {
+    "pid": "MTR-UA-Flytex-4320-320KV",
+    "category": "motors",
+    "name": "4320 320KV",
+    "manufacturer": "Flytex",
+    "country": "Ukraine",
+    "approx_price_usd": 39.02,
+    "approx_price_uah": 1600.0,
+    "size_class": "heavy_lift",
+    "best_for_inches": "13+ \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "heavy_lift"
+    ],
+    "approx_price": 39.02
+  },
+  {
+    "pid": "MTR-UA-DiFly-DF-2807-13",
+    "category": "motors",
+    "name": "DF 2807 1300KV Kamik",
+    "manufacturer": "DiFly",
+    "country": "Ukraine",
+    "approx_price_usd": 12.2,
+    "approx_price_uah": 500.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 12.2
+  },
+  {
+    "pid": "MTR-UA-\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d-BLDC-2807-",
+    "category": "motors",
+    "name": "BLDC 2807-14 1300KV",
+    "manufacturer": "\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d",
+    "country": "Ukraine",
+    "approx_price_usd": 15.85,
+    "approx_price_uah": 650.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 15.85
+  },
+  {
+    "pid": "MTR-UA-LEADER-T-2807-1300K",
+    "category": "motors",
+    "name": "2807 1300KV",
+    "manufacturer": "LEADER Tech",
+    "country": "Ukraine",
+    "approx_price_usd": 12.17,
+    "approx_price_uah": 499.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 12.17
+  },
+  {
+    "pid": "MTR-UA-KaraFPV-2807-1300K",
+    "category": "motors",
+    "name": "2807 1300KV",
+    "manufacturer": "KaraFPV",
+    "country": "Ukraine",
+    "approx_price_usd": 13.02,
+    "approx_price_uah": 534.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 13.02
+  },
+  {
+    "pid": "MTR-UA-KaraFPV-3115-900KV",
+    "category": "motors",
+    "name": "3115 900KV",
+    "manufacturer": "KaraFPV",
+    "country": "Ukraine",
+    "approx_price_usd": 13.73,
+    "approx_price_uah": 563.0,
+    "size_class": "10_inch",
+    "best_for_inches": "9-10 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "10_inch"
+    ],
+    "approx_price": 13.73
+  },
+  {
+    "pid": "MTR-UA-FT-2807-1300K",
+    "category": "motors",
+    "name": "2807 1300KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 18.88,
+    "approx_price_uah": 774.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 18.88
+  },
+  {
+    "pid": "MTR-UA-FT-2812-1100K",
+    "category": "motors",
+    "name": "2812 1100KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 19.9,
+    "approx_price_uah": 816.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 19.9
+  },
+  {
+    "pid": "MTR-UA-FT-2812-1900K",
+    "category": "motors",
+    "name": "2812 1900KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 19.9,
+    "approx_price_uah": 816.0,
+    "size_class": "7_inch",
+    "best_for_inches": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "7_inch"
+    ],
+    "approx_price": 19.9
+  },
+  {
+    "pid": "MTR-UA-FT-3115-800KV",
+    "category": "motors",
+    "name": "3115 800KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 30.59,
+    "approx_price_uah": 1254.0,
+    "size_class": "10_inch",
+    "best_for_inches": "9-10 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "10_inch"
+    ],
+    "approx_price": 30.59
+  },
+  {
+    "pid": "MTR-UA-FT-4220-400KV",
+    "category": "motors",
+    "name": "4220 400KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 39.8,
+    "approx_price_uah": 1632.0,
+    "size_class": "heavy_lift",
+    "best_for_inches": "13+ \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "heavy_lift"
+    ],
+    "approx_price": 39.8
+  },
+  {
+    "pid": "MTR-UA-FT-4220-650KV",
+    "category": "motors",
+    "name": "4220 650KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 39.8,
+    "approx_price_uah": 1632.0,
+    "size_class": "heavy_lift",
+    "best_for_inches": "13+ \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "heavy_lift"
+    ],
+    "approx_price": 39.8
+  },
+  {
+    "pid": "MTR-UA-FT-6007-380KV",
+    "category": "motors",
+    "name": "6007 380KV",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "approx_price_usd": 59.71,
+    "approx_price_uah": 2448.0,
+    "size_class": "heavy_lift",
+    "best_for_inches": "13+ \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "motor",
+      "heavy_lift"
+    ],
+    "approx_price": 59.71
   }
 ]

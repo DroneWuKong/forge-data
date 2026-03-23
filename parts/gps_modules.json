@@ -15,6 +15,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -32,7 +36,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -50,7 +58,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -68,7 +80,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -87,6 +103,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -104,7 +124,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -112,7 +136,7 @@
     "category": "gps_modules",
     "name": "Lumenier SAM-M10Q GPS Module - NDAA",
     "manufacturer": "Lumenier",
-    "description": "This Lumenier GPS Module features an integrated UBLOX SAM-M10Q and magnetometer for precise positioning in a compact and lightweight design.",
+    "description": "This\u00a0Lumenier GPS Module features an integrated UBLOX SAM-M10Q and magnetometer for precise positioning in a compact and lightweight design.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/lumenier-sam-m10q-gps-module-ndaa.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-gps-module-v1.2-1.jpg",
     "size_class": "universal",
@@ -123,6 +147,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 29.99,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -140,7 +168,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -158,7 +190,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -176,7 +212,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14.99,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -184,7 +224,7 @@
     "category": "gps_modules",
     "name": "HGLRC M80 Pro GPS Module for FPV Drone Racing",
     "manufacturer": "HGLRC",
-    "description": "The HGLRC M80 PRO GPS Module comes with a QMC5883 chip to help identify the location of your drone quickly. Ideal for FPV racing drones!",
+    "description": "The\u00a0HGLRC M80 PRO GPS Module comes with a QMC5883 chip to help identify the location of your drone quickly. Ideal for FPV racing drones!",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-pro-gps-module-for-fpv-drone-racing.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc_m80_pro_gps_module_for_fpv_drone_4_.jpg",
     "size_class": "universal",
@@ -194,7 +234,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -212,7 +256,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -230,7 +278,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 24.99,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -248,7 +300,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -266,7 +322,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -284,7 +344,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -302,7 +366,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -320,7 +388,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -328,7 +400,7 @@
     "category": "gps_modules",
     "name": "HGLRC M80 GPS Module for FPV Drone Racing",
     "manufacturer": "HGLRC",
-    "description": "Get precise location data for your drone with the HGLRC M80 GPS Module!",
+    "description": "Get precise location data for your drone with the\u00a0HGLRC M80 GPS Module!",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-gps-module-for-fpv-drone-racing.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-m80-gps-for-fpv-racing-drone-162676_1001x.jpg",
     "size_class": "universal",
@@ -338,7 +410,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -356,7 +432,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -364,7 +444,7 @@
     "category": "gps_modules",
     "name": "iFlight BLITZ Mini M10 GPS V2",
     "manufacturer": "iFlight",
-    "description": "The newly upgraded iFlight BLITZ Mini M10 GPS V2  has arrived, offering faster and more stable satellite search with the 10th generation chipset.",
+    "description": "The newly upgraded iFlight BLITZ Mini M10 GPS V2 \u00a0has arrived, offering faster and more stable satellite search with the 10th generation chipset.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-blitz-mini-m10-gps-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-blitz-mini-m10-gps-v2-_image-1_.jpg",
     "size_class": "universal",
@@ -374,7 +454,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -392,7 +476,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -411,6 +499,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 9
     }
   },
   {
@@ -429,6 +521,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -446,7 +542,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -464,7 +564,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -483,6 +587,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -501,6 +609,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -518,7 +630,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -536,7 +652,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 12,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -554,7 +674,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -572,7 +696,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -590,7 +718,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 148,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -608,7 +740,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -626,7 +762,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 8
     }
   },
   {
@@ -644,7 +784,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -662,7 +806,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -680,7 +828,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -688,7 +840,7 @@
     "category": "gps_modules",
     "name": "Holybro Pixhawk 6C PM02 V3 + M9N GPS + Plastic Case",
     "manufacturer": "Holybro",
-    "description": "The Pixhawk® 6C is the latest update to the successful family of Pixhawk® flight controllers, based on the Pixhawk® FMUv6C Open Standard and Connector Standard.",
+    "description": "The\u00a0Pixhawk\u00ae 6C\u00a0is the latest update to the successful family of Pixhawk\u00ae flight controllers, based on the Pixhawk\u00ae FMUv6C Open Standard and Connector Standard.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm02-v3-m9n-gps-plastic-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-pixhawk-6c-pm02-_-m9n-gps-_-plastic-case_1_.jpg",
     "size_class": "universal",
@@ -698,7 +850,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -716,7 +872,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -734,7 +894,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 6
     }
   },
   {
@@ -752,7 +916,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -771,6 +939,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -788,7 +960,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -806,7 +982,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -824,7 +1004,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -842,7 +1026,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 3
     }
   },
   {
@@ -860,7 +1048,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -878,7 +1070,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -886,7 +1082,7 @@
     "category": "gps_modules",
     "name": "MATEKSYS AP Periph GNSS, M10-L4-3100 GPS Module",
     "manufacturer": "MatekSys",
-    "description": "The MATEKSYS AP Periph GNSS, M10-L4-3100 GPS is equipped with AP_Periph L431 CAN node, MAX-M10S, RM3100, SPL06-001, DroneCAN protocol & UART_MSP, and many other cool specs that make this GPS a winner in the wing game!",
+    "description": "The\u00a0MATEKSYS AP Periph GNSS, M10-L4-3100 GPS is equipped with AP_Periph L431 CAN node, MAX-M10S, RM3100, SPL06-001, DroneCAN protocol & UART_MSP, and many other cool specs that make this GPS a winner in the wing game!",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-ap-periph-gnss-m10-l4-3100-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys_ap_periph_gnss_m10-l4-3100_can_gps.jpg",
     "size_class": "universal",
@@ -896,7 +1092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -914,7 +1114,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -922,7 +1126,7 @@
     "category": "gps_modules",
     "name": "CUAV X7+ Standard Autopilot Flight Controller - PX4/APM",
     "manufacturer": "CUAV",
-    "description": "The X7+® Standard Autopilot Flight Controller is a high-performance autopilot. It is an ideal choice for industrial drones and large-scale heavy-duty drones. The X7+ features an H7 processor, an upgraded sensor with a redundancy design, a temperature compensation system, and a CORE separate design.",
+    "description": "The X7+\u00ae Standard Autopilot Flight Controller is a high-performance autopilot. It is an ideal choice for industrial drones and large-scale heavy-duty drones. The X7+ features an H7 processor, an upgraded sensor with a redundancy design, a temperature compensation system, and a CORE separate design.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cuav-x7_-standard-autopilot-flight-controller---px4apm-main.jpg",
     "size_class": "universal",
@@ -932,7 +1136,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -951,6 +1159,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -958,7 +1170,7 @@
     "category": "gps_modules",
     "name": "Matek Ap Periph Gnss M9N F4 3100 Can Gps",
     "manufacturer": "",
-    "description": "M9N-F4 series is based on ArudPilots’ AP_Periph firmware,  It is a GNSS+COMPASS+BAROMETER+IMU peripheral with CAN/UAVCAN and UART/MSP interfaces, plus 4x spare UARTs, 1x I2C expansion bus for additional peripherals.",
+    "description": "M9N-F4 series is based on ArudPilots\u2019 AP_Periph firmware,  It is a GNSS+COMPASS+BAROMETER+IMU peripheral with CAN/UAVCAN and UART/MSP interfaces, plus 4x spare UARTs, 1x I2C expansion bus for additional peripherals.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ap-periph-gnss-m9n-f4-3100-can-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/m/a/matek-ap_periph-gnss-m9n-f4-3100-can-gps.jpg",
     "size_class": "universal",
@@ -968,7 +1180,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -986,7 +1202,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1004,7 +1224,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -1023,6 +1247,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 12,
+    "schema_data": {
+      "weight_g": 7
     }
   },
   {
@@ -1040,7 +1268,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 18,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -1058,7 +1290,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -1076,7 +1312,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -1095,6 +1335,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -1113,6 +1357,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1130,7 +1378,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -1148,7 +1400,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -1166,7 +1422,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1184,7 +1444,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 20,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1202,7 +1466,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 19,
+    "schema_data": {
+      "weight_g": 5
     }
   },
   {
@@ -1220,7 +1488,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 2
     }
   },
   {
@@ -1238,7 +1510,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1246,7 +1522,7 @@
     "category": "gps_modules",
     "name": "CubePilot Here3+ CAN GNSS GPS Module w/ iStand",
     "manufacturer": "CubePilot",
-    "description": "The Here3+ GPS is a cost-efficient GNSS system that supports RTK mode with positioning accuracy down to centimeter-level in an ideal environment.",
+    "description": "The\u00a0Here3+ GPS is a cost-efficient GNSS system that supports RTK mode with positioning accuracy down to centimeter-level in an ideal environment.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here3-can-gnss-gps-module-w-istand.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-here3-can-gnss-gps-module-main-plus.jpg",
     "size_class": "universal",
@@ -1257,6 +1533,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -1274,7 +1554,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 16,
+    "schema_data": {
+      "weight_g": 4
     }
   },
   {
@@ -1292,7 +1576,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1311,6 +1599,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Australia)"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 1
     }
   },
   {
@@ -1328,7 +1620,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 13
     }
   }
 ]

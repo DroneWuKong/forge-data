@@ -1,0 +1,137 @@
+[
+  {
+    "pid": "DROP-UA-Carrier--FPV-v1.3",
+    "category": "payload_droppers",
+    "name": "FPV v1.3",
+    "manufacturer": "Carrier Electronics",
+    "country": "Ukraine",
+    "approx_price_usd": 17.93,
+    "approx_price_uah": 735.0,
+    "compatible_platform": "7-8 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "dropper",
+      "payload_release",
+      "delivery"
+    ],
+    "approx_price": 17.93
+  },
+  {
+    "pid": "DROP-UA-Carrier--FPV-v2.0",
+    "category": "payload_droppers",
+    "name": "FPV v2.0",
+    "manufacturer": "Carrier Electronics",
+    "country": "Ukraine",
+    "approx_price_usd": 36.59,
+    "approx_price_uah": 1500.0,
+    "compatible_platform": "9-10 \u0434\u044e\u0439\u043c\u0456\u0432",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "dropper",
+      "payload_release",
+      "delivery"
+    ],
+    "approx_price": 36.59
+  },
+  {
+    "pid": "DROP-UA-Carrier--One-v1.4-\u0434\u043b\u044f",
+    "category": "payload_droppers",
+    "name": "One v1.4 \u0434\u043b\u044f Mavic 3",
+    "manufacturer": "Carrier Electronics",
+    "country": "Ukraine",
+    "approx_price_usd": 23.17,
+    "approx_price_uah": 950.0,
+    "compatible_platform": "",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "dropper",
+      "payload_release",
+      "delivery"
+    ],
+    "approx_price": 23.17
+  },
+  {
+    "pid": "DROP-UA-Carrier--Two-v1.4-\u0434\u043b\u044f",
+    "category": "payload_droppers",
+    "name": "Two v1.4 \u0434\u043b\u044f Mavic 3",
+    "manufacturer": "Carrier Electronics",
+    "country": "Ukraine",
+    "approx_price_usd": 24.39,
+    "approx_price_uah": 1000.0,
+    "compatible_platform": "",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "dropper",
+      "payload_release",
+      "delivery"
+    ],
+    "approx_price": 24.39
+  },
+  {
+    "pid": "DROP-UA-LEADER-T-",
+    "category": "payload_droppers",
+    "name": "",
+    "manufacturer": "LEADER Tech",
+    "country": "Ukraine",
+    "approx_price_usd": 14.61,
+    "approx_price_uah": 599.0,
+    "compatible_platform": "",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "dropper",
+      "payload_release",
+      "delivery"
+    ],
+    "approx_price": 14.61
+  }
+]

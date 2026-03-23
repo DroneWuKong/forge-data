@@ -4,7 +4,7 @@
     "category": "stacks",
     "name": "HAKRC Flytower Stack - F722 F7230 V2 FC + 50A 2-6S BLHeli_S ESC - 30.5x30.5",
     "manufacturer": "HAKRC",
-    "description": "The HAKRC Flytower Stack is a powerful and professional-grade stack built for advanced FPV drone applications.",
+    "description": "The HAKRC Flytower Stack\u00a0is a powerful and professional-grade stack built for advanced FPV drone applications.",
     "link": "https://www.getfpv.com/electronics/stacks/hakrc-flytower-stack-f722-f7230-v2-fc-50a-2-6s-blheli-s-esc-30-5x30-5.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23922-6.jpg",
     "mcu_family": "F7",
@@ -50,7 +50,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69.99,
+    "schema_data": {
+      "weight_g": 20
     }
   },
   {
@@ -58,7 +62,7 @@
     "category": "stacks",
     "name": "HDZero Halo Stack - H743 ELRS FC (MPU6000) + 70A AM32 ESC - 20x20",
     "manufacturer": "HDZero",
-    "description": "The HDZero Halo Stack - H743 ELRS FC (MPU6000 Gyro) + 70A AM32 ESC - 20x20 combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero—leaders in high-performance digital FPV systems.",
+    "description": "The HDZero Halo Stack - H743 ELRS FC (MPU6000 Gyro) + 70A AM32 ESC - 20x20\u00a0combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero\u2014leaders in high-performance digital FPV systems.",
     "link": "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-mpu6000-70a-am32-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_halo_stack_-_h743_elrs_fc_icm42688_70a_blheli_32_esc_-_20x20_1_1.jpg",
     "mcu_family": "H7",
@@ -104,7 +108,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -112,7 +120,7 @@
     "category": "stacks",
     "name": "HDZero Halo Stack - H743 ELRS FC (ICM42688) + 70A BLHeli_32 ESC - 20x20",
     "manufacturer": "HDZero",
-    "description": "The HDZero Halo Stack - H743 ELRS FC (ICM42688) + 70A BLHeli_32 ESC - 20x20 combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero—leaders in high-performance digital FPV systems.",
+    "description": "The HDZero Halo Stack - H743 ELRS FC (ICM42688) + 70A BLHeli_32 ESC - 20x20\u00a0combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero\u2014leaders in high-performance digital FPV systems.",
     "link": "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-icm42688-70a-blheli-32-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_halo_stack_-_h743_elrs_fc_icm42688_70a_blheli_32_esc_-_20x20_1.jpg",
     "mcu_family": "H7",
@@ -158,7 +166,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -212,7 +224,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -266,7 +282,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 89.99,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -320,7 +340,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -374,7 +398,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -427,7 +455,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -435,7 +467,7 @@
     "category": "stacks",
     "name": "TBS Lucid Pro Stack - F4 FC + 60A 3-6S AM32 4-in-1 ESC - MPU6000 - Gorilla 39x16",
     "manufacturer": "Team BlackSheep",
-    "description": "The TBS Lucid Pro Stack designed for racing and freestyle, caters to both seasoned pilots and newcomers.",
+    "description": "The TBS Lucid Pro Stack\u00a0designed for racing and freestyle, caters to both seasoned pilots and newcomers.",
     "link": "https://www.getfpv.com/electronics/stacks/tbs-lucid-pro-stack-f4-fc-60a-3-6s-am-32-4-in-1-esc-mpu6000-gorilla-39x16.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-lucid-freestyle-stack---f4-fc-_-60a-3-6s-4-in-1-esc---icm42688p-_image-5_.jpg",
     "mcu_family": "F4",
@@ -482,6 +514,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -536,6 +572,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": "Allied nation (Hong Kong)"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -543,7 +583,7 @@
     "category": "stacks",
     "name": "Skystars Fly Stack - F722 Mini HD Pro FC + KM35 PRO 35A BLHeli_32 3-6S 4-in-1 ESC - 20x20 ",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Stack features an F722 Mini HD Pro Flight Controller and a Kramam PRO 35A BLHeli_32 4-i-n1 ESC with a 20x20 mounting pattern!",
+    "description": "The\u00a0SkyStars Fly Stack features an F722 Mini HD Pro Flight Controller and a Kramam PRO 35A BLHeli_32 4-i-n1 ESC with a 20x20 mounting pattern!",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-mini-hd-pro-fc-km35-pro-35a-blheli-32-3-6s-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/img_0132.jpg",
     "mcu_family": "F7",
@@ -589,7 +629,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -643,7 +687,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -697,7 +745,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 19
     }
   },
   {
@@ -751,7 +803,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -759,7 +815,7 @@
     "category": "stacks",
     "name": "Flywoo GOKU Stack - F722 FC (ICM42688) + 55A AM32 2-6S ESC - 30x30",
     "manufacturer": "Flywoo",
-    "description": "The new GOKU Pro V2 F722 AM32 55A BLS Stack from FLYWOO offers a compact size, high-performance main control, and multiple motor outputs.",
+    "description": "The new GOKU Pro V2 F722 AM32 55A BLS Stack\u00a0from FLYWOO offers a compact size, high-performance main control, and multiple motor outputs.",
     "link": "https://www.getfpv.com/electronics/stacks/flywoo-goku-stack-f722-fc-icm42688-55a-2-6s-esc-30x30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-f722-pro-v2-50a-bls-stack-_image-1_.jpg",
     "mcu_family": "F7",
@@ -805,7 +861,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 19
     }
   },
   {
@@ -813,7 +873,7 @@
     "category": "stacks",
     "name": "iFlight BLITZ Stack - F7 V1.2 FC + E55 4-in-1 55A ESC",
     "manufacturer": "iFlight",
-    "description": "The iFlight BLITZ F7 Stack features an F7 V1.2 Flight Controller and an E55 4-in-1 55A ESC. The V1.1 FC now has a new gyro, improved circuit design, better components, and a lower noise level!",
+    "description": "The\u00a0iFlight BLITZ F7 Stack features an F7 V1.2 Flight Controller and an E55 4-in-1 55A ESC. The V1.1 FC now has a new gyro, improved circuit design, better components, and a lower noise level!",
     "link": "https://www.getfpv.com/electronics/stacks/iflight-blitz-stack-f7-v1-2-fc-e55-4-in-1-55a-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-blitz-f7-v1_2_.jpg",
     "mcu_family": "F7",
@@ -858,7 +918,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -912,7 +976,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -920,7 +988,7 @@
     "category": "stacks",
     "name": "Iflight Borg 5S 60R Stack F4 Flight Controller 60A 3 8S Bl32 4 In 1 Esc 20X20",
     "manufacturer": "",
-    "description": "The iFlight Borg 5S 60R Stack is built for serious FPV racers, combining a high-performance Borg 5S RX F4 Flight Controller with the powerful Borg 60R 60A 4-in-1 ESC in a compact 20×20 form factor—perfect for modern 5\" racing drones.",
+    "description": "The iFlight Borg 5S 60R Stack is built for serious FPV racers, combining a high-performance Borg 5S RX F4 Flight Controller with the powerful Borg 60R 60A 4-in-1 ESC in a compact 20\u00d720 form factor\u2014perfect for modern 5\" racing drones.",
     "link": "https://www.getfpv.com/electronics/stacks/iflight-borg-5s-60r-stack-f4-flight-controller-60a-3-8s-bl32-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/i/f/iflight-borg-5s-60r-stack---f4-flight-controller-_-60a-3-8s-bl32-4-in-1-esc---20x20-_image-1_.jpg",
     "mcu_family": "F4",
@@ -966,7 +1034,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -974,7 +1046,7 @@
     "category": "stacks",
     "name": "iFlight Borg Stack - 5S RX F4 FC + 60RS 60A 4-in-1 BLHeli_32 4-8S ESC - 20X20",
     "manufacturer": "iFlight",
-    "description": "The iFlight Borg Stack - 5S RX FC + 60RS 4-IN-1 ESC is built for serious FPV racers, combining a high-performance Borg 5S RX F4 Flight Controller with the powerful Borg 60RS 60A 4-in-1 ESC in a compact 20×20 form factor.",
+    "description": "The iFlight Borg Stack - 5S RX FC + 60RS 4-IN-1 ESC is built for serious FPV racers, combining a high-performance Borg 5S RX F4 Flight Controller with the powerful Borg 60RS 60A 4-in-1 ESC in a compact 20\u00d720 form factor.",
     "link": "https://www.getfpv.com/electronics/stacks/iflight-borg-stack-5s-rx-f4-fc-60rs-60a-4-in-1-blheli-32-4-8s-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/2/3/23085-1_1.jpg",
     "mcu_family": "F4",
@@ -1020,7 +1092,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -1074,7 +1150,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -1128,7 +1208,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -1182,7 +1266,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -1236,7 +1324,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -1291,6 +1383,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 29
     }
   },
   {
@@ -1298,7 +1394,7 @@
     "category": "stacks",
     "name": "SkyStars Fly Stack - F722 HD Pro FC + KM40 Pro 40A BLHeli_32 ESC - Mini 20x20",
     "manufacturer": "SkyStars",
-    "description": "This SkyStars Fly Stack - F722 HD Pro FC and  KM40 Pro 40A ESC is a powerful 3-6S 20x20 stack with superior electronics.",
+    "description": "This SkyStars Fly Stack - F722 HD Pro FC and \u00a0KM40 Pro 40A ESC is a powerful 3-6S 20x20 stack with superior electronics.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-fc-km40-pro-40a-blheli-32-esc-mini-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars_fly_stack_-_f722_hd_pro_fc_km40_pro_40a_blheli_32_esc_mini_1.jpg",
     "mcu_family": "F7",
@@ -1344,7 +1440,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -1352,7 +1452,7 @@
     "category": "stacks",
     "name": "HDZero Halo Stack - H743 ELRS FC (MPU6000) + 70A BLHeli_32 ESC - 20x20",
     "manufacturer": "HDZero",
-    "description": "The HDZero Halo Stack - H743 ELRS FC (MPU6000 Gyro) + 70A BLHeli_32 ESC - 20x20 combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero—leaders in high-performance digital FPV systems.",
+    "description": "The HDZero Halo Stack - H743 ELRS FC (MPU6000 Gyro) + 70A BLHeli_32 ESC - 20x20\u00a0combines the Halo Flight Controller and Halo 4in1 70A ESC into a race-ready powertrain, engineered by HDZero\u2014leaders in high-performance digital FPV systems.",
     "link": "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-mpu6000-70a-blheli-32-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_halo_stack_-_h743_elrs_fc_icm42688_70a_blheli_32_esc_-_20x20_1_2.jpg",
     "mcu_family": "H7",
@@ -1398,7 +1498,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -1453,6 +1557,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 54,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -1506,7 +1614,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -1560,7 +1672,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -1614,7 +1730,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -1667,7 +1787,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -1675,7 +1799,7 @@
     "category": "stacks",
     "name": "DarwinFPV Stack - F411 FC + 30A 3-6S 4-in-1 ESC",
     "manufacturer": "DarwinFPV",
-    "description": "The DarwinFPV Stack - F411 FC + 30A 3-6S 4-in-1 ESC  is currently the cheapest stack in the FPV world, designed to reduce the budget of entry-level FPV drones as much as possible.",
+    "description": "The DarwinFPV Stack - F411 FC + 30A 3-6S 4-in-1 ESC \u00a0is currently the cheapest stack in the FPV world, designed to reduce the budget of entry-level FPV drones as much as possible.",
     "link": "https://www.getfpv.com/electronics/stacks/darwinfpv-stack-f411-fc-30a-3-6s-4-in-1-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/a/darwinfpv-stack-f411-30a-3-4s-_image-4_1_.jpg",
     "mcu_family": "F4",
@@ -1721,7 +1845,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -1775,7 +1903,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -1829,7 +1961,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -1883,7 +2019,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -1891,7 +2031,7 @@
     "category": "stacks",
     "name": "Diatone Mamba Mini Stack - MK4 F722 APP FC (MPU6000) + 40A 3-6S BLHeli_32 128K ESC - 20x20",
     "manufacturer": "Diatone",
-    "description": "The Diatone Mamba Mini Stack - MK4 F722 APP FC (MPU6000) + 40A 3-6S BLHeli_32 128K ESC - 20x20 brings a new design scheme, with an easier-to-use flight controller. This 4th generation flight controller features very large pads, synchronous rectifying BEC, and MPU6000 Gyro to name a few.",
+    "description": "The Diatone Mamba Mini Stack - MK4 F722 APP FC\u00a0(MPU6000)\u00a0+ 40A 3-6S BLHeli_32 128K ESC - 20x20 brings a new design scheme, with an easier-to-use flight controller. This 4th generation flight controller features very large pads, synchronous rectifying BEC, and MPU6000 Gyro to name a few.",
     "link": "https://www.getfpv.com/electronics/stacks/diatone-mamba-mini-stack-mk4-f722-app-fc-40a-3-6s-blheli-32-128k-esc-mpu6000-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_mini_stack_-_mk4_f722_app_fc_45a_55a_65a_3-6s_blheli_32_128k_esc_mpu6000_-_20x20_1_1.jpg",
     "mcu_family": "F7",
@@ -1937,7 +2077,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -1991,7 +2135,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -2045,7 +2193,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -2099,7 +2251,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -2107,7 +2263,7 @@
     "category": "stacks",
     "name": "Diatone Mamba Stack - MK4 F722 APP FC + 55A 3-6S BHeli_32 128K ESC (MPU6000)",
     "manufacturer": "Diatone",
-    "description": "The Diatone Mamba Stack - MK4 F722 APP FC + 55A 3-6S BHeli_32 128K ESC (MPU6000) brings a new design scheme, with an easier-to-use flight controller. This 4th generation flight controller features very large pads, synchronous rectifying BEC, and BMI270 Gyro to name a few.",
+    "description": "The Diatone Mamba Stack - MK4 F722 APP FC + 55A 3-6S BHeli_32 128K ESC (MPU6000)\u00a0brings a new design scheme, with an easier-to-use flight controller. This 4th generation flight controller features very large pads, synchronous rectifying BEC, and BMI270 Gyro to name a few.",
     "link": "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-55a-3-6s-bheli-32-128k-esc-mpu6000.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mk4_stack_-_mk4_f722_app_fc_55a_3-6s_esc_mpu6000_1.jpg",
     "mcu_family": "F7",
@@ -2153,7 +2309,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -2207,7 +2367,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -2257,7 +2421,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -2311,7 +2479,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -2365,7 +2537,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -2373,7 +2549,7 @@
     "category": "stacks",
     "name": "Skystars Fly Stack - H743 Single Gyro HD FC + KO60 60A BLHeli_32 4-in-1 ESC - 30x30 ",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Stack features a H743 Single Gyro HD Flight Controller and a KO60 BLHeli_32 4-in-1 ESC with a 30x30 mounting pattern.",
+    "description": "The\u00a0SkyStars Fly Stack features a H743 Single Gyro HD Flight Controller and a KO60 BLHeli_32 4-in-1 ESC with a 30x30 mounting pattern.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-h743-single-gyro-hd-fc-ko60-60a-blheli-32-4-in-1-esc-30x30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/7/h743-ko60-flystack-5_1.jpg",
     "mcu_family": "H7",
@@ -2419,7 +2595,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -2427,7 +2607,7 @@
     "category": "stacks",
     "name": "Skystars Fly Stack - F411 Mini HD FC + KO25 25A BLHeli_S 3-6S 4-in-1 ESC - 20x20",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Stack features a F411 Mini HD Flight Controller and a Kramam 25A BLHeli_S 3-6S 4-in-1 ESC with a 20x20 mounting pattern.",
+    "description": "The\u00a0SkyStars Fly Stack features a F411 Mini HD Flight Controller and a Kramam 25A BLHeli_S 3-6S 4-in-1 ESC with a 20x20 mounting pattern.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f411-mini-hd-fc-ko25-25a-blheli-s-3-6s-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/4/f411mini-hd-20x20-fc-ko40-2.jpg",
     "mcu_family": "F4",
@@ -2473,7 +2653,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -2481,7 +2665,7 @@
     "category": "stacks",
     "name": "RUSHFPV RUSH BLADE Stack - F722 DJI FC + 60A 3-6S BLHeli_32 128K Extreme Edition ESC",
     "manufacturer": "General",
-    "description": "The RUSH BLADE F722 Stack for the DJI Digital FPV System features the RUSH BLADE F722 Digital Flight Controller and RUSH BLADE 60A 3-6S BLHeli_32 4-in-1 ESC (Extreme Edition).",
+    "description": "The\u00a0RUSH BLADE F722 Stack for the DJI Digital FPV System features the RUSH BLADE F722 Digital Flight Controller and RUSH BLADE 60A 3-6S BLHeli_32 4-in-1 ESC (Extreme Edition).",
     "link": "https://www.getfpv.com/electronics/stacks/rushfpv-rush-blade-stack-f722-dji-fc-60a-3-6s-blheli-32-128k-extreme-edition-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/rushfpv_rush_blade_stack_-_f722_dji_fc_60a_extreme_edition_esc_1_.jpg",
     "mcu_family": "F7",
@@ -2527,7 +2711,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -2535,7 +2723,7 @@
     "category": "stacks",
     "name": "T-Motor VELOX F7 HD Stack - F7 HD FC + V45A V2 ESC",
     "manufacturer": "Tiger Motors",
-    "description": "The T-Motor VELOX F7 HD Stack comes with the F7 HD FC and a V45A V2 ESC.",
+    "description": "The\u00a0T-Motor VELOX F7 HD Stack\u00a0comes with the F7 HD FC and a V45A V2 ESC.",
     "link": "https://www.getfpv.com/electronics/stacks/t-motor-velox-f7-hd-stack-f7-hd-fc-v45a-v2-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-velox-f7-hd-stack---f7-hd-fc-_-v45a-esc-main.jpg",
     "mcu_family": "F7",
@@ -2581,7 +2769,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -2635,7 +2827,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -2689,7 +2885,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 15
     }
   },
   {
@@ -2743,7 +2943,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 22
     }
   },
   {
@@ -2797,7 +3001,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -2851,7 +3059,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -2905,7 +3117,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -2959,7 +3175,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -3013,7 +3233,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 19
     }
   },
   {
@@ -3021,7 +3245,7 @@
     "category": "stacks",
     "name": "SkyStars Fly Tower Stack - F722 HD Pro2 FC + KM50 Pro 50A 3-6S 4-in-1 BLHeli_32 ESC - 30x30",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Tower Stack features an F722 HD Pro2 Flight Controller and a KM50 Pro 50A 3-6S 4-in-1 BLHeli_32 ESC with a 30x30  mounting pattern.",
+    "description": "The\u00a0SkyStars Fly Tower Stack\u00a0features an F722 HD Pro2 Flight Controller and a KM50 Pro 50A 3-6S 4-in-1 BLHeli_32 ESC with a 30x30\u00a0 mounting pattern.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-stack-f722-hd-pro2-fc-km50-pro-50a-3-6s-4-in-1-blheli-32-esc-30x30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars-fly-tower-stack---f722-hd-pro2-fc-_-km50-pro-50a-3-6s-4-in-1-blheli_32-esc---30x30_main.jpg",
     "mcu_family": "F7",
@@ -3067,7 +3291,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 19
     }
   },
   {
@@ -3075,7 +3303,7 @@
     "category": "stacks",
     "name": "Diatone Mamba Stack - DJI F405 MK2 FC + F55 55A 128K ESC",
     "manufacturer": "Diatone",
-    "description": "The Diatone Mamba DJI F405 MK2 FC 55A Stack brings BIG power all in a 30.5x30.5 mounting size! This stack can push 55A all while bringing you the latest features! This stack includes the 128K version ESC. The built-in plugin allows you to easily connect to the DJI FPV Air System.",
+    "description": "The\u00a0Diatone Mamba DJI F405 MK2 FC 55A\u00a0Stack\u00a0brings BIG power all in a 30.5x30.5 mounting size! This stack can push 55A all while bringing you the latest features! This stack includes the\u00a0128K\u00a0version ESC.\u00a0The built-in plugin allows you to easily connect to the\u00a0DJI FPV Air System.",
     "link": "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-dji-f405-mk2-fc-f55-55a-128k-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_sack_dji_f405_55a_128k_escdji-mamba-stack-f405-55a-128k-front-low_res-width-1000px.jpg",
     "mcu_family": "F4",
@@ -3121,7 +3349,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -3129,7 +3361,7 @@
     "category": "stacks",
     "name": "Holybro Kakute H7 BT Stack - Tekko32 F4 50A BLHeli32 4-in-1 ESC + Atlatl HV V2 ",
     "manufacturer": "Holybro",
-    "description": "The Mini Kakute H7 BT Stack by Holybro comes with the Kakute H7 FC, Tekko32 F4 4-in-1 ESC (50A), and the Atlatl HV V2 VTX. Holybro is saving you time and guesswork by making this powerful stack that will give you max performance and great video quality!",
+    "description": "The Mini Kakute H7 BT Stack by Holybro comes with the Kakute H7 FC, Tekko32 F4 4-in-1 ESC (50A), and the\u00a0Atlatl HV V2 VTX. Holybro is saving you time and guesswork by making this powerful stack that will give you max performance and great video quality!",
     "link": "https://www.getfpv.com/electronics/stacks/holybro-kakute-h7-bt-stack-tekko32-f4-50a-blheli32-4-in-1-esc-atlatl-hv-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro_kakute_h7_bt_stack_atlantl_hv_v2_1.jpg",
     "mcu_family": "H7",
@@ -3173,7 +3405,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -3225,7 +3461,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 10
     }
   },
   {
@@ -3233,7 +3473,7 @@
     "category": "stacks",
     "name": "Holybro Kakute H7 BT Stack - Tekko32 F4 Metal 65A 4-in-1 ESC + AtlatI HV V2 ",
     "manufacturer": "Holybro",
-    "description": "The Mini Kakute H7 BT Stack by Holybro comes with the Kakute H7 FC, Tekko32 F4 Metal 4-in-1 ESC (65A), and the Atlatl HV V2 VTX. Holybro is saving you time and guesswork by making this powerful stack that will give you max performance and great video quality!",
+    "description": "The Mini Kakute H7 BT Stack by Holybro comes with the Kakute H7 FC, Tekko32 F4 Metal 4-in-1 ESC (65A), and the\u00a0Atlatl HV V2 VTX. Holybro is saving you time and guesswork by making this powerful stack that will give you max performance and great video quality!",
     "link": "https://www.getfpv.com/electronics/stacks/holybro-kakute-h7-bt-stack-tekko32-f4-metal-65a-4-in-1-esc-atlati-hv-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-tekko32-f4-65a-metal-h7-fc.jpeg",
     "mcu_family": "H7",
@@ -3277,7 +3517,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 13
     }
   },
   {
@@ -3331,7 +3575,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -3385,7 +3633,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -3439,7 +3691,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 64,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -3493,7 +3749,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -3544,7 +3804,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -3595,7 +3859,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 18
     }
   },
   {
@@ -3647,7 +3915,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -3655,7 +3927,7 @@
     "category": "stacks",
     "name": "iFlight SucceX-E Mini F7 Stack + 35A 2-6S BLHeliS 4-in-1 ESC (MPU6000)",
     "manufacturer": "iFlight",
-    "description": "This stack is plug and play - meaning that no soldering is needed. You can plug this stack into your Caddx Vista, analog VTX and it comes with a universal receiver plug!",
+    "description": "This stack is plug and play - meaning that no soldering is needed. You can plug this stack into your\u00a0Caddx Vista, analog VTX and it comes with a universal receiver plug!",
     "link": "https://www.getfpv.com/electronics/stacks/iflight-succex-e-mini-f7-stack-35a-2-6s-blhelis-4-in-1-esc-mpu6000.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/u/succex-e-mini-f7-35a-esc_3_-1000x1000.jpg",
     "mcu_family": "F7",
@@ -3701,7 +3973,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -3755,7 +4031,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -3763,7 +4043,7 @@
     "category": "stacks",
     "name": "SkyStars F7 HD 20X20 + KM55A Mini 3-6S BLHeli_32 4-in-1 ESC Stack ",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars F7 HD 20X20 Fly Stack comes with the SkyStars F7 3-6S 20x20 HD Flight Controller and  KM55A Mini 3-6S BLHeli_32 4-in-1 ESC, to give your multirotor full power!",
+    "description": "The\u00a0SkyStars F7 HD 20X20 Fly Stack comes with the\u00a0SkyStars F7 3-6S 20x20 HD Flight\u00a0Controller\u00a0and\u00a0\u00a0KM55A Mini 3-6S BLHeli_32 4-in-1 ESC, to give your multirotor full power!",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-f7-hd-20x20-km55a-mini-3-6s-blheli-32-4-in-1-esc-stack.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars_f7_hd_20x20_fly_stack.jpg",
     "mcu_family": "F7",
@@ -3808,7 +4088,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 18
     }
   },
   {
@@ -3816,7 +4100,7 @@
     "category": "stacks",
     "name": "SkyStars Fly Tower Mini Stack - F7 HD FC+ KM40 40A 3-6S BLHeli_32 4-in-1 ESC - 20x20",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars F7 HD 20X20 Fly Stack comes with the SkyStars F7 3-6S 20x20 HD Flight Controller and  KM40 40A Mini 3-6S BLHeli_32 4-in-1 ESC, to give your multirotor full power!",
+    "description": "The\u00a0SkyStars F7 HD 20X20 Fly Stack comes with the\u00a0SkyStars F7 3-6S 20x20 HD Flight Controller\u00a0and\u00a0\u00a0KM40 40A Mini 3-6S BLHeli_32 4-in-1 ESC, to give your multirotor full power!",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-mini-stack-f7-hd-fc-km40-40a-3-6s-blheli-32-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars-f7-hd-20x20-_-km40a-mini-3-6s-blheli_32-4-in-1-esc-stack.jpg",
     "mcu_family": "F7",
@@ -3862,15 +4146,19 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
     "pid": "STK-1075",
     "category": "stacks",
-    "name": "RushFPV RUSH BLADE F722 FC & 50A 30x30 & RUSH Tank Ⅱ VTX & RUSH PFB Stack/Combo",
+    "name": "RushFPV RUSH BLADE F722 FC & 50A 30x30 & RUSH Tank \u2161 VTX & RUSH PFB Stack/Combo",
     "manufacturer": "RUSHFPV",
-    "description": "The RUSH BLADE F722 Stack for analog by RUSHFPV features the RUSH TANK II 5.8GHz VTX, RUSH BLADE F722 Flight Controller, RUSH BLADE 50A 3-6S BLHeli_32 4-in-1 ESC (Sports Edition), and the RUSH Power Filter Board (PFB), which can handle up to 6S input voltage and push your FPV racer to the max.",
+    "description": "The RUSH BLADE F722 Stack for analog\u00a0by RUSHFPV features the\u00a0RUSH TANK II 5.8GHz VTX,\u00a0RUSH BLADE F722 Flight Controller,\u00a0RUSH BLADE 50A 3-6S BLHeli_32 4-in-1 ESC (Sports Edition), and the\u00a0RUSH Power Filter Board (PFB),\u00a0which can handle up to 6S input voltage and push your FPV racer to the max.",
     "link": "https://www.getfpv.com/electronics/stacks/rushfpv-rush-blade-f722-fc-50a-30x30-rush-tank-vtx-rush-pfb-stack-combo.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/rushfpv-rush-tank-ii-vtx-stack---blade-f722-flight-controller-_-50a-3-6s-blheli_32-4-in-1-esc-for-analog.jpg",
     "mcu_family": "F7",
@@ -3916,7 +4204,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 21
     }
   },
   {
@@ -3971,6 +4263,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -4024,7 +4320,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -4075,7 +4375,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 24
     }
   },
   {
@@ -4129,7 +4433,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 26
     }
   },
   {
@@ -4137,7 +4445,7 @@
     "category": "stacks",
     "name": "T-Motor F7 Stack - F7 FC + F55A PRO II 3-6S 4-in-1 ESC",
     "manufacturer": "Tiger Motors",
-    "description": "T-Motor's powerful F7 Flight Controller combined with the F55A Pro II 3-6S 4-in-1 ESC will give you optimized performance and seamless integration in your electronics stack.",
+    "description": "T-Motor's powerful F7 Flight Controller\u00a0combined with the F55A Pro II 3-6S 4-in-1 ESC\u00a0will give you optimized performance and seamless integration in your electronics stack.",
     "link": "https://www.getfpv.com/electronics/stacks/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0380_1.jpg",
     "mcu_family": "F7",
@@ -4183,7 +4491,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 18
     }
   },
   {
@@ -4237,6 +4549,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -4290,6 +4606,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -4297,7 +4617,7 @@
     "category": "stacks",
     "name": "Skystars Fly Stack - F722 Mini HD Pro FC + KM55 55A AM32 3-6S 4-in-1 ESC - 20x20 ",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Stack features an F722 Mini HD Pro Flight Controller and a Kramam 55A AM32 32Bit 3-6S 20×20 4-i-n1 ESC with a 20x20 mounting pattern.",
+    "description": "The SkyStars Fly Stack features an F722 Mini HD Pro Flight Controller and a Kramam 55A AM32 32Bit 3-6S 20\u00d720 4-i-n1 ESC with a 20x20 mounting pattern.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f7-hd-mini-pro-fc-km55-55a-am-32-3-6s-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars-f7-hd-pro-am32-55a-6.jpg",
     "mcu_family": "F7",
@@ -4343,7 +4663,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 67,
+    "schema_data": {
+      "weight_g": 27
     }
   },
   {
@@ -4397,7 +4721,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -4405,7 +4733,7 @@
     "category": "stacks",
     "name": "Skystars Fly Stack - H743 Dual Gyro HD FC + KM60 60A BLHeli_32 4-in-1 ESC - 30x30",
     "manufacturer": "SkyStars",
-    "description": "The SkyStars Fly Stack features a H743 Dual Gyro HD Flight Controller and a Kramam 60A BLHeli_32 4-in-1 ESC with a 30x30 mounting pattern.",
+    "description": "The\u00a0SkyStars Fly Stack features a H743 Dual Gyro HD Flight Controller and a Kramam 60A BLHeli_32 4-in-1 ESC with a 30x30 mounting pattern.",
     "link": "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-h743-dual-gyro-hd-fc-km60-60a-blheli-32-4-in-1-esc-30x30.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/7/h743-ko60-flystack-5.jpg",
     "mcu_family": "H7",
@@ -4451,7 +4779,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 19
     }
   },
   {
@@ -4505,7 +4837,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 63,
+    "schema_data": {
+      "weight_g": 12
     }
   },
   {
@@ -4513,7 +4849,7 @@
     "category": "stacks",
     "name": "GEPRC TAKER Stack - F405 FC+ 50A 3-6S BLHeli_S ESC",
     "manufacturer": "GEPRC",
-    "description": "The GEPRC TAKER Stack - F405 FC+ 50A 3-6S BLHeli_S ESC is a plug-and-play system designed for the DJI Air Unit.",
+    "description": "The GEPRC TAKER Stack - F405 FC+ 50A 3-6S BLHeli_S ESC\u00a0is a plug-and-play system designed for the DJI Air Unit.",
     "link": "https://www.getfpv.com/electronics/stacks/geprc-taker-stack-f405-fc-50a-3-6s-blheli-s-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-taker-stack---f405-_-bls-50a-_image-1_.jpg",
     "mcu_family": "F4",
@@ -4559,7 +4895,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 18
     }
   },
   {
@@ -4613,7 +4953,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -4621,7 +4965,7 @@
     "category": "stacks",
     "name": "NewBeeDrone Hummingbird 200 RaceSpec Stack - F4 ELRS FC + 80A AM32 ESC - 20x20",
     "manufacturer": "NewBeeDrone",
-    "description": "The NewBeeDrone Hummingbird 200 RaceSpec Stack - F4 ELRS FC + 80A AM32 ESC -  is a purpose-built 20x20 flight stack designed from the ground up for competitive 5” FPV racing.",
+    "description": "The NewBeeDrone Hummingbird 200 RaceSpec Stack - F4 ELRS FC + 80A AM32 ESC -\u00a0 is a purpose-built 20x20 flight stack designed from the ground up for competitive 5\u201d FPV racing.",
     "link": "https://www.getfpv.com/electronics/stacks/newbeedrone-hummingbird-200-racespec-stack-f4-elrs-fc-80a-am32-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone_hummingbird_200_racespec_stack_1.jpg",
     "mcu_family": "F4",
@@ -4668,6 +5012,10 @@
       "ndaa_compliant": true,
       "combat_proven": false,
       "note": ""
+    },
+    "approx_price": 69,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -4721,7 +5069,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -4774,7 +5126,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 65,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -4828,7 +5184,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -4882,7 +5242,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 28
     }
   },
   {
@@ -4936,7 +5300,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 11
     }
   },
   {
@@ -4989,7 +5357,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 60,
+    "schema_data": {
+      "weight_g": 25
     }
   },
   {
@@ -5043,7 +5415,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 23
     }
   },
   {
@@ -5097,7 +5473,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 68,
+    "schema_data": {
+      "weight_g": 14
     }
   },
   {
@@ -5151,7 +5531,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 61,
+    "schema_data": {
+      "weight_g": 16
     }
   },
   {
@@ -5205,7 +5589,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 17
     }
   },
   {
@@ -5259,7 +5647,11 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 66,
+    "schema_data": {
+      "weight_g": 18
     }
   },
   {
@@ -5313,7 +5705,555 @@
       "blue_uas": false,
       "ndaa_compliant": false,
       "combat_proven": false,
-      "note": "Chinese manufacture — NOT NDAA"
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 62,
+    "schema_data": {
+      "weight_g": 19
     }
+  },
+  {
+    "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v2",
+    "category": "stacks",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v2",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 62.93,
+    "approx_price_uah": 2580.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 62.93
+  },
+  {
+    "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
+    "category": "stacks",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v3",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 65.12,
+    "approx_price_uah": 2670.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 65.12
+  },
+  {
+    "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1.",
+    "category": "stacks",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v1.3",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 53.66,
+    "approx_price_uah": 2200.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 53.66
+  },
+  {
+    "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1",
+    "category": "stacks",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v1",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 47.56,
+    "approx_price_uah": 1950.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 47.56
+  },
+  {
+    "pid": "STK-UA-VYRIY-F405V2-50A",
+    "category": "stacks",
+    "name": "F405V2 50A",
+    "manufacturer": "VYRIY",
+    "country": "Ukraine",
+    "approx_price_usd": 56.51,
+    "approx_price_uah": 2317.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 56.51
+  },
+  {
+    "pid": "STK-UA-Flytex-Fuzia-F405-+",
+    "category": "stacks",
+    "name": "Fuzia F405 + ESC 65A",
+    "manufacturer": "Flytex",
+    "country": "Ukraine",
+    "approx_price_usd": 58.54,
+    "approx_price_uah": 2400.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 58.54
+  },
+  {
+    "pid": "STK-UA-Flytex-Furia-12S-H7",
+    "category": "stacks",
+    "name": "Furia 12S H743 WING KIT",
+    "manufacturer": "Flytex",
+    "country": "Ukraine",
+    "approx_price_usd": 78.05,
+    "approx_price_uah": 3200.0,
+    "size_class": "fixed_wing",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "fixed_wing"
+    ],
+    "approx_price": 78.05
+  },
+  {
+    "pid": "STK-UA-Karma-Fl-F405-V1",
+    "category": "stacks",
+    "name": "F405 V1",
+    "manufacturer": "Karma Flights",
+    "country": "Ukraine",
+    "approx_price_usd": 70.73,
+    "approx_price_uah": 2900.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 70.73
+  },
+  {
+    "pid": "STK-UA-XRush4-F4V2",
+    "category": "stacks",
+    "name": "F4V2",
+    "manufacturer": "XRush4",
+    "country": "Ukraine",
+    "approx_price_usd": 54.88,
+    "approx_price_uah": 2250.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 54.88
+  },
+  {
+    "pid": "STK-UA-XRush4-F4V3",
+    "category": "stacks",
+    "name": "F4V3",
+    "manufacturer": "XRush4",
+    "country": "Ukraine",
+    "approx_price_usd": 65.85,
+    "approx_price_uah": 2700.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 65.85
+  },
+  {
+    "pid": "STK-UA-DiFly-DiFly-F405-+",
+    "category": "stacks",
+    "name": "DiFly F405 + ESC 50A",
+    "manufacturer": "DiFly",
+    "country": "Ukraine",
+    "approx_price_usd": 48.78,
+    "approx_price_uah": 2000.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "7_inch"
+    ],
+    "approx_price": 48.78
+  },
+  {
+    "pid": "STK-UA-KaraFPV-Golden-F405-",
+    "category": "stacks",
+    "name": "Golden F405 + 65A ESC 3-8S",
+    "manufacturer": "KaraFPV",
+    "country": "Ukraine",
+    "approx_price_usd": 68.78,
+    "approx_price_uah": 2820.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 68.78
+  },
+  {
+    "pid": "STK-UA-KaraFPV-Golden-F722-",
+    "category": "stacks",
+    "name": "Golden F722 + 80A ESC 3-8S (F722 + 80A)",
+    "manufacturer": "KaraFPV",
+    "country": "Ukraine",
+    "approx_price_usd": 93.78,
+    "approx_price_uah": 3845.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "heavy_lift"
+    ],
+    "approx_price": 93.78
+  },
+  {
+    "pid": "STK-UA-Stingbee-Stellar-Stac",
+    "category": "stacks",
+    "name": "Stellar Stack F4V2 + ESC",
+    "manufacturer": "Stingbee",
+    "country": "Ukraine",
+    "approx_price_usd": 64.63,
+    "approx_price_uah": 2650.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "10_inch"
+    ],
+    "approx_price": 64.63
+  },
+  {
+    "pid": "STK-UA-SkyPulse-F405-+-ESC-A",
+    "category": "stacks",
+    "name": "F405 + ESC AM32 80A 8S",
+    "manufacturer": "SkyPulse",
+    "country": "Ukraine",
+    "approx_price_usd": 45.54,
+    "approx_price_uah": 1867.0,
+    "size_class": "heavy_lift",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "stack",
+      "heavy_lift"
+    ],
+    "approx_price": 45.54
+  },
+  {
+    "pid": "STK-1102",
+    "category": "stacks",
+    "name": "Orqa DTK APB \u2014 FC + Companion Computer (i.MX8M Plus + STM32H743)",
+    "manufacturer": "Orqa",
+    "description": "Single-board flight computer combining an STM32H743 flight controller with an NXP i.MX8M Plus companion computer (4x Cortex-A53 + Cortex-M7). Dual MIPI-CSI camera inputs (digital + analog via ADV7282 CVBS decoder), 2.25 TOPS NPU for on-board AI, H.265/H.264 1080p60 hardware encoder, ORQA OSD engine (max7456 emulation over I2C), PCIe expansion, CAN bus, GPIO-switched UART routing, USB 3.0, and runs Orqa Yocto Linux BSP. Designed for FPV, autonomous robotics, and hybrid smart drone applications. Part of the DTK ecosystem.",
+    "link": "https://developer.orqafpv.com/index.php/code-on-apb/",
+    "image_file": null,
+    "mcu_family": "H7",
+    "mcu": "STM32H743",
+    "soc": "NXP i.MX8M Plus",
+    "soc_cpu": "4x Cortex-A53 @ 1.8GHz + Cortex-M7",
+    "npu_tops": 2.25,
+    "gpu": "3D + 2D GPU",
+    "video_encoder": "H.265 / H.264 1080p @ 60fps",
+    "ram": "4GB LPDDR4",
+    "emmc": "4GB",
+    "sd_card": "Up to 512GB micro-SD (SD 3.0)",
+    "imu": "ICM42605",
+    "barometer": "DPS310",
+    "camera_inputs": [
+      {
+        "port": "CSI 1",
+        "type": "4-lane MIPI-CSI 2",
+        "default": "1280x720 @ 60fps digital",
+        "device": "/dev/video2"
+      },
+      {
+        "port": "CSI 2",
+        "type": "4-lane MIPI-CSI 2 / ADV7282 CVBS analog",
+        "default": "720x576 @ 50fps PAL (analog mode)",
+        "device": "/dev/video3"
+      }
+    ],
+    "analog_video_output": "LVDS-to-CVBS, 720x480 @ 60Hz (Weston/Wayland)",
+    "osd": "ORQA OSD engine \u2014 I2C2 (/dev/i2c-1) @ 0x0a, max7456 emulation",
+    "connectivity": {
+      "usb": [
+        "USB 3.0 (5Gbit, SOC)",
+        "USB 2.0"
+      ],
+      "uart": {
+        "UART1": {
+          "device": "/dev/ttymxc0",
+          "location": "SOC Connector 1"
+        },
+        "UART3": {
+          "device": "/dev/ttymxc2",
+          "location": "Internal switch \u2014 routes to CSI1, CSI2, or FC via GPIO4_IO00 (SW1) + GPIO4_IO13 (SW2)"
+        }
+      },
+      "can": {
+        "CAN1": "SOC Connector 2",
+        "CAN2": "Internal to FC"
+      },
+      "i2c": "I2C2 \u2014 OSD engine @ 0x0a",
+      "pwm": "8x PWM (up to 8 motors)",
+      "pcie": "PCIe expansion slot"
+    },
+    "network": {
+      "usb_rndis": "192.168.75.1 (auto DHCP to host)",
+      "usb_ethernet": "192.168.1.75 static, DHCP client",
+      "mac_prefix": "4E:52:51:",
+      "ssh": "root@192.168.75.1"
+    },
+    "power": {
+      "battery_range": "2S\u20138S",
+      "external_connector_max_v": 40,
+      "usb_c_pd": "Up to 60W (5V\u201320V, max 3A)",
+      "note": "USB-C alone may not power FC \u2014 supplement with external PSU for full operation"
+    },
+    "dimensions_mm": "65 x 40 x 22.11",
+    "weight_g": 50,
+    "temp_range_c": "0 to 70",
+    "mounting_pattern_mm": 30.5,
+    "mounting_hole_size": "M3",
+    "firmware_targets": "PX4/ArduPilot/iNav/Betaflight (FC) + Orqa Yocto Linux (SOC)",
+    "device_trees": [
+      {
+        "file": "imx8mp-orqa-apb-rev2.dtb",
+        "config": "CSI 2 digital",
+        "default": true
+      },
+      {
+        "file": "imx8mp-orqa-apb-rev2-adv.dtb",
+        "config": "CSI 2 analog",
+        "default": false
+      }
+    ],
+    "recovery": {
+      "telnet": "192.168.75.1 (root, no password)",
+      "flash_tool": "NXP uuu (mfgtools)",
+      "fastboot_usb_id": "0x35b6:0x0210",
+      "flash_mode_usb_id": "0x1fc9:0x0146",
+      "force_flash": "Hold button while powering on"
+    },
+    "partitions": {
+      "nvram": "64MB (config files, persists across updates)",
+      "data": "General use (remaining flash, persists across updates)",
+      "sdcard_mount": "/sdcard",
+      "usb_mount": "/usb"
+    },
+    "os_version_file": "/etc/os-release (VERSION_ID field)",
+    "software": "Orqa Yocto Linux BSP + Orqa SDK (Developer Program)",
+    "cell_count_min": 2,
+    "cell_count_max": 8,
+    "is_aio": false,
+    "esc_current_a": null,
+    "esc_firmware": null,
+    "motor_output_count": 8,
+    "compatibility": {
+      "cell_count_min": 2,
+      "cell_count_max": 8,
+      "voltage_min_v": 7.4,
+      "voltage_max_v": 33.6,
+      "mounting_pattern_mm": 30.5,
+      "mounting_hole_size": "M3",
+      "battery_connector": null,
+      "continuous_current_per_motor_a": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ]
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "H7",
+      "30.5mm",
+      "companion-computer",
+      "i.MX8M Plus",
+      "NPU",
+      "AI",
+      "MIPI-CSI",
+      "NDAA",
+      "EU-manufactured",
+      "Yocto Linux",
+      "PX4",
+      "ArduPilot",
+      "iNav",
+      "Betaflight",
+      "OSD",
+      "CAN",
+      "PCIe",
+      "DTK",
+      "Croatia"
+    ],
+    "ndaa_compliant": true,
+    "manufacturing_country": "Croatia (EU)"
   }
 ]
