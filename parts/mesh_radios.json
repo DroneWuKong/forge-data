@@ -1086,5 +1086,126 @@
     "schema_data": {
       "weight_g": 76
     }
+  },
+  {
+    "pid": "MSH-MFR-Doodle-Labs-Helix-Smart-Radio",
+    "name": "Doodle Labs Helix Smart Radio",
+    "manufacturer": "Doodle Labs",
+    "description": "Compact MIMO mesh radio. Blue UAS Framework listed. 56g, 8km+ range.",
+    "link": "https://doodlelabs.com/products/helix-smart-radio/",
+    "approx_price": 800,
+    "source": "doodlelabs.com",
+    "schema_data": {
+      "frequency": "2.4 GHz / 5 GHz",
+      "bandwidth_mhz": "5/10/20/40",
+      "range_km": "8+ (LOS)",
+      "throughput_mbps": "Up to 86",
+      "latency_ms": "<10",
+      "tx_power_dbm": 30,
+      "weight_g": 56,
+      "power_w": 7,
+      "size_mm": "58x32x12",
+      "interface": "Ethernet + UART + USB",
+      "mesh_protocol": "MIMO OFDM ad-hoc mesh",
+      "encryption": "AES-256"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas_framework": true,
+      "note": "Canadian company. Blue UAS Framework component."
+    }
+  },
+  {
+    "pid": "MSH-MFR-Doodle-Labs-Helix-Pro",
+    "name": "Doodle Labs Helix Pro",
+    "manufacturer": "Doodle Labs",
+    "description": "High-power mesh radio. Extended range. FIPS 140-2 option.",
+    "link": "https://doodlelabs.com/products/helix-pro/",
+    "approx_price": 1500,
+    "source": "doodlelabs.com",
+    "schema_data": {
+      "frequency": "2.4 GHz / 5 GHz",
+      "bandwidth_mhz": "5-40",
+      "range_km": "15+ (LOS)",
+      "throughput_mbps": "Up to 100",
+      "tx_power_dbm": 33,
+      "weight_g": 85,
+      "power_w": 10,
+      "encryption": "AES-256 + FIPS 140-2 (optional)"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas_framework": true,
+      "note": "Canadian company. Blue UAS Framework component."
+    }
+  },
+  {
+    "pid": "MSH-MFR-Doodle-Labs-Net-Node",
+    "name": "Doodle Labs Net-Node",
+    "manufacturer": "Doodle Labs",
+    "description": "Multi-band mesh node. Ground relay or vehicle mount. 20km+ range.",
+    "link": "https://doodlelabs.com/products/net-node/",
+    "approx_price": 2000,
+    "source": "doodlelabs.com",
+    "schema_data": {
+      "frequency": "900 MHz / 2.4 GHz / 5 GHz",
+      "range_km": "20+",
+      "throughput_mbps": "Up to 50",
+      "weight_g": 200,
+      "power_w": 15,
+      "interface": "Ethernet + RS-232"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas_framework": true,
+      "note": "Canadian company. Blue UAS Framework component."
+    }
+  },
+  {
+    "pid": "MSH-MFR-Silvus-StreamCaster-4200",
+    "name": "Silvus StreamCaster 4200",
+    "manufacturer": "Silvus Technologies",
+    "description": "Flagship tactical mesh radio. 100km+ range. MIL-STD. Acquired by Motorola Solutions for $4.4B.",
+    "link": "https://silvustechnologies.com/products/streamcaster-4200/",
+    "approx_price": 5000,
+    "source": "silvustechnologies.com",
+    "schema_data": {
+      "frequency": "L/S/C-band (configurable)",
+      "bandwidth_mhz": "1.25-40",
+      "range_km": "100+ (with high-gain antenna)",
+      "throughput_mbps": "Up to 100",
+      "latency_ms": "<5",
+      "tx_power_w": 2,
+      "weight_g": 380,
+      "power_w": 25,
+      "mesh_protocol": "MN-MIMO (Mobile Networked MIMO)",
+      "encryption": "AES-256 Type 1 capable"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-made (Los Angeles). Acquired by Motorola Solutions $4.4B (2025)."
+    }
+  },
+  {
+    "pid": "MSH-MFR-Silvus-StreamCaster-4400P",
+    "name": "Silvus StreamCaster 4400P",
+    "manufacturer": "Silvus Technologies",
+    "description": "Compact form factor. Drone-optimized. 160g.",
+    "link": "https://silvustechnologies.com/products/streamcaster-4400/",
+    "approx_price": 3500,
+    "source": "silvustechnologies.com",
+    "schema_data": {
+      "frequency": "L/S-band",
+      "range_km": "50+",
+      "throughput_mbps": "Up to 100",
+      "weight_g": 160,
+      "power_w": 12,
+      "size_mm": "105x58x20",
+      "encryption": "AES-256"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-made (Los Angeles). Acquired by Motorola Solutions $4.4B (2025)."
+    }
   }
 ]

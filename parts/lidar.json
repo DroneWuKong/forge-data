@@ -52,7 +52,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 201
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf11c",
@@ -109,7 +110,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 208
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf20c",
@@ -164,7 +166,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 196
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_lw20c",
@@ -220,7 +223,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 198
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_lw20ha",
@@ -277,7 +281,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 203
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf23b",
@@ -330,7 +335,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 203
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf30d",
@@ -386,7 +392,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 194
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf45b",
@@ -445,7 +452,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 201
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_grf250",
@@ -500,7 +508,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 207
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_grf500",
@@ -569,7 +578,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 208
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf20ha",
@@ -624,7 +634,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 207
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf30c",
@@ -681,7 +692,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 203
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_lightware_sf40c",
@@ -738,7 +750,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 205
-    }
+    },
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
   },
   {
     "id": "lidar_resepi_gen2_os1_ilx",
@@ -839,7 +852,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 192
-    }
+    },
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
   },
   {
     "id": "lidar_resepi_gen2_m2x_ilx",
@@ -938,7 +952,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 209
-    }
+    },
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
   },
   {
     "id": "lidar_resepi_lite_xt32",
@@ -1032,7 +1047,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 206
-    }
+    },
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
   },
   {
     "id": "lidar_resepi_ultra_lite",
@@ -1120,7 +1136,8 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 204
-    }
+    },
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
   },
   {
     "id": "lidar_resepi_echoone",
@@ -1208,6 +1225,167 @@
     "approx_price": 995,
     "schema_data": {
       "weight_g": 202
+    },
+    "description": "LiDAR sensor by Teledyne / Inertial Labs. m range. channels. points/sec."
+  },
+  {
+    "pid": "LDR-MFR-Ouster-OS0--Short-Range-LiDAR",
+    "name": "Ouster OS0 (Short-Range LiDAR)",
+    "manufacturer": "Ouster",
+    "description": "Ultra-wide 90\u00b0 vertical FOV. Ideal for near-field robotics and drone landing.",
+    "link": "https://ouster.com/products/hardware/os0-lidar-sensor",
+    "approx_price": 6000,
+    "source": "ouster.com",
+    "schema_data": {
+      "range_m": 50,
+      "channels": "32/64/128",
+      "fov_vertical_deg": 90,
+      "fov_horizontal_deg": 360,
+      "points_per_sec": "655K-2.6M",
+      "weight_g": 447,
+      "power_w": "14-20",
+      "ip_rating": "IP68"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (San Francisco). Digital LiDAR."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Ouster-OS1--Mid-Range-LiDAR",
+    "name": "Ouster OS1 (Mid-Range LiDAR)",
+    "manufacturer": "Ouster",
+    "description": "Versatile mid-range 3D LiDAR. Most popular for drone SLAM and mapping.",
+    "link": "https://ouster.com/products/hardware/os1-lidar-sensor",
+    "approx_price": 8000,
+    "source": "ouster.com",
+    "schema_data": {
+      "range_m": 120,
+      "channels": "32/64/128",
+      "fov_vertical_deg": 45,
+      "fov_horizontal_deg": 360,
+      "points_per_sec": "655K-2.6M",
+      "weight_g": 447,
+      "power_w": "14-20",
+      "ip_rating": "IP68"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (San Francisco). Digital LiDAR."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Ouster-OS2--Long-Range-LiDAR",
+    "name": "Ouster OS2 (Long-Range LiDAR)",
+    "manufacturer": "Ouster",
+    "description": "Long-range 3D LiDAR. Highway mapping, perimeter security, large-area survey.",
+    "link": "https://ouster.com/products/hardware/os2-lidar-sensor",
+    "approx_price": 12000,
+    "source": "ouster.com",
+    "schema_data": {
+      "range_m": 240,
+      "channels": "32/64/128",
+      "fov_vertical_deg": 22.5,
+      "fov_horizontal_deg": 360,
+      "points_per_sec": "655K-2.6M",
+      "weight_g": 447,
+      "power_w": "14-20",
+      "ip_rating": "IP68"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (San Francisco). Digital LiDAR."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Ouster-REV7--Latest-Generation",
+    "name": "Ouster REV7 (Latest Generation)",
+    "manufacturer": "Ouster",
+    "description": "Latest generation digital LiDAR. Improved range, resolution, and reliability.",
+    "link": "https://ouster.com/products/hardware/rev7-lidar-sensor",
+    "approx_price": 10000,
+    "source": "ouster.com",
+    "schema_data": {
+      "range_m": "200+",
+      "channels": "128",
+      "fov_vertical_deg": 45,
+      "resolution": "2048x128",
+      "frame_rate_hz": "10/20",
+      "weight_g": 420,
+      "power_w": "14-18"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (San Francisco). Digital LiDAR."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Livox-Mid-360",
+    "name": "Livox Mid-360",
+    "manufacturer": "Livox (DJI subsidiary)",
+    "description": "360\u00b0 non-repetitive scanning. Budget drone SLAM sensor.",
+    "link": "https://www.livoxtech.com/mid-360",
+    "approx_price": 500,
+    "source": "www.livoxtech.com",
+    "schema_data": {
+      "range_m": 40,
+      "fov_horizontal_deg": 360,
+      "fov_vertical_deg": 59,
+      "scan_type": "Non-repetitive",
+      "points_per_sec": "200K",
+      "weight_g": 265,
+      "power_w": 9,
+      "ip_rating": "IP67"
+    },
+    "compliance": {
+      "ndaa_compliant": false,
+      "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Livox-HAP",
+    "name": "Livox HAP",
+    "manufacturer": "Livox (DJI subsidiary)",
+    "description": "Automotive/industrial. High accuracy point cloud. 150m range.",
+    "link": "https://www.livoxtech.com/hap",
+    "approx_price": 1500,
+    "source": "www.livoxtech.com",
+    "schema_data": {
+      "range_m": 150,
+      "fov_horizontal_deg": 120,
+      "fov_vertical_deg": 25,
+      "scan_type": "Non-repetitive",
+      "points_per_sec": "450K",
+      "weight_g": 520,
+      "power_w": 12,
+      "ip_rating": "IP67"
+    },
+    "compliance": {
+      "ndaa_compliant": false,
+      "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
+    }
+  },
+  {
+    "pid": "LDR-MFR-Livox-Avia",
+    "name": "Livox Avia",
+    "manufacturer": "Livox (DJI subsidiary)",
+    "description": "Aerial mapping LiDAR. 320m range. Triple-return capability.",
+    "link": "https://www.livoxtech.com/avia",
+    "approx_price": 1200,
+    "source": "www.livoxtech.com",
+    "schema_data": {
+      "range_m": 320,
+      "fov_horizontal_deg": 70,
+      "fov_vertical_deg": 77,
+      "scan_type": "Non-repetitive",
+      "points_per_sec": "240K",
+      "weight_g": 498,
+      "power_w": 10,
+      "ip_rating": "IP65"
+    },
+    "compliance": {
+      "ndaa_compliant": false,
+      "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
     }
   }
 ]

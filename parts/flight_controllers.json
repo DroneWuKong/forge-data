@@ -284,7 +284,31 @@
     "manufacturing_country": "Croatia (EU)",
     "approx_price": 89.99,
     "schema_data": {
-      "weight_g": 9
+      "mcu": "STM32H743",
+      "imu": "ICM-42688-P (dual)",
+      "barometer": "DPS310",
+      "osd": "AT7456E",
+      "mounting_mm": "30.5x30.5",
+      "weight_g": 9,
+      "bec_5v": "2A",
+      "bec_9v": "2A",
+      "firmware": "Betaflight",
+      "uarts": 7,
+      "uart_layout": {
+        "UART1": "VCP/USB (debug)",
+        "UART2": "DJI connector (TX2/RX2) \u2014 MSP for digital OSD",
+        "UART3": "TX3/RX3 pads \u2014 recommended for GPS",
+        "UART4": "TX4/RX4 pads \u2014 recommended for receiver (CRSF/ELRS)",
+        "UART5": "TX5 only \u2014 SmartAudio or ESC telemetry",
+        "UART6": "TX6/RX6 pads \u2014 available",
+        "UART7": "TX7/RX7 pads \u2014 available"
+      },
+      "motor_outputs": "M1-M4 (DShot600 capable)",
+      "connectors": "JST-GH for DJI, solder pads for rest",
+      "country": "Croatia (EU)",
+      "ndaa_compliant": true,
+      "betaflight_target": "ORQA_QUADCORE_H7",
+      "pinout_notes": "Top side: DJI connector, USB-C, boot button. Bottom side: solder pads for UARTs, motor signals, power, LED, buzzer. VBAT input via 4-in-1 ESC connection or direct solder."
     }
   },
   {
@@ -450,7 +474,27 @@
     "dfu_boot": true,
     "approx_price": 33,
     "schema_data": {
-      "weight_g": 14
+      "mcu": "STM32F405",
+      "imu": "ICM-42688-P",
+      "barometer": "DPS310",
+      "osd": "AT7456E",
+      "mounting_mm": "30.5x30.5",
+      "weight_g": 14,
+      "bec_5v": "2A",
+      "firmware": "Betaflight",
+      "uarts": 5,
+      "uart_layout": {
+        "UART1": "VCP/USB",
+        "UART2": "TX2/RX2 \u2014 recommended for receiver",
+        "UART3": "TX3/RX3 \u2014 recommended for GPS",
+        "UART4": "TX4/RX4 \u2014 available",
+        "UART5": "TX5 \u2014 SmartAudio"
+      },
+      "motor_outputs": "M1-M4 (DShot600 capable)",
+      "country": "Croatia (EU)",
+      "ndaa_compliant": true,
+      "betaflight_target": "ORQA_3030LITE_F405",
+      "pinout_notes": "Designed to pair with Orqa 3030 70A ESC in a stack. 30.5mm mounting. Standard solder pad layout."
     }
   },
   {
@@ -11807,7 +11851,7 @@
     "category": "flight_controllers",
     "name": "NewBeeDrone BeeBrain Lite DSM - Project Mockingbird Edition",
     "manufacturer": "NewBeeDrone",
-    "description": "dummy",
+    "description": "Flight controller by NewBeeDrone. MCU. mounting.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/newbeedrone-beebrain-lite-dsm-project-mockingbird-edition.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_f6ea1685-68bf-4d17-b56e-d0493dfd9b9a_1513x.jpg",
     "compatibility": {
@@ -13771,7 +13815,7 @@
     "category": "flight_controllers",
     "name": "SpeedyBee F405 Mini Stack - F405 V3 FC + 35A 3-6S BLHeli_S 4-in-1 ESC - 20x20",
     "manufacturer": "SpeedyBee",
-    "description": "",
+    "description": "Flight controller by SpeedyBee. MCU. mounting.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/s/p/speedybee_f405_mini_stack_4_.jpg",
     "mcu_family": "F4",
@@ -14071,7 +14115,34 @@
     ],
     "approx_price": 76,
     "schema_data": {
-      "weight_g": 5
+      "mcu": "STM32H743",
+      "imu": "ICM-42688-P (dual, orthogonal)",
+      "barometer": "DPS310",
+      "osd": "Integrated",
+      "mounting_mm": "Custom (JST-GH connectors)",
+      "weight_g": 5,
+      "bec_5v": "3A",
+      "firmware": "PX4 / ArduPilot",
+      "uarts": 8,
+      "uart_layout": {
+        "TELEM1": "JST-GH \u2014 primary telemetry (SiK radio, companion)",
+        "TELEM2": "JST-GH \u2014 secondary telemetry",
+        "GPS1": "JST-GH \u2014 primary GPS (UART + I2C for compass)",
+        "GPS2": "JST-GH \u2014 secondary GPS",
+        "RC": "JST-GH \u2014 receiver input (SBUS/CRSF/ELRS)",
+        "VTX": "JST-GH \u2014 direct connection to Orqa FPV.Connect VTX",
+        "DEBUG": "USB-C \u2014 console/firmware flash",
+        "CAN": "JST-GH \u2014 DroneCAN bus"
+      },
+      "motor_outputs": "10 servo + 4 motor (14 PWM total)",
+      "current_sensor": "160A onboard",
+      "power_module": "Dual redundant power input",
+      "connectors": "All JST-GH (Pixhawk standard)",
+      "country": "Croatia (EU)",
+      "ndaa_compliant": true,
+      "px4_target": "orqa_wingcore_h7",
+      "ardupilot_target": "OrqaWingCoreH7",
+      "pinout_notes": "Fixed-wing / VTOL controller. All JST-GH connectors (no solder pads). Direct plug-in compatibility with Orqa FPV.Connect C2 module. Dual orthogonal IMUs for vibration rejection. Designed for the MRM2-10 platform."
     }
   },
   {
@@ -14201,7 +14272,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 29.27
+    "approx_price": 29.27,
+    "description": "Flight controller by 603700. MCU. mounting."
   },
   {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
@@ -14227,7 +14299,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 30.73
+    "approx_price": 30.73,
+    "description": "Flight controller by 603700. MCU. mounting."
   },
   {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v4",
@@ -14253,7 +14326,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 40.98
+    "approx_price": 40.98,
+    "description": "Flight controller by 603700. MCU. mounting."
   },
   {
     "pid": "FC-UA-603700-\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c-v1",
@@ -14279,7 +14353,8 @@
       "fc",
       "fixed_wing"
     ],
-    "approx_price": 50.49
+    "approx_price": 50.49,
+    "description": "Flight controller by 603700. MCU. mounting."
   },
   {
     "pid": "FC-UA-603700-\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c+-v",
@@ -14305,7 +14380,8 @@
       "fc",
       "fixed_wing"
     ],
-    "approx_price": 57.8
+    "approx_price": 57.8,
+    "description": "Flight controller by 603700. MCU. mounting."
   },
   {
     "pid": "FC-UA-Stingbee-Stellar-F4V2",
@@ -14331,7 +14407,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 32.93
+    "approx_price": 32.93,
+    "description": "Flight controller by Stingbee. MCU. mounting."
   },
   {
     "pid": "FC-UA-Stingbee-Stellar-H7V2",
@@ -14357,7 +14434,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 56.1
+    "approx_price": 56.1,
+    "description": "Flight controller by Stingbee. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F405",
@@ -14383,7 +14461,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 24.39
+    "approx_price": 24.39,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F405-8",
@@ -14409,7 +14488,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 24.39
+    "approx_price": 24.39,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-CRASHDETECT-",
@@ -14435,7 +14515,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 24.39
+    "approx_price": 24.39,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F722",
@@ -14461,7 +14542,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 26.83
+    "approx_price": 26.83,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-Furia-H743-S",
@@ -14487,7 +14569,8 @@
       "fc",
       "heavy_lift"
     ],
-    "approx_price": 58.54
+    "approx_price": 58.54,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-Flytex-Furia-H743-W",
@@ -14513,7 +14596,8 @@
       "fc",
       "fixed_wing"
     ],
-    "approx_price": 41.46
+    "approx_price": 41.46,
+    "description": "Flight controller by Flytex. MCU. mounting."
   },
   {
     "pid": "FC-UA-DiFly-DF-F405-v3-R",
@@ -14539,7 +14623,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 24.39
+    "approx_price": 24.39,
+    "description": "Flight controller by DiFly. MCU. mounting."
   },
   {
     "pid": "FC-UA-DiFly-DF-F405-WING",
@@ -14565,7 +14650,8 @@
       "fc",
       "fixed_wing"
     ],
-    "approx_price": 41.46
+    "approx_price": 41.46,
+    "description": "Flight controller by DiFly. MCU. mounting."
   },
   {
     "pid": "FC-UA-Kiwi-F405-Flight-",
@@ -14591,7 +14677,8 @@
       "fc",
       "7_inch"
     ],
-    "approx_price": 39.02
+    "approx_price": 39.02,
+    "description": "Flight controller by Kiwi. MCU. mounting."
   },
   {
     "pid": "FC-UA-Kiwi-H743-FPV",
@@ -14617,7 +14704,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 68.29
+    "approx_price": 68.29,
+    "description": "Flight controller by Kiwi. MCU. mounting."
   },
   {
     "pid": "FC-UA-Kiwi-F722-FPV-Air",
@@ -14643,7 +14731,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 45.85
+    "approx_price": 45.85,
+    "description": "Flight controller by Kiwi. MCU. mounting."
   },
   {
     "pid": "FC-UA-Kiwi-F405-12S-Fli",
@@ -14669,7 +14758,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 39.02
+    "approx_price": 39.02,
+    "description": "Flight controller by Kiwi. MCU. mounting."
   },
   {
     "pid": "FC-UA-Bloomtec-\u041b\u0430\u0441\u0442\u0456\u0432\u043a\u0430",
@@ -14695,7 +14785,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 107.12
+    "approx_price": 107.12,
+    "description": "Flight controller by Bloomtech. MCU. mounting."
   },
   {
     "pid": "FC-UA-FT-F722-PRO-HV-",
@@ -14721,7 +14812,8 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 56.78
+    "approx_price": 56.78,
+    "description": "Flight controller by. MCU. mounting."
   },
   {
     "pid": "FC-UA-FT-F722-V1-FC-3",
@@ -14747,6 +14839,7 @@
       "fc",
       "10_inch"
     ],
-    "approx_price": 47.71
+    "approx_price": 47.71,
+    "description": "Flight controller by. MCU. mounting."
   }
 ]

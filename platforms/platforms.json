@@ -2,8 +2,8 @@
   "database_meta": {
     "name": "AI Wingman Forge \u2014 Platform Database",
     "description": "Merged platform data for the Forge build planner.",
-    "last_updated": "2026-03-24",
-    "platform_count": 184,
+    "last_updated": "2026-04-01",
+    "platform_count": 219,
     "sources": [
       "data/parts-db/drone_models.json",
       "docs/database/drone_database.json"
@@ -91,7 +91,7 @@
         "note": ""
       },
       "max_flight_time_min": 6,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.1,
       "video_system": "Analog 5.8GHz FPV camera (e.g., Runcam Phoenix 2)",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz analog",
@@ -111,7 +111,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 3,
+      "max_endurance_min": 5,
+      "mtow_kg": 0.7,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\")"
     },
     {
       "pid": "MDL-1001",
@@ -188,7 +194,7 @@
         "note": ""
       },
       "max_flight_time_min": 4,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.05,
       "video_system": "Analog 5.8GHz FPV camera, low-latency",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz analog",
@@ -208,7 +214,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 200,
+      "max_range_km": 2,
+      "max_endurance_min": 4,
+      "mtow_kg": 0.8,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\" race)"
     },
     {
       "pid": "MDL-1002",
@@ -281,7 +293,7 @@
         "note": ""
       },
       "max_flight_time_min": 7,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.1,
       "video_system": "Walksnail Avatar HD Pro 1080p digital FPV",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz digital (Walksnail)",
@@ -301,7 +313,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 140,
+      "max_range_km": 3,
+      "max_endurance_min": 6,
+      "mtow_kg": 0.7,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\" HD)"
     },
     {
       "pid": "MDL-1003",
@@ -398,7 +416,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 15,
+      "max_endurance_min": 15,
+      "mtow_kg": 1.1,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 7\" LR)"
     },
     {
       "pid": "MDL-1004",
@@ -495,7 +519,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 12,
+      "max_endurance_min": 12,
+      "mtow_kg": 1.3,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 6\" LR)"
     },
     {
       "pid": "MDL-1005",
@@ -592,7 +622,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 3,
+      "max_endurance_min": 8,
+      "mtow_kg": 1.7,
+      "group": 1,
+      "propulsion": "Electric quad (10\" cinelifter)"
     },
     {
       "pid": "MDL-1006",
@@ -669,7 +705,7 @@
         "note": ""
       },
       "max_flight_time_min": 7,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.1,
       "video_system": "DJI O3 Air Unit digital FPV",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz digital (DJI O3)",
@@ -689,7 +725,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 170,
+      "max_range_km": 3,
+      "max_endurance_min": 5,
+      "mtow_kg": 0.7,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\")"
     },
     {
       "pid": "MDL-1007",
@@ -762,7 +804,7 @@
         "note": ""
       },
       "max_flight_time_min": 6,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.05,
       "video_system": "Analog FPV camera",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz analog",
@@ -782,7 +824,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 2,
+      "max_endurance_min": 5,
+      "mtow_kg": 0.7,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\")"
     },
     {
       "pid": "MDL-1008",
@@ -879,7 +927,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 5,
+      "max_endurance_min": 10,
+      "mtow_kg": 1.4,
+      "group": 1,
+      "propulsion": "Electric quad (7\" cinema)"
     },
     {
       "pid": "MDL-1009",
@@ -956,7 +1010,7 @@
         "note": ""
       },
       "max_flight_time_min": 5,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.1,
       "video_system": "Analog FPV camera",
       "thermal_capable": false,
       "rf_bands": "5.8 GHz analog",
@@ -976,7 +1030,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 190,
+      "max_range_km": 2,
+      "max_endurance_min": 4,
+      "mtow_kg": 0.9,
+      "group": 1,
+      "propulsion": "Electric quad (FPV 5\" power)"
     },
     {
       "pid": "MDL-1010",
@@ -1073,7 +1133,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 20,
+      "max_endurance_min": 20,
+      "mtow_kg": 1.3,
+      "group": 1,
+      "propulsion": "Electric quad (7\" ultra LR)"
     },
     {
       "pid": "MDL-1011",
@@ -1170,7 +1236,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 10,
+      "max_endurance_min": 12,
+      "mtow_kg": 1.1,
+      "group": 1,
+      "propulsion": "Electric quad (6\" digital LR)"
     },
     {
       "pid": "MDL-2000",
@@ -1248,7 +1320,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 79,
+      "max_range_km": 20,
+      "max_endurance_min": 55,
+      "mtow_kg": 9.2,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2001",
@@ -1326,7 +1403,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 82,
+      "max_range_km": 15,
+      "max_endurance_min": 41,
+      "mtow_kg": 3.77,
+      "propulsion": "Electric quad",
+      "note": "Thermal + zoom integrated."
     },
     {
       "pid": "MDL-2002",
@@ -1409,7 +1492,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 63,
+      "max_range_km": 20,
+      "max_endurance_min": 42,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2003",
@@ -1523,7 +1611,13 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 58,
+      "max_range_km": 10,
+      "max_endurance_min": 38,
+      "mtow_kg": 2.0,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2004",
@@ -1612,7 +1706,12 @@
             "note": "US public safety / inspection"
           }
         ]
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 7,
+      "max_endurance_min": 33,
+      "mtow_kg": 4.5,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2005",
@@ -1699,7 +1798,13 @@
             "note": "US DoD/DoE inspection and mapping"
           }
         ]
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 12,
+      "group": 2,
+      "propulsion": "Electric hex"
     },
     {
       "pid": "MDL-2006",
@@ -1716,7 +1821,7 @@
       "firmware": "proprietary",
       "mavlink_support": true,
       "max_flight_time_min": 30,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.2,
       "rf_bands": [
         "2.4 GHz"
       ],
@@ -1796,7 +1901,13 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 1.8,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2007",
@@ -1876,7 +1987,13 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 4,
+      "max_endurance_min": 32,
+      "mtow_kg": 0.5,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2008",
@@ -1973,7 +2090,13 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 5,
+      "max_endurance_min": 60,
+      "mtow_kg": 7,
+      "group": 2,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2009",
@@ -2036,7 +2159,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 3,
+      "max_endurance_min": 20,
+      "mtow_kg": 2.5,
+      "propulsion": "Electric quad",
+      "note": "Dev kit / reference platform."
     },
     {
       "pid": "MDL-2010",
@@ -2108,7 +2237,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 40,
+      "max_range_km": 7,
+      "max_endurance_min": 12,
+      "mtow_kg": 70,
+      "propulsion": "Electric quad coaxial"
     },
     {
       "pid": "MDL-2011",
@@ -2180,7 +2314,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 54,
+      "max_range_km": 16,
+      "max_endurance_min": 28,
+      "mtow_kg": 65,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2012",
@@ -2195,7 +2334,7 @@
       "firmware": "proprietary",
       "mavlink_support": false,
       "max_flight_time_min": 17,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.2,
       "rf_bands": [
         "proprietary"
       ],
@@ -2263,7 +2402,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 25,
+      "max_range_km": 0.5,
+      "max_endurance_min": 12,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric quad (caged)",
+      "note": "Collision-tolerant. Confined space inspection."
     },
     {
       "pid": "MDL-2013",
@@ -2347,7 +2492,13 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 50,
+      "max_endurance_min": 59,
+      "mtow_kg": 4.5,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "Survey/mapping. 42MP camera."
     },
     {
       "pid": "MDL-2014",
@@ -2413,7 +2564,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 43,
+      "max_range_km": 5,
+      "max_endurance_min": 15,
+      "mtow_kg": 79,
+      "propulsion": "Electric coaxial",
+      "note": "Agricultural sprayer."
     },
     {
       "pid": "MDL-2015",
@@ -2484,7 +2641,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 15,
+      "mtow_kg": 42,
+      "propulsion": "Electric hex",
+      "note": "Agricultural spraying. 22L tank."
     },
     {
       "pid": "MDL-2016",
@@ -2552,7 +2715,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 60,
+      "max_endurance_min": 90,
+      "mtow_kg": 1.6,
+      "propulsion": "Electric fixed-wing",
+      "note": "Survey/mapping. Swiss-made."
     },
     {
       "pid": "MDL-2017",
@@ -2661,7 +2830,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 80,
+      "max_endurance_min": 90,
+      "mtow_kg": 5.2,
+      "propulsion": "Electric VTOL fixed-wing"
     },
     {
       "pid": "MDL-2018",
@@ -2730,7 +2904,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 75,
+      "max_range_km": 15,
+      "max_endurance_min": 45,
+      "mtow_kg": 0.92,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2019",
@@ -2745,7 +2924,7 @@
       "firmware": "proprietary",
       "mavlink_support": false,
       "max_flight_time_min": 1,
-      "max_payload_kg": 5,
+      "max_payload_kg": 3,
       "handbook_profile": "platforms/tactical/hoverfly-livesky.md",
       "relations": {
         "frames": [],
@@ -2803,7 +2982,14 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 0,
+      "max_range_km": 0.1,
+      "max_endurance_min": 480,
+      "mtow_kg": 8,
+      "group": 1,
+      "propulsion": "Electric tethered",
+      "note": "Tethered \u2014 unlimited endurance (8+ hrs rated)"
     },
     {
       "pid": "MDL-2020",
@@ -2818,7 +3004,7 @@
       "firmware": "Hivemind",
       "mavlink_support": false,
       "max_flight_time_min": 25,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.5,
       "handbook_profile": "platforms/tactical/shield-ai-nova-2.md",
       "relations": {
         "frames": [],
@@ -2882,7 +3068,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 2,
+      "max_endurance_min": 30,
+      "mtow_kg": 2.5,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2021",
@@ -2950,7 +3142,12 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2022",
@@ -3025,7 +3222,12 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 50,
+      "mtow_kg": 4,
+      "propulsion": "Electric coaxial"
     },
     {
       "pid": "MDL-2023",
@@ -3110,7 +3312,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "DDG Phase I winner (score 99.3). UK company. 20km fiber spool. Zero RF = invisible to SIGINT."
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 20,
+      "max_endurance_min": 60,
+      "mtow_kg": 12,
+      "propulsion": "Electric fixed-wing",
+      "note": "Fiber-optic link. EW-immune."
     },
     {
       "pid": "MDL-2024",
@@ -3199,7 +3407,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS 2026. FANG\u2260Black Widow. FANG=FPV strike. Part of ARACHNID."
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 3,
+      "max_endurance_min": 15,
+      "mtow_kg": 0.8,
+      "group": 1,
+      "propulsion": "Electric quad (FPV)"
     },
     {
       "pid": "MDL-2025",
@@ -3289,7 +3503,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS. ModalAI acquired by Qualcomm 2024."
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 2,
+      "max_endurance_min": 12,
+      "mtow_kg": 0.6,
+      "group": 1,
+      "propulsion": "Electric quad (FPV)"
     },
     {
       "pid": "MDL-2026",
@@ -3383,7 +3603,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS. Smaller Seeker variant."
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 3,
+      "max_endurance_min": 10,
+      "mtow_kg": 0.7,
+      "group": 1,
+      "propulsion": "Electric quad (FPV)"
     },
     {
       "pid": "MDL-2027",
@@ -3465,7 +3691,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "US tactical FPV. Limited public data."
-      }
+      },
+      "max_speed_kmh": 130,
+      "max_range_km": 5,
+      "max_endurance_min": 15,
+      "mtow_kg": 3,
+      "propulsion": "Electric FPV"
     },
     {
       "pid": "MDL-2028",
@@ -3566,7 +3797,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS. Army CL-sUAS T1 winner (w/Ghost X). IP54. 10kg weight."
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 5,
+      "max_endurance_min": 40,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2029",
@@ -3639,7 +3875,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS listed."
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 6.0,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2030",
@@ -3656,7 +3898,7 @@
       "firmware": "Proprietary",
       "mavlink_support": false,
       "max_flight_time_min": 40,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.5,
       "rf_bands": "Encrypted datalink",
       "video_system": "EO/IR integrated gimbal",
       "thermal_capable": true,
@@ -3722,7 +3964,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS listed. US-made compact ISR."
-      }
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 30,
+      "mtow_kg": 2,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2031",
@@ -3739,7 +3986,7 @@
       "firmware": "Proprietary",
       "mavlink_support": false,
       "max_flight_time_min": 30,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.1,
       "rf_bands": "Encrypted datalink",
       "video_system": "EO camera, lightweight",
       "thermal_capable": false,
@@ -3807,7 +4054,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS. Nano/micro class."
-      }
+      },
+      "max_speed_kmh": 45,
+      "max_range_km": 3,
+      "max_endurance_min": 35,
+      "mtow_kg": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2032",
@@ -3887,7 +4139,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS listed."
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 5,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2033",
@@ -3990,7 +4247,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Group 3. 13hr endurance. 18,000ft. V-BAT Teams swarm."
-      }
+      },
+      "max_speed_kmh": 167,
+      "max_range_km": 350,
+      "max_endurance_min": 720,
+      "mtow_kg": 57,
+      "group": 3,
+      "propulsion": "JP-8 ducted fan VTOL"
     },
     {
       "pid": "MDL-2034",
@@ -4104,7 +4367,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Blue UAS Sep 2025. Defense variant of Trinity platform. 2hr endurance."
-      }
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 120,
+      "max_endurance_min": 120,
+      "mtow_kg": 7.0,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "AI-enabled ISR."
     },
     {
       "pid": "MDL-2035",
@@ -4197,7 +4466,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "2.7kg AUR. 10km. Modular EFP warhead option."
-      }
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 10,
+      "max_endurance_min": 15,
+      "mtow_kg": 2.5,
+      "propulsion": "Electric tube-launched",
+      "note": "Updated Block 20 with enhanced seeker."
     },
     {
       "pid": "MDL-2036",
@@ -4300,7 +4575,14 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "54.5kg AUR. 80km. Javelin warhead. LASSO. Block 2: IP67."
-      }
+      },
+      "max_speed_kmh": 185,
+      "max_range_km": 40,
+      "max_endurance_min": 40,
+      "mtow_kg": 23,
+      "group": 3,
+      "propulsion": "Electric (tube-launched)",
+      "note": "Anti-armor loitering munition"
     },
     {
       "pid": "MDL-2037",
@@ -4381,7 +4663,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "NEW Oct 2025. <40lbs. Javelin warhead. RATO. CLT compatible."
-      }
+      },
+      "max_speed_kmh": 175,
+      "max_range_km": 20,
+      "max_endurance_min": 25,
+      "mtow_kg": 5,
+      "propulsion": "Electric tube-launched",
+      "note": "Between 300 and 600. Anti-vehicle."
     },
     {
       "pid": "MDL-2038",
@@ -4474,7 +4762,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Offensive loitering munition. Bolt-M\u2260Anvil (cUAS)."
-      }
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 6,
+      "max_endurance_min": 20,
+      "mtow_kg": 7,
+      "propulsion": "Electric quad",
+      "note": "FPV-class loitering munition. AI-guided."
     },
     {
       "pid": "MDL-2039",
@@ -4491,7 +4785,7 @@
       "firmware": "Proprietary",
       "mavlink_support": false,
       "max_flight_time_min": 30,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.2,
       "rf_bands": "Encrypted datalink",
       "video_system": "FLIR Hadron 640 dual EO/IR",
       "thermal_capable": true,
@@ -4564,7 +4858,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Teledyne FLIR Defense. Backpackable ISR with integrated Hadron thermal."
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 3,
+      "max_endurance_min": 25,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric quad",
+      "note": "Backpackable ISR."
     },
     {
       "pid": "MDL-2040",
@@ -4638,7 +4938,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "US-made tactical family. Limited public specs."
-      }
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2041",
@@ -4701,7 +5006,13 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Taiwanese manufacturer. Tactical FPV platform."
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 3,
+      "max_endurance_min": 10,
+      "mtow_kg": 2,
+      "propulsion": "Electric FPV",
+      "note": "Taiwanese. FPV racer."
     },
     {
       "pid": "MDL-2042",
@@ -4764,7 +5075,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "US startup. Limited public data."
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 3,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2043",
@@ -4843,7 +5159,12 @@
         "ndaa_compliant": false,
         "combat_proven": false,
         "note": "Limited public information."
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 3,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0001",
@@ -4938,7 +5259,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0002",
@@ -5020,7 +5346,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 20,
+      "max_endurance_min": 60,
+      "mtow_kg": 12,
+      "propulsion": "Electric fixed-wing"
     },
     {
       "pid": "DM-0003",
@@ -5144,7 +5475,12 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 5,
+      "max_endurance_min": 40,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0004",
@@ -5205,7 +5541,7 @@
       "manufacturer_hq": "Sanford, FL (founded 2010)",
       "manufacturer_url": "https://hoverflytech.com",
       "max_flight_time_min": 1,
-      "max_payload_kg": 2.3,
+      "max_payload_kg": 3,
       "video_system": "Modular EO/IR, 30x zoom + thermal, tethered persistent",
       "thermal_capable": true,
       "rf_bands": "Tethered (no RF needed)",
@@ -5233,7 +5569,12 @@
           "blue_uas": "Yes",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 0,
+      "max_range_km": 0.1,
+      "max_endurance_min": 480,
+      "mtow_kg": 8,
+      "propulsion": "Electric tethered"
     },
     {
       "pid": "DM-0005",
@@ -5316,7 +5657,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 3,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0006",
@@ -5395,7 +5741,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 40,
+      "max_endurance_min": 30,
+      "mtow_kg": 10,
+      "propulsion": "Electric fixed-wing",
+      "note": "German AI-guided loitering munition. Ukraine deployed."
     },
     {
       "pid": "DM-0007",
@@ -5463,7 +5815,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR (modular payload bay)"
+      "thermal_sensor": "EO/IR (modular payload bay)",
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 30,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad",
+      "note": "German. Modular payload."
     },
     {
       "pid": "DM-0008",
@@ -5538,7 +5896,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR stabilized gimbal (Rheinmetall proprietary)"
+      "thermal_sensor": "EO/IR stabilized gimbal (Rheinmetall proprietary)",
+      "max_speed_kmh": 80,
+      "max_range_km": 50,
+      "max_endurance_min": 360,
+      "mtow_kg": 40,
+      "propulsion": "Electric motor",
+      "note": "Catapult-launched tactical ISR. German."
     },
     {
       "pid": "DM-0009",
@@ -5612,7 +5976,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR seeker (UVision)"
+      "thermal_sensor": "EO/IR seeker (UVision)",
+      "max_speed_kmh": 185,
+      "max_range_km": 150,
+      "max_endurance_min": 360,
+      "mtow_kg": 135,
+      "propulsion": "Various",
+      "note": "EU-licensed production."
     },
     {
       "pid": "DM-0010",
@@ -5686,7 +6056,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR gimbal (modular)"
+      "thermal_sensor": "EO/IR gimbal (modular)",
+      "max_speed_kmh": 100,
+      "max_range_km": 50,
+      "max_endurance_min": 120,
+      "mtow_kg": 25,
+      "propulsion": "Electric fixed-wing",
+      "note": "French tactical ISR. KNDS defense partner."
     },
     {
       "pid": "DM-0011",
@@ -5769,7 +6145,13 @@
           "gcs": "Safran GCS (containerized)"
         }
       },
-      "thermal_sensor": "Euroflir 410 EO/IR/LRF gimbal (Safran)"
+      "thermal_sensor": "Euroflir 410 EO/IR/LRF gimbal (Safran)",
+      "max_speed_kmh": 200,
+      "max_range_km": 180,
+      "max_endurance_min": 1200,
+      "mtow_kg": 1050,
+      "wingspan_m": 18,
+      "propulsion": "Rotax 914 (115hp)"
     },
     {
       "pid": "DM-0012",
@@ -5852,7 +6234,13 @@
           "gcs": "Novadem handheld controller"
         }
       },
-      "thermal_sensor": "Uncooled micro thermal (integrated)"
+      "thermal_sensor": "Uncooled micro thermal (integrated)",
+      "max_speed_kmh": 45,
+      "max_range_km": 2,
+      "max_endurance_min": 30,
+      "mtow_kg": 1.3,
+      "propulsion": "Electric quad",
+      "note": "French micro tactical ISR."
     },
     {
       "pid": "DM-0013",
@@ -5944,7 +6332,14 @@
           "note": "Maritime C2."
         }
       },
-      "thermal_sensor": "EO/IR + maritime radar"
+      "thermal_sensor": "EO/IR + maritime radar",
+      "max_speed_kmh": 150,
+      "max_range_km": 100,
+      "max_endurance_min": 720,
+      "mtow_kg": 180,
+      "wingspan_m": 5.4,
+      "propulsion": "Combustion (AR5)",
+      "note": "Maritime ISR. 12hr endurance. SATCOM + SAR."
     },
     {
       "pid": "DM-0014",
@@ -6012,7 +6407,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 30,
+      "max_endurance_min": 45,
+      "mtow_kg": 150,
+      "propulsion": "Electric quad",
+      "note": "Heavy-lift cargo. BAE partnership."
     },
     {
       "pid": "DM-0015",
@@ -6082,7 +6483,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "Uncooled thermal (modular)"
+      "thermal_sensor": "Uncooled thermal (modular)",
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 5,
+      "propulsion": "Electric quad",
+      "note": "Spanish. LiDAR SLAM-based."
     },
     {
       "pid": "DM-0016",
@@ -6168,7 +6575,13 @@
           "gcs": "DeltaQuad GCS (QGroundControl-based)"
         }
       },
-      "thermal_sensor": "FLIR Boson 640 or Wiris Pro (modular)"
+      "thermal_sensor": "FLIR Boson 640 or Wiris Pro (modular)",
+      "max_speed_kmh": 110,
+      "max_range_km": 100,
+      "max_endurance_min": 120,
+      "mtow_kg": 7,
+      "wingspan_m": 2.35,
+      "propulsion": "Electric VTOL fixed-wing"
     },
     {
       "pid": "DM-0017",
@@ -6239,7 +6652,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "Wescam MX-8 or L3 EO/IR (modular)"
+      "thermal_sensor": "Wescam MX-8 or L3 EO/IR (modular)",
+      "max_speed_kmh": 150,
+      "max_range_km": 200,
+      "max_endurance_min": 300,
+      "mtow_kg": 235,
+      "propulsion": "Heavy-fuel engine",
+      "note": "Unmanned helicopter. Maritime. Swedish."
     },
     {
       "pid": "DM-0018",
@@ -6301,7 +6720,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "IR seeker (terminal guidance)"
+      "thermal_sensor": "IR seeker (terminal guidance)",
+      "max_speed_kmh": 120,
+      "max_range_km": 10,
+      "max_endurance_min": 30,
+      "mtow_kg": 8,
+      "propulsion": "Electric",
+      "note": "Belgian loitering munition."
     },
     {
       "pid": "DM-0019",
@@ -6376,7 +6801,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 5,
+      "max_endurance_min": 15,
+      "mtow_kg": 3,
+      "propulsion": "Electric FPV",
+      "note": "Ukrainian FPV family."
     },
     {
       "pid": "DM-0020",
@@ -6444,7 +6875,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 130,
+      "max_range_km": 10,
+      "max_endurance_min": 20,
+      "mtow_kg": 5,
+      "propulsion": "Electric FPV",
+      "note": "Ukrainian FPV recon + strike."
     },
     {
       "pid": "DM-0021",
@@ -6516,7 +6953,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 130,
+      "max_range_km": 8,
+      "max_endurance_min": 15,
+      "mtow_kg": 4,
+      "propulsion": "Electric FPV"
     },
     {
       "pid": "DM-0022",
@@ -6582,7 +7024,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 5,
+      "max_endurance_min": 12,
+      "mtow_kg": 3,
+      "propulsion": "Electric FPV"
     },
     {
       "pid": "DM-0023",
@@ -6664,7 +7111,14 @@
           "note": "Field-portable laptop."
         }
       },
-      "thermal_sensor": "EO/IR + laser designator"
+      "thermal_sensor": "EO/IR + laser designator",
+      "max_speed_kmh": 150,
+      "max_range_km": 60,
+      "max_endurance_min": 180,
+      "mtow_kg": 22,
+      "wingspan_m": 3.4,
+      "propulsion": "Electric fixed-wing",
+      "note": "ISR + laser designator. Combat-proven."
     },
     {
       "pid": "DM-0024",
@@ -6732,7 +7186,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR + munition drop targeting"
+      "thermal_sensor": "EO/IR + munition drop targeting",
+      "max_speed_kmh": 60,
+      "max_range_km": 5,
+      "max_endurance_min": 40,
+      "mtow_kg": 12,
+      "propulsion": "Electric octocopter",
+      "note": "Modified DJI. Bomb drop. Combat icon."
     },
     {
       "pid": "DM-0025",
@@ -6800,7 +7260,14 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 130,
+      "max_range_km": 30,
+      "max_endurance_min": 180,
+      "mtow_kg": 10,
+      "wingspan_m": 2.3,
+      "propulsion": "Electric fixed-wing",
+      "note": "Strike drone. Carries 4 bombs."
     },
     {
       "pid": "DM-0026",
@@ -6872,7 +7339,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "mtow_kg": 40,
+      "propulsion": "Combustion engine",
+      "note": "Ground attack. Bomb drop."
     },
     {
       "pid": "DM-0027",
@@ -6941,7 +7414,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 750,
+      "max_endurance_min": 300,
+      "mtow_kg": 80,
+      "propulsion": "Combustion engine",
+      "note": "One-way attack. Jet-fuel powered. 750km range."
     },
     {
       "pid": "DM-0028",
@@ -7011,7 +7490,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR stabilized gimbal"
+      "thermal_sensor": "EO/IR stabilized gimbal",
+      "max_speed_kmh": 130,
+      "max_range_km": 100,
+      "max_endurance_min": 600,
+      "mtow_kg": 25,
+      "wingspan_m": 4.2,
+      "propulsion": "Combustion fixed-wing"
     },
     {
       "pid": "DM-0029",
@@ -7112,7 +7597,13 @@
           "note": "FlyEye: portable. Warmate: firing tablet."
         }
       },
-      "thermal_sensor": "EO/IR day/night (FlyEye: stabilized; Warmate: seeker)"
+      "thermal_sensor": "EO/IR day/night (FlyEye: stabilized; Warmate: seeker)",
+      "max_speed_kmh": 80,
+      "max_range_km": 12,
+      "max_endurance_min": 30,
+      "mtow_kg": 5.3,
+      "propulsion": "Electric",
+      "note": "FlyEye: recon. Warmate: loitering munition."
     },
     {
       "pid": "DM-0030",
@@ -7187,7 +7678,14 @@
           "gcs": "Primoco GCS (containerized)"
         }
       },
-      "thermal_sensor": "EO/IR + SAR + SIGINT (modular)"
+      "thermal_sensor": "EO/IR + SAR + SIGINT (modular)",
+      "max_speed_kmh": 150,
+      "max_range_km": 200,
+      "max_endurance_min": 900,
+      "mtow_kg": 150,
+      "wingspan_m": 4.9,
+      "propulsion": "Combustion engine",
+      "note": "Czech. 15hr endurance. Containerized GCS."
     },
     {
       "pid": "DM-0031",
@@ -7255,7 +7753,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR stabilized (10x zoom)"
+      "thermal_sensor": "EO/IR stabilized (10x zoom)",
+      "max_speed_kmh": 100,
+      "max_range_km": 80,
+      "max_endurance_min": 120,
+      "mtow_kg": 7,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "Estonian. Tactical ISR."
     },
     {
       "pid": "DM-0032",
@@ -7326,7 +7830,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR gimbal (modular)"
+      "thermal_sensor": "EO/IR gimbal (modular)",
+      "max_speed_kmh": 80,
+      "max_range_km": 15,
+      "max_endurance_min": 45,
+      "mtow_kg": 8,
+      "propulsion": "Electric VTOL",
+      "note": "Estonian."
     },
     {
       "pid": "DM-0033",
@@ -7392,7 +7902,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR modular payload"
+      "thermal_sensor": "EO/IR modular payload",
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 35,
+      "mtow_kg": 3.5,
+      "propulsion": "Electric quad",
+      "note": "Latvian. Modular payload."
     },
     {
       "pid": "DM-0034",
@@ -7486,7 +8002,15 @@
           "gcs": "Baykar GCS (proprietary)",
           "note": "Containerized ground station."
         }
-      }
+      },
+      "max_speed_kmh": 220,
+      "cruise_speed_kmh": 130,
+      "max_range_km": 150,
+      "max_endurance_min": 1620,
+      "mtow_kg": 700,
+      "wingspan_m": 12,
+      "operating_altitude_m": 7620,
+      "propulsion": "Rotax 912 (100hp)"
     },
     {
       "pid": "DM-0035",
@@ -7575,7 +8099,15 @@
           "note": "Multi-screen C2."
         }
       },
-      "thermal_sensor": "ASELSAN CATS EO/IR + AESA radar"
+      "thermal_sensor": "ASELSAN CATS EO/IR + AESA radar",
+      "max_speed_kmh": 361,
+      "cruise_speed_kmh": 230,
+      "max_range_km": 300,
+      "max_endurance_min": 1440,
+      "mtow_kg": 6000,
+      "wingspan_m": 20,
+      "operating_altitude_m": 12192,
+      "propulsion": "2x AI-450T (450hp each)"
     },
     {
       "pid": "DM-0036",
@@ -7652,7 +8184,15 @@
           "funding_source": "Private (Baykar)"
         }
       },
-      "thermal_sensor": "AESA radar + EO/IR (ASELSAN)"
+      "thermal_sensor": "AESA radar + EO/IR (ASELSAN)",
+      "max_speed_kmh": 900,
+      "max_range_km": 500,
+      "max_endurance_min": 300,
+      "mtow_kg": 6000,
+      "wingspan_m": 14,
+      "operating_altitude_m": 10668,
+      "propulsion": "AI-322 turbojet",
+      "note": "Unmanned combat jet. Carrier-capable."
     },
     {
       "pid": "DM-0037",
@@ -7721,7 +8261,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "IR seeker (terminal guidance)"
+      "thermal_sensor": "IR seeker (terminal guidance)",
+      "max_speed_kmh": 120,
+      "max_range_km": 10,
+      "max_endurance_min": 30,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad",
+      "note": "FPV-style loitering munition."
     },
     {
       "pid": "DM-0038",
@@ -7813,7 +8359,14 @@
           "gcs": "TAI GCS (proprietary)"
         }
       },
-      "thermal_sensor": "ASELSAN CATS EO/IR + SAR"
+      "thermal_sensor": "ASELSAN CATS EO/IR + SAR",
+      "max_speed_kmh": 217,
+      "cruise_speed_kmh": 130,
+      "max_range_km": 200,
+      "max_endurance_min": 1800,
+      "mtow_kg": 1750,
+      "wingspan_m": 17.5,
+      "propulsion": "TEI PD-170 (170hp)"
     },
     {
       "pid": "DM-0039",
@@ -7905,7 +8458,13 @@
           "note": "Swarm-capable."
         }
       },
-      "thermal_sensor": "EO/IR AI vision (autonomous target recognition)"
+      "thermal_sensor": "EO/IR AI vision (autonomous target recognition)",
+      "max_speed_kmh": 72,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 7,
+      "propulsion": "Electric quad",
+      "note": "Autonomous swarm loitering munition. AI target recognition."
     },
     {
       "pid": "DM-0040",
@@ -7981,7 +8540,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR stabilized gimbal"
+      "thermal_sensor": "EO/IR stabilized gimbal",
+      "max_speed_kmh": 60,
+      "max_range_km": 3,
+      "max_endurance_min": 25,
+      "mtow_kg": 25,
+      "propulsion": "Electric octocopter",
+      "note": "Armed with 5.56mm MG or 40mm GL."
     },
     {
       "pid": "DM-0041",
@@ -8073,7 +8638,13 @@
           "note": "Tactical handheld + tablet."
         }
       },
-      "thermal_sensor": "Stabilized miniature EO/IR day/night"
+      "thermal_sensor": "Stabilized miniature EO/IR day/night",
+      "max_speed_kmh": 70,
+      "max_range_km": 15,
+      "max_endurance_min": 180,
+      "mtow_kg": 7.5,
+      "wingspan_m": 3.1,
+      "propulsion": "Electric"
     },
     {
       "pid": "DM-0042",
@@ -8117,7 +8688,7 @@
       "manufacturer_hq": "Haifa, Israel",
       "manufacturer_url": "",
       "max_flight_time_min": 7,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.15,
       "video_system": "AI vision, 3D mapping, obstacle avoidance",
       "thermal_capable": false,
       "rf_bands": "Minimal RF (autonomous)",
@@ -8156,7 +8727,13 @@
         "gcs": {
           "gcs": "Elbit Legion-X autonomy"
         }
-      }
+      },
+      "max_speed_kmh": 72,
+      "max_range_km": 1,
+      "max_endurance_min": 7,
+      "mtow_kg": 1.25,
+      "propulsion": "Electric quad",
+      "note": "Indoor autonomous recon. AI-driven CQB."
     },
     {
       "pid": "DM-0043",
@@ -8250,7 +8827,14 @@
           "gcs": "IAI Harop Control Unit"
         }
       },
-      "thermal_sensor": "Harop: EO/IR seeker. Harpy: anti-radiation homing"
+      "thermal_sensor": "Harop: EO/IR seeker. Harpy: anti-radiation homing",
+      "max_speed_kmh": 185,
+      "max_range_km": 1000,
+      "max_endurance_min": 540,
+      "mtow_kg": 135,
+      "wingspan_m": 3.0,
+      "propulsion": "Rotary engine",
+      "note": "Harop: EO/IR seeker. Harpy: anti-radiation."
     },
     {
       "pid": "DM-0044",
@@ -8332,7 +8916,14 @@
           "gcs": "Aeronautics Orbiter GCS"
         }
       },
-      "thermal_sensor": "Stamped EO/IR (Orbiter 3/4), IR seeker (Orbiter 1K LM)"
+      "thermal_sensor": "Stamped EO/IR (Orbiter 3/4), IR seeker (Orbiter 1K LM)",
+      "max_speed_kmh": 130,
+      "max_range_km": 100,
+      "max_endurance_min": 180,
+      "mtow_kg": 30,
+      "wingspan_m": 4.2,
+      "propulsion": "Electric (Orbiter 3)",
+      "note": "Orbiter 1K is loitering munition variant."
     },
     {
       "pid": "DM-0045",
@@ -8431,7 +9022,13 @@
           "note": "Gesture/VR control."
         }
       },
-      "thermal_sensor": "EO/IR (modular, human-machine teaming)"
+      "thermal_sensor": "EO/IR (modular, human-machine teaming)",
+      "max_speed_kmh": 60,
+      "max_range_km": 1,
+      "max_endurance_min": 15,
+      "mtow_kg": 2.0,
+      "propulsion": "Electric quad",
+      "note": "Indoor tactical. Human-machine teaming. Gesture/VR control."
     },
     {
       "pid": "DM-0046",
@@ -8506,7 +9103,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR gimbal (modular)"
+      "thermal_sensor": "EO/IR gimbal (modular)",
+      "max_speed_kmh": 200,
+      "max_range_km": 120,
+      "max_endurance_min": 480,
+      "mtow_kg": 600,
+      "propulsion": "Various (electric/combustion)",
+      "note": "UAE family of tactical/MALE UAS."
     },
     {
       "pid": "DM-0047",
@@ -8589,7 +9192,14 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 185,
+      "max_range_km": 2500,
+      "max_endurance_min": 540,
+      "mtow_kg": 200,
+      "wingspan_m": 2.5,
+      "propulsion": "Moped engine (Shahed-136)",
+      "note": "One-way attack. Mass produced. Used by Russia in Ukraine."
     },
     {
       "pid": "DM-0048",
@@ -8670,7 +9280,14 @@
           "gcs": "AVIC GCS (containerized shelter)"
         }
       },
-      "thermal_sensor": "EO/IR gimbal + LRF + SAR"
+      "thermal_sensor": "EO/IR gimbal + LRF + SAR",
+      "max_speed_kmh": 280,
+      "max_range_km": 4000,
+      "max_endurance_min": 1200,
+      "mtow_kg": 4200,
+      "wingspan_m": 20.5,
+      "operating_altitude_m": 9000,
+      "propulsion": "Turboprop"
     },
     {
       "pid": "DM-0049",
@@ -8754,7 +9371,13 @@
           "gcs": "CASC GCS (containerized)"
         }
       },
-      "thermal_sensor": "EO/IR gimbal + SAR"
+      "thermal_sensor": "EO/IR gimbal + SAR",
+      "max_speed_kmh": 235,
+      "max_range_km": 2000,
+      "max_endurance_min": 1200,
+      "mtow_kg": 4100,
+      "wingspan_m": 18,
+      "propulsion": "Piston (CH-4), Turboprop (CH-5)"
     },
     {
       "pid": "DM-0050",
@@ -8821,7 +9444,12 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "AESA radar + EO/IR (internal bay)"
+      "thermal_sensor": "AESA radar + EO/IR (internal bay)",
+      "max_speed_kmh": 900,
+      "max_range_km": 4000,
+      "max_endurance_min": 300,
+      "mtow_kg": 10000,
+      "propulsion": "Turbofan"
     },
     {
       "pid": "DM-0051",
@@ -8890,7 +9518,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR gimbal + SAR"
+      "thermal_sensor": "EO/IR gimbal + SAR",
+      "max_speed_kmh": 280,
+      "max_range_km": 3000,
+      "max_endurance_min": 2100,
+      "mtow_kg": 3150,
+      "wingspan_m": 20,
+      "propulsion": "2x piston engines (200hp each)"
     },
     {
       "pid": "DM-0052",
@@ -8955,7 +9589,12 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR (integrated)"
+      "thermal_sensor": "EO/IR (integrated)",
+      "max_speed_kmh": 200,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "mtow_kg": 300,
+      "propulsion": "Electric multi-rotor"
     },
     {
       "pid": "DM-0053",
@@ -9038,7 +9677,13 @@
           "gcs": "KAI GCS (military containerized)"
         }
       },
-      "thermal_sensor": "EO/IR + SAR + SIGINT"
+      "thermal_sensor": "EO/IR + SAR + SIGINT",
+      "max_speed_kmh": 250,
+      "max_range_km": 250,
+      "max_endurance_min": 1440,
+      "mtow_kg": 1500,
+      "wingspan_m": 11,
+      "propulsion": "Turboprop"
     },
     {
       "pid": "DM-0054",
@@ -9129,7 +9774,12 @@
           "note": "Indian military standard."
         }
       },
-      "thermal_sensor": "EO/IR stabilized gimbal"
+      "thermal_sensor": "EO/IR stabilized gimbal",
+      "max_speed_kmh": 65,
+      "max_range_km": 15,
+      "max_endurance_min": 120,
+      "mtow_kg": 7.5,
+      "propulsion": "Electric VTOL fixed-wing"
     },
     {
       "pid": "DM-0055",
@@ -9200,7 +9850,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 15,
+      "max_endurance_min": 30,
+      "mtow_kg": 4,
+      "propulsion": "Electric",
+      "note": "Indian loitering munition. MoD contract."
     },
     {
       "pid": "DM-0056",
@@ -9287,7 +9943,14 @@
           "gcs": "Simple handheld controller",
           "note": "Expendable platform \u2014 minimal GCS."
         }
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 50,
+      "max_endurance_min": 120,
+      "mtow_kg": 7,
+      "wingspan_m": 2.0,
+      "propulsion": "Electric fixed-wing",
+      "note": "Cardboard drone. Expendable. $3,500 unit cost."
     },
     {
       "pid": "DM-0057",
@@ -9364,7 +10027,13 @@
           }
         ]
       },
-      "thermal_sensor": "Anti-radiation homing + EO seeker"
+      "thermal_sensor": "Anti-radiation homing + EO seeker",
+      "max_speed_kmh": 200,
+      "max_range_km": 1000,
+      "max_endurance_min": 300,
+      "mtow_kg": 12,
+      "propulsion": "Electric",
+      "note": "Taiwanese anti-radiation loitering munition."
     },
     {
       "pid": "DM-0058",
@@ -9437,7 +10106,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "Stabilized miniature EO/IR"
+      "thermal_sensor": "Stabilized miniature EO/IR",
+      "max_speed_kmh": 60,
+      "max_range_km": 5,
+      "max_endurance_min": 40,
+      "mtow_kg": 4,
+      "propulsion": "Electric",
+      "note": "Tactical ISR. Singapore military."
     },
     {
       "pid": "DM-0059",
@@ -9505,7 +10180,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 185,
+      "max_range_km": 150,
+      "max_endurance_min": 360,
+      "mtow_kg": 135,
+      "propulsion": "Various"
     },
     {
       "pid": "DM-0060",
@@ -9569,7 +10249,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 50,
+      "max_endurance_min": 120,
+      "mtow_kg": 25,
+      "propulsion": "Electric fixed-wing"
     },
     {
       "pid": "DM-0061",
@@ -9636,7 +10321,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 30,
+      "max_endurance_min": 45,
+      "mtow_kg": 150,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0062",
@@ -9700,7 +10390,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 3,
+      "propulsion": "Electric quad swarm",
+      "note": "Autonomous swarm. 40+ simultaneous drones."
     },
     {
       "pid": "DM-0063",
@@ -9762,7 +10458,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 10,
+      "max_endurance_min": 30,
+      "mtow_kg": 8,
+      "propulsion": "Electric"
     },
     {
       "pid": "DM-0064",
@@ -9830,7 +10531,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 60,
+      "max_endurance_min": 180,
+      "mtow_kg": 22,
+      "propulsion": "Electric fixed-wing"
     },
     {
       "pid": "DM-0065",
@@ -9898,7 +10604,12 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "mtow_kg": 40,
+      "propulsion": "Combustion engine"
     },
     {
       "pid": "DM-0066",
@@ -9965,7 +10676,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 30,
+      "max_endurance_min": 180,
+      "mtow_kg": 12,
+      "propulsion": "Electric fixed-wing",
+      "note": "Polish tactical ISR."
     },
     {
       "pid": "DM-0067",
@@ -10033,7 +10750,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "IR seeker + EO targeting"
+      "thermal_sensor": "IR seeker + EO targeting",
+      "max_speed_kmh": 100,
+      "max_range_km": 20,
+      "max_endurance_min": 30,
+      "mtow_kg": 20,
+      "propulsion": "Electric",
+      "note": "Larger Warmate variant."
     },
     {
       "pid": "DM-0068",
@@ -10097,7 +10820,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 5,
+      "max_endurance_min": 25,
+      "mtow_kg": 2,
+      "propulsion": "Electric quad swarm",
+      "note": "Lithuanian. Autonomous swarm."
     },
     {
       "pid": "DM-0069",
@@ -10160,7 +10889,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "IR seeker (terminal)"
+      "thermal_sensor": "IR seeker (terminal)",
+      "max_speed_kmh": 150,
+      "max_range_km": 15,
+      "max_endurance_min": 120,
+      "mtow_kg": 9,
+      "propulsion": "Electric",
+      "note": "Tube-launched loitering munition."
     },
     {
       "pid": "DM-0070",
@@ -10227,7 +10962,14 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 900,
+      "max_range_km": 4000,
+      "max_endurance_min": 300,
+      "mtow_kg": 10000,
+      "wingspan_m": 14,
+      "propulsion": "Turbofan (WS-13 class)",
+      "note": "Stealth UCAV. Internal weapons bay."
     },
     {
       "pid": "DM-0071",
@@ -10292,7 +11034,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 280,
+      "max_range_km": 3000,
+      "max_endurance_min": 2100,
+      "mtow_kg": 3150,
+      "wingspan_m": 20,
+      "propulsion": "2x piston engines"
     },
     {
       "pid": "DM-0072",
@@ -10360,7 +11108,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR + weapon aiming"
+      "thermal_sensor": "EO/IR + weapon aiming",
+      "max_speed_kmh": 120,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "mtow_kg": 38,
+      "propulsion": "Electric hex",
+      "note": "Armed cargo drone. Autonomous."
     },
     {
       "pid": "DM-0073",
@@ -10425,7 +11179,12 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR modular payload"
+      "thermal_sensor": "EO/IR modular payload",
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 6,
+      "propulsion": "Electric multi-rotor"
     },
     {
       "pid": "DM-0074",
@@ -10493,7 +11252,12 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR gimbal"
+      "thermal_sensor": "EO/IR gimbal",
+      "max_speed_kmh": 55,
+      "max_range_km": 10,
+      "max_endurance_min": 40,
+      "mtow_kg": 8,
+      "propulsion": "Electric multi-rotor"
     },
     {
       "pid": "DM-0075",
@@ -10557,7 +11321,14 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "EO/IR gimbal"
+      "thermal_sensor": "EO/IR gimbal",
+      "max_speed_kmh": 200,
+      "max_range_km": 200,
+      "max_endurance_min": 360,
+      "mtow_kg": 325,
+      "wingspan_m": 6.2,
+      "propulsion": "Combustion fixed-wing",
+      "note": "Strike drone. 75kg warhead."
     },
     {
       "pid": "DM-0076",
@@ -10621,7 +11392,12 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR gimbal"
+      "thermal_sensor": "EO/IR gimbal",
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "DM-0077",
@@ -10685,7 +11461,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "AESA radar + EO/IR (concept)"
+      "thermal_sensor": "AESA radar + EO/IR (concept)",
+      "max_speed_kmh": 900,
+      "max_range_km": 1500,
+      "max_endurance_min": 300,
+      "mtow_kg": 8000,
+      "propulsion": "Turbofan",
+      "note": "Concept/development. Carrier-based stealth UCAV."
     },
     {
       "pid": "DM-0078",
@@ -10763,7 +11545,12 @@
           "gcs": "Leonardo MFCS (Multi-Function Control Station)"
         }
       },
-      "thermal_sensor": "EO/IR + radar (Gabbiano TS-80 option)"
+      "thermal_sensor": "EO/IR + radar (Gabbiano TS-80 option)",
+      "max_speed_kmh": 185,
+      "max_range_km": 100,
+      "max_endurance_min": 360,
+      "mtow_kg": 200,
+      "propulsion": "Rotary-wing unmanned helicopter"
     },
     {
       "pid": "DM-0079",
@@ -10828,7 +11615,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 220,
+      "max_range_km": 350,
+      "max_endurance_min": 2160,
+      "mtow_kg": 1180,
+      "propulsion": "Rotax 914 (115hp)",
+      "note": "Hermes 900 co-production with Elbit."
     },
     {
       "pid": "DM-0080",
@@ -10895,7 +11688,13 @@
           "ndaa_compliant": "No"
         }
       },
-      "thermal_sensor": "AESA radar + EO/IR (concept)"
+      "thermal_sensor": "AESA radar + EO/IR (concept)",
+      "max_speed_kmh": 900,
+      "max_range_km": 700,
+      "max_endurance_min": 120,
+      "mtow_kg": 1500,
+      "propulsion": "Turbojet",
+      "note": "Stealth loyal wingman. Concept/development."
     },
     {
       "pid": "DM-0081",
@@ -10965,7 +11764,12 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR tracking camera (detection system)"
+      "thermal_sensor": "EO/IR tracking camera (detection system)",
+      "max_speed_kmh": 0,
+      "max_range_km": 2,
+      "max_endurance_min": 0,
+      "propulsion": "N/A (ground C-UAS)",
+      "note": "Counter-UAS system, not a flying platform."
     },
     {
       "pid": "DM-0082",
@@ -11027,7 +11831,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 50,
+      "max_endurance_min": 120,
+      "mtow_kg": 25,
+      "propulsion": "Electric fixed-wing",
+      "note": "French Army MATARIS program."
     },
     {
       "pid": "DM-0083",
@@ -11089,7 +11899,14 @@
           "blue_uas": "No",
           "ndaa_compliant": "No"
         }
-      }
+      },
+      "max_speed_kmh": 361,
+      "max_range_km": 300,
+      "max_endurance_min": 1440,
+      "mtow_kg": 6000,
+      "wingspan_m": 20,
+      "propulsion": "2x AI-450T",
+      "note": "Turkish Akinci co-production."
     },
     {
       "pid": "DM-0084",
@@ -11177,7 +11994,14 @@
           "gcs": "Baykar Naval GCS"
         }
       },
-      "thermal_sensor": "CATS FLIR EO/IR/LRF (carrier-optimized)"
+      "thermal_sensor": "CATS FLIR EO/IR/LRF (carrier-optimized)",
+      "max_speed_kmh": 220,
+      "max_range_km": 150,
+      "max_endurance_min": 1560,
+      "mtow_kg": 1450,
+      "wingspan_m": 14,
+      "propulsion": "PD-170 (170hp)",
+      "note": "Carrier-optimized. Foldable wings."
     },
     {
       "pid": "DM-85",
@@ -11280,7 +12104,13 @@
           "gcs": "QGroundControl / ArduPilot"
         }
       },
-      "thermal_sensor": "EO/IR modular payload"
+      "thermal_sensor": "EO/IR modular payload",
+      "max_speed_kmh": 100,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "mtow_kg": 15,
+      "group": 2,
+      "propulsion": "Electric/hybrid"
     },
     {
       "pid": "DM-86",
@@ -11361,7 +12191,13 @@
           "gcs": "QGroundControl / ArduPilot"
         }
       },
-      "thermal_sensor": "EO/IR modular payload"
+      "thermal_sensor": "EO/IR modular payload",
+      "max_speed_kmh": 80,
+      "max_range_km": 30,
+      "max_endurance_min": 45,
+      "mtow_kg": 8,
+      "group": 2,
+      "propulsion": "Electric"
     },
     {
       "pid": "DM-87",
@@ -11430,7 +12266,13 @@
           "gcs": "QGroundControl / ArduPilot"
         }
       },
-      "thermal_sensor": "EO/IR modular payload"
+      "thermal_sensor": "EO/IR modular payload",
+      "max_speed_kmh": 120,
+      "max_range_km": 5,
+      "max_endurance_min": 20,
+      "mtow_kg": 3,
+      "group": 1,
+      "propulsion": "Electric FPV"
     },
     {
       "pid": "DM-88",
@@ -11522,7 +12364,13 @@
           "ndaa_compliant": "Yes"
         }
       },
-      "thermal_sensor": "EO/IR gimbal (modular)"
+      "thermal_sensor": "EO/IR gimbal (modular)",
+      "max_speed_kmh": 65,
+      "max_range_km": 10,
+      "max_endurance_min": 45,
+      "mtow_kg": 7,
+      "propulsion": "Electric multi-rotor",
+      "note": "Slovak ISR platform."
     },
     {
       "pid": "DM-89",
@@ -11591,7 +12439,13 @@
           "blue_uas": "No",
           "ndaa_compliant": "Yes"
         }
-      }
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 5,
+      "max_endurance_min": 15,
+      "mtow_kg": 3,
+      "propulsion": "Electric FPV",
+      "note": "Slovak combat FPV."
     },
     {
       "pid": "MDL-2044",
@@ -11791,7 +12645,12 @@
       "rf_bands": "Encrypted multi-band",
       "firmware": "Proprietary",
       "mavlink_support": false,
-      "sdk_available": false
+      "sdk_available": false,
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2054",
@@ -11946,7 +12805,13 @@
       "rf_bands": "FPV encrypted",
       "firmware": "Custom (Betaflight-based)",
       "mavlink_support": false,
-      "sdk_available": false
+      "sdk_available": false,
+      "max_speed_kmh": 130,
+      "max_range_km": 30,
+      "max_endurance_min": 40,
+      "mtow_kg": 10,
+      "propulsion": "Electric multi-rotor",
+      "note": "Croatian military ISR."
     },
     {
       "pid": "MDL-2055",
@@ -12082,7 +12947,13 @@
       "rf_bands": "FPV encrypted",
       "firmware": "Custom",
       "mavlink_support": false,
-      "sdk_available": false
+      "sdk_available": false,
+      "max_speed_kmh": 130,
+      "max_range_km": 30,
+      "max_endurance_min": 40,
+      "mtow_kg": 10,
+      "propulsion": "Electric multi-rotor",
+      "note": "FPV variant."
     },
     {
       "pid": "MDL-2056",
@@ -12239,7 +13110,13 @@
       "rf_bands": "FPV encrypted",
       "firmware": "Custom (Betaflight)",
       "mavlink_support": false,
-      "sdk_available": false
+      "sdk_available": false,
+      "max_speed_kmh": 100,
+      "max_range_km": 15,
+      "max_endurance_min": 30,
+      "mtow_kg": 5,
+      "propulsion": "Electric quad",
+      "note": "Lighter tactical variant."
     },
     {
       "pid": "DM-0090",
@@ -12284,7 +13161,14 @@
         "ip54",
         "cellular-comms",
         "rtk-ppk"
-      ]
+      ],
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "max_payload_kg": 2,
+      "mtow_kg": 5,
+      "propulsion": "Electric quad",
+      "note": "Bulgarian."
     },
     {
       "pid": "MDL-2045",
@@ -12358,7 +13242,7 @@
         "gps_modules": []
       },
       "max_flight_time_min": 1,
-      "max_payload_kg": 0,
+      "max_payload_kg": 2,
       "thermal_capable": false,
       "rf_bands": "Various",
       "firmware": "ArduPilot/PX4",
@@ -12367,7 +13251,13 @@
       "video_system": "N/A (reference entry)",
       "industry_data": {
         "production": {}
-      }
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 10,
+      "max_endurance_min": 30,
+      "mtow_kg": 5,
+      "propulsion": "Electric (varies)",
+      "note": "Reference specs for generic custom build."
     },
     {
       "pid": "MDL-2046",
@@ -12431,7 +13321,12 @@
           "manufacturing_country": "China",
           "first_delivery_year": 2025
         }
-      }
+      },
+      "max_speed_kmh": 75,
+      "max_range_km": 20,
+      "max_endurance_min": 43,
+      "mtow_kg": 0.9,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2047",
@@ -12499,7 +13394,7 @@
         "gps_modules": []
       },
       "max_flight_time_min": 49,
-      "max_payload_kg": 0,
+      "max_payload_kg": 2.0,
       "video_system": "M4T: wide + zoom + 640x512 thermal + LRF. M4E: wide + zoom.",
       "thermal_capable": true,
       "thermal_sensor": "640x512 (M4T variant)",
@@ -12515,7 +13410,12 @@
           "manufacturing_country": "China",
           "first_delivery_year": 2025
         }
-      }
+      },
+      "max_speed_kmh": 61,
+      "max_range_km": 20,
+      "max_endurance_min": 45,
+      "mtow_kg": 5.5,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2048",
@@ -12579,7 +13479,12 @@
           "manufacturing_country": "China",
           "first_delivery_year": 2023
         }
-      }
+      },
+      "max_speed_kmh": 72,
+      "max_range_km": 15,
+      "max_endurance_min": 42,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2050",
@@ -12627,7 +13532,7 @@
         "gps_modules": []
       },
       "max_flight_time_min": 45,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.2,
       "video_system": "FLIR Hadron 640R+ EO/IR",
       "thermal_capable": true,
       "thermal_sensor": "Teledyne FLIR Hadron 640R+",
@@ -12644,7 +13549,13 @@
           "manufacturing_facility": "Salt Lake City, UT",
           "first_delivery_year": 2025
         }
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 1.8,
+      "group": 1,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2051",
@@ -12704,7 +13615,12 @@
           "first_delivery_year": 2022
         }
       },
-      "video_system": "EO/IR inspection gimbal"
+      "video_system": "EO/IR inspection gimbal",
+      "max_speed_kmh": 50,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2053",
@@ -12763,7 +13679,12 @@
           "manufacturing_country": "USA"
         }
       },
-      "video_system": "EO/IR modular"
+      "video_system": "EO/IR modular",
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2057",
@@ -12801,7 +13722,13 @@
         "funding": {
           "funding_source": "Public (NASDAQ: AVAV)"
         }
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 10,
+      "max_endurance_min": 60,
+      "mtow_kg": 7.0,
+      "group": 2,
+      "propulsion": "Electric VTOL"
     },
     {
       "pid": "MDL-2058",
@@ -12810,7 +13737,7 @@
       "manufacturer": "Red Cat Holdings / Teal Drones",
       "vehicle_type": "quad (SRR ISR)",
       "max_flight_time_min": 45,
-      "max_payload_kg": 0,
+      "max_payload_kg": 0.2,
       "build_class": "complete_platform",
       "platform_category": "blue_uas",
       "video_system": "Teledyne FLIR Hadron 640R+ (64MP visible + 640x512 thermal), FLIR Prism AI, Sightline AiTR",
@@ -12861,7 +13788,12 @@
           "c2_link": "Doodle Hex-Band encrypted, stealth mode (pre-loaded autonomous mission)",
           "interoperability": "ATAK, NettWarrior, Palantir VNav, Reveal Farsight, Sightline AiTR"
         }
-      }
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "mtow_kg": 1.8,
+      "propulsion": "Electric quad"
     },
     {
       "pid": "MDL-2059",
@@ -12899,7 +13831,12 @@
         "funding": {
           "funding_source": "Public (Nasdaq: RCAT)"
         }
-      }
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 5,
+      "max_endurance_min": 40,
+      "mtow_kg": 2.5,
+      "propulsion": "Electric tri-copter VTOL"
     },
     {
       "pid": "MDL-2060",
@@ -12946,7 +13883,12 @@
           "funding_source": "Public (NYSE: UAVS \u2192 EagleNXT)",
           "note": "Going concern. -$5.7M stockholders deficit."
         }
-      }
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 60,
+      "max_endurance_min": 90,
+      "mtow_kg": 1.6,
+      "propulsion": "Electric fixed-wing"
     },
     {
       "pid": "MDL-2061",
@@ -12981,19 +13923,1593 @@
           "manufacturing_country": "Switzerland/USA",
           "first_delivery_year": 2024
         }
-      }
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 60,
+      "max_endurance_min": 90,
+      "mtow_kg": 1.6,
+      "propulsion": "Electric fixed-wing",
+      "note": "Military variant. Sold to US Army."
     },
     {
-      "pid": "DB-iss-sensus-l",
+      "pid": "DM-0091",
+      "name": "UkrSpecSystems UkrSpecSystems Shark/MiniShark",
+      "manufacturer": "UkrSpecSystems",
+      "description": "combat_use: ['Ukraine-Russia war']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "tactical_isr",
+      "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukrspecsystems_Shark_UAV.jpg",
+      "relations": {},
+      "country": "Ukraine",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "range_km": 80,
+        "system_cost_usd": 520000,
+        "pd2_endurance_hours": 10,
+        "pd2_mtow_kg": 45,
+        "anti_jam": true,
+        "mtow_kg": 20,
+        "endurance_hr": 3,
+        "speed_max_kmh": 130,
+        "wingspan_m": 3.6,
+        "ceiling_m": 3000,
+        "payload_kg": 5,
+        "propulsion": "electric",
+        "max_speed_kmh": 120
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "tactical_isr",
+        "combat_proven",
+        "artillery_correction",
+        "gps_denied",
+        "ukraine",
+        "ukrspecsystems"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "Shark",
+          "PD-2",
+          "Leleka-100",
+          "MiniShark"
+        ],
+        "manufacturer_hq": "Ukraine",
+        "manufacturer_url": null,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukrspecsystems_Shark_UAV.jpg"
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 60,
+      "max_endurance_min": 180,
+      "max_payload_kg": 5,
+      "mtow_kg": 22,
+      "propulsion": "Electric fixed-wing"
+    },
+    {
+      "pid": "DM-0092",
+      "name": "UkrJet UkrJet UJ-22/UJ-25/UJ-26 Bober",
+      "manufacturer": "UkrJet",
+      "description": "combat_use: ['Ukraine-Russia war (deep strikes into Russia, Moscow attacks)']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "loitering_munition",
+      "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRJET_UJ-22_Airborne,_Kyiv_2021,_07.jpg",
+      "relations": {},
+      "country": "Ukraine",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "range_km": 1000,
+        "mtow_kg": 750,
+        "endurance_hr": 4,
+        "speed_max_kmh": 200,
+        "wingspan_m": 4.5,
+        "ceiling_m": 3000,
+        "payload_kg": 20,
+        "propulsion": "piston/turboprop (UJ-22/26), turbojet (UJ-25)",
+        "max_speed_kmh": 180
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "loitering_munition",
+        "combat_proven",
+        "deep_strike",
+        "long_range",
+        "ukraine",
+        "ukrjet"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "UJ-22 Airborne",
+          "UJ-25 Skyline (jet)",
+          "UJ-26 Bober"
+        ],
+        "manufacturer_hq": "Ukraine",
+        "manufacturer_url": null,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRJET_UJ-22_Airborne,_Kyiv_2021,_07.jpg"
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 800,
+      "max_endurance_min": 360,
+      "max_payload_kg": 20,
+      "mtow_kg": 85,
+      "propulsion": "Combustion engine",
+      "note": "UJ-22: 800km range MALE. UJ-25/26: strike."
+    },
+    {
+      "pid": "DM-0093",
+      "name": "Firestorm Labs Tempest 50",
+      "manufacturer": "Firestorm Labs",
+      "description": "combat_proven_where: Ukraine (confirmed by CEO, details classified)",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "tactical_isr",
+      "image_file": "https://launchfirestorm.com/wp-content/uploads/2024/tempest-50-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "ndaa_compliant": true,
+        "blue_uas": false,
+        "itar_controlled": true,
+        "export_restrictions": "US defense contracts, allied nations"
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 25,
+        "payload_kg": 4.5,
+        "endurance_hr": 6,
+        "range_km": null,
+        "speed_max_kmh": 322,
+        "speed_cruise_kmh": 105,
+        "ceiling_m": null,
+        "propulsion": "electric (pusher prop) or micro turbojet (swappable)",
+        "wingspan_m": 2.13,
+        "length_m": 1.83,
+        "launch_method": "catapult or rail, hand launch possible",
+        "recovery_method": "belly landing, parachute, net",
+        "group_classification": "Group 2/3",
+        "manufacturing": "3D printed (additive manufacturing), 9-hour print, 36-hour full assembly",
+        "payload_bay_lbs": 10
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "3d_printed",
+        "modular",
+        "open_architecture",
+        "attritable",
+        "expeditionary_manufacturing",
+        "swarm_capable",
+        "mosa",
+        "px4",
+        "octra",
+        "xcell",
+        "group_2",
+        "group_3"
+      ],
+      "industry_data": {
+        "contracts": {
+          "us_air_force_idiq": "$100M IDIQ (5-year, SBIR Phase III, Dec 2024-2031)",
+          "afwerx": "Integration into AFWERX Prime Proving Ground",
+          "programs": "Adaptive Air Enterprise, Babbage Flock, Hale Cluster"
+        },
+        "funding": {
+          "seed": "$12.5M (led by Lockheed Martin Ventures, 2023)",
+          "series_a": "$47M (led by NEA, with Lockheed Martin Ventures, Decisive Point, Washington Harbour Partners, Booz Allen Ventures, JP Morgan venture debt, Sep 2025)",
+          "total_raised": "$59.5M+"
+        },
+        "production": {
+          "status": "low-rate initial production transitioning to full production",
+          "facility": "35,000 sqft, San Diego (Kearny Mesa), near MCAS Miramar",
+          "capacity": "500-1000 drones/month target via xCell",
+          "xcell": "containerized 3D printing factory (20ft/40ft shipping containers, 50 drones/month per unit, generator-powered, deployable anywhere)"
+        },
+        "gcs": "OCTRA-based, PX4/QGroundControl compatible, MOSA/GRA compliant",
+        "variants": [
+          "Tempest",
+          "Tempest 50",
+          "Tempest (long-range variant)"
+        ],
+        "manufacturer_hq": "San Diego, CA, USA",
+        "manufacturer_url": "https://launchfirestorm.com",
+        "image_url": "https://launchfirestorm.com/wp-content/uploads/2024/tempest-50-hero.jpg"
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 50,
+      "max_endurance_min": 60,
+      "max_payload_kg": 5,
+      "mtow_kg": 15,
+      "propulsion": "Electric/hybrid"
+    },
+    {
+      "pid": "DM-0094",
+      "name": "Firestorm Labs El Ni\u00f1o",
+      "manufacturer": "Firestorm Labs",
+      "description": "Firestorm Labs El Ni\u00f1o. Loitering Munition from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "loitering_munition",
+      "image_file": "https://launchfirestorm.com/wp-content/uploads/2024/el-nino-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "ndaa_compliant": true,
+        "blue_uas": false,
+        "itar_controlled": true,
+        "export_restrictions": "US defense contracts, allied nations"
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 4.5,
+        "payload_kg": null,
+        "endurance_hr": null,
+        "range_km": 32,
+        "speed_max_kmh": 161,
+        "speed_cruise_kmh": null,
+        "ceiling_m": null,
+        "propulsion": "electric",
+        "launch_method": "hand launch",
+        "recovery_method": "terminal impact (loitering munition) or belly landing",
+        "group_classification": "Group 1",
+        "manufacturing": "3D printed",
+        "guidance": "onboard ATR, autonomous terminal guidance"
+      },
+      "combat_proven": false,
+      "status": "development",
+      "tags": [
+        "loitering_munition",
+        "hand_launch",
+        "atr",
+        "autonomous",
+        "precision_guided",
+        "3d_printed",
+        "group_1",
+        "mpgs",
+        "attritable"
+      ],
+      "industry_data": {
+        "contracts": {
+          "us_air_force": "Included in $100M IDIQ scope"
+        },
+        "funding": {
+          "note": "Funded under Firestorm Labs corporate funding"
+        },
+        "production": {
+          "status": "R&D / early production"
+        },
+        "gcs": "OCTRA-based",
+        "variants": [
+          "El Ni\u00f1o"
+        ],
+        "manufacturer_hq": "San Diego, CA, USA",
+        "manufacturer_url": "https://launchfirestorm.com",
+        "image_url": "https://launchfirestorm.com/wp-content/uploads/2024/el-nino-hero.jpg"
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 30,
+      "max_endurance_min": 45,
+      "max_payload_kg": 2,
+      "mtow_kg": 8,
+      "propulsion": "Electric"
+    },
+    {
+      "pid": "DM-0095",
+      "name": "Firestorm Labs Squall",
+      "manufacturer": "Firestorm Labs",
+      "description": "Firestorm Labs Squall. Fpv Strike from United States.",
+      "vehicle_type": "multirotor",
+      "build_class": "commercial",
+      "category": "fpv_strike",
+      "image_file": "https://launchfirestorm.com/wp-content/uploads/2024/squall-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "ndaa_compliant": true,
+        "blue_uas": false,
+        "itar_controlled": true,
+        "export_restrictions": "US defense contracts, allied nations"
+      },
+      "specs": {
+        "type": "multirotor",
+        "group_classification": "Group 1",
+        "manufacturing": "3D printed + Orqa components",
+        "propulsion": "electric (quadcopter)"
+      },
+      "combat_proven": false,
+      "status": "production",
+      "tags": [
+        "fpv",
+        "quadcopter",
+        "ndaa",
+        "orqa_partnership",
+        "3d_printed",
+        "group_1",
+        "attritable"
+      ],
+      "industry_data": {
+        "contracts": {
+          "firestorm_diu": "DIU xTechSearch participant (2025)",
+          "orqa_partnership": "Orqa/Firestorm joint manufacturing agreement \u2014 Squall under Orqa Squall brand (Feb 2026)",
+          "programs": "DIU Blue UAS pathway, NATO partner nations"
+        },
+        "funding": {
+          "note": "Joint Firestorm/Orqa partnership"
+        },
+        "production": {
+          "status": "production partnership announced Feb 2025",
+          "partner": "Orqa FPV (Croatia, NDAA-compliant, vertically integrated)",
+          "capacity": "Orqa capacity 280,000 drones/year, roadmap to 1M annually"
+        },
+        "gcs": "Orqa/Firestorm ground station",
+        "variants": [
+          "Firestorm Squall"
+        ],
+        "manufacturer_hq": "San Diego, CA, USA",
+        "manufacturer_url": "https://launchfirestorm.com",
+        "image_url": "https://launchfirestorm.com/wp-content/uploads/2024/squall-hero.jpg"
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 5,
+      "max_endurance_min": 20,
+      "max_payload_kg": 1,
+      "mtow_kg": 3,
+      "propulsion": "Electric FPV"
+    },
+    {
+      "pid": "DM-0096",
+      "name": "Open Source Community Custom ArduPilot / PX4 Builds \u2014 General Integration Reference",
+      "manufacturer": "Open Source Community",
+      "description": "Open Source Community Custom ArduPilot / PX4 Builds \u2014 General Integration Reference. Commercial Isr from International.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": null,
+      "relations": {},
+      "country": "International",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": ""
+      },
+      "specs": {
+        "pixhawk_6x_/_6x_pro_(holybro)": "STM32H753",
+        "cubepilot_cube_orange+": "STM32H757",
+        "range_km": 32.0,
+        "matek_h743": "STM32H743",
+        "speedybee_f405": "STM32F405",
+        "speed_max_kmh": 32.0,
+        "ark_electronics_fmu": "\u2014",
+        "auterion_skynode_s": "\u2014",
+        "sik_(3dr-style)": "915/433 MHz",
+        "rfd900x": "900 MHz",
+        "doodle_labs_mesh_rider": "Multi-band",
+        "microhard_p900": "900 MHz",
+        "herelink": "2.4 GHz",
+        "mission_planner": "ArduPilot",
+        "qgroundcontrol": "PX4 (+ ArduPilot)",
+        "auterion_mission_control": "PX4 (Auterion)",
+        "ugcs": "Both",
+        "mavproxy": "Both",
+        "vehicle_support": "Widest (copter, plane, heli, rover, sub, boat)",
+        "community": "Larger, more hobbyist/operator focus",
+        "documentation": "Extensive, community-driven",
+        "commercial_use": "Widespread (IF1200, many custom builds)",
+        "licensing": "GPL v3 (copyleft)",
+        "default_gcs": "Mission Planner",
+        "configuration": "More parameters, more flexibility, steeper curve"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "open_source"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": null
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 10,
+      "max_endurance_min": 30,
+      "max_payload_kg": 2,
+      "mtow_kg": 5,
+      "propulsion": "Electric (varies)"
+    },
+    {
+      "pid": "DM-0097",
+      "name": "Holybro Holybro X500 V2 + Pixhawk 6X (PX4 Dev Kit)",
+      "manufacturer": "Holybro",
+      "description": "gotchas: ['18-minute flight time is short. Bigger batteries help but add weight. Budget for multiple batteries.', 'No obstacle avoidance out of the box. Add Intel RealSense + PX4 avoidance module if needed.', 'No weatherproofing. This is a fair-weather development platform.', 'SiK radios are low-bandwidth (~64 kbps). Fine for MAVLink telemetry, not for video.', 'Pixhawk 6X PM02D-HV power module requires firmware setting (`SENS_EN_INA228`) and ArduPilot 4.4+.', \"M10 GPS needs PX4 1.14+ or ArduPil",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://holybro.com/cdn/shop/products/x500v2-hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant (Chinese-sourced components)"
+      },
+      "specs": {
+        "frame": "Carbon fiber twill, 500mm class",
+        "flight_controller": "Pixhawk 6X (STM32H753 H7, triple IMU, Ethernet) or Pixhawk 6C",
+        "firmware": "PX4 (ships default) / ArduPilot compatible",
+        "gps": "Holybro M10 (requires PX4 1.14+ / ArduPilot 4.3+)",
+        "telemetry": "SiK radio (915 MHz or 433 MHz), plug-and-play",
+        "flight_time": "~18 min hover (no payload, 5000mAh 4S)",
+        "payload_note": "~1.5 kg (at 70% throttle)",
+        "payload_kg": 1.5,
+        "companion_mount": "RPi 4, Jetson Nano, Intel RealSense",
+        "assembly_time": "~30 min, no soldering",
+        "processor": "STM32H753 (Arm Cortex-M7 @ 480 MHz)",
+        "flash_/_ram": "2MB / 1MB",
+        "imus": "3x (triple redundant, isolated sensor domains)",
+        "barometers": "2x",
+        "interfaces": "Multiple UART, I2C, SPI, CAN, ADC, Ethernet",
+        "vibration_isolation": "Custom-formulated durable material",
+        "temperature_control": "On-board heating for IMU temp stability",
+        "connector_standard": "Pixhawk Autopilot Bus (100-pin + 50-pin)",
+        "debug": "Pixhawk Debug Full (JST SM10B)"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "open_source"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://holybro.com/cdn/shop/products/x500v2-hero.jpg"
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 3,
+      "max_endurance_min": 20,
+      "max_payload_kg": 0.5,
+      "mtow_kg": 2.5,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0098",
+      "name": "DJI DJI Mavic 3 Enterprise (Thermal / Multispectral)",
+      "manufacturer": "DJI",
+      "description": "gotchas: ['NOT NDAA compliant.', 'No payload swap \u2014 fixed sensor package per variant.', 'Not as robust as M30T or M350 \u2014 smaller platform, less wind resistance.', 'Widely deployed \u2014 good parts availability and support network.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://enterprise.dji.com/images/mavic-3e/hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "weight_note": "~920 g (Thermal) / ~951 g (Multispectral)",
+        "payload_kg": 0.92,
+        "flight_time": "Up to 45 min",
+        "cameras_(3t)": "48MP wide, 12MP zoom (56x), 640\u00d7512 thermal",
+        "cameras_(3m)": "20MP RGB + 4-band multispectral (G/R/RE/NIR)",
+        "video_tx": "DJI O3 Enterprise, 15 km",
+        "rtk": "Via D-RTK 2 or network RTK module",
+        "ip_rating": "\u2014",
+        "controller": "DJI RC Pro Enterprise"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://enterprise.dji.com/images/mavic-3e/hero.jpg"
+      },
+      "max_speed_kmh": 75,
+      "max_range_km": 15,
+      "max_endurance_min": 45,
+      "max_payload_kg": 0,
+      "mtow_kg": 0.92,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0099",
+      "name": "senseFly, Switzerland senseFly eBee X",
+      "manufacturer": "senseFly, Switzerland",
+      "description": "senseFly, Switzerland senseFly eBee X. Commercial Isr from Switzerland.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://www.sensefly.com/images/ebee-x-hero.jpg",
+      "relations": {},
+      "country": "Switzerland",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant (Swiss/French manufacturing)"
+      },
+      "specs": {},
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.sensefly.com/images/ebee-x-hero.jpg"
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 60,
+      "max_endurance_min": 90,
+      "max_payload_kg": 0.3,
+      "mtow_kg": 1.6,
+      "propulsion": "Electric fixed-wing"
+    },
+    {
+      "pid": "DM-0100",
+      "name": "DJI DJI FlyCart 30",
+      "manufacturer": "DJI",
+      "description": "gotchas: ['NOT NDAA compliant.', 'Winch kit sold separately \u2014 base price does not include it.', 'Battery and charger sold separately.', 'Requires careful weight/CG management \u2014 drone auto-detects payload weight and center of gravity.', 'FlyCart 100 (80 kg payload) exists but is China-only as of 2026.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://enterprise.dji.com/images/flycart-30/hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "max_payload": "30 kg (dual battery) / 40 kg (single battery)",
+        "payload_kg": 30.0,
+        "flight_distance": "28 km (no payload) / 16 km (full load)",
+        "speed_note": "20 m/s (45 mph)",
+        "speed_max_kmh": 32.0,
+        "ceiling_note": "6,000 m",
+        "operating_temp": "-20\u00b0C to 45\u00b0C",
+        "wind_resistance": "12 m/s",
+        "ip_rating": "IP55",
+        "video_tx": "DJI O3, 20 km + 4G enhanced",
+        "obstacle_avoidance": "Front/rear phased array radar + binocular vision",
+        "ads-b": "Integrated receiver",
+        "parachute": "Integrated, independent power source",
+        "delivery_modes": "Cargo mode (direct), Winch mode (30 m cable)"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://enterprise.dji.com/images/flycart-30/hero.jpg"
+      },
+      "max_speed_kmh": 54,
+      "max_range_km": 16,
+      "max_endurance_min": 28,
+      "max_payload_kg": 30,
+      "mtow_kg": 65,
+      "propulsion": "Electric quad",
+      "note": "Cargo delivery. 30kg payload."
+    },
+    {
+      "pid": "DM-0101",
+      "name": "DJI DJI Matrice 30T",
+      "manufacturer": "DJI",
+      "description": "gotchas: ['Not NDAA compliant.', 'No payload flexibility \u2014 the integrated sensor package is the only option. No LiDAR, no custom payloads.', \"DJI Dock integration is powerful but locks you into DJI's cloud ecosystem.\", 'If you need LiDAR or custom sensors, use the M350 RTK instead.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://enterprise.dji.com/images/matrice-30/hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "weight_note": "3.77 kg (8.31 lb) with battery",
+        "payload_kg": 1.7,
+        "max_flight_time": "41 min",
+        "speed_note": "23 m/s",
+        "speed_max_kmh": 23.0,
+        "payload_note": "Integrated \u2014 no swappable gimbals",
+        "cameras": "48MP zoom (5\u201316x optical), 12MP wide, 640\u00d7512 thermal, LRF",
+        "video_tx": "DJI O3 Enterprise, 2.4/5.8 GHz, 15 km range",
+        "ip_rating": "IP55"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://enterprise.dji.com/images/matrice-30/hero.jpg"
+      },
+      "max_speed_kmh": 82,
+      "max_range_km": 15,
+      "max_endurance_min": 41,
+      "max_payload_kg": 0,
+      "mtow_kg": 3.77,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0102",
+      "name": "Autel Robotics Autel Robotics EVO MAX 4T V2",
+      "manufacturer": "Autel Robotics",
+      "description": "gotchas: ['No geofencing \u2014 good for operators who need flexibility, but means no built-in airspace safety net. Know your airspace.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://www.autelrobotics.com/images/evo-max-4t-hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "XE variant is NDAA compliant; standard V2 has mixed sourcing"
+      },
+      "specs": {
+        "weight_note": "~1.185 kg (2.61 lb) takeoff",
+        "payload_kg": 0.5,
+        "max_flight_time": "42 min",
+        "speed_note": "23 m/s",
+        "speed_max_kmh": 23.0,
+        "service_ceiling": "23,000 ft",
+        "wind_resistance": "27 mph",
+        "ip_rating": "IP43",
+        "operating_temp": "-20\u00b0C to 50\u00b0C (-4\u00b0F to 122\u00b0F)",
+        "wide_camera": "50MP 1/1.28\u2033 CMOS, f/1.9, 85\u00b0 DFOV",
+        "zoom_camera": "48MP, 10x optical / 160x hybrid zoom, 8K",
+        "thermal": "640\u00d7512, 13mm, 16x digital zoom, -20\u00b0C to 550\u00b0C",
+        "laser_rangefinder": "5\u20131200 m, \u00b11 m accuracy",
+        "range_km": 5.0,
+        "obstacle_avoidance": "720\u00b0 \u2014 binocular vision + mmWave radar"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.autelrobotics.com/images/evo-max-4t-hero.jpg"
+      },
+      "max_speed_kmh": 63,
+      "max_range_km": 20,
+      "max_endurance_min": 42,
+      "max_payload_kg": 0,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0103",
+      "name": "DJI DJI Agras T50",
+      "manufacturer": "DJI",
+      "description": "gotchas: ['NOT NDAA compliant. Federal ag funding that requires compliant equipment cannot be used for this platform.', 'Requires Part 137 exemption for commercial agricultural application in the US.', '88 lb empty weight \u2014 not remotely portable. Requires truck/trailer setup.', 'DJI FlyCart 100 and T60 exist in China but are NOT FAA approved in the US. The T50 is currently the largest DJI ag drone available in the US market.', 'Battery logistics are critical. 9-min fast charge with DJI C10000 ch",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://ag.dji.com/images/t50/hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant"
+      },
+      "specs": {
+        "empty_weight": "39.9 kg (88 lb)",
+        "payload_kg": 18.1,
+        "max_takeoff_weight": "92 kg (spraying) / 103 kg (spreading)",
+        "spray_tank": "40 L (10.56 gal), 40 kg operating payload",
+        "spread_tank": "50 kg capacity",
+        "spray_width": "4\u201311 m (13\u201336 ft) at 3 m height",
+        "flow_rate": "Up to 16 L/min (2 nozzles), 24 L/min (4 nozzles)",
+        "droplet_size": "50\u2013500 \u03bcm (adjustable)",
+        "coverage": "~52 acres/hour",
+        "rtk_accuracy": "\u00b110 cm (H/V) with D-RTK",
+        "battery": "DB1560, 9-min fast charging, 1500 cycle life",
+        "obstacle_avoidance": "360\u00b0 \u2014 front/rear phased array radar + binocular vision",
+        "camera": "12MP adjustable gimbal for surveying"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://ag.dji.com/images/t50/hero.jpg"
+      },
+      "max_speed_kmh": 40,
+      "max_range_km": 7,
+      "max_endurance_min": 12,
+      "max_payload_kg": 40,
+      "mtow_kg": 70,
+      "propulsion": "Electric quad coaxial",
+      "note": "Agricultural sprayer. 40L tank."
+    },
+    {
+      "pid": "DM-0104",
+      "name": "XAG Co. XAG P100 Pro / P150",
+      "manufacturer": "XAG Co.",
+      "description": "gotchas: ['NOT NDAA compliant. Chinese manufacturer \u2014 same procurement restrictions as DJI.', 'Massive platform \u2014 requires truck/trailer infrastructure, generator for fast charging.', 'Part 137 exemption required for commercial ag application in the US.', 'XAG ecosystem is less mature in North America than DJI Agras \u2014 fewer dealers, less local support.', 'Competes directly with DJI Agras T50 \u2014 DJI has better software integration, XAG has larger payload options.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://www.xa.com/images/p100-hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant (Chinese manufacturer)"
+      },
+      "specs": {
+        "rated_payload": "50 kg (110 lb)",
+        "payload_kg": 22.7,
+        "spray_tank": "70 L (18.5 gal) / 80 L (P150 Max)",
+        "max_flow_rate": "32 L/min (P150 Max with RevoSpray 5)",
+        "spray_width": "Up to 10 m (33 ft)",
+        "coverage": "70+ acres/hr",
+        "droplet_size": "60\u2013400 \u03bcm (centrifugal atomization)",
+        "flight_speed": "Up to 20 m/s (P150 Max)",
+        "speed_max_kmh": 20.0,
+        "spread_rate": "150+ kg/min",
+        "battery": "B13960S, 962 Wh, 11-min water-cooled fast charge",
+        "ip_rating": "IPX6K (flight platform), IPX7 (components)",
+        "rtk": "Centimeter-level, integrated base station support",
+        "obstacle_avoidance": "4D imaging radar, terrain-following radar",
+        "max_payload": "50 kg (P150) / 80 kg (P150 Max)"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.xa.com/images/p100-hero.jpg"
+      },
+      "max_speed_kmh": 43,
+      "max_range_km": 5,
+      "max_endurance_min": 15,
+      "max_payload_kg": 50,
+      "mtow_kg": 79,
+      "propulsion": "Electric coaxial"
+    },
+    {
+      "pid": "DM-0105",
+      "name": "Hylio, Inc. Hylio AG-272",
+      "manufacturer": "Hylio, Inc.",
+      "description": "gotchas: ['Requires Part 137 exemption \u2014 Hylio assists with onboarding (complimentary).', 'RTK base station sold separately. Budget for it.', \"30-minute battery charge time is slower than DJI's 9-minute fast charge \u2014 need more battery sets for production rates.\", 'US-made means higher price point than Chinese alternatives (DJI, XAG).', 'AgroSol software is functional but not as polished as DJI Agras app.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://hylio.com/images/ag-272-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant (designed and manufactured in USA)"
+      },
+      "specs": {
+        "configuration": "8-rotor",
+        "tank_capacity": "18.0 gal (68.2 L)",
+        "swath_width": "Up to 40 ft (12.2 m)",
+        "coverage_rate": "Up to 50 acres/hr @ 2 GPA",
+        "max_spray_rate": "4.6 gal/min",
+        "nozzles": "TeeJet with electronic flowmeters",
+        "batteries": "2x 42 Ah, 51.8V (2175.6 Wh) LiPo \u2014 30 min charge",
+        "gps": "Dual GPS, RTK-compatible (base station sold separately)",
+        "obstacle_avoidance": "Multi-angle wide-angle radar (lateral, up, down)",
+        "fpv": "1080p HD video streaming",
+        "controller": "GroundLink: 13.3\" Windows tablet + 2.4 GHz radio, NDAA compliant",
+        "multi-drone": "Up to 3 UAS from single ground station",
+        "software": "AgroSol GCS (lifetime access, no recurring fees)",
+        "waterproof": "Yes",
+        "ndaa": "Compliant \u2014 designed and manufactured in Houston, TX",
+        "ag-210": "2.6 gal (10 L)",
+        "ag-216": "4.5 gal",
+        "ag-230": "8.0 gal (2x4)",
+        "ag-272": "18.0 gal"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://hylio.com/images/ag-272-hero.jpg"
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 15,
+      "max_payload_kg": 22,
+      "mtow_kg": 42,
+      "propulsion": "Electric hex"
+    },
+    {
+      "pid": "DM-0106",
+      "name": "Flyability Flyability Elios 3",
+      "manufacturer": "Flyability",
+      "description": "gotchas: ['12-minute flight time is limiting for large assets. High-capacity battery helps (17 min). Tether power unit eliminates limit entirely.', 'Not for outdoor use \u2014 the cage creates drag, no GPS, limited speed (7 m/s max).', 'Not NDAA listed \u2014 may be an issue for US federal confined-space inspection contracts.', 'Environments must be cleaned and inerted before flying in explosive atmospheres \u2014 drone is NOT ATEX certified.', '$50K+ system cost \u2014 justified by the 90% cost reduction vs scaffo",
+      "vehicle_type": "Quadcopter in protective carbon cage",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://www.flyability.com/images/elios-3-hero.jpg",
+      "relations": {},
+      "country": "Switzerland",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "Not listed (Swiss manufacturer)"
+      },
+      "specs": {
+        "type": "Quadcopter in protective carbon cage",
+        "flight_time": "Up to 12 min (standard), 17 min (high-capacity battery)",
+        "camera": "4K visual, 180\u00b0 unobstructed FOV",
+        "thermal": "Radiometric thermal camera",
+        "lidar": "SLAM-based 3D mapping and stabilization",
+        "lighting": "16k lumens, oblique dust-proof, adaptive",
+        "ip_rating": "IP44 (designed, not certified)",
+        "navigation": "FlyAware\u2122 \u2014 computer vision + LiDAR + NVIDIA GPU",
+        "stabilization": "SLAM-based, cm-accurate indoor positioning",
+        "payloads_(modular)": "LiDAR surveying, UT (ultrasonic testing), radiation detection, gas sensing"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.flyability.com/images/elios-3-hero.jpg"
+      },
+      "max_speed_kmh": 25,
+      "max_range_km": 0.5,
+      "max_endurance_min": 12,
+      "max_payload_kg": 0.2,
+      "mtow_kg": 1.5,
+      "propulsion": "Electric caged quad"
+    },
+    {
+      "pid": "DM-0107",
+      "name": "DJI DJI Matrice 350 RTK",
+      "manufacturer": "DJI",
+      "description": "gotchas: ['NOT NDAA compliant. Banned from U.S. federal procurement as of December 2025 under the American Security Drone Act. If your funding source is federal, you cannot buy this.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "commercial_isr",
+      "image_file": "https://enterprise.dji.com/images/matrice-350-rtk/hero.jpg",
+      "relations": {},
+      "country": "China",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": false,
+        "note": "NOT compliant \u2014 banned from U.S. federal procurement as of Dec 2025 (American Security Drone Act)"
+      },
+      "specs": {
+        "weight_(no_payload)": "~3.77 kg (8.31 lb)",
+        "payload_kg": 1.7,
+        "max_takeoff_weight": "9.2 kg (20.3 lb)",
+        "max_payload": "2.73 kg (6.01 lb) \u2014 triple gimbal support",
+        "max_flight_time": "55 min (no payload, no wind)",
+        "speed_note": "23 m/s (51.5 mph)",
+        "speed_max_kmh": 37.0,
+        "ceiling_note": "7000 m (with high-altitude propellers)",
+        "ip_rating": "IP55",
+        "operating_temp": "-20\u00b0C to 50\u00b0C",
+        "rtk_positioning": "1 cm + 1 ppm (H) / 1.5 cm + 1 ppm (V)"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "cots_enterprise"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://enterprise.dji.com/images/matrice-350-rtk/hero.jpg"
+      },
+      "max_speed_kmh": 79,
+      "max_range_km": 20,
+      "max_endurance_min": 55,
+      "max_payload_kg": 2.7,
+      "mtow_kg": 9.2,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0108",
+      "name": "UAS Nexus UAS Nexus Platform One",
+      "manufacturer": "UAS Nexus",
+      "description": "gotchas: ['Members-only store \u2014 Syndicate access requires membership request approval.', 'No fixed BOM \u2014 Platform One is an ecosystem, not a single SKU. Component selection varies by configuration and availability.', 'Decentralized manufacturing \u2014 high volume capacity but supply chain coordination is on the operator/integrator.', 'Multi-firmware support means no single \"golden path\" \u2014 operator must choose and configure autopilot stack.', 'Deeper product scrape pending \u2014 Syndicate catalog details",
+      "vehicle_type": "MOSA-first, attritable, interoperable, COTS-compatible",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://syndicate.uasnexus.com/images/platform-one-hero.jpg",
+      "relations": {},
+      "country": "",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "NDAA \u00a7848 compliant, Blue UAS aligned"
+      },
+      "specs": {
+        "airframe": "17in wide \u00d7 14in long",
+        "propellers": "7-inch, 10-inch",
+        "speed_note": "80 mph",
+        "speed_max_kmh": 129.0,
+        "endurance_note": "20+ min at cruise",
+        "endurance_hr": 0.33,
+        "power": "6S LiPO or LiON, XT60 bulkhead connector",
+        "materials": "Carbon fiber, flexible FDM print (Shore 95A), stainless hardware",
+        "cooling": "Active cooling or heatsink",
+        "production_note": "10,000+ aircraft/month (decentralized manufacturing)",
+        "type": "MOSA-first, attritable, interoperable, COTS-compatible"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "tactical"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://syndicate.uasnexus.com/images/platform-one-hero.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "max_payload_kg": 1,
+      "mtow_kg": 4,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0109",
+      "name": "ModalAI ModalAI Seeker / Stinger",
+      "manufacturer": "ModalAI",
+      "description": "ModalAI ModalAI Seeker / Stinger. Tactical Isr from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://www.modalai.com/cdn/shop/files/seeker-stinger-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS Framework (16 components listed \u2014 most of any manufacturer)"
+      },
+      "specs": {
+        "processor": "Qualcomm QRB5165 (8-core, 2.84 GHz)",
+        "ai_performance": "15 TOPS (GPU + DSP)",
+        "camera_inputs": "7\u00d7 MIPI CSI-2",
+        "weight_note": "~16 g (module only)",
+        "payload_kg": 16.0,
+        "software": "PX4, ROS 2, VOXL SDK",
+        "blue_uas": "Framework component"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "tactical"
+      ],
+      "industry_data": {
+        "contracts": {
+          "dod_sbir": "DoD Army Phase II SBIR \u2014 $1.9M for Sparrow GPS-denied UAS (Aug 2024\u2013Sep 2026)",
+          "diu_blue_uas": "DIU Blue UAS Framework manufacturer \u2014 multiple products listed",
+          "programs": "Blue UAS Framework, Army SBIR Phase II"
+        },
+        "funding": {
+          "dod_sbir": "DoD Army Phase II SBIR \u2014 $1.9M award (Aug 2024) for Sparrow GPS-denied UAS",
+          "blue_uas": "DIU Blue UAS Framework manufacturer",
+          "note": "ModalAI privately held; no disclosed VC rounds. Government SBIR/STTR primary funding path."
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.modalai.com/cdn/shop/files/seeker-stinger-hero.jpg"
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 2,
+      "max_endurance_min": 12,
+      "max_payload_kg": 0.1,
+      "mtow_kg": 0.6,
+      "group": 1,
+      "propulsion": "Electric quad (FPV)"
+    },
+    {
+      "pid": "DM-0110",
+      "name": "Anduril Industries Anduril Ghost X",
+      "manufacturer": "Anduril Industries",
+      "description": "gotchas: ['Military/government procurement only \u2014 not available for commercial purchase.', 'Lattice is proprietary \u2014 no MAVLink, no open protocol access.', 'Helicopter design provides endurance but is mechanically more complex than multirotor.', 'Requires Anduril training and support pipeline.', 'Combat-deployed in Ukraine since 2022 \u2014 real-world validation, but also means adversaries have had time to study it.']",
+      "vehicle_type": "Helicopter-type (main + tail rotor), Group 2 (<55 lb)",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://www.anduril.com/content/uploads/2024/ghost-x-product.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed"
+      },
+      "specs": {
+        "type": "Helicopter-type (main + tail rotor), Group 2 (<55 lb)",
+        "endurance_note": "80\u201390 min",
+        "endurance_hr": 1.33,
+        "range_note": "~15 miles (24 km)",
+        "range_km": 24.1,
+        "payload_note": "~11 kg (24 lb)",
+        "payload_kg": 5.0,
+        "deployment": "Two-person team, fits in rifle case, minutes to assemble",
+        "software": "Anduril Lattice AI autonomy platform"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "tactical"
+      ],
+      "industry_data": {
+        "contracts": {
+          "dod_contract": "DoD contract for Ghost X autonomous ISR \u2014 $100M+ (2024)",
+          "ussocom": "USSOCOM evaluation and acquisition (2024\u20132025)",
+          "programs": "DIU Blue UAS, SOCOM autonomous ISR"
+        },
+        "funding": {
+          "series_c": "$1.48B Series C (Aug 2023, led by Founders Fund)",
+          "series_d": "$1.5B Series D (Aug 2024)",
+          "total_raised": "$3B+",
+          "valuation": "$14B (2024)"
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.anduril.com/content/uploads/2024/ghost-x-product.jpg"
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 5,
+      "max_endurance_min": 60,
+      "max_payload_kg": 3,
+      "mtow_kg": 7,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0111",
+      "name": "Shield AI Shield AI Nova 2",
+      "manufacturer": "Shield AI",
+      "description": "Shield AI Shield AI Nova 2. Tactical Isr from United States.",
+      "vehicle_type": "Small quadcopter",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://shield.ai/wp-content/uploads/2024/nova-2-product.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {
+        "type": "Small quadcopter",
+        "environment": "Indoor / GPS-denied",
+        "autonomy": "Hivemind \u2014 full autonomous flight",
+        "gps_required": "No",
+        "comms_required": "No (autonomous operation)",
+        "sensors": "Stereo cameras, IMU, LiDAR (varies by config)",
+        "ndaa": "Compliant"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "tactical"
+      ],
+      "industry_data": {
+        "contracts": {
+          "dod_contract": "US Air Force SBIR Phase III \u2014 Hivemind autonomy + Nova 2 platform (2023)",
+          "usaf_agility_prime": "AFWERX Agility Prime contract \u2014 autonomous sUAS operations",
+          "programs": "Agility Prime, AFSOC autonomous ISR"
+        },
+        "funding": {
+          "series_f": "$240M Series F (Feb 2024)",
+          "total_raised": "$850M+",
+          "valuation": "$2.7B (2024)",
+          "note": "Shield AI corporate funding \u2014 Nova 2 is Shield AI's primary platform"
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://shield.ai/wp-content/uploads/2024/nova-2-product.jpg"
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 2,
+      "max_endurance_min": 30,
+      "max_payload_kg": 0.5,
+      "mtow_kg": 2.5,
+      "group": 1,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0112",
+      "name": "HoverFly Technologies HoverFly LiveSky",
+      "manufacturer": "HoverFly Technologies",
+      "description": "HoverFly Technologies HoverFly LiveSky. Tactical Isr from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://hoverflytech.com/wp-content/uploads/livesky-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "tactical"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://hoverflytech.com/wp-content/uploads/livesky-hero.jpg"
+      },
+      "max_speed_kmh": 0,
+      "max_range_km": 0.1,
+      "max_endurance_min": 480,
+      "max_payload_kg": 3,
+      "mtow_kg": 8,
+      "propulsion": "Electric tethered"
+    },
+    {
+      "pid": "DM-0113",
+      "name": "Wingtra WingtraOne GEN II / WingtraRAY",
+      "manufacturer": "Wingtra",
+      "description": "gotchas: [\"Fixed-wing means no hover capability during mission. Can't stop and inspect a point.\", 'Requires open launch/landing area \u2014 tail-sitter VTOL needs clear space.', 'Not for inspection or close-proximity work \u2014 this is a mapping/survey platform only.', 'Proprietary autopilot \u2014 no MAVLink, no QGC, no Mission Planner.', 'Wind limits on ground (8 m/s for launch/land) are lower than in-flight limits.']",
+      "vehicle_type": "Fixed-wing VTOL (tail-sitter)",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://wingtra.com/wp-content/uploads/2023/wingtraone-gen-ii.jpg",
+      "relations": {},
+      "country": "Switzerland",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed, Green UAS certified"
+      },
+      "specs": {
+        "type": "Fixed-wing VTOL (tail-sitter)",
+        "flight_time": "Up to 59 min",
+        "cruise_speed": "16 m/s (36 mph)",
+        "speed_max_kmh": 26.0,
+        "payload_note": "Up to 800 g",
+        "payload_kg": 0.8,
+        "wind_resistance": "12 m/s sustained, 18 m/s gusts",
+        "gnss": "Multi-band PPK, 1\u20133 cm absolute accuracy",
+        "coverage": "Up to 1,300 acres (~550 ha) per 1-hour flight",
+        "ndaa_/_blue_uas": "Blue UAS listed",
+        "cameras": "Sony A7R IV (61MP), Sony RX1R II (42MP), MicaSense RedEdge-P",
+        "controller": "Rugged Samsung Galaxy Tab Active 3",
+        "gcs_software": "WingtraPilot",
+        "capture_speed": "~10x faster than multicopters, ~30x faster than terrestrial",
+        "accuracy": "1\u20133 cm absolute without GCPs",
+        "payload_bay": "Hot-swap, 6 dedicated payloads (RGB, oblique, LiDAR, multispectral)",
+        "turnaround": "Under 5 min between flights"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://wingtra.com/wp-content/uploads/2023/wingtraone-gen-ii.jpg"
+      },
+      "max_speed_kmh": 90,
+      "max_range_km": 50,
+      "max_endurance_min": 59,
+      "max_payload_kg": 0.8,
+      "mtow_kg": 4.5,
+      "propulsion": "Electric VTOL fixed-wing"
+    },
+    {
+      "pid": "DM-0114",
+      "name": "Inspired Flight Technologies Inspired Flight IF1200A",
+      "manufacturer": "Inspired Flight Technologies",
+      "description": "gotchas: ['Heavy platform \u2014 not backpackable. This is a truck drone, not a backpack drone.', 'Folding arms can be stiff after flight \u2014 thrust loads the locking mechanism. Support the arm bottom with upward force while sliding the lock.', 'Requires Part 107 waiver if total weight (aircraft + payload) exceeds 55 lb.', 'Batteries are proprietary.', 'No integrated camera \u2014 payload must be purchased separately. Budget accordingly.', 'SAFE motor-out capability is a lifesaver for expensive payloads but",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://inspiredflight.com/wp-content/uploads/2023/IF1200A-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified, NDAA compliant, Green UAS certified"
+      },
+      "specs": {
+        "configuration": "Hexacopter (coaxial dual-prop)",
+        "max_payload": "19.1 lb (8.66 kg) under Part 107; 28.7 lb with certification",
+        "payload_kg": 8.7,
+        "max_flight_time": "43 min (no payload)",
+        "real-world_with_8_lb_payload": "30+ min",
+        "speed_note": "56 mph (25 m/s)",
+        "speed_max_kmh": 90.0,
+        "wind_resistance": "29 knots",
+        "batteries": "16000mAh intelligent batteries",
+        "gps": "Dual GPS units",
+        "fpv": "Built-in FPV camera",
+        "remote_id": "Integrated"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://inspiredflight.com/wp-content/uploads/2023/IF1200A-hero.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "max_payload_kg": 5.5,
+      "mtow_kg": 12,
+      "propulsion": "Electric hex"
+    },
+    {
+      "pid": "DM-0115",
+      "name": "Parrot Parrot ANAFI USA",
+      "manufacturer": "Parrot",
+      "description": "gotchas: ['Wi-Fi link on GOV version is range-limited and susceptible to interference in dense RF environments.', 'Small thermal sensor \u2014 FLIR Boson 320 vs competitors at 640\u00d7512. Adequate for detection, not ideal for detailed thermal analysis.', 'No payload swap. The integrated sensor package is all you get.', 'Lightweight is a double-edged sword \u2014 extremely portable, but poor wind resistance.', \"Parrot's enterprise support has historically been inconsistent compared to DJI/Autel/Skydio.\"]",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://www.parrot.com/assets/s3fs-public/2023-03/anafi-usa-hero.png",
+      "relations": {},
+      "country": "France",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS listed"
+      },
+      "specs": {
+        "weight_note": "500g (GOV) / 1.16 kg (MIL with Microhard)",
+        "payload_kg": 0.5,
+        "max_flight_time": "32 min",
+        "speed_note": "14.7 m/s (33 mph)",
+        "speed_max_kmh": 24.0,
+        "cameras": "32x zoom (21MP), wide (48MP), FLIR Boson 320 thermal",
+        "encryption": "AES-XTS 256-bit",
+        "video_output": "RTSP via Ethernet from Skycontroller",
+        "transmission": "Wi-Fi 802.11 a/b/g/n (GOV); + Microhard radio (MIL)"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": {
+          "diu_blue_uas": "DIU Blue UAS Cleared List \u2014 ANAFI USA (2020, re-listed)",
+          "dhs_contract": "DHS/CBP border security contract",
+          "dod_evaluation": "Multiple DoD evaluation contracts for public safety and ISR (2021\u20132024)",
+          "programs": "Blue UAS framework, US government procurement"
+        },
+        "funding": {
+          "parrot_public": "Parrot SA \u2014 public company (Euronext: PARRO)",
+          "fy2024_revenue": "Parrot group FY2024 revenue \u20ac78M; professional microdrone revenue \u20ac48.1M (+45% YoY)",
+          "anafi_usa_growth": "ANAFI USA drove H2 2024 revenue acceleration (+118% H1\u2192H2)",
+          "note": "Self-funded; Parrot has been profitable-pathway since 2022 restructuring"
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://www.parrot.com/assets/s3fs-public/2023-03/anafi-usa-hero.png"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 4,
+      "max_endurance_min": 32,
+      "max_payload_kg": 0,
+      "mtow_kg": 0.5,
+      "group": 1,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0116",
+      "name": "Ascent Aerosystems Ascent Aerosystems",
+      "manufacturer": "Ascent Aerosystems",
+      "description": "Ascent Aerosystems Ascent Aerosystems. Tactical Isr from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://ascentaerosystems.com/wp-content/uploads/2023/ascent-coax-hero.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": true,
+        "note": "NDAA compliant"
+      },
+      "specs": {},
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {},
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://ascentaerosystems.com/wp-content/uploads/2023/ascent-coax-hero.jpg"
+      },
+      "max_speed_kmh": 50,
+      "max_range_km": 3,
+      "max_endurance_min": 50,
+      "max_payload_kg": 1,
+      "mtow_kg": 4,
+      "propulsion": "Electric coaxial"
+    },
+    {
+      "pid": "DM-0117",
+      "name": "Freefly Systems Freefly Astro (Astro Max)",
+      "manufacturer": "Freefly Systems",
+      "description": "gotchas: ['25-minute flight time is shorter than competitors. DJI M350 does 55 min. Inspired Flight IF1200A does 43 min. If endurance is critical, factor this in.']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://freeflysystems.com/app/uploads/2023/01/astro-hero-1.jpg",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified (NDAA-compliant build available)"
+      },
+      "specs": {
+        "weight_note": "~2.3 kg (varies with payload)",
+        "payload_kg": 2.3,
+        "max_flight_time": "25 min with LR1 payload, 30 min with 2 lb payload",
+        "payload_note": "2 lb (0.9 kg)",
+        "flight_controller": "Auterion Skynode (Pixhawk-class)",
+        "firmware": "Auterion Enterprise PX4",
+        "imu_redundancy": "Triple-redundant",
+        "gnss": "Multi-band with RTK (NTRIP or base station)",
+        "connectivity": "LTE via AuterionOS, Doodle Labs RF link",
+        "controller": "Pilot Pro (ruggedized, hot-swap power)",
+        "folded_size": "~390 \u00d7 178 mm \u2014 fits in a backpack",
+        "batteries": "Dual SL8-Air, 500+ cycle guarantee"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": {
+          "diu_blue_uas": "DIU Blue UAS Cleared List \u2014 Freefly Astro (2022)",
+          "dod_research": "DoD research and evaluation contracts via multiple PEO offices (2022\u20132024)",
+          "programs": "Blue UAS Cleared List"
+        },
+        "funding": {
+          "freefly_private": "Freefly Systems \u2014 privately held (Seattle, WA)",
+          "diu_blue_uas": "DIU Blue UAS Cleared List (2022)",
+          "note": "No disclosed VC rounds; bootstrapped company focused on professional and defense markets"
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://freeflysystems.com/app/uploads/2023/01/astro-hero-1.jpg"
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 7,
+      "max_endurance_min": 33,
+      "max_payload_kg": 3.0,
+      "mtow_kg": 6.6,
+      "propulsion": "Electric quad",
+      "note": "Astro Max config \u2014 6.6 lbs payload."
+    },
+    {
+      "pid": "DM-0118",
+      "name": "Teal Drones / Red Cat Holdings Teal 2",
+      "manufacturer": "Teal Drones / Red Cat Holdings",
+      "description": "gotchas: ['Small payload capacity \u2014 this is an ISR scout, not a mapping or inspection platform.', 'No swappable primary sensor beyond the Hadron EO/IR.', 'Near-silent propulsion is a tactical advantage but limits max speed and wind resistance.', 'Multi-vehicle command supported from single TAC.']",
+      "vehicle_type": "Modular \u2014 field-replaceable payload, propulsion, battery",
+      "build_class": "commercial",
+      "category": "tactical_isr",
+      "image_file": "https://redcat.red/wp-content/uploads/2024/teal-2-front.png",
+      "relations": {},
+      "country": "United States",
+      "compliance": {
+        "blue_uas": true,
+        "ndaa_compliant": true,
+        "note": "Blue UAS certified (added June 2023)"
+      },
+      "specs": {
+        "weight_note": "2.75 lb (1.25 kg) takeoff",
+        "payload_kg": 1.2,
+        "max_flight_time": "30+ min",
+        "speed_note": "23 mph (10 m/s) cruise",
+        "speed_max_kmh": 37.0,
+        "service_ceiling": "10,000 ft MSL",
+        "operating_temp": "-35\u00b0C to 43\u00b0C (-32\u00b0F to 110\u00b0F)",
+        "encryption": "AES-256 (command, control, video)",
+        "type": "Modular \u2014 field-replaceable payload, propulsion, battery",
+        "thermal": "FLIR Hadron 640R: 640\u00d7512, radiometric, <30mK sensitivity",
+        "eo": "16MP visible-light camera"
+      },
+      "combat_proven": false,
+      "status": "active",
+      "tags": [
+        "blue_uas"
+      ],
+      "industry_data": {
+        "contracts": {
+          "diu_blue_uas": "DIU Blue UAS Cleared List (2022)",
+          "army_sRR": "US Army Short Range Reconnaissance (SRR) Program \u2014 Tier II contract (2021)",
+          "dod_contract": "$13.2M US Army SRR Tier II contract (Red Cat Holdings, 2021)",
+          "programs": "Army SRR Tier II, Blue UAS"
+        },
+        "funding": {
+          "red_cat_acquisition": "Acquired by Red Cat Holdings (RCAT) \u2014 public company (NASDAQ: RCAT)",
+          "dod_funding": "Multiple DoD SBIR/STTR awards pre-acquisition",
+          "note": "Now fully DoD-funded development under Red Cat Holdings"
+        },
+        "production": {},
+        "gcs": {},
+        "variants": [],
+        "manufacturer_hq": "",
+        "manufacturer_url": null,
+        "image_url": "https://redcat.red/wp-content/uploads/2024/teal-2-front.png"
+      },
+      "max_speed_kmh": 65,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "max_payload_kg": 0.2,
+      "mtow_kg": 1.8,
+      "propulsion": "Electric quad"
+    },
+    {
+      "pid": "DM-0119",
       "name": "ISS Aerospace Sensus L",
       "manufacturer": "ISS Aerospace",
-      "manufacturer_hq": "United Kingdom",
-      "manufacturer_url": "https://www.issaerospace.com",
-      "description": "Multi-mission hexacopter with 25kg payload capacity. 3D-printed carbon fibre nylon hull. Hydrogen fuel cell option for 2hr endurance. Flagship config includes LiDAR, GPR, thermal and multispectral.",
-      "vehicle_type": "",
+      "description": "ISS Aerospace Sensus L. Cargo from United Kingdom.",
+      "vehicle_type": "fixed_wing",
       "build_class": "commercial",
       "category": "cargo",
       "image_file": "https://www.iss-aerospace.com/wp-content/uploads/2024/sensus-l-hero.jpg",
+      "relations": {},
       "country": "United Kingdom",
       "compliance": {
         "blue_uas": false,
@@ -13019,25 +15535,37 @@
         "multi-sensor",
         "BVLOS"
       ],
-      "variants": [
-        "Sensus L (Battery)",
-        "Sensus L (Hydrogen)"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "Sensus L (Battery)",
+          "Sensus L (Hydrogen)"
+        ],
+        "manufacturer_hq": "United Kingdom",
+        "manufacturer_url": "https://www.issaerospace.com",
+        "image_url": "https://www.iss-aerospace.com/wp-content/uploads/2024/sensus-l-hero.jpg"
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 20,
+      "max_endurance_min": 60,
+      "max_payload_kg": 3,
+      "mtow_kg": 8,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "UK. ISR platform."
     },
     {
-      "pid": "DB-iss-wasp-m4tl",
+      "pid": "DM-0120",
       "name": "ISS Aerospace WASP M4-TL",
       "manufacturer": "ISS Aerospace",
-      "manufacturer_hq": "United Kingdom",
-      "manufacturer_url": "https://www.issaerospace.com",
-      "description": "Tactical man-portable UAS deployed in under 3 seconds. Designed for rapid ISR in constrained environments.",
-      "vehicle_type": "",
-      "build_class": "tactical",
+      "description": "ISS Aerospace WASP M4-TL. Tactical Isr from United Kingdom.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "tactical_isr",
       "image_file": "https://www.iss-aerospace.com/wp-content/uploads/2024/wasp-m4-hero.jpg",
+      "relations": {},
       "country": "United Kingdom",
       "compliance": {
         "blue_uas": false,
@@ -13061,22 +15589,34 @@
         "man-portable",
         "rapid-deploy"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "United Kingdom",
+        "manufacturer_url": "https://www.issaerospace.com",
+        "image_url": "https://www.iss-aerospace.com/wp-content/uploads/2024/wasp-m4-hero.jpg"
+      },
+      "max_speed_kmh": 45,
+      "max_range_km": 3,
+      "max_endurance_min": 480,
+      "max_payload_kg": 2,
+      "mtow_kg": 6,
+      "propulsion": "Electric tethered quad",
+      "note": "UK. Tethered ISR."
     },
     {
-      "pid": "DB-acecore-noa-hybrid",
+      "pid": "DM-0121",
       "name": "Acecore Technologies NOA Hybrid",
       "manufacturer": "Acecore Technologies",
-      "manufacturer_hq": "Netherlands",
-      "manufacturer_url": "https://acecoretechnologies.com",
-      "description": "Long-endurance hybrid hexacopter. 175min flight time via liquid-cooled 4kW gas-electric generator. Redundant backup batteries. Quick-release payload mount for Sony/Phase One cameras and LiDAR.",
-      "vehicle_type": "",
+      "description": "Acecore Technologies NOA Hybrid. Cargo from Netherlands.",
+      "vehicle_type": "fixed_wing",
       "build_class": "commercial",
       "category": "cargo",
       "image_file": null,
+      "relations": {},
       "country": "Netherlands",
       "compliance": {
         "blue_uas": false,
@@ -13102,25 +15642,37 @@
         "heavy-lift",
         "LiDAR-compatible"
       ],
-      "variants": [
-        "NOA",
-        "NOA Hybrid"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "NOA",
+          "NOA Hybrid"
+        ],
+        "manufacturer_hq": "Netherlands",
+        "manufacturer_url": "https://acecoretechnologies.com",
+        "image_url": null
+      },
+      "max_speed_kmh": 60,
+      "max_range_km": 10,
+      "max_endurance_min": 120,
+      "max_payload_kg": 5,
+      "mtow_kg": 18,
+      "propulsion": "Hybrid (gas-electric) hex",
+      "note": "2hr endurance. Dutch-made."
     },
     {
-      "pid": "DB-acecore-zoe-m4",
+      "pid": "DM-0122",
       "name": "Acecore Technologies Zoe M4",
       "manufacturer": "Acecore Technologies",
-      "manufacturer_hq": "Netherlands",
-      "manufacturer_url": "https://acecoretechnologies.com",
-      "description": "First Acecore platform designed specifically for military applications. Based on proven Zoe quadcopter platform with proprietary coaxial motor option.",
-      "vehicle_type": "",
-      "build_class": "tactical",
+      "description": "Acecore Technologies Zoe M4. Tactical Isr from Netherlands.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "tactical_isr",
       "image_file": null,
+      "relations": {},
       "country": "Netherlands",
       "compliance": {
         "blue_uas": false,
@@ -13145,25 +15697,37 @@
         "weatherproof",
         "European"
       ],
-      "variants": [
-        "Zoe Zetona",
-        "Zoe M4"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "Zoe Zetona",
+          "Zoe M4"
+        ],
+        "manufacturer_hq": "Netherlands",
+        "manufacturer_url": "https://acecoretechnologies.com",
+        "image_url": null
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "max_payload_kg": 2,
+      "mtow_kg": 6,
+      "propulsion": "Electric quad",
+      "note": "Dutch. Survey/mapping."
     },
     {
-      "pid": "DB-xer-x8",
+      "pid": "DM-0123",
       "name": "Xer Technologies X8",
       "manufacturer": "Xer Technologies",
-      "manufacturer_hq": "Switzerland",
-      "manufacturer_url": "https://www.xer.swiss",
-      "description": "Hybrid heavy-lift multirotor. 2.5hr endurance, 7kg payload. Operates in rain, snow, subzero temps, 35kt winds. Foldable carbon-fiber arms, 2min deploy. GeoCue TrueView 720 LiDAR integration.",
-      "vehicle_type": "",
+      "description": "Xer Technologies X8. Cargo from Switzerland.",
+      "vehicle_type": "fixed_wing",
       "build_class": "commercial",
       "category": "cargo",
       "image_file": "https://www.xer-tech.com/wp-content/uploads/2023/10/Xer_X8_General_Okt2023.jpg",
+      "relations": {},
       "country": "Switzerland",
       "compliance": {
         "blue_uas": false,
@@ -13190,22 +15754,33 @@
         "carbon-fiber",
         "foldable"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Switzerland",
+        "manufacturer_url": "https://www.xer.swiss",
+        "image_url": "https://www.xer-tech.com/wp-content/uploads/2023/10/Xer_X8_General_Okt2023.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 30,
+      "max_payload_kg": 3,
+      "mtow_kg": 8,
+      "propulsion": "Electric octocopter"
     },
     {
-      "pid": "DB-cellen-h2-6",
+      "pid": "DM-0124",
       "name": "Cellen H2-6",
       "manufacturer": "Cellen",
-      "manufacturer_hq": "United States",
-      "manufacturer_url": "https://www.cellen.com",
-      "description": "Hydrogen-powered hexacopter. 150min endurance, zero emissions. Fast hydrogen canister refueling. OGI sensor integration for gas detection. Data relay capability.",
-      "vehicle_type": "",
+      "description": "Cellen H2-6. Commercial Isr from United States.",
+      "vehicle_type": "fixed_wing",
       "build_class": "commercial",
       "category": "commercial_isr",
       "image_file": "https://cellen.io/wp-content/uploads/2024/h2-6-hero.jpg",
+      "relations": {},
       "country": "United States",
       "compliance": {
         "blue_uas": false,
@@ -13230,22 +15805,34 @@
         "BVLOS",
         "US-made"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "United States",
+        "manufacturer_url": "https://www.cellen.com",
+        "image_url": "https://cellen.io/wp-content/uploads/2024/h2-6-hero.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 20,
+      "max_endurance_min": 120,
+      "max_payload_kg": 2,
+      "mtow_kg": 8,
+      "propulsion": "Hydrogen fuel cell hex",
+      "note": "Hydrogen-powered. 2hr endurance."
     },
     {
-      "pid": "DB-elevonx-skyeye-sierr",
+      "pid": "DM-0125",
       "name": "ElevonX SkyEye Sierra VTOL",
       "manufacturer": "ElevonX",
-      "manufacturer_hq": "Slovenia",
-      "manufacturer_url": "https://www.elevonx.com",
-      "description": "Hybrid fixed-wing VTOL for long-range mapping, surveying, ISR. Custom composite manufacturing. Elastic-powered catapult launchers. Partner with Skyner for anti-drone solutions.",
-      "vehicle_type": "",
-      "build_class": "tactical_defense",
+      "description": "ElevonX SkyEye Sierra VTOL. Fixed Wing Isr from Slovenia.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "fixed_wing_isr",
       "image_file": "https://www.elevonx.com/wp-content/uploads/2025/02/B0003247-scaled-e1739544717405.jpg",
+      "relations": {},
       "country": "Slovenia",
       "compliance": {
         "blue_uas": false,
@@ -13271,25 +15858,37 @@
         "composite",
         "catapult-launch"
       ],
-      "variants": [
-        "SkyEye Sierra",
-        "Tango VTOL"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "SkyEye Sierra",
+          "Tango VTOL"
+        ],
+        "manufacturer_hq": "Slovenia",
+        "manufacturer_url": "https://www.elevonx.com",
+        "image_url": "https://www.elevonx.com/wp-content/uploads/2025/02/B0003247-scaled-e1739544717405.jpg"
+      },
+      "max_speed_kmh": 100,
+      "max_range_km": 80,
+      "max_endurance_min": 90,
+      "max_payload_kg": 2,
+      "mtow_kg": 6,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "Slovenian. Survey + ISR."
     },
     {
-      "pid": "DB-edge-autonomy-pengui",
+      "pid": "DM-0126",
       "name": "Edge Autonomy Penguin C Mk 2",
       "manufacturer": "Edge Autonomy",
-      "manufacturer_hq": "United States",
-      "manufacturer_url": "https://www.edgeautonomy.io",
-      "description": "Long-endurance fixed-wing and VTOL platforms. 34+ years experience. Also produces Octopus ISR gimbal payloads. Non-ITAR. MT-SOFC fuel cell technology for extended endurance. Clients include US DoD and allied governments.",
-      "vehicle_type": "",
-      "build_class": "tactical_defense",
+      "description": "Edge Autonomy Penguin C Mk 2. Fixed Wing Isr from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "fixed_wing_isr",
       "image_file": "https://www.edgeautonomy.io/wp-content/uploads/2024/penguin-c-mk2.jpg",
+      "relations": {},
       "country": "United States",
       "compliance": {
         "blue_uas": false,
@@ -13315,26 +15914,44 @@
         "US-made",
         "gimbal-manufacturer"
       ],
-      "variants": [
-        "Penguin B VTOL",
-        "Penguin C Mk 2",
-        "VXE30 Stalker"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": "US DoD, federal agencies",
+        "funding": {
+          "edge_autonomy": "Edge Autonomy \u2014 privately held (Ogden, Utah)",
+          "diu_blue_uas": "DIU Blue UAS Cleared List",
+          "dod_contracts": "Multiple DoD ISR contracts; Penguin C widely deployed by US/NATO forces",
+          "note": "Edge Autonomy acquired UAV Factory (Penguin developer) in 2022; no public VC funding disclosed"
+        },
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "Penguin B VTOL",
+          "Penguin C Mk 2",
+          "VXE30 Stalker"
+        ],
+        "manufacturer_hq": "United States",
+        "manufacturer_url": "https://www.edgeautonomy.io",
+        "image_url": "https://www.edgeautonomy.io/wp-content/uploads/2024/penguin-c-mk2.jpg"
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 100,
+      "max_endurance_min": 1200,
+      "max_payload_kg": 3.5,
+      "mtow_kg": 25,
+      "wingspan_m": 3.3,
+      "propulsion": "Combustion fixed-wing",
+      "note": "20hr endurance. Former UAV Factory."
     },
     {
-      "pid": "DB-alpha-unmanned-alpha",
+      "pid": "DM-0127",
       "name": "Alpha Unmanned Systems Alpha 900",
       "manufacturer": "Alpha Unmanned Systems",
-      "manufacturer_hq": "Madrid, Spain",
-      "manufacturer_url": "https://www.integrauav.com",
-      "description": "Fuel-powered tactical helicopter UAS for maritime operations. Auto takeoff/landing on moving ship decks. STANAG 4738 compliant. <25kg MTOW. GNSS-denied navigation capable. US DoD evaluation partner.",
-      "vehicle_type": "",
-      "build_class": "tactical_defense",
+      "description": "Alpha Unmanned Systems Alpha 900. Naval from Spain.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "naval",
       "image_file": null,
+      "relations": {},
       "country": "Spain",
       "compliance": {
         "blue_uas": false,
@@ -13360,25 +15977,37 @@
         "auto-landing",
         "STANAG-4738"
       ],
-      "variants": [
-        "Alpha 800",
-        "Alpha 900"
-      ],
-      "gcs": "proprietary",
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": "US DoD evaluation",
+        "funding": null,
+        "production": "active",
+        "gcs": "proprietary",
+        "variants": [
+          "Alpha 800",
+          "Alpha 900"
+        ],
+        "manufacturer_hq": "Madrid, Spain",
+        "manufacturer_url": "https://www.integrauav.com",
+        "image_url": null
+      },
+      "max_speed_kmh": 150,
+      "max_range_km": 100,
+      "max_endurance_min": 480,
+      "max_payload_kg": 10,
+      "mtow_kg": 70,
+      "propulsion": "Combustion engine helicopter",
+      "note": "Spanish. 8hr endurance. Helicopter UAS."
     },
     {
-      "pid": "DB-schiebel-camcopter-s",
+      "pid": "DM-0128",
       "name": "Schiebel CAMCOPTER S-100",
       "manufacturer": "Schiebel",
-      "manufacturer_hq": "Vienna, Austria",
-      "manufacturer_url": "https://www.schiebel.net",
-      "description": "Austrian VTOL rotary-wing UAS. 200 kg MTOW, 50 kg payload, 6hr endurance. One of the most widely deployed naval rotary-wing drones globally. Ship-based ops for 15+ navies. Heavy fuel Rotax engine.",
+      "description": "combat_use: ['Counter-piracy (multiple navies)', 'Libya (French Navy)'] export_customers: ['France', 'UAE', 'Germany', 'Australia', 'South Korea', '15+ navies']",
       "vehicle_type": "helicopter",
-      "build_class": "tactical_defense",
+      "build_class": "defense",
       "category": "naval",
       "image_file": "https://www.schiebel.net/wp-content/uploads/s-100-product.jpg",
+      "relations": {},
       "country": "Austria",
       "compliance": {
         "blue_uas": false,
@@ -13411,22 +16040,34 @@
         "austria",
         "schiebel"
       ],
-      "variants": [],
-      "gcs": "proprietary",
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": "Royal Navy, Equinor, Romanian Coast Guard, UK SAR",
+        "funding": null,
+        "production": "active",
+        "gcs": "proprietary",
+        "variants": [],
+        "manufacturer_hq": "Vienna, Austria",
+        "manufacturer_url": "https://www.schiebel.net",
+        "image_url": "https://www.schiebel.net/wp-content/uploads/s-100-product.jpg"
+      },
+      "max_speed_kmh": 222,
+      "max_range_km": 200,
+      "max_endurance_min": 360,
+      "max_payload_kg": 50,
+      "mtow_kg": 200,
+      "propulsion": "Rotax 914 (55hp)",
+      "note": "Unmanned helicopter. Maritime. Austrian."
     },
     {
-      "pid": "DB-t-drones-va25",
+      "pid": "DM-0129",
       "name": "T-Drones VA25",
       "manufacturer": "T-Drones",
-      "manufacturer_hq": "Chengdu, China",
-      "manufacturer_url": "https://www.t-drones.com",
-      "description": "Long-endurance VTOL platform. 210min flight time with 1kg payload. T-Drones also manufactures propulsion systems (motors, ESCs, propellers) and Li-ion batteries for the UAS industry.",
-      "vehicle_type": "",
-      "build_class": "tactical_defense",
+      "description": "T-Drones VA25. Fixed Wing Isr from China.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "fixed_wing_isr",
       "image_file": "https://www.t-drones.com/images/202306/goods_img/1687831668937727411.jpg",
+      "relations": {},
       "country": "China",
       "compliance": {
         "blue_uas": false,
@@ -13451,28 +16092,39 @@
         "Chinese",
         "also-makes-motors-ESCs-batteries"
       ],
-      "variants": [
-        "VA25",
-        "VA32",
-        "EC11",
-        "M690B",
-        "M690Pro"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": null,
+        "variants": [
+          "VA25",
+          "VA32",
+          "EC11",
+          "M690B",
+          "M690Pro"
+        ],
+        "manufacturer_hq": "Chengdu, China",
+        "manufacturer_url": "https://www.t-drones.com",
+        "image_url": "https://www.t-drones.com/images/202306/goods_img/1687831668937727411.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 25,
+      "max_payload_kg": 5,
+      "mtow_kg": 15,
+      "propulsion": "Electric quad"
     },
     {
-      "pid": "DB-fly-dragon-fd50f",
+      "pid": "DM-0130",
       "name": "Fly Dragon Drone Tech FD50F",
       "manufacturer": "Fly Dragon Drone Tech",
-      "manufacturer_hq": "Chengdu, China",
-      "manufacturer_url": "https://www.flydragondronetech.com",
-      "description": "Hybrid VTOL with 10hr endurance and 15kg payload. Waterproof, 3min assembly. Also produces GCS, EO/IR gimbals, drone generators up to 6kW, and high-thrust motor kits.",
-      "vehicle_type": "",
-      "build_class": "tactical_defense",
+      "description": "Fly Dragon Drone Tech FD50F. Fixed Wing Isr from China.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "fixed_wing_isr",
       "image_file": null,
+      "relations": {},
       "country": "China",
       "compliance": {
         "blue_uas": false,
@@ -13498,26 +16150,38 @@
         "Chinese",
         "also-makes-GCS-gimbals-generators"
       ],
-      "variants": [
-        "FD50F",
-        "FDG51 (55kg payload)",
-        "FDG50F"
-      ],
-      "gcs": "FD2800 (handheld)",
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": "active",
+        "gcs": "FD2800 (handheld)",
+        "variants": [
+          "FD50F",
+          "FDG51 (55kg payload)",
+          "FDG50F"
+        ],
+        "manufacturer_hq": "Chengdu, China",
+        "manufacturer_url": "https://www.flydragondronetech.com",
+        "image_url": null
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 15,
+      "max_endurance_min": 180,
+      "max_payload_kg": 5,
+      "mtow_kg": 30,
+      "propulsion": "Hybrid (gas-electric)",
+      "note": "Chinese. Heavy-lift hybrid."
     },
     {
-      "pid": "DB-aurora-skiron-x",
+      "pid": "DM-0131",
       "name": "Aurora Flight Sciences SKIRON-X",
       "manufacturer": "Aurora Flight Sciences",
-      "manufacturer_hq": "Manassas, VA",
-      "manufacturer_url": "https://www.aurora.aero",
-      "description": "Battery-powered tactical Group 2 UAS with eVTOL capability. Boeing subsidiary with decades of autonomy research. Advanced autonomous flight systems for next-gen aircraft.",
-      "vehicle_type": "",
-      "build_class": "tactical",
+      "description": "Aurora Flight Sciences SKIRON-X. Tactical Isr from United States.",
+      "vehicle_type": "fixed_wing",
+      "build_class": "commercial",
       "category": "tactical_isr",
       "image_file": "https://www.aurora.aero/wp-content/uploads/2024/skiron-x-hero.jpg",
+      "relations": {},
       "country": "United States",
       "compliance": {
         "blue_uas": false,
@@ -13543,22 +16207,37 @@
         "Boeing-subsidiary",
         "autonomy-research"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": "Boeing subsidiary",
+        "funding": {
+          "aurora_boeing": "Aurora Flight Sciences \u2014 wholly owned by Boeing since 2017",
+          "note": "Boeing subsidiary; SKIRON-X is Boeing/Aurora platform \u2014 public company corporate funding"
+        },
+        "production": "development",
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Manassas, VA",
+        "manufacturer_url": "https://www.aurora.aero",
+        "image_url": "https://www.aurora.aero/wp-content/uploads/2024/skiron-x-hero.jpg"
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 100,
+      "max_endurance_min": 120,
+      "max_payload_kg": 10,
+      "mtow_kg": 25,
+      "propulsion": "Electric VTOL fixed-wing",
+      "note": "Boeing subsidiary. Experimental."
     },
     {
-      "pid": "DB-tai-aksungur",
+      "pid": "DM-0132",
       "name": "Turkish Aerospace Industries (TAI) TAI Aksungur",
       "manufacturer": "Turkish Aerospace Industries (TAI)",
-      "manufacturer_hq": "Ankara, Turkey",
-      "manufacturer_url": "https://www.tai.com.tr",
-      "description": "Twin-engine MALE UCAV derived from Anka family. 3,300 kg MTOW, 750 kg payload on 6 hardpoints. 50hr endurance with SIGINT config. Maritime patrol, ASW sonobuoy deployment. Exported to Kyrgyzstan, Chad, Algeria.",
+      "description": "Largest TAI drone. 6 hardpoints (500/300/150 kg per wing). Common avionics with Anka and Anka-3. Shot down in Iraq combat ops (2024). combat_use: ['Turkey anti-PKK operations (Iraq)'] export_customers: ['Kyrgyzstan', 'Chad', 'Algeria', 'Angola (ordered)', 'Uzbekistan (ordered)']",
       "vehicle_type": "fixed_wing",
       "build_class": "defense",
       "category": "male_ucav",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TAI_Aksungur_UAV.jpg/640px-TAI_Aksungur_UAV.jpg",
+      "relations": {},
       "country": "Turkey",
       "compliance": {
         "ndaa_compliant": true
@@ -13587,27 +16266,65 @@
         "turkey",
         "tai"
       ],
-      "variants": [
-        "Aksungur ISR",
-        "Aksungur SIGINT",
-        "Aksungur Maritime Patrol",
-        "Aksungur ASW"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Turkish Naval Forces",
+            "quantity": "3"
+          },
+          {
+            "customer": "Turkish Air Force",
+            "quantity": "5"
+          },
+          {
+            "customer": "Kyrgyz Border Guard",
+            "quantity": "2"
+          },
+          {
+            "customer": "Chad Air Force",
+            "quantity": "2"
+          },
+          {
+            "customer": "Algeria",
+            "quantity": "6 ordered"
+          }
+        ],
+        "funding": null,
+        "production": {
+          "total_delivered": "12+",
+          "rate": "active"
+        },
+        "gcs": null,
+        "variants": [
+          "Aksungur ISR",
+          "Aksungur SIGINT",
+          "Aksungur Maritime Patrol",
+          "Aksungur ASW"
+        ],
+        "manufacturer_hq": "Ankara, Turkey",
+        "manufacturer_url": "https://www.tai.com.tr",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TAI_Aksungur_UAV.jpg/640px-TAI_Aksungur_UAV.jpg"
+      },
+      "max_speed_kmh": 200,
+      "cruise_speed_kmh": 130,
+      "max_range_km": 300,
+      "max_endurance_min": 2880,
+      "max_payload_kg": 750,
+      "mtow_kg": 3300,
+      "wingspan_m": 24,
+      "propulsion": "2x TEI PD-170 (170hp each)",
+      "note": "Maritime/land ISR. 48hr endurance."
     },
     {
-      "pid": "DB-tai-anka-3",
+      "pid": "DM-0133",
       "name": "Turkish Aerospace Industries (TAI) TAI Anka-3 (MIUS)",
       "manufacturer": "Turkish Aerospace Industries (TAI)",
-      "manufacturer_hq": "Ankara, Turkey",
-      "manufacturer_url": "https://www.tai.com.tr",
-      "description": "Flying-wing stealth UCAV with internal weapons bays. 6,500 kg MTOW, 1,200 kg payload. AI-322 turbofan, 0.7 Mach cruise. First drone to operate as loyal wingman (Oct 2024). 50+ ordered for Turkish Air Force.",
+      "description": "First flight Dec 2023. First loyal wingman demonstration Oct 2024 (controlled by manned aircraft). Internal weapons bay tested Jan 2025 with TOLUN munition. Prototype crashed Jun 2025 during Anatolian Eagle exercise. ai_autonomy: True",
       "vehicle_type": "jet_fixed_wing",
-      "build_class": "defense",
+      "build_class": "commercial",
       "category": "heavy_ucav",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TAI_Anka-3.jpg/640px-TAI_Anka-3.jpg",
+      "relations": {},
       "country": "Turkey",
       "compliance": {
         "ndaa_compliant": true
@@ -13638,25 +16355,42 @@
         "tai",
         "swarm-capable"
       ],
-      "variants": [
-        "Anka-3 (single engine)",
-        "Anka-3 twin-engine (planned)"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Turkish Air Force",
+            "quantity": "50+ planned (2026)"
+          }
+        ],
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "Anka-3 (single engine)",
+          "Anka-3 twin-engine (planned)"
+        ],
+        "manufacturer_hq": "Ankara, Turkey",
+        "manufacturer_url": "https://www.tai.com.tr",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TAI_Anka-3.jpg/640px-TAI_Anka-3.jpg"
+      },
+      "max_speed_kmh": 900,
+      "max_range_km": 1500,
+      "max_endurance_min": 300,
+      "max_payload_kg": 1000,
+      "mtow_kg": 6000,
+      "propulsion": "Turbojet",
+      "note": "Stealth UCAV. Under development."
     },
     {
-      "pid": "DB-stm-alpagu",
+      "pid": "DM-0134",
       "name": "STM Defence Technologies STM Alpagu",
       "manufacturer": "STM Defence Technologies",
-      "manufacturer_hq": "Ankara, Turkey",
-      "manufacturer_url": "https://www.stm.com.tr",
-      "description": "Fixed-wing micro loitering munition under 2 kg. Tube-launched, single-soldier portable. 8 km range, 15 min endurance. AI-powered target tracking with man-in-the-loop strike. Entered Turkish service Oct 2025. First export 2023.",
+      "description": "Competes with Switchblade 300 and Hero-30. 270g warhead with electronic proximity fuse. Mesh network allows 4 units to coordinate via single GCS. ALPAGUT is the larger Roketsan/STM co-developed variant. export_customers: ['undisclosed (1+ countries)'] ai_autonomy: True",
       "vehicle_type": "fixed_wing",
-      "build_class": "tactical",
+      "build_class": "commercial",
       "category": "loitering_munition",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STM_Alpagu_kamikaze_drone.jpg/640px-STM_Alpagu_kamikaze_drone.jpg",
+      "relations": {},
       "country": "Turkey",
       "compliance": {
         "ndaa_compliant": true
@@ -13685,22 +16419,43 @@
         "stm",
         "swarm-capable"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Turkish security forces",
+            "status": "in service (Oct 2025)"
+          },
+          {
+            "customer": "Undisclosed export",
+            "status": "delivered (2023)"
+          }
+        ],
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Ankara, Turkey",
+        "manufacturer_url": "https://www.stm.com.tr",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STM_Alpagu_kamikaze_drone.jpg/640px-STM_Alpagu_kamikaze_drone.jpg"
+      },
+      "max_speed_kmh": 72,
+      "max_range_km": 5,
+      "max_endurance_min": 10,
+      "max_payload_kg": 0.5,
+      "mtow_kg": 2,
+      "propulsion": "Electric quad",
+      "note": "Kamikaze mini drone."
     },
     {
-      "pid": "DB-stm-togan",
+      "pid": "DM-0135",
       "name": "STM Defence Technologies STM Togan",
       "manufacturer": "STM Defence Technologies",
-      "manufacturer_hq": "Ankara, Turkey",
-      "manufacturer_url": "https://www.stm.com.tr",
-      "description": "Multi-rotor micro ISR drone for tactical reconnaissance. Single-operator, autonomous navigation with AI-based target detection and classification. EO/IR with 30x zoom. Works with TOGAN NEST automated hangar for 24/7 persistent coverage.",
+      "description": "Part of STM tactical UAV family alongside Kargu and Alpagu. TOGAN NEST is an automated drone hangar for persistent 24/7 ISR operations. ai_autonomy: True",
       "vehicle_type": "multirotor",
-      "build_class": "tactical",
+      "build_class": "commercial",
       "category": "tactical_isr",
       "image_file": "https://www.stm.com.tr/content/uploads/2024/togan-hero.jpg",
+      "relations": {},
       "country": "Turkey",
       "compliance": {
         "ndaa_compliant": true
@@ -13725,22 +16480,34 @@
         "turkey",
         "stm"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Ankara, Turkey",
+        "manufacturer_url": "https://www.stm.com.tr",
+        "image_url": "https://www.stm.com.tr/content/uploads/2024/togan-hero.jpg"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 3,
+      "max_endurance_min": 30,
+      "max_payload_kg": 0.5,
+      "mtow_kg": 3,
+      "propulsion": "Electric quad",
+      "note": "ISR micro drone."
     },
     {
-      "pid": "DB-vestel-karayel",
+      "pid": "DM-0136",
       "name": "Vestel Defence Vestel Karayel",
       "manufacturer": "Vestel Defence",
-      "manufacturer_hq": "Manisa, Turkey",
-      "manufacturer_url": "https://www.vestelsavunma.com",
-      "description": "Tactical ISR UAV with 500 kg MTOW. 18hr endurance, EO/IR payload. Used by Turkish military for surveillance. Less prominent than Baykar/TAI products but fills domestic tactical gap.",
+      "description": "Vestel is better known as a consumer electronics conglomerate. Karayel is their defense division's primary UAV product.",
       "vehicle_type": "fixed_wing",
-      "build_class": "tactical",
+      "build_class": "commercial",
       "category": "tactical_isr",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Karayel_UAS.jpg/640px-Karayel_UAS.jpg",
+      "relations": {},
       "country": "Turkey",
       "compliance": {
         "ndaa_compliant": true
@@ -13766,22 +16533,147 @@
         "turkey",
         "vestel"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Turkish Armed Forces",
+            "status": "in service"
+          }
+        ],
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Manisa, Turkey",
+        "manufacturer_url": "https://www.vestelsavunma.com",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Karayel_UAS.jpg/640px-Karayel_UAS.jpg"
+      },
+      "max_speed_kmh": 180,
+      "max_range_km": 150,
+      "max_endurance_min": 1200,
+      "max_payload_kg": 70,
+      "mtow_kg": 630,
+      "wingspan_m": 10.5,
+      "propulsion": "Rotax 912 (100hp)"
     },
     {
-      "pid": "DB-magura-v5",
+      "pid": "DM-0137",
+      "name": "UkrSpecSystems UkrSpecSystems PD-2",
+      "manufacturer": "UkrSpecSystems",
+      "description": "Modular design \u2014 converts VTOL to fixed-wing in 15 min, no tools. VTOL batteries recharged by 300W onboard generator. Carries EO/IR gimbals, LiDAR, SAR, cell phone trackers. combat_use: ['Ukraine-Russia war']",
+      "vehicle_type": "vtol_fixed_wing",
+      "build_class": "defense",
+      "category": "fixed_wing_isr",
+      "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRSPECSYSTEMS_PD-2_photo_1.jpg",
+      "relations": {},
+      "country": "Ukraine",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "vtol_fixed_wing",
+        "mtow_kg": 25,
+        "payload_kg": 5,
+        "endurance_hr": 10,
+        "range_km": 200,
+        "max_speed_kmh": 120,
+        "propulsion": "gasoline + electric VTOL modules",
+        "launch_method": "VTOL or runway"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "fixed_wing_isr",
+        "combat_proven",
+        "vtol",
+        "modular",
+        "anti_jam",
+        "ukraine",
+        "ukrspecsystems"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Kyiv, Ukraine",
+        "manufacturer_url": "https://ukrspecsystems.com",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRSPECSYSTEMS_PD-2_photo_1.jpg"
+      },
+      "max_speed_kmh": 110,
+      "max_range_km": 50,
+      "max_endurance_min": 120,
+      "max_payload_kg": 3,
+      "mtow_kg": 15,
+      "propulsion": "Electric fixed-wing",
+      "note": "Recon variant. Catapult launched."
+    },
+    {
+      "pid": "DM-0138",
+      "name": "DeViRo DeViRo Leleka-100",
+      "manufacturer": "DeViRo",
+      "description": "Basis for RAM II loitering munition variant. Production dispersed across regions after Russian missile attacks on factories. 300+ delivered before full-scale invasion. combat_use: ['Donbas (2015-2022)', 'Ukraine-Russia war']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "tactical_isr",
+      "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/Humvee_and_Leleka-100_UAV,_Kyiv_2021,_10.jpg",
+      "relations": {},
+      "country": "Ukraine",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 5,
+        "endurance_hr": 2.5,
+        "range_km": 50,
+        "max_speed_kmh": 120,
+        "wingspan_m": 1.98,
+        "ceiling_m": 1500,
+        "propulsion": "electric (triple propeller \u2014 2 tractor, 1 pusher)",
+        "launch_method": "catapult / hand launch"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "tactical_isr",
+        "combat_proven",
+        "mass_produced",
+        "ew_resistant",
+        "ukraine",
+        "deviro"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": {
+          "total_delivered": "1000+"
+        },
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Dnipro, Ukraine",
+        "manufacturer_url": null,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Humvee_and_Leleka-100_UAV,_Kyiv_2021,_10.jpg"
+      },
+      "max_speed_kmh": 120,
+      "max_range_km": 30,
+      "max_endurance_min": 120,
+      "max_payload_kg": 2,
+      "mtow_kg": 7,
+      "propulsion": "Electric fixed-wing",
+      "note": "ISR. Hand-launched."
+    },
+    {
+      "pid": "DM-0139",
       "name": "SpetsTechnoExport / Ukrainian GUR MAGURA V5",
       "manufacturer": "SpetsTechnoExport / Ukrainian GUR",
-      "manufacturer_hq": "Ukraine",
-      "manufacturer_url": null,
-      "description": "Maritime autonomous USV that has fundamentally changed Black Sea warfare. 1.1 ton displacement, 42+ knot top speed, 400+ NM range. Sank multiple Russian warships including corvette Ivanovets and landing ship Tsezar Kunikov. First naval drone to sink enemy warship in combat (Feb 2024). $250-300k per unit. 50/month production capacity.",
+      "description": "First USV to sink enemy warship (Feb 2024). V7 variant shot down two Su-30SM fighters with AIM-9 Sidewinder missiles (May 2025) \u2014 first jet killed by maritime drone. 5.5m hull (V5), 8m (V7). Carbon fiber, low profile (0.5m waterline). Production: 50/month capacity. combat_use: ['Ukraine-Russia war (Black Sea \u2014 sank 8+ Russian warships, damaged 6+, $500M+ damage)'] export_customers: ['Export announced by Zelensky Sep 2025'] ai_autonomy: True",
       "vehicle_type": "usv_surface",
-      "build_class": "tactical_defense",
+      "build_class": "defense",
       "category": "naval",
       "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/MAGURA_V5.jpg",
+      "relations": {},
       "country": "Ukraine",
       "compliance": {
         "ndaa_compliant": true
@@ -13807,27 +16699,39 @@
         "ukraine",
         "swarm-capable"
       ],
-      "variants": [
-        "V5 (kamikaze strike)",
-        "V6P",
-        "V7 (AIM-9 Sidewinder armed, 8m hull)",
-        "Sea Dragon (R-73 armed)"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "V5 (kamikaze strike)",
+          "V6P",
+          "V7 (AIM-9 Sidewinder armed, 8m hull)",
+          "Sea Dragon (R-73 armed)"
+        ],
+        "manufacturer_hq": "Ukraine",
+        "manufacturer_url": null,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MAGURA_V5.jpg"
+      },
+      "max_speed_kmh": 80,
+      "max_range_km": 800,
+      "max_endurance_min": 600,
+      "max_payload_kg": 320,
+      "mtow_kg": 1000,
+      "propulsion": "Marine diesel",
+      "note": "Unmanned SURFACE vessel, not aerial. Naval drone."
     },
     {
-      "pid": "DB-ukraine-fp-1",
+      "pid": "DM-0140",
       "name": "Undisclosed Ukrainian manufacturers FP-1 (Shahed-class OWA)",
       "manufacturer": "Undisclosed Ukrainian manufacturers",
-      "manufacturer_hq": "Ukraine",
-      "manufacturer_url": null,
-      "description": "Mass-produced long-range OWA drone, Ukraine's answer to Iran's Shahed. Low-cost ($55k est.), simple construction. Attributed with ~60% of deep strikes into Russia. Produced at estimated 100 units/day scale.",
+      "description": "Shahed-equivalent domestic production. Multiple manufacturers. Launched in salvos alongside other OWA types and decoys to saturate Russian air defenses. combat_use: ['Ukraine-Russia war (deep strikes into Russia)']",
       "vehicle_type": "fixed_wing",
-      "build_class": "tactical",
+      "build_class": "defense",
       "category": "loitering_munition",
       "image_file": null,
+      "relations": {},
       "country": "Ukraine",
       "compliance": {
         "ndaa_compliant": true
@@ -13852,22 +16756,244 @@
         "low_cost",
         "ukraine"
       ],
-      "variants": [],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": {
+          "rate": "~100 units/day (est.)",
+          "unit_cost": "$55,000 est."
+        },
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Ukraine",
+        "manufacturer_url": null,
+        "image_url": null
+      },
+      "max_speed_kmh": 180,
+      "max_range_km": 1000,
+      "max_endurance_min": 300,
+      "max_payload_kg": 50,
+      "mtow_kg": 200,
+      "propulsion": "Combustion engine"
     },
     {
-      "pid": "DB-iai-heron",
+      "pid": "DM-0141",
+      "name": "UkrJet UkrJet UJ-22 Airborne",
+      "manufacturer": "UkrJet",
+      "description": "Largest pre-war Ukrainian drone design. Precursor to UJ-25/UJ-26 strike variants. Can operate in auto, semi-auto, and manual modes. combat_use: ['Ukraine-Russia war']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "fixed_wing_isr",
+      "image_file": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRJET_UJ-22_Airborne,_Kyiv_2021,_07.jpg",
+      "relations": {},
+      "country": "Ukraine",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 86,
+        "payload_kg": 20,
+        "endurance_hr": 8,
+        "range_km": 800,
+        "max_speed_kmh": 180,
+        "wingspan_m": 4.6,
+        "ceiling_m": 6000,
+        "propulsion": "2-stroke gasoline engine",
+        "launch_method": "runway"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "fixed_wing_isr",
+        "combat_proven",
+        "multi_role",
+        "ukraine",
+        "ukrjet"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": null,
+        "production": null,
+        "gcs": null,
+        "variants": [],
+        "manufacturer_hq": "Ukraine",
+        "manufacturer_url": null,
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UKRJET_UJ-22_Airborne,_Kyiv_2021,_07.jpg"
+      },
+      "max_speed_kmh": 160,
+      "max_range_km": 800,
+      "max_endurance_min": 360,
+      "max_payload_kg": 20,
+      "mtow_kg": 85,
+      "propulsion": "Combustion engine"
+    },
+    {
+      "pid": "DM-0142",
+      "name": "Elbit Systems Elbit Hermes 900 Kochav",
+      "manufacturer": "Elbit Systems",
+      "description": "First MALE UAV with civilian airspace certification (StarLiner, 2024). Shot down over Lebanon and Iran in 2024-2025. $120M contract Sep 2025 for maritime surveillance. combat_use: ['Gaza (Operation Protective Edge 2014)', 'Gaza 2023-2024', 'Lebanon 2024 (Hezbollah shot down 3)', 'Iran 2025 (shot down over Isfahan)'] export_customers: ['Brazil', 'Chile', 'Colombia', 'India', 'Mexico', 'Philippines', 'Singapore', 'Switzerland', 'Iceland', 'Azerbaijan']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "male_ucav",
+      "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hermes_900_UAV.jpg/640px-Hermes_900_UAV.jpg",
+      "relations": {},
+      "country": "Israel",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 1180,
+        "payload_kg": 350,
+        "endurance_hr": 36,
+        "range_km": 1000,
+        "max_speed_kmh": 220,
+        "wingspan_m": 15,
+        "ceiling_m": 9100,
+        "propulsion": "Rotax 914 (gasoline) / HFE variant (heavy fuel)",
+        "launch_method": "runway"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "male_ucav",
+        "combat_proven",
+        "satcom",
+        "civilian_certified",
+        "maritime",
+        "export",
+        "israel",
+        "elbit"
+      ],
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Israeli Air Force",
+            "quantity": "120+ ordered"
+          },
+          {
+            "customer": "India",
+            "quantity": "10 planned"
+          },
+          {
+            "customer": "Philippines",
+            "quantity": "3"
+          },
+          {
+            "customer": "Switzerland",
+            "status": "HFE variant"
+          },
+          {
+            "customer": "Singapore",
+            "status": "selected to replace Hermes 450"
+          }
+        ],
+        "funding": {
+          "elbit_public": "Elbit Systems \u2014 NASDAQ/TASE: ESLT",
+          "contract_2024": "~$335M contract (European country, Q3 2024) for PULS + Hermes 900",
+          "revenue_2024": "Elbit FY2024 revenue ~$6.4B",
+          "note": "Hermes 900 is core Elbit MALE platform \u2014 ongoing production revenue"
+        },
+        "production": {
+          "total_delivered": "200+",
+          "unit_cost": "$6.8M"
+        },
+        "gcs": null,
+        "variants": [
+          "Hermes 900",
+          "Hermes 900 StarLiner (civilian certified)",
+          "Hermes 900 HFE (heavy fuel)",
+          "Drishti-10 (Indian Navy variant)"
+        ],
+        "manufacturer_hq": "Haifa, Israel",
+        "manufacturer_url": "https://elbitsystems.com",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hermes_900_UAV.jpg/640px-Hermes_900_UAV.jpg"
+      },
+      "max_speed_kmh": 220,
+      "max_range_km": 350,
+      "max_endurance_min": 2160,
+      "max_payload_kg": 350,
+      "mtow_kg": 1180,
+      "wingspan_m": 15,
+      "operating_altitude_m": 9144,
+      "propulsion": "Rotax 914 (115hp)"
+    },
+    {
+      "pid": "DM-0143",
+      "name": "Elbit Systems Elbit Hermes 450",
+      "manufacturer": "Elbit Systems",
+      "description": "Basis for UK Watchkeeper program. 86,000+ flight hours supporting British troops in Iraq/Afghanistan. Elbit acquired Thales UK's Watchkeeper shares in 2026. combat_use: ['Gaza (multiple operations)', 'Lebanon', 'Afghanistan (UK)', 'Georgia (shot down by Russia 2008)', 'Iran 2025'] export_customers: ['UK', 'Singapore', 'Brazil', 'Croatia', 'Georgia', 'Mexico', 'Philippines']",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "male_ucav",
+      "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hermes_450_UAV.jpg/640px-Hermes_450_UAV.jpg",
+      "relations": {},
+      "country": "Israel",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 550,
+        "payload_kg": 150,
+        "endurance_hr": 20,
+        "range_km": 200,
+        "max_speed_kmh": 176,
+        "wingspan_m": 10.5,
+        "ceiling_m": 5500,
+        "propulsion": "UEL R902(W) Wankel rotary (52-70hp)",
+        "launch_method": "runway"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "male_ucav",
+        "combat_proven",
+        "export",
+        "wankel_engine",
+        "spike_capable",
+        "israel",
+        "elbit"
+      ],
+      "industry_data": {
+        "contracts": null,
+        "funding": {
+          "elbit_public": "Elbit Systems \u2014 NASDAQ/TASE: ESLT",
+          "note": "Legacy platform; revenue from existing contracts and upgrades"
+        },
+        "production": {
+          "total_delivered": "100+"
+        },
+        "gcs": null,
+        "variants": [
+          "Hermes 450",
+          "Watchkeeper WK450 (UK/Thales)",
+          "Armed variant (Spike missiles)"
+        ],
+        "manufacturer_hq": "Haifa, Israel",
+        "manufacturer_url": "https://elbitsystems.com",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hermes_450_UAV.jpg/640px-Hermes_450_UAV.jpg"
+      },
+      "max_speed_kmh": 176,
+      "max_range_km": 300,
+      "max_endurance_min": 1080,
+      "max_payload_kg": 150,
+      "mtow_kg": 550,
+      "wingspan_m": 10.5,
+      "operating_altitude_m": 5486,
+      "propulsion": "Rotary engine"
+    },
+    {
+      "pid": "DM-0144",
       "name": "Israel Aerospace Industries (IAI) IAI Heron (Machatz-1)",
       "manufacturer": "Israel Aerospace Industries (IAI)",
-      "manufacturer_hq": "Lod, Israel",
-      "manufacturer_url": "https://www.iai.co.il",
-      "description": "IAI's MALE drone family since 1994. Heron 1: 1,150 kg MTOW, 250 kg payload, 52hr endurance. Super Heron: 1,450 kg, 45hr, diesel engine. Heron II: 1,350 kg, 470 kg payload. Operated by 20+ countries. India is largest foreign operator (~90 units).",
+      "description": "India's largest drone fleet. Project Cheetah: India upgrading 90 Herons with SATCOM + Spike missiles. Army Heron crashed at Satwari Apr 2025. combat_use: ['Gaza (Operation Cast Lead 2008)', 'India (Operation Sindoor 2025)', 'Afghanistan (Canada, Australia, Germany)'] export_customers: ['India (~90 units)', 'Germany', 'Canada', 'Australia', 'France', 'Brazil', 'Turkey', 'Singapore', 'Ecuador']",
       "vehicle_type": "fixed_wing",
       "build_class": "defense",
       "category": "male_ucav",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IAI_Heron_in_flight.jpg/640px-IAI_Heron_in_flight.jpg",
+      "relations": {},
       "country": "Israel",
       "compliance": {
         "ndaa_compliant": true
@@ -13895,28 +17021,52 @@
         "israel",
         "iai"
       ],
-      "variants": [
-        "Heron Mk1",
-        "Super Heron (diesel, 45hr)",
-        "Heron Mk2 (ATOL, SATCOM)",
-        "Heron-T (compact)",
-        "EADS Harfang (French variant)"
-      ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": {
+          "idf": "IDF MALE platform \u2014 decades of operational use",
+          "nato_lease": "NATO ally leases: Germany, Canada, India (Heron TP)",
+          "export_contracts": "30+ countries; India largest foreign operator (Heron TP)",
+          "programs": "IDF MALE, NATO ally leases, FMS"
+        },
+        "funding": {
+          "iai_government": "Israel Aerospace Industries \u2014 Israeli government-owned",
+          "note": "State-owned enterprise; no VC funding. Heron exported to 30+ countries."
+        },
+        "production": {
+          "total_delivered": "200+"
+        },
+        "gcs": null,
+        "variants": [
+          "Heron Mk1",
+          "Super Heron (diesel, 45hr)",
+          "Heron Mk2 (ATOL, SATCOM)",
+          "Heron-T (compact)",
+          "EADS Harfang (French variant)"
+        ],
+        "manufacturer_hq": "Lod, Israel",
+        "manufacturer_url": "https://www.iai.co.il",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IAI_Heron_in_flight.jpg/640px-IAI_Heron_in_flight.jpg"
+      },
+      "max_speed_kmh": 207,
+      "max_range_km": 350,
+      "max_endurance_min": 3120,
+      "max_payload_kg": 250,
+      "mtow_kg": 1150,
+      "wingspan_m": 16.6,
+      "operating_altitude_m": 10668,
+      "propulsion": "Rotax 914 (115hp)",
+      "note": "52hr endurance. MALE ISR."
     },
     {
-      "pid": "DB-iai-heron-tp",
+      "pid": "DM-0145",
       "name": "Israel Aerospace Industries (IAI) IAI Heron TP (Eitan)",
       "manufacturer": "Israel Aerospace Industries (IAI)",
-      "manufacturer_hq": "Lod, Israel",
-      "manufacturer_url": "https://www.iai.co.il",
-      "description": "Israel's largest and most capable drone. 5,400 kg MTOW, 1,000 kg payload, 1,200hp PT6A turboprop, 26m wingspan. 30+ hr endurance at 45,000 ft ceiling. Triple-redundant avionics. Weapons-capable (reportedly). Germany ordered 140 units ($166M).",
+      "description": "Largest Israeli drone. Some sources cite 70+ hr endurance. IAI avoids confirming weapons capability publicly. Germany's deal included strike capability. Aviation Week reports 1,200hp PT6A engine. combat_use: ['IDF ISTAR operations', 'India border surveillance'] export_customers: ['Germany', 'India']",
       "vehicle_type": "fixed_wing",
       "build_class": "defense",
       "category": "heavy_ucav",
       "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heron_TP_%28Eitan%29_UAV.jpg/640px-Heron_TP_%28Eitan%29_UAV.jpg",
+      "relations": {},
       "country": "Israel",
       "compliance": {
         "ndaa_compliant": true
@@ -13945,13 +17095,205 @@
         "israel",
         "iai"
       ],
-      "variants": [
-        "Heron TP",
-        "Heron TP XP"
+      "industry_data": {
+        "contracts": [
+          {
+            "customer": "Israeli Air Force",
+            "status": "operational"
+          },
+          {
+            "customer": "Germany",
+            "quantity": "140 (80 operational + 60 training)",
+            "value": "$166M"
+          },
+          {
+            "customer": "India",
+            "quantity": "leased + procurement planned"
+          }
+        ],
+        "funding": {
+          "iai_government": "Israel Aerospace Industries \u2014 Israeli government-owned",
+          "note": "IAI Heron TP is IDF-primary MALE platform; state-funded R&D"
+        },
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "Heron TP",
+          "Heron TP XP"
+        ],
+        "manufacturer_hq": "Lod, Israel",
+        "manufacturer_url": "https://www.iai.co.il",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heron_TP_%28Eitan%29_UAV.jpg/640px-Heron_TP_%28Eitan%29_UAV.jpg"
+      },
+      "max_speed_kmh": 370,
+      "max_range_km": 1000,
+      "max_endurance_min": 2160,
+      "max_payload_kg": 1000,
+      "mtow_kg": 5670,
+      "wingspan_m": 26,
+      "operating_altitude_m": 13716,
+      "propulsion": "P&W PT6A-67A (1,200hp)",
+      "note": "36hr endurance. Israel's largest drone."
+    },
+    {
+      "pid": "DM-0146",
+      "name": "UVision Air UVision Hero Family",
+      "manufacturer": "UVision Air",
+      "description": "Specs shown are for Hero-120 (most widely adopted variant). Hero-120 selected by US Army for LMAMS. Full family spans 3-125 kg across 6+ variants. Each variant scales warhead and range for different echelons. combat_use: ['Israel/IDF', 'Azerbaijan (Nagorno-Karabakh \u2014 unconfirmed)'] export_customers: ['United States (LMAMS program)', 'multiple undisclosed'] ai_autonomy: True",
+      "vehicle_type": "fixed_wing",
+      "build_class": "defense",
+      "category": "loitering_munition",
+      "image_file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hero_30_loitering_munition.jpg/640px-Hero_30_loitering_munition.jpg",
+      "relations": {},
+      "country": "Israel",
+      "compliance": {
+        "ndaa_compliant": true
+      },
+      "specs": {
+        "type": "fixed_wing",
+        "mtow_kg": 12.5,
+        "payload_kg": 4.5,
+        "endurance_min": 60,
+        "range_km": 40,
+        "max_speed_kmh": 185,
+        "propulsion": "electric",
+        "launch_method": "tube / canister"
+      },
+      "combat_proven": true,
+      "status": "production",
+      "tags": [
+        "loitering_munition",
+        "combat_proven",
+        "family",
+        "scalable",
+        "tube_launch",
+        "us_army",
+        "israel",
+        "uvision"
       ],
-      "gcs": null,
-      "handbook_profile": false,
-      "relations": {}
+      "industry_data": {
+        "contracts": null,
+        "funding": {
+          "uvision_private": "UVision Air \u2014 privately held Israeli defense company",
+          "rheinmetall_partnership": "Joint venture with Rheinmetall for European market (Hero Family EU)",
+          "note": "No public funding data available; private Israeli company"
+        },
+        "production": null,
+        "gcs": null,
+        "variants": [
+          "Hero-30 (3 kg, man-portable)",
+          "Hero-70 (7 kg, platoon)",
+          "Hero-120 (12.5 kg, anti-armor, US LMAMS)",
+          "Hero-400 (40 kg, company)",
+          "Hero-900",
+          "Hero-1250 (125 kg, cruise missile class)"
+        ],
+        "manufacturer_hq": "Airport City, Israel",
+        "manufacturer_url": "https://uvisionuav.com",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hero_30_loitering_munition.jpg/640px-Hero_30_loitering_munition.jpg"
+      },
+      "max_speed_kmh": 185,
+      "max_range_km": 150,
+      "max_endurance_min": 360,
+      "max_payload_kg": 30,
+      "mtow_kg": 135,
+      "propulsion": "Various (electric + combustion)",
+      "note": "Hero-20/30/120/400. Loitering munition family."
+    },
+    {
+      "pid": "DM-0147",
+      "name": "Nomadium Robotics TerraHawk",
+      "manufacturer": "Nomadium Robotics",
+      "description": "Other products in pipeline: TerraPOD, FarSight, Sentinel (names visible in nav, no public specs yet).",
+      "vehicle_type": "blended_wing_vtol",
+      "build_class": "commercial",
+      "category": "cots_enterprise",
+      "image_file": "https://cdn.prod.website-files.com/6951492c6c7364845bc43d85/69585dd5e75c527f4fde3c65_a2fd307f7dd6f59b1517e6aeffd1069f_TerraHawk-enhanced.png",
+      "relations": {},
+      "country": "Bulgaria",
+      "compliance": {
+        "blue_uas": false,
+        "ndaa_compliant": null,
+        "eu_c2_pending": true,
+        "eu_c6_pending": true,
+        "note": "EU C2 and C6 certification pending, expected Q3 2026. Developer Kit exempt under EU Regulation 2018/1139 Article 2(3)(a) for police, military, SAR, border control, firefighting."
+      },
+      "specs": {
+        "type": "blended_wing_vtol",
+        "wingspan_m": 2.0,
+        "mtow_kg": 4.0,
+        "payload_kg": 1.0,
+        "payload_volume_mm": "120x90x70",
+        "payload_power_v": [
+          5,
+          12,
+          24
+        ],
+        "endurance_hr": 3.0,
+        "endurance_min": 180,
+        "range_km": 180,
+        "speed_kmh": 60,
+        "speed_ms": 16.7,
+        "area_mapped_km2_per_flight": 10,
+        "ip_rating": "IP54",
+        "operating_temp_max_c": 100,
+        "imu_redundancy": "triple",
+        "flight_mode_redundancy": "double (4+1 or 4+2 VTOL config)",
+        "parachute": true,
+        "comms_primary": "4G cellular",
+        "comms_redundancy": "satellite",
+        "gps": "RTK/PPK supported",
+        "autopilot": "SkyHub (waypoint-based, web interface)",
+        "collision_avoidance": true,
+        "construction": "3D printed military-grade filament (additive manufacturing)",
+        "vtol_config": "blended-wing with quad VTOL transition"
+      },
+      "combat_proven": false,
+      "status": "production",
+      "tags": [
+        "blended-wing",
+        "vtol",
+        "long-endurance",
+        "fixed-wing",
+        "isr",
+        "mapping",
+        "inspection",
+        "european",
+        "additive-manufacturing",
+        "cellular-comms",
+        "satellite-redundancy",
+        "rtk-ppk",
+        "ip54"
+      ],
+      "industry_data": {
+        "contracts": {},
+        "funding": {
+          "accelerator": "Scion Earth Accelerator (powered by Rezolv Energy)",
+          "accelerator_result": "Winner, Season 1",
+          "notes": "Bulgarian startup. Strategic partners: Scion Earth, Rezolv Energy, Tectonic 3D, ID Robots."
+        },
+        "production": {
+          "method": "In-house additive manufacturing (3D printing) with military-grade filaments",
+          "notes": "Additive manufacturing enables competitive cost vs fiberglass composites"
+        },
+        "gcs": {
+          "skyhub": "Cloud-based fleet manager \u2014 4G + satellite, web interface, live video. \u20ac400 + \u20ac20/mo",
+          "tactical_rc_tablet": "SIYI MK15 / SIYI RC10 Pro, 10-40km range, live video. \u20ac700-\u20ac2100"
+        },
+        "variants": [
+          "TerraHawk Developer Kit",
+          "TerraHawk Pro"
+        ],
+        "manufacturer_hq": "Europe (Bulgaria)",
+        "manufacturer_url": "https://www.nomadiumrobotics.com",
+        "image_url": "https://cdn.prod.website-files.com/6951492c6c7364845bc43d85/69585dd5e75c527f4fde3c65_a2fd307f7dd6f59b1517e6aeffd1069f_TerraHawk-enhanced.png"
+      },
+      "max_speed_kmh": 55,
+      "max_range_km": 5,
+      "max_endurance_min": 35,
+      "max_payload_kg": 2,
+      "mtow_kg": 5,
+      "propulsion": "Electric quad"
     }
   ]
 }

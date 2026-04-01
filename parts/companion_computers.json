@@ -919,5 +919,69 @@
     "schema_data": {
       "weight_g": 39
     }
+  },
+  {
+    "pid": "CMP-MFR-NVIDIA-Jetson-Orin-Nano",
+    "name": "NVIDIA Jetson Orin Nano",
+    "manufacturer": "NVIDIA",
+    "description": "Entry-level AI edge computer. 40 TOPS. Best value for drone CV/AI.",
+    "link": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/",
+    "approx_price": 200,
+    "source": "www.nvidia.com",
+    "schema_data": {
+      "gpu": "1024-core Ampere",
+      "cpu": "6-core Arm Cortex-A78AE",
+      "ai_tops": 40,
+      "memory_gb": "4/8 LPDDR5",
+      "power_w": "7-15",
+      "weight_g": 60,
+      "interface": "PCIe, USB 3.2, MIPI CSI, I2C, SPI, UART"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
+    }
+  },
+  {
+    "pid": "CMP-MFR-NVIDIA-Jetson-Orin-NX",
+    "name": "NVIDIA Jetson Orin NX",
+    "manufacturer": "NVIDIA",
+    "description": "Mid-range AI compute. 100 TOPS. Multi-camera drone perception.",
+    "link": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/",
+    "approx_price": 400,
+    "source": "www.nvidia.com",
+    "schema_data": {
+      "gpu": "1024-core Ampere",
+      "cpu": "8-core Arm Cortex-A78AE",
+      "ai_tops": 100,
+      "memory_gb": "8/16 LPDDR5",
+      "power_w": "10-25",
+      "weight_g": 60
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
+    }
+  },
+  {
+    "pid": "CMP-MFR-NVIDIA-Jetson-AGX-Orin",
+    "name": "NVIDIA Jetson AGX Orin",
+    "manufacturer": "NVIDIA",
+    "description": "Flagship edge AI. 275 TOPS. Full autonomous navigation + multi-sensor fusion.",
+    "link": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/",
+    "approx_price": 900,
+    "source": "www.nvidia.com",
+    "schema_data": {
+      "gpu": "2048-core Ampere",
+      "cpu": "12-core Arm Cortex-A78AE",
+      "ai_tops": 275,
+      "memory_gb": "32/64 LPDDR5",
+      "power_w": "15-60",
+      "weight_g": 125
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
+    }
   }
 ]

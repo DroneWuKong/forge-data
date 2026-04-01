@@ -317,7 +317,17 @@
     },
     "approx_price": 79.99,
     "schema_data": {
-      "weight_g": 13
+      "current_rating": "70A continuous per motor",
+      "burst_current": "80A",
+      "voltage": "3-6S (12.6-25.2V)",
+      "firmware": "BLHeli_32",
+      "protocol": "DShot150/300/600, Oneshot, Multishot, PWM",
+      "mounting_mm": "30.5x30.5",
+      "weight_g": 13,
+      "features": "Current sensor, temperature sensor, LED support",
+      "country": "Croatia (EU)",
+      "ndaa_compliant": true,
+      "wiring_notes": "Designed to stack with Orqa QuadCore H7 or 3030 Lite F405. 8-pin connector: M1-M4 signal + CURR + VBAT + GND + ESC telemetry TX. Ribbon cable or solder."
     }
   },
   {
@@ -7820,7 +7830,8 @@
       "esc",
       "7_inch"
     ],
-    "approx_price": 36.59
+    "approx_price": 36.59,
+    "description": "ESC by 603700. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -7846,7 +7857,8 @@
       "esc",
       "7_inch"
     ],
-    "approx_price": 38.78
+    "approx_price": 38.78,
+    "description": "ESC by 603700. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -7872,7 +7884,8 @@
       "esc",
       "10_inch"
     ],
-    "approx_price": 38.78
+    "approx_price": 38.78,
+    "description": "ESC by 603700. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-603700-\u0421\u0422\u0420\u0418\u0419-v1-8S/",
@@ -7898,7 +7911,8 @@
       "esc",
       "heavy_lift"
     ],
-    "approx_price": 62.93
+    "approx_price": 62.93,
+    "description": "ESC by 603700. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-Flytex-ESC-65A",
@@ -7924,7 +7938,8 @@
       "esc",
       "10_inch"
     ],
-    "approx_price": 34.15
+    "approx_price": 34.15,
+    "description": "ESC by Flytex. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-DiFly-DF-ESC-50A-R",
@@ -7950,7 +7965,8 @@
       "esc",
       "7_inch"
     ],
-    "approx_price": 24.39
+    "approx_price": 24.39,
+    "description": "ESC by DiFly. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS50A-RE-6S",
@@ -7976,7 +7992,8 @@
       "esc",
       "7_inch"
     ],
-    "approx_price": 35.34
+    "approx_price": 35.34,
+    "description": "ESC by LEADER Tech. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS80A-RE-8S",
@@ -8002,7 +8019,8 @@
       "esc",
       "heavy_lift"
     ],
-    "approx_price": 60.95
+    "approx_price": 60.95,
+    "description": "ESC by LEADER Tech. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-KaraFPV-Golden-4in1-",
@@ -8028,7 +8046,8 @@
       "esc",
       "heavy_lift"
     ],
-    "approx_price": 61.39
+    "approx_price": 61.39,
+    "description": "ESC by KaraFPV. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-Stingbee-Stellar-8bit",
@@ -8054,7 +8073,8 @@
       "esc",
       "10_inch"
     ],
-    "approx_price": 36.59
+    "approx_price": 36.59,
+    "description": "ESC by Stingbee. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-SkyPulse-6-in-1-AM32-",
@@ -8080,7 +8100,8 @@
       "esc",
       "heavy_lift"
     ],
-    "approx_price": 79.44
+    "approx_price": 79.44,
+    "description": "ESC by SkyPulse. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-SkyPulse-GORO-AM32-12",
@@ -8106,7 +8127,8 @@
       "esc",
       "heavy_lift"
     ],
-    "approx_price": 71.95
+    "approx_price": 71.95,
+    "description": "ESC by SkyPulse. A continuous. firmware. mounting."
   },
   {
     "pid": "ESC-UA-FT-65A-4\u04321-6S-3",
@@ -8132,6 +8154,7 @@
       "esc",
       "10_inch"
     ],
-    "approx_price": 68.78
+    "approx_price": 68.78,
+    "description": "ESC by. A continuous. firmware. mounting."
   }
 ]

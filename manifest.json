@@ -1,10 +1,10 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-03-24",
+  "last_updated": "2026-04-01",
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 184
+    "count": 219
   },
   "parts": {
     "antennas": {
@@ -21,7 +21,7 @@
     },
     "companion_computers": {
       "file": "parts/companion_computers.json",
-      "count": 22
+      "count": 25
     },
     "control_link_tx": {
       "file": "parts/control_link_tx.json",
@@ -33,7 +33,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 162
+      "count": 219
     },
     "esad": {
       "file": "parts/esad.json",
@@ -73,11 +73,11 @@
     },
     "lidar": {
       "file": "parts/lidar.json",
-      "count": 18
+      "count": 25
     },
     "mesh_radios": {
       "file": "parts/mesh_radios.json",
-      "count": 24
+      "count": 29
     },
     "motors": {
       "file": "parts/motors.json",
@@ -131,5 +131,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3726
+  "total_parts": 3798
 }

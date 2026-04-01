@@ -2205,7 +2205,7 @@
     "category": "stacks",
     "name": "Diatone Mamba Stack Mk4 F722 App Fc 45A 3 6S Bheli 32 128K Esc Mpu6000",
     "manufacturer": "",
-    "description": "",
+    "description": "FC+ESC stack by . FC + A ESC.",
     "link": "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-45a-3-6s-bheli-32-128k-esc-mpu6000.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/i/diatone_mk4_stack_-_mk4_f722_app_fc_55a_3-6s_esc_mpu6000_1_2.jpg",
     "mcu_family": "F7",
@@ -2321,7 +2321,7 @@
     "category": "stacks",
     "name": "Diatone Mamba Stack - MK4 F722 APP FC + 65A 3-6S BHeli_32 128K ESC (MPU6000)",
     "manufacturer": "",
-    "description": "",
+    "description": "FC+ESC stack by . FC + A ESC.",
     "link": "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-65a-3-6s-bheli-32-128k-esc-mpu6000.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mk4_stack_-_mk4_f722_app_fc_55a_3-6s_esc_mpu6000_1_1.jpg",
     "mcu_family": "F7",
@@ -5543,7 +5543,7 @@
     "category": "stacks",
     "name": "SpeedyBee F405 Mini Stack - F405 V3 FC + 35A 3-6S BLHeli_S 4-in-1 ESC - 20x20",
     "manufacturer": "",
-    "description": "",
+    "description": "FC+ESC stack by . FC + A ESC.",
     "link": "https://www.getfpv.com/electronics/stacks/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/s/p/speedybee_f405_mini_stack_4_.jpg",
     "mcu_family": "F4",
@@ -5736,7 +5736,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 62.93
+    "approx_price": 62.93,
+    "description": "FC+ESC stack by 603700. FC + A ESC."
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
@@ -5762,7 +5763,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 65.12
+    "approx_price": 65.12,
+    "description": "FC+ESC stack by 603700. FC + A ESC."
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1.",
@@ -5788,7 +5790,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 53.66
+    "approx_price": 53.66,
+    "description": "FC+ESC stack by 603700. FC + A ESC."
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1",
@@ -5814,7 +5817,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 47.56
+    "approx_price": 47.56,
+    "description": "FC+ESC stack by 603700. FC + A ESC."
   },
   {
     "pid": "STK-UA-VYRIY-F405V2-50A",
@@ -5840,7 +5844,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 56.51
+    "approx_price": 56.51,
+    "description": "FC+ESC stack by VYRIY. FC + A ESC."
   },
   {
     "pid": "STK-UA-Flytex-Fuzia-F405-+",
@@ -5866,7 +5871,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 58.54
+    "approx_price": 58.54,
+    "description": "FC+ESC stack by Flytex. FC + A ESC."
   },
   {
     "pid": "STK-UA-Flytex-Furia-12S-H7",
@@ -5892,7 +5898,8 @@
       "stack",
       "fixed_wing"
     ],
-    "approx_price": 78.05
+    "approx_price": 78.05,
+    "description": "FC+ESC stack by Flytex. FC + A ESC."
   },
   {
     "pid": "STK-UA-Karma-Fl-F405-V1",
@@ -5918,7 +5925,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 70.73
+    "approx_price": 70.73,
+    "description": "FC+ESC stack by Karma Flights. FC + A ESC."
   },
   {
     "pid": "STK-UA-XRush4-F4V2",
@@ -5944,7 +5952,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 54.88
+    "approx_price": 54.88,
+    "description": "FC+ESC stack by XRush4. FC + A ESC."
   },
   {
     "pid": "STK-UA-XRush4-F4V3",
@@ -5970,7 +5979,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 65.85
+    "approx_price": 65.85,
+    "description": "FC+ESC stack by XRush4. FC + A ESC."
   },
   {
     "pid": "STK-UA-DiFly-DiFly-F405-+",
@@ -5996,7 +6006,8 @@
       "stack",
       "7_inch"
     ],
-    "approx_price": 48.78
+    "approx_price": 48.78,
+    "description": "FC+ESC stack by DiFly. FC + A ESC."
   },
   {
     "pid": "STK-UA-KaraFPV-Golden-F405-",
@@ -6022,7 +6033,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 68.78
+    "approx_price": 68.78,
+    "description": "FC+ESC stack by KaraFPV. FC + A ESC."
   },
   {
     "pid": "STK-UA-KaraFPV-Golden-F722-",
@@ -6048,7 +6060,8 @@
       "stack",
       "heavy_lift"
     ],
-    "approx_price": 93.78
+    "approx_price": 93.78,
+    "description": "FC+ESC stack by KaraFPV. FC + A ESC."
   },
   {
     "pid": "STK-UA-Stingbee-Stellar-Stac",
@@ -6074,7 +6087,8 @@
       "stack",
       "10_inch"
     ],
-    "approx_price": 64.63
+    "approx_price": 64.63,
+    "description": "FC+ESC stack by Stingbee. FC + A ESC."
   },
   {
     "pid": "STK-UA-SkyPulse-F405-+-ESC-A",
@@ -6100,7 +6114,8 @@
       "stack",
       "heavy_lift"
     ],
-    "approx_price": 45.54
+    "approx_price": 45.54,
+    "description": "FC+ESC stack by SkyPulse. FC + A ESC."
   },
   {
     "pid": "STK-1102",

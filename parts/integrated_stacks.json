@@ -41,7 +41,16 @@
     ],
     "approx_price": 78,
     "schema_data": {
-      "weight_g": 13
+      "fc_mcu": "STM32H7",
+      "companion": "NXP i.MX8M Plus",
+      "npu": "2.3 TOPS",
+      "weight_g": 13,
+      "features": "FC + companion computer on single board. Onboard AI inference. MAVLink bridge built-in.",
+      "firmware": "PX4 (FC side), Linux (companion side)",
+      "connectors": "JST-GH (Pixhawk standard)",
+      "country": "Croatia (EU)",
+      "ndaa_compliant": true,
+      "pinout_notes": "All-in-one board. No separate companion computer wiring needed. Direct Ethernet and serial between FC and companion."
     }
   },
   {

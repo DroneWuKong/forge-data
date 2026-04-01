@@ -1233,7 +1233,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 207.32
+    "approx_price": 207.32,
+    "description": "Thermal camera by Seek UAV. mK NETD."
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-U",
@@ -1258,7 +1259,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 292.68
+    "approx_price": 292.68,
+    "description": "Thermal camera by Seek UAV. mK NETD."
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
@@ -1283,7 +1285,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 390.24
+    "approx_price": 390.24,
+    "description": "Thermal camera by Seek UAV. mK NETD."
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
@@ -1308,7 +1311,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 536.59
+    "approx_price": 536.59,
+    "description": "Thermal camera by Seek UAV. mK NETD."
   },
   {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-256",
@@ -1333,7 +1337,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 243.9
+    "approx_price": 243.9,
+    "description": "Thermal camera by Odd Systems. mK NETD."
   },
   {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-384\u1d45",
@@ -1358,7 +1363,8 @@
       "thermal",
       "ukraine"
     ],
-    "approx_price": 426.83
+    "approx_price": 426.83,
+    "description": "Thermal camera by Odd Systems. mK NETD."
   },
   {
     "pid": "THR-0032",

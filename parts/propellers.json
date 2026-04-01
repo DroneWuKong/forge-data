@@ -4361,7 +4361,7 @@
     "category": "propellers",
     "name": "HQProp DP 3x4x3 PC Propeller (Set of 4)",
     "manufacturer": "HQProp",
-    "description": "3X4X3 props from HQ!",
+    "description": "Propeller by HQProp. \" diameter. -blade. material.",
     "link": "https://www.getfpv.com/propellers/mini-quad-propellers/hqprop-dp-3x4x3-pc-propeller-set-of-4.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/q/hqprop3x4x3-group_3.jpg",
     "diameter_in": 3.0,
@@ -10361,7 +10361,7 @@
     "category": "propellers",
     "name": "DAL Cyclone T5046C Pro Propellers (Set of 4 - Crystal Blue)",
     "manufacturer": "DAL",
-    "description": "dummy",
+    "description": "Propeller by DAL. \" diameter. -blade. material.",
     "link": "https://www.getfpv.com/propellers/mini-quad-propellers/dal-cyclone-t5046c-pro-propellers-set-of-4-crystal-blue.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/z/ezgif-1-fc76a5529b1c.jpg",
     "diameter_in": 5.0,
@@ -20347,7 +20347,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 2.8
+    "approx_price": 2.8,
+    "description": "Propeller by PROP. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-PROP-UA-7.5x3.7x3",
@@ -20373,7 +20374,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 3.05
+    "approx_price": 3.05,
+    "description": "Propeller by PROP. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-PROP-UA-8x3.7x3",
@@ -20399,7 +20401,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 5.37
+    "approx_price": 5.37,
+    "description": "Propeller by PROP. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-PROP-UA-10x4.5x3",
@@ -20425,7 +20428,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 9.76
+    "approx_price": 9.76,
+    "description": "Propeller by PROP. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-PROP-UA-10x5x3",
@@ -20451,7 +20455,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 9.76
+    "approx_price": 9.76,
+    "description": "Propeller by PROP. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-\u0420\u0406\u0419-9\u00d75\u00d73",
@@ -20477,7 +20482,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 6.1
+    "approx_price": 6.1,
+    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-\u0420\u0406\u0419-10\u00d75\u00d73",
@@ -20503,7 +20509,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 8.54
+    "approx_price": 8.54,
+    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-DiFly-DF-Prop-7\u0445",
@@ -20529,7 +20536,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 2.44
+    "approx_price": 2.44,
+    "description": "Propeller by DiFly. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-DiFly-DF-Prop-8\u0445",
@@ -20555,7 +20563,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 3.66
+    "approx_price": 3.66,
+    "description": "Propeller by DiFly. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-DiFly-DF-Prop-10",
@@ -20581,7 +20590,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 6.59
+    "approx_price": 6.59,
+    "description": "Propeller by DiFly. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-UDC-UDCProp-7x",
@@ -20607,7 +20617,8 @@
       "propeller",
       "7_inch"
     ],
-    "approx_price": 2.68
+    "approx_price": 2.68,
+    "description": "Propeller by UDC. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-UDC-UDCProp-9x",
@@ -20633,7 +20644,8 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 8.78
+    "approx_price": 8.78,
+    "description": "Propeller by UDC. \" diameter. -blade. material."
   },
   {
     "pid": "PROP-UA-UDC-UDCProp-10",
@@ -20659,6 +20671,7 @@
       "propeller",
       "10_inch"
     ],
-    "approx_price": 10.24
+    "approx_price": 10.24,
+    "description": "Propeller by UDC. \" diameter. -blade. material."
   }
 ]
