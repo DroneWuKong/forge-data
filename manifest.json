@@ -87,6 +87,10 @@
       "file": "parts/payload_droppers.json",
       "count": 5
     },
+    "platform_images": {
+      "file": "parts/platform_images.json",
+      "count": 0
+    },
     "propellers": {
       "file": "parts/propellers.json",
       "count": 484
