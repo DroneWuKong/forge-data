@@ -832,7 +832,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "max_power_mw": 2000
   },
   {
     "pid": "VTX-1041",
@@ -3156,6 +3157,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "Video transmitter by KaraFPV. mW output. band."
+    "description": "Video transmitter by KaraFPV. mW output. band.",
+    "max_power_mw": 4000
   }
 ]

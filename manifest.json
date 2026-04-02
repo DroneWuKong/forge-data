@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-04-01",
+  "last_updated": "2026-04-02",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 219
@@ -86,6 +86,10 @@
     "payload_droppers": {
       "file": "parts/payload_droppers.json",
       "count": 5
+    },
+    "platform_images": {
+      "file": "parts/platform_images.json",
+      "count": 0
     },
     "propellers": {
       "file": "parts/propellers.json",

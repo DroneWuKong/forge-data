@@ -43,7 +43,8 @@
     "approx_price": 34.99,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1001",
@@ -84,7 +85,10 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false,
+    "mcu_family": "H7",
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-1002",
@@ -125,7 +129,10 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false,
+    "mcu_family": "H7",
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-1003",
@@ -171,7 +178,8 @@
     "approx_price": 59.99,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1005",
@@ -191,7 +199,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1006",
@@ -213,7 +222,8 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1007",
@@ -233,7 +243,10 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false,
+    "mcu_family": "H7",
+    "mcu": "STM32H757xx"
   },
   {
     "pid": "FC-1008",
@@ -309,7 +322,8 @@
       "ndaa_compliant": true,
       "betaflight_target": "ORQA_QUADCORE_H7",
       "pinout_notes": "Top side: DJI connector, USB-C, boot button. Bottom side: solder pads for UARTs, motor signals, power, LED, buzzer. VBAT input via 4-in-1 ESC connection or direct solder."
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1009",
@@ -355,7 +369,8 @@
     "approx_price": 79.99,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1010",
@@ -495,7 +510,8 @@
       "ndaa_compliant": true,
       "betaflight_target": "ORQA_3030LITE_F405",
       "pinout_notes": "Designed to pair with Orqa 3030 70A ESC in a stack. 30.5mm mounting. Standard solder pad layout."
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1012",
@@ -541,7 +557,8 @@
     "approx_price": 74,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1014",
@@ -924,7 +941,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1025",
@@ -968,7 +986,8 @@
     "approx_price": 71,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1026",
@@ -1014,7 +1033,8 @@
     "approx_price": 59,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1027",
@@ -1112,7 +1132,8 @@
     "approx_price": 78,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1029",
@@ -1158,7 +1179,8 @@
     "approx_price": 74,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1030",
@@ -1410,7 +1432,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1036",
@@ -1560,7 +1583,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1039",
@@ -1658,7 +1682,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1041",
@@ -1702,7 +1727,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1042",
@@ -1956,7 +1982,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1052",
@@ -2158,7 +2185,8 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1060",
@@ -2204,7 +2232,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1062",
@@ -2248,7 +2277,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1063",
@@ -2267,7 +2297,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1064",
@@ -2311,7 +2342,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1066",
@@ -2408,7 +2440,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1069",
@@ -2454,7 +2487,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1070",
@@ -2707,7 +2741,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1076",
@@ -2753,7 +2788,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1078",
@@ -2774,7 +2810,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1082",
@@ -2949,7 +2986,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1088",
@@ -2995,7 +3033,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1089",
@@ -3145,7 +3184,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1096",
@@ -3189,7 +3229,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1097",
@@ -3235,7 +3276,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1098",
@@ -3385,7 +3427,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1101",
@@ -3404,7 +3447,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1102",
@@ -3450,7 +3494,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1103",
@@ -3496,7 +3541,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1104",
@@ -3592,7 +3638,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1106",
@@ -3638,7 +3685,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1107",
@@ -3838,7 +3886,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1114",
@@ -3884,7 +3933,8 @@
     "approx_price": 55,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1115",
@@ -3894,7 +3944,7 @@
     "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/cubepilot-the-cube-orange-standard-set.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1_1.jpg",
-    "mcu_family": "",
+    "mcu_family": "H7",
     "firmware_targets": "Ardupilot/PX4",
     "compatibility": {
       "mounting_pattern_mm": null,
@@ -3928,7 +3978,9 @@
     "approx_price": 70,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false,
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-1116",
@@ -4076,7 +4128,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1120",
@@ -4174,7 +4227,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1122",
@@ -4220,7 +4274,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1123",
@@ -4422,7 +4477,8 @@
     "approx_price": 72,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1127",
@@ -4466,7 +4522,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1128",
@@ -4510,7 +4567,8 @@
     "approx_price": 36,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1129",
@@ -4554,7 +4612,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1130",
@@ -4652,7 +4711,8 @@
     "approx_price": 79,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1133",
@@ -4750,7 +4810,8 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1136",
@@ -4796,7 +4857,8 @@
     "approx_price": 56,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1137",
@@ -4894,7 +4956,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1139",
@@ -4940,7 +5003,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1143",
@@ -4986,7 +5050,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1151",
@@ -5032,7 +5097,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1154",
@@ -5128,7 +5194,8 @@
     "approx_price": 70,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1160",
@@ -5172,7 +5239,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1163",
@@ -5322,7 +5390,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1167",
@@ -5368,7 +5437,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1168",
@@ -5414,7 +5484,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1169",
@@ -5512,7 +5583,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1171",
@@ -5922,7 +5994,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1180",
@@ -6016,7 +6089,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1183",
@@ -6062,7 +6136,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1184",
@@ -6108,7 +6183,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1185",
@@ -6152,7 +6228,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1186",
@@ -6353,7 +6430,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1192",
@@ -6397,7 +6475,8 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1193",
@@ -6441,7 +6520,8 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1194",
@@ -6487,7 +6567,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1195",
@@ -6533,7 +6614,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1196",
@@ -6579,7 +6661,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1197",
@@ -6781,7 +6864,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1201",
@@ -6827,7 +6911,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1202",
@@ -6837,7 +6922,7 @@
     "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1.jpg",
-    "mcu_family": "",
+    "mcu_family": "H7",
     "compatibility": {
       "mounting_pattern_mm": null,
       "mounting_hole_size": null,
@@ -6871,7 +6956,9 @@
     "approx_price": 74,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false,
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-1203",
@@ -6917,7 +7004,8 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1206",
@@ -6961,7 +7049,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1207",
@@ -7005,7 +7094,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1208",
@@ -7077,7 +7167,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1211",
@@ -7121,7 +7212,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1213",
@@ -7167,7 +7259,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1214",
@@ -7213,7 +7306,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1215",
@@ -7311,7 +7405,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1217",
@@ -7357,7 +7452,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1222",
@@ -7403,7 +7499,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1225",
@@ -7501,7 +7598,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1228",
@@ -7545,7 +7643,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1229",
@@ -7589,7 +7688,8 @@
     "approx_price": 71,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1231",
@@ -7636,7 +7736,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1232",
@@ -7785,7 +7886,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1235",
@@ -7831,7 +7933,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1236",
@@ -7877,7 +7980,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1237",
@@ -7974,7 +8078,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1239",
@@ -8020,7 +8125,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1240",
@@ -8066,7 +8172,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1241",
@@ -8267,7 +8374,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1245",
@@ -8365,7 +8473,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1248",
@@ -8411,7 +8520,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1249",
@@ -8561,7 +8671,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1254",
@@ -8607,7 +8718,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1256",
@@ -8653,7 +8765,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1257",
@@ -9056,7 +9169,8 @@
     "approx_price": 36,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1266",
@@ -9153,7 +9267,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1268",
@@ -9607,7 +9722,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1278",
@@ -9702,7 +9818,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1280",
@@ -9748,7 +9865,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1281",
@@ -9794,7 +9912,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1282",
@@ -9840,7 +9959,8 @@
     "approx_price": 36,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1285",
@@ -9988,7 +10108,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1290",
@@ -10032,7 +10153,8 @@
     "approx_price": 73,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1293",
@@ -10130,7 +10252,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1295",
@@ -10280,7 +10403,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1298",
@@ -10326,7 +10450,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1299",
@@ -10372,7 +10497,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1300",
@@ -10418,7 +10544,8 @@
     "approx_price": 74,
     "schema_data": {
       "weight_g": -1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1301",
@@ -10515,7 +10642,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1303",
@@ -10561,7 +10689,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1304",
@@ -10705,7 +10834,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1309",
@@ -10803,7 +10933,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1311",
@@ -10992,7 +11123,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1318",
@@ -11002,7 +11134,7 @@
     "description": "The Cube Orange Standard Set + ADS-B  flight controller comes with an H7 processor, features a 1,090 MHz ADS-B receiver from uAvionix, automatically avoids aircraft and Is integrated into the new ADS-B carrier board!",
     "link": "https://www.getfpv.com/electronics/flight-controllers/cubepilot-the-cube-orange-fd-standard-set-ads-b.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk2-suiteee.jpg",
-    "mcu_family": "",
+    "mcu_family": "H7",
     "firmware_targets": "Ardupilot/PX4",
     "compatibility": {
       "mounting_pattern_mm": null,
@@ -11036,7 +11168,9 @@
     "approx_price": 73,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false,
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-1319",
@@ -11080,7 +11214,8 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1320",
@@ -11124,7 +11259,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1322",
@@ -11323,7 +11459,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1326",
@@ -11420,7 +11557,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1328",
@@ -11466,7 +11604,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1331",
@@ -11510,7 +11649,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1332",
@@ -11607,7 +11747,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1334",
@@ -11705,7 +11846,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1336",
@@ -11749,7 +11891,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1337",
@@ -11844,7 +11987,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1340",
@@ -11884,7 +12028,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1342",
@@ -11928,7 +12073,8 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1343",
@@ -11972,7 +12118,8 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1344",
@@ -12018,7 +12165,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1347",
@@ -12062,7 +12210,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1348",
@@ -12202,7 +12351,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1358",
@@ -12292,7 +12442,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1360",
@@ -12338,7 +12489,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1362",
@@ -12382,7 +12534,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1363",
@@ -12424,7 +12577,8 @@
     "approx_price": 73,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "is_aio": true
   },
   {
     "pid": "FC-1364",
@@ -12464,7 +12618,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1365",
@@ -12510,7 +12665,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1366",
@@ -12554,7 +12710,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1367",
@@ -12598,7 +12755,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1369",
@@ -12642,7 +12800,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1377",
@@ -12740,7 +12899,8 @@
     "approx_price": 71,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1380",
@@ -12786,7 +12946,8 @@
     "approx_price": 76,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1381",
@@ -12986,7 +13147,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1389",
@@ -13032,7 +13194,8 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1390",
@@ -13078,7 +13241,8 @@
     "approx_price": 75,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1391",
@@ -13122,7 +13286,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1393",
@@ -13168,7 +13333,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1394",
@@ -13214,7 +13380,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1396",
@@ -13255,7 +13422,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1397",
@@ -13301,7 +13469,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1399",
@@ -13398,7 +13567,8 @@
     "approx_price": 73,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1401",
@@ -13442,7 +13612,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1402",
@@ -13486,7 +13657,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1403",
@@ -13532,7 +13704,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1404",
@@ -13578,7 +13751,8 @@
     "approx_price": 73,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1405",
@@ -13672,7 +13846,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1409",
@@ -13718,7 +13893,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1410",
@@ -13764,7 +13940,8 @@
     "approx_price": 71,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1411",
@@ -13808,7 +13985,8 @@
     "approx_price": 74,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1412",
@@ -13906,7 +14084,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1418",
@@ -13952,7 +14131,8 @@
     "approx_price": 72,
     "schema_data": {
       "weight_g": -2
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1419",
@@ -14143,7 +14323,8 @@
       "px4_target": "orqa_wingcore_h7",
       "ardupilot_target": "OrqaWingCoreH7",
       "pinout_notes": "Fixed-wing / VTOL controller. All JST-GH connectors (no solder pads). Direct plug-in compatibility with Orqa FPV.Connect C2 module. Dual orthogonal IMUs for vibration rejection. Designed for the MRM2-10 platform."
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1297",
@@ -14152,7 +14333,7 @@
     "manufacturer": "Holybro",
     "description": "Professional flight controller with ADIS16470 industrial IMU (\u00b140g range), STM32H753, triple redundant IMUs, advanced vibration isolation, temp-controlled IMU board, Ethernet. Pixhawk autopilot bus compatible.",
     "link": "https://holybro.com",
-    "mcu": "STM32H753",
+    "mcu": "STM32H743xx",
     "imu": "ADIS16470 Industrial + 2x backup",
     "barometer": "dual redundant",
     "interfaces": [
@@ -14180,7 +14361,9 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "is_aio": false,
+    "mcu_family": "H7"
   },
   {
     "pid": "FC-1298",
@@ -14214,7 +14397,8 @@
     "approx_price": 36,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-1299",
@@ -14246,7 +14430,8 @@
     "approx_price": 36,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "is_aio": false
   },
   {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v2",
@@ -14273,7 +14458,8 @@
       "7_inch"
     ],
     "approx_price": 29.27,
-    "description": "Flight controller by 603700. MCU. mounting."
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
@@ -14300,7 +14486,8 @@
       "10_inch"
     ],
     "approx_price": 30.73,
-    "description": "Flight controller by 603700. MCU. mounting."
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v4",
@@ -14327,7 +14514,8 @@
       "10_inch"
     ],
     "approx_price": 40.98,
-    "description": "Flight controller by 603700. MCU. mounting."
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-603700-\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c-v1",
@@ -14354,7 +14542,8 @@
       "fixed_wing"
     ],
     "approx_price": 50.49,
-    "description": "Flight controller by 603700. MCU. mounting."
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-603700-\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c+-v",
@@ -14381,7 +14570,8 @@
       "fixed_wing"
     ],
     "approx_price": 57.8,
-    "description": "Flight controller by 603700. MCU. mounting."
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Stingbee-Stellar-F4V2",
@@ -14408,7 +14598,10 @@
       "7_inch"
     ],
     "approx_price": 32.93,
-    "description": "Flight controller by Stingbee. MCU. mounting."
+    "description": "Flight controller by Stingbee. MCU. mounting.",
+    "is_aio": false,
+    "mcu_family": "F4",
+    "mcu": "STM32F405xx"
   },
   {
     "pid": "FC-UA-Stingbee-Stellar-H7V2",
@@ -14435,7 +14628,10 @@
       "10_inch"
     ],
     "approx_price": 56.1,
-    "description": "Flight controller by Stingbee. MCU. mounting."
+    "description": "Flight controller by Stingbee. MCU. mounting.",
+    "is_aio": false,
+    "mcu_family": "H7",
+    "mcu": "STM32H743xx"
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F405",
@@ -14462,7 +14658,8 @@
       "7_inch"
     ],
     "approx_price": 24.39,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F405-8",
@@ -14489,7 +14686,8 @@
       "7_inch"
     ],
     "approx_price": 24.39,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Flytex-CRASHDETECT-",
@@ -14516,7 +14714,8 @@
       "7_inch"
     ],
     "approx_price": 24.39,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Flytex-Fuzia-F722",
@@ -14543,7 +14742,8 @@
       "10_inch"
     ],
     "approx_price": 26.83,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Flytex-Furia-H743-S",
@@ -14570,7 +14770,8 @@
       "heavy_lift"
     ],
     "approx_price": 58.54,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Flytex-Furia-H743-W",
@@ -14597,7 +14798,8 @@
       "fixed_wing"
     ],
     "approx_price": 41.46,
-    "description": "Flight controller by Flytex. MCU. mounting."
+    "description": "Flight controller by Flytex. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-DiFly-DF-F405-v3-R",
@@ -14624,7 +14826,8 @@
       "7_inch"
     ],
     "approx_price": 24.39,
-    "description": "Flight controller by DiFly. MCU. mounting."
+    "description": "Flight controller by DiFly. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-DiFly-DF-F405-WING",
@@ -14651,7 +14854,8 @@
       "fixed_wing"
     ],
     "approx_price": 41.46,
-    "description": "Flight controller by DiFly. MCU. mounting."
+    "description": "Flight controller by DiFly. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Kiwi-F405-Flight-",
@@ -14678,7 +14882,8 @@
       "7_inch"
     ],
     "approx_price": 39.02,
-    "description": "Flight controller by Kiwi. MCU. mounting."
+    "description": "Flight controller by Kiwi. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Kiwi-H743-FPV",
@@ -14705,7 +14910,8 @@
       "10_inch"
     ],
     "approx_price": 68.29,
-    "description": "Flight controller by Kiwi. MCU. mounting."
+    "description": "Flight controller by Kiwi. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Kiwi-F722-FPV-Air",
@@ -14732,7 +14938,8 @@
       "10_inch"
     ],
     "approx_price": 45.85,
-    "description": "Flight controller by Kiwi. MCU. mounting."
+    "description": "Flight controller by Kiwi. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Kiwi-F405-12S-Fli",
@@ -14759,7 +14966,8 @@
       "10_inch"
     ],
     "approx_price": 39.02,
-    "description": "Flight controller by Kiwi. MCU. mounting."
+    "description": "Flight controller by Kiwi. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-Bloomtec-\u041b\u0430\u0441\u0442\u0456\u0432\u043a\u0430",
@@ -14786,7 +14994,8 @@
       "10_inch"
     ],
     "approx_price": 107.12,
-    "description": "Flight controller by Bloomtech. MCU. mounting."
+    "description": "Flight controller by Bloomtech. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-FT-F722-PRO-HV-",
@@ -14813,7 +15022,8 @@
       "10_inch"
     ],
     "approx_price": 56.78,
-    "description": "Flight controller by. MCU. mounting."
+    "description": "Flight controller by. MCU. mounting.",
+    "is_aio": false
   },
   {
     "pid": "FC-UA-FT-F722-V1-FC-3",
@@ -14840,6 +15050,7 @@
       "10_inch"
     ],
     "approx_price": 47.71,
-    "description": "Flight controller by. MCU. mounting."
+    "description": "Flight controller by. MCU. mounting.",
+    "is_aio": false
   }
 ]

@@ -84,7 +84,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1002",
@@ -127,7 +129,9 @@
     "approx_price": 4.99,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "diameter_inches": 9.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1003",
@@ -170,7 +174,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 11.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1004",
@@ -213,7 +219,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 9.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1005",
@@ -256,7 +264,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 15.0,
+    "pitch_inches": 7.0
   },
   {
     "pid": "PRP-1006",
@@ -299,7 +309,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 8.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1007",
@@ -385,7 +397,9 @@
     "approx_price": 4.49,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1009",
@@ -428,7 +442,9 @@
     "approx_price": 3.49,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.3
   },
   {
     "pid": "PRP-1010",
@@ -471,7 +487,9 @@
     "approx_price": 3.49,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.3
   },
   {
     "pid": "PRP-1011",
@@ -514,7 +532,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 2.0,
+    "pitch_inches": 1.6
   },
   {
     "pid": "PRP-1012",
@@ -557,7 +577,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 2.0,
+    "pitch_inches": 1.5
   },
   {
     "pid": "PRP-1013",
@@ -600,7 +622,8 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 4.9
   },
   {
     "pid": "PRP-1014",
@@ -815,7 +838,9 @@
     "approx_price": 4.49,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1019",
@@ -859,7 +884,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.2
   },
   {
     "pid": "PRP-1020",
@@ -902,7 +929,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 2.8
   },
   {
     "pid": "PRP-1021",
@@ -945,7 +974,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 2.0,
+    "pitch_inches": 0.9
   },
   {
     "pid": "PRP-1022",
@@ -1031,7 +1062,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 2.7
   },
   {
     "pid": "PRP-1024",
@@ -1075,7 +1108,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1025",
@@ -1161,7 +1196,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1027",
@@ -1204,7 +1241,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.1
   },
   {
     "pid": "PRP-1028",
@@ -1247,7 +1286,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1029",
@@ -1290,7 +1331,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.25,
+    "pitch_inches": 8.0
   },
   {
     "pid": "PRP-1030",
@@ -1333,7 +1376,9 @@
     "approx_price": 3.99,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1031",
@@ -1376,7 +1421,9 @@
     "approx_price": 3.49,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1032",
@@ -1549,7 +1596,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1036",
@@ -1592,7 +1641,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1037",
@@ -1635,7 +1686,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PRP-1038",
@@ -1678,7 +1731,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1039",
@@ -1721,7 +1776,8 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.1
   },
   {
     "pid": "PRP-1040",
@@ -1894,7 +1950,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1044",
@@ -1980,7 +2038,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1046",
@@ -2066,7 +2126,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 4.9,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1048",
@@ -2109,7 +2171,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.8
   },
   {
     "pid": "PRP-1049",
@@ -2153,7 +2217,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 2.0
   },
   {
     "pid": "PRP-1050",
@@ -2196,7 +2262,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1051",
@@ -2239,7 +2307,9 @@
     "approx_price": 3.99,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.2
   },
   {
     "pid": "PRP-1052",
@@ -2282,7 +2352,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1053",
@@ -2325,7 +2397,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.9,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1054",
@@ -2368,7 +2442,8 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.1
   },
   {
     "pid": "PRP-1055",
@@ -2454,7 +2529,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PRP-1057",
@@ -2497,7 +2574,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 4.9,
+    "pitch_inches": 3.4
   },
   {
     "pid": "PRP-1058",
@@ -2584,7 +2663,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 9.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1060",
@@ -2627,7 +2708,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PRP-1061",
@@ -2707,7 +2790,8 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.0
   },
   {
     "pid": "PRP-1063",
@@ -2750,7 +2834,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1064",
@@ -2793,7 +2879,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 4.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1065",
@@ -2966,7 +3054,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 5.2,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PRP-1069",
@@ -3009,7 +3099,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.2,
+    "pitch_inches": 2.6
   },
   {
     "pid": "PRP-1070",
@@ -3138,7 +3230,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1073",
@@ -3224,7 +3318,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1075",
@@ -3267,7 +3363,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 8.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1076",
@@ -3310,7 +3408,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1077",
@@ -3354,7 +3454,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 2.3
   },
   {
     "pid": "PRP-1078",
@@ -3440,7 +3542,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.9
   },
   {
     "pid": "PRP-1080",
@@ -3527,7 +3631,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 1.5
   },
   {
     "pid": "PRP-1082",
@@ -3570,7 +3676,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1083",
@@ -3614,7 +3722,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1084",
@@ -3658,7 +3768,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 1.6
   },
   {
     "pid": "PRP-1085",
@@ -3702,7 +3814,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 1.8
   },
   {
     "pid": "PRP-1086",
@@ -3746,7 +3860,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 1.6
   },
   {
     "pid": "PRP-1087",
@@ -3790,7 +3906,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 2.8
   },
   {
     "pid": "PRP-1088",
@@ -3834,7 +3952,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 2.0
   },
   {
     "pid": "PRP-1089",
@@ -3877,7 +3997,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1090",
@@ -4050,7 +4172,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 9.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1094",
@@ -4094,7 +4218,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 3.2
   },
   {
     "pid": "PRP-1095",
@@ -4180,7 +4306,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 4.8,
+    "pitch_inches": 3.4
   },
   {
     "pid": "PRP-1097",
@@ -4224,7 +4352,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 3.1,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1098",
@@ -4268,7 +4398,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 2.8
   },
   {
     "pid": "PRP-1099",
@@ -4311,7 +4443,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1100",
@@ -4398,7 +4532,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1102",
@@ -4441,7 +4577,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.1
   },
   {
     "pid": "PRP-1103",
@@ -4656,7 +4794,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1108",
@@ -4699,7 +4839,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1109",
@@ -4742,7 +4884,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1110",
@@ -4785,7 +4929,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1111",
@@ -4828,7 +4974,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.9
   },
   {
     "pid": "PRP-1112",
@@ -4871,7 +5019,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.9
   },
   {
     "pid": "PRP-1113",
@@ -4914,7 +5064,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1114",
@@ -4957,7 +5109,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1115",
@@ -5001,7 +5155,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1116",
@@ -5044,7 +5200,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1117",
@@ -5087,7 +5245,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1118",
@@ -5130,7 +5290,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1119",
@@ -5173,7 +5335,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1120",
@@ -5216,7 +5380,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1121",
@@ -5259,7 +5425,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1122",
@@ -5302,7 +5470,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1123",
@@ -5345,7 +5515,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1124",
@@ -5388,7 +5560,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1125",
@@ -5431,7 +5605,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1126",
@@ -5475,7 +5651,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1127",
@@ -5518,7 +5696,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1128",
@@ -5562,7 +5742,9 @@
     "approx_price": -2,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1129",
@@ -5606,7 +5788,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1130",
@@ -5650,7 +5834,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1131",
@@ -5694,7 +5880,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1132",
@@ -5737,7 +5925,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1133",
@@ -5781,7 +5971,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1134",
@@ -5824,7 +6016,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1135",
@@ -5867,7 +6061,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1136",
@@ -5911,7 +6107,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1137",
@@ -5954,7 +6152,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1138",
@@ -5997,7 +6197,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1139",
@@ -6041,7 +6243,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1140",
@@ -6085,7 +6289,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1141",
@@ -6128,7 +6334,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1142",
@@ -6171,7 +6379,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1143",
@@ -6214,7 +6424,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1144",
@@ -6257,7 +6469,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1145",
@@ -6300,7 +6514,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1146",
@@ -6343,7 +6559,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1147",
@@ -6386,7 +6604,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1148",
@@ -6429,7 +6649,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1149",
@@ -6472,7 +6694,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1150",
@@ -6515,7 +6739,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1151",
@@ -6558,7 +6784,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1152",
@@ -6602,7 +6830,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1153",
@@ -6645,7 +6875,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 15.0,
+    "pitch_inches": 7.0
   },
   {
     "pid": "PRP-1154",
@@ -6688,7 +6920,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1155",
@@ -6774,7 +7008,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.3
   },
   {
     "pid": "PRP-1157",
@@ -6817,7 +7053,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1158",
@@ -6860,7 +7098,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1159",
@@ -6903,7 +7143,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1160",
@@ -6991,7 +7233,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1162",
@@ -7034,7 +7278,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1163",
@@ -7077,7 +7323,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1164",
@@ -7120,7 +7368,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 5.5
   },
   {
     "pid": "PRP-1165",
@@ -7164,7 +7414,9 @@
     "approx_price": -2,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1166",
@@ -7207,7 +7459,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1167",
@@ -7250,7 +7504,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1168",
@@ -7293,7 +7549,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 10.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1169",
@@ -7336,7 +7594,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1170",
@@ -7422,7 +7682,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1172",
@@ -7465,7 +7727,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.25,
+    "pitch_inches": 8.0
   },
   {
     "pid": "PRP-1173",
@@ -7508,7 +7772,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.2,
+    "pitch_inches": 6.0
   },
   {
     "pid": "PRP-1174",
@@ -7594,7 +7860,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1176",
@@ -7725,7 +7993,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1179",
@@ -7769,7 +8039,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1180",
@@ -7899,7 +8171,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1183",
@@ -7942,7 +8216,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1184",
@@ -8029,7 +8305,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.7
   },
   {
     "pid": "PRP-1186",
@@ -8073,7 +8351,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1187",
@@ -8116,7 +8396,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1188",
@@ -8159,7 +8441,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1190",
@@ -8202,7 +8486,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1191",
@@ -8245,7 +8531,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 8.0,
+    "pitch_inches": 3.8
   },
   {
     "pid": "PRP-1192",
@@ -8288,7 +8576,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 7.5
   },
   {
     "pid": "PRP-1193",
@@ -8331,7 +8621,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1194",
@@ -8375,7 +8667,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1195",
@@ -8418,7 +8712,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1196",
@@ -8461,7 +8757,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.8
   },
   {
     "pid": "PRP-1197",
@@ -8504,7 +8802,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1198",
@@ -8547,7 +8847,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1199",
@@ -8590,7 +8892,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.8
   },
   {
     "pid": "PRP-1200",
@@ -8633,7 +8937,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1201",
@@ -8676,7 +8982,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 7.5
   },
   {
     "pid": "PRP-1202",
@@ -8720,7 +9028,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 5.2
   },
   {
     "pid": "PRP-1203",
@@ -8763,7 +9073,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1204",
@@ -8806,7 +9118,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1205",
@@ -8849,7 +9163,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1206",
@@ -8892,7 +9208,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 2.2
   },
   {
     "pid": "PRP-1207",
@@ -8935,7 +9253,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1208",
@@ -8978,7 +9298,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1209",
@@ -9021,7 +9343,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1210",
@@ -9064,7 +9388,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.8
   },
   {
     "pid": "PRP-1211",
@@ -9107,7 +9433,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1212",
@@ -9150,7 +9478,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1213",
@@ -9193,7 +9523,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1214",
@@ -9236,7 +9568,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1215",
@@ -9279,7 +9613,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1216",
@@ -9322,7 +9658,8 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 5.1
   },
   {
     "pid": "PRP-1217",
@@ -9452,7 +9789,9 @@
     "approx_price": -2,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1220",
@@ -9495,7 +9834,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1221",
@@ -9538,7 +9879,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.1
   },
   {
     "pid": "PRP-1222",
@@ -9667,7 +10010,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 2.9,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1225",
@@ -9711,7 +10056,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 3.6,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1226",
@@ -9754,7 +10101,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 7.5,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1227",
@@ -9798,7 +10147,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1228",
@@ -9885,7 +10236,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PRP-1230",
@@ -9971,7 +10324,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1232",
@@ -10014,7 +10369,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1233",
@@ -10057,7 +10414,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1234",
@@ -10100,7 +10459,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1235",
@@ -10186,7 +10547,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1237",
@@ -10266,7 +10629,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1239",
@@ -10354,7 +10719,9 @@
     "approx_price": -2,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1241",
@@ -10484,7 +10851,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1244",
@@ -10528,7 +10897,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1245",
@@ -10615,7 +10986,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 2.0
   },
   {
     "pid": "PRP-1247",
@@ -10744,7 +11117,8 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.0
   },
   {
     "pid": "PRP-1250",
@@ -10831,7 +11205,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1252",
@@ -10874,7 +11250,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 8.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1253",
@@ -11003,7 +11381,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1256",
@@ -11177,7 +11557,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 1.5
   },
   {
     "pid": "PRP-1260",
@@ -11263,7 +11645,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.35
   },
   {
     "pid": "PRP-1262",
@@ -11349,7 +11733,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.8
   },
   {
     "pid": "PRP-1264",
@@ -11522,7 +11908,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 9.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1268",
@@ -11565,7 +11953,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.4
   },
   {
     "pid": "PRP-1269",
@@ -11608,7 +11998,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.8
   },
   {
     "pid": "PRP-1270",
@@ -11694,7 +12086,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.8,
+    "pitch_inches": 3.8
   },
   {
     "pid": "PRP-1272",
@@ -11737,7 +12131,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.1,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1273",
@@ -11780,7 +12176,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 6.1,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1274",
@@ -11823,7 +12221,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 6.1,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1275",
@@ -11909,7 +12309,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.1
   },
   {
     "pid": "PRP-1277",
@@ -11952,7 +12354,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1278",
@@ -11995,7 +12399,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1279",
@@ -12038,7 +12444,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.9
   },
   {
     "pid": "PRP-1280",
@@ -12081,7 +12489,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.9
   },
   {
     "pid": "PRP-1281",
@@ -12125,7 +12535,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1282",
@@ -12168,7 +12580,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1283",
@@ -12212,7 +12626,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1284",
@@ -12255,7 +12671,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1285",
@@ -12299,7 +12717,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1286",
@@ -12342,7 +12762,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1287",
@@ -12385,7 +12807,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1288",
@@ -12428,7 +12852,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1289",
@@ -12471,7 +12897,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1290",
@@ -12514,7 +12942,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1291",
@@ -12557,7 +12987,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1292",
@@ -12600,7 +13032,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1293",
@@ -12643,7 +13077,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1294",
@@ -12686,7 +13122,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1295",
@@ -12729,7 +13167,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1296",
@@ -12772,7 +13212,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1297",
@@ -12815,7 +13257,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1298",
@@ -12859,7 +13303,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1299",
@@ -12903,7 +13349,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1300",
@@ -12946,7 +13394,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1301",
@@ -12990,7 +13440,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1302",
@@ -13034,7 +13486,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1303",
@@ -13077,7 +13531,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1304",
@@ -13120,7 +13576,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1305",
@@ -13207,7 +13665,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1307",
@@ -13250,7 +13710,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1308",
@@ -13294,7 +13756,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1309",
@@ -13337,7 +13801,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1310",
@@ -13380,7 +13846,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1311",
@@ -13423,7 +13891,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1312",
@@ -13467,7 +13937,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1313",
@@ -13511,7 +13983,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1314",
@@ -13554,7 +14028,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1315",
@@ -13597,7 +14073,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1316",
@@ -13640,7 +14118,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1317",
@@ -13683,7 +14163,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1318",
@@ -13726,7 +14208,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1319",
@@ -13769,7 +14253,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1320",
@@ -13812,7 +14298,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1321",
@@ -13855,7 +14343,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1322",
@@ -13899,7 +14389,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1323",
@@ -13942,7 +14434,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1324",
@@ -13986,7 +14480,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1325",
@@ -14029,7 +14525,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1326",
@@ -14073,7 +14571,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1327",
@@ -14116,7 +14616,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1328",
@@ -14159,7 +14661,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1329",
@@ -14203,7 +14707,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1330",
@@ -14246,7 +14752,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1331",
@@ -14289,7 +14797,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1332",
@@ -14332,7 +14842,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1333",
@@ -14375,7 +14887,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1334",
@@ -14418,7 +14932,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1335",
@@ -14462,7 +14978,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1336",
@@ -14505,7 +15023,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1337",
@@ -14549,7 +15069,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1338",
@@ -14592,7 +15114,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1339",
@@ -14635,7 +15159,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1340",
@@ -14678,7 +15204,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1341",
@@ -14722,7 +15250,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1342",
@@ -14765,7 +15295,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1343",
@@ -14809,7 +15341,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1344",
@@ -14852,7 +15386,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1345",
@@ -14896,7 +15432,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1346",
@@ -14939,7 +15477,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1347",
@@ -14983,7 +15523,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1348",
@@ -15027,7 +15569,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1349",
@@ -15070,7 +15614,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1350",
@@ -15113,7 +15659,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1351",
@@ -15156,7 +15704,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1352",
@@ -15199,7 +15749,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1353",
@@ -15242,7 +15794,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1354",
@@ -15285,7 +15839,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1355",
@@ -15328,7 +15884,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1356",
@@ -15371,7 +15929,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1357",
@@ -15415,7 +15975,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1358",
@@ -15458,7 +16020,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1359",
@@ -15501,7 +16065,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1360",
@@ -15544,7 +16110,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1361",
@@ -15587,7 +16155,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1362",
@@ -15630,7 +16200,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1363",
@@ -15673,7 +16245,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1364",
@@ -15716,7 +16290,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1365",
@@ -15760,7 +16336,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 3.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1366",
@@ -15803,7 +16381,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 8.0,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1367",
@@ -15847,7 +16427,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 2.2
   },
   {
     "pid": "PRP-1368",
@@ -15890,7 +16472,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.3
   },
   {
     "pid": "PRP-1369",
@@ -15933,7 +16517,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 7.5,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PRP-1370",
@@ -15976,7 +16562,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 2.5
   },
   {
     "pid": "PRP-1371",
@@ -16105,7 +16693,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.1
   },
   {
     "pid": "PRP-1374",
@@ -16148,7 +16738,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1375",
@@ -16235,7 +16827,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.2
   },
   {
     "pid": "PRP-1377",
@@ -16278,7 +16872,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1378",
@@ -16364,7 +16960,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1380",
@@ -16407,7 +17005,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1381",
@@ -16450,7 +17050,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1382",
@@ -16493,7 +17095,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1383",
@@ -16536,7 +17140,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1384",
@@ -16579,7 +17185,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1385",
@@ -16622,7 +17230,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1386",
@@ -16666,7 +17276,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1387",
@@ -16709,7 +17321,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1388",
@@ -16752,7 +17366,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1389",
@@ -16795,7 +17411,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1390",
@@ -16838,7 +17456,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1391",
@@ -16881,7 +17501,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1392",
@@ -16924,7 +17546,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1393",
@@ -16967,7 +17591,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1394",
@@ -17011,7 +17637,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1395",
@@ -17055,7 +17683,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1396",
@@ -17098,7 +17728,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1397",
@@ -17141,7 +17773,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1398",
@@ -17184,7 +17818,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 6.1,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1399",
@@ -17227,7 +17863,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 1.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1400",
@@ -17307,7 +17945,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1402",
@@ -17350,7 +17990,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1403",
@@ -17393,7 +18035,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1404",
@@ -17437,7 +18081,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1405",
@@ -17480,7 +18126,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1406",
@@ -17523,7 +18171,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1407",
@@ -17566,7 +18216,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1408",
@@ -17609,7 +18261,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1409",
@@ -17652,7 +18306,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1410",
@@ -17695,7 +18351,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1411",
@@ -17738,7 +18396,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1412",
@@ -17781,7 +18441,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1413",
@@ -17824,7 +18486,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 6.1,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1414",
@@ -17910,7 +18574,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.9,
+    "pitch_inches": 3.4
   },
   {
     "pid": "PRP-1416",
@@ -17996,7 +18662,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1418",
@@ -18039,7 +18707,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1419",
@@ -18082,7 +18752,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1420",
@@ -18125,7 +18797,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1421",
@@ -18205,7 +18879,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1423",
@@ -18249,7 +18925,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1424",
@@ -18292,7 +18970,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1425",
@@ -18336,7 +19016,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1426",
@@ -18379,7 +19061,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1427",
@@ -18422,7 +19106,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1428",
@@ -18465,7 +19151,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1429",
@@ -18508,7 +19196,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1430",
@@ -18551,7 +19241,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1431",
@@ -18594,7 +19286,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1432",
@@ -18637,7 +19331,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 10.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1433",
@@ -18680,7 +19376,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.9,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1434",
@@ -18766,7 +19464,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1436",
@@ -18809,7 +19509,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1437",
@@ -18852,7 +19554,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1438",
@@ -18895,7 +19599,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1439",
@@ -18938,7 +19644,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1440",
@@ -18981,7 +19689,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1441",
@@ -19024,7 +19734,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1442",
@@ -19068,7 +19780,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1443",
@@ -19112,7 +19826,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1444",
@@ -19155,7 +19871,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1445",
@@ -19198,7 +19916,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.6
   },
   {
     "pid": "PRP-1446",
@@ -19241,7 +19961,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1447",
@@ -19285,7 +20007,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1448",
@@ -19329,7 +20053,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1449",
@@ -19373,7 +20099,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1450",
@@ -19416,7 +20144,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1451",
@@ -19459,7 +20189,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1452",
@@ -19502,7 +20234,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1453",
@@ -19545,7 +20279,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1454",
@@ -19588,7 +20324,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1455",
@@ -19631,7 +20369,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1456",
@@ -19674,7 +20414,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1457",
@@ -19717,7 +20459,9 @@
     "approx_price": 6,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "diameter_inches": 2.5,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PRP-1458",
@@ -19760,7 +20504,9 @@
     "approx_price": 5,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1459",
@@ -19804,7 +20550,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 4.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1460",
@@ -19847,7 +20595,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 3.0
   },
   {
     "pid": "PRP-1461",
@@ -19890,7 +20640,9 @@
     "approx_price": 3,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1462",
@@ -19933,7 +20685,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1463",
@@ -19976,7 +20730,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1464",
@@ -20019,7 +20775,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1465",
@@ -20062,7 +20820,9 @@
     "approx_price": 1,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1466",
@@ -20105,7 +20865,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 5.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1467",
@@ -20149,7 +20911,9 @@
     "approx_price": -1,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "diameter_inches": 3.5,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1468",
@@ -20192,7 +20956,9 @@
     "approx_price": 2,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "diameter_inches": 6.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PRP-1469",
@@ -20235,7 +21001,9 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PRP-1470",
@@ -20278,7 +21046,9 @@
     "approx_price": 8,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "diameter_inches": 5.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PRP-1471",
@@ -20321,7 +21091,9 @@
     "approx_price": 4,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "diameter_inches": 5.1,
+    "pitch_inches": 3.6
   },
   {
     "pid": "PROP-UA-PROP-UA-7x3.5x3",
@@ -20348,7 +21120,9 @@
       "7_inch"
     ],
     "approx_price": 2.8,
-    "description": "Propeller by PROP. \" diameter. -blade. material."
+    "description": "Propeller by PROP. \" diameter. -blade. material.",
+    "diameter_inches": 7.0,
+    "pitch_inches": 3.5
   },
   {
     "pid": "PROP-UA-PROP-UA-7.5x3.7x3",
@@ -20375,7 +21149,9 @@
       "7_inch"
     ],
     "approx_price": 3.05,
-    "description": "Propeller by PROP. \" diameter. -blade. material."
+    "description": "Propeller by PROP. \" diameter. -blade. material.",
+    "diameter_inches": 7.5,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PROP-UA-PROP-UA-8x3.7x3",
@@ -20402,7 +21178,9 @@
       "7_inch"
     ],
     "approx_price": 5.37,
-    "description": "Propeller by PROP. \" diameter. -blade. material."
+    "description": "Propeller by PROP. \" diameter. -blade. material.",
+    "diameter_inches": 8.0,
+    "pitch_inches": 3.7
   },
   {
     "pid": "PROP-UA-PROP-UA-10x4.5x3",
@@ -20429,7 +21207,9 @@
       "10_inch"
     ],
     "approx_price": 9.76,
-    "description": "Propeller by PROP. \" diameter. -blade. material."
+    "description": "Propeller by PROP. \" diameter. -blade. material.",
+    "diameter_inches": 10.0,
+    "pitch_inches": 4.5
   },
   {
     "pid": "PROP-UA-PROP-UA-10x5x3",
@@ -20456,7 +21236,9 @@
       "10_inch"
     ],
     "approx_price": 9.76,
-    "description": "Propeller by PROP. \" diameter. -blade. material."
+    "description": "Propeller by PROP. \" diameter. -blade. material.",
+    "diameter_inches": 10.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PROP-UA-\u0420\u0406\u0419-9\u00d75\u00d73",
@@ -20483,7 +21265,9 @@
       "10_inch"
     ],
     "approx_price": 6.1,
-    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material."
+    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material.",
+    "diameter_inches": 9.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PROP-UA-\u0420\u0406\u0419-10\u00d75\u00d73",
@@ -20510,7 +21294,9 @@
       "10_inch"
     ],
     "approx_price": 8.54,
-    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material."
+    "description": "Propeller by \u0420\u0406\u0419. \" diameter. -blade. material.",
+    "diameter_inches": 10.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PROP-UA-DiFly-DF-Prop-7\u0445",
@@ -20618,7 +21404,9 @@
       "7_inch"
     ],
     "approx_price": 2.68,
-    "description": "Propeller by UDC. \" diameter. -blade. material."
+    "description": "Propeller by UDC. \" diameter. -blade. material.",
+    "diameter_inches": 7.0,
+    "pitch_inches": 4.0
   },
   {
     "pid": "PROP-UA-UDC-UDCProp-9x",
@@ -20645,7 +21433,9 @@
       "10_inch"
     ],
     "approx_price": 8.78,
-    "description": "Propeller by UDC. \" diameter. -blade. material."
+    "description": "Propeller by UDC. \" diameter. -blade. material.",
+    "diameter_inches": 9.0,
+    "pitch_inches": 5.0
   },
   {
     "pid": "PROP-UA-UDC-UDCProp-10",
@@ -20672,6 +21462,8 @@
       "10_inch"
     ],
     "approx_price": 10.24,
-    "description": "Propeller by UDC. \" diameter. -blade. material."
+    "description": "Propeller by UDC. \" diameter. -blade. material.",
+    "diameter_inches": 10.0,
+    "pitch_inches": 5.0
   }
 ]

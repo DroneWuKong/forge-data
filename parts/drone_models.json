@@ -1304,7 +1304,8 @@
     "max_range_km": 20,
     "max_endurance_min": 55,
     "mtow_kg": 9.2,
-    "propulsion": "Electric quad"
+    "propulsion": "Electric quad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DJI_Matrice_350_RTK_%28cropped%29.jpg/640px-DJI_Matrice_350_RTK_%28cropped%29.jpg"
   },
   {
     "pid": "MDL-2001",
@@ -1388,7 +1389,8 @@
     "max_endurance_min": 41,
     "mtow_kg": 3.77,
     "propulsion": "Electric quad",
-    "note": "Thermal + zoom integrated."
+    "note": "Thermal + zoom integrated.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DJI_Matrice_30.jpg/640px-DJI_Matrice_30.jpg"
   },
   {
     "pid": "MDL-2002",
@@ -1596,7 +1598,8 @@
     "max_endurance_min": 38,
     "mtow_kg": 2.0,
     "group": 1,
-    "propulsion": "Electric quad"
+    "propulsion": "Electric quad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skydio_X10.png/640px-Skydio_X10.png"
   },
   {
     "pid": "MDL-2004",
@@ -1972,7 +1975,8 @@
     "max_endurance_min": 32,
     "mtow_kg": 0.5,
     "group": 1,
-    "propulsion": "Electric quad"
+    "propulsion": "Electric quad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Parrot_ANAFI_USA.jpg/640px-Parrot_ANAFI_USA.jpg"
   },
   {
     "pid": "MDL-2008",
@@ -2221,7 +2225,8 @@
     "max_range_km": 7,
     "max_endurance_min": 12,
     "mtow_kg": 70,
-    "propulsion": "Electric quad coaxial"
+    "propulsion": "Electric quad coaxial",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DJI_T50.png/640px-DJI_T50.png"
   },
   {
     "pid": "MDL-2011",
@@ -2387,7 +2392,8 @@
     "max_endurance_min": 12,
     "mtow_kg": 1.5,
     "propulsion": "Electric quad (caged)",
-    "note": "Collision-tolerant. Confined space inspection."
+    "note": "Collision-tolerant. Confined space inspection.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Elios_3_front_transparent.png/640px-Elios_3_front_transparent.png"
   },
   {
     "pid": "MDL-2013",
@@ -2888,7 +2894,8 @@
     "max_range_km": 15,
     "max_endurance_min": 45,
     "mtow_kg": 0.92,
-    "propulsion": "Electric quad"
+    "propulsion": "Electric quad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DJI_Mavic_3_Enterprise.jpg/640px-DJI_Mavic_3_Enterprise.jpg"
   },
   {
     "pid": "MDL-2019",
@@ -4232,7 +4239,8 @@
     "max_endurance_min": 720,
     "mtow_kg": 57,
     "group": 3,
-    "propulsion": "JP-8 ducted fan VTOL"
+    "propulsion": "JP-8 ducted fan VTOL",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/V-BAT_128_%28cropped%29.jpg/640px-V-BAT_128_%28cropped%29.jpg"
   },
   {
     "pid": "MDL-2034",
@@ -4451,7 +4459,8 @@
     "max_endurance_min": 15,
     "mtow_kg": 2.5,
     "propulsion": "Electric tube-launched",
-    "note": "Updated Block 20 with enhanced seeker."
+    "note": "Updated Block 20 with enhanced seeker.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Switchblade_300.jpg/640px-Switchblade_300.jpg"
   },
   {
     "pid": "MDL-2036",
@@ -4561,7 +4570,8 @@
     "mtow_kg": 23,
     "group": 3,
     "propulsion": "Electric (tube-launched)",
-    "note": "Anti-armor loitering munition"
+    "note": "Anti-armor loitering munition",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AeroVironment_Switchblade_600.jpg/640px-AeroVironment_Switchblade_600.jpg"
   },
   {
     "pid": "MDL-2037",
@@ -7171,7 +7181,8 @@
     "max_endurance_min": 40,
     "mtow_kg": 12,
     "propulsion": "Electric octocopter",
-    "note": "Modified DJI. Bomb drop. Combat icon."
+    "note": "Modified DJI. Bomb drop. Combat icon.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aerorozvidka_R18_octocopter.jpg/640px-Aerorozvidka_R18_octocopter.jpg"
   },
   {
     "pid": "DM-0025",
@@ -7582,7 +7593,8 @@
     "max_endurance_min": 30,
     "mtow_kg": 5.3,
     "propulsion": "Electric",
-    "note": "FlyEye: recon. Warmate: loitering munition."
+    "note": "FlyEye: recon. Warmate: loitering munition.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Warmate_loitering_munition.jpg/640px-Warmate_loitering_munition.jpg"
   },
   {
     "pid": "DM-0030",
@@ -7989,7 +8001,8 @@
     "mtow_kg": 700,
     "wingspan_m": 12,
     "operating_altitude_m": 7620,
-    "propulsion": "Rotax 912 (100hp)"
+    "propulsion": "Rotax 912 (100hp)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bayraktar_TB2_at_Teknofest_Istanbul_2019_%284%29.jpg/640px-Bayraktar_TB2_at_Teknofest_Istanbul_2019_%284%29.jpg"
   },
   {
     "pid": "DM-0035",
@@ -8086,7 +8099,8 @@
     "mtow_kg": 6000,
     "wingspan_m": 20,
     "operating_altitude_m": 12192,
-    "propulsion": "2x AI-450T (450hp each)"
+    "propulsion": "2x AI-450T (450hp each)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayraktar_Ak%C4%B1nc%C4%B1_S1_%281%29.jpg/640px-Bayraktar_Ak%C4%B1nc%C4%B1_S1_%281%29.jpg"
   },
   {
     "pid": "DM-0036",
@@ -8171,7 +8185,8 @@
     "wingspan_m": 14,
     "operating_altitude_m": 10668,
     "propulsion": "AI-322 turbojet",
-    "note": "Unmanned combat jet. Carrier-capable."
+    "note": "Unmanned combat jet. Carrier-capable.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bayraktar_TB3_%282%29.jpg/640px-Bayraktar_TB3_%282%29.jpg"
   },
   {
     "pid": "DM-0037",
@@ -8246,7 +8261,8 @@
     "max_endurance_min": 30,
     "mtow_kg": 6,
     "propulsion": "Electric quad",
-    "note": "FPV-style loitering munition."
+    "note": "FPV-style loitering munition.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bayraktar_K%C4%B1z%C4%B1lelma_during_maiden_flight_%282%29.jpg/640px-Bayraktar_K%C4%B1z%C4%B1lelma_during_maiden_flight_%282%29.jpg"
   },
   {
     "pid": "DM-0038",
@@ -16114,7 +16130,8 @@
     "max_payload_kg": 50,
     "mtow_kg": 200,
     "propulsion": "Rotax 914 (55hp)",
-    "note": "Unmanned helicopter. Maritime. Austrian."
+    "note": "Unmanned helicopter. Maritime. Austrian.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Camcopter_S-100.jpg/640px-Camcopter_S-100.jpg"
   },
   {
     "pid": "DM-0129",
@@ -16371,7 +16388,8 @@
     "mtow_kg": 3300,
     "wingspan_m": 24,
     "propulsion": "2x TEI PD-170 (170hp each)",
-    "note": "Maritime/land ISR. 48hr endurance."
+    "note": "Maritime/land ISR. 48hr endurance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TAI_Aksungur_flying_%281%29_%28cropped%29.jpg/640px-TAI_Aksungur_flying_%281%29_%28cropped%29.jpg"
   },
   {
     "pid": "DM-0133",
@@ -16437,7 +16455,8 @@
     "max_payload_kg": 1000,
     "mtow_kg": 6000,
     "propulsion": "Turbojet",
-    "note": "Stealth UCAV. Under development."
+    "note": "Stealth UCAV. Under development.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TAI_Anka-3_MIUS_%28cropped%29.jpg/640px-TAI_Anka-3_MIUS_%28cropped%29.jpg"
   },
   {
     "pid": "DM-0134",
@@ -16975,7 +16994,8 @@
     "mtow_kg": 1180,
     "wingspan_m": 15,
     "operating_altitude_m": 9144,
-    "propulsion": "Rotax 914 (115hp)"
+    "propulsion": "Rotax 914 (115hp)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hermes_900_UAV_%281%29.jpg/640px-Hermes_900_UAV_%281%29.jpg"
   },
   {
     "pid": "DM-0143",
@@ -17040,7 +17060,8 @@
     "mtow_kg": 550,
     "wingspan_m": 10.5,
     "operating_altitude_m": 5486,
-    "propulsion": "Rotary engine"
+    "propulsion": "Rotary engine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbit_Hermes_450.jpg/640px-Elbit_Hermes_450.jpg"
   },
   {
     "pid": "DM-0144",
@@ -17113,7 +17134,8 @@
     "wingspan_m": 16.6,
     "operating_altitude_m": 10668,
     "propulsion": "Rotax 914 (115hp)",
-    "note": "52hr endurance. MALE ISR."
+    "note": "52hr endurance. MALE ISR.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/IAI_Heron_1_in_flight_%28cropped%29.jpg/640px-IAI_Heron_1_in_flight_%28cropped%29.jpg"
   },
   {
     "pid": "DM-0145",
@@ -17191,7 +17213,8 @@
     "wingspan_m": 26,
     "operating_altitude_m": 13716,
     "propulsion": "P&W PT6A-67A (1,200hp)",
-    "note": "36hr endurance. Israel's largest drone."
+    "note": "36hr endurance. Israel's largest drone.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IAI_Eitan_at_Tel_Nof.jpg/640px-IAI_Eitan_at_Tel_Nof.jpg"
   },
   {
     "pid": "DM-0146",

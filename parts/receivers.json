@@ -2043,7 +2043,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1117",
@@ -2116,7 +2117,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "frequency_ghz": 0.433
   },
   {
     "pid": "RCV-1120",
@@ -2264,7 +2266,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1127",
@@ -2288,7 +2291,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1128",
@@ -2337,7 +2341,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1130",
@@ -2708,7 +2713,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1146",
@@ -2732,7 +2738,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1147",
@@ -2930,7 +2937,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "frequency_ghz": 0.433
   },
   {
     "pid": "RCV-1157",
@@ -3128,7 +3136,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RCV-1166",
@@ -3152,7 +3161,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Flytex-Fuzia",
@@ -3183,7 +3193,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Flytex. band. antenna connector."
+    "description": "receiver by Flytex. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-DiFly-Nano-RX",
@@ -3214,7 +3225,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DiFly. band. antenna connector."
+    "description": "receiver by DiFly. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-UA-DiFly-TrueD",
@@ -3245,7 +3258,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DiFly. band. antenna connector."
+    "description": "receiver by DiFly. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-VYRIY-ELRS",
@@ -3276,7 +3290,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by VYRIY. band. antenna connector."
+    "description": "receiver by VYRIY. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-VYRIY-ELRS",
@@ -3307,7 +3322,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by VYRIY. band. antenna connector."
+    "description": "receiver by VYRIY. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-VYRIY-XR1",
@@ -3338,7 +3354,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by VYRIY. band. antenna connector."
+    "description": "receiver by VYRIY. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Radion-MaxLink",
@@ -3369,7 +3386,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Radion. band. antenna connector."
+    "description": "receiver by Radion. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Aeroneti-DBR1",
@@ -3400,7 +3418,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Aeronetix. band. antenna connector."
+    "description": "receiver by Aeronetix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Aeroneti-DBR1",
@@ -3431,7 +3450,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Aeronetix. band. antenna connector."
+    "description": "receiver by Aeronetix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Aeroneti-ELRS-433-\u041c\u0413\u0446",
@@ -3462,7 +3482,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by Aeronetix. band. antenna connector."
+    "description": "receiver by Aeronetix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Aeroneti-ELRS-433-\u041c\u0413\u0446",
@@ -3493,7 +3514,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by Aeronetix. band. antenna connector."
+    "description": "receiver by Aeronetix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-UA-Flytex-GEMINI-DUAL-",
@@ -3524,7 +3546,9 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by Flytex. band. antenna connector."
+    "description": "receiver by Flytex. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "mini"
   },
   {
     "pid": "RX-UA-Ariadna-R1A1",
@@ -3555,7 +3579,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Ariadna. band. antenna connector."
+    "description": "receiver by Ariadna. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-single-rad",
@@ -3591,7 +3616,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AnyLeaf. band. antenna connector."
+    "description": "receiver by AnyLeaf. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-dual-radio",
@@ -3627,7 +3653,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AnyLeaf. band. antenna connector."
+    "description": "receiver by AnyLeaf. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-h7-fc",
@@ -3663,7 +3690,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AnyLeaf. band. antenna connector."
+    "description": "receiver by AnyLeaf. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AERONETI-lr1121",
@@ -3704,7 +3732,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by AERONETIX. band. antenna connector."
+    "description": "receiver by AERONETIX. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AXIS-thor",
@@ -3740,7 +3769,8 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by Axisflying. band. antenna connector."
+    "description": "receiver by Axisflying. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-nano",
@@ -3779,7 +3809,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core",
@@ -3818,7 +3850,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core-",
@@ -3859,7 +3892,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-bc_sub",
@@ -3900,7 +3934,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-nano",
@@ -3939,7 +3975,9 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core",
@@ -3978,7 +4016,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rrd1",
@@ -4017,7 +4056,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-pwmc3",
@@ -4056,7 +4096,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rrd2",
@@ -4097,7 +4138,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rr2",
@@ -4138,7 +4180,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual",
@@ -4182,7 +4225,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-single",
@@ -4226,7 +4271,9 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur100",
@@ -4268,7 +4315,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur500",
@@ -4312,7 +4360,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-pwm",
@@ -4356,7 +4405,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dualc3",
@@ -4400,7 +4450,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur1000",
@@ -4442,7 +4494,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by BAYCKRC. band. antenna connector."
+    "description": "receiver by BAYCKRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-nano",
@@ -4478,7 +4531,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superd",
@@ -4514,7 +4569,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superp",
@@ -4550,7 +4606,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-BETAFPV-aio",
@@ -4586,7 +4643,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-lite",
@@ -4622,7 +4680,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-nano",
@@ -4658,7 +4717,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-pwmp",
@@ -4694,7 +4755,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superd",
@@ -4730,7 +4792,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superp",
@@ -4766,7 +4829,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superx-nan",
@@ -4805,7 +4869,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superx-mon",
@@ -4844,7 +4910,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by BETAFPV. band. antenna connector."
+    "description": "receiver by BETAFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BOTLAB-botlink1",
@@ -4880,7 +4947,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BotLabDynamics. band. antenna connector."
+    "description": "receiver by BotLabDynamics. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BROTHERH-plain",
@@ -4916,7 +4984,9 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by BrotherHobby. band. antenna connector."
+    "description": "receiver by BrotherHobby. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BROTHERH-nano",
@@ -4952,7 +5022,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by BrotherHobby. band. antenna connector."
+    "description": "receiver by BrotherHobby. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-BROTHERH-dualc3",
@@ -4993,7 +5065,9 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by BrotherHobby. band. antenna connector."
+    "description": "receiver by BrotherHobby. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-DIFLY-lt433",
@@ -5034,7 +5108,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DiFly. band. antenna connector."
+    "description": "receiver by DiFly. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-DIFLY-nano",
@@ -5073,7 +5148,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DiFly. band. antenna connector."
+    "description": "receiver by DiFly. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-DIFLY-trued",
@@ -5112,7 +5189,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DiFly. band. antenna connector."
+    "description": "receiver by DiFly. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BSIP-superx-mon",
@@ -5151,7 +5229,9 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by BlackSheep. band. antenna connector."
+    "description": "receiver by BlackSheep. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-rx900",
@@ -5190,7 +5270,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-gemx",
@@ -5231,7 +5312,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-rx900",
@@ -5269,7 +5352,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-superd",
@@ -5307,7 +5392,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-pro",
@@ -5347,7 +5433,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-nano",
@@ -5385,7 +5472,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-superd",
@@ -5423,7 +5512,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-pro",
@@ -5463,7 +5553,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-1w",
@@ -5501,7 +5592,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by DAKEFPV. band. antenna connector."
+    "description": "receiver by DAKEFPV. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-DIY-ttgov1",
@@ -5536,7 +5628,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DIY-ttgov2",
@@ -5571,7 +5664,8 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DIY-huzzah",
@@ -5607,7 +5701,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-DIY-stm32-sx12",
@@ -5641,7 +5736,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-DIY-true_diver",
@@ -5677,7 +5773,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-DIY-true_diver",
@@ -5713,7 +5811,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by DIY devices. band. antenna connector."
+    "description": "receiver by DIY devices. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-EMAX-plain",
@@ -5749,7 +5849,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by EMAX. band. antenna connector."
+    "description": "receiver by EMAX. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-EMAX-plain",
@@ -5785,7 +5886,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by EMAX. band. antenna connector."
+    "description": "receiver by EMAX. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-EMAX-pa",
@@ -5821,7 +5923,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by EMAX. band. antenna connector."
+    "description": "receiver by EMAX. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYCOLOR-c3",
@@ -5857,7 +5960,9 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Flycolor. band. antenna connector."
+    "description": "receiver by Flycolor. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-FLYWOO-el24e",
@@ -5893,7 +5998,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by Flywoo. band. antenna connector."
+    "description": "receiver by Flywoo. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYWOO-el24p",
@@ -5929,7 +6035,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Flywoo. band. antenna connector."
+    "description": "receiver by Flywoo. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FOXEER-pa-rgb",
@@ -5965,7 +6072,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by Foxeer. band. antenna connector."
+    "description": "receiver by Foxeer. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FOXEER-lite",
@@ -6001,7 +6109,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by Foxeer. band. antenna connector."
+    "description": "receiver by Foxeer. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FOXEER-plain",
@@ -6037,7 +6146,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Foxeer. band. antenna connector."
+    "description": "receiver by Foxeer. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-FOXEER-td",
@@ -6073,7 +6183,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by Foxeer. band. antenna connector."
+    "description": "receiver by Foxeer. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-FLASHTEC-se4",
@@ -6114,7 +6226,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Flash Tech. band. antenna connector."
+    "description": "receiver by Flash Tech. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-FLASHTEC-ft_se4",
@@ -6155,7 +6269,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by Flash Tech. band. antenna connector."
+    "description": "receiver by Flash Tech. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9mm",
@@ -6190,7 +6306,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by Frsky. band. antenna connector."
+    "description": "receiver by Frsky. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim",
@@ -6225,7 +6343,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by Frsky. band. antenna connector."
+    "description": "receiver by Frsky. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim-plu",
@@ -6260,7 +6379,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Frsky. band. antenna connector."
+    "description": "receiver by Frsky. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim-plu",
@@ -6295,7 +6415,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Frsky. band. antenna connector."
+    "description": "receiver by Frsky. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9mx",
@@ -6330,7 +6451,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Frsky. band. antenna connector."
+    "description": "receiver by Frsky. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GENERIC-plain",
@@ -6366,7 +6488,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwmp",
@@ -6402,7 +6525,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -6438,7 +6562,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -6476,7 +6602,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -6512,7 +6640,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain",
@@ -6548,7 +6678,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain-p",
@@ -6584,7 +6715,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-td",
@@ -6620,7 +6752,9 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-pwm",
@@ -6656,7 +6790,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pp",
@@ -6691,7 +6826,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-plain",
@@ -6727,7 +6863,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm5",
@@ -6762,7 +6899,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm6",
@@ -6797,7 +6935,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm-vario",
@@ -6832,7 +6971,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm7",
@@ -6867,7 +7007,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pa",
@@ -6903,7 +7044,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-pa-rgb",
@@ -6939,7 +7081,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity",
@@ -6975,7 +7118,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-frank",
@@ -7011,7 +7156,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-rx_vtx",
@@ -7047,7 +7193,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -7083,7 +7230,9 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity_",
@@ -7119,7 +7268,9 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity_",
@@ -7155,7 +7306,9 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -7191,7 +7344,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -7227,7 +7382,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -7266,7 +7423,9 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-true_di",
@@ -7305,7 +7464,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain",
@@ -7344,7 +7505,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-pwm",
@@ -7383,7 +7545,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by Generic targets used as a base. band. antenna connector."
+    "description": "receiver by Generic targets used as a base. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano",
@@ -7419,7 +7582,9 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual",
@@ -7455,7 +7620,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual500",
@@ -7493,7 +7660,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GEPRC-pa",
@@ -7531,7 +7700,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano",
@@ -7567,7 +7738,9 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-GEPRC-pa",
@@ -7603,7 +7776,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-GEPRC-geprc-dual",
@@ -7639,7 +7814,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano-td",
@@ -7675,7 +7852,9 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual",
@@ -7716,7 +7895,9 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-GEPRC-single",
@@ -7757,7 +7938,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-GEPRC-c3-dual",
@@ -7798,7 +7980,9 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by GEPRC. band. antenna connector."
+    "description": "receiver by GEPRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-SUB250-nano",
@@ -7836,7 +8020,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by Sub250. band. antenna connector."
+    "description": "receiver by Sub250. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SUB250-pro",
@@ -7872,7 +8057,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by Sub250. band. antenna connector."
+    "description": "receiver by Sub250. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-SUB250-single",
@@ -7913,7 +8100,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Sub250. band. antenna connector."
+    "description": "receiver by Sub250. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-HAOYERC-nano",
@@ -7949,7 +8137,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HAOYERC. band. antenna connector."
+    "description": "receiver by HAOYERC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es915",
@@ -7984,7 +8174,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900",
@@ -8020,7 +8211,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900_dual",
@@ -8056,7 +8248,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900_dual",
@@ -8092,7 +8285,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw6",
@@ -8128,7 +8322,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-pp",
@@ -8163,7 +8358,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-ep",
@@ -8199,7 +8395,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-ep-dual",
@@ -8235,7 +8432,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw5",
@@ -8270,7 +8468,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw6",
@@ -8305,7 +8504,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-aio",
@@ -8341,7 +8541,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Happymodel. band. antenna connector."
+    "description": "receiver by Happymodel. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HDZERO-halo",
@@ -8377,7 +8578,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HDZero. band. antenna connector."
+    "description": "receiver by HDZero. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-HDZERO-aio15",
@@ -8413,7 +8616,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by HDZero. band. antenna connector."
+    "description": "receiver by HDZero. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HELLORAD-hr8e",
@@ -8452,7 +8656,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HelloRadio. band. antenna connector."
+    "description": "receiver by HelloRadio. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-HELLORAD-hr7e",
@@ -8491,7 +8697,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by HelloRadio. band. antenna connector."
+    "description": "receiver by HelloRadio. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-HGLRC-hermes",
@@ -8527,7 +8735,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-HGLRC-dual",
@@ -8563,7 +8772,9 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-HGLRC-hermes",
@@ -8599,7 +8810,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HGLRC-dual",
@@ -8635,7 +8847,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-HGLRC-nano",
@@ -8676,7 +8890,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-HGLRC-pro",
@@ -8717,7 +8933,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by HGLRC. band. antenna connector."
+    "description": "receiver by HGLRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-plain",
@@ -8753,7 +8970,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-nano",
@@ -8789,7 +9007,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-500",
@@ -8827,7 +9047,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-dual500",
@@ -8865,7 +9086,9 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-plain",
@@ -8901,7 +9124,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-nano",
@@ -8937,7 +9161,9 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-500",
@@ -8975,7 +9201,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-dual250",
@@ -9011,7 +9238,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by iFlight. band. antenna connector."
+    "description": "receiver by iFlight. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-IMRC-atto",
@@ -9046,7 +9275,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by ImmersionRC. band. antenna connector."
+    "description": "receiver by ImmersionRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-JUMPER-ep24s",
@@ -9082,7 +9312,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Jumper. band. antenna connector."
+    "description": "receiver by Jumper. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-JUMPER-nano",
@@ -9118,7 +9350,9 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by Jumper. band. antenna connector."
+    "description": "receiver by Jumper. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-JUMPER-c3-pwm6",
@@ -9154,7 +9388,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Jumper. band. antenna connector."
+    "description": "receiver by Jumper. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-JUMPER-mini",
@@ -9189,7 +9424,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by Jumper. band. antenna connector."
+    "description": "receiver by Jumper. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-JUMPER-aion",
@@ -9225,7 +9462,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Jumper. band. antenna connector."
+    "description": "receiver by Jumper. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-MATEK-r24d",
@@ -9261,7 +9500,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Matek Systems. band. antenna connector."
+    "description": "receiver by Matek Systems. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MATEK-r24s",
@@ -9297,7 +9537,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Matek Systems. band. antenna connector."
+    "description": "receiver by Matek Systems. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MATEK-r24p",
@@ -9332,7 +9573,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Matek Systems. band. antenna connector."
+    "description": "receiver by Matek Systems. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-voyager_st",
@@ -9367,7 +9609,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by NamimnoRC. band. antenna connector."
+    "description": "receiver by NamimnoRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-voyager",
@@ -9403,7 +9646,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by NamimnoRC. band. antenna connector."
+    "description": "receiver by NamimnoRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash_stm",
@@ -9438,7 +9682,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by NamimnoRC. band. antenna connector."
+    "description": "receiver by NamimnoRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash",
@@ -9474,7 +9719,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by NamimnoRC. band. antenna connector."
+    "description": "receiver by NamimnoRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash-pa",
@@ -9510,7 +9756,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by NamimnoRC. band. antenna connector."
+    "description": "receiver by NamimnoRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-NEUTRONR-plain",
@@ -9546,7 +9794,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by NeutronRC. band. antenna connector."
+    "description": "receiver by NeutronRC. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-microg",
@@ -9582,7 +9831,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by NewBeeDrone. band. antenna connector."
+    "description": "receiver by NewBeeDrone. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-rx24d",
@@ -9618,7 +9868,9 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by NewBeeDrone. band. antenna connector."
+    "description": "receiver by NewBeeDrone. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-c324d",
@@ -9654,7 +9906,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by NewBeeDrone. band. antenna connector."
+    "description": "receiver by NewBeeDrone. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-QUADKOPT-nano",
@@ -9690,7 +9944,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by QuadKopters. band. antenna connector."
+    "description": "receiver by QuadKopters. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br1",
@@ -9726,7 +9982,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br3",
@@ -9762,7 +10019,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-bandit-nan",
@@ -9798,7 +10057,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br4td",
@@ -9834,7 +10095,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er3",
@@ -9869,7 +10131,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er4",
@@ -9904,7 +10167,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5",
@@ -9939,7 +10203,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5c-i",
@@ -9974,7 +10239,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5-v2",
@@ -10009,7 +10275,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6",
@@ -10044,7 +10311,9 @@
     "schema_data": {
       "weight_g": 6
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6g",
@@ -10079,7 +10348,9 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6gv",
@@ -10114,7 +10385,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8",
@@ -10149,7 +10422,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8g",
@@ -10184,7 +10459,9 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8gv",
@@ -10219,7 +10496,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp1",
@@ -10255,7 +10534,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp2",
@@ -10291,7 +10571,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp3",
@@ -10327,7 +10608,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp3-h",
@@ -10363,7 +10646,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp4",
@@ -10399,7 +10684,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp4m",
@@ -10435,7 +10722,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr2",
@@ -10473,7 +10762,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-nexus-xr",
@@ -10509,7 +10799,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-dbr4",
@@ -10548,7 +10840,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr1",
@@ -10587,7 +10881,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr3",
@@ -10626,7 +10921,9 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr4",
@@ -10665,7 +10962,9 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by RadioMaster. band. antenna connector."
+    "description": "receiver by RadioMaster. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-SEQURE-single",
@@ -10701,7 +11000,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by SEQURE. band. antenna connector."
+    "description": "receiver by SEQURE. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SEQURE-dual",
@@ -10737,7 +11037,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by SEQURE. band. antenna connector."
+    "description": "receiver by SEQURE. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SEQURE-dual",
@@ -10773,7 +11074,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by SEQURE. band. antenna connector."
+    "description": "receiver by SEQURE. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-SIYI-mini",
@@ -10809,7 +11111,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by SIYI. band. antenna connector."
+    "description": "receiver by SIYI. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-SKYSTARS-ss24d",
@@ -10845,7 +11149,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by Skystars. band. antenna connector."
+    "description": "receiver by Skystars. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-nano",
@@ -10881,7 +11186,9 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by SpeedyBee. band. antenna connector."
+    "description": "receiver by SpeedyBee. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-ss24d",
@@ -10917,7 +11224,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by SpeedyBee. band. antenna connector."
+    "description": "receiver by SpeedyBee. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-aio",
@@ -10953,7 +11262,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by SpeedyBee. band. antenna connector."
+    "description": "receiver by SpeedyBee. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-STELLAR-stellar",
@@ -10992,7 +11302,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by STELLAR. band. antenna connector."
+    "description": "receiver by STELLAR. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-STELLAR-c3-trued-g",
@@ -11036,7 +11347,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by STELLAR. band. antenna connector."
+    "description": "receiver by STELLAR. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-STELLAR-c3-dual",
@@ -11080,7 +11392,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by STELLAR. band. antenna connector."
+    "description": "receiver by STELLAR. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-SPRACING-rxg1",
@@ -11116,7 +11429,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by SPRacing. band. antenna connector."
+    "description": "receiver by SPRacing. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SPRACING-rxn1",
@@ -11152,7 +11466,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by SPRacing. band. antenna connector."
+    "description": "receiver by SPRacing. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-TBS-tbs_crossf",
@@ -11188,7 +11503,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by TBS. band. antenna connector."
+    "description": "receiver by TBS. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-TUNERC-tunerc_240",
@@ -11224,7 +11541,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by TuneRC. band. antenna connector."
+    "description": "receiver by TuneRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-ATOMRC-atomrc",
@@ -11260,7 +11579,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by atomrc. band. antenna connector."
+    "description": "receiver by atomrc. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-VANTAC-plain",
@@ -11296,7 +11616,8 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Vantac. band. antenna connector."
+    "description": "receiver by Vantac. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-ZERODRAG-nexus1",
@@ -11332,7 +11653,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by ZeroDrag. band. antenna connector."
+    "description": "receiver by ZeroDrag. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYDRAGO-r24d",
@@ -11368,7 +11690,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by FlyDragonRC. band. antenna connector."
+    "description": "receiver by FlyDragonRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYFISH-2g4rx",
@@ -11406,7 +11729,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by FlyFish. band. antenna connector."
+    "description": "receiver by FlyFish. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-THXMRSQU-squidstick",
@@ -11442,7 +11766,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by ThxMrSquid. band. antenna connector."
+    "description": "receiver by ThxMrSquid. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr1",
@@ -11480,7 +11805,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Hobbyporter. band. antenna connector."
+    "description": "receiver by Hobbyporter. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr1v2",
@@ -11518,7 +11844,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by Hobbyporter. band. antenna connector."
+    "description": "receiver by Hobbyporter. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr3",
@@ -11556,7 +11883,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Hobbyporter. band. antenna connector."
+    "description": "receiver by Hobbyporter. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor433",
@@ -11597,7 +11925,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor_beas",
@@ -11638,7 +11967,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor520c3",
@@ -11679,7 +12009,8 @@
     "schema_data": {
       "weight_g": 10
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-N24R_TD_D4",
@@ -11718,7 +12049,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-94e_v1",
@@ -11760,7 +12092,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-MAFIA-brx24",
@@ -11802,7 +12135,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAFIA-lr1824",
@@ -11844,7 +12178,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by FPV Mafia targets. band. antenna connector."
+    "description": "receiver by FPV Mafia targets. band. antenna connector.",
+    "frequency_ghz": 0.9,
+    "size_class": "mini"
   },
   {
     "pid": "RX-MAFIA-EDIFIER-rx433",
@@ -11885,7 +12221,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Edifier. band. antenna connector."
+    "description": "receiver by Edifier. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-EDIFIER-gemx250",
@@ -11926,7 +12264,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by Edifier. band. antenna connector."
+    "description": "receiver by Edifier. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BELINRC-rx900",
@@ -11965,7 +12304,8 @@
     "schema_data": {
       "weight_g": 9
     },
-    "description": "receiver by BelinRC. band. antenna connector."
+    "description": "receiver by BelinRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-BELINRC-433rx",
@@ -12006,7 +12346,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by BelinRC. band. antenna connector."
+    "description": "receiver by BelinRC. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-MAXLINK-rx360",
@@ -12047,7 +12388,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by MaxLink. band. antenna connector."
+    "description": "receiver by MaxLink. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-RD2R4",
@@ -12088,7 +12430,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-MC2R4",
@@ -12127,7 +12470,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-9624R",
@@ -12170,7 +12514,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-433m_v1",
@@ -12211,7 +12556,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-ff14",
@@ -12252,7 +12598,8 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-px1011",
@@ -12293,7 +12640,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-AYZ-9624R24",
@@ -12335,7 +12683,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by AYZ. band. antenna connector."
+    "description": "receiver by AYZ. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-CYCLONE-cyclone433",
@@ -12376,7 +12725,8 @@
     "schema_data": {
       "weight_g": 12
     },
-    "description": "receiver by Cyclone. band. antenna connector."
+    "description": "receiver by Cyclone. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-CYCLONE-c3_lr1121",
@@ -12418,7 +12768,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "description": "receiver by Cyclone. band. antenna connector."
+    "description": "receiver by Cyclone. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-FLYTEX-rx433",
@@ -12459,7 +12810,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by Flytex. band. antenna connector."
+    "description": "receiver by Flytex. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYTEX-db2",
@@ -12501,7 +12853,9 @@
     "schema_data": {
       "weight_g": 5
     },
-    "description": "receiver by Flytex. band. antenna connector."
+    "description": "receiver by Flytex. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "full"
   },
   {
     "pid": "RX-MAFIA-FLYSKY-pr01",
@@ -12537,7 +12891,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by FlySky. band. antenna connector."
+    "description": "receiver by FlySky. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-FLYSKY-pr02",
@@ -12573,7 +12928,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by FlySky. band. antenna connector."
+    "description": "receiver by FlySky. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HOLYBRO-zephyr",
@@ -12612,7 +12968,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Holybro. band. antenna connector."
+    "description": "receiver by Holybro. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-JHEMCU-lite",
@@ -12648,7 +13005,8 @@
     "schema_data": {
       "weight_g": 11
     },
-    "description": "receiver by JHEMCU. band. antenna connector."
+    "description": "receiver by JHEMCU. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-JHEMCU-dual",
@@ -12684,7 +13042,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by JHEMCU. band. antenna connector."
+    "description": "receiver by JHEMCU. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-HPXGRC-superx_nan",
@@ -12726,7 +13085,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by HPXGRC. band. antenna connector."
+    "description": "receiver by HPXGRC. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-OXBOT-aio",
@@ -12762,7 +13123,8 @@
     "schema_data": {
       "weight_g": 7
     },
-    "description": "receiver by Oxbot. band. antenna connector."
+    "description": "receiver by Oxbot. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SKYGUY-nano",
@@ -12798,7 +13160,9 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by SkyGuy. band. antenna connector."
+    "description": "receiver by SkyGuy. band. antenna connector.",
+    "frequency_ghz": 2.4,
+    "size_class": "nano"
   },
   {
     "pid": "RX-MAFIA-SKYGUY-max",
@@ -12834,7 +13198,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "description": "receiver by SkyGuy. band. antenna connector."
+    "description": "receiver by SkyGuy. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spx24",
@@ -12870,7 +13235,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Spedix. band. antenna connector."
+    "description": "receiver by Spedix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spx900",
@@ -12908,7 +13274,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by Spedix. band. antenna connector."
+    "description": "receiver by Spedix. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spxdb",
@@ -12947,7 +13314,8 @@
     "schema_data": {
       "weight_g": 2
     },
-    "description": "receiver by Spedix. band. antenna connector."
+    "description": "receiver by Spedix. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobby24",
@@ -12983,7 +13351,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by THOBBY. band. antenna connector."
+    "description": "receiver by THOBBY. band. antenna connector.",
+    "frequency_ghz": 2.4
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobby900",
@@ -13021,7 +13390,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "description": "receiver by THOBBY. band. antenna connector."
+    "description": "receiver by THOBBY. band. antenna connector.",
+    "frequency_ghz": 0.9
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobbydb",
@@ -13060,6 +13430,7 @@
     "schema_data": {
       "weight_g": 3
     },
-    "description": "receiver by THOBBY. band. antenna connector."
+    "description": "receiver by THOBBY. band. antenna connector.",
+    "frequency_ghz": 2.4
   }
 ]

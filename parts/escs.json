@@ -51,7 +51,8 @@
     "approx_price": 49.99,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1001",
@@ -105,7 +106,8 @@
     "approx_price": 34.99,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1002",
@@ -157,7 +159,8 @@
     "approx_price": 69.99,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1003",
@@ -210,7 +213,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1004",
@@ -264,7 +268,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1005",
@@ -328,7 +333,8 @@
       "country": "Croatia (EU)",
       "ndaa_compliant": true,
       "wiring_notes": "Designed to stack with Orqa QuadCore H7 or 3030 Lite F405. 8-pin connector: M1-M4 signal + CURR + VBAT + GND + ESC telemetry TX. Ribbon cable or solder."
-    }
+    },
+    "continuous_current_a": 70
   },
   {
     "pid": "ESC-1006",
@@ -382,7 +388,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1007",
@@ -436,7 +443,8 @@
     "approx_price": 89.99,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 80
   },
   {
     "pid": "ESC-1008",
@@ -490,7 +498,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 70
   },
   {
     "pid": "ESC-1009",
@@ -544,7 +553,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1010",
@@ -598,7 +608,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1011",
@@ -652,7 +663,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "continuous_current_a": 90
   },
   {
     "pid": "ESC-1012",
@@ -704,7 +716,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "continuous_current_a": 100
   },
   {
     "pid": "ESC-1013",
@@ -758,7 +771,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 100
   },
   {
     "pid": "ESC-1014",
@@ -812,7 +826,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1015",
@@ -866,7 +881,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1016",
@@ -920,7 +936,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1017",
@@ -974,7 +991,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1018",
@@ -1028,7 +1046,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1019",
@@ -1082,7 +1101,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 25
   },
   {
     "pid": "ESC-1020",
@@ -1136,7 +1156,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1021",
@@ -1190,7 +1211,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1022",
@@ -1244,7 +1266,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "continuous_current_a": 70
   },
   {
     "pid": "ESC-1023",
@@ -1345,7 +1368,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1025",
@@ -1398,7 +1422,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1026",
@@ -1450,7 +1475,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "continuous_current_a": 80
   },
   {
     "pid": "ESC-1027",
@@ -1503,7 +1529,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1028",
@@ -1557,7 +1584,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1029",
@@ -1583,7 +1611,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1030",
@@ -1637,7 +1666,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1031",
@@ -1691,7 +1721,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1032",
@@ -1745,7 +1776,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1033",
@@ -1798,7 +1830,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1034",
@@ -1852,7 +1885,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1035",
@@ -1906,7 +1940,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 66
   },
   {
     "pid": "ESC-1036",
@@ -1960,7 +1995,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1037",
@@ -2012,7 +2048,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1038",
@@ -2066,7 +2103,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1039",
@@ -2120,7 +2158,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1040",
@@ -2174,7 +2213,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1041",
@@ -2228,7 +2268,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1042",
@@ -2281,7 +2322,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1043",
@@ -2331,7 +2373,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1044",
@@ -2384,7 +2427,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1045",
@@ -2438,7 +2482,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1046",
@@ -2544,7 +2589,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1048",
@@ -2598,7 +2644,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1049",
@@ -2652,7 +2699,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1050",
@@ -2706,7 +2754,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1051",
@@ -2760,7 +2809,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1052",
@@ -2814,7 +2864,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1053",
@@ -2868,7 +2919,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1054",
@@ -2920,7 +2972,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1055",
@@ -2973,7 +3026,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1056",
@@ -3026,7 +3080,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1057",
@@ -3080,7 +3135,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1058",
@@ -3133,7 +3189,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1059",
@@ -3187,7 +3244,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1060",
@@ -3239,7 +3297,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1061",
@@ -3293,7 +3352,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1062",
@@ -3347,7 +3407,8 @@
     "approx_price": 35,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1063",
@@ -3401,7 +3462,8 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 25
   },
   {
     "pid": "ESC-1064",
@@ -3453,7 +3515,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1065",
@@ -3507,7 +3570,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1066",
@@ -3560,7 +3624,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1067",
@@ -3613,7 +3678,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1068",
@@ -3667,7 +3733,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1069",
@@ -3721,7 +3788,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1070",
@@ -3775,7 +3843,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1071",
@@ -3829,7 +3898,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1072",
@@ -3881,7 +3951,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1073",
@@ -3934,7 +4005,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1074",
@@ -3988,7 +4060,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1075",
@@ -4042,7 +4115,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1076",
@@ -4096,7 +4170,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1077",
@@ -4150,7 +4225,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1078",
@@ -4204,7 +4280,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1079",
@@ -4256,7 +4333,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1080",
@@ -4308,7 +4386,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1081",
@@ -4362,7 +4441,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1082",
@@ -4416,7 +4496,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1083",
@@ -4470,7 +4551,8 @@
     "approx_price": 37,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1086",
@@ -4521,7 +4603,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1087",
@@ -4575,7 +4658,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1088",
@@ -4629,7 +4713,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1089",
@@ -4683,7 +4768,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1090",
@@ -4735,7 +4821,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "continuous_current_a": 25
   },
   {
     "pid": "ESC-1091",
@@ -4787,7 +4874,8 @@
     "approx_price": 38,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1092",
@@ -4841,7 +4929,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1093",
@@ -4895,7 +4984,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1094",
@@ -4949,7 +5039,8 @@
     "approx_price": 55,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1095",
@@ -5003,7 +5094,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1096",
@@ -5057,7 +5149,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "continuous_current_a": 30
   },
   {
     "pid": "ESC-1097",
@@ -5111,7 +5204,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1098",
@@ -5163,7 +5257,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1099",
@@ -5214,7 +5309,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1100",
@@ -5370,7 +5466,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1104",
@@ -5424,7 +5521,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1105",
@@ -5478,7 +5576,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1106",
@@ -5532,7 +5631,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1107",
@@ -5585,7 +5685,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 46
   },
   {
     "pid": "ESC-1108",
@@ -5637,7 +5738,8 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1109",
@@ -5691,7 +5793,8 @@
     "approx_price": 42,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1110",
@@ -5743,7 +5846,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1111",
@@ -5795,7 +5899,8 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1112",
@@ -5847,7 +5952,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 30
   },
   {
     "pid": "ESC-1113",
@@ -5989,7 +6095,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1116",
@@ -6043,7 +6150,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1117",
@@ -6096,7 +6204,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1118",
@@ -6149,7 +6258,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1119",
@@ -6203,7 +6313,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1120",
@@ -6257,7 +6368,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1121",
@@ -6311,7 +6423,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1122",
@@ -6336,7 +6449,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1123",
@@ -6387,7 +6501,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-1124",
@@ -6441,7 +6556,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1125",
@@ -6495,7 +6611,8 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1126",
@@ -6549,7 +6666,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1127",
@@ -6601,7 +6719,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1128",
@@ -6655,7 +6774,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "continuous_current_a": 25
   },
   {
     "pid": "ESC-1129",
@@ -6707,7 +6827,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1130",
@@ -6851,7 +6972,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1133",
@@ -6903,7 +7025,8 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "continuous_current_a": 30
   },
   {
     "pid": "ESC-1134",
@@ -6955,7 +7078,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1135",
@@ -7031,7 +7155,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1137",
@@ -7125,7 +7250,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 25
   },
   {
     "pid": "ESC-1139",
@@ -7178,7 +7304,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1140",
@@ -7232,7 +7359,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1141",
@@ -7286,7 +7414,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1142",
@@ -7360,7 +7489,8 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "continuous_current_a": 40
   },
   {
     "pid": "ESC-1144",
@@ -7410,7 +7540,8 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-1145",
@@ -7464,7 +7595,8 @@
     "approx_price": 41,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "continuous_current_a": 35
   },
   {
     "pid": "ESC-1146",
@@ -7518,7 +7650,8 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "continuous_current_a": 45
   },
   {
     "pid": "ESC-1147",
@@ -7572,7 +7705,8 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-1148",
@@ -7639,7 +7773,8 @@
     "approx_price": 40,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-1150",
@@ -7831,7 +7966,8 @@
       "7_inch"
     ],
     "approx_price": 36.59,
-    "description": "ESC by 603700. A continuous. firmware. mounting."
+    "description": "ESC by 603700. A continuous. firmware. mounting.",
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -7858,7 +7994,8 @@
       "7_inch"
     ],
     "approx_price": 38.78,
-    "description": "ESC by 603700. A continuous. firmware. mounting."
+    "description": "ESC by 603700. A continuous. firmware. mounting.",
+    "continuous_current_a": 55
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -7885,7 +8022,8 @@
       "10_inch"
     ],
     "approx_price": 38.78,
-    "description": "ESC by 603700. A continuous. firmware. mounting."
+    "description": "ESC by 603700. A continuous. firmware. mounting.",
+    "continuous_current_a": 60
   },
   {
     "pid": "ESC-UA-603700-\u0421\u0422\u0420\u0418\u0419-v1-8S/",
@@ -7912,7 +8050,9 @@
       "heavy_lift"
     ],
     "approx_price": 62.93,
-    "description": "ESC by 603700. A continuous. firmware. mounting."
+    "description": "ESC by 603700. A continuous. firmware. mounting.",
+    "continuous_current_a": 80,
+    "cell_count_max": 8
   },
   {
     "pid": "ESC-UA-Flytex-ESC-65A",
@@ -7939,7 +8079,8 @@
       "10_inch"
     ],
     "approx_price": 34.15,
-    "description": "ESC by Flytex. A continuous. firmware. mounting."
+    "description": "ESC by Flytex. A continuous. firmware. mounting.",
+    "continuous_current_a": 65
   },
   {
     "pid": "ESC-UA-DiFly-DF-ESC-50A-R",
@@ -7966,7 +8107,8 @@
       "7_inch"
     ],
     "approx_price": 24.39,
-    "description": "ESC by DiFly. A continuous. firmware. mounting."
+    "description": "ESC by DiFly. A continuous. firmware. mounting.",
+    "continuous_current_a": 50
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS50A-RE-6S",
@@ -7993,7 +8135,9 @@
       "7_inch"
     ],
     "approx_price": 35.34,
-    "description": "ESC by LEADER Tech. A continuous. firmware. mounting."
+    "description": "ESC by LEADER Tech. A continuous. firmware. mounting.",
+    "continuous_current_a": 50,
+    "cell_count_max": 6
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS80A-RE-8S",
@@ -8020,7 +8164,9 @@
       "heavy_lift"
     ],
     "approx_price": 60.95,
-    "description": "ESC by LEADER Tech. A continuous. firmware. mounting."
+    "description": "ESC by LEADER Tech. A continuous. firmware. mounting.",
+    "continuous_current_a": 80,
+    "cell_count_max": 8
   },
   {
     "pid": "ESC-UA-KaraFPV-Golden-4in1-",
@@ -8047,7 +8193,9 @@
       "heavy_lift"
     ],
     "approx_price": 61.39,
-    "description": "ESC by KaraFPV. A continuous. firmware. mounting."
+    "description": "ESC by KaraFPV. A continuous. firmware. mounting.",
+    "continuous_current_a": 80,
+    "cell_count_max": 8
   },
   {
     "pid": "ESC-UA-Stingbee-Stellar-8bit",
@@ -8074,7 +8222,8 @@
       "10_inch"
     ],
     "approx_price": 36.59,
-    "description": "ESC by Stingbee. A continuous. firmware. mounting."
+    "description": "ESC by Stingbee. A continuous. firmware. mounting.",
+    "continuous_current_a": 70
   },
   {
     "pid": "ESC-UA-SkyPulse-6-in-1-AM32-",
@@ -8101,7 +8250,9 @@
       "heavy_lift"
     ],
     "approx_price": 79.44,
-    "description": "ESC by SkyPulse. A continuous. firmware. mounting."
+    "description": "ESC by SkyPulse. A continuous. firmware. mounting.",
+    "continuous_current_a": 80,
+    "cell_count_max": 8
   },
   {
     "pid": "ESC-UA-SkyPulse-GORO-AM32-12",
@@ -8128,7 +8279,8 @@
       "heavy_lift"
     ],
     "approx_price": 71.95,
-    "description": "ESC by SkyPulse. A continuous. firmware. mounting."
+    "description": "ESC by SkyPulse. A continuous. firmware. mounting.",
+    "continuous_current_a": 120
   },
   {
     "pid": "ESC-UA-FT-65A-4\u04321-6S-3",
@@ -8155,6 +8307,8 @@
       "10_inch"
     ],
     "approx_price": 68.78,
-    "description": "ESC by. A continuous. firmware. mounting."
+    "description": "ESC by. A continuous. firmware. mounting.",
+    "continuous_current_a": 65,
+    "cell_count_max": 6
   }
 ]

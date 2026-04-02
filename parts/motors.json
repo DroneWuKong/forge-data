@@ -57,7 +57,8 @@
     "approx_price": 22.99,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1960
   },
   {
     "pid": "MTR-1001",
@@ -117,7 +118,8 @@
     "approx_price": 29.99,
     "schema_data": {
       "weight_g": 42
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1002",
@@ -177,7 +179,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1550
   },
   {
     "pid": "MTR-1003",
@@ -237,7 +240,8 @@
     "approx_price": 24.99,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2120
   },
   {
     "pid": "MTR-1004",
@@ -297,7 +301,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1005",
@@ -357,7 +362,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2050
   },
   {
     "pid": "MTR-1006",
@@ -475,7 +481,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 2300
   },
   {
     "pid": "MTR-1008",
@@ -593,7 +600,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 2000
   },
   {
     "pid": "MTR-1010",
@@ -653,7 +661,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1011",
@@ -713,7 +722,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1012",
@@ -773,7 +783,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 930
   },
   {
     "pid": "MTR-1013",
@@ -822,7 +833,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 580
   },
   {
     "pid": "MTR-1014",
@@ -882,7 +894,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1015",
@@ -942,7 +955,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1016",
@@ -1002,7 +1016,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1960
   },
   {
     "pid": "MTR-1017",
@@ -1062,7 +1077,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1018",
@@ -1122,7 +1138,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1019",
@@ -1182,7 +1199,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1020",
@@ -1242,7 +1260,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1021",
@@ -1302,7 +1321,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1022",
@@ -1362,7 +1382,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1023",
@@ -1422,7 +1443,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1155
   },
   {
     "pid": "MTR-1024",
@@ -1476,7 +1498,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 1010
   },
   {
     "pid": "MTR-1025",
@@ -1536,7 +1559,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1026",
@@ -1596,7 +1620,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1027",
@@ -1656,7 +1681,8 @@
     "approx_price": 24.99,
     "schema_data": {
       "weight_g": 58
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1028",
@@ -1716,7 +1742,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1029",
@@ -1776,7 +1803,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1030",
@@ -1888,7 +1916,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1032",
@@ -1948,7 +1977,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1033",
@@ -2002,7 +2032,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 500
   },
   {
     "pid": "MTR-1034",
@@ -2062,7 +2093,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1720
   },
   {
     "pid": "MTR-1035",
@@ -2122,7 +2154,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1150
   },
   {
     "pid": "MTR-1036",
@@ -2182,7 +2215,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 870
   },
   {
     "pid": "MTR-1037",
@@ -2236,7 +2270,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 620
   },
   {
     "pid": "MTR-1038",
@@ -2296,7 +2331,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1180
   },
   {
     "pid": "MTR-1039",
@@ -2356,7 +2392,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1040",
@@ -2416,7 +2453,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1041",
@@ -2470,7 +2508,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1042",
@@ -2524,7 +2563,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1200
   },
   {
     "pid": "MTR-1043",
@@ -2584,7 +2624,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1755
   },
   {
     "pid": "MTR-1044",
@@ -2644,7 +2685,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1855
   },
   {
     "pid": "MTR-1045",
@@ -2704,7 +2746,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1046",
@@ -2764,7 +2807,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1047",
@@ -2824,7 +2868,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1048",
@@ -2884,7 +2929,8 @@
     "approx_price": 14.99,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1049",
@@ -2944,7 +2990,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1050",
@@ -3004,7 +3051,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1051",
@@ -3058,7 +3106,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 400
   },
   {
     "pid": "MTR-1052",
@@ -3118,7 +3167,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1053",
@@ -3178,7 +3228,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1054",
@@ -3238,7 +3289,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1055",
@@ -3298,7 +3350,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1056",
@@ -3358,7 +3411,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2300
   },
   {
     "pid": "MTR-1057",
@@ -3418,7 +3472,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1058",
@@ -3478,7 +3533,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1059",
@@ -3538,7 +3594,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1850
   },
   {
     "pid": "MTR-1060",
@@ -3598,7 +3655,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1061",
@@ -3658,7 +3716,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1980
   },
   {
     "pid": "MTR-1062",
@@ -3718,7 +3777,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1400
   },
   {
     "pid": "MTR-1063",
@@ -3778,7 +3838,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1064",
@@ -3838,7 +3899,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 2300
   },
   {
     "pid": "MTR-1065",
@@ -3892,7 +3954,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 730
   },
   {
     "pid": "MTR-1066",
@@ -3943,7 +4006,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 330
   },
   {
     "pid": "MTR-1067",
@@ -4003,7 +4067,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2160
   },
   {
     "pid": "MTR-1068",
@@ -4121,7 +4186,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1070",
@@ -4181,7 +4247,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1400
   },
   {
     "pid": "MTR-1071",
@@ -4241,7 +4308,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1072",
@@ -4301,7 +4369,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1073",
@@ -4361,7 +4430,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1074",
@@ -4421,7 +4491,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1075",
@@ -4481,7 +4552,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1860
   },
   {
     "pid": "MTR-1076",
@@ -4541,7 +4613,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1860
   },
   {
     "pid": "MTR-1077",
@@ -4601,7 +4674,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1860
   },
   {
     "pid": "MTR-1078",
@@ -4655,7 +4729,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 500
   },
   {
     "pid": "MTR-1079",
@@ -4715,7 +4790,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 400
   },
   {
     "pid": "MTR-1080",
@@ -4769,7 +4845,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1081",
@@ -4829,7 +4906,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1082",
@@ -4889,7 +4967,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1083",
@@ -4949,7 +5028,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1084",
@@ -5009,7 +5089,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1860
   },
   {
     "pid": "MTR-1085",
@@ -5069,7 +5150,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1086",
@@ -5129,7 +5211,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2111
   },
   {
     "pid": "MTR-1087",
@@ -5189,7 +5272,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1088",
@@ -5249,7 +5333,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1089",
@@ -5309,7 +5394,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 2910
   },
   {
     "pid": "MTR-1090",
@@ -5369,7 +5455,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1050
   },
   {
     "pid": "MTR-1091",
@@ -5429,7 +5516,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1092",
@@ -5489,7 +5577,8 @@
     "approx_price": 24.99,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1093",
@@ -5549,7 +5638,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1094",
@@ -5609,7 +5699,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1095",
@@ -5669,7 +5760,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1096",
@@ -5729,7 +5821,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1098",
@@ -5789,7 +5882,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1099",
@@ -5849,7 +5943,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1100",
@@ -5903,7 +5998,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2000
   },
   {
     "pid": "MTR-1101",
@@ -5963,7 +6059,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1850
   },
   {
     "pid": "MTR-1102",
@@ -6023,7 +6120,8 @@
     "approx_price": 29.99,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1103",
@@ -6083,7 +6181,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1104",
@@ -6143,7 +6242,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1105",
@@ -6203,7 +6303,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1106",
@@ -6263,7 +6364,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 925
   },
   {
     "pid": "MTR-1107",
@@ -6323,7 +6425,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1108",
@@ -6383,7 +6486,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1109",
@@ -6443,7 +6547,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1110",
@@ -6503,7 +6608,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1111",
@@ -6563,7 +6669,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1100
   },
   {
     "pid": "MTR-1112",
@@ -6617,7 +6724,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1850
   },
   {
     "pid": "MTR-1113",
@@ -6677,7 +6785,8 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1300
   },
   {
     "pid": "MTR-1114",
@@ -6737,7 +6846,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1115",
@@ -6797,7 +6907,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1116",
@@ -6857,7 +6968,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 2522
   },
   {
     "pid": "MTR-1117",
@@ -6917,7 +7029,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1850
   },
   {
     "pid": "MTR-1118",
@@ -6977,7 +7090,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 2222
   },
   {
     "pid": "MTR-1119",
@@ -7037,7 +7151,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 1922
   },
   {
     "pid": "MTR-1120",
@@ -7097,7 +7212,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1622
   },
   {
     "pid": "MTR-1121",
@@ -7157,7 +7273,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1910
   },
   {
     "pid": "MTR-1123",
@@ -7217,7 +7334,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1124",
@@ -7277,7 +7395,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1125",
@@ -7337,7 +7456,8 @@
     "approx_price": 34,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1126",
@@ -7397,7 +7517,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 2750
   },
   {
     "pid": "MTR-1127",
@@ -7457,7 +7578,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1128",
@@ -7517,7 +7639,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1129",
@@ -7635,7 +7758,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1131",
@@ -7695,7 +7819,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1132",
@@ -7813,7 +7938,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 2000
   },
   {
     "pid": "MTR-1134",
@@ -7867,7 +7993,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 3000
   },
   {
     "pid": "MTR-1135",
@@ -7921,7 +8048,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1136",
@@ -7981,7 +8109,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1137",
@@ -8035,7 +8164,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 1690
   },
   {
     "pid": "MTR-1138",
@@ -8089,7 +8219,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1139",
@@ -8143,7 +8274,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1140",
@@ -8197,7 +8329,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2700
   },
   {
     "pid": "MTR-1141",
@@ -8257,7 +8390,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1142",
@@ -8317,7 +8451,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1143",
@@ -8377,7 +8512,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1144",
@@ -8437,7 +8573,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1145",
@@ -8497,7 +8634,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2050
   },
   {
     "pid": "MTR-1146",
@@ -8551,7 +8689,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 3390
   },
   {
     "pid": "MTR-1147",
@@ -8605,7 +8744,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 3390
   },
   {
     "pid": "MTR-1148",
@@ -8659,7 +8799,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 3600
   },
   {
     "pid": "MTR-1149",
@@ -8713,7 +8854,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1150",
@@ -8773,7 +8915,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1151",
@@ -8833,7 +8976,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1152",
@@ -8893,7 +9037,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1153",
@@ -8947,7 +9092,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 2410
   },
   {
     "pid": "MTR-1154",
@@ -9001,7 +9147,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 2410
   },
   {
     "pid": "MTR-1155",
@@ -9061,7 +9208,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1156",
@@ -9121,7 +9269,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1157",
@@ -9181,7 +9330,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1158",
@@ -9241,7 +9391,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1159",
@@ -9301,7 +9452,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2580
   },
   {
     "pid": "MTR-1160",
@@ -9361,7 +9513,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1910
   },
   {
     "pid": "MTR-1161",
@@ -9421,7 +9574,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1162",
@@ -9481,7 +9635,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1163",
@@ -9541,7 +9696,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1164",
@@ -9601,7 +9757,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1165",
@@ -9661,7 +9818,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1900
   },
   {
     "pid": "MTR-1166",
@@ -9721,7 +9879,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 2000
   },
   {
     "pid": "MTR-1167",
@@ -9781,7 +9940,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1168",
@@ -9841,7 +10001,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1777
   },
   {
     "pid": "MTR-1169",
@@ -9901,7 +10062,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1777
   },
   {
     "pid": "MTR-1170",
@@ -9961,7 +10123,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1171",
@@ -10021,7 +10184,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1172",
@@ -10081,7 +10245,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1173",
@@ -10141,7 +10306,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1174",
@@ -10201,7 +10367,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1175",
@@ -10261,7 +10428,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1176",
@@ -10321,7 +10489,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1177",
@@ -10381,7 +10550,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 2150
   },
   {
     "pid": "MTR-1178",
@@ -10441,7 +10611,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1179",
@@ -10501,7 +10672,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1180",
@@ -10561,7 +10733,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1181",
@@ -10621,7 +10794,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2150
   },
   {
     "pid": "MTR-1182",
@@ -10681,7 +10855,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1183",
@@ -10741,7 +10916,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1184",
@@ -10801,7 +10977,8 @@
     "approx_price": 29,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1185",
@@ -10861,7 +11038,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1186",
@@ -10921,7 +11099,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1187",
@@ -10981,7 +11160,8 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 1350
   },
   {
     "pid": "MTR-1188",
@@ -11041,7 +11221,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1189",
@@ -11101,7 +11282,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1190",
@@ -11161,7 +11343,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 2345
   },
   {
     "pid": "MTR-1191",
@@ -11221,7 +11404,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1192",
@@ -11281,7 +11465,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1193",
@@ -11341,7 +11526,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1194",
@@ -11401,7 +11587,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1195",
@@ -11461,7 +11648,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1196",
@@ -11521,7 +11709,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1197",
@@ -11581,7 +11770,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1650
   },
   {
     "pid": "MTR-1198",
@@ -11641,7 +11831,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1199",
@@ -11701,7 +11892,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1200",
@@ -11761,7 +11953,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1201",
@@ -11931,7 +12124,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 1100
   },
   {
     "pid": "MTR-1204",
@@ -11991,7 +12185,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2750
   },
   {
     "pid": "MTR-1205",
@@ -12109,7 +12304,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1207",
@@ -12169,7 +12365,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1208",
@@ -12223,7 +12420,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 2750
   },
   {
     "pid": "MTR-1209",
@@ -12283,7 +12481,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1210",
@@ -12343,7 +12542,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2522
   },
   {
     "pid": "MTR-1211",
@@ -12403,7 +12603,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1722
   },
   {
     "pid": "MTR-1212",
@@ -12463,7 +12664,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 1722
   },
   {
     "pid": "MTR-1213",
@@ -12523,7 +12725,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 2750
   },
   {
     "pid": "MTR-1214",
@@ -12583,7 +12786,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1215",
@@ -12643,7 +12847,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 1950
   },
   {
     "pid": "MTR-1216",
@@ -12703,7 +12908,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1700
   },
   {
     "pid": "MTR-1217",
@@ -12763,7 +12969,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1218",
@@ -12881,7 +13088,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1220",
@@ -12941,7 +13149,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "kv": 1800
   },
   {
     "pid": "MTR-1221",
@@ -13117,7 +13326,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2522
   },
   {
     "pid": "MTR-1224",
@@ -13177,7 +13387,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1225",
@@ -13237,7 +13448,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 2750
   },
   {
     "pid": "MTR-1226",
@@ -13297,7 +13509,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1227",
@@ -13357,7 +13570,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1228",
@@ -13417,7 +13631,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 2200
   },
   {
     "pid": "MTR-1229",
@@ -13477,7 +13692,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1230",
@@ -13537,7 +13753,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1231",
@@ -13597,7 +13814,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1232",
@@ -13657,7 +13875,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1233",
@@ -13717,7 +13936,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1234",
@@ -13777,7 +13997,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1235",
@@ -13837,7 +14058,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1236",
@@ -13897,7 +14119,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1237",
@@ -13957,7 +14180,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1238",
@@ -14017,7 +14241,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 2150
   },
   {
     "pid": "MTR-1239",
@@ -14077,7 +14302,8 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 2200
   },
   {
     "pid": "MTR-1240",
@@ -14137,7 +14363,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1241",
@@ -14197,7 +14424,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1242",
@@ -14257,7 +14485,8 @@
     "approx_price": 14,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 2250
   },
   {
     "pid": "MTR-1243",
@@ -14317,7 +14546,8 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1244",
@@ -14377,7 +14607,8 @@
     "approx_price": 28,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2800
   },
   {
     "pid": "MTR-1245",
@@ -14437,7 +14668,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 2700
   },
   {
     "pid": "MTR-1246",
@@ -14497,7 +14729,8 @@
     "approx_price": 32,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1247",
@@ -14557,7 +14790,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1248",
@@ -14617,7 +14851,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1777
   },
   {
     "pid": "MTR-1249",
@@ -14677,7 +14912,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1250",
@@ -14737,7 +14973,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2550
   },
   {
     "pid": "MTR-1251",
@@ -14797,7 +15034,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2650
   },
   {
     "pid": "MTR-1252",
@@ -14857,7 +15095,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1253",
@@ -14917,7 +15156,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1254",
@@ -14977,7 +15217,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1255",
@@ -15037,7 +15278,8 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 2350
   },
   {
     "pid": "MTR-1256",
@@ -15097,7 +15339,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1257",
@@ -15157,7 +15400,8 @@
     "approx_price": 30,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1258",
@@ -15217,7 +15461,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1259",
@@ -15277,7 +15522,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1260",
@@ -15337,7 +15583,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 2700
   },
   {
     "pid": "MTR-1261",
@@ -15397,7 +15644,8 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2522
   },
   {
     "pid": "MTR-1262",
@@ -15457,7 +15705,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2450
   },
   {
     "pid": "MTR-1263",
@@ -15517,7 +15766,8 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1264",
@@ -15577,7 +15827,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1722
   },
   {
     "pid": "MTR-1265",
@@ -15637,7 +15888,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2600
   },
   {
     "pid": "MTR-1266",
@@ -15697,7 +15949,8 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1722
   },
   {
     "pid": "MTR-1267",
@@ -15757,7 +16010,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 2725
   },
   {
     "pid": "MTR-1268",
@@ -15817,7 +16071,8 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1269",
@@ -15877,7 +16132,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 38
-    }
+    },
+    "kv": 2150
   },
   {
     "pid": "MTR-1270",
@@ -15937,7 +16193,8 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "kv": 1739
   },
   {
     "pid": "MTR-1271",
@@ -15997,7 +16254,8 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 2400
   },
   {
     "pid": "MTR-1272",
@@ -16057,7 +16315,8 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1273",
@@ -16117,7 +16376,8 @@
     "approx_price": 26,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "kv": 1750
   },
   {
     "pid": "MTR-1274",
@@ -16177,7 +16437,8 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "kv": 2500
   },
   {
     "pid": "MTR-1275",
@@ -16216,7 +16477,8 @@
     ],
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1276",
@@ -16256,7 +16518,8 @@
     ],
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "kv": 900
   },
   {
     "pid": "MTR-1277",
@@ -16334,7 +16597,8 @@
     ],
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1250
   },
   {
     "pid": "MTR-1279",
@@ -16373,7 +16637,8 @@
     ],
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1280",
@@ -16411,7 +16676,8 @@
     ],
     "schema_data": {
       "weight_g": 34
-    }
+    },
+    "kv": 1500
   },
   {
     "pid": "MTR-1281",
@@ -16451,7 +16717,8 @@
     ],
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "kv": 2200
   },
   {
     "pid": "MTR-1282",
@@ -16793,7 +17060,10 @@
       "heavy_lift"
     ],
     "approx_price": 34.15,
-    "description": "Motor by Flytex. mm x mm stator.."
+    "description": "Motor by Flytex. mm x mm stator..",
+    "kv": 510,
+    "stator_diameter_mm": 42,
+    "stator_height_mm": 15
   },
   {
     "pid": "MTR-UA-Flytex-3115-900KV",
@@ -16821,7 +17091,10 @@
       "10_inch"
     ],
     "approx_price": 16.95,
-    "description": "Motor by Flytex. mm x mm stator.."
+    "description": "Motor by Flytex. mm x mm stator..",
+    "kv": 900,
+    "stator_diameter_mm": 31,
+    "stator_height_mm": 15
   },
   {
     "pid": "MTR-UA-Flytex-4320-320KV",
@@ -16849,7 +17122,10 @@
       "heavy_lift"
     ],
     "approx_price": 39.02,
-    "description": "Motor by Flytex. mm x mm stator.."
+    "description": "Motor by Flytex. mm x mm stator..",
+    "kv": 320,
+    "stator_diameter_mm": 43,
+    "stator_height_mm": 20
   },
   {
     "pid": "MTR-UA-DiFly-DF-2807-13",
@@ -16877,7 +17153,10 @@
       "7_inch"
     ],
     "approx_price": 12.2,
-    "description": "Motor by DiFly. mm x mm stator.."
+    "description": "Motor by DiFly. mm x mm stator..",
+    "kv": 1300,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 7
   },
   {
     "pid": "MTR-UA-\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d-BLDC-2807-",
@@ -16905,7 +17184,10 @@
       "7_inch"
     ],
     "approx_price": 15.85,
-    "description": "Motor by \u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d. mm x mm stator.."
+    "description": "Motor by \u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d. mm x mm stator..",
+    "kv": 1300,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 7
   },
   {
     "pid": "MTR-UA-LEADER-T-2807-1300K",
@@ -16933,7 +17215,10 @@
       "7_inch"
     ],
     "approx_price": 12.17,
-    "description": "Motor by LEADER Tech. mm x mm stator.."
+    "description": "Motor by LEADER Tech. mm x mm stator..",
+    "kv": 1300,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 7
   },
   {
     "pid": "MTR-UA-KaraFPV-2807-1300K",
@@ -16961,7 +17246,10 @@
       "7_inch"
     ],
     "approx_price": 13.02,
-    "description": "Motor by KaraFPV. mm x mm stator.."
+    "description": "Motor by KaraFPV. mm x mm stator..",
+    "kv": 1300,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 7
   },
   {
     "pid": "MTR-UA-KaraFPV-3115-900KV",
@@ -16989,7 +17277,10 @@
       "10_inch"
     ],
     "approx_price": 13.73,
-    "description": "Motor by KaraFPV. mm x mm stator.."
+    "description": "Motor by KaraFPV. mm x mm stator..",
+    "kv": 900,
+    "stator_diameter_mm": 31,
+    "stator_height_mm": 15
   },
   {
     "pid": "MTR-UA-FT-2807-1300K",
@@ -17017,7 +17308,10 @@
       "7_inch"
     ],
     "approx_price": 18.88,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 1300,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 7
   },
   {
     "pid": "MTR-UA-FT-2812-1100K",
@@ -17045,7 +17339,10 @@
       "7_inch"
     ],
     "approx_price": 19.9,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 1100,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 12
   },
   {
     "pid": "MTR-UA-FT-2812-1900K",
@@ -17073,7 +17370,10 @@
       "7_inch"
     ],
     "approx_price": 19.9,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 1900,
+    "stator_diameter_mm": 28,
+    "stator_height_mm": 12
   },
   {
     "pid": "MTR-UA-FT-3115-800KV",
@@ -17101,7 +17401,10 @@
       "10_inch"
     ],
     "approx_price": 30.59,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 800,
+    "stator_diameter_mm": 31,
+    "stator_height_mm": 15
   },
   {
     "pid": "MTR-UA-FT-4220-400KV",
@@ -17129,7 +17432,10 @@
       "heavy_lift"
     ],
     "approx_price": 39.8,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 400,
+    "stator_diameter_mm": 42,
+    "stator_height_mm": 20
   },
   {
     "pid": "MTR-UA-FT-4220-650KV",
@@ -17157,7 +17463,10 @@
       "heavy_lift"
     ],
     "approx_price": 39.8,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 650,
+    "stator_diameter_mm": 42,
+    "stator_height_mm": 20
   },
   {
     "pid": "MTR-UA-FT-6007-380KV",
@@ -17185,6 +17494,7 @@
       "heavy_lift"
     ],
     "approx_price": 59.71,
-    "description": "Motor by. mm x mm stator.."
+    "description": "Motor by. mm x mm stator..",
+    "kv": 380
   }
 ]
