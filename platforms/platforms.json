@@ -2,7 +2,7 @@
   "database_meta": {
     "name": "AI Wingman Forge \u2014 Platform Database",
     "description": "Merged platform data for the Forge build planner.",
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-04",
     "platform_count": 219,
     "sources": [
       "data/parts-db/drone_models.json",

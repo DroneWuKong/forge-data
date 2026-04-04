@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-04-02",
+  "last_updated": "2026-04-04",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 219
@@ -101,7 +101,7 @@
     },
     "receivers": {
       "file": "parts/receivers.json",
-      "count": 394
+      "count": 391
     },
     "sensors": {
       "file": "parts/sensors.json",
@@ -129,11 +129,11 @@
     },
     "video_transmitters": {
       "file": "parts/video_transmitters.json",
-      "count": 124
+      "count": 118
     }
   },
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3798
+  "total_parts": 3789
 }
