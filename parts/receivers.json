@@ -53,7 +53,7 @@
     "pid": "RCV-1014",
     "category": "receivers",
     "name": "TBS Crossfire Diversity Nano RX",
-    "manufacturer": "",
+    "manufacturer": "TBS",
     "description": "A full-capability TBS Crossfire Diversity receiver in nano form factor. Ideal for long range miniquads or smaller wings.",
     "link": "https://www.getfpv.com/radios/receivers/tbs-crossfire-diversity-nano-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/t/b/tbs-crossfire-diversity-nano-rx.jpg",
@@ -553,7 +553,7 @@
     "pid": "RCV-1043",
     "category": "receivers",
     "name": "MATEKSYS Crossfire to PWM Converter - CRSF PWM 6",
-    "manufacturer": "",
+    "manufacturer": "Matek",
     "description": "The\u00a0MATEKSYS CRSF PWM 6\u00a0is a Crossfire to PWM Converter with 2 UARTS and 6 PWM Outputs.\u00a0 This converter supports any Crossfire Protocol receivers, such as the 433MHz, 868MHz, 915MHz, or 2.4GHz.",
     "link": "https://www.getfpv.com/radios/receivers/mateksys-crossfire-to-pwm-converter-crsf-pwm-6.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/m/a/mateksys_crossfire_to_pwm_converter_-_crsf_pwm_6mateksys-crossfire-to-pwm-converter---crsf-pwm-6-main-low_res-width-1000px.jpg",
@@ -828,7 +828,7 @@
     "pid": "RCV-1055",
     "category": "receivers",
     "name": "ImmersionRC Ghost \u00c1tto 2.4Ghz Rx",
-    "manufacturer": "",
+    "manufacturer": "ImmersionRC",
     "description": "The Ghost \u00c1tto receiver weighs in at about 0.6g, and is only 14.8 x 11.5mm, a 15% smaller footprint than its closest competitor.",
     "link": "https://www.getfpv.com/radios/receivers/immersionrc-ghost-atto-2-4ghz-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/a/t/atto-rx-1_1.jpg",
@@ -3294,38 +3294,6 @@
     "frequency_ghz": 2.4
   },
   {
-    "pid": "RX-UA-VYRIY-ELRS",
-    "category": "receivers",
-    "name": "ELRS",
-    "manufacturer": "VYRIY",
-    "country": "Ukraine",
-    "frequency": "500MHz",
-    "protocol": "ELRS",
-    "mcu_chip": "ESP8285",
-    "radio_chip": "SX1276",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian ELRS ecosystem. Combat-adapted frequency support."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "elrs",
-      "500mhz"
-    ],
-    "approx_price": 19,
-    "schema_data": {
-      "weight_g": 7
-    },
-    "description": "receiver by VYRIY. band. antenna connector.",
-    "frequency_ghz": 2.4
-  },
-  {
     "pid": "RX-UA-VYRIY-XR1",
     "category": "receivers",
     "name": "XR1",
@@ -3417,70 +3385,6 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 9
-    },
-    "description": "receiver by Aeronetix. band. antenna connector.",
-    "frequency_ghz": 2.4
-  },
-  {
-    "pid": "RX-UA-Aeroneti-DBR1",
-    "category": "receivers",
-    "name": "DBR1",
-    "manufacturer": "Aeronetix",
-    "country": "Ukraine",
-    "frequency": "2.4/900",
-    "protocol": "ELRS",
-    "mcu_chip": "ESP8285",
-    "radio_chip": "LR1121",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian ELRS ecosystem. Combat-adapted frequency support."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "elrs",
-      "2.4_900"
-    ],
-    "approx_price": 21,
-    "schema_data": {
-      "weight_g": 9
-    },
-    "description": "receiver by Aeronetix. band. antenna connector.",
-    "frequency_ghz": 2.4
-  },
-  {
-    "pid": "RX-UA-Aeroneti-ELRS-433-\u041c\u0413\u0446",
-    "category": "receivers",
-    "name": "ELRS 433 \u041c\u0413\u0446 + 2.4 \u0413\u0413\u0446",
-    "manufacturer": "Aeronetix",
-    "country": "Ukraine",
-    "frequency": "2.4/900",
-    "protocol": "ELRS",
-    "mcu_chip": "ESP32C3",
-    "radio_chip": "LR1121",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian ELRS ecosystem. Combat-adapted frequency support."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "elrs",
-      "2.4_900"
-    ],
-    "approx_price": 20,
-    "schema_data": {
-      "weight_g": 3
     },
     "description": "receiver by Aeronetix. band. antenna connector.",
     "frequency_ghz": 2.4
