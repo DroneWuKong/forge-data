@@ -169,7 +169,7 @@
     "pid": "VTX-1007",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Pro Kit 32GB + Gyro + Dual Antennas",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar HD Pro VRX Bundle\u00a0utilizes cutting-edge H.265 coding, ensuring top-tier 1080p FPV visuals while maintaining minimal latency. It supports 1080P at 60FPS and 720P at 120FPS, delivering exceptional image quality.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-pro-kit-32gb-gyro-dual-antennas.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-kit---32gb-w-dual-antennas-bundle-_thumbnail_.jpg",
@@ -264,7 +264,7 @@
     "pid": "VTX-1011",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Kit V2 32GB + Gyro",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "This Walksnail Avatar VRX Bundle\u00a0features built-in 32GB storage and Gyroflow support. The 2K/120fps/4:3 native sensor camera allows you to capture more of the surrounding scenery while flying the drone, resulting in more comprehensive and visually appealing images.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-32gb-single-antenna-_image-1_.jpg",
@@ -288,7 +288,7 @@
     "pid": "VTX-1012",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Mini 1S + Gyro ",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar HD Mini VRX Bundle features a VRX, nano digital camera, antenna, and Mini VTX that works with HD Goggles such as the Walksnail Avatar and Fat Shark HD Dominator.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-mini-1s-gyro.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-mini-1s-kit-bundle-_thumbnail_1_.jpg",
@@ -528,7 +528,7 @@
     "pid": "VTX-1025",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX / Kits",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar VRX transmits 1080P/60fps with industry-leading H.265 encoding technology, which can provide a minimum delay of 22ms and a maximum resolution of 1080p. Enjoy clear HD video to take your FPV experience to the next level!",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-vrx_1__2.jpg",
@@ -959,7 +959,7 @@
     "pid": "VTX-1049",
     "category": "video_transmitters",
     "name": "DJI Goggles N3 + O4 Air Unit Bundle ",
-    "manufacturer": "",
+    "manufacturer": "DJI",
     "description": "The DJI Goggles N3 and O4 Air Unit Bundle utilizes real-time control with DJI Goggles N3, offering intuitive head tracking and seamless AR cursor adjustments when paired with DJI Neo or Avata 2.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/dji-goggles-n3-o4-air-unit-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/h/dhi_goggles_n3_o4_bundle_image.jpg",
@@ -1007,7 +1007,7 @@
     "pid": "VTX-1051",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Kit V2 32GB + Gyro + Dual Antennas",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "This Walksnail Avatar VRX Bundle features built-in 32GB storage and Gyroflow support with dual antennas. The 2K/120fps/4:3 native sensor camera allows you to capture more of the surrounding scenery while flying the drone, resulting in more comprehensive and visually appealing images.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro-dual-antennas.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2---32gb-_-gyro-w-dual-antennas-bundle-_thumbnail_.jpg",
@@ -2830,270 +2830,6 @@
     "description": "Video transmitter by Pilotix. mW output. band."
   },
   {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "5.8G",
-    "protocol": "IRC Tramp",
-    "channels": "48Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "5.8g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "5.8G",
-    "protocol": "IRC Tramp",
-    "channels": "48Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "5.8g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "2.7G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "2.7g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "2.7G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "2.7g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "1.2G",
-    "protocol": "IRC Tramp",
-    "channels": "9Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "1.2g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "1.2G",
-    "protocol": "IRC Tramp",
-    "channels": "9Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "1.2g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "3.3G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "3.3g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "3.3G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "3.3g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
     "pid": "VTX-UA-FT-VTX-7.2G-S",
     "category": "video_transmitters",
     "name": "VTX 7.2G SMA",
@@ -3159,5 +2895,71 @@
     },
     "description": "Video transmitter by KaraFPV. mW output. band.",
     "max_power_mw": 4000
+  },
+  {
+    "pid": "VTX-UA-FT-VTX",
+    "category": "video_transmitters",
+    "name": "VTX",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "power_w": "4W",
+    "frequency_band": "3.3G",
+    "protocol": "IRC Tramp",
+    "channels": "16Ch",
+    "connector": "MMCX",
+    "approx_price_usd": null,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture. Non-Chinese supply chain."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "vtx",
+      "3.3g"
+    ],
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 14
+    },
+    "description": "Video transmitter by. mW output. band."
+  },
+  {
+    "pid": "VTX-UA-FT-VTX-SMA",
+    "category": "video_transmitters",
+    "name": "VTX SMA",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "power_w": "4W",
+    "frequency_band": "3.3G",
+    "protocol": "IRC Tramp",
+    "channels": "16Ch",
+    "connector": "SMA",
+    "approx_price_usd": null,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture. Non-Chinese supply chain."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "vtx",
+      "3.3g"
+    ],
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 13
+    },
+    "description": "Video transmitter by. mW output. band."
   }
 ]
