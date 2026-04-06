@@ -21,7 +21,13 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "O4 requires O4-compatible goggles \u2014 not backward-compatible with V2 goggles without adapter",
+      "Antenna-off power-on will destroy the PA immediately \u2014 always connect antennas first",
+      "MSP on FC UART required for OSD \u2014 115200 baud, enable MSP in Betaflight ports tab",
+      "Draws significant current on 5V rail \u2014 use a BEC rated for at least 2A dedicated to the O4"
+    ]
   },
   {
     "pid": "VTX-1001",
@@ -91,7 +97,12 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1004",
@@ -115,7 +126,14 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1005",
@@ -139,7 +157,14 @@
     "approx_price": 53,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1006",
@@ -163,13 +188,20 @@
     "approx_price": 50,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1007",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Pro Kit 32GB + Gyro + Dual Antennas",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar HD Pro VRX Bundle\u00a0utilizes cutting-edge H.265 coding, ensuring top-tier 1080p FPV visuals while maintaining minimal latency. It supports 1080P at 60FPS and 720P at 120FPS, delivering exceptional image quality.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-pro-kit-32gb-gyro-dual-antennas.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-kit---32gb-w-dual-antennas-bundle-_thumbnail_.jpg",
@@ -187,7 +219,14 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1008",
@@ -211,7 +250,14 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Requires companion app or SSH for configuration \u2014 no plug-and-play setup like DJI/Walksnail",
+      "Firmware updates require SD card or TFTP \u2014 not OTA; brick risk if interrupted",
+      "Latency varies by codec and bitrate settings \u2014 must be tuned per use case",
+      "DrawThings/Majestic sensor settings must match the specific camera sensor \u2014 wrong ini = no image",
+      "Runs on Linux \u2014 startup time is 10-20s depending on SoC; arm only after system is fully booted"
+    ]
   },
   {
     "pid": "VTX-1009",
@@ -234,7 +280,14 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "Requires companion app or SSH for configuration \u2014 no plug-and-play setup like DJI/Walksnail",
+      "Firmware updates require SD card or TFTP \u2014 not OTA; brick risk if interrupted",
+      "Latency varies by codec and bitrate settings \u2014 must be tuned per use case",
+      "DrawThings/Majestic sensor settings must match the specific camera sensor \u2014 wrong ini = no image",
+      "Runs on Linux \u2014 startup time is 10-20s depending on SoC; arm only after system is fully booted"
+    ]
   },
   {
     "pid": "VTX-1010",
@@ -258,13 +311,20 @@
     "approx_price": 59.99,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1011",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Kit V2 32GB + Gyro",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "This Walksnail Avatar VRX Bundle\u00a0features built-in 32GB storage and Gyroflow support. The 2K/120fps/4:3 native sensor camera allows you to capture more of the surrounding scenery while flying the drone, resulting in more comprehensive and visually appealing images.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-32gb-single-antenna-_image-1_.jpg",
@@ -282,13 +342,20 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1012",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Mini 1S + Gyro ",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar HD Mini VRX Bundle features a VRX, nano digital camera, antenna, and Mini VTX that works with HD Goggles such as the Walksnail Avatar and Fat Shark HD Dominator.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-mini-1s-gyro.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-mini-1s-kit-bundle-_thumbnail_1_.jpg",
@@ -306,7 +373,14 @@
     "approx_price": 51,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1013",
@@ -330,7 +404,14 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1014",
@@ -354,7 +435,13 @@
     "approx_price": 83,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "O4 requires O4-compatible goggles \u2014 not backward-compatible with V2 goggles without adapter",
+      "Antenna-off power-on will destroy the PA immediately \u2014 always connect antennas first",
+      "MSP on FC UART required for OSD \u2014 115200 baud, enable MSP in Betaflight ports tab",
+      "Draws significant current on 5V rail \u2014 use a BEC rated for at least 2A dedicated to the O4"
+    ]
   },
   {
     "pid": "VTX-1015",
@@ -378,7 +465,14 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1016",
@@ -402,7 +496,14 @@
     "approx_price": 50,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1017",
@@ -426,7 +527,14 @@
     "approx_price": 49,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1018",
@@ -450,7 +558,21 @@
     "approx_price": 20,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation",
+      "TX and RX must run matching ELRS firmware versions \u2014 ELRS 3.x RX will NOT bind to 2.x TX module",
+      "Model Match must be disabled or set correctly \u2014 enabled Model Match with wrong model ID prevents binding",
+      "UART baud rate must be set to 420000 in Betaflight Ports tab for ELRS \u2014 115200 will not work",
+      "Antenna placement critical \u2014 keep antenna outside carbon fiber frame; CF blocks 2.4GHz completely",
+      "ELRS 900MHz ceramic antennas are fragile \u2014 never flex or the ceramic element delaminates silently",
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "VTX-1019",
@@ -474,7 +596,14 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1020",
@@ -498,7 +627,14 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1024",
@@ -522,13 +658,20 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1025",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX / Kits",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "The Walksnail Avatar VRX transmits 1080P/60fps with industry-leading H.265 encoding technology, which can provide a minimum delay of 22ms and a maximum resolution of 1080p. Enjoy clear HD video to take your FPV experience to the next level!",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-vrx_1__2.jpg",
@@ -546,7 +689,14 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1026",
@@ -593,7 +743,12 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1028",
@@ -617,7 +772,12 @@
     "approx_price": 16.99,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1029",
@@ -641,7 +801,12 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1030",
@@ -665,7 +830,12 @@
     "approx_price": 19.99,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1033",
@@ -689,7 +859,12 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1034",
@@ -713,7 +888,12 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1035",
@@ -737,7 +917,12 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1036",
@@ -761,7 +946,12 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1038",
@@ -785,7 +975,12 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1039",
@@ -809,7 +1004,12 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1040",
@@ -833,7 +1033,14 @@
     "schema_data": {
       "weight_g": 1
     },
-    "max_power_mw": 2000
+    "max_power_mw": 2000,
+    "gotchas": [
+      "Requires companion app or SSH for configuration \u2014 no plug-and-play setup like DJI/Walksnail",
+      "Firmware updates require SD card or TFTP \u2014 not OTA; brick risk if interrupted",
+      "Latency varies by codec and bitrate settings \u2014 must be tuned per use case",
+      "DrawThings/Majestic sensor settings must match the specific camera sensor \u2014 wrong ini = no image",
+      "Runs on Linux \u2014 startup time is 10-20s depending on SoC; arm only after system is fully booted"
+    ]
   },
   {
     "pid": "VTX-1041",
@@ -857,7 +1064,12 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1042",
@@ -881,7 +1093,14 @@
     "approx_price": 59,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1044",
@@ -905,7 +1124,14 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1045",
@@ -929,7 +1155,12 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1048",
@@ -953,13 +1184,20 @@
     "approx_price": 53,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1049",
     "category": "video_transmitters",
     "name": "DJI Goggles N3 + O4 Air Unit Bundle ",
-    "manufacturer": "",
+    "manufacturer": "DJI",
     "description": "The DJI Goggles N3 and O4 Air Unit Bundle utilizes real-time control with DJI Goggles N3, offering intuitive head tracking and seamless AR cursor adjustments when paired with DJI Neo or Avata 2.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/dji-goggles-n3-o4-air-unit-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/h/dhi_goggles_n3_o4_bundle_image.jpg",
@@ -977,7 +1215,13 @@
     "approx_price": 76,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "O4 requires O4-compatible goggles \u2014 not backward-compatible with V2 goggles without adapter",
+      "Antenna-off power-on will destroy the PA immediately \u2014 always connect antennas first",
+      "MSP on FC UART required for OSD \u2014 115200 baud, enable MSP in Betaflight ports tab",
+      "Draws significant current on 5V rail \u2014 use a BEC rated for at least 2A dedicated to the O4"
+    ]
   },
   {
     "pid": "VTX-1050",
@@ -1001,13 +1245,19 @@
     "approx_price": 83,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "O4 requires O4-compatible goggles \u2014 not backward-compatible with V2 goggles without adapter",
+      "Antenna-off power-on will destroy the PA immediately \u2014 always connect antennas first",
+      "MSP on FC UART required for OSD \u2014 115200 baud, enable MSP in Betaflight ports tab",
+      "Draws significant current on 5V rail \u2014 use a BEC rated for at least 2A dedicated to the O4"
+    ]
   },
   {
     "pid": "VTX-1051",
     "category": "video_transmitters",
     "name": "Walksnail Avatar VRX Bundle - HD Kit V2 32GB + Gyro + Dual Antennas",
-    "manufacturer": "",
+    "manufacturer": "Walksnail",
     "description": "This Walksnail Avatar VRX Bundle features built-in 32GB storage and Gyroflow support with dual antennas. The 2K/120fps/4:3 native sensor camera allows you to capture more of the surrounding scenery while flying the drone, resulting in more comprehensive and visually appealing images.",
     "link": "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro-dual-antennas.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2---32gb-_-gyro-w-dual-antennas-bundle-_thumbnail_.jpg",
@@ -1025,7 +1275,14 @@
     "approx_price": 51,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1052",
@@ -1049,7 +1306,14 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires companion app or SSH for configuration \u2014 no plug-and-play setup like DJI/Walksnail",
+      "Firmware updates require SD card or TFTP \u2014 not OTA; brick risk if interrupted",
+      "Latency varies by codec and bitrate settings \u2014 must be tuned per use case",
+      "DrawThings/Majestic sensor settings must match the specific camera sensor \u2014 wrong ini = no image",
+      "Runs on Linux \u2014 startup time is 10-20s depending on SoC; arm only after system is fully booted"
+    ]
   },
   {
     "pid": "VTX-1053",
@@ -1073,7 +1337,14 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "Requires companion app or SSH for configuration \u2014 no plug-and-play setup like DJI/Walksnail",
+      "Firmware updates require SD card or TFTP \u2014 not OTA; brick risk if interrupted",
+      "Latency varies by codec and bitrate settings \u2014 must be tuned per use case",
+      "DrawThings/Majestic sensor settings must match the specific camera sensor \u2014 wrong ini = no image",
+      "Runs on Linux \u2014 startup time is 10-20s depending on SoC; arm only after system is fully booted"
+    ]
   },
   {
     "pid": "VTX-1054",
@@ -1097,7 +1368,12 @@
     "approx_price": 33,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1055",
@@ -1121,7 +1397,14 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1057",
@@ -1145,7 +1428,12 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1058",
@@ -1169,7 +1457,14 @@
     "approx_price": 50,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1059",
@@ -1193,7 +1488,14 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on the FC UART at 115200 baud \u2014 no MSP = no OSD overlay in goggles",
+      "Antenna-off power-on destroys the PA \u2014 never power the O3 without both antennas seated",
+      "Runs hot at full power (1200mW) \u2014 needs airflow; sustained hover at max power will thermal throttle",
+      "USB-C port on the unit is for firmware/config only \u2014 not a camera passthrough",
+      "DJI goggles V2 and V1 are NOT cross-compatible with O3 without firmware matching both sides"
+    ]
   },
   {
     "pid": "VTX-1060",
@@ -1217,7 +1519,14 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on the FC UART at 115200 baud \u2014 no MSP = no OSD overlay in goggles",
+      "Antenna-off power-on destroys the PA \u2014 never power the O3 without both antennas seated",
+      "Runs hot at full power (1200mW) \u2014 needs airflow; sustained hover at max power will thermal throttle",
+      "USB-C port on the unit is for firmware/config only \u2014 not a camera passthrough",
+      "DJI goggles V2 and V1 are NOT cross-compatible with O3 without firmware matching both sides"
+    ]
   },
   {
     "pid": "VTX-1061",
@@ -1241,7 +1550,14 @@
     "approx_price": 53,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1062",
@@ -1265,7 +1581,14 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1063",
@@ -1289,7 +1612,14 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1064",
@@ -1337,7 +1667,14 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1066",
@@ -1361,7 +1698,14 @@
     "approx_price": 53,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1067",
@@ -1385,7 +1729,14 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1068",
@@ -1409,7 +1760,14 @@
     "approx_price": 76,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on the FC UART at 115200 baud \u2014 no MSP = no OSD overlay in goggles",
+      "Antenna-off power-on destroys the PA \u2014 never power the O3 without both antennas seated",
+      "Runs hot at full power (1200mW) \u2014 needs airflow; sustained hover at max power will thermal throttle",
+      "USB-C port on the unit is for firmware/config only \u2014 not a camera passthrough",
+      "DJI goggles V2 and V1 are NOT cross-compatible with O3 without firmware matching both sides"
+    ]
   },
   {
     "pid": "VTX-1069",
@@ -1433,7 +1791,14 @@
     "approx_price": 77,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on the FC UART at 115200 baud \u2014 no MSP = no OSD overlay in goggles",
+      "Antenna-off power-on destroys the PA \u2014 never power the O3 without both antennas seated",
+      "Runs hot at full power (1200mW) \u2014 needs airflow; sustained hover at max power will thermal throttle",
+      "USB-C port on the unit is for firmware/config only \u2014 not a camera passthrough",
+      "DJI goggles V2 and V1 are NOT cross-compatible with O3 without firmware matching both sides"
+    ]
   },
   {
     "pid": "VTX-1070",
@@ -1457,7 +1822,14 @@
     "approx_price": 82,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on the FC UART at 115200 baud \u2014 no MSP = no OSD overlay in goggles",
+      "Antenna-off power-on destroys the PA \u2014 never power the O3 without both antennas seated",
+      "Runs hot at full power (1200mW) \u2014 needs airflow; sustained hover at max power will thermal throttle",
+      "USB-C port on the unit is for firmware/config only \u2014 not a camera passthrough",
+      "DJI goggles V2 and V1 are NOT cross-compatible with O3 without firmware matching both sides"
+    ]
   },
   {
     "pid": "VTX-1071",
@@ -1481,7 +1853,16 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation",
+      "ImmersionRC Ghost is a closed ecosystem \u2014 not compatible with ELRS, Crossfire, or FrSky",
+      "Requires ImmersionRC Ghost TX module \u2014 no other transmitter will work",
+      "Uses 2.4GHz band with FHSS \u2014 antenna placement matters as much as ELRS 2.4GHz",
+      "Ghost Hybrid units combine Ghost RX with 5.8GHz analog VTX \u2014 keep antennas separated"
+    ]
   },
   {
     "pid": "VTX-1072",
@@ -1505,7 +1886,14 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1073",
@@ -1552,7 +1940,17 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation",
+      "TX and RX must run matching ELRS firmware versions \u2014 ELRS 3.x RX will NOT bind to 2.x TX module",
+      "Model Match must be disabled or set correctly \u2014 enabled Model Match with wrong model ID prevents binding",
+      "UART baud rate must be set to 420000 in Betaflight Ports tab for ELRS \u2014 115200 will not work",
+      "Antenna placement critical \u2014 keep antenna outside carbon fiber frame; CF blocks 2.4GHz completely",
+      "ELRS 900MHz ceramic antennas are fragile \u2014 never flex or the ceramic element delaminates silently"
+    ]
   },
   {
     "pid": "VTX-1075",
@@ -1576,7 +1974,14 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1076",
@@ -1600,7 +2005,14 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1077",
@@ -1624,7 +2036,12 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1078",
@@ -1672,7 +2089,12 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1080",
@@ -1696,7 +2118,14 @@
     "approx_price": 58,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1081",
@@ -1839,7 +2268,12 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1089",
@@ -1864,7 +2298,12 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1090",
@@ -1889,7 +2328,12 @@
     "approx_price": 24,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1092",
@@ -1914,7 +2358,16 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation",
+      "ImmersionRC Ghost is a closed ecosystem \u2014 not compatible with ELRS, Crossfire, or FrSky",
+      "Requires ImmersionRC Ghost TX module \u2014 no other transmitter will work",
+      "Uses 2.4GHz band with FHSS \u2014 antenna placement matters as much as ELRS 2.4GHz",
+      "Ghost Hybrid units combine Ghost RX with 5.8GHz analog VTX \u2014 keep antennas separated"
+    ]
   },
   {
     "pid": "VTX-1093",
@@ -1938,7 +2391,12 @@
     "approx_price": 14,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1094",
@@ -1962,7 +2420,12 @@
     "approx_price": 18,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1095",
@@ -1985,7 +2448,12 @@
     "approx_price": 13,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1096",
@@ -2009,7 +2477,12 @@
     "approx_price": 12,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1097",
@@ -2032,7 +2505,12 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1098",
@@ -2056,7 +2534,12 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1099",
@@ -2080,7 +2563,12 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1100",
@@ -2105,7 +2593,12 @@
     "approx_price": 27,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1101",
@@ -2129,7 +2622,12 @@
     "approx_price": 14,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1102",
@@ -2153,7 +2651,12 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1103",
@@ -2177,7 +2680,12 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1104",
@@ -2201,7 +2709,12 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1106",
@@ -2225,7 +2738,12 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1107",
@@ -2249,7 +2767,12 @@
     "approx_price": 7,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1109",
@@ -2272,7 +2795,12 @@
     "approx_price": 23,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1110",
@@ -2296,7 +2824,12 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1112",
@@ -2320,7 +2853,14 @@
     "approx_price": 47,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "Requires MSP enabled on FC UART at 115200 baud for OSD \u2014 same as DJI wiring",
+      "Camera and VTX must be from matching Walksnail generation \u2014 V1 camera will not work with V2 VTX",
+      "SD card (internal or external) must be formatted FAT32 \u2014 DVR won't record on exFAT",
+      "Boot-up takes 10-15s \u2014 arm only after goggles show full video; early arm risks blind flight",
+      "Avatar HD Mini 1S draws up to 700mA at peak on the 5V rail \u2014 marginal on low-current FCs"
+    ]
   },
   {
     "pid": "VTX-1113",
@@ -2344,7 +2884,12 @@
     "approx_price": 22,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1114",
@@ -2368,7 +2913,12 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 6
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1115",
@@ -2392,7 +2942,12 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-1117",
@@ -2416,7 +2971,14 @@
     "approx_price": 55,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1118",
@@ -2440,7 +3002,14 @@
     "approx_price": 56,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench"
+    ]
   },
   {
     "pid": "VTX-1119",
@@ -2464,7 +3033,12 @@
     "approx_price": 25,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Never power without antenna connected \u2014 PA burns within seconds even at 25mW",
+      "VTX power levels above 200mW require HAM license in most jurisdictions",
+      "High RF power near GPS antenna causes position drift and compass errors \u2014 maintain 10cm+ separation"
+    ]
   },
   {
     "pid": "VTX-UA-DEC1-Spot",
@@ -2830,270 +3404,6 @@
     "description": "Video transmitter by Pilotix. mW output. band."
   },
   {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "5.8G",
-    "protocol": "IRC Tramp",
-    "channels": "48Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "5.8g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "5.8G",
-    "protocol": "IRC Tramp",
-    "channels": "48Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "5.8g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "2.7G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "2.7g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "2.7G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "2.7g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "1.2G",
-    "protocol": "IRC Tramp",
-    "channels": "9Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "1.2g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "1.2G",
-    "protocol": "IRC Tramp",
-    "channels": "9Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "1.2g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX",
-    "category": "video_transmitters",
-    "name": "VTX",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "3.3G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "MMCX",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "3.3g"
-    ],
-    "approx_price": 17,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
-    "pid": "VTX-UA-FT-VTX-SMA",
-    "category": "video_transmitters",
-    "name": "VTX SMA",
-    "manufacturer": "FT",
-    "country": "Ukraine",
-    "power_w": "4W",
-    "frequency_band": "3.3G",
-    "protocol": "IRC Tramp",
-    "channels": "16Ch",
-    "connector": "SMA",
-    "approx_price_usd": null,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. Non-Chinese supply chain."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "vtx",
-      "3.3g"
-    ],
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "description": "Video transmitter by. mW output. band."
-  },
-  {
     "pid": "VTX-UA-FT-VTX-7.2G-S",
     "category": "video_transmitters",
     "name": "VTX 7.2G SMA",
@@ -3159,5 +3469,71 @@
     },
     "description": "Video transmitter by KaraFPV. mW output. band.",
     "max_power_mw": 4000
+  },
+  {
+    "pid": "VTX-UA-FT-VTX",
+    "category": "video_transmitters",
+    "name": "VTX",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "power_w": "4W",
+    "frequency_band": "3.3G",
+    "protocol": "IRC Tramp",
+    "channels": "16Ch",
+    "connector": "MMCX",
+    "approx_price_usd": null,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture. Non-Chinese supply chain."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "vtx",
+      "3.3g"
+    ],
+    "approx_price": 17,
+    "schema_data": {
+      "weight_g": 14
+    },
+    "description": "Video transmitter by. mW output. band."
+  },
+  {
+    "pid": "VTX-UA-FT-VTX-SMA",
+    "category": "video_transmitters",
+    "name": "VTX SMA",
+    "manufacturer": "FT",
+    "country": "Ukraine",
+    "power_w": "4W",
+    "frequency_band": "3.3G",
+    "protocol": "IRC Tramp",
+    "channels": "16Ch",
+    "connector": "SMA",
+    "approx_price_usd": null,
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture. Non-Chinese supply chain."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "vtx",
+      "3.3g"
+    ],
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 13
+    },
+    "description": "Video transmitter by. mW output. band."
   }
 ]

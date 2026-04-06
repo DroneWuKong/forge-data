@@ -25,6 +25,22 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "Here4 uses DroneCAN (formerly UAVCAN) \u2014 requires CAN bus wiring, not UART; different from Here3 UART interface",
+      "CAN bus requires 120-ohm termination resistors at both ends of the bus \u2014 check CubePilot docs for topology",
+      "Two Here4 units enable dual-antenna heading \u2014 requires ArduPilot 4.3+ and specific parameter config",
+      "Here4 Base is a separate RTK base station unit \u2014 do not confuse with the air unit",
+      "DroneCAN node IDs must be unique on the bus \u2014 configure via Mission Planner UAVCAN page",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -47,7 +63,18 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "TX and RX must run matching ELRS firmware versions \u2014 ELRS 3.x RX will NOT bind to 2.x TX module",
+      "Model Match must be disabled or set correctly \u2014 enabled Model Match with wrong model ID prevents binding",
+      "UART baud rate must be set to 420000 in Betaflight Ports tab for ELRS \u2014 115200 will not work",
+      "Antenna placement critical \u2014 keep antenna outside carbon fiber frame; CF blocks 2.4GHz completely",
+      "ELRS 900MHz ceramic antennas are fragile \u2014 never flex or the ceramic element delaminates silently",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1002",
@@ -75,6 +102,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -105,7 +143,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1004",
@@ -127,7 +175,18 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "Here4 uses DroneCAN (formerly UAVCAN) \u2014 requires CAN bus wiring, not UART; different from Here3 UART interface",
+      "CAN bus requires 120-ohm termination resistors at both ends of the bus \u2014 check CubePilot docs for topology",
+      "Two Here4 units enable dual-antenna heading \u2014 requires ArduPilot 4.3+ and specific parameter config",
+      "Here4 Base is a separate RTK base station unit \u2014 do not confuse with the air unit",
+      "DroneCAN node IDs must be unique on the bus \u2014 configure via Mission Planner UAVCAN page",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1005",
@@ -149,7 +208,13 @@
     "approx_price": 21,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1006",
@@ -179,7 +244,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1007",
@@ -208,7 +283,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1008",
@@ -238,7 +319,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1009",
@@ -268,7 +359,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1010",
@@ -297,7 +398,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1011",
@@ -327,7 +434,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1012",
@@ -357,7 +474,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1013",
@@ -379,7 +506,13 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1014",
@@ -409,7 +542,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1015",
@@ -439,7 +582,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1016",
@@ -469,7 +622,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1017",
@@ -491,7 +654,13 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1018",
@@ -520,7 +689,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1019",
@@ -542,7 +717,18 @@
     "approx_price": 10,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "gotchas": [
+      "FrSky SBUS output is inverted \u2014 requires hardware inversion or 'set sbus_config = AUTO' in Betaflight CLI",
+      "F.Port combines telemetry and control on a single wire but requires specific UART inversion support",
+      "FrSky ACCESS and ACCST are different binding protocols \u2014 verify TX module and receiver use the same",
+      "R-XSR and X4R-SB output inverted SBUS \u2014 most modern FCs handle this automatically but verify",
+      "FrSky telemetry requires SmartPort wire to FC UART TX \u2014 inverted signal; use uninverted pad if available",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1020",
@@ -572,7 +758,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1021",
@@ -602,7 +798,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1022",
@@ -624,7 +830,13 @@
     "approx_price": 11,
     "schema_data": {
       "weight_g": 9
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1023",
@@ -654,7 +866,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1024",
@@ -684,7 +906,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1025",
@@ -712,6 +944,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -740,6 +983,12 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -762,7 +1011,13 @@
     "approx_price": 19,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1028",
@@ -784,7 +1039,13 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1029",
@@ -812,6 +1073,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -834,7 +1106,13 @@
     "approx_price": 15,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1031",
@@ -856,13 +1134,19 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1032",
     "category": "gps_modules",
     "name": "Holybro H Rtk Unc Adapter 1 4 20",
-    "manufacturer": "",
+    "manufacturer": "Holybro",
     "description": "Introducing the Holybro 1/4\" UNC Adapter for H-RTK, your solution for seamlessly integrating your H-RTK system with standard camera mounting hardware.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-unc-adapter-1-4-20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/h/o/holybro-0.25-inch-unc-adapter-for-h-rtk-_image-2_.jpg",
@@ -884,6 +1168,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -906,7 +1201,13 @@
     "approx_price": 13,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1034",
@@ -935,7 +1236,18 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1035",
@@ -963,6 +1275,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -992,7 +1315,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1037",
@@ -1022,7 +1351,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1038",
@@ -1051,7 +1390,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1039",
@@ -1081,7 +1426,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1040",
@@ -1111,7 +1466,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1041",
@@ -1141,7 +1506,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1042",
@@ -1163,7 +1538,13 @@
     "approx_price": 13,
     "schema_data": {
       "weight_g": 3
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1043",
@@ -1191,6 +1572,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -1220,7 +1612,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1045",
@@ -1248,6 +1646,17 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "RTK requires a base station or NTRIP correction stream \u2014 standalone RTK GPS will only give standard GNSS accuracy",
+      "Float vs Fixed RTK: Fixed gives cm accuracy, Float gives ~0.5m \u2014 check GCS for fix type before relying on precision",
+      "RTK baseline (distance to base station) should be under 30km for reliable Fixed solution",
+      "ArduPilot and PX4 support RTK natively via MAVLink; iNav RTK support is limited \u2014 verify firmware version",
+      "Moving baseline RTK (for heading) requires two RTK antennas minimum 30cm apart and specific firmware support",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -1277,7 +1686,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1047",
@@ -1299,7 +1714,13 @@
     "approx_price": 17,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1048",
@@ -1329,7 +1750,13 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1049",
@@ -1359,7 +1786,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1050",
@@ -1388,7 +1825,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1051",
@@ -1410,7 +1853,13 @@
     "approx_price": 10,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1052",
@@ -1438,13 +1887,19 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
     "pid": "GPS-1053",
     "category": "gps_modules",
     "name": "Matek Ap Periph Gnss M9N F4 3100 Can Gps",
-    "manufacturer": "",
+    "manufacturer": "Matek",
     "description": "M9N-F4 series is based on ArudPilots\u2019 AP_Periph firmware,  It is a GNSS+COMPASS+BAROMETER+IMU peripheral with CAN/UAVCAN and UART/MSP interfaces, plus 4x spare UARTs, 1x I2C expansion bus for additional peripherals.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ap-periph-gnss-m9n-f4-3100-can-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/m/a/matek-ap_periph-gnss-m9n-f4-3100-can-gps.jpg",
@@ -1467,7 +1922,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1054",
@@ -1496,7 +1957,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1055",
@@ -1525,7 +1992,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1056",
@@ -1554,7 +2027,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1057",
@@ -1583,7 +2062,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1058",
@@ -1605,7 +2090,13 @@
     "approx_price": 16,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1059",
@@ -1627,7 +2118,13 @@
     "approx_price": 13,
     "schema_data": {
       "weight_g": 4
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1060",
@@ -1649,7 +2146,13 @@
     "approx_price": 14,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1061",
@@ -1671,13 +2174,19 @@
     "approx_price": 11,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1062",
     "category": "gps_modules",
     "name": "MATEKSYS SAM-M8Q GPS Module",
-    "manufacturer": "",
+    "manufacturer": "Matek",
     "description": "The SAM-M8Q GPS with GLONASS, Galileo, QZSS and SBAS receiver technology and built-in micro patch antenna.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ublox-sam-m8q-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/g/p/gps-sam-m8q-2.jpg",
@@ -1700,13 +2209,19 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1063",
     "category": "gps_modules",
     "name": "Holybro Pixhawk 4 Neo-M8N GPS",
-    "manufacturer": "",
+    "manufacturer": "Holybro",
     "description": "Holybro now offers a new GPS which works with the Pixhawk 4. It has a UBLOX M8N module on it, as well as an IST8310 compass and tri-colored LED indicator, along with the Safety switch making the connection more convenient and simple.",
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/p/i/pixhawk4-gps1_1.jpg",
@@ -1729,7 +2244,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8"
+    "gnss_chipset": "u-blox M8",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1064",
@@ -1759,7 +2280,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1065",
@@ -1789,7 +2320,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1066",
@@ -1819,7 +2360,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1067",
@@ -1849,7 +2400,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1068",
@@ -1879,7 +2440,17 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "u-blox M10 requires UART config for UBX protocol \u2014 defaults to NMEA on some modules; set in u-center or iNav",
+      "M10 modules are 3.3V logic on some breakouts \u2014 verify before connecting to 5V UART",
+      "Faster fix time than M8 but requires clear sky view \u2014 obstruction causes multi-minute TTFF",
+      "Some M10 breakout boards include IST8310 compass \u2014 verify I2C address (0x0E) doesn't conflict",
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1069",
@@ -1907,6 +2478,12 @@
       "GLONASS",
       "Galileo",
       "BeiDou"
+    ],
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
     ]
   },
   {
@@ -1937,7 +2514,13 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10"
+    "gnss_chipset": "u-blox M10",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1071",
@@ -1966,7 +2549,13 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9"
+    "gnss_chipset": "u-blox M9",
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1072",
@@ -1988,7 +2577,13 @@
     "approx_price": 10,
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   },
   {
     "pid": "GPS-1073",
@@ -2010,6 +2605,12 @@
     "approx_price": 14,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "GPS antenna must have clear sky view \u2014 mount as high as possible and away from VTX/ESC RF noise",
+      "Compass interference from power cables causes toilet bowl effect \u2014 route power wires away from GPS module",
+      "GPS 'fix' in the field may take 1-3 minutes on cold start \u2014 wait for adequate satellite count before mission",
+      "Most GPS modules are 5V input \u2014 verify before connecting; some breakouts are 3.3V only"
+    ]
   }
 ]
