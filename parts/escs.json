@@ -52,7 +52,18 @@
     "schema_data": {
       "weight_g": 12
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1001",
@@ -107,7 +118,17 @@
     "schema_data": {
       "weight_g": 10
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1002",
@@ -160,7 +181,18 @@
     "schema_data": {
       "weight_g": 15
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1003",
@@ -214,7 +246,13 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1004",
@@ -269,7 +307,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1005",
@@ -334,7 +383,23 @@
       "ndaa_compliant": true,
       "wiring_notes": "Designed to stack with Orqa QuadCore H7 or 3030 Lite F405. 8-pin connector: M1-M4 signal + CURR + VBAT + GND + ESC telemetry TX. Ribbon cable or solder."
     },
-    "continuous_current_a": 70
+    "continuous_current_a": 70,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "BLHeli_32 firmware \u2014 bidirectional DSHOT supported from BLHeli_32 v32.7+",
+      "NDAA compliant (Croatian) \u2014 verified for DOD procurement pathways",
+      "70A continuous per motor on 30.5mm stack \u2014 verify thermal management with your motor KV and prop combo",
+      "8-pin stack connector carries current sensor signal \u2014 connect to FC CURR pad for current sensing in OSD",
+      "Pairs with Orqa QuadCore H7 and 3030 Lite F405 on 30.5mm standoffs",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1006",
@@ -389,7 +454,18 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1007",
@@ -444,7 +520,18 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 80
+    "continuous_current_a": 80,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1008",
@@ -499,7 +586,23 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 70
+    "continuous_current_a": 70,
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench",
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1009",
@@ -554,7 +657,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1010",
@@ -609,7 +723,18 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1011",
@@ -664,13 +789,20 @@
     "schema_data": {
       "weight_g": 12
     },
-    "continuous_current_a": 90
+    "continuous_current_a": 90,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32"
+    ]
   },
   {
     "pid": "ESC-1012",
     "category": "escs",
     "name": "Darwinfpv Cement 100A 3 8S 32Bit Esc",
-    "manufacturer": "",
+    "manufacturer": "DarwinFPV",
     "description": "Introducing Darwin FPV's \"Cement\" ESC: the ultimate solution for professional pilots, addressing the reliability issues of FPV drones.",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/darwinfpv-cement-100a-3-8s-32bit-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/a/darwinfpv-cement-esc-_image-1_1_.jpg",
@@ -772,7 +904,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 100
+    "continuous_current_a": 100,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1014",
@@ -827,7 +970,18 @@
     "schema_data": {
       "weight_g": 16
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1015",
@@ -882,7 +1036,18 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1016",
@@ -937,7 +1102,18 @@
     "schema_data": {
       "weight_g": 12
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1017",
@@ -992,7 +1168,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1018",
@@ -1047,7 +1234,18 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1019",
@@ -1102,7 +1300,17 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 25
+    "continuous_current_a": 25,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1020",
@@ -1157,7 +1365,13 @@
     "schema_data": {
       "weight_g": 18
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-1021",
@@ -1212,7 +1426,18 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1022",
@@ -1267,7 +1492,23 @@
     "schema_data": {
       "weight_g": 15
     },
-    "continuous_current_a": 70
+    "continuous_current_a": 70,
+    "gotchas": [
+      "Requires HDZero-specific goggles or HDMI adapter \u2014 not compatible with DJI or Walksnail receivers",
+      "MSP must be enabled on FC UART at 115200 baud for OSD overlay",
+      "Race V3 and Freestyle V2 are different power output tiers \u2014 check your country's legal limit",
+      "Antenna connector is MMCX \u2014 fragile; use 90-degree adapter for tight builds to prevent connector shear",
+      "Whoop VTX at 200mW will overheat in sustained flight without airflow \u2014 use pit mode on the bench",
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1023",
@@ -1314,7 +1555,19 @@
     "approx_price": 44,
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "gotchas": [
+      "DSHOT600 bidirectional unreliable on F4 \u2014 use DSHOT300 for RPM filter; F7/H7 required for DSHOT600 bidir",
+      "F4 has no hardware floating-point unit \u2014 heavy filter configurations can cause CPU overload and desync",
+      "UART1 is typically the VCP/USB port on most F4 boards \u2014 never assign serial RX, GPS, or VTX here",
+      "Many F4 boards lack a dedicated motor inversion pin \u2014 software SBUS inversion via CLI may be required",
+      "RPM filter works but at reduced performance vs H7 \u2014 limit active RPM harmonics to 3 on F4",
+      "FrSky SBUS output is inverted \u2014 requires hardware inversion or 'set sbus_config = AUTO' in Betaflight CLI",
+      "F.Port combines telemetry and control on a single wire but requires specific UART inversion support",
+      "FrSky ACCESS and ACCST are different binding protocols \u2014 verify TX module and receiver use the same",
+      "R-XSR and X4R-SB output inverted SBUS \u2014 most modern FCs handle this automatically but verify",
+      "FrSky telemetry requires SmartPort wire to FC UART TX \u2014 inverted signal; use uninverted pad if available"
+    ]
   },
   {
     "pid": "ESC-1024",
@@ -1369,7 +1622,18 @@
     "schema_data": {
       "weight_g": 4
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1025",
@@ -1423,7 +1687,13 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1026",
@@ -1476,7 +1746,18 @@
     "schema_data": {
       "weight_g": 19
     },
-    "continuous_current_a": 80
+    "continuous_current_a": 80,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1027",
@@ -1530,7 +1811,13 @@
     "schema_data": {
       "weight_g": 8
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1028",
@@ -1585,7 +1872,18 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1029",
@@ -1612,7 +1910,18 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1030",
@@ -1667,7 +1976,18 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1031",
@@ -1722,7 +2042,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1032",
@@ -1777,7 +2108,18 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1033",
@@ -1831,7 +2173,13 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1034",
@@ -1886,7 +2234,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1035",
@@ -1941,7 +2300,18 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 66
+    "continuous_current_a": 66,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1036",
@@ -1996,7 +2366,13 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-1037",
@@ -2049,7 +2425,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1038",
@@ -2104,7 +2491,17 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1039",
@@ -2159,7 +2556,18 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1040",
@@ -2214,7 +2622,18 @@
     "schema_data": {
       "weight_g": 19
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1041",
@@ -2269,7 +2688,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1042",
@@ -2323,7 +2753,13 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1043",
@@ -2374,7 +2810,13 @@
     "schema_data": {
       "weight_g": 4
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1044",
@@ -2428,7 +2870,13 @@
     "schema_data": {
       "weight_g": 10
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1045",
@@ -2483,7 +2931,17 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1046",
@@ -2535,7 +2993,14 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "gotchas": [
+      "TX and RX must run matching ELRS firmware versions \u2014 ELRS 3.x RX will NOT bind to 2.x TX module",
+      "Model Match must be disabled or set correctly \u2014 enabled Model Match with wrong model ID prevents binding",
+      "UART baud rate must be set to 420000 in Betaflight Ports tab for ELRS \u2014 115200 will not work",
+      "Antenna placement critical \u2014 keep antenna outside carbon fiber frame; CF blocks 2.4GHz completely",
+      "ELRS 900MHz ceramic antennas are fragile \u2014 never flex or the ceramic element delaminates silently"
+    ]
   },
   {
     "pid": "ESC-1047",
@@ -2590,7 +3055,18 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1048",
@@ -2645,7 +3121,18 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1049",
@@ -2700,7 +3187,18 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1050",
@@ -2755,7 +3253,18 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1051",
@@ -2810,7 +3319,18 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1052",
@@ -2865,7 +3385,17 @@
     "schema_data": {
       "weight_g": 5
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1053",
@@ -2920,7 +3450,18 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1054",
@@ -2973,7 +3514,18 @@
     "schema_data": {
       "weight_g": 5
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1055",
@@ -3027,7 +3579,13 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1056",
@@ -3081,13 +3639,19 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1057",
     "category": "escs",
     "name": "Lumenier ELITE PRO 2-6S BLHeli_32 4-in-1 ESC - 60A",
-    "manufacturer": "",
+    "manufacturer": "Lumenier",
     "description": "The Lumenier Elite Pro 60A 2-6S BLHeli_32 4-in-1 ESC is a powerful ESC with the latest BLHeli_32 + telemetry and current sensor. The double heatsink design provides excellent cooling required for high power setups often required in Cinema and heavy-lift drones.",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-elite-pro-60a-2-6s-blheli-32-4-in-1-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lumenier-elite-pro-60a-2-6s-blheli_32-4-in-1-esc-main-2.jpg",
@@ -3136,7 +3700,18 @@
     "schema_data": {
       "weight_g": 12
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1058",
@@ -3190,7 +3765,12 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "F7 supports DSHOT600 but bidirectional DSHOT reliability varies by board \u2014 test before relying on RPM filter",
+      "UART1 is often USB/VCP \u2014 verify on your specific board before assigning peripherals",
+      "F7 runs hotter than F4 \u2014 verify thermal path in stack builds"
+    ]
   },
   {
     "pid": "ESC-1059",
@@ -3245,13 +3825,23 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1060",
     "category": "escs",
     "name": "Diatone Mamba MINI F40 40A BLS Dshot600 4-in-1 ESC",
-    "manufacturer": "",
+    "manufacturer": "Diatone",
     "description": "The Diatone Mamba F40_BLS MINI Dshot600 4-in-1 is a 20x20 ESC that provides a high-power BLS in a small, but easy-to-install package. Recommended for 3\", 4\" and 5\" ultralight builds!",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-mini-f40-40a-bls-dshot600-4-in-1-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/d/i/diatone_mamba_f40_40a_6s_bls_mini_4-in-1_esc.jpg",
@@ -3298,7 +3888,17 @@
     "schema_data": {
       "weight_g": 10
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1061",
@@ -3353,7 +3953,18 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1062",
@@ -3408,7 +4019,13 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-1063",
@@ -3463,7 +4080,13 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 25
+    "continuous_current_a": 25,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-1064",
@@ -3516,7 +4139,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1065",
@@ -3571,7 +4205,14 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates"
+    ]
   },
   {
     "pid": "ESC-1066",
@@ -3625,7 +4266,13 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1067",
@@ -3679,7 +4326,13 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1068",
@@ -3734,7 +4387,18 @@
     "schema_data": {
       "weight_g": 4
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1069",
@@ -3789,7 +4453,18 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1070",
@@ -3844,7 +4519,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1071",
@@ -3899,7 +4585,17 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1072",
@@ -3952,7 +4648,13 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1073",
@@ -4006,7 +4708,13 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1074",
@@ -4061,7 +4769,18 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1075",
@@ -4116,7 +4835,18 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1076",
@@ -4171,7 +4901,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1077",
@@ -4226,7 +4967,18 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1078",
@@ -4281,7 +5033,17 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1079",
@@ -4334,7 +5096,13 @@
     "schema_data": {
       "weight_g": 10
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1080",
@@ -4387,7 +5155,13 @@
     "schema_data": {
       "weight_g": 15
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-1081",
@@ -4442,7 +5216,18 @@
     "schema_data": {
       "weight_g": 18
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1082",
@@ -4497,7 +5282,17 @@
     "schema_data": {
       "weight_g": 4
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1083",
@@ -4552,7 +5347,14 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates"
+    ]
   },
   {
     "pid": "ESC-1086",
@@ -4659,7 +5461,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1088",
@@ -4714,7 +5527,18 @@
     "schema_data": {
       "weight_g": 18
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1089",
@@ -4769,7 +5593,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1090",
@@ -4930,7 +5765,17 @@
     "schema_data": {
       "weight_g": 18
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1093",
@@ -4985,7 +5830,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1094",
@@ -5040,7 +5896,14 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates"
+    ]
   },
   {
     "pid": "ESC-1095",
@@ -5095,7 +5958,18 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1096",
@@ -5150,7 +6024,18 @@
     "schema_data": {
       "weight_g": 19
     },
-    "continuous_current_a": 30
+    "continuous_current_a": 30,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1097",
@@ -5205,7 +6090,18 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1098",
@@ -5258,7 +6154,13 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1099",
@@ -5310,7 +6212,13 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1100",
@@ -5361,7 +6269,19 @@
     "approx_price": 31,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "DSHOT600 bidirectional unreliable on F4 \u2014 use DSHOT300 for RPM filter; F7/H7 required for DSHOT600 bidir",
+      "F4 has no hardware floating-point unit \u2014 heavy filter configurations can cause CPU overload and desync",
+      "UART1 is typically the VCP/USB port on most F4 boards \u2014 never assign serial RX, GPS, or VTX here",
+      "Many F4 boards lack a dedicated motor inversion pin \u2014 software SBUS inversion via CLI may be required",
+      "RPM filter works but at reduced performance vs H7 \u2014 limit active RPM harmonics to 3 on F4",
+      "FrSky SBUS output is inverted \u2014 requires hardware inversion or 'set sbus_config = AUTO' in Betaflight CLI",
+      "F.Port combines telemetry and control on a single wire but requires specific UART inversion support",
+      "FrSky ACCESS and ACCST are different binding protocols \u2014 verify TX module and receiver use the same",
+      "R-XSR and X4R-SB output inverted SBUS \u2014 most modern FCs handle this automatically but verify",
+      "FrSky telemetry requires SmartPort wire to FC UART TX \u2014 inverted signal; use uninverted pad if available"
+    ]
   },
   {
     "pid": "ESC-1101",
@@ -5412,7 +6332,14 @@
     "approx_price": 39,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "gotchas": [
+      "DSHOT600 bidirectional unreliable on F4 \u2014 use DSHOT300 for RPM filter; F7/H7 required for DSHOT600 bidir",
+      "F4 has no hardware floating-point unit \u2014 heavy filter configurations can cause CPU overload and desync",
+      "UART1 is typically the VCP/USB port on most F4 boards \u2014 never assign serial RX, GPS, or VTX here",
+      "Many F4 boards lack a dedicated motor inversion pin \u2014 software SBUS inversion via CLI may be required",
+      "RPM filter works but at reduced performance vs H7 \u2014 limit active RPM harmonics to 3 on F4"
+    ]
   },
   {
     "pid": "ESC-1102",
@@ -5467,7 +6394,18 @@
     "schema_data": {
       "weight_g": 19
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1104",
@@ -5522,7 +6460,18 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1105",
@@ -5577,7 +6526,18 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1106",
@@ -5632,7 +6592,17 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1107",
@@ -5686,7 +6656,13 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 46
+    "continuous_current_a": 46,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1108",
@@ -5739,7 +6715,13 @@
     "schema_data": {
       "weight_g": 2
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1109",
@@ -5794,7 +6776,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1110",
@@ -5847,13 +6840,19 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1111",
     "category": "escs",
     "name": "Lumenier LUX Mini F7 20x20 Stack (45A 2-6S Pro ESC, F7 FC, 800mW VTX)",
-    "manufacturer": "",
+    "manufacturer": "Lumenier",
     "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-mini-pro-f7-20x20-stack.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/a/razor-pro-stack-main.jpg",
@@ -5906,7 +6905,7 @@
     "pid": "ESC-1112",
     "category": "escs",
     "name": "Lumenier LUX Mini F7 20x20 Stack (30A 2-6S ESC, F7 FC, 800mW VTX)",
-    "manufacturer": "",
+    "manufacturer": "Lumenier",
     "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-mini-f7-20x20-stack.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lux-20-stack-1.jpg",
@@ -5997,7 +6996,14 @@
     "approx_price": 56,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "gotchas": [
+      "Spektrum receivers are 3.3V logic \u2014 connecting to a 5V UART TX output will destroy the receiver immediately",
+      "Requires a dedicated bind plug or bind procedure \u2014 check transmitter manual; binding sequence varies by generation",
+      "DSM2 and DSMX are different protocols \u2014 DSMX is more interference-resistant; use DSMX when available",
+      "Satellite receivers require a dedicated SPEK/BIND pad on the FC \u2014 not a standard UART pair",
+      "No telemetry on most DSMX receivers \u2014 no RSSI or LQ in OSD without external RSSI sensor"
+    ]
   },
   {
     "pid": "ESC-1114",
@@ -6041,7 +7047,14 @@
     "approx_price": 59,
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "gotchas": [
+      "Crossfire uses its own protocol on 915MHz \u2014 not compatible with ELRS or FrSky receivers",
+      "Must enable CRSF serial protocol in Betaflight at 115200 or 400000 baud (module firmware dependent)",
+      "TBS Agent app required for firmware updates \u2014 cannot update via Betaflight Configurator",
+      "Diversity Nano antenna placement: both antennas should be at 90 degrees to each other for best coverage",
+      "Crossfire TX module output power limited to 250mW in most countries without HAM license"
+    ]
   },
   {
     "pid": "ESC-1115",
@@ -6096,7 +7109,18 @@
     "schema_data": {
       "weight_g": 8
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1116",
@@ -6151,7 +7175,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1117",
@@ -6205,7 +7240,13 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1118",
@@ -6259,7 +7300,13 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1119",
@@ -6314,7 +7361,18 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1120",
@@ -6369,7 +7427,18 @@
     "schema_data": {
       "weight_g": 8
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1121",
@@ -6424,7 +7493,18 @@
     "schema_data": {
       "weight_g": 3
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1122",
@@ -6450,7 +7530,14 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates"
+    ]
   },
   {
     "pid": "ESC-1123",
@@ -6502,13 +7589,19 @@
     "schema_data": {
       "weight_g": 16
     },
-    "continuous_current_a": 65
+    "continuous_current_a": 65,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1124",
     "category": "escs",
     "name": "T-Motor F55A Pro 55A 3-6s BLHeli32 4-in-1 ESC",
-    "manufacturer": "",
+    "manufacturer": "T-Motor",
     "description": "New version available - https://www.getfpv.com/t-motor-f55a-pro-ii-55a-3-6s-blheli32-4-in-1-esc-w-bec.html\n\nThe T-Motor F55A 4-in-1 ESC is fully capable of pushing 6s with 75A burst and a sustained 55A current draw. Equipped with the latest in ESC technology such as 32-bit capability and BLHeli32 firmware.",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f55a-pro-55a-3-6s-blheli32-4-in-1-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/1/_/1_4_2.jpg",
@@ -6557,7 +7650,18 @@
     "schema_data": {
       "weight_g": 20
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1125",
@@ -6612,7 +7716,18 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1126",
@@ -6667,7 +7782,18 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1127",
@@ -6720,7 +7846,13 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1128",
@@ -6775,7 +7907,18 @@
     "schema_data": {
       "weight_g": 4
     },
-    "continuous_current_a": 25
+    "continuous_current_a": 25,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1129",
@@ -6828,7 +7971,17 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1130",
@@ -6873,7 +8026,13 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 2
-    }
+    },
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1131",
@@ -6918,7 +8077,13 @@
     "approx_price": 43,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1132",
@@ -6973,7 +8138,18 @@
     "schema_data": {
       "weight_g": 5
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1133",
@@ -7026,7 +8202,17 @@
     "schema_data": {
       "weight_g": 13
     },
-    "continuous_current_a": 30
+    "continuous_current_a": 30,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1134",
@@ -7079,7 +8265,17 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1135",
@@ -7156,7 +8352,17 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1137",
@@ -7251,7 +8457,13 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 25
+    "continuous_current_a": 25,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1139",
@@ -7305,7 +8517,13 @@
     "schema_data": {
       "weight_g": 17
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1140",
@@ -7360,13 +8578,24 @@
     "schema_data": {
       "weight_g": 11
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1141",
     "category": "escs",
     "name": "Lumenier Mini Razor Pro 4in1 20x20 F3 BLHeli_32 45A 2-6s ESC",
-    "manufacturer": "",
+    "manufacturer": "Lumenier",
     "description": "The Mini Razor Pro 45A 4in1 ESC was designed for the drone pilot who loves the tiny 20x20 form factor but also wants to squeeze out every ounce of juice out of their equipment as possible.",
     "link": "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-mini-razor-pro-4in1-20x20-f3-blheli-32-45a-2-6s-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/a/razor-pro-main.jpg",
@@ -7415,7 +8644,18 @@
     "schema_data": {
       "weight_g": 9
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1142",
@@ -7490,7 +8730,18 @@
     "schema_data": {
       "weight_g": 6
     },
-    "continuous_current_a": 40
+    "continuous_current_a": 40,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1144",
@@ -7541,7 +8792,13 @@
     "schema_data": {
       "weight_g": 7
     },
-    "continuous_current_a": 50
+    "continuous_current_a": 50,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1145",
@@ -7596,7 +8853,17 @@
     "schema_data": {
       "weight_g": 19
     },
-    "continuous_current_a": 35
+    "continuous_current_a": 35,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1146",
@@ -7651,7 +8918,17 @@
     "schema_data": {
       "weight_g": 14
     },
-    "continuous_current_a": 45
+    "continuous_current_a": 45,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1147",
@@ -7706,7 +8983,18 @@
     "schema_data": {
       "weight_g": 10
     },
-    "continuous_current_a": 60
+    "continuous_current_a": 60,
+    "gotchas": [
+      "BLHeli_32 firmware is closed-source \u2014 no community updates; manufacturer support only",
+      "Bidirectional DSHOT (RPM telemetry) requires BLHeli_32 v32.7+ \u2014 older firmware does not support it",
+      "ESC configuration requires BLHeli32 Suite or BLHeliSuite32 \u2014 cannot configure via Betaflight",
+      "Motor direction must be set in BLHeli32 Suite or via Betaflight motor direction \u2014 not automatic",
+      "AM32 is a drop-in open-source alternative on same STM32 hardware \u2014 consider flashing for continued updates",
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1148",
@@ -7740,7 +9028,13 @@
     "approx_price": 46,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1149",
@@ -7774,7 +9068,13 @@
     "schema_data": {
       "weight_g": 21
     },
-    "continuous_current_a": 55
+    "continuous_current_a": 55,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-1150",
@@ -8137,7 +9437,13 @@
     "approx_price": 35.34,
     "description": "ESC by LEADER Tech. A continuous. firmware. mounting.",
     "continuous_current_a": 50,
-    "cell_count_max": 6
+    "cell_count_max": 6,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS80A-RE-8S",
@@ -8166,7 +9472,13 @@
     "approx_price": 60.95,
     "description": "ESC by LEADER Tech. A continuous. firmware. mounting.",
     "continuous_current_a": 80,
-    "cell_count_max": 8
+    "cell_count_max": 8,
+    "gotchas": [
+      "BLHeli_S does NOT support ESC telemetry \u2014 RPM filter requires BLHeli_32 or AM32 with telemetry",
+      "BLHeli_S supports DSHOT but no bidirectional DSHOT \u2014 RPM data unavailable, use notch filters instead",
+      "Can be flashed to Bluejay (open-source BLHeli_S alternative) for PWM frequency tuning",
+      "Older BLHeli_S ESCs may not support DSHOT600 \u2014 check firmware version and ESC hardware revision"
+    ]
   },
   {
     "pid": "ESC-UA-KaraFPV-Golden-4in1-",
@@ -8195,7 +9507,13 @@
     "approx_price": 61.39,
     "description": "ESC by KaraFPV. A continuous. firmware. mounting.",
     "continuous_current_a": 80,
-    "cell_count_max": 8
+    "cell_count_max": 8,
+    "gotchas": [
+      "4-in-1 ESC current ratings are per motor \u2014 total current draw is up to 4x the per-motor rating",
+      "Current sensor output on 4-in-1 ESCs goes to FC CURR pad \u2014 requires correct scale setting in Betaflight",
+      "Motor signal pads M1-M4 order on 4-in-1 ESC may differ from FC motor numbering \u2014 verify with Betaflight motor tab",
+      "Thermal throttling on sustained high-current draws \u2014 ensure airflow over ESC or add thermal pad to frame"
+    ]
   },
   {
     "pid": "ESC-UA-Stingbee-Stellar-8bit",
@@ -8252,7 +9570,14 @@
     "approx_price": 79.44,
     "description": "ESC by SkyPulse. A continuous. firmware. mounting.",
     "continuous_current_a": 80,
-    "cell_count_max": 8
+    "cell_count_max": 8,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32"
+    ]
   },
   {
     "pid": "ESC-UA-SkyPulse-GORO-AM32-12",
@@ -8280,7 +9605,14 @@
     ],
     "approx_price": 71.95,
     "description": "ESC by SkyPulse. A continuous. firmware. mounting.",
-    "continuous_current_a": 120
+    "continuous_current_a": 120,
+    "gotchas": [
+      "AM32 is open-source and actively maintained \u2014 flash via AM32 Configurator, not BLHeli Suite",
+      "Bidirectional DSHOT requires AM32 v2.0+ \u2014 verify firmware version before enabling RPM filter",
+      "AM32 Configurator is separate from Betaflight \u2014 motor config (timing, rampup) done there",
+      "Some AM32 ESCs accept 8S but check your specific PCB traces and FET ratings \u2014 nameplate may be conservative",
+      "AM32 telemetry data format is compatible with Betaflight RPM filter \u2014 same setup as BLHeli_32"
+    ]
   },
   {
     "pid": "ESC-UA-FT-65A-4\u04321-6S-3",
