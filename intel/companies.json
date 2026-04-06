@@ -351,7 +351,8 @@
       "swarming",
       "electronic warfare",
       "FPV",
-      "doctrine"
+      "doctrine",
+      "ISR"
     ],
     "sources": [
       {
@@ -581,9 +582,33 @@
         "title": "Rheinmetall teams with Boeing for German Ghost Bat offer",
         "date": "2026-03-31",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/04/01/pentagon-boeing-agree-to-triple-pac-3-seeker-production/",
+        "title": "Pentagon, Boeing agree to triple PAC-3 seeker production",
+        "date": "2026-04-01",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/04/02/swedish-arms-maker-to-set-up-major-ammunition-plant-in-estonia/",
+        "title": "Swedish arms maker to set up major ammunition plant in Estonia",
+        "date": "2026-04-02",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/golden-dome-ships-and-missiles-top-trumps-15-trillion-defense-wish-list/",
+        "title": "Golden Dome, ships and missiles top Trump\u2019s $1.5 trillion defense wish list",
+        "date": "2026-04-02",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/04/03/india-to-acquire-more-air-defense-systems-and-drones-for-modern-warfare/",
+        "title": "India to acquire more air defense systems and drones for modern warfare",
+        "date": "2026-04-03",
+        "site": "defensenews"
       }
     ],
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-05"
   },
   {
     "cid": "CMP-0011",
@@ -594,7 +619,8 @@
       "CCA",
       "DIU",
       "Lattice",
-      "JIATF-401"
+      "JIATF-401",
+      "Drone Dominance"
     ],
     "tags": [
       "C2",
@@ -607,7 +633,9 @@
       "ISR",
       "FPV",
       "doctrine",
-      "electronic warfare"
+      "electronic warfare",
+      "attritable",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -717,9 +745,21 @@
         "title": "Northrop Grumman Begins Construction of Prototype Silo for the LGM-35 Sentinel ICBM",
         "date": "",
         "site": "militarnyi"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/01/army-tests-lumberjack-drone-maven-smart-system",
+        "title": "Army tests autonomous strike drone featuring AI-enabled targeting capabilities",
+        "date": "2026-04-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
+        "title": "The US Navy brought a \u2018one-of-a-kind\u2019 laser weapon back from the dead",
+        "date": "2026-03-31",
+        "site": "defensenews"
       }
     ],
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-02"
   },
   {
     "cid": "CMP-0012",
@@ -730,7 +770,8 @@
       "CCA",
       "DIU",
       "ACT",
-      "Safer Skies Act"
+      "Safer Skies Act",
+      "Replicator"
     ],
     "tags": [
       "AI",
@@ -872,9 +913,15 @@
         "title": "U.S. Battled Drone Incursions Over Key Bases At Home After Launch Of Epic Fury",
         "date": "2026-03-24",
         "site": "twz"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-government-spending-on-c-uas-reaches-usd29-billion-in-first-months-of-2026/",
+        "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
+        "date": "2026-04-05",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-03-25"
+    "last_updated": "2026-04-05"
   },
   {
     "cid": "CMP-0013",
@@ -1013,9 +1060,45 @@
         "title": "MQ-28 Ghost Bat Gains Major European Foothold As Rheinmetall Joins Forces With Boeing",
         "date": "2026-03-31",
         "site": "twz"
+      },
+      {
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/",
+        "title": "Iranian strikes target the infrastructure behind US airpower",
+        "date": "2026-04-01",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
+        "title": "The US Navy brought a \u2018one-of-a-kind\u2019 laser weapon back from the dead",
+        "date": "2026-03-31",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/04/01/pentagon-boeing-agree-to-triple-pac-3-seeker-production/",
+        "title": "Pentagon, Boeing agree to triple PAC-3 seeker production",
+        "date": "2026-04-01",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/space/worlds-most-secretive-737-is-supporting-nasas-historic-artemis-ii-launch",
+        "title": "World\u2019s Most Secretive 737 Is Supporting NASA\u2019s Historic Artemis II Launch",
+        "date": "2026-04-01",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/shadowy-rat55-radar-test-bed-737-has-begun-the-next-phase-of-its-career",
+        "title": "Secretive 737 Radar Jet \u2018RAT55\u2019 Has Begun \u201cThe Next Phase Of Its Career\u201d",
+        "date": "2026-04-01",
+        "site": "twz"
+      },
+      {
+        "url": "https://militarnyi.com/en/news/boeing-to-triple-patriot-missile-seeker-production/",
+        "title": "Boeing to Triple Patriot Missile Seeker Production",
+        "date": "",
+        "site": "militarnyi"
       }
     ],
-    "last_updated": "2026-04-01"
+    "last_updated": "2026-04-02"
   },
   {
     "cid": "CMP-0014",
@@ -1105,7 +1188,10 @@
     "cid": "CMP-0015",
     "name": "Elbit Systems",
     "programs": [
-      "ACT"
+      "ACT",
+      "JIATF-401",
+      "Lattice",
+      "Replicator"
     ],
     "tags": [
       "swarming",
@@ -1116,7 +1202,8 @@
       "loitering munition",
       "NDAA",
       "counter-UAS",
-      "one-way attack"
+      "one-way attack",
+      "AI"
     ],
     "sources": [
       {
@@ -1142,9 +1229,15 @@
         "title": "M1E3 Next-Gen Abrams Tank Production Could Begin Next Year",
         "date": "2026-03-25",
         "site": "twz"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-government-spending-on-c-uas-reaches-usd29-billion-in-first-months-of-2026/",
+        "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
+        "date": "2026-04-05",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-03-26"
+    "last_updated": "2026-04-05"
   },
   {
     "cid": "CMP-0016",
@@ -1157,7 +1250,9 @@
       "one-way attack",
       "FPV",
       "counter-UAS",
-      "electronic warfare"
+      "electronic warfare",
+      "C2",
+      "ISR"
     ],
     "sources": [
       {
@@ -1189,9 +1284,15 @@
         "title": "L3Harris expands VAMPIRE production in response to rising drone threats",
         "date": "2026-04-01",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.twz.com/air/rc-135-rivet-joint-surveillance-jet-caught-in-the-nude-in-texas",
+        "title": "RC-135 Rivet Joint Surveillance Jet Caught \u2018In The Nude\u2019 In Texas",
+        "date": "2026-04-02",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-04-01"
+    "last_updated": "2026-04-03"
   },
   {
     "cid": "CMP-0017",
@@ -1202,7 +1303,8 @@
       "Safer Skies Act",
       "Drone Dominance",
       "JIATF-401",
-      "Lattice"
+      "Lattice",
+      "Replicator"
     ],
     "tags": [
       "C2",
@@ -1291,9 +1393,15 @@
         "title": "AV releases third generation LOCUST C-UAS",
         "date": "2026-03-27",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-government-spending-on-c-uas-reaches-usd29-billion-in-first-months-of-2026/",
+        "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
+        "date": "2026-04-05",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-03-27"
+    "last_updated": "2026-04-05"
   },
   {
     "cid": "CMP-0018",
@@ -1607,7 +1715,10 @@
     "cid": "CMP-0024",
     "name": "Fortem Technologies",
     "programs": [
-      "Golden Dome"
+      "Golden Dome",
+      "JIATF-401",
+      "Lattice",
+      "Replicator"
     ],
     "tags": [
       "acquisition",
@@ -1617,7 +1728,8 @@
       "doctrine",
       "electronic warfare",
       "swarming",
-      "C2"
+      "C2",
+      "AI"
     ],
     "sources": [
       {
@@ -1643,9 +1755,15 @@
         "title": "Fortem DroneHunter and TrueView Radar Join Lockheed Martin Sanctum",
         "date": "2026-03-19",
         "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-government-spending-on-c-uas-reaches-usd29-billion-in-first-months-of-2026/",
+        "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
+        "date": "2026-04-05",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-03-24"
+    "last_updated": "2026-04-05"
   },
   {
     "cid": "CMP-0025",
@@ -1694,9 +1812,21 @@
         "title": "DroneShield teams up with kinetic interceptor manufacturer Origin Robotics",
         "date": "2026-03-31",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/02/droneshield-opens-european-headquarters-in-amsterdam-amid-growing-counter-drone-demand/",
+        "title": "DroneShield Opens European Headquarters in Amsterdam Amid Growing Counter-Drone Demand",
+        "date": "2026-04-02",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/02/droneshield-opens-european-headquarters-in-amsterdam-amid-growing-counter-drone-demand/#respond/",
+        "title": "DroneShield Opens European Headquarters in Amsterdam Amid Growing Counter-Drone Demand",
+        "date": "2026-04-02",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-02"
   },
   {
     "cid": "CMP-0026",
@@ -1767,7 +1897,10 @@
   {
     "cid": "CMP-0027",
     "name": "Saronic",
-    "programs": [],
+    "programs": [
+      "CCA",
+      "Drone Dominance"
+    ],
     "tags": [
       "C2",
       "acquisition",
@@ -1775,7 +1908,11 @@
       "counter-UAS",
       "doctrine",
       "electronic warfare",
-      "swarming"
+      "swarming",
+      "AI",
+      "ISR",
+      "attritable",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -1783,15 +1920,34 @@
         "title": "High-power microwave \u2018force field\u2019 knocks drone swarms from sky",
         "date": "2025-02-18",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/01/saronic-files-bid-protest-halt-navy-contract-award",
+        "title": "Saronic asks court to halt Navy O&S contract for small maritime drones, LCS mission modules",
+        "date": "2026-04-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/01/army-sensors-physiological-effects-soldiers-explosions",
+        "title": "Army taps industry for sensor tech to help assess impacts of blasts on troops",
+        "date": "2026-04-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/01/army-tests-lumberjack-drone-maven-smart-system",
+        "title": "Army tests autonomous strike drone featuring AI-enabled targeting capabilities",
+        "date": "2026-04-01",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-03-23"
+    "last_updated": "2026-04-02"
   },
   {
     "cid": "CMP-0028",
     "name": "Teledyne FLIR",
     "programs": [
-      "Drone Dominance"
+      "Drone Dominance",
+      "ACT"
     ],
     "tags": [
       "FPV",
@@ -1802,7 +1958,9 @@
       "swarming",
       "one-way attack",
       "AI",
-      "NDAA"
+      "NDAA",
+      "ISR",
+      "acquisition"
     ],
     "sources": [
       {
@@ -1828,9 +1986,21 @@
         "title": "Navy F/A-18\u2019s Close Call With An Iranian SAM Highlights Remaining Risks To Epic Fury Aviators (Updated)",
         "date": "2026-03-26",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/photos-of-f-15e-wreckage-emerge-amid-iranian-claims-it-shot-down-an-american-fighter",
+        "title": "Photos Of F-15E Wreckage Emerge Amid Iranian Claims It Shot Down An American Fighter",
+        "date": "2026-04-03",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/key-iranian-bridge-severed-by-airstrikes",
+        "title": "Key Iranian Bridge Severed By Airstrikes (Updated)",
+        "date": "2026-04-02",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-03-27"
+    "last_updated": "2026-04-03"
   },
   {
     "cid": "CMP-0029",
