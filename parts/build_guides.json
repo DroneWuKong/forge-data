@@ -257,7 +257,8 @@
           "PRP-1009"
         ]
       }
-    ]
+    ],
+    "source": "internal_archetype"
   },
   {
     "pid": "BG-1001",
@@ -518,7 +519,8 @@
           "BAT-1000"
         ]
       }
-    ]
+    ],
+    "source": "internal_archetype"
   },
   {
     "pid": "BG-1002",
@@ -737,6 +739,7 @@
           "PRP-1007"
         ]
       }
-    ]
+    ],
+    "source": "internal_archetype"
   }
 ]

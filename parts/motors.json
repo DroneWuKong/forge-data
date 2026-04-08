@@ -133,7 +133,7 @@
       "weight_g": 42
     },
     "kv": 1350,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29.99,
@@ -205,7 +205,7 @@
       "weight_g": 36
     },
     "kv": 1550,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
@@ -277,7 +277,7 @@
       "weight_g": 32
     },
     "kv": 2120,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24.99,
@@ -4809,7 +4809,7 @@
       "weight_g": 41
     },
     "kv": 2160,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 20,
@@ -5022,7 +5022,7 @@
       "weight_g": 28
     },
     "kv": 1400,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
@@ -5802,7 +5802,7 @@
       "weight_g": 23
     },
     "kv": 900,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
@@ -6522,7 +6522,7 @@
       "weight_g": 39
     },
     "kv": 1750,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
@@ -7164,7 +7164,7 @@
       "weight_g": 25
     },
     "kv": 1850,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
@@ -7308,7 +7308,7 @@
       "weight_g": 35
     },
     "kv": 1750,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 20,
@@ -7380,7 +7380,7 @@
       "weight_g": 22
     },
     "kv": 1750,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
@@ -7452,7 +7452,7 @@
       "weight_g": 36
     },
     "kv": 1750,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
@@ -7668,7 +7668,7 @@
       "weight_g": 38
     },
     "kv": 1750,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
@@ -11617,7 +11617,7 @@
       "weight_g": 33
     },
     "kv": 1900,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
@@ -11761,7 +11761,7 @@
       "weight_g": 27
     },
     "kv": 1800,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 22,
@@ -16123,7 +16123,7 @@
       "weight_g": 25
     },
     "kv": 2200,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
@@ -16195,7 +16195,7 @@
       "weight_g": 32
     },
     "kv": 2600,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
@@ -17784,7 +17784,7 @@
       "weight_g": 29
     },
     "kv": 2650,
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
@@ -19490,7 +19490,7 @@
       "weight_g": 23
     },
     "kv": 1500,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 50.0,
@@ -19541,7 +19541,7 @@
       "weight_g": 31
     },
     "kv": 900,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 55.0,
@@ -19590,7 +19590,7 @@
     "schema_data": {
       "weight_g": 34
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 65.0,
@@ -19640,7 +19640,7 @@
       "weight_g": 33
     },
     "kv": 1250,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 52.0,
@@ -19690,7 +19690,7 @@
       "weight_g": 33
     },
     "kv": 1500,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.0,
@@ -19739,7 +19739,7 @@
       "weight_g": 34
     },
     "kv": 1500,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 45.0,
@@ -20139,7 +20139,7 @@
     "schema_data": {
       "weight_g": 24
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Germany",
     "price_usd": 800.0,
@@ -20188,7 +20188,7 @@
     "schema_data": {
       "weight_g": 29
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Norway",
     "price_usd": 400.0,
@@ -20381,7 +20381,7 @@
     "kv": 1300,
     "stator_diameter_mm": 28,
     "stator_height_mm": 7,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 15.85,
@@ -20457,7 +20457,7 @@
     "kv": 1100,
     "stator_diameter_mm": 28,
     "stator_height_mm": 12,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19.9,
@@ -20495,7 +20495,7 @@
     "kv": 1900,
     "stator_diameter_mm": 28,
     "stator_height_mm": 12,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19.9,
@@ -20533,7 +20533,7 @@
     "kv": 800,
     "stator_diameter_mm": 31,
     "stator_height_mm": 15,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 30.59,
@@ -20571,7 +20571,7 @@
     "kv": 400,
     "stator_diameter_mm": 42,
     "stator_height_mm": 20,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 39.8,
@@ -20609,7 +20609,7 @@
     "kv": 650,
     "stator_diameter_mm": 42,
     "stator_height_mm": 20,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 39.8,
@@ -20645,7 +20645,7 @@
     "approx_price": 59.71,
     "description": "Motor by. mm x mm stator..",
     "kv": 380,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 59.71,
@@ -20681,7 +20681,9 @@
     "description": "Motor by. mm x mm stator..",
     "kv": 1300,
     "stator_diameter_mm": 28,
-    "stator_height_mm": 7
+    "stator_height_mm": 7,
+    "ndaa_compliant": true,
+    "manufacturer_country": "Ukraine"
   },
   {
     "pid": "MTR-UA-KaraFPV-2807-1300K",
