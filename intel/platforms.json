@@ -581,10 +581,22 @@
         "title": "JIATF 401 commits USD 600M to procure new C-UAS technologies",
         "date": "2026-04-07",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/07/army-procurement-precision-strike-missile-prsm-2027",
+        "title": "Army looks to quadruple procurement for Precision Strike Missile in 2027",
+        "date": "2026-04-07",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/07/us-launches-more-attack-drones-iran-epic-fury-adm-cooper-centcom",
+        "title": "Centcom commander says \u2018hundreds\u2019 of U.S. drones are involved in Iran war",
+        "date": "2026-04-07",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-08"
   },
   {
     "pid": "PLT-0002",
@@ -1339,7 +1351,8 @@
       "acquisition",
       "electronic warfare",
       "AI",
-      "C2"
+      "C2",
+      "swarming"
     ],
     "sources": [
       {
@@ -1407,10 +1420,16 @@
         "title": "How A Dusty Strip Deep In Iran Can Be Turned Into A U.S. Special Operations Base In Hours",
         "date": "2026-04-06",
         "site": "twz"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/07/us-launches-more-attack-drones-iran-epic-fury-adm-cooper-centcom",
+        "title": "Centcom commander says \u2018hundreds\u2019 of U.S. drones are involved in Iran war",
+        "date": "2026-04-07",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-08"
   },
   {
     "pid": "PLT-0015",
