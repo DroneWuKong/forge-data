@@ -1,15 +1,15 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-04-07",
+  "last_updated": "2026-04-08",
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 237
+    "count": 259
   },
   "parts": {
     "ai_accelerators": {
       "file": "parts/ai_accelerators.json",
-      "count": 13
+      "count": 14
     },
     "antennas": {
       "file": "parts/antennas.json",
@@ -17,7 +17,7 @@
     },
     "batteries": {
       "file": "parts/batteries.json",
-      "count": 217
+      "count": 219
     },
     "build_guides": {
       "file": "parts/build_guides.json",
@@ -41,7 +41,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 237
+      "count": 259
     },
     "esad": {
       "file": "parts/esad.json",
@@ -49,7 +49,7 @@
     },
     "escs": {
       "file": "parts/escs.json",
-      "count": 165
+      "count": 167
     },
     "ew_systems": {
       "file": "parts/ew_systems.json",
@@ -57,7 +57,7 @@
     },
     "flight_controllers": {
       "file": "parts/flight_controllers.json",
-      "count": 322
+      "count": 327
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
@@ -77,7 +77,7 @@
     },
     "gps_modules": {
       "file": "parts/gps_modules.json",
-      "count": 74
+      "count": 78
     },
     "ground_control_stations": {
       "file": "parts/ground_control_stations.json",
@@ -111,6 +111,10 @@
       "file": "parts/navigation_pnt.json",
       "count": 12
     },
+    "optical_flow": {
+      "file": "parts/optical_flow.json",
+      "count": 7
+    },
     "payload_droppers": {
       "file": "parts/payload_droppers.json",
       "count": 5
@@ -133,7 +137,7 @@
     },
     "sensors": {
       "file": "parts/sensors.json",
-      "count": 35
+      "count": 36
     },
     "stacks": {
       "file": "parts/stacks.json",
@@ -145,7 +149,7 @@
     },
     "thermal_cameras": {
       "file": "parts/thermal_cameras.json",
-      "count": 44
+      "count": 50
     },
     "uas_nexus_syndicate": {
       "file": "parts/uas_nexus_syndicate.json",
@@ -163,5 +167,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3893
+  "total_parts": 3943
 }

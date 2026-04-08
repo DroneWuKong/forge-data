@@ -40,9 +40,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -55,7 +57,15 @@
     "approx_price": 69.99,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69.99,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hakrc-flytower-stack-f722-f7230-v2-fc-50a-2-6s-blheli-s-esc-30-5x30-5.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1002",
@@ -99,9 +109,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "H7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32h7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -113,7 +125,16 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-mpu6000-70a-am32-esc-20x20.html"
+    ],
+    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
+    "weight_g": 12
   },
   {
     "pid": "STK-1003",
@@ -157,9 +178,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "H7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32h7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -171,7 +194,16 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-icm42688-70a-blheli-32-esc-20x20.html"
+    ],
+    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
+    "weight_g": 12
   },
   {
     "pid": "STK-1004",
@@ -215,9 +247,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -229,7 +263,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flycolor-speedypizza-crustcore-stack-f7-fc-60a-3-6s-blheli-32-4-in-1-esc-icm42688-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1005",
@@ -272,9 +314,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -287,7 +331,15 @@
     "approx_price": 89.99,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 89.99,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-eco-stack-f4-fc-60a-6s-4-in-1-blheli-s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1006",
@@ -330,9 +382,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM20602",
     "country": "China",
@@ -345,7 +399,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hobbywing-xrotor-stack-f7-fc-45a-3-6s-blheli-32-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1007",
@@ -389,9 +451,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -403,7 +467,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/darwinfpv-cement-stack-f7-fc-100a-3-8s-esc-icm42688.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1008",
@@ -445,9 +517,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -460,7 +534,16 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/holybro-f7-stack-f722-kakute-fc-tekko32-f4-50a-4-in-1-esc-30-5-x-30-5.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1009",
@@ -504,9 +587,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "ndaa",
+      "china"
     ],
     "country": "Hong Kong",
     "compliance": {
@@ -518,7 +603,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/tbs-lucid-pro-stack-f4-fc-60a-3-6s-am-32-4-in-1-esc-mpu6000-gorilla-39x16.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1010",
@@ -562,9 +655,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "ndaa",
+      "china"
     ],
     "country": "Hong Kong",
     "compliance": {
@@ -576,7 +671,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/tbs-lucid-freestyle-stack-f4-fc-60a-3-6s-am-32-4-in-1-esc-icm42688-gorilla-39x16.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1011",
@@ -619,9 +722,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -634,7 +739,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-mini-hd-pro-fc-km35-pro-35a-blheli-32-3-6s-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1012",
@@ -677,9 +790,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -692,7 +807,15 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hobbywing-xrotor-micro-combo-stack-f7-fc-65a-4-in-1-blheli-32-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1013",
@@ -735,9 +858,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "25.5mm",
-      "5 inch"
+      "stm32f7",
+      "25.5x25.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -750,7 +875,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/geprc-f722-aio-f722-fc-35a-2s-6s-bls-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1014",
@@ -794,9 +927,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -808,7 +943,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-pro-mini-stack-f7-fc-45a-2-6s-am32-4-in-1-esc-icm42688-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1015",
@@ -852,9 +995,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -866,7 +1011,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-stack-f722-fc-icm42688-55a-2-6s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1016",
@@ -908,9 +1061,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -923,7 +1078,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/iflight-blitz-stack-f7-v1-2-fc-e55-4-in-1-55a-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1017",
@@ -966,9 +1129,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F7",
+      "stm32f7",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -981,7 +1146,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-v3-hd-stack-f4-fc-35a-2-6s-4-in-1-blheli-s-esc-w-led-elrs-2-4ghz-16x16.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1018",
@@ -1024,9 +1197,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -1039,7 +1214,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/iflight-borg-5s-60r-stack-f4-flight-controller-60a-3-8s-bl32-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1020",
@@ -1082,9 +1265,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -1097,7 +1282,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/iflight-borg-stack-5s-rx-f4-fc-60rs-60a-4-in-1-blheli-32-4-8s-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1021",
@@ -1140,9 +1333,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1155,7 +1350,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hglrc-specter-integrated-stack-box-f722-fc-60a-2-6s-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1022",
@@ -1198,9 +1401,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F4",
+      "stm32f4",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -1213,7 +1418,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-hex-v3-hd-stack-f4-fc-20a-2-4s-6-in-1-blheli-s-esc-w-led-elrs-2-4ghz-16x16.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1023",
@@ -1256,9 +1469,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1271,7 +1486,15 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-mini-stack-f722-fc-40a-4-6s-blheli-32-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1024",
@@ -1314,9 +1537,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1329,7 +1554,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-mini-fly-stack-f722-mini-hd-pro-fc-km40-40a-3-6s-blheli-32-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1025",
@@ -1372,9 +1605,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "ICM42688P",
     "country": "USA",
@@ -1387,7 +1622,16 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 29
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/newbeedrone-hummingbird-305-stack-f7-el-rs-fc-80a-am32-4-in-1-esc-30-5x30-5.html"
+    ],
+    "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1026",
@@ -1430,9 +1674,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1445,7 +1691,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-fc-km40-pro-40a-blheli-32-esc-mini-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1027",
@@ -1489,9 +1743,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "H7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32h7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -1503,7 +1759,16 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hdzero-halo-stack-h743-elrs-fc-mpu6000-70a-blheli-32-esc-20x20.html"
+    ],
+    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
+    "weight_g": 12
   },
   {
     "pid": "STK-1028",
@@ -1546,9 +1811,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "MPU6000",
     "country": "USA",
@@ -1561,7 +1828,16 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 54,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/xilo-stax-v3-combo-f4-fc-50a-3-6s-am32-4-in-1-esc.html"
+    ],
+    "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1029",
@@ -1604,9 +1880,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1619,7 +1897,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-pro-ii-hd-stack-f7-fc-55a-3-6s-am32-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1030",
@@ -1662,9 +1948,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1677,7 +1965,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-pro-plug-n-play-stack-f7-fc-65a-3-6s-blheli-32-esc-w-heatsink-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1031",
@@ -1720,9 +2016,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1735,7 +2033,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-pro-ii-hd-stack-f722-fc-55a-3-6s-blheli-32-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1032",
@@ -1777,9 +2083,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1792,7 +2100,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-velox-se-stack-f7-fc-v50a-3-6s-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1033",
@@ -1835,9 +2151,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -1850,7 +2168,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/darwinfpv-stack-f411-fc-30a-3-6s-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1034",
@@ -1893,9 +2219,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -1908,7 +2236,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flycolor-raptor-tr20-mini-stack-f722-fc-60a-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1035",
@@ -1952,9 +2288,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "25.5mm",
-      "5 inch"
+      "stm32f4",
+      "25.5x25.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -1966,7 +2304,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1036",
@@ -2009,9 +2355,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2024,7 +2372,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-eco-stack-f405-fc-55a-6s-blheli-s-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1037",
@@ -2068,9 +2424,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2082,7 +2440,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-mini-stack-mk4-f722-app-fc-40a-3-6s-blheli-32-128k-esc-mpu6000-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1038",
@@ -2126,9 +2492,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2140,7 +2508,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-mini-stack-f722-mk4-fc-icm42688p-reactor-66a-3-6s-blheli-32-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1039",
@@ -2184,9 +2560,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2198,7 +2576,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-mini-stack-f722-mk4-fc-mpu6000-reactor-66a-3-6s-blheli-32-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1040",
@@ -2242,9 +2628,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2256,7 +2644,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-45a-3-6s-bheli-32-128k-esc-mpu6000.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1041",
@@ -2300,9 +2696,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2314,7 +2712,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-55a-3-6s-bheli-32-128k-esc-mpu6000.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1042",
@@ -2358,9 +2764,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2372,7 +2780,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-65a-3-6s-bheli-32-128k-esc-mpu6000.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1043",
@@ -2412,9 +2828,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -2426,7 +2844,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-mini-f7-hd-3-6s-flight-controller-w-osd-vtx-switch-mpu6000-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1044",
@@ -2469,9 +2895,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -2484,7 +2912,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f405-hd-2-osd-fc-ko55-55a-3-6s-4-in-1-blheli-s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1045",
@@ -2527,9 +2963,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2542,7 +2980,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-3-fc-ko45-45a-3-6s-4-in-1-blheli-32-128k-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1046",
@@ -2585,9 +3031,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "H7",
-      "30.5mm",
-      "5 inch"
+      "stm32h7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2600,7 +3048,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-h743-single-gyro-hd-fc-ko60-60a-blheli-32-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1047",
@@ -2643,9 +3099,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -2658,7 +3116,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f411-mini-hd-fc-ko25-25a-blheli-s-3-6s-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1048",
@@ -2701,9 +3167,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2716,7 +3184,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/rushfpv-rush-blade-stack-f722-dji-fc-60a-3-6s-blheli-32-128k-extreme-edition-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1049",
@@ -2759,9 +3235,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2774,7 +3252,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-velox-f7-hd-stack-f7-hd-fc-v45a-v2-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1050",
@@ -2817,9 +3303,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -2832,7 +3320,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/speedybee-f405-stack-f405-v3-fc-50a-3-6s-blheli-s-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1052",
@@ -2875,9 +3371,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -2890,7 +3388,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-fc-40a-3-6s-blheli-32-128k-esc-mini-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1053",
@@ -2933,9 +3439,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -2948,7 +3456,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f405-fc-30a-3-6s-blheli-s-esc-mini-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1054",
@@ -2991,9 +3507,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -3006,7 +3524,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f405-fc-40a-3-6s-blheli-s-esc-mini-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1055",
@@ -3049,9 +3575,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3064,7 +3592,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-65a-3-6s-bheli-32-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1056",
@@ -3108,9 +3644,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -3122,7 +3660,15 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-55a-3-6s-bheli-32-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1057",
@@ -3165,9 +3711,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3180,7 +3728,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-mk4-f722-app-fc-45a-3-6s-bheli-32-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1058",
@@ -3223,9 +3779,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "MPU6000",
     "country": "China",
@@ -3238,7 +3796,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-velox-lite-f411-stack-f411-lite-fc-v45a-lite-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1059",
@@ -3281,9 +3847,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3296,7 +3864,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-stack-f722-hd-pro2-fc-km50-pro-50a-3-6s-4-in-1-blheli-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1060",
@@ -3339,9 +3915,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -3354,7 +3932,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/diatone-mamba-stack-dji-f405-mk2-fc-f55-55a-128k-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1061",
@@ -3395,9 +3981,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "H7",
-      "30.5mm",
-      "5 inch"
+      "stm32h7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3410,7 +3998,16 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/holybro-kakute-h7-bt-stack-tekko32-f4-50a-blheli32-4-in-1-esc-atlatl-hv-v2.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1062",
@@ -3451,9 +4048,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "H7",
-      "30.5mm",
-      "5 inch"
+      "stm32h7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3466,7 +4065,16 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/holybro-kakute-h7-bt-tekko32-f4-metal-65a-4-in-1-esc-stack.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1063",
@@ -3507,9 +4115,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "H7",
-      "30.5mm",
-      "5 inch"
+      "stm32h7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3522,7 +4132,16 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/holybro-kakute-h7-bt-stack-tekko32-f4-metal-65a-4-in-1-esc-atlati-hv-v2.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1064",
@@ -3565,9 +4184,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3580,7 +4201,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/hobbywing-xrotor-micro-combo-stack-f7-fc-60a-4-in-1-blheli-32-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1065",
@@ -3623,9 +4252,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3638,7 +4269,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-stack-f7-fc-ko60-60a-3-6s-4-in-1-blheli-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1066",
@@ -3681,9 +4320,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3696,7 +4337,15 @@
     "approx_price": 64,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 64,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-stack-f7-fc-ko45-45a-3-6s-4-in-1-blheli-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1067",
@@ -3739,9 +4388,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -3754,7 +4405,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-stack-f4-fc-ko55-55a-3-6s-4-in-1-blheli-s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1068",
@@ -3794,9 +4453,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3809,7 +4470,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-hdf745-evo-aio-40a-stack-hm600-vtx.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1069",
@@ -3849,9 +4518,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "25.5mm",
-      "5 inch"
+      "stm32f7",
+      "25.5x25.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -3864,7 +4535,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-gn745-aio-40a-bl32-stack-hm600-vtx.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1070",
@@ -3905,9 +4584,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F4",
+      "stm32f4",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -3920,7 +4601,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-f411-v2-1-16x16-micro-stack-13a-2-4s-blheli-s-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1071",
@@ -3964,9 +4653,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -3978,7 +4669,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/iflight-succex-e-mini-f7-stack-35a-2-6s-blhelis-4-in-1-esc-mpu6000.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1072",
@@ -4021,9 +4720,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F7",
+      "stm32f7",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4036,7 +4737,15 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-f411-f4-v2-1-16x16-stack-35a-2-6s-bl-s-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1073",
@@ -4078,9 +4787,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4093,7 +4804,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-f7-hd-20x20-km55a-mini-3-6s-blheli-32-4-in-1-esc-stack.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1074",
@@ -4136,9 +4855,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4151,7 +4872,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-tower-mini-stack-f7-hd-fc-km40-40a-3-6s-blheli-32-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1075",
@@ -4194,9 +4923,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4209,7 +4940,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/rushfpv-rush-blade-f722-fc-50a-30x30-rush-tank-vtx-rush-pfb-stack-combo.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1076",
@@ -4252,9 +4991,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "ICM42688P",
     "country": "USA",
@@ -4267,7 +5008,15 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/lumenier-lux-f7-ultimate-razor-led-55a-bundle.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1077",
@@ -4310,9 +5059,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4325,7 +5076,15 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-mini-f7-stack-f45a-3-6s-blheli-32-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1078",
@@ -4366,8 +5125,10 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "20.0mm",
-      "3.5 inch"
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4380,7 +5141,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1079",
@@ -4423,9 +5192,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F4",
+      "stm32f4",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -4438,7 +5209,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 26
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/geprc-stable-f411-16x16-vtx-stack-f411-flight-controller-12a-blheli-s-4-in-1-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1080",
@@ -4481,9 +5260,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4496,7 +5277,15 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1081",
@@ -4538,9 +5327,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "ICM42688P",
     "country": "USA",
@@ -4553,7 +5344,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/lumenier-lux-mini-pro-f7-20x20-stack.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1082",
@@ -4595,9 +5394,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "ICM42688P",
     "country": "USA",
@@ -4610,7 +5411,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/lumenier-lux-mini-f7-20x20-stack.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1083",
@@ -4653,9 +5462,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4668,7 +5479,15 @@
     "approx_price": 67,
     "schema_data": {
       "weight_g": 27
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 67,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f7-hd-mini-pro-fc-km55-55a-am-32-3-6s-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1084",
@@ -4711,9 +5530,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4726,7 +5547,15 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-4-fc-am60-60a-am-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1085",
@@ -4769,9 +5598,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "H7",
-      "30.5mm",
-      "5 inch"
+      "stm32h7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4784,7 +5615,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-h743-dual-gyro-hd-fc-km60-60a-blheli-32-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1086",
@@ -4827,9 +5666,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4842,7 +5683,15 @@
     "approx_price": 63,
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 63,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-3-osd-fc-ko60-60a-3-6s-4-in-1-blheli-32-128k-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1087",
@@ -4885,9 +5734,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -4900,7 +5751,15 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/geprc-taker-stack-f405-fc-50a-3-6s-blheli-s-esc.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1088",
@@ -4943,9 +5802,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -4958,7 +5819,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-pro-plug-play-stack-f722-fc-55a-3-6s-blheli-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1089",
@@ -5001,9 +5870,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "ndaa",
+      "usa"
     ],
     "imu": "ICM42688P",
     "country": "USA",
@@ -5016,7 +5887,16 @@
     "approx_price": 69,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "USA",
+    "price_usd": 69,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/newbeedrone-hummingbird-200-racespec-stack-f4-elrs-fc-80a-am32-esc-20x20.html"
+    ],
+    "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
+    "weight_g": 12
   },
   {
     "pid": "STK-1090",
@@ -5059,9 +5939,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -5074,7 +5956,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f405-hd2-fc-ko50-50a-blheli-s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1091",
@@ -5116,9 +6006,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F7",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f7",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -5131,7 +6023,15 @@
     "approx_price": 65,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 65,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/axisflying-argus-mini-stack-f7-fc-55a-4-6s-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1092",
@@ -5174,9 +6074,11 @@
     },
     "size_class": "3_inch",
     "tags": [
-      "F7",
+      "stm32f7",
       "16.0mm",
-      "3 inch"
+      "3in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -5189,7 +6091,15 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flywoo-goku-v3-hd-stack-f4-fc-20a-2-4s-4-in-1-blheli-s-esc-w-led-elrs-2-4ghz-16x16.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1093",
@@ -5232,9 +6142,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "G4",
-      "30.5mm",
-      "5 inch"
+      "stm32g4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -5247,7 +6159,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 28
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/geprc-fettec-alpha-stack-g4-fc-50a-2-6s-4-in-1-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1094",
@@ -5290,9 +6210,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -5305,7 +6227,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f411-mini-hd-fc-ko40-40a-blheli-s-3-6s-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1095",
@@ -5347,9 +6277,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -5362,7 +6294,16 @@
     "approx_price": 60,
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 60,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/holybro-f7-stack-f722-kakute-fc-tekko32-f4-65a-4-in-1-esc-30-5-x-30-5.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "weight_g": 22
   },
   {
     "pid": "STK-1096",
@@ -5405,9 +6346,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -5420,7 +6363,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/speedybee-f405-v4-stack-f4-v4-fc-55a-blheli-s-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1097",
@@ -5463,9 +6414,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F4",
-      "30.5mm",
-      "5 inch"
+      "stm32f4",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "MPU6000",
     "country": "China",
@@ -5478,7 +6431,15 @@
     "approx_price": 68,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 68,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/flycolor-x-tower-f4-fc-40a-blheli32-4-in-1-esc-stack.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1098",
@@ -5521,9 +6482,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -5536,7 +6499,15 @@
     "approx_price": 61,
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 61,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/speedybee-f7-v3-stack-f722-fc-50a-blheli-32-128k-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1099",
@@ -5579,9 +6550,11 @@
     },
     "size_class": "3.5_inch",
     "tags": [
-      "F4",
-      "20.0mm",
-      "3.5 inch"
+      "stm32f4",
+      "20x20mm",
+      "3.5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "BMI270",
     "country": "China",
@@ -5594,7 +6567,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html"
+    ],
+    "weight_g": 12
   },
   {
     "pid": "STK-1100",
@@ -5637,9 +6618,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "imu": "ICM42688P",
     "country": "China",
@@ -5652,7 +6635,15 @@
     "approx_price": 66,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 66,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/skystars-fly-stack-f722-hd-pro-4-osd-fc-km50-pro-50a-3-6s-4-in-1-blheli-32-esc-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-1101",
@@ -5696,9 +6687,11 @@
     },
     "size_class": "5_inch",
     "tags": [
-      "F7",
-      "30.5mm",
-      "5 inch"
+      "stm32f7",
+      "30.5x30.5mm",
+      "5in",
+      "non-ndaa",
+      "china"
     ],
     "country": "China",
     "compliance": {
@@ -5710,7 +6703,15 @@
     "approx_price": 62,
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 62,
+    "links": [
+      "https://www.getfpv.com/electronics/stacks/dys-f7-stack-f722-fc-65a-2-8s-am-32-4-in-1-esc-icm42688p-30x30.html"
+    ],
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v2",
@@ -5730,14 +6731,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 62.93,
-    "description": "FC+ESC stack by 603700. FC + A ESC."
+    "description": "FC+ESC stack by 603700. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 62.93,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
@@ -5757,14 +6764,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 65.12,
-    "description": "FC+ESC stack by 603700. FC + A ESC."
+    "description": "FC+ESC stack by 603700. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 65.12,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1.",
@@ -5784,14 +6797,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 53.66,
-    "description": "FC+ESC stack by 603700. FC + A ESC."
+    "description": "FC+ESC stack by 603700. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 53.66,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v1",
@@ -5811,14 +6830,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 47.56,
-    "description": "FC+ESC stack by 603700. FC + A ESC."
+    "description": "FC+ESC stack by 603700. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 47.56,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-VYRIY-F405V2-50A",
@@ -5838,14 +6863,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 56.51,
-    "description": "FC+ESC stack by VYRIY. FC + A ESC."
+    "description": "FC+ESC stack by VYRIY. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 56.51,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-Flytex-Fuzia-F405-+",
@@ -5865,14 +6896,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 58.54,
-    "description": "FC+ESC stack by Flytex. FC + A ESC."
+    "description": "FC+ESC stack by Flytex. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 58.54,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-Flytex-Furia-12S-H7",
@@ -5892,14 +6929,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "fixed_wing"
+      "fixed_wing",
+      "ndaa"
     ],
     "approx_price": 78.05,
-    "description": "FC+ESC stack by Flytex. FC + A ESC."
+    "description": "FC+ESC stack by Flytex. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 78.05,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-Karma-Fl-F405-V1",
@@ -5919,14 +6962,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 70.73,
-    "description": "FC+ESC stack by Karma Flights. FC + A ESC."
+    "description": "FC+ESC stack by Karma Flights. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 70.73,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-XRush4-F4V2",
@@ -5946,14 +6995,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 54.88,
-    "description": "FC+ESC stack by XRush4. FC + A ESC."
+    "description": "FC+ESC stack by XRush4. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 54.88,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-XRush4-F4V3",
@@ -5973,14 +7028,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 65.85,
-    "description": "FC+ESC stack by XRush4. FC + A ESC."
+    "description": "FC+ESC stack by XRush4. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 65.85,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-DiFly-DiFly-F405-+",
@@ -6000,14 +7061,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "7_inch"
+      "7_inch",
+      "ndaa"
     ],
     "approx_price": 48.78,
-    "description": "FC+ESC stack by DiFly. FC + A ESC."
+    "description": "FC+ESC stack by DiFly. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 48.78,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-KaraFPV-Golden-F405-",
@@ -6027,14 +7094,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 68.78,
-    "description": "FC+ESC stack by KaraFPV. FC + A ESC."
+    "description": "FC+ESC stack by KaraFPV. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 68.78,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-KaraFPV-Golden-F722-",
@@ -6054,14 +7127,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "heavy_lift"
+      "heavy_lift",
+      "ndaa"
     ],
     "approx_price": 93.78,
-    "description": "FC+ESC stack by KaraFPV. FC + A ESC."
+    "description": "FC+ESC stack by KaraFPV. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 93.78,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-Stingbee-Stellar-Stac",
@@ -6081,14 +7160,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "10_inch"
+      "10_inch",
+      "ndaa"
     ],
     "approx_price": 64.63,
-    "description": "FC+ESC stack by Stingbee. FC + A ESC."
+    "description": "FC+ESC stack by Stingbee. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 64.63,
+    "weight_g": 22
   },
   {
     "pid": "STK-UA-SkyPulse-F405-+-ESC-A",
@@ -6108,14 +7193,20 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "stack",
-      "heavy_lift"
+      "heavy_lift",
+      "ndaa"
     ],
     "approx_price": 45.54,
-    "description": "FC+ESC stack by SkyPulse. FC + A ESC."
+    "description": "FC+ESC stack by SkyPulse. FC + A ESC.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 45.54,
+    "weight_g": 22
   },
   {
     "pid": "STK-1102",

@@ -17,15 +17,21 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "dropper",
       "payload_release",
-      "delivery"
+      "delivery",
+      "ndaa"
     ],
     "approx_price": 17.93,
-    "description": "FPV.3 by Carrier Electronics."
+    "description": "FPV.3 by Carrier Electronics.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 17.93,
+    "weight_g": 28
   },
   {
     "pid": "DROP-UA-Carrier--FPV-v2.0",
@@ -45,15 +51,21 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "dropper",
       "payload_release",
-      "delivery"
+      "delivery",
+      "ndaa"
     ],
     "approx_price": 36.59,
-    "description": "FPV.0 by Carrier Electronics."
+    "description": "FPV.0 by Carrier Electronics.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 36.59,
+    "weight_g": 28
   },
   {
     "pid": "DROP-UA-Carrier--One-v1.4-\u0434\u043b\u044f",
@@ -73,15 +85,21 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "dropper",
       "payload_release",
-      "delivery"
+      "delivery",
+      "ndaa"
     ],
     "approx_price": 23.17,
-    "description": "One.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics."
+    "description": "One.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 23.17,
+    "weight_g": 28
   },
   {
     "pid": "DROP-UA-Carrier--Two-v1.4-\u0434\u043b\u044f",
@@ -101,15 +119,21 @@
     },
     "tags": [
       "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
+      "combat-proven",
+      "ndaa-adjacent",
+      "non-chinese",
       "dropper",
       "payload_release",
-      "delivery"
+      "delivery",
+      "ndaa"
     ],
     "approx_price": 24.39,
-    "description": "Two.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics."
+    "description": "Two.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics.",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Ukraine",
+    "price_usd": 24.39,
+    "weight_g": 28
   },
   {
     "pid": "DROP-UA-LEADER-T-",
