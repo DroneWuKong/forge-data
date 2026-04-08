@@ -43,7 +43,7 @@
     "links": [
       "https://www.sbg-systems.com/defense/uav-unmanned-aerial-vehicles-navigation-defense/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -191,7 +191,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 495,
     "origin": "Unknown"
@@ -236,7 +236,7 @@
     "links": [
       "https://aerospace.honeywell.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Honeywell International, Charlotte NC. Major US aerospace/defense (NASDAQ: HON). NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -282,7 +282,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -327,7 +327,7 @@
     "links": [
       "https://q-ctrl.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Q-CTRL, Sydney, Australia. Allied-nation NDAA compliant. Quantum sensing/navigation.",
     "weight_g": 50,
     "origin": "Unknown"
@@ -425,7 +425,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 12,
     "origin": "Unknown"
@@ -470,7 +470,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -519,7 +519,7 @@
     "links": [
       "https://www.teledynemarine.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Teledyne Marine, part of Teledyne Technologies (NYSE: TDY). US company. NDAA compliant.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -561,9 +561,200 @@
     "links": [
       "https://www.anellophotonics.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Anello Photonics, Santa Clara CA. US photonic IMU. NDAA compliant. DARPA-funded.",
     "weight_g": 100,
     "origin": "Unknown"
+  },
+  {
+    "pid": "NAV-2000",
+    "name": "Intel RealSense T265 \u2014 Tracking Camera (VIO)",
+    "manufacturer": "Intel",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 199,
+    "source": "https://www.intelrealsense.com/tracking-camera-t265/",
+    "interface": "USB3",
+    "protocol": [
+      "USB",
+      "MAVLink (companion)"
+    ],
+    "nav_type": "VIO (Visual-Inertial Odometry)",
+    "weight_g": 55,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Stereo fisheye VIO camera. Provides 6DOF pose estimation without GPS. Used for GPS-denied indoor/outdoor navigation. Requires companion computer. NDAA compliant. NOTE: Intel discontinued T265 in 2023 \u2014 limited stock.",
+    "ndaa_note": "Intel USA. NDAA compliant. Product discontinued 2023.",
+    "tags": [
+      "vio",
+      "gps-denied",
+      "tracking",
+      "ndaa",
+      "companion-required",
+      "discontinued"
+    ]
+  },
+  {
+    "pid": "NAV-2001",
+    "name": "ModalAI VOXL 2 \u2014 Integrated VIO + Compute",
+    "manufacturer": "ModalAI",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 499,
+    "source": "https://www.modalai.com/products/voxl-2",
+    "interface": "UART / USB / Ethernet",
+    "protocol": [
+      "MAVLink",
+      "ROS2"
+    ],
+    "nav_type": "VIO + AI compute",
+    "weight_g": 16,
+    "px4_support": true,
+    "ardupilot_support": false,
+    "description": "Integrated AI compute + VIO for GPS-denied navigation. Snapdragon compute. Blue UAS listed. USA. NDAA compliant. PX4 native support.",
+    "ndaa_note": "ModalAI is USA-based. Blue UAS listed.",
+    "tags": [
+      "vio",
+      "gps-denied",
+      "ndaa",
+      "blue-uas",
+      "ai-compute",
+      "px4-native"
+    ]
+  },
+  {
+    "pid": "NAV-2002",
+    "name": "Nooploop LinkTrack P \u2014 UWB Positioning System",
+    "manufacturer": "Nooploop",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 349,
+    "source": "https://www.nooploop.com/linktrack/",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "UART"
+    ],
+    "nav_type": "UWB (Ultra-Wideband) indoor positioning",
+    "accuracy_m": 0.1,
+    "weight_g": 17,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "UWB indoor positioning system. Cm-level accuracy indoors. Requires 4+ anchors. ArduPilot and PX4 supported. Chinese \u2014 not NDAA.",
+    "tags": [
+      "uwb",
+      "indoor",
+      "gps-denied",
+      "cm-accuracy",
+      "anchor-based"
+    ]
+  },
+  {
+    "pid": "NAV-2003",
+    "name": "Pozyx Creator \u2014 UWB Indoor Positioning",
+    "manufacturer": "Pozyx Labs",
+    "manufacturer_country": "Belgium",
+    "ndaa_compliant": true,
+    "price_usd": 299,
+    "source": "https://www.pozyx.io",
+    "interface": "I2C / UART",
+    "protocol": [
+      "MAVLink",
+      "UART"
+    ],
+    "nav_type": "UWB indoor positioning",
+    "accuracy_m": 0.1,
+    "weight_g": 20,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Belgian UWB positioning. 10cm accuracy. Research and industrial GPS-denied nav. NDAA compliant.",
+    "tags": [
+      "uwb",
+      "indoor",
+      "gps-denied",
+      "ndaa",
+      "belgium"
+    ]
+  },
+  {
+    "pid": "NAV-2004",
+    "name": "IRLock Precision Landing Sensor",
+    "manufacturer": "IRLock",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 179,
+    "source": "https://irlock.com",
+    "interface": "I2C",
+    "protocol": [
+      "I2C",
+      "MAVLink"
+    ],
+    "nav_type": "IR beacon tracking (precision landing)",
+    "weight_g": 15,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "IR beacon + camera for precision landing. ArduPilot PRECLAND mode. PX4 precision landing. USA. NDAA compliant.",
+    "tags": [
+      "precision-landing",
+      "ir-beacon",
+      "ndaa",
+      "usa-made",
+      "autonomous-landing"
+    ]
+  },
+  {
+    "pid": "NAV-2005",
+    "name": "Marvelmind Indoor SuperBeacon \u2014 UWB/US Positioning",
+    "manufacturer": "Marvelmind Robotics",
+    "manufacturer_country": "Russia",
+    "ndaa_compliant": null,
+    "source_needed": true,
+    "source": "https://marvelmind.com",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "UART"
+    ],
+    "nav_type": "Indoor ultrasonic + UWB positioning",
+    "accuracy_m": 0.02,
+    "weight_g": 25,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "2cm accuracy indoor positioning using ultrasonic/UWB. Russian manufacturer \u2014 NDAA compliance uncertain given sanctions context.",
+    "ndaa_note": "Marvelmind is Russian. NDAA compliance uncertain \u2014 verify before DoD use.",
+    "tags": [
+      "uwb",
+      "ultrasonic",
+      "indoor",
+      "2cm-accuracy",
+      "gps-denied"
+    ]
+  },
+  {
+    "pid": "NAV-2006",
+    "name": "Qualisys Motion Capture \u2014 External Navigation",
+    "manufacturer": "Qualisys",
+    "manufacturer_country": "Sweden",
+    "ndaa_compliant": true,
+    "price_usd": null,
+    "source": "https://www.qualisys.com",
+    "interface": "Ethernet / UART",
+    "protocol": [
+      "MAVLink",
+      "VRPN"
+    ],
+    "nav_type": "Motion capture (external, lab use)",
+    "accuracy_m": 0.001,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Sub-mm precision motion capture for lab/test environments. Requires external camera array. Swedish. NDAA compliant. Used for research and tuning.",
+    "tags": [
+      "motion-capture",
+      "lab",
+      "research",
+      "sub-mm",
+      "ndaa",
+      "external"
+    ]
   }
 ]

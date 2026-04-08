@@ -362,7 +362,7 @@
     "links": [
       "https://sierraolympia.com/product/vayu-hd/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -413,7 +413,7 @@
     "links": [
       "https://sierraolympia.com/product/vayu-hd-industrial/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -606,7 +606,7 @@
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -653,7 +653,7 @@
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -701,7 +701,7 @@
     "links": [
       "https://www.thermal.com/drone-core.html"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Seek Thermal, Santa Barbara CA. US manufacturer. Consumer/commercial thermal cameras. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -747,7 +747,7 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -793,7 +793,7 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -843,7 +843,7 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -889,7 +889,7 @@
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
     "origin": "Unknown"
   },
@@ -934,7 +934,7 @@
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
     "origin": "Unknown"
   },
@@ -1124,7 +1124,7 @@
     "links": [
       "https://workswell.eu/thermal-drone-camera-inspection-wiris-pro/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1176,7 +1176,7 @@
     "links": [
       "https://workswell.eu/thermal-drone-camera-research-wiris-pro-sc/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1228,7 +1228,7 @@
     "links": [
       "https://workswell.eu/infrared-drone-camera-inspection-wiris-enterprise/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1317,7 +1317,7 @@
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
     "origin": "Unknown"
   },
@@ -1364,7 +1364,7 @@
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
     "origin": "Unknown"
   },
@@ -1412,7 +1412,7 @@
     "links": [
       "https://www.leonardodrs.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Leonardo DRS, Arlington VA. US subsidiary of Leonardo S.p.A. (Italy). DoD prime contractor. NDAA compliant \u2014 US-based operations and supply chain.",
     "origin": "Unknown"
   },
@@ -1458,7 +1458,7 @@
     "links": [
       "https://www.infiray.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "origin": "Unknown"
   },
   {
@@ -2210,7 +2210,8 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated payload for Sentaero universal housing"
+    "notes": "Integrated payload for Sentaero universal housing",
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3201",
@@ -2222,7 +2223,10 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated for Sentaero universal payload housing"
+    "notes": "Integrated for Sentaero universal payload housing",
+    "source": "https://workswell-thermal-camera.com/wiris-pro",
+    "ndaa_compliant": true,
+    "manufacturer_country": "Czech Republic"
   },
   {
     "pid": "TCAM-0045",
@@ -2236,7 +2240,9 @@
       "eccn": "6A003.b.4.b"
     },
     "price_msrp_usd": 3920,
-    "link": "https://www.flir.com"
+    "link": "https://www.flir.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "TCAM-0046",
@@ -2250,7 +2256,9 @@
       "eccn": "6A003.b.4.b"
     },
     "price_msrp_usd": 4360,
-    "link": "https://www.flir.com"
+    "link": "https://www.flir.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "TCAM-0047",
@@ -2264,7 +2272,9 @@
       "eccn": "6A003.b.4.b"
     },
     "price_msrp_usd": 3788,
-    "link": "https://www.flir.com"
+    "link": "https://www.flir.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "TCAM-0048",
@@ -2278,7 +2288,9 @@
       "eccn": "6A003.b.4.b"
     },
     "price_msrp_usd": 3872,
-    "link": "https://www.flir.com"
+    "link": "https://www.flir.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "TCAM-0049",
@@ -2292,6 +2304,8 @@
       "eccn": "6A003.b.4.b"
     },
     "price_msrp_usd": 6000,
-    "link": "https://www.flir.com"
+    "link": "https://www.flir.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   }
 ]

@@ -1,0 +1,212 @@
+[
+  {
+    "pid": "PM-1000",
+    "name": "Holybro PM02D \u2014 Digital Power Module",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 25,
+    "source": "https://holybro.com/products/pm02d-power-module",
+    "interface": "DroneCAN (CAN) / I2C",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "max_voltage_v": 60,
+    "max_current_a": 60,
+    "max_power_w": 3600,
+    "battery_cells": "3-12S",
+    "weight_g": 24,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Digital power module with DroneCAN. 60V/60A/3600W. 3-12S. Holybro is Chinese \u2014 not NDAA compliant.",
+    "tags": [
+      "power-module",
+      "dronecan",
+      "12s",
+      "digital"
+    ]
+  },
+  {
+    "pid": "PM-1001",
+    "name": "Holybro PM07 \u2014 Analog Power Module (Pixhawk 4)",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 18,
+    "source": "https://holybro.com/products/pm07-pixhawk-4-power-module",
+    "interface": "Analog / JST-GH",
+    "protocol": [
+      "Analog"
+    ],
+    "max_voltage_v": 21,
+    "max_current_a": 60,
+    "battery_cells": "2-6S",
+    "weight_g": 17,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Standard 5V BEC + battery monitoring for Pixhawk 4. 6S max. Not NDAA.",
+    "tags": [
+      "power-module",
+      "analog",
+      "6s",
+      "bec",
+      "pixhawk"
+    ]
+  },
+  {
+    "pid": "PM-1002",
+    "name": "Matek FCHUB-12S \u2014 Power Distribution + Monitoring",
+    "manufacturer": "Mateksys",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 28,
+    "source": "https://www.mateksys.com/?portfolio=fchub-12s",
+    "interface": "Analog",
+    "protocol": [
+      "Analog"
+    ],
+    "max_voltage_v": 55.2,
+    "max_current_a": 120,
+    "battery_cells": "3-12S",
+    "weight_g": 25,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Power distribution board with 12S support, voltage/current sensing. Mateksys Chinese \u2014 not NDAA.",
+    "tags": [
+      "power-module",
+      "12s",
+      "pdb",
+      "high-current"
+    ]
+  },
+  {
+    "pid": "PM-1003",
+    "name": "mRo ACSP7 \u2014 High-Power Module",
+    "manufacturer": "mRobotics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 49,
+    "source": "https://store.mrobotics.io",
+    "interface": "Analog / I2C",
+    "protocol": [
+      "Analog"
+    ],
+    "max_voltage_v": 50.4,
+    "max_current_a": 100,
+    "battery_cells": "3-12S",
+    "weight_g": 22,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "USA-made high-power module. 100A continuous. 12S. NDAA compliant.",
+    "ndaa_note": "mRobotics USA-based. NDAA compliant.",
+    "tags": [
+      "power-module",
+      "ndaa",
+      "usa-made",
+      "12s",
+      "high-current"
+    ]
+  },
+  {
+    "pid": "PM-1004",
+    "name": "CUAV HV PM \u2014 High-Voltage Power Module",
+    "manufacturer": "CUAV",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 35,
+    "source": "https://store.cuav.net",
+    "interface": "Analog / I2C",
+    "protocol": [
+      "Analog"
+    ],
+    "max_voltage_v": 60,
+    "max_current_a": 90,
+    "battery_cells": "3-14S",
+    "weight_g": 30,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "14S-capable high voltage power module. CUAV Chinese \u2014 not NDAA.",
+    "tags": [
+      "power-module",
+      "14s",
+      "high-voltage",
+      "90a"
+    ]
+  },
+  {
+    "pid": "PM-1005",
+    "name": "ARK PAB Power Module \u2014 DroneCAN",
+    "manufacturer": "ARK Electronics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 55,
+    "source": "https://arkelectron.com/product/ark-pab-power-module/",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "max_voltage_v": 51.8,
+    "max_current_a": 60,
+    "battery_cells": "3-12S",
+    "weight_g": 20,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "NDAA-compliant DroneCAN power module. Part of ARK ecosystem. USA-made.",
+    "tags": [
+      "power-module",
+      "dronecan",
+      "ndaa",
+      "usa-made",
+      "12s"
+    ]
+  },
+  {
+    "pid": "PM-1006",
+    "name": "Zubax Myxa / Babel Smart Power \u2014 DroneCAN BMS",
+    "manufacturer": "Zubax Robotics",
+    "manufacturer_country": "Germany",
+    "ndaa_compliant": true,
+    "price_usd": 149,
+    "source": "https://zubax.com",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "weight_g": 30,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "DroneCAN battery management and smart power node. German. NDAA compliant.",
+    "tags": [
+      "power-module",
+      "dronecan",
+      "ndaa",
+      "germany",
+      "smart-battery"
+    ]
+  },
+  {
+    "pid": "PM-1007",
+    "name": "Tattu Plus Smart Battery 16000mAh 6S",
+    "manufacturer": "Grepow",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 299,
+    "source": "https://www.grepow.com/products/tattu-plus",
+    "interface": "Smart BMS (CAN/UART)",
+    "protocol": [
+      "Smart Battery Protocol"
+    ],
+    "capacity_mah": 16000,
+    "cell_count": 6,
+    "weight_g": 1900,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Smart LiPo battery with integrated BMS. Reports SOC, voltage, current to FC. Chinese \u2014 not NDAA.",
+    "tags": [
+      "smart-battery",
+      "bms",
+      "6s",
+      "china"
+    ]
+  }
+]
