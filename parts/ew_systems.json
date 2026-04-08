@@ -140,7 +140,7 @@
     "links": [
       "https://dzyne.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "DZYNE Technologies, Irvine CA. US manufacturer. NDAA compliant.",
     "weight_g": 500,
     "origin": "Unknown"
@@ -193,7 +193,7 @@
     "links": [
       "https://d-fendsolutions.com/enforceair/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
     "weight_g": 500,
     "origin": "Unknown"
@@ -237,7 +237,7 @@
     "links": [
       "https://ntservice.lt/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "NT Service, Ukraine. EW/C-UAS developer. Allied-nation NDAA compliant.",
     "weight_g": 85,
     "origin": "Unknown"
@@ -334,7 +334,7 @@
     "price_usd": null,
     "weight_g": 5000,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "EW-0008",
@@ -471,7 +471,7 @@
     "links": [
       "https://www.rtx.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant.",
     "weight_g": 18.0,
     "price_note": "Contact for pricing",

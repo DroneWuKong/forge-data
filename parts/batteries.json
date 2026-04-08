@@ -7843,7 +7843,7 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 60,
@@ -7902,7 +7902,7 @@
     "schema_data": {
       "weight_g": 203
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 64,
@@ -7961,7 +7961,7 @@
     "schema_data": {
       "weight_g": 207
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 63,
@@ -8079,7 +8079,7 @@
     "schema_data": {
       "weight_g": 206
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 56,
@@ -8138,7 +8138,7 @@
     "schema_data": {
       "weight_g": 205
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 60,
@@ -8197,7 +8197,7 @@
     "schema_data": {
       "weight_g": 200
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 57,
@@ -8256,7 +8256,7 @@
     "schema_data": {
       "weight_g": 190
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 58,
@@ -8315,7 +8315,7 @@
     "schema_data": {
       "weight_g": 202
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 61,
@@ -8374,7 +8374,7 @@
     "schema_data": {
       "weight_g": 193
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 63,
@@ -9598,7 +9598,7 @@
     "schema_data": {
       "weight_g": 207
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
@@ -9777,7 +9777,7 @@
     "schema_data": {
       "weight_g": 196
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
@@ -12021,7 +12021,7 @@
     "schema_data": {
       "weight_g": 199
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 52,
@@ -12070,7 +12070,7 @@
     "schema_data": {
       "weight_g": 206
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 63,
@@ -12119,7 +12119,7 @@
     "schema_data": {
       "weight_g": 197
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 58,
@@ -12171,7 +12171,7 @@
     "schema_data": {
       "weight_g": 197
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 25,
@@ -12221,7 +12221,7 @@
     "schema_data": {
       "weight_g": 204
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
@@ -12273,7 +12273,7 @@
     "schema_data": {
       "weight_g": 208
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
@@ -12323,7 +12323,7 @@
     "schema_data": {
       "weight_g": 194
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 56,
@@ -12373,7 +12373,7 @@
     "schema_data": {
       "weight_g": 193
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Israel",
     "price_usd": 30,
@@ -12423,7 +12423,7 @@
     "schema_data": {
       "weight_g": 205
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 26,
@@ -12471,7 +12471,7 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
@@ -12522,7 +12522,7 @@
     "schema_data": {
       "weight_g": 198
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 59,
@@ -12581,7 +12581,8 @@
     "type": "Battery Kit",
     "compatible_platforms": [
       "Censys Sentaero 5"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3216",
@@ -12590,6 +12591,7 @@
     "type": "Battery Kit",
     "compatible_platforms": [
       "Censys Sentaero 5"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   }
 ]

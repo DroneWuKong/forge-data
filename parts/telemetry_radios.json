@@ -1,0 +1,252 @@
+[
+  {
+    "pid": "TEL-1000",
+    "name": "RFDesign RFD900x \u2014 Long Range SiK Radio",
+    "manufacturer": "RFDesign",
+    "manufacturer_country": "Australia",
+    "ndaa_compliant": true,
+    "price_usd": 89,
+    "source": "https://rfdesign.com.au/products/rfd900x-modem/",
+    "interface": "UART / USB",
+    "protocol": [
+      "MAVLink",
+      "SiK"
+    ],
+    "frequency_mhz": 900,
+    "max_range_km": 40,
+    "max_power_dbm": 30,
+    "weight_g": 14,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Industry-standard long-range SiK telemetry. 40km range. 900MHz. Australian. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "sik",
+      "900mhz",
+      "long-range",
+      "ndaa",
+      "australia"
+    ]
+  },
+  {
+    "pid": "TEL-1001",
+    "name": "RFDesign RFD868x \u2014 EU 868MHz SiK Radio",
+    "manufacturer": "RFDesign",
+    "manufacturer_country": "Australia",
+    "ndaa_compliant": true,
+    "price_usd": 89,
+    "source": "https://rfdesign.com.au/products/rfd868x-modem/",
+    "interface": "UART / USB",
+    "protocol": [
+      "MAVLink",
+      "SiK"
+    ],
+    "frequency_mhz": 868,
+    "max_range_km": 40,
+    "weight_g": 14,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "EU variant of RFD900x at 868MHz. CE marked. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "sik",
+      "868mhz",
+      "eu",
+      "ndaa"
+    ]
+  },
+  {
+    "pid": "TEL-1002",
+    "name": "Holybro SiK Telemetry Radio V3 (915MHz)",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 35,
+    "source": "https://holybro.com/products/sik-telemetry-radio-v3",
+    "interface": "UART / USB",
+    "protocol": [
+      "MAVLink",
+      "SiK"
+    ],
+    "frequency_mhz": 915,
+    "max_range_km": 3,
+    "max_power_mw": 20,
+    "weight_g": 15,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Most popular budget SiK telemetry. 3km range. 915MHz (US/Canada). Holybro is Chinese \u2014 not NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "sik",
+      "915mhz",
+      "budget",
+      "china"
+    ]
+  },
+  {
+    "pid": "TEL-1003",
+    "name": "Holybro XBP9X \u2014 Long Range Telemetry (900MHz)",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 99,
+    "source": "https://holybro.com/products/xbp9x-900mhz",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "Digi XBee"
+    ],
+    "frequency_mhz": 900,
+    "max_range_km": 10,
+    "weight_g": 22,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "XBee-based 900MHz telemetry. Better range than standard SiK. Chinese \u2014 not NDAA.",
+    "tags": [
+      "telemetry",
+      "xbee",
+      "900mhz",
+      "long-range"
+    ]
+  },
+  {
+    "pid": "TEL-1004",
+    "name": "mRo SiK Telemetry Radio \u2014 915MHz",
+    "manufacturer": "mRobotics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 59,
+    "source": "https://store.mrobotics.io",
+    "interface": "UART / USB",
+    "protocol": [
+      "MAVLink",
+      "SiK"
+    ],
+    "frequency_mhz": 915,
+    "max_range_km": 5,
+    "weight_g": 13,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "USA-made SiK radio. NDAA compliant. Drop-in replacement for 3DR radios.",
+    "ndaa_note": "mRobotics is USA-based. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "sik",
+      "915mhz",
+      "ndaa",
+      "usa-made"
+    ]
+  },
+  {
+    "pid": "TEL-1005",
+    "name": "Microhard pDDL 2450 \u2014 2.4GHz Long Range",
+    "manufacturer": "Microhard Systems",
+    "manufacturer_country": "Canada",
+    "ndaa_compliant": true,
+    "price_usd": 449,
+    "source": "https://microhardcorp.com",
+    "interface": "UART / Ethernet",
+    "protocol": [
+      "MAVLink",
+      "IP"
+    ],
+    "frequency_mhz": 2400,
+    "max_range_km": 20,
+    "weight_g": 35,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Professional IP-based 2.4GHz telemetry. 20km range. Ethernet + UART. Canada. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "2.4ghz",
+      "ip-based",
+      "long-range",
+      "ndaa",
+      "canada"
+    ]
+  },
+  {
+    "pid": "TEL-1006",
+    "name": "CUAV P9 \u2014 Long Range MAVLink Radio",
+    "manufacturer": "CUAV",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 149,
+    "source": "https://store.cuav.net/shop/p9-radio/",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink"
+    ],
+    "frequency_mhz": 915,
+    "max_range_km": 60,
+    "weight_g": 30,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Long range 60km MAVLink radio from CUAV. Chinese \u2014 not NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "long-range",
+      "60km",
+      "mavlink"
+    ]
+  },
+  {
+    "pid": "TEL-1007",
+    "name": "FreeWave FGR3 \u2014 Industrial FHSS Radio",
+    "manufacturer": "FreeWave Technologies",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 599,
+    "source": "https://www.freewave.com",
+    "interface": "UART / RS-232",
+    "protocol": [
+      "MAVLink",
+      "Serial"
+    ],
+    "frequency_mhz": 900,
+    "max_range_km": 100,
+    "weight_g": 68,
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "Industrial-grade FHSS 900MHz radio. 100km range. Used in commercial UAS and BVLOS operations. USA. NDAA compliant.",
+    "ndaa_note": "FreeWave is USA-based. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "fhss",
+      "900mhz",
+      "industrial",
+      "100km",
+      "ndaa",
+      "bvlos"
+    ]
+  },
+  {
+    "pid": "TEL-1008",
+    "name": "HERELINK V1.1 \u2014 Integrated HD Video + Telemetry",
+    "manufacturer": "CubePilot (Hex Technology)",
+    "manufacturer_country": "Australia",
+    "ndaa_compliant": true,
+    "price_usd": 699,
+    "source": "https://www.cubepilot.org/#/herelink/features",
+    "interface": "Integrated (GCS + airunit)",
+    "protocol": [
+      "MAVLink",
+      "RTSP Video"
+    ],
+    "frequency_ghz": 2.4,
+    "max_range_km": 20,
+    "video_resolution": "1080p",
+    "weight_g": 198,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "All-in-one Android GCS + HD video + telemetry. 20km range. 1080p video. CubePilot Australian. NDAA compliant.",
+    "tags": [
+      "telemetry",
+      "hd-video",
+      "gcs-integrated",
+      "ndaa",
+      "australia",
+      "1080p"
+    ]
+  }
+]
