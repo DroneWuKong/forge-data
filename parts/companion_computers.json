@@ -55,7 +55,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0002",
@@ -109,7 +110,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0003",
@@ -163,7 +165,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0004",
@@ -219,7 +222,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0005",
@@ -271,7 +275,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0006",
@@ -325,7 +330,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0007",
@@ -379,7 +385,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0008",
@@ -430,7 +437,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0009",
@@ -479,7 +487,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "USA"
   },
   {
     "pid": "COMP-0010",
@@ -523,9 +532,10 @@
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
-    "interface": "PCIe / USB / Ethernet"
+    "interface": "PCIe / USB / Ethernet",
+    "origin": "Unknown"
   },
   {
     "pid": "COMP-0011",
@@ -570,9 +580,10 @@
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
-    "interface": "PCIe / USB / Ethernet"
+    "interface": "PCIe / USB / Ethernet",
+    "origin": "Unknown"
   },
   {
     "pid": "COMP-0012",
@@ -624,9 +635,10 @@
     "links": [
       "https://www.neousys-tech.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Neousys Technology, New Taipei City, Taiwan. Allied-nation NDAA compliant. Rugged embedded computing.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "Unknown"
   },
   {
     "pid": "COMP-0013",
@@ -675,7 +687,9 @@
       "https://www.forecr.io/"
     ],
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
-    "interface": "Ethernet / USB / UART / PCIe"
+    "interface": "Ethernet / USB / UART / PCIe",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "COMP-0014",
@@ -728,7 +742,9 @@
       "https://www.forecr.io/"
     ],
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
-    "interface": "Ethernet / USB / UART / PCIe"
+    "interface": "Ethernet / USB / UART / PCIe",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "COMP-0015",
@@ -778,9 +794,10 @@
     "links": [
       "https://www.qualcomm.com/products/internet-of-things/industrial/drones/flight-rb5"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Qualcomm Technologies, San Diego CA. US semiconductor (NASDAQ: QCOM). NDAA compliant.",
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "Unknown"
   },
   {
     "pid": "CC-0001",
@@ -823,14 +840,15 @@
     "schema_data": {
       "weight_g": 47
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Slovakia",
     "price_usd": 304,
     "links": [
       "https://airvolute.com/product-category/uav-autopilots/"
     ],
     "interface": "USB / Ethernet / UART",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "CC-0002",
@@ -861,13 +879,14 @@
     "schema_data": {
       "weight_g": 35
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Slovakia",
     "links": [
       "https://syndicate.uasnexus.com/collections/computes"
     ],
     "interface": "USB / Ethernet / UART",
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "Unknown"
   },
   {
     "pid": "CC-0003",
@@ -898,13 +917,14 @@
     "schema_data": {
       "weight_g": 37
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Slovakia",
     "links": [
       "https://syndicate.uasnexus.com/collections/computes"
     ],
     "interface": "USB / Ethernet / UART",
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "Unknown"
   },
   {
     "pid": "CC-0004",
@@ -935,13 +955,14 @@
     "schema_data": {
       "weight_g": 45
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Slovakia",
     "links": [
       "https://syndicate.uasnexus.com/collections/computes"
     ],
     "interface": "USB / Ethernet / UART",
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "Unknown"
   },
   {
     "pid": "CC-1019",
@@ -986,7 +1007,8 @@
     "manufacturer_country": "Taiwan",
     "links": [
       "https://www.mistralsolutions.com"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "CC-1020",
@@ -1008,7 +1030,7 @@
     "firmware_support": [
       "UAV Navigation proprietary"
     ],
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "weight_g": 60,
     "price_usd": 49,
@@ -1026,7 +1048,8 @@
     },
     "links": [
       "https://www.uavnavigation.com"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "CC-1021",
@@ -1104,13 +1127,14 @@
     "schema_data": {
       "weight_g": 39
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Australia / International (open source)",
     "price_usd": 62,
     "links": [
       "https://cloud.ardupilot.org"
     ],
-    "interface": "USB / Ethernet / UART"
+    "interface": "USB / Ethernet / UART",
+    "origin": "Unknown"
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-Orin-Nano",
@@ -1145,7 +1169,8 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "USA"
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-Orin-NX",
@@ -1179,7 +1204,8 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "USA"
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-AGX-Orin",
@@ -1213,6 +1239,7 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "USA"
   }
 ]

@@ -70,7 +70,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-mario-5-xh-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1003",
@@ -143,7 +144,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-my5-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1004",
@@ -210,14 +212,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/deepspace-seeker-5-dc-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1005",
@@ -283,14 +286,15 @@
     "schema_data": {
       "weight_g": 110
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27.99,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-source-one-v6-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1008",
@@ -326,7 +330,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/beginner-diy-fpv-drone-bundle-qav-s-2-bardwell-fat-shark-dominator-hd-walksnail-avatar.html"
     ],
-    "weight_g": 118
+    "weight_g": 118,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1009",
@@ -400,7 +405,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vx5-o4-pro-freestyle-frame-kit-black.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1010",
@@ -474,7 +480,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-pro-o4-pro-frame-kit-squashed-x.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1011",
@@ -548,7 +555,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-mario-5-frame-kit-xh-o4-pro.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1012",
@@ -621,7 +629,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-5-bundle.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1013",
@@ -696,7 +705,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vd5-o4-pro-deadcat-frame-kit-black.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1014",
@@ -770,7 +780,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-fifty5-o4-pro-freestyle-frame-kit-black.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1015",
@@ -843,7 +854,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s2-joshua-bardwell-se-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1017",
@@ -916,7 +928,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-hs5-high-speed-drone-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1018",
@@ -952,7 +965,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/beginner-diy-fpv-drone-kit-qav-s-2-joshua-bardwell-se-5-analog.html"
     ],
-    "weight_g": 118
+    "weight_g": 118,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1019",
@@ -1025,7 +1039,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-whoop-5-cinequads-edition-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1020",
@@ -1098,7 +1113,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-wind5-lite-v2-racing-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1021",
@@ -1171,7 +1187,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-y6-5-lr-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1022",
@@ -1244,7 +1261,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-pro-frame-kit-squashed-x.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1023",
@@ -1318,7 +1336,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-pro-frame-kit-deadcat.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1024",
@@ -1391,7 +1410,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-5r-race-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1025",
@@ -1464,7 +1484,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-mach-r5-sport-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1026",
@@ -1538,7 +1559,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-whoop-5-cinequads-edition-dji-o3-upgrade-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1027",
@@ -1611,7 +1633,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-x-lock-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1029",
@@ -1684,7 +1707,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-rear-mounting-plates.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1030",
@@ -1757,7 +1781,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-front-split-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1031",
@@ -1830,7 +1855,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-rear-tilt-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1032",
@@ -1903,7 +1929,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1034",
@@ -1976,7 +2003,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-rear-split-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1035",
@@ -2049,7 +2077,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-evo-v1-2-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1036",
@@ -2123,7 +2152,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-v5-o4-frame-kit-aos-5.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1038",
@@ -2196,7 +2226,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/t-motor-yema-5-frame-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1039",
@@ -2269,7 +2300,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-johnnyfpv-se-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1040",
@@ -2336,14 +2368,15 @@
     "schema_data": {
       "weight_g": 106
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/quadifier-diamondback-pro-5-frame-kit-type-f-o3.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1042",
@@ -2416,7 +2449,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-joshua-bardwell-se-split-front-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1043",
@@ -2489,7 +2523,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-joshua-bardwell-se-split-rear-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1044",
@@ -2562,7 +2597,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-nazgul-evoque-v2-frame-kit-5-6.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1045",
@@ -2635,7 +2671,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-gep-mk5-5-freestyle-frame-black-pro-version.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1046",
@@ -2708,7 +2745,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-x5-fr-5-freestyle-fpv-frame-kit-wide-x.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1047",
@@ -2781,7 +2819,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/foxeer-aura-lightweight-lr-freestyle-frame-kit.html"
     ],
-    "weight_g": 70.0
+    "weight_g": 70.0,
+    "origin": "China"
   },
   {
     "pid": "FRM-1049",
@@ -2854,7 +2893,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-v2-fpv-drone-caddx-vista-mounting-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1051",
@@ -2927,7 +2967,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-whoop-5-cinequads-edition-motor-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1052",
@@ -3000,7 +3041,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-whoop-5-cinequads-edition-center-core-plate-set-of-2.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1053",
@@ -3073,7 +3115,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-pro-camera-isolation-kit-w-alpha-gel.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1055",
@@ -3146,7 +3189,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-l5-5-rear-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1056",
@@ -3212,14 +3256,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/camera-butter-cinema-one-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1057",
@@ -3286,14 +3331,15 @@
     "schema_data": {
       "weight_g": 109
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-5-5-arm-set-4pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1058",
@@ -3366,7 +3412,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-5-joshua-bardwell-se-replacement-camera-side-plates-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1059",
@@ -3439,7 +3486,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-m2-rubber-landing-feet-8pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1060",
@@ -3512,7 +3560,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-m3-rubber-landing-feet-8pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1061",
@@ -3585,7 +3634,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-injection-molded-parts-gray.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1063",
@@ -3658,7 +3708,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-hd-isolation-plate-t-spacers.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1064",
@@ -3731,7 +3782,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-split-plate-bottom.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1067",
@@ -3804,7 +3856,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-chief-pro-v2-arm-lock-plate-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1068",
@@ -3877,7 +3930,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-chief-pro-v2-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1069",
@@ -3950,7 +4004,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-source-podracer-5-racing-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1070",
@@ -4024,7 +4079,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-5-deadcat-rear-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1071",
@@ -4098,7 +4154,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-deadcat-freestyle-quadcopter-frame-5-6-7.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1072",
@@ -4171,7 +4228,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-skitzo-camera-side-walls-2-pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1073",
@@ -4244,7 +4302,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/neoprene-landing-pads-for-skinny-arms-4-pack.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1074",
@@ -4310,14 +4369,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-soft-mount-arm-guards.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1075",
@@ -4383,14 +4443,15 @@
     "schema_data": {
       "weight_g": 90
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreak-soft-mount-arm-guards-black.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1077",
@@ -4463,7 +4524,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-source-two-5-racing-frame-v0-1.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1080",
@@ -4536,7 +4598,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav-r-2-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1082",
@@ -4609,7 +4672,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav-r-2-camera-side-wall-2-pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1084",
@@ -4682,7 +4746,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-freestyle-quadcopter-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1087",
@@ -4755,7 +4820,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/vortex-250-pro-pimp-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1090",
@@ -4828,7 +4894,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/universal-fpv-camera-mounts.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1091",
@@ -4901,7 +4968,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2c-frame-kit-5.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1094",
@@ -4976,7 +5044,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-mario-5-frame-kit-dc-o4-pro.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1095",
@@ -5051,7 +5120,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-mario-5-frame-kit-dc-o4-advanced.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1096",
@@ -5117,14 +5187,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/botgrinder-grinderino-freestyle-frame-kit-5.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1098",
@@ -5197,7 +5268,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flyfishrc-volador-vd6-o4-pro-deadcat-frame-kit-black.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1100",
@@ -5272,7 +5344,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-standard-dc-o3-frame-coral-orange.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1101",
@@ -5338,14 +5411,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/deepspace-seeker-5-xl-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1102",
@@ -5418,7 +5492,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-se-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1103",
@@ -5492,7 +5567,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-se-dc-frame-kit-deadcat.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1104",
@@ -5558,14 +5634,15 @@
     "schema_data": {
       "weight_g": 92
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-echo-edition-5-freestyle-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1105",
@@ -5631,14 +5708,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-echo-blackbird-edition-5-freestyle-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1106",
@@ -5704,14 +5782,15 @@
     "schema_data": {
       "weight_g": 100
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-evo-5-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1107",
@@ -5784,7 +5863,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta-5-se-squashed-x-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1108",
@@ -5850,14 +5930,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/era-5-frame-kit-w-v2-interlock-blue.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1109",
@@ -5923,14 +6004,15 @@
     "schema_data": {
       "weight_g": 106
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/era-5-frame-kit-w-v2-interlock-orange.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1110",
@@ -6004,7 +6086,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-rekon-y6-5-lr-drone-hd-w-dji-o3-elrs-2-4ghz.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1111",
@@ -6077,7 +6160,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-nazgul-dc5-eco-v1-1-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1112",
@@ -6151,7 +6235,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-v5-o3-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1114",
@@ -6224,7 +6309,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-racer-5-fpv-frame-kit-silver.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1115",
@@ -6290,14 +6376,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/quadifier-diamondback-5-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1116",
@@ -6364,14 +6451,15 @@
     "schema_data": {
       "weight_g": 100
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/quadifier-diamondback-o3-mk-2-5-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1118",
@@ -6444,7 +6532,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-joshua-bardwell-x-lock-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1119",
@@ -6517,7 +6606,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-2-joshua-bardwell-se-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1120",
@@ -6590,7 +6680,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-master-5-v2-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1121",
@@ -6656,14 +6747,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apexdc-evo-5-fpv-frame-kit-mr-steele-version.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1122",
@@ -6729,14 +6821,15 @@
     "schema_data": {
       "weight_g": 106
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-evo-5-fpv-frame-kit-mr-steele-version.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1123",
@@ -6809,7 +6902,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-nazgul5-v3-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1124",
@@ -6884,7 +6978,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark5-pro-dc-o3-frame-emerald-green.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1125",
@@ -6957,7 +7052,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-master-5-hd-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1126",
@@ -7030,7 +7126,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-master-5-analog-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1128",
@@ -7104,7 +7201,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-03-freestyle-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1130",
@@ -7177,7 +7275,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-freestyle-fpv-frame-kit-v2.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1131",
@@ -7243,14 +7342,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/vanover-vannystyle-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1132",
@@ -7316,14 +7416,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 29,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/vanover-vannystyle-5-arms-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1134",
@@ -7389,14 +7490,15 @@
     "schema_data": {
       "weight_g": 92
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/vanover-vannystyle-5-mid-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1135",
@@ -7462,14 +7564,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-beaver-5-quadcopter-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1136",
@@ -7542,7 +7645,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/rushfpv-stp-armor-5-quadcopter-frame-kit-black.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1137",
@@ -7615,7 +7719,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5-fpv-freestyle-drone-airframe.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1138",
@@ -7688,7 +7793,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/rekon-fpv-rekon5-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1139",
@@ -7754,14 +7860,15 @@
     "schema_data": {
       "weight_g": 100
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-source-one-v5-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1142",
@@ -7835,7 +7942,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-d5-fr-5-freestyle-fpv-frame-deadcat.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1143",
@@ -7909,7 +8017,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-frame-kit-caged-version.html"
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1144",
@@ -7983,7 +8092,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-diy-full-kit-caged-version.html"
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1145",
@@ -8057,7 +8167,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-diy-arf-kit-caged-version.html"
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1146",
@@ -8131,7 +8242,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-x8-5-cinelifter-frame-kit-ducted-version.html"
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1147",
@@ -8197,14 +8309,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-feather-5-ultralight-frame-kit-short-nose.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1148",
@@ -8270,14 +8383,15 @@
     "schema_data": {
       "weight_g": 99
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-feather-5-ultralight-frame-kit-long-nose.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1150",
@@ -8343,14 +8457,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-freerange-5-lr-freestyle-hd-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1151",
@@ -8416,14 +8531,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apexdc-fpv-frame-mr-steele-edition.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1153",
@@ -8489,14 +8605,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apexdc-fpv-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1154",
@@ -8569,7 +8686,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tcmmrc-fpv-avengers-dji-225hd-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1155",
@@ -8642,7 +8760,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/skystars-star-lord-228-5-arf-drone-kit-6s.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1156",
@@ -8715,7 +8834,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/litehawk-positonhold-rfd900.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1157",
@@ -8786,7 +8906,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-sloop-v3-7-frame.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1158",
@@ -8859,7 +8980,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-frame-5-6-7.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1159",
@@ -8925,14 +9047,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-stallion-5-frame-kit-true-x.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1160",
@@ -8998,14 +9121,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-stallion-5-frame-kit-compact-x.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1163",
@@ -9078,7 +9202,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-v2-fpv-drone-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1165",
@@ -9151,7 +9276,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/aos-rc-freestyle-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1170",
@@ -9224,7 +9350,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-v2-frame-kit-hd.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1171",
@@ -9297,7 +9424,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-v2-frame-kit-analog.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1177",
@@ -9370,7 +9498,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-l5-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1178",
@@ -9443,7 +9572,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-l5-5-front-arm-1pc.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1179",
@@ -9509,14 +9639,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/camera-butter-cinema-one-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1180",
@@ -9582,14 +9713,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-micro-apex-5-arm-set-4pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1181",
@@ -9663,7 +9795,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-chimera5-deadcat-5-lr-fpv-frame-kit-dji.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1182",
@@ -9736,7 +9869,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-5-joshua-bardwell-se-replacement-horned-arms-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1184",
@@ -9809,7 +9943,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-cricket-fpv-moongoat-replacement-shoulder-bolts-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1189",
@@ -9882,7 +10017,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-cricket-fpv-moongoat-hardware-pack.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1193",
@@ -9955,7 +10091,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-5-freestyle-quadcopter-frame-joshua-bardwell-special-edition.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1198",
@@ -10028,7 +10165,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-fs225-v2-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1199",
@@ -10101,7 +10239,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/zbroy-prometheus-5-titanium-head-detail.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1203",
@@ -10167,14 +10306,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-stingy-v2-5-frame-w-hd-dji-conversion-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1204",
@@ -10240,14 +10380,15 @@
     "schema_data": {
       "weight_g": 108
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-5-injected-udp-propeller-guards-basic-conversion-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1205",
@@ -10313,14 +10454,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-5-injected-udp-propeller-guards-full-conversion-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1206",
@@ -10386,14 +10528,15 @@
     "schema_data": {
       "weight_g": 104
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/bqe-botafx-banger-5-6mm-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1207",
@@ -10459,14 +10602,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-stingy-v2-forged-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1208",
@@ -10532,14 +10676,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-stingy-v2-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1209",
@@ -10605,14 +10750,15 @@
     "schema_data": {
       "weight_g": 96
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-stingy-v2-hd-dji-conversion-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1212",
@@ -10678,14 +10824,15 @@
     "schema_data": {
       "weight_g": 108
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-5-arms-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1214",
@@ -10751,14 +10898,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-5-airframe.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1215",
@@ -10832,7 +10980,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreakstyle-slam-freestyle-quadcopter-frame-kit.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1216",
@@ -10898,14 +11047,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-blastr-v2-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1218",
@@ -10979,7 +11129,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreakstyle-freestyle-quadcopter-frame-kit.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1222",
@@ -11052,7 +11203,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-air-unit-mount.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1224",
@@ -11125,7 +11277,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/rekon-fpv-rekon5-5-mini-lr-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1225",
@@ -11198,7 +11351,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-gps-mount.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1226",
@@ -11271,7 +11425,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-wind5-lite-true-x-racing-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1227",
@@ -11344,7 +11499,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-hd-sma-antenna-mount.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1228",
@@ -11417,7 +11573,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-sma-antenna-mount.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1229",
@@ -11490,7 +11647,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-x-plate-arm-wedges.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1230",
@@ -11563,7 +11721,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-split-plate-top.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1231",
@@ -11636,7 +11795,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5mm-arm-for-5.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1232",
@@ -11709,7 +11869,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-aluminum-camera-side-plates-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1238",
@@ -11782,7 +11943,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-s-5-freestyle-quadcopter-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1239",
@@ -11855,7 +12017,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1240",
@@ -11928,7 +12091,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-roma-f5-5-hd-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1241",
@@ -12001,7 +12165,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-vista-mounting-kit-for-sloop-v3.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1242",
@@ -12067,14 +12232,15 @@
     "schema_data": {
       "weight_g": 108
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-cine-bird-xl-5-fpv-frame-kit-w-gopro-max-mount-invisible.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1243",
@@ -12140,14 +12306,15 @@
     "schema_data": {
       "weight_g": 103
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/stan-fpv-cine-bird-xl-5-fpv-frame-kit-w-insta360-one-r-mount-invisible.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1244",
@@ -12220,7 +12387,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/brotherhobby-hyperbola-501-5-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1245",
@@ -12293,7 +12461,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hglrc-sector-5-6-7-v3-hd-freestyle-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1247",
@@ -12360,14 +12529,15 @@
     "schema_data": {
       "weight_g": 99
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-f3lx-true-x-racing-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1248",
@@ -12433,14 +12603,15 @@
     "schema_data": {
       "weight_g": 95
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-f3lx-replacement-5-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1249",
@@ -12506,14 +12677,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-f3lx-replacement-aluminum-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1250",
@@ -12579,14 +12751,15 @@
     "schema_data": {
       "weight_g": 98
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-hardware-pack-for-floss-3-0-lite-f3lx.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1253",
@@ -12652,14 +12825,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/fpvcrate-stark-camera-side-plate-2pcs.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1254",
@@ -12732,7 +12906,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-hook-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1255",
@@ -12805,7 +12980,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-gep-mark4-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1256",
@@ -12878,7 +13054,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flywoo-mr-croc-5-hd-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1257",
@@ -12952,7 +13129,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-blue-hornet-arm-5.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1258",
@@ -13026,7 +13204,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-blue-hornet-fpv-freestyle-quadcopter-frame.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1259",
@@ -13100,7 +13279,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/dummy-frame.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1260",
@@ -13167,7 +13347,7 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
@@ -13175,7 +13355,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/zeez-design-capish-5-5-racing-frame-kit.html"
     ],
     "ndaa_note": "Zeez Design, Australia. Allied nation. NDAA status not formally documented \u2014 verify supply chain per SKU.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1261",
@@ -13248,7 +13429,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/geprc-mark4-hd5-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1263",
@@ -13314,14 +13496,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-marmotte-tail-post-aluminum-1pc.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1264",
@@ -13387,14 +13570,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/the-phat-ultralight-fpv-racing-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1265",
@@ -13467,7 +13651,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-5-freestyle-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1266",
@@ -13533,14 +13718,15 @@
     "schema_data": {
       "weight_g": 95
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-badger-dji-edition-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1267",
@@ -13606,14 +13792,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-badger-dji-edition-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1268",
@@ -13686,7 +13873,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-stacked-fixed-board.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1269",
@@ -13759,7 +13947,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-flight-control-bottom-20mm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1270",
@@ -13832,7 +14021,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/diatone-gt-x549-exorcist-flight-control-bottom-30-5mm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1271",
@@ -13898,14 +14088,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-5-hd-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1275",
@@ -13978,7 +14169,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-slam-skitzo-freestyle-5-quadcopter-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1280",
@@ -14051,7 +14243,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/flywoo-mr-croc-sl-5-225mm-freestyle-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1281",
@@ -14125,7 +14318,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreakstyle-main-plate.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1283",
@@ -14191,14 +14385,15 @@
     "schema_data": {
       "weight_g": 90
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-badger-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1284",
@@ -14264,14 +14459,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-badger-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1285",
@@ -14337,14 +14533,15 @@
     "schema_data": {
       "weight_g": 96
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-stardust-sb5-pro-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1286",
@@ -14417,7 +14614,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-stardust-sb5-race-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1287",
@@ -14483,14 +14681,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-x5-freestyle-johnny-fpv-v2-j5-5inch-edition-full-plastic-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1288",
@@ -14556,14 +14755,15 @@
     "schema_data": {
       "weight_g": 90
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-x5-freestyle-johnny-fpv-v2-j5-5inch-edition.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1290",
@@ -14630,14 +14830,15 @@
     "schema_data": {
       "weight_g": 90
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/armattan-marmotte-5-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1292",
@@ -14704,14 +14905,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-aero-sl5-truex-rear-arms.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1293",
@@ -14777,14 +14979,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-sl5-v2-main-aero-pod-v2-mount-yellow-8442.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1294",
@@ -14850,14 +15053,15 @@
     "schema_data": {
       "weight_g": 100
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-aero-sl5-hardware-and-silicone-parts-set.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1295",
@@ -14923,14 +15127,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-sl5-v2-main-aero-pod-v2-mount-red.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1296",
@@ -14996,14 +15201,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-sl5-v2-main-aero-pod-v2-mount-yellow.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1297",
@@ -15070,14 +15276,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-aero-sl5-truex-front-arms.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1298",
@@ -15143,14 +15350,15 @@
     "schema_data": {
       "weight_g": 108
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-sl5-v2-main-aero-pod-v2-mount-green.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1299",
@@ -15216,14 +15424,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/replacement-7075-aluminum-plate-for-floss-3-0.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1300",
@@ -15289,14 +15498,15 @@
     "schema_data": {
       "weight_g": 108
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/hyperlite-floss-3-0-race-frame-5-inch.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1301",
@@ -15362,14 +15572,15 @@
     "schema_data": {
       "weight_g": 106
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/replacement-5-floss-3-0-arm.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1302",
@@ -15442,7 +15653,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav-r-2-slam-main-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1303",
@@ -15515,7 +15727,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-qav-r-2-slam-freestyle-quadcopter-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1305",
@@ -15589,7 +15802,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreak-5-arm.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1306",
@@ -15663,7 +15877,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xilo-phreak-main-plate.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1307",
@@ -15729,14 +15944,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/menace-fizix-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1310",
@@ -15810,7 +16026,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/holybro-kopis-2-5-arms-set-of-2.html"
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1312",
@@ -15876,14 +16093,15 @@
     "schema_data": {
       "weight_g": 90
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-reverb-body-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1313",
@@ -15949,14 +16167,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-reverb-5-arm-set-4-pack.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1314",
@@ -16022,14 +16241,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/skitzo-nova-sticker-set.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1316",
@@ -16102,7 +16322,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/pirat-sloop-v3-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1317",
@@ -16177,7 +16398,8 @@
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/leviathan-stretch-x-arms.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1318",
@@ -16250,7 +16472,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav-codered-vtx-plate.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1320",
@@ -16321,7 +16544,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav-defender-wide-body-6-quadcopter-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1322",
@@ -16387,14 +16611,15 @@
     "schema_data": {
       "weight_g": 96
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/xhover-r5lx.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1323",
@@ -16467,7 +16692,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/qav250-cover-plate-for-gopro-cf.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1324",
@@ -16540,7 +16766,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/iflight-nazgul-xl5-eco-v1-1-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1325",
@@ -16606,14 +16833,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apexdc-evo-5-fpv-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1326",
@@ -16679,14 +16907,15 @@
     "schema_data": {
       "weight_g": 95
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-5-arm-set-4-pack.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1327",
@@ -16760,7 +16989,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/speedybee-mario-5-frame-kit-xh-o4-advanced.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1328",
@@ -16833,7 +17063,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/tbs-oblivion-frame-set.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1332",
@@ -16906,7 +17137,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/axisflying-manta5-5-freestyle-true-x-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "FRM-1333",
@@ -16972,14 +17204,15 @@
     "schema_data": {
       "weight_g": 105
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/falcon-multirotors-bannilite-5-frame.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1335",
@@ -17045,14 +17278,15 @@
     "schema_data": {
       "weight_g": 103
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/astrox-aero-sl5-camera-mount-set.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1336",
@@ -17125,7 +17359,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/lumenier-anti-vibration-foam-wedge-for-hd-camera-w-3m-sticky-mount.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1337",
@@ -17198,7 +17433,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-cricket-fpv-moongoat-5-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1341",
@@ -17271,7 +17507,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/ummagawd-remix-fpv-freestyle-frame-v2.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1342",
@@ -17337,14 +17574,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/5-quad-frames/impulserc-apex-5-base-frame-kit.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1343",
@@ -17415,7 +17653,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hglrc-my7-7-lr-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1344",
@@ -17487,7 +17726,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hglrc-my10-10-lr-frame-kit.html"
     ],
-    "weight_g": 220
+    "weight_g": 220,
+    "origin": "China"
   },
   {
     "pid": "FRM-1345",
@@ -17558,7 +17798,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-mega-whoop-7-cinequads-edition-bundle.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1346",
@@ -17629,7 +17870,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/aos-rc-7-v5-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1347",
@@ -17700,7 +17942,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/aos-rc-ul7-v5-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1348",
@@ -17771,7 +18014,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-helion-10-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1349",
@@ -17844,7 +18088,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-evoque-f6-v2-dji-o4-pro-frame-kit-deadcat.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1350",
@@ -17917,7 +18162,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-chimera7-pro-v2-7-5-lr-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1351",
@@ -17989,7 +18235,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-centurion-x8-8-frame-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "China"
   },
   {
     "pid": "FRM-1352",
@@ -18060,7 +18307,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/rekon-fpv-rekon10-pro-front-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1353",
@@ -18131,7 +18379,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/rekon-fpv-rekon10-pro-rear-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1361",
@@ -18202,7 +18451,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-7-arm-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1362",
@@ -18274,7 +18524,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/rekon-fpv-rekon10-pro-long-range-frame-kit-10.html"
     ],
-    "weight_g": 220
+    "weight_g": 220,
+    "origin": "China"
   },
   {
     "pid": "FRM-1363",
@@ -18345,7 +18596,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-7-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1365",
@@ -18416,7 +18668,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-mega-whoop-7-cinequads-edition-x8-upgrade-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1366",
@@ -18487,7 +18740,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-mega-whoop-cinequads-edition-7-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1367",
@@ -18558,7 +18812,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-crocodile75-v3-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1369",
@@ -18630,7 +18885,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-bob57-o3-ellis-van-jason-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1372",
@@ -18701,7 +18957,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-mk5d-lr-7-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1373",
@@ -18765,14 +19022,15 @@
     "schema_data": {
       "weight_g": 103
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 49,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/impulserc-apexlr-evo-7-fpv-frame-kit-mr-steele-version.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1375",
@@ -18836,14 +19094,15 @@
     "schema_data": {
       "weight_g": 103
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 38,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-landing-plate.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1376",
@@ -18907,14 +19166,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-universal-camera-bracket-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1377",
@@ -18978,14 +19238,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-komodo-camera-bracket-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1378",
@@ -19049,14 +19310,15 @@
     "schema_data": {
       "weight_g": 109
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 39,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-arm-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1379",
@@ -19120,14 +19382,15 @@
     "schema_data": {
       "weight_g": 109
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-anchor-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1380",
@@ -19199,7 +19462,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-lifter-cinequads-edition-drone-frame-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1381",
@@ -19271,7 +19535,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-lifter-cinequads-edition-arm-riser-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1382",
@@ -19343,7 +19608,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-pro-lifter-cinequads-edition-arm-joiner-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1387",
@@ -19414,7 +19680,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5mm-front-arm-for-6.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1388",
@@ -19485,7 +19752,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5mm-back-arm-for-6.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1389",
@@ -19557,7 +19825,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-6-deadcat-front-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1390",
@@ -19629,7 +19898,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-6-deadcat-rear-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1392",
@@ -19700,7 +19970,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-rxl-2-6mm-arm-8.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1399",
@@ -19771,7 +20042,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/qav-r-2-7-arm-5mm.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1405",
@@ -19843,7 +20115,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-rxl-2-10-fpv-quadcopter-frame.html"
     ],
-    "weight_g": 220
+    "weight_g": 220,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1407",
@@ -19915,7 +20188,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-rxl-2-8-fpv-quadcopter-frame.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1408",
@@ -19986,7 +20260,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-xl10-v6-10-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1409",
@@ -20057,7 +20332,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-ef-10-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1410",
@@ -20128,7 +20404,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-pulsar-lr10-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1411",
@@ -20199,7 +20476,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-moz7-front-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1412",
@@ -20263,14 +20541,15 @@
     "schema_data": {
       "weight_g": 91
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 34,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/deepspace-roc7-lr-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1413",
@@ -20342,7 +20621,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/flyfishrc-volador-vx6-o4-pro-freestyle-frame-kit-black.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1414",
@@ -20413,7 +20693,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2c-quadcopter-frame-7.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1415",
@@ -20484,7 +20765,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-2-johnnyfpv-se-7-bundle.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1416",
@@ -20555,7 +20837,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/foxeer-aura-8-lr-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1417",
@@ -20626,7 +20909,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/foxeer-aura-10-lr-frame.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1418",
@@ -20697,7 +20981,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-moz7-rear-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1419",
@@ -20769,7 +21054,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/tbs-source-one-v5-7-long-range-frame-deadcat.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1420",
@@ -20840,7 +21126,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-pulsar-lr9-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1422",
@@ -20904,14 +21191,15 @@
     "schema_data": {
       "weight_g": 98
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 43,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/impulserc-apexlr-evo-7-fpv-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1425",
@@ -20983,7 +21271,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-taurus-x8-v3-8-cinelifter-drone-frame-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "China"
   },
   {
     "pid": "FRM-1426",
@@ -21047,14 +21336,15 @@
     "schema_data": {
       "weight_g": 101
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/johnnyfpv-banshee-8-cinema-drone-battery-plate.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1427",
@@ -21126,7 +21416,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-evoque-f6-long-range-frame-kit-f6d-deadcat.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1428",
@@ -21197,7 +21488,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-nazgul-evoque-f6-long-range-frame-kit-f6x-squashed-x.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1429",
@@ -21268,7 +21560,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/diatone-roma-f7-7-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1431",
@@ -21339,7 +21632,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/dummy-frame-10327.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1435",
@@ -21403,14 +21697,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 40,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/onwardfpv-r4la-7-injection-molded-frame-kit-v2.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1437",
@@ -21474,14 +21769,15 @@
     "schema_data": {
       "weight_g": 99
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 41,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/camera-butter-cinema-one-7-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1438",
@@ -21553,7 +21849,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-taurus-v2-x8-hd-8-cinelifter-drone-frame-kit.html"
     ],
-    "weight_g": 160
+    "weight_g": 160,
+    "origin": "China"
   },
   {
     "pid": "FRM-1439",
@@ -21617,14 +21914,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 47,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/onwardfpv-r4la-7-injection-molded-frame-kit-v1.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1440",
@@ -21688,14 +21986,15 @@
     "schema_data": {
       "weight_g": 96
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 44,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/onwardfpv-r4la-7-injection-molded-top-cover.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1441",
@@ -21759,14 +22058,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 45,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/onwardfpv-r4la-7-bottom-cover.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1442",
@@ -21837,7 +22137,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-xl-series-v5-frame-kit-7-8-10.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1444",
@@ -21901,14 +22202,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 47,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/tbs-source-aureo-7-ultralight-frame.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1445",
@@ -21972,14 +22274,15 @@
     "schema_data": {
       "weight_g": 96
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/xhover-blastr-v2-6-arms-2pcs.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1448",
@@ -22050,7 +22353,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5mm-front-arm-for-7.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1449",
@@ -22121,7 +22425,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-s-johnnyfpv-special-edition-5mm-back-arm-for-7.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1450",
@@ -22192,7 +22497,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/brotherhobby-hyperbola-701-7-fpv-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1451",
@@ -22256,14 +22562,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 44,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/hyperlite-floss-3-0-lite-replacement-7-arm-slotted-mounting-holes.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1454",
@@ -22334,7 +22641,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/flywoo-mr-croc-6-arm-1pc.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1455",
@@ -22406,7 +22714,8 @@
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/xilo-blue-hornet-arm-7.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1457",
@@ -22478,7 +22787,8 @@
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/dummy-frame.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1458",
@@ -22550,7 +22860,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-7-deadcat-front-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1459",
@@ -22622,7 +22933,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-7-deadcat-rear-arm.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1460",
@@ -22694,7 +23006,8 @@
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/xilo-phreakstyle-arm-6.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1461",
@@ -22765,7 +23078,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-ixc15-950mm-x-class-racing-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-1462",
@@ -22836,7 +23150,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/iflight-titan-dc7-hd-freestyle-7-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1469",
@@ -22900,14 +23215,15 @@
     "schema_data": {
       "weight_g": 107
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 36,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/armattan-badger-6-frame.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1471",
@@ -22971,14 +23287,15 @@
     "schema_data": {
       "weight_g": 102
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 45,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/tbs-source-one-v0-2-7-inch-arms-set-of-4.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Germany"
   },
   {
     "pid": "FRM-1475",
@@ -23049,7 +23366,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/lumenier-qav-r-2-slam-freestyle-quadcopter-frame-6.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1478",
@@ -23113,14 +23431,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 38,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/remix-6-5mm-arm-conversion-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1479",
@@ -23184,14 +23503,15 @@
     "schema_data": {
       "weight_g": 100
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 35,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/impulserc-reverb-6-arm-set-4-pack.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1481",
@@ -23255,14 +23575,15 @@
     "schema_data": {
       "weight_g": 93
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 41,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/impulserc-reverb-7-arm-set-4-pack.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1482",
@@ -23326,14 +23647,15 @@
     "schema_data": {
       "weight_g": 97
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 30,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/armattan-chameleon-ti-6-frame.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1484",
@@ -23405,7 +23727,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-mark4-10-frame-kit.html"
     ],
-    "weight_g": 3000.0
+    "weight_g": 3000.0,
+    "origin": "China"
   },
   {
     "pid": "FRM-1485",
@@ -23477,7 +23800,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/axisflying-kolas-7-long-range-7-foldable-frame-kit-dji-o3.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1486",
@@ -23541,14 +23865,15 @@
     "schema_data": {
       "weight_g": 94
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 36,
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/armattan-rooster-6-fpv-frame.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "USA"
   },
   {
     "pid": "FRM-1488",
@@ -23619,7 +23944,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/geprc-moz7-long-range-7-frame-kit.html"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "China"
   },
   {
     "pid": "FRM-1489",
@@ -23690,7 +24016,8 @@
     "links": [
       "https://www.getfpv.com/multi-rotor-frames/6-quad-frames/aos-rc-ul7-evo-frame-kit.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "FRM-UA-\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e-KHARAK-7.2",
@@ -23719,11 +24046,12 @@
     ],
     "approx_price": 29.76,
     "description": "Frame kit by \u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e\u041d\u0422\u0410\u041a\u0422. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 29.76,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-\u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e-KHARAK-8.2",
@@ -23752,11 +24080,12 @@
     ],
     "approx_price": 33.66,
     "description": "Frame kit by \u0423\u041b\u042c\u0422\u0420\u0410\u041a\u041e\u041d\u0422\u0410\u041a\u0422. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 33.66,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-DRONE-FR-KARMA-10",
@@ -23785,11 +24114,12 @@
     ],
     "approx_price": 12.2,
     "description": "Frame kit by DRONE FRAMES. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 12.2,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-DRONE-FR-KARMA-8",
@@ -23818,11 +24148,12 @@
     ],
     "approx_price": 10.98,
     "description": "Frame kit by DRONE FRAMES. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 10.98,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-DRONE-FR-KARMA-7",
@@ -23851,11 +24182,12 @@
     ],
     "approx_price": 9.76,
     "description": "Frame kit by DRONE FRAMES. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 9.76,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-FiberFor-7-\u0434\u044e\u0439\u043c\u0456\u0432",
@@ -23888,7 +24220,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21.1,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-FiberFor-\u041e.\u0421.\u0410---7",
@@ -23921,7 +24254,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 30.49,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-FiberFor-10-\u0434\u044e\u0439\u043c\u0456\u0432",
@@ -23954,7 +24288,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 47.56,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-FiberFor-10-\u0434\u044e\u0439\u043c\u0456\u0432-V2",
@@ -23987,7 +24322,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 51.22,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-FiberFor-13-\u0434\u044e\u0439\u043c\u0456\u0432",
@@ -24020,7 +24356,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 58.54,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-FiberFor-13-15-\u0434\u044e\u0439\u043c\u0456\u0432",
@@ -24053,7 +24390,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 109.76,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Australia"
   },
   {
     "pid": "FRM-UA-PROP-UA-10''",
@@ -24086,7 +24424,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 12.2,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "Ukraine"
   },
   {
     "pid": "FRM-UA-LEADER-T-LT10",
@@ -24119,7 +24458,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 56.07,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "USA"
   },
   {
     "pid": "FRM-UA-\u041c\u0410\u0413\u0423\u0420\u0410-\u0410\u043c\u0430\u0433\u0430-7",
@@ -24148,11 +24488,12 @@
     ],
     "approx_price": 22.44,
     "description": "Frame kit by \u041c\u0410\u0413\u0423\u0420\u0410. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22.44,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-\u041c\u0410\u0413\u0423\u0420\u0410-\u0410\u043c\u0430\u0433\u0430-8",
@@ -24181,11 +24522,12 @@
     ],
     "approx_price": 22.8,
     "description": "Frame kit by \u041c\u0410\u0413\u0423\u0420\u0410. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22.8,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-UDC-Mark4-7",
@@ -24218,7 +24560,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 14.63,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Ukraine"
   },
   {
     "pid": "FRM-UA-UDC-Mark4-10",
@@ -24251,7 +24594,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 29.27,
-    "weight_g": 250
+    "weight_g": 250,
+    "origin": "Ukraine"
   },
   {
     "pid": "FRM-UA-FT-13\u201d-Heavy-Li",
@@ -24280,11 +24624,12 @@
     ],
     "approx_price": 221.41,
     "description": "Frame kit by. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 221.41,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-FT-13\u201d-Heavy-Li",
@@ -24313,11 +24658,12 @@
     ],
     "approx_price": 167.71,
     "description": "Frame kit by. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 167.71,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-FT-15\u201d-Heavy-Li",
@@ -24346,11 +24692,12 @@
     ],
     "approx_price": 131.27,
     "description": "Frame kit by. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 131.27,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-FT-18\u201d-Heavy-Li",
@@ -24379,11 +24726,12 @@
     ],
     "approx_price": 154.98,
     "description": "Frame kit by. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 154.98,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-UA-FT-21\u201d-Heavy-Li",
@@ -24412,11 +24760,12 @@
     ],
     "approx_price": 168.29,
     "description": "Frame kit by. \" class. mm arms. construction.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 168.29,
-    "weight_g": 350
+    "weight_g": 350,
+    "origin": "Unknown"
   },
   {
     "pid": "FRM-1355",

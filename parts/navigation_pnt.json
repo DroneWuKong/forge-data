@@ -43,8 +43,9 @@
     "links": [
       "https://www.sbg-systems.com/defense/uav-unmanned-aerial-vehicles-navigation-defense/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0002",
@@ -107,7 +108,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
-    "weight_g": 100
+    "weight_g": 100,
+    "origin": "USA"
   },
   {
     "pid": "PNT-0003",
@@ -149,7 +151,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "PNT-0004",
@@ -188,9 +191,10 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
-    "weight_g": 495
+    "weight_g": 495,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0005",
@@ -232,9 +236,10 @@
     "links": [
       "https://aerospace.honeywell.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Honeywell International, Charlotte NC. Major US aerospace/defense (NASDAQ: HON). NDAA compliant.",
-    "weight_g": 100
+    "weight_g": 100,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0006",
@@ -277,9 +282,10 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0007",
@@ -321,9 +327,10 @@
     "links": [
       "https://q-ctrl.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Q-CTRL, Sydney, Australia. Allied-nation NDAA compliant. Quantum sensing/navigation.",
-    "weight_g": 50
+    "weight_g": 50,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0008",
@@ -376,7 +383,8 @@
       "https://www.modalai.com/pages/vio-drone"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant."
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "PNT-0009",
@@ -417,9 +425,10 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0010",
@@ -461,9 +470,10 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
-    "weight_g": 100
+    "weight_g": 100,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0011",
@@ -509,9 +519,10 @@
     "links": [
       "https://www.teledynemarine.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Teledyne Marine, part of Teledyne Technologies (NYSE: TDY). US company. NDAA compliant.",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Unknown"
   },
   {
     "pid": "PNT-0012",
@@ -550,8 +561,9 @@
     "links": [
       "https://www.anellophotonics.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Anello Photonics, Santa Clara CA. US photonic IMU. NDAA compliant. DARPA-funded.",
-    "weight_g": 100
+    "weight_g": 100,
+    "origin": "Unknown"
   }
 ]

@@ -64,7 +64,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1001",
@@ -130,7 +131,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hglrc-60a-v1-2-6s-blheli-s-4-in-1-esc-30-5x30-5.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1002",
@@ -195,7 +197,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1003",
@@ -260,7 +263,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/fettec-sfoc-50a-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1004",
@@ -326,7 +330,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-mini-razor-pro-45a-2-6s-am32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1005",
@@ -394,7 +399,7 @@
       "wiring_notes": "Designed to stack with Orqa QuadCore H7 or 3030 Lite F405. 8-pin connector: M1-M4 signal + CURR + VBAT + GND + ESC telemetry TX. Ribbon cable or solder."
     },
     "continuous_current_a": 70,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 79.99,
@@ -402,7 +407,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/orqa-3030-70a-3-6s-blheli-32-4-in-1-esc-ndaa.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Croatia"
   },
   {
     "pid": "ESC-1006",
@@ -468,7 +474,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/iflight-borg-60rs-60a-4-8s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1007",
@@ -534,7 +541,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-siege-80a-3-8s-am32-4-in-1-esc-ndaa.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1008",
@@ -601,7 +609,8 @@
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "ESC-1009",
@@ -667,7 +676,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hobbywing-xrotor-g2-micro-65a-6s-am32-4-in-1-esc-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1010",
@@ -734,7 +744,8 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1011",
@@ -792,7 +803,7 @@
       "weight_g": 12
     },
     "continuous_current_a": 90,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 48,
@@ -800,7 +811,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/tbs-lucid-90a-3-12s-am32-esc-ndaa.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1012",
@@ -864,7 +876,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/darwinfpv-cement-100a-3-8s-32bit-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "ESC-1013",
@@ -930,7 +943,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-elite-pro-100a-v2-6-12s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1014",
@@ -996,7 +1010,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/tbs-lucid-60a-3-6s-am-32-4-in-1-esc-gorilla-39x16.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1015",
@@ -1062,7 +1077,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/aikon-ak32pro-ii-50a-2-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1016",
@@ -1120,7 +1136,7 @@
       "weight_g": 12
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 47,
@@ -1129,7 +1145,8 @@
     ],
     "ndaa_note": "Zeez Design, Australia. Allied nation. NDAA status not formally documented \u2014 verify supply chain per SKU.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1017",
@@ -1187,7 +1204,7 @@
       "weight_g": 13
     },
     "continuous_current_a": 60,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 45,
@@ -1195,7 +1212,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/tbs-lucid-60a-3-8s-am32-4-in-1-esc-ndaa.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1018",
@@ -1261,7 +1279,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-elite-pro-60a-2-6s-am32-4-in-1-esc-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1019",
@@ -1327,7 +1346,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-ko25-25a-blheli-s-3-6s-4-in-1-esc-mini-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1020",
@@ -1393,7 +1413,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hakrc-aio-board-brushless-f722-fc-40a-2-6s-blheli-s-esc-w-external-usb.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 7.0
+    "weight_g": 7.0,
+    "origin": "China"
   },
   {
     "pid": "ESC-1021",
@@ -1459,7 +1480,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-kramam-60a-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1022",
@@ -1526,7 +1548,8 @@
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "ESC-1023",
@@ -1584,7 +1607,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/happymodel-crazybee-f4-lite-1s-whoop-flight-controller-frsky.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "ESC-1024",
@@ -1650,7 +1674,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-km55-55a-am-32-3-6s-4-in-1-esc-mini-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1025",
@@ -1715,7 +1740,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-f4-v1-2-3-6s-bheli-32-4-in-1-128k-esc-45a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1026",
@@ -1779,7 +1805,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/iflight-blitz-e80-pro-g2-80a-4-in-1-blheli-32-esc-35x35-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "ESC-1027",
@@ -1844,7 +1871,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-f4-v1-1-3-8s-bheli-32-4-in-1-128k-esc-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1028",
@@ -1910,7 +1938,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/tbs-lucid-60a-8s-am32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1029",
@@ -1950,7 +1979,8 @@
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1030",
@@ -2016,7 +2046,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-p60a-v2-3-6s-dshot2400-4-in-1-blheli-32-128k-esc-30-5x30-5.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1031",
@@ -2082,7 +2113,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/axisflying-argus-pro-65a-3-6s-blheli-32-4-in-1-esc-w-aluminum-box-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1032",
@@ -2148,7 +2180,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/axisflying-argus-pro-55a-3-6s-blheli-32-esc-w-aluminum-box-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1033",
@@ -2213,7 +2246,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/fettec-65a-3-8s-4-in-1-esc-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1034",
@@ -2279,7 +2313,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/rushfpv-rush-blade-60a-3-6s-am32-4-in-1-esc-extreme-edition-128k.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1035",
@@ -2345,7 +2380,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f66a-mini-66a-3-6s-blheli-32-4-in-1-esc-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "ESC-1036",
@@ -2411,7 +2447,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-bs-40a-blheli-s-2-6s-esc-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1037",
@@ -2475,7 +2512,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-kramam-pro-35a-blheli-32-4-in-1-esc-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1038",
@@ -2541,7 +2579,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/speedybee-50a-3-6s-blheli-s-4-in-1-esc-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1039",
@@ -2607,7 +2646,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/rushfpv-rush-blade-60a-3-6s-blheli-32-4-in-1-esc-extreme-edition-30x30.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1040",
@@ -2673,7 +2713,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/rushfpv-rush-blade-mini-60a-3-6s-blheli-32-4-in-1-esc-racing-edition-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1041",
@@ -2731,7 +2772,7 @@
       "weight_g": 13
     },
     "continuous_current_a": 55,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 45,
@@ -2740,7 +2781,8 @@
     ],
     "ndaa_note": "Zeez Design, Australia. Allied nation. NDAA status not formally documented \u2014 verify supply chain per SKU.",
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1042",
@@ -2805,7 +2847,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-velox-lite-v45a-3-6s-blhelis-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1043",
@@ -2868,7 +2911,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1044",
@@ -2933,7 +2977,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-128k-3-8s-bl32-4-in-1-20x20-esc-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1045",
@@ -2999,7 +3044,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hglrc-zeus-50a-pro-3-8s-4-in-1-blheli-s-esc-mini-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1046",
@@ -3062,7 +3108,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-aio-board-gsf405a-f4-fc-5a-1-2s-esc-w-built-in-elrs-2-4ghz-receiver.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 3.3
+    "weight_g": 3.3,
+    "origin": "China"
   },
   {
     "pid": "ESC-1047",
@@ -3128,7 +3175,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-kramam-50a-pro-3-6s-am-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1048",
@@ -3194,7 +3242,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-mini-128k-6s-blheli-32-4-in-1-esc-f40-40a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1049",
@@ -3260,7 +3309,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-128k-3-6s-blheli-32-4-in-1-esc-f65-65a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1050",
@@ -3326,7 +3376,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-128k-3-6s-blheli-32-4-in-1-esc-f45-45a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1051",
@@ -3392,7 +3443,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-128k-3-6s-blheli-32-4-in-1-esc-f55-55a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1052",
@@ -3458,7 +3510,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-f55-55a-6s-bls-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1053",
@@ -3524,7 +3577,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-velox-v50a-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1054",
@@ -3589,7 +3643,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1055",
@@ -3654,7 +3709,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-3-6s-bl32-4-in-1-20x20-esc-60a-14318.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1056",
@@ -3719,7 +3775,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-96k-3-6s-bl32-4-in-1-20x20-esc-45a-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1057",
@@ -3785,7 +3842,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-elite-pro-60a-2-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1058",
@@ -3850,7 +3908,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/iflight-beast-f7-v2-55a-aio-25-5x25-5mm-flight-controller-bmi270.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1059",
@@ -3916,7 +3975,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-f40-40a-6s-bls-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1060",
@@ -3980,7 +4040,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-mini-f40-40a-bls-dshot600-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1061",
@@ -4046,7 +4107,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-fpv-3-8s-65a-blheli-32-30x30-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1062",
@@ -4112,7 +4174,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-ghf405-pro-aio-f4-fc-45a-3-6s-blheli-s-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 7.2
+    "weight_g": 7.2,
+    "origin": "China"
   },
   {
     "pid": "ESC-1063",
@@ -4178,7 +4241,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-ghf405-pro-aio-f4-fc-25a-3-6s-blheli-s-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 7.2
+    "weight_g": 7.2,
+    "origin": "China"
   },
   {
     "pid": "ESC-1064",
@@ -4242,7 +4306,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hobbywing-xrotor-micro-combo-stack-f7-fc-60a-4-in-1-blheli-32-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1065",
@@ -4308,7 +4373,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-hd-aio-f7-fc-50a-blheli-32-2-6s-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1066",
@@ -4373,7 +4439,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-3-6s-bl32-4-in-1-20x20-esc-45a-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1067",
@@ -4438,7 +4505,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-3-6s-bl32-4-in-1-20x20-esc-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1068",
@@ -4504,7 +4572,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-4-in-1-3-6s-30x30-esc-blheli-32-45a-60a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1069",
@@ -4570,7 +4639,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-p50a-3-6s-blheli-32-4-in-1-esc-limited-edition.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1070",
@@ -4637,7 +4707,8 @@
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1071",
@@ -4703,7 +4774,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-is40-40a-3-6s-blheli-s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1072",
@@ -4767,7 +4839,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/flycolor-x-cross-mini-45a-3-6s-blheli32-4-in-1-20x20-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1073",
@@ -4832,7 +4905,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/foxeer-reaper-mini-3-6s-bl32-4-in-1-20x20-esc-45a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1074",
@@ -4898,7 +4972,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-velox-v45a-3-6s-blheli-32-4-in-1-esc-v2.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1075",
@@ -4964,7 +5039,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-turbo2020-km45-45a-blheli-32-3-6s-20x20-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1076",
@@ -5030,7 +5106,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-f7-hd-20x20-km55a-mini-3-6s-blheli-32-4-in-1-esc-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1077",
@@ -5096,7 +5173,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-fly-tower-mini-stack-f7-hd-fc-km40-40a-3-6s-blheli-32-4-in-1-esc-20x20.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1078",
@@ -5162,7 +5240,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-km35-35a-blheli-s-3-6s-20x20-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1079",
@@ -5226,7 +5305,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-mini-f45a-3-6s-32-bit-20x20-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1080",
@@ -5290,7 +5370,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-ghf411-pro-35a-blheli-s-3-6s-aio-whoop-flight-controller.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 7.3
+    "weight_g": 7.3,
+    "origin": "China"
   },
   {
     "pid": "ESC-1081",
@@ -5348,7 +5429,7 @@
       "weight_g": 18
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 44,
@@ -5357,7 +5438,8 @@
     ],
     "ndaa_note": "Zeez Design, Australia. Allied nation. NDAA status not formally documented \u2014 verify supply chain per SKU.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1082",
@@ -5423,7 +5505,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/dys-45a-2-6s-blheli-s-dshot-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1083",
@@ -5481,7 +5564,7 @@
       "weight_g": 21
     },
     "continuous_current_a": 40,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
@@ -5489,7 +5572,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/v-good-rc-aio-flight-controller-f7-osd-40a-6s-blheli32-esc-bec-curr-dji-black-box.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1086",
@@ -5552,7 +5636,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/rushfpv-rush-blade-f722-fc-50a-30x30-rush-tank-vtx-rush-pfb-stack-combo.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1087",
@@ -5618,7 +5703,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/rushfpv-rush-blade-50a-3-6s-blheli-32-4-in-1-esc-sport-edition.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1088",
@@ -5684,7 +5770,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/aikon-ak32pin-20x20-4-in-1-35a-6s-blheli32-esc-v2.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1089",
@@ -5750,7 +5837,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/jhemcu-55a-2-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1090",
@@ -5814,7 +5902,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hifionrc-f7-2-6s-25a-aio-fc-esc-toothpick-flight-controller.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1091",
@@ -5878,7 +5967,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hifionrc-f7-2-6s-45a-aio-fc-esc-toothpick-flight-controller.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1092",
@@ -5944,7 +6034,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-kramam-50a-3-6s-blheli-s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1093",
@@ -6010,7 +6101,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-turbo2020-km55a-mini-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1094",
@@ -6076,7 +6168,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-f7-ultimate-razor-led-55a-bundle.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1095",
@@ -6142,7 +6235,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-mini-f45a-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1096",
@@ -6208,7 +6302,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-cinematic-f30a-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1097",
@@ -6274,7 +6369,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-mini-f7-stack-f45a-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1098",
@@ -6338,7 +6434,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hglrc-forward-60a-3-6s-blheil32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1099",
@@ -6401,7 +6498,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/fettec-35a-20x20-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1100",
@@ -6463,7 +6561,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/happymodel-crazybee-f4-pro-v3-0-2-4s-aio-flight-controller-frsky.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 4
+    "weight_g": 4,
+    "origin": "China"
   },
   {
     "pid": "ESC-1101",
@@ -6525,7 +6624,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/happymodel-crazybee-f4-pro-v3-0-2-4s-aio-flight-controller-flysky.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 4
+    "weight_g": 4,
+    "origin": "China"
   },
   {
     "pid": "ESC-1102",
@@ -6591,7 +6691,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-razor-led-55a-4-in-1-f3-blheli-32-2-6s-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1104",
@@ -6657,7 +6758,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/flywoo-goku-406s-40a-blheli-32-2-6s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1105",
@@ -6723,7 +6825,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-p50a-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1106",
@@ -6789,7 +6892,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hakrc-45a-2-6s-blheli-s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1107",
@@ -6846,7 +6950,7 @@
       "weight_g": 9
     },
     "continuous_current_a": 46,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 48,
@@ -6854,7 +6958,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/fpvcrate-crater-46a-3-6s-blhelisuite32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1108",
@@ -6918,7 +7023,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/diatone-mamba-f405-dji-stack-f50pro-hv-50a-3-6s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1109",
@@ -6984,7 +7090,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-elite-60a-2-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1110",
@@ -7048,7 +7155,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1111",
@@ -7112,7 +7220,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-mini-pro-f7-20x20-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1112",
@@ -7176,7 +7285,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-lux-mini-f7-20x20-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1113",
@@ -7232,7 +7342,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/betafpv-beta85x-for-gopro-dsmx.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "ESC-1114",
@@ -7288,7 +7399,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/betafpv-2s-whoop-cable-pigtail-bt2-0-5pcs-10148.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "ESC-1115",
@@ -7354,7 +7466,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-gs40f-40a-3-6s-blheli32-4-in-1-mini-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1116",
@@ -7420,7 +7533,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f4-stack-f4-fc-f45a-v2-3-6s-blheli-32-4-in-1-esc-combo.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1117",
@@ -7485,7 +7599,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f4-f55a-v2-4-in-1-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1118",
@@ -7550,7 +7665,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-is35-4-in-1-mini-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1119",
@@ -7616,7 +7732,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hobbywing-xrotor-micro-60a-6s-4-in-1-blheli32-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1120",
@@ -7682,7 +7799,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-gs45-45a-3-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1121",
@@ -7749,7 +7867,8 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1122",
@@ -7787,7 +7906,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/iflight-succex-mini-f4-v2-35a-2-6s-blheli32-fly-tower-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1123",
@@ -7851,7 +7971,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1124",
@@ -7917,7 +8038,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/t-motor-f55a-pro-55a-3-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1125",
@@ -7975,7 +8097,7 @@
       "weight_g": 17
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 48,
@@ -7983,7 +8105,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/dalrc-rocket-45a-3-6s-blheli-32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1126",
@@ -8049,7 +8172,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-gs40-40a-2-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1127",
@@ -8113,7 +8237,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/xrotor-micro-45a-6s-4-in-1-esc-dshot1200.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1128",
@@ -8179,7 +8304,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-gs25-25a-4-in-1-2-4s-blheli-32-dshot-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1129",
@@ -8243,7 +8369,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/racerstar-special-anniversary-edition-35a-blheli-s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1130",
@@ -8301,7 +8428,8 @@
     ],
     "ndaa_note": "FlightOne, USA. US company. FC hardware origin unclear \u2014 verify per product.",
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1131",
@@ -8359,7 +8487,8 @@
     ],
     "ndaa_note": "FlightOne, USA. US company. FC hardware origin unclear \u2014 verify per product.",
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1132",
@@ -8425,7 +8554,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/spedix-gs35-35a-4-in-1-2-4s-blheli-32-dshot-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1133",
@@ -8489,7 +8619,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/dys-f30a-4-in-1-esc-blheli-s-dshot.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1134",
@@ -8553,7 +8684,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-blheli-s-35a-4-in-1-12v-5v-bec-dshot-esc-current-sensor.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1135",
@@ -8579,7 +8711,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 49,
@@ -8587,7 +8719,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/v-good-rc-arm-program-esc-card-a32-v4-0-w-led.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1136",
@@ -8653,7 +8786,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-4-in-1-3-6s-30x30-esc-blheli-s-ko55-55a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1137",
@@ -8699,7 +8833,7 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 46,
@@ -8707,7 +8841,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/kiss-fc-v2-32bit-flight-controller.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1138",
@@ -8763,7 +8898,7 @@
       "weight_g": 6
     },
     "continuous_current_a": 25,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 41,
@@ -8771,7 +8906,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/kiss-2-5s-25a-40a-limit-32bit-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1139",
@@ -8836,7 +8972,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/fettec-45a-3-6s-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ESC-1140",
@@ -8902,7 +9039,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hifionrc-60a-3-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1141",
@@ -8968,7 +9106,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/lumenier-mini-razor-pro-4in1-20x20-f3-blheli-32-45a-2-6s-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1142",
@@ -8994,7 +9133,7 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 46,
@@ -9002,7 +9141,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/heatsink-for-typhoon32-v2.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1143",
@@ -9066,7 +9206,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/flycolor-x-tower-f4-fc-40a-blheli32-4-in-1-esc-stack.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1144",
@@ -9129,7 +9270,8 @@
     ],
     "ndaa_note": "FlightOne, USA. US company. FC hardware origin unclear \u2014 verify per product.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1145",
@@ -9195,7 +9337,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/hakrc-35a-2-6s-blheli-s-20x20-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 12
+    "weight_g": 12,
+    "origin": "China"
   },
   {
     "pid": "ESC-1146",
@@ -9261,7 +9404,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/skystars-4-in-1-3-6s-30x30-esc-blheli-s-ko45-45a.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ESC-1147",
@@ -9327,7 +9471,8 @@
       "https://www.getfpv.com/electronics/electronic-speed-controllers-esc/4-in-1-esc-s/flycolor-x-cross-60a-3-6s-blheli32-4-in-1-esc.html"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ESC-1148",
@@ -9372,7 +9517,8 @@
     ],
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1149",
@@ -9408,7 +9554,7 @@
       "weight_g": 21
     },
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 40,
@@ -9416,7 +9562,8 @@
       "https://www.unusualmachines.com"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1150",
@@ -9451,7 +9598,7 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Australia",
     "price_usd": 54,
@@ -9459,7 +9606,8 @@
       "https://www.unmannedsystemstechnology.com/company/hargrave-technologies/"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 94.0
+    "weight_g": 94.0,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1151",
@@ -9495,7 +9643,7 @@
     "schema_data": {
       "weight_g": 19
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Australia",
     "price_usd": 40,
@@ -9503,7 +9651,8 @@
       "https://www.unmannedsystemstechnology.com/company/hargrave-technologies/"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 7
+    "weight_g": 7,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1152",
@@ -9546,7 +9695,8 @@
       "https://www.kdedirect.com/products/kde-uas75hvc"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1153",
@@ -9589,7 +9739,8 @@
       "https://www.vertiq.co/81-08-g2"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1154",
@@ -9623,7 +9774,7 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Unknown",
     "price_usd": 47,
@@ -9631,7 +9782,8 @@
       "https://simplexmotion.com/drone-motors/"
     ],
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -9661,12 +9813,13 @@
     "approx_price": 36.59,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 36.59,
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -9696,12 +9849,13 @@
     "approx_price": 38.78,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 38.78,
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-UA-603700-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a-v",
@@ -9731,12 +9885,13 @@
     "approx_price": 38.78,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 60,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 38.78,
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-UA-603700-\u0421\u0422\u0420\u0418\u0419-v1-8S/",
@@ -9767,12 +9922,13 @@
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 80,
     "cell_count_max": 8,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 62.93,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-UA-Flytex-ESC-65A",
@@ -9807,7 +9963,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 34.15,
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "India"
   },
   {
     "pid": "ESC-UA-DiFly-DF-ESC-50A-R",
@@ -9842,7 +9999,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 24.39,
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Ukraine"
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS50A-RE-6S",
@@ -9878,7 +10036,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 35.34,
     "interface": "DSHOT / PWM",
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ESC-UA-LEADER-T-BLS80A-RE-8S",
@@ -9914,7 +10073,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 60.95,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "USA"
   },
   {
     "pid": "ESC-UA-KaraFPV-Golden-4in1-",
@@ -9950,7 +10110,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 61.39,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Ukraine"
   },
   {
     "pid": "ESC-UA-Stingbee-Stellar-8bit",
@@ -9985,7 +10146,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 36.59,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Ukraine"
   },
   {
     "pid": "ESC-UA-SkyPulse-6-in-1-AM32-",
@@ -10021,7 +10183,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 79.44,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Ukraine"
   },
   {
     "pid": "ESC-UA-SkyPulse-GORO-AM32-12",
@@ -10056,7 +10219,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 71.95,
     "interface": "DSHOT / PWM",
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "Ukraine"
   },
   {
     "pid": "ESC-UA-FT-65A-4\u04321-6S-3",
@@ -10087,12 +10251,13 @@
     "description": "ESC by. A continuous. firmware. mounting.",
     "continuous_current_a": 65,
     "cell_count_max": 6,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 68.78,
     "interface": "DSHOT / PWM",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ESC-1155",
@@ -10147,7 +10312,8 @@
     ],
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
     "interface": "DSHOT / PWM",
-    "weight_g": 14.5
+    "weight_g": 14.5,
+    "origin": "USA"
   },
   {
     "pid": "ESC-1156",
@@ -10204,6 +10370,7 @@
     ],
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
     "interface": "DSHOT / PWM",
-    "weight_g": 24.0
+    "weight_g": 24.0,
+    "origin": "USA"
   }
 ]

@@ -87,7 +87,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1001",
@@ -166,7 +167,8 @@
       "https://persistentsystems.com/embedded-module/"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts."
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "origin": "USA"
   },
   {
     "pid": "MESH-1010",
@@ -224,7 +226,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1011",
@@ -281,7 +284,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1012",
@@ -334,7 +338,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1013",
@@ -395,7 +400,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1014",
@@ -453,7 +459,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1015",
@@ -517,7 +524,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-1020",
@@ -558,7 +566,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-2000",
@@ -595,7 +604,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-2001",
@@ -631,7 +641,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-3000",
@@ -671,7 +682,8 @@
     "ndaa_compliant": true,
     "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MESH-4000",
@@ -703,10 +715,11 @@
       "https://www.rajant.com/"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Rajant Corporation, Malvern PA. US kinetic mesh radio manufacturer. NDAA compliant. DoD/mining/enterprise deployments.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1013",
@@ -762,9 +775,10 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1014",
@@ -819,9 +833,10 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
-    "weight_g": 110.0
+    "weight_g": 110.0,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1015",
@@ -875,9 +890,10 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1016",
@@ -930,9 +946,10 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1017",
@@ -986,9 +1003,10 @@
       "https://www.creomagic.com"
     ],
     "manufacturer_country": "Israel",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Creomagic, Israel. Allied-nation NDAA compliant. Mesh radio systems.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1018",
@@ -1044,9 +1062,10 @@
       "https://www.meshmerize.net"
     ],
     "manufacturer_country": "Germany",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Meshmerize GmbH, Germany. EU/NATO allied-nation NDAA compliant. Mesh networking software.",
-    "weight_g": 5.0
+    "weight_g": 5.0,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1019",
@@ -1104,9 +1123,10 @@
       "https://www.elsight.com"
     ],
     "manufacturer_country": "Israel",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Elsight Ltd, Petah Tikva, Israel. Allied-nation NDAA compliant. HALO multi-link connectivity.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-1020",
@@ -1157,9 +1177,10 @@
       "https://www.horizon31.com"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Horizon31, USA. US mesh radio manufacturer. NDAA compliant.",
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-5000",
@@ -1187,7 +1208,7 @@
     "firmware": "Meshtastic",
     "form_factor": "Development board",
     "weight_g": 35,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "open_source": true,
     "use_cases": [
       "drone telemetry backup",
@@ -1217,7 +1238,8 @@
     "price_usd": 29,
     "links": [
       "https://www.lilygo.cc/products/t-beam"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-5001",
@@ -1244,7 +1266,7 @@
     "firmware": "Meshtastic",
     "form_factor": "Development board",
     "weight_g": 12,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "open_source": true,
     "use_cases": [
       "relay node",
@@ -1270,7 +1292,8 @@
     "price_usd": 25,
     "links": [
       "https://heltec.org/project/wifi-lora-32-v3/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "MESH-5002",
@@ -1300,7 +1323,7 @@
     "weight_g": 8,
     "tx_power_dbm": 22,
     "sleep_current_ua": 2.0,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "open_source": true,
     "use_cases": [
       "long-endurance drone node",
@@ -1326,7 +1349,8 @@
     "price_usd": 25,
     "links": [
       "https://store.rakwireless.com/products/wisblock-meshtastic-kit"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Helix-Smart-Radio",
@@ -1367,7 +1391,8 @@
     "tags": [
       "ndaa",
       "usa"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Helix-Pro",
@@ -1404,7 +1429,8 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Net-Node",
@@ -1439,7 +1465,8 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 120
+    "weight_g": 120,
+    "origin": "USA"
   },
   {
     "pid": "MSH-MFR-Silvus-StreamCaster-4200",
@@ -1477,7 +1504,8 @@
       "ndaa",
       "usa"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MSH-MFR-Silvus-StreamCaster-4400P",
@@ -1512,6 +1540,7 @@
     "tags": [
       "ndaa",
       "usa"
-    ]
+    ],
+    "origin": "USA"
   }
 ]

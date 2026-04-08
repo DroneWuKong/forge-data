@@ -30,7 +30,8 @@
       "px4",
       "ardupilot",
       "usa"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "OF-1001",
@@ -64,7 +65,8 @@
       "ardupilot",
       "mid-range",
       "usa"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "OF-1002",
@@ -98,14 +100,15 @@
       "px4",
       "lightweight",
       "micro"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "OF-1003",
     "name": "Holybro H-Flow \u2014 Optical Flow + Distance Sensor",
     "manufacturer": "Holybro",
     "manufacturer_country": "Unknown \u2014 verify supply chain",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "price_usd": 45,
     "description": "Compact DroneCAN optical flow and distance sensor. PixArt PAA3905E1 optical flow, Broadcom AFBR-S50LV85D ToF distance sensor, InvenSense ICM-42688-P 6-axis IMU. Onboard IR LED for low-light. Compatible with PX4 and ArduPilot. Good component selection (same sensors as ARK Flow MR) but Holybro HQ is Shenzhen, China \u2014 supply chain not independently verified for NDAA compliance. Verify before federal procurement.",
     "interface": "DroneCAN / CAN",
@@ -129,14 +132,15 @@
       "px4",
       "ardupilot",
       "china-caution"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "OF-1004",
     "name": "Centeye Vision Chip Suite \u2014 Neuromorphic Optical Flow",
     "manufacturer": "Centeye",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": null,
     "description": "Washington DC-based pioneer \u2014 first company to fly an optical flow sensor on a drone (1990s). Produces proprietary neuromorphic vision chips designed ground-up for drone autonomy. Sensors from 1g. Up to 150\u00b0 FOV. IR illumination for dark environments (850nm, up to 5m range). Stereo depth + optical flow combined. Not a commodity product \u2014 sold as integrated solution or OEM chipset for custom platforms. Contact for pricing. Best option for nano/micro platforms and DARPA-adjacent programs.",
     "interface": "Custom / I2C (contact for details)",
@@ -164,7 +168,8 @@
       "advanced",
       "usa"
     ],
-    "price_note": "OEM/custom pricing \u2014 contact manufacturer"
+    "price_note": "OEM/custom pricing \u2014 contact manufacturer",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1005",
@@ -197,7 +202,8 @@
       "uart",
       "inav",
       "hobbyist"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "OF-1006",
@@ -228,6 +234,7 @@
       "integrated",
       "dji",
       "reference-only"
-    ]
+    ],
+    "origin": "China"
   }
 ]

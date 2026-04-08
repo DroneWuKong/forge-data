@@ -42,7 +42,8 @@
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "China"
   },
   {
     "pid": "SWR-0002",
@@ -66,14 +67,15 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0003",
@@ -97,14 +99,15 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0004",
@@ -149,7 +152,9 @@
     "ndaa_note": "Open-source ArduPilot swarm software. Origin unverified \u2014 individual contributor. Verify per contract.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0005",
@@ -307,7 +312,9 @@
     "ndaa_note": "Brazil-origin academic project + Embraer. Not adversary-nation but verify per contract.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0006",
@@ -436,14 +443,15 @@
     "approx_price": 0,
     "ndaa_note": "Origin unclear. Verify.",
     "manufacturer_country": "Ukraine",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "tags": [
       "ndaa",
       "ukraine"
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0007",
@@ -471,7 +479,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "MICROS Lab, ENAC (French civil aviation school), Toulouse, France. EU/NATO. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -479,7 +487,8 @@
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0008",
@@ -506,7 +515,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "IMRC Lab, University of Southern California, Los Angeles CA. US academic. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -514,7 +523,8 @@
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0009",
@@ -568,7 +578,9 @@
     "ndaa_note": "Insper + NVIDIA academic partnership. Brazil origin. Verify per contract.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0010",
@@ -861,7 +873,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Italy",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "OpenIPC, Italy-based community. EU/NATO allied-nation. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -869,6 +881,7 @@
     ],
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   }
 ]

@@ -24,14 +24,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/wallefpv-naked-o4-pro-air-unit.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-1001",
@@ -67,7 +68,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-micro-cat-4-1200tvl-starlight-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1002",
@@ -101,7 +103,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-farsight-analog-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1003",
@@ -135,7 +138,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/betafpv-p1-air-unit-hd-vtx.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1004",
@@ -172,7 +176,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-whoop-v2-bundle-nano-v3-camera.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1005",
@@ -208,7 +213,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mini-cat-4-1200tvl-starlight-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1006",
@@ -243,7 +249,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-gazer-analog-fpv-camera.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "CAM-1007",
@@ -279,7 +286,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-fpv-camera-v2-special-edition.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "CAM-1008",
@@ -314,7 +322,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-freestyle-v2-vtx-kit.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1009",
@@ -348,7 +357,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-split-4-v2-fpv-camera.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "CAM-1010",
@@ -384,7 +394,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-gt-kit.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1011",
@@ -418,7 +429,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/darwinfpv-hulk-waterproof-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1012",
@@ -452,7 +464,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/darwinfpv-cement-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1013",
@@ -488,7 +501,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-5-mini-1000tvl-1-8mm-2-5mm-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1015",
@@ -524,7 +538,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-5-nano-1000tvl-1-7mm-fpv-camera-pad-plug.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1016",
@@ -560,7 +575,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mini-toothless-2-1200tvl-starlight-1-7mm-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1017",
@@ -596,7 +612,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-mini-1s-lite-kit-w-heatsink.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1018",
@@ -633,7 +650,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-lux-camera.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1019",
@@ -669,7 +687,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-pro-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1020",
@@ -705,7 +724,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-hdzero-nano-90-hd-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1021",
@@ -741,7 +761,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-nano-toothless-2-1200tvl-1-2-sensor-switchable-fov-starlight-fpv-camera-2-1mm.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1022",
@@ -777,7 +798,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-t-rex-mini-1500tvl-1-7mm-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1023",
@@ -813,7 +835,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-5-micro-1000tvl-m8-1-7mm-fpv-camera-full-case.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1024",
@@ -849,7 +872,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mini-cat-3-1200tvl-super-low-light-fpv-night-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1025",
@@ -885,7 +909,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ant-lite-1200tvl-fpv-camera-fpvcycle-edition.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1026",
@@ -921,7 +946,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ratel-2-micro-starlight-1200tvl-low-latency-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1027",
@@ -957,7 +983,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ant-1200tvl-1-8mm-fpv-nano-camera-14x14-black.html"
     ],
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "CAM-1028",
@@ -993,7 +1020,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-micro-toothless-2-1200tvl-1-2-sensor-switchable-fov-starlight-fpv-camera-1-7mm.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1029",
@@ -1029,7 +1057,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/emax-nanohawk-runcam-nano-3-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1030",
@@ -1065,7 +1094,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-nano-2-14x14-700tvl-cmos-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1031",
@@ -1101,7 +1131,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-brackets-for-micro-sparrow-2-pro-micro-eagle-split-mini-set-of-2.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1032",
@@ -1128,14 +1159,15 @@
     "schema_data": {
       "weight_g": -2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/fat-shark-aura-analog-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-1034",
@@ -1171,7 +1203,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-1000tvl-2-1mm-fpv-camera-joshua-bardwell-edition-silver.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1036",
@@ -1206,7 +1239,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-baby-ratel-2-1200tvl-1-8mm-fpv-camera.html"
     ],
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "CAM-1037",
@@ -1242,7 +1276,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/betafpv-c02-2-1mm-1200tvl-fpv-micro-camera.html"
     ],
-    "weight_g": 1.4
+    "weight_g": 1.4,
+    "origin": "China"
   },
   {
     "pid": "CAM-1038",
@@ -1279,7 +1314,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-eco-fpv-system.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1039",
@@ -1316,7 +1352,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-eco-camera.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1041",
@@ -1352,7 +1389,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-thumb-pro-4k-hd-action-camera-wide-fov.html"
     ],
-    "weight_g": 16.0
+    "weight_g": 16.0,
+    "origin": "China"
   },
   {
     "pid": "CAM-1042",
@@ -1388,7 +1426,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-nano-camera-v3.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1043",
@@ -1417,14 +1456,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-1000tvl-2-1mm-fpv-camera-lumenier-edition-silver.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "USA"
   },
   {
     "pid": "CAM-1044",
@@ -1460,7 +1500,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/flywoo-1s-nano-fpv-camera-v3.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1045",
@@ -1496,7 +1537,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-nano-camera-w-9cm-cable.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1046",
@@ -1530,7 +1572,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-ascent-lite-vtx-kit.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1047",
@@ -1564,7 +1607,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-infra-v2-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1048",
@@ -1591,14 +1635,15 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/eclipse-005sl-thermal-analog-camera-system.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-1049",
@@ -1634,7 +1679,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/betafpv-c04-camera-and-vtx-module-cetus-v2.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1050",
@@ -1668,7 +1714,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-infra-night-vision-analog-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1051",
@@ -1704,7 +1751,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dji-o4-air-unit-pro-camera-module.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1053",
@@ -1738,7 +1786,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/axisflying-owl-black-light-cvbs-coaxial-hd-module-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1054",
@@ -1774,7 +1823,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-razer-v2-mini-fpv-camera-black.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1055",
@@ -1810,7 +1860,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-razer-nano-1200tvl-1-8mm-fpv-camera-ntsc.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1056",
@@ -1846,7 +1897,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-5-micro-1000tvl-m12-1-7mm-fpv-camera-full-case.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1057",
@@ -1882,7 +1934,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-nano-4-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1058",
@@ -1918,7 +1971,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-wasp-nano-hd-digital-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1059",
@@ -1954,7 +2008,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-3-micro-1200tvl-m12-1-7mm-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1060",
@@ -1990,7 +2045,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-camera-v2-w-gyro-14cm-cable.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1061",
@@ -2026,7 +2082,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-3-mini-1200tvl-m12-1-7mm-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1062",
@@ -2053,14 +2110,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hawkeye-firefly-x-lite-ii-4k-60fps-hd-action-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-1063",
@@ -2096,7 +2154,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-t-rex-1500tvl-micro-1-7mm-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1064",
@@ -2130,7 +2189,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-5-black-4k-action-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1065",
@@ -2166,7 +2226,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-nano-camera-mini-1s-vtx-kit.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1066",
@@ -2202,7 +2263,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-nano-1000tvl-2-1mm-fpv-camera-silver.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1068",
@@ -2238,7 +2300,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-hd-camera-w-14cm-cable.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1069",
@@ -2274,7 +2337,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/avatar-hd-nano-camera-vtx-kit.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1070",
@@ -2310,7 +2374,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/avatar-hd-camera-vtx-kit.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1071",
@@ -2346,7 +2411,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nuts-combo-nebula-pro-nano-vista-kit-peanut-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1072",
@@ -2380,7 +2446,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dji-digital-hd-fpv-air-unit-kit-original-version.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1073",
@@ -2414,7 +2481,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-split-hd-camera-kit-w-nd-16-filter.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "CAM-1074",
@@ -2450,7 +2518,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-hd-nano-fpv-camera-w-12cm-cable.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1075",
@@ -2486,7 +2555,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-apollo-micro-digital-fpv-camera-standard.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1076",
@@ -2522,7 +2592,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-v3-micro-digital-fpv-camera-standard.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1077",
@@ -2558,7 +2629,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-v3-micro-digital-fpv-camera-starlight.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1078",
@@ -2594,7 +2666,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-hdzero-micro-camera-v2.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1079",
@@ -2630,7 +2703,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-9249.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1080",
@@ -2666,7 +2740,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-9251.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1081",
@@ -2702,7 +2777,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-9252.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1082",
@@ -2738,7 +2814,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-9612.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1083",
@@ -2772,7 +2849,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-12-12mm-fpv-camera-4-3.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1084",
@@ -2807,7 +2885,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-1-3-1-6mm-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1085",
@@ -2843,7 +2922,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-9250.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1086",
@@ -2879,7 +2959,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-10901.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1087",
@@ -2915,7 +2996,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-10902.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1088",
@@ -2951,7 +3033,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-10905.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1089",
@@ -2987,7 +3070,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-5-micro-1000tvl-m8-1-7mm-fpv-camera-naked-version.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1090",
@@ -3021,7 +3105,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-12-12mm-fpv-camera-4-3-10248.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1091",
@@ -3057,7 +3142,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-10912.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1092",
@@ -3093,7 +3179,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-fpv-camera-10906.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1093",
@@ -3129,7 +3216,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-nano-hdzero-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1094",
@@ -3165,7 +3253,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-nano-vista-kit.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1095",
@@ -3201,7 +3290,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/emax-tinyhawk-iii-runcam-nano-4.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1096",
@@ -3235,7 +3325,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-nebula-pro-camera.html"
     ],
-    "weight_g": 10.0
+    "weight_g": 10.0,
+    "origin": "China"
   },
   {
     "pid": "CAM-1097",
@@ -3269,7 +3360,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-polar-camera.html"
     ],
-    "weight_g": 10.0
+    "weight_g": 10.0,
+    "origin": "China"
   },
   {
     "pid": "CAM-1098",
@@ -3305,7 +3397,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-nano-starlight-camera-vista-kit.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1099",
@@ -3341,7 +3434,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-nano-starlight-camera-8cm-coaxial-cable.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1100",
@@ -3377,7 +3471,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-nano-starlight-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1101",
@@ -3413,7 +3508,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-link-phoenix-hd-fpv-camera-kit.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1102",
@@ -3449,7 +3545,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-micro-camera-w-12cm-coaxial-cable.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1103",
@@ -3485,7 +3582,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-micro-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1104",
@@ -3521,7 +3619,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-micro-digital-fpv-air-unit-camera-kit.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1105",
@@ -3557,7 +3656,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-polar-micro-digital-fpv-vista-camera-kit.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1106",
@@ -3593,7 +3693,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-5-1000vtl-micro-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1107",
@@ -3629,7 +3730,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-2-nano-720p-digital-1000tvl-analog-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1108",
@@ -3665,7 +3767,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-micro-cat-3-1200tvl-super-low-light-fpv-night-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1109",
@@ -3701,7 +3804,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-digisight-2-nano-720p-digital-1000tvl-analog-fpv-camera-black.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1110",
@@ -3737,7 +3841,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-micro-ratel-v2-1200tvl-fpv-camera-lumenier-edition-white.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1111",
@@ -3773,7 +3878,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-hd-digital-fpv-camera-white-with-12cm-cable-12326.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1112",
@@ -3809,7 +3915,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-digital-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1113",
@@ -3845,7 +3952,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-hd-digital-fpv-camera-white-without-cable.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1114",
@@ -3881,7 +3989,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-hd-digital-fpv-camera-white-without-cable-12324.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1115",
@@ -3917,7 +4026,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-vista-kit-720p-120fps-low-latency-hd-digital-fpv-system.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1116",
@@ -3953,7 +4063,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-digital-fpv-camera-kit.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1117",
@@ -3989,7 +4100,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-shark-byte-nano-digital-fpv-camera-w-8cm-mpi-cable.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1118",
@@ -4024,7 +4136,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-4-1000tvl-1-8mm-fpv-camera-analog-mipi-digital.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "CAM-1119",
@@ -4060,7 +4173,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-1000tvl-1-8mm-fpv-camera-1-8mm-mck-edition.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1120",
@@ -4097,7 +4211,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/xilo-micro-mutant-1200tvl-5-40v-2-1mm-fpv-camera-16-9.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "USA"
   },
   {
     "pid": "CAM-1121",
@@ -4134,7 +4249,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/xilo-micro-mutant-1200tvl-2-1mm-fpv-camera.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "USA"
   },
   {
     "pid": "CAM-1123",
@@ -4170,7 +4286,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-12-12mm-fpv-camera-4-3-10250.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1124",
@@ -4206,7 +4323,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-pico-razer-1200tvl-12-12mm-fpv-camera-4-3-10251.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1125",
@@ -4242,7 +4360,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-1000tvl-2-1mm-fpv-camera-joshua-bardwell-edition-blue.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1126",
@@ -4278,7 +4397,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-digital-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1127",
@@ -4314,7 +4434,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-v2-digital-fpv-camera-kit-black-silver.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1128",
@@ -4350,7 +4471,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10114.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1129",
@@ -4386,7 +4508,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-silver-8cm-coaxial-cable.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1130",
@@ -4422,7 +4545,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-silver-camera-only.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1131",
@@ -4458,7 +4582,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10115.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1132",
@@ -4494,7 +4619,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-special-combo-w-dji-digital-hd-fpv-goggles-10334.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1133",
@@ -4530,7 +4656,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-silver-12cm-coaxial-cable.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1134",
@@ -4566,7 +4693,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-black-8cm-coaxial-cable.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1135",
@@ -4602,7 +4730,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-nano-black-camera-only.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1136",
@@ -4638,7 +4767,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-digital-fpv-camera-only.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1137",
@@ -4674,7 +4804,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-micro-kit-silver-8cm-coaxial-cable.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1138",
@@ -4709,7 +4840,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-vista-digital-hd-system-for-dji-hd-fpv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "CAM-1139",
@@ -4745,7 +4877,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1140",
@@ -4781,7 +4914,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-razer-mini-1200tvl-2-1mm-fpv-camera.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1141",
@@ -4817,7 +4951,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-nano-2-v2-14x14-1000tvl-cmos-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1142",
@@ -4853,7 +4988,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8504.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1143",
@@ -4889,7 +5025,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8507.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1144",
@@ -4925,7 +5062,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8509.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1145",
@@ -4961,7 +5099,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8503.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1146",
@@ -4997,7 +5136,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8505.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1147",
@@ -5033,7 +5173,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/dummy-camera-8506.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1148",
@@ -5069,7 +5210,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-2-fpv-camera-1-8mm-red-8263.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1149",
@@ -5105,7 +5247,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-2-fpv-camera-1-8mm-red-8262.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1150",
@@ -5141,7 +5284,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-2-fpv-camera-1-8mm-red-8264.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1151",
@@ -5177,7 +5321,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-2-fpv-camera-1-8mm-red-8265.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1152",
@@ -5211,7 +5356,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-dji-digital-hd-fpv-camera.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1153",
@@ -5247,7 +5393,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/predator-v4-micro-soldering-red.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1154",
@@ -5283,7 +5430,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/predator-v4-micro-soldering-purple.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1155",
@@ -5319,7 +5467,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/predator-v4-micro-soldering-blue.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1156",
@@ -5355,7 +5504,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-cat-super-starlight-fpv-camera-black.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1157",
@@ -5391,7 +5541,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-cat-super-starlight-fpv-camera-red.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1158",
@@ -5427,7 +5578,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-cat-super-starlight-fpv-camera-white.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1159",
@@ -5463,7 +5615,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-micro-swift-3-v2-600tvl-ccd-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1160",
@@ -5497,7 +5650,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mix-black.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1161",
@@ -5531,7 +5685,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mix-red.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1162",
@@ -5565,7 +5720,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mix-purple.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1163",
@@ -5599,7 +5755,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mix-pink.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1164",
@@ -5635,7 +5792,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/robin-xilo-edition-4-3-micro-fpv-camera-1-8mm-lens.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1165",
@@ -5671,7 +5829,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/robin-xilo-edition-4-3-micro-fpv-camera-2-1mm-lens.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1166",
@@ -5707,7 +5866,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-mini-fluro-green.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1167",
@@ -5743,7 +5903,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-micro-1200tvl-1-8mm-fpv-camera-red.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1168",
@@ -5779,7 +5940,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-black.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1169",
@@ -5815,7 +5977,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-white.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1170",
@@ -5851,7 +6014,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-turbo-sdr2-plus-hotfire.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1171",
@@ -5887,7 +6051,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-turbo-sdr2-plus-wooden.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1172",
@@ -5923,7 +6088,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-turbo-sdr2-plus-camoflage.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1173",
@@ -5959,7 +6125,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-mini-purple.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1174",
@@ -5995,7 +6162,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-mini-red.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1175",
@@ -6031,7 +6199,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-4-3-micro-fpv-camera-2-1mm.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1176",
@@ -6067,7 +6236,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-monster-micro-pro-1200tvl-16-9-fpv-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1177",
@@ -6101,7 +6271,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-m8-lens-lock-ring.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1178",
@@ -6137,7 +6308,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/tbs-tiny-camera.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "Germany"
   },
   {
     "pid": "CAM-1179",
@@ -6173,7 +6345,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-monster-mini-pro-black.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1180",
@@ -6209,7 +6382,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-monster-mini-pro-red.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1181",
@@ -6244,7 +6418,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v2-standard-red.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "CAM-1182",
@@ -6279,7 +6454,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v2-standard-purple.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "CAM-1183",
@@ -6314,7 +6490,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v2-standard-blue.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "CAM-1184",
@@ -6350,7 +6527,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v2-micro-red.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1185",
@@ -6386,7 +6564,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/walksnail-avatar-nano-kit-v3.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1186",
@@ -6422,7 +6601,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-micro-1200tvl-1-8mm-fpv-camera-white.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1188",
@@ -6458,7 +6638,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-micro-black.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1189",
@@ -6494,7 +6675,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-2-4-3-micro-fpv-camera-1-8mm.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1190",
@@ -6528,7 +6710,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-mix-fluo-green.html"
     ],
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "China"
   },
   {
     "pid": "CAM-1191",
@@ -6564,7 +6747,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-nebula-pro-nano-digital-fpv-camera.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1192",
@@ -6601,7 +6785,8 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/hdzero-whoop-lite-bundle.html"
     ],
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1193",
@@ -6637,7 +6822,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-micro-red.html"
     ],
-    "weight_g": 5
+    "weight_g": 5,
+    "origin": "China"
   },
   {
     "pid": "CAM-1194",
@@ -6673,7 +6859,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-predator-v3-mini-blue.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1195",
@@ -6709,7 +6896,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/foxeer-falkor-mini-red.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "CAM-1197",
@@ -6745,7 +6933,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-nano-1-8mm-lens.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-1198",
@@ -6781,7 +6970,8 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-racer-nano-2-1mm-lens.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "China"
   },
   {
     "pid": "CAM-UA-KaraFPV-SPY-1200TVL",
@@ -6812,7 +7002,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 26.95,
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Ukraine"
   },
   {
     "pid": "CAM-UA-SkyPulse-PRO-Camera",
@@ -6843,7 +7034,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 28.61,
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Ukraine"
   },
   {
     "pid": "CAM-UA-SkyPulse-HDR-Camera",
@@ -6874,6 +7066,7 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 18.02,
-    "weight_g": 10
+    "weight_g": 10,
+    "origin": "Ukraine"
   }
 ]

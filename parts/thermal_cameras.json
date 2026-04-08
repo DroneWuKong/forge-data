@@ -54,7 +54,8 @@
       "https://oem.flir.com/products/boson"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0002",
@@ -110,7 +111,8 @@
       "https://oem.flir.com/products/boson"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0003",
@@ -161,7 +163,8 @@
       "https://oem.flir.com/products/boson"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0004",
@@ -213,7 +216,8 @@
       "https://oem.flir.com/products/lepton"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0005",
@@ -259,7 +263,8 @@
       "https://www.flir.com/products/neutrino-sx8/"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0006",
@@ -306,7 +311,8 @@
       "https://www.flir.com/products/vue-tz20-r/"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free."
+    "ndaa_note": "Teledyne Technologies, Goleta CA. June 2025: full NDAA compliance announced for Neutrino, Boson, Boson+, Hadron, Lepton lineup. Designed and assembled USA. ITAR-free.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0007",
@@ -356,8 +362,9 @@
     "links": [
       "https://sierraolympia.com/product/vayu-hd/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0008",
@@ -406,8 +413,9 @@
     "links": [
       "https://sierraolympia.com/product/vayu-hd-industrial/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0009",
@@ -454,7 +462,8 @@
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant."
+    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0010",
@@ -502,7 +511,8 @@
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant."
+    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0011",
@@ -551,7 +561,8 @@
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
     "ndaa_compliant": true,
-    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant."
+    "ndaa_note": "L3Harris Technologies, Melbourne FL. Major US defense contractor \u2014 6th largest in US. All products inherently NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0012",
@@ -595,8 +606,9 @@
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0013",
@@ -641,8 +653,9 @@
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0014",
@@ -688,8 +701,9 @@
     "links": [
       "https://www.thermal.com/drone-core.html"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Seek Thermal, Santa Barbara CA. US manufacturer. Consumer/commercial thermal cameras. NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Seek Thermal, Santa Barbara CA. US manufacturer. Consumer/commercial thermal cameras. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0015",
@@ -733,8 +747,9 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain."
+    "ndaa_compliant": null,
+    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0016",
@@ -778,8 +793,9 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain."
+    "ndaa_compliant": null,
+    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0017",
@@ -827,8 +843,9 @@
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain."
+    "ndaa_compliant": null,
+    "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0018",
@@ -872,8 +889,9 @@
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America."
+    "ndaa_compliant": null,
+    "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0019",
@@ -916,8 +934,9 @@
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America."
+    "ndaa_compliant": null,
+    "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0020",
@@ -962,8 +981,9 @@
     "links": [
       "https://www.rafael.co.il/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Rafael Advanced Defense Systems, Haifa, Israel. Israeli state-owned defense company. Allied-nation NDAA compliant. Co-produces Iron Dome with Raytheon."
+    "ndaa_compliant": null,
+    "ndaa_note": "Rafael Advanced Defense Systems, Haifa, Israel. Israeli state-owned defense company. Allied-nation NDAA compliant. Co-produces Iron Dome with Raytheon.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0021",
@@ -1006,7 +1026,9 @@
     "links": [
       "https://www.aselsan.com.tr/"
     ],
-    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review."
+    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "TCAM-0022",
@@ -1049,7 +1071,9 @@
     "links": [
       "https://www.aselsan.com.tr/"
     ],
-    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review."
+    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "TCAM-0023",
@@ -1100,8 +1124,9 @@
     "links": [
       "https://workswell.eu/thermal-drone-camera-inspection-wiris-pro/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0024",
@@ -1151,8 +1176,9 @@
     "links": [
       "https://workswell.eu/thermal-drone-camera-research-wiris-pro-sc/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0025",
@@ -1202,8 +1228,9 @@
     "links": [
       "https://workswell.eu/infrared-drone-camera-inspection-wiris-enterprise/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant."
+    "ndaa_compliant": null,
+    "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0026",
@@ -1245,7 +1272,9 @@
     "links": [
       "https://gremsy.com/"
     ],
-    "ndaa_note": "Gremsy, Ho Chi Minh City, Vietnam. Gimbal/payload manufacturer. Vietnam is not an adversary nation but not a formal US allied nation under NDAA framework. Gremsy Lynx/ORUS-L NDAA payloads use Teledyne FLIR Boson+ (NDAA compliant core) \u2014 but the gimbal assembly itself is Vietnam-manufactured. Verify per specific product and contracting requirements."
+    "ndaa_note": "Gremsy, Ho Chi Minh City, Vietnam. Gimbal/payload manufacturer. Vietnam is not an adversary nation but not a formal US allied nation under NDAA framework. Gremsy Lynx/ORUS-L NDAA payloads use Teledyne FLIR Boson+ (NDAA compliant core) \u2014 but the gimbal assembly itself is Vietnam-manufactured. Verify per specific product and contracting requirements.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "TCAM-0027",
@@ -1288,8 +1317,9 @@
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others."
+    "ndaa_compliant": null,
+    "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0028",
@@ -1334,8 +1364,9 @@
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others."
+    "ndaa_compliant": null,
+    "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0029",
@@ -1381,8 +1412,9 @@
     "links": [
       "https://www.leonardodrs.com/"
     ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Leonardo DRS, Arlington VA. US subsidiary of Leonardo S.p.A. (Italy). DoD prime contractor. NDAA compliant \u2014 US-based operations and supply chain."
+    "ndaa_compliant": null,
+    "ndaa_note": "Leonardo DRS, Arlington VA. US subsidiary of Leonardo S.p.A. (Italy). DoD prime contractor. NDAA compliant \u2014 US-based operations and supply chain.",
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0030",
@@ -1426,7 +1458,8 @@
     "links": [
       "https://www.infiray.com/"
     ],
-    "ndaa_compliant": false
+    "ndaa_compliant": null,
+    "origin": "Unknown"
   },
   {
     "pid": "TCAM-0031",
@@ -1475,7 +1508,8 @@
     "links": [
       "https://www.dji.com/zenmuse-h30"
     ],
-    "ndaa_compliant": false
+    "ndaa_compliant": false,
+    "origin": "China"
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-U",
@@ -1502,11 +1536,12 @@
     ],
     "approx_price": 207.32,
     "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 207.32,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-U",
@@ -1533,11 +1568,12 @@
     ],
     "approx_price": 292.68,
     "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 292.68,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
@@ -1564,11 +1600,12 @@
     ],
     "approx_price": 390.24,
     "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 390.24,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
@@ -1595,11 +1632,12 @@
     ],
     "approx_price": 536.59,
     "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 536.59,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-256",
@@ -1626,11 +1664,12 @@
     ],
     "approx_price": 243.9,
     "description": "Thermal camera by Odd Systems. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 243.9,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-384\u1d45",
@@ -1657,11 +1696,12 @@
     ],
     "approx_price": 426.83,
     "description": "Thermal camera by Odd Systems. mK NETD.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 426.83,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "THR-0032",
@@ -1808,7 +1848,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 800,
-    "weight_g": 25.0
+    "weight_g": 25.0,
+    "origin": "USA"
   },
   {
     "pid": "THR-0033",
@@ -1859,7 +1900,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 600,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "THR-0034",
@@ -1906,7 +1948,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 800,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "THR-0035",
@@ -1951,7 +1994,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 1200,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "THR-0036",
@@ -2000,7 +2044,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 500,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "THR-0037",
@@ -2049,7 +2094,8 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 300,
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "TCAM-0044",
@@ -2121,13 +2167,14 @@
       "country_of_origin": "USA",
       "export_eccn": "6A003.b.4.b (27Hz) / EAR99 (9Hz)"
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
     "price_usd": 1495.0,
     "links": [
       "https://echomav.com/products/echotherm-module"
     ],
-    "ndaa_note": "EchoMAV, Madison WI. US manufacturer of AI-enabled drone payloads. NDAA compliant."
+    "ndaa_note": "EchoMAV, Madison WI. US manufacturer of AI-enabled drone payloads. NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-640\u1d45",

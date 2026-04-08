@@ -43,11 +43,12 @@
     "links": [
       "https://uavionix.com/product/microlink/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
-    "price_usd": null
+    "price_usd": null,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0002",
@@ -98,12 +99,13 @@
     "links": [
       "https://uavionix.com/products/skyline/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0003",
@@ -160,7 +162,8 @@
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "USA"
   },
   {
     "pid": "C2DL-0004",
@@ -208,7 +211,8 @@
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "USA"
   },
   {
     "pid": "C2DL-0005",
@@ -270,9 +274,10 @@
     "links": [
       "https://www.cubepilot.com/herelink"
     ],
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "interface": "Ethernet / Serial / RF",
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "USA"
   },
   {
     "pid": "C2DL-0006",
@@ -319,12 +324,13 @@
     "links": [
       "https://www.ultra.group/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ultra Electronics, UK. Allied-nation NDAA compliant. Part of Cobham Advanced Electronic Systems.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0007",
@@ -364,12 +370,13 @@
     "links": [
       "https://www.performancedroneworx.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Performance Drone Works, Sarasota FL. US UAS C2 manufacturer. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0008",
@@ -404,12 +411,13 @@
     "links": [
       "https://kuttatech.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Kutta Technologies, Phoenix AZ. US DoD C2 software company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0009",
@@ -466,12 +474,13 @@
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 150
+    "weight_g": 150,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0010",
@@ -511,12 +520,13 @@
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
     "weight_g": 60.0,
     "price_note": "Contact for pricing",
-    "price_usd": null
+    "price_usd": null,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0011",
@@ -556,7 +566,8 @@
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "USA"
   },
   {
     "pid": "C2DL-0012",
@@ -591,12 +602,13 @@
     "links": [
       "https://xtend.me/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "XTEND, Tel Aviv, Israel. Allied-nation NDAA compliant. XOS tactical drone OS.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "C2DL-0013",
@@ -634,12 +646,13 @@
     "links": [
       "https://shield.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Shield AI, San Diego CA. US AI autonomy company. NDAA compliant. DoD prime contractor.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3206",

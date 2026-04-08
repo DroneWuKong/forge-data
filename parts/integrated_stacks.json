@@ -58,7 +58,8 @@
     "links": [
       "https://orqafpv.com"
     ],
-    "weight_g": 85
+    "weight_g": 85,
+    "origin": "Croatia"
   },
   {
     "pid": "IS-0002",
@@ -113,7 +114,8 @@
     "links": [
       "https://www.modalai.com/products/voxl-2"
     ],
-    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant."
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "IS-0003",
@@ -164,7 +166,8 @@
     "links": [
       "https://www.modalai.com/products/voxl-2-mini"
     ],
-    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant."
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
+    "origin": "USA"
   },
   {
     "pid": "IS-0004",
@@ -215,7 +218,8 @@
     ],
     "manufacturer_country": "USA",
     "ndaa_note": "Auterion Inc., San Francisco CA (Swiss-founded, US HQ). NDAA compliant. Enterprise PX4 platform.",
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "IS-0005",
@@ -274,6 +278,7 @@
     "links": [
       "https://arkelectron.com/product/ark-fpv-flight-controller/"
     ],
-    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant."
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "origin": "USA"
   }
 ]

@@ -54,7 +54,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-6s-18650-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1001",
@@ -111,7 +112,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-4000mah-4s-18650-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 720
+    "weight_g": 720,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1002",
@@ -168,7 +170,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-6s-18650-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 2160
+    "weight_g": 2160,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1003",
@@ -225,7 +228,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-4s-21700-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1004",
@@ -282,7 +286,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-6s-21700-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 3240
+    "weight_g": 3240,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1005",
@@ -339,7 +344,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-8000mah-4s-18650-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 1440
+    "weight_g": 1440,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1006",
@@ -396,7 +402,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-12000mah-4s-21700-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 2160
+    "weight_g": 2160,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1007",
@@ -453,7 +460,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-21700-amprius-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 1620
+    "weight_g": 1620,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1008",
@@ -511,7 +519,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1300mah-6s1p-130c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "China"
   },
   {
     "pid": "BAT-1009",
@@ -569,7 +578,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-sbang-v2-1480mah-6s-22-2v-160c-lipo-battery-xt60.html"
     ],
-    "weight_g": 400
+    "weight_g": 400,
+    "origin": "China"
   },
   {
     "pid": "BAT-1010",
@@ -627,7 +637,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-sbang-1480mah-6s-22-2v-150c-lipo-battery-xt60.html"
     ],
-    "weight_g": 400
+    "weight_g": 400,
+    "origin": "China"
   },
   {
     "pid": "BAT-1011",
@@ -685,7 +696,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-ultra-series-1480mah-6s-22-2v-150c-lipo-battery-xt60.html"
     ],
-    "weight_g": 400
+    "weight_g": 400,
+    "origin": "China"
   },
   {
     "pid": "BAT-1012",
@@ -742,7 +754,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/radiomaster-tx16s-5000mah-2s-li-ion-battery.html"
     ],
-    "weight_g": 3600
+    "weight_g": 3600,
+    "origin": "China"
   },
   {
     "pid": "BAT-1013",
@@ -800,7 +813,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-6000mah-4s-35c-lipo-battery-xt60.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1014",
@@ -858,7 +872,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-2000mah.html"
     ],
-    "weight_g": 360
+    "weight_g": 360,
+    "origin": "China"
   },
   {
     "pid": "BAT-1015",
@@ -917,7 +932,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1250mah-6s-100c-basher-lipo-battery-xt60.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1016",
@@ -975,7 +991,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-speedy-pizza-drones-1350mah-22-2v-6s-150c-hp-lipo-battery-xt60.html"
     ],
-    "weight_g": 364
+    "weight_g": 364,
+    "origin": "China"
   },
   {
     "pid": "BAT-1017",
@@ -1032,7 +1049,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 540
+    "weight_g": 540,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1018",
@@ -1089,7 +1107,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
-    "weight_g": 540
+    "weight_g": 540,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1019",
@@ -1148,7 +1167,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-basher-lipo-battery-xt60-3-pack-bundle.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1020",
@@ -1205,7 +1225,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 1620
+    "weight_g": 1620,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1021",
@@ -1262,7 +1283,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
-    "weight_g": 810
+    "weight_g": 810,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1022",
@@ -1319,7 +1341,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
-    "weight_g": 1620
+    "weight_g": 1620,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1023",
@@ -1376,7 +1399,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60.html"
     ],
-    "weight_g": 810
+    "weight_g": 810,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1024",
@@ -1434,7 +1458,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1550mah-150c-4s-lipo-battery-xt60.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "China"
   },
   {
     "pid": "BAT-1025",
@@ -1492,7 +1517,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1050mah-150c-6s-lipo-battery-xt60.html"
     ],
-    "weight_g": 284
+    "weight_g": 284,
+    "origin": "China"
   },
   {
     "pid": "BAT-1026",
@@ -1549,7 +1575,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-4s1p-14-8v-li-ion-battery-xt-30.html"
     ],
-    "weight_g": 468
+    "weight_g": 468,
+    "origin": "China"
   },
   {
     "pid": "BAT-1027",
@@ -1607,7 +1634,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1400mah-4s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 252
+    "weight_g": 252,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1028",
@@ -1665,7 +1693,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-750mah-6s-100c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 202
+    "weight_g": 202,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1029",
@@ -1723,7 +1752,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-4500mah-120c-6s-cinelifter-lipo-battery-as150.html"
     ],
-    "weight_g": 1215
+    "weight_g": 1215,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1030",
@@ -1781,7 +1811,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-5200mah-4s-120c-cinelifter-lipo-battery-as150.html"
     ],
-    "weight_g": 936
+    "weight_g": 936,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1031",
@@ -1838,7 +1869,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/iflight-defender-25-4s-lipo-battery-550mah.html"
     ],
-    "weight_g": 99
+    "weight_g": 99,
+    "origin": "China"
   },
   {
     "pid": "BAT-1032",
@@ -1896,7 +1928,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1033",
@@ -1954,7 +1987,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery-xt-30-3-pack-bundle.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1034",
@@ -1987,7 +2021,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dji-avata-fly-more-kit.html"
     ],
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "China"
   },
   {
     "pid": "BAT-1035",
@@ -2045,7 +2080,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1200mah-6s1p-150c-lipo-battery.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "China"
   },
   {
     "pid": "BAT-1036",
@@ -2103,7 +2139,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-4s-lipo-battery-1100mah.html"
     ],
-    "weight_g": 198
+    "weight_g": 198,
+    "origin": "China"
   },
   {
     "pid": "BAT-1037",
@@ -2161,7 +2198,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-4s-130c-lipo-battery-xt60.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "China"
   },
   {
     "pid": "BAT-1038",
@@ -2219,7 +2257,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1300mah-4s-130c-lipo-battery-xt60.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "China"
   },
   {
     "pid": "BAT-1039",
@@ -2277,7 +2316,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-130c-4s-lipo-battery-1300mah.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "China"
   },
   {
     "pid": "BAT-1040",
@@ -2335,7 +2375,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1041",
@@ -2393,7 +2434,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1042",
@@ -2451,7 +2493,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1043",
@@ -2509,7 +2552,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-4s-120c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1044",
@@ -2567,7 +2611,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-550mah-4s-80c-lipo-battery-xt-30-5-pack-bundle-1.html"
     ],
-    "weight_g": 99
+    "weight_g": 99,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1045",
@@ -2625,7 +2670,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1600mah-4s-130c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 288
+    "weight_g": 288,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1046",
@@ -2684,7 +2730,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-4s-100c-basher-lipo-battery-xt60.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1047",
@@ -2742,7 +2789,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1048",
@@ -2800,7 +2848,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-ex-1050mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 284
+    "weight_g": 284,
+    "origin": "China"
   },
   {
     "pid": "BAT-1049",
@@ -2858,7 +2907,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-6s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1050",
@@ -2916,7 +2966,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-4s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1051",
@@ -2973,7 +3024,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-6s2p-6000mah-22-2v-li-ion-battery.html"
     ],
-    "weight_g": 1620
+    "weight_g": 1620,
+    "origin": "China"
   },
   {
     "pid": "BAT-1052",
@@ -3030,7 +3082,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-4s1p-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 468
+    "weight_g": 468,
+    "origin": "China"
   },
   {
     "pid": "BAT-1053",
@@ -3087,7 +3140,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-lionpack-18650-4s-3000mah-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 540
+    "weight_g": 540,
+    "origin": "China"
   },
   {
     "pid": "BAT-1054",
@@ -3144,7 +3198,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sony-vtc5a-18650-2600mah-6s1p-22-2v-li-ion-battery.html"
     ],
-    "weight_g": 702
+    "weight_g": 702,
+    "origin": "China"
   },
   {
     "pid": "BAT-1055",
@@ -3201,7 +3256,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-copter-21700-6s1p-4000mah-22-2v-li-ion-battery.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "China"
   },
   {
     "pid": "BAT-1056",
@@ -3259,7 +3315,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-6s-lipo-battery-1100mah.html"
     ],
-    "weight_g": 297
+    "weight_g": 297,
+    "origin": "China"
   },
   {
     "pid": "BAT-1057",
@@ -3317,7 +3374,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1300mah-6s1p-100c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "China"
   },
   {
     "pid": "BAT-1058",
@@ -3375,7 +3433,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1550mah-6s1p-120c-lipo-battery.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "China"
   },
   {
     "pid": "BAT-1059",
@@ -3432,7 +3491,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1550mah-5s1p-120c-lipo-battery.html"
     ],
-    "weight_g": 349
+    "weight_g": 349,
+    "origin": "China"
   },
   {
     "pid": "BAT-1060",
@@ -3491,7 +3551,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-6s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 230
+    "weight_g": 230,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1061",
@@ -3549,7 +3610,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-6s-120c-lipo-battery-xt60.html"
     ],
-    "weight_g": 230
+    "weight_g": 230,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1062",
@@ -3607,7 +3669,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-6s-120c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 230
+    "weight_g": 230,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1063",
@@ -3665,7 +3728,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-2000mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 360
+    "weight_g": 360,
+    "origin": "China"
   },
   {
     "pid": "BAT-1064",
@@ -3723,7 +3787,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1800mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "China"
   },
   {
     "pid": "BAT-1065",
@@ -3780,7 +3845,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-5s-150c-lipo-battery.html"
     ],
-    "weight_g": 304
+    "weight_g": 304,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1066",
@@ -3837,7 +3903,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-5s-150c-lipo-battery.html"
     ],
-    "weight_g": 349
+    "weight_g": 349,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1067",
@@ -3895,7 +3962,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-4s-150c-lipo-battery.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1068",
@@ -3953,7 +4021,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1850mah-4s-150c-lipo-battery.html"
     ],
-    "weight_g": 333
+    "weight_g": 333,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1069",
@@ -4011,7 +4080,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1550mah-6s-150c-lipo-battery.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1070",
@@ -4069,7 +4139,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-5s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 292
+    "weight_g": 292,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1071",
@@ -4127,7 +4198,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-5s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1072",
@@ -4185,7 +4257,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1550mah-4s-100c-lipo-battery.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "China"
   },
   {
     "pid": "BAT-1073",
@@ -4243,7 +4316,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-850mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1074",
@@ -4301,7 +4375,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ministar-1500mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "China"
   },
   {
     "pid": "BAT-1075",
@@ -4359,7 +4434,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1076",
@@ -4417,7 +4493,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-4s-120c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1077",
@@ -4474,7 +4551,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1500mah-5s-120c-lipo-battery.html"
     ],
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1078",
@@ -4531,7 +4609,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-5s-120c-lipo-battery.html"
     ],
-    "weight_g": 281
+    "weight_g": 281,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1079",
@@ -4589,7 +4668,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ministar-1250mah-6s-70c-lipo-battery.html"
     ],
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "China"
   },
   {
     "pid": "BAT-1080",
@@ -4647,7 +4727,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-6s-95c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1081",
@@ -4705,7 +4786,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1082",
@@ -4763,7 +4845,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-75c-lipo-battery-xt60.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1083",
@@ -4821,7 +4904,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-75c-lipo-battery.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1084",
@@ -4879,7 +4963,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1300mah-4s-80c-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1085",
@@ -4937,7 +5022,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-6s-35c-lipo-battery.html"
     ],
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1086",
@@ -4995,7 +5081,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-75c-lipo-battery.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1087",
@@ -5053,7 +5140,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-2250mah-4s-35c-lipo-battery.html"
     ],
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1088",
@@ -5112,7 +5200,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-basher-lipo-battery-xt60.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1089",
@@ -5170,7 +5259,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-22-2v-2200mah-6s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 594
+    "weight_g": 594,
+    "origin": "China"
   },
   {
     "pid": "BAT-1090",
@@ -5228,7 +5318,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-700mah-4s-75c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 126
+    "weight_g": 126,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1091",
@@ -5286,7 +5377,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-650mah-4s1p-95c-lipo-battery.html"
     ],
-    "weight_g": 117
+    "weight_g": 117,
+    "origin": "China"
   },
   {
     "pid": "BAT-1092",
@@ -5344,7 +5436,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1093",
@@ -5402,7 +5495,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1400mah-6s1p150c-lipo-battery.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "China"
   },
   {
     "pid": "BAT-1094",
@@ -5460,7 +5554,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1095",
@@ -5518,7 +5613,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-900mah-hv-4s1p-80c-lipo-battery-xt30.html"
     ],
-    "weight_g": 162
+    "weight_g": 162,
+    "origin": "China"
   },
   {
     "pid": "BAT-1096",
@@ -5575,7 +5671,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-4000mah-22-2v-a45-6s-li-ion-battery-xt60.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "China"
   },
   {
     "pid": "BAT-1097",
@@ -5633,7 +5730,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-850mah-4s-95c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "China"
   },
   {
     "pid": "BAT-1098",
@@ -5691,7 +5789,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-v2-0-130c-4s-lipo-battery-1500mah.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "China"
   },
   {
     "pid": "BAT-1099",
@@ -5749,7 +5848,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1850mah-6s-150c-lipo-battery.html"
     ],
-    "weight_g": 500
+    "weight_g": 500,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1100",
@@ -5807,7 +5907,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-black-series-100c-6s-lipo-battery-2000mah.html"
     ],
-    "weight_g": 540
+    "weight_g": 540,
+    "origin": "China"
   },
   {
     "pid": "BAT-1101",
@@ -5865,7 +5966,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-75c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1102",
@@ -5923,7 +6025,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-550mah-4s-80c-lipo-battery-xt-30.html"
     ],
-    "weight_g": 99
+    "weight_g": 99,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1103",
@@ -5980,7 +6083,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-18650-2600mah-4s1p-14-8v-li-ion-battery-w-built-in-protective-board-for-dji-goggles.html"
     ],
-    "weight_g": 468
+    "weight_g": 468,
+    "origin": "China"
   },
   {
     "pid": "BAT-1104",
@@ -6038,7 +6142,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-850mah-4s-130c-lipo-battery-xt60.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "China"
   },
   {
     "pid": "BAT-1105",
@@ -6095,7 +6200,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-40t-4000mah-6s-22-2v-a35-li-ion-battery-xt60.html"
     ],
-    "weight_g": 1080
+    "weight_g": 1080,
+    "origin": "China"
   },
   {
     "pid": "BAT-1106",
@@ -6153,7 +6259,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-speedy-pizza-drones-600mah-14-8v-4s-120c-lipo-battery-xt30.html"
     ],
-    "weight_g": 108
+    "weight_g": 108,
+    "origin": "China"
   },
   {
     "pid": "BAT-1107",
@@ -6211,7 +6318,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1550mah-6s-130c-lipo-battery-xt60.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "China"
   },
   {
     "pid": "BAT-1108",
@@ -6269,7 +6377,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1550mah-150c-6s-lipo-battery-xt60.html"
     ],
-    "weight_g": 418
+    "weight_g": 418,
+    "origin": "China"
   },
   {
     "pid": "BAT-1109",
@@ -6327,7 +6436,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-funfly-1300mah-4s-100c-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "China"
   },
   {
     "pid": "BAT-1110",
@@ -6384,7 +6494,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-40t-4000mah-4s-14-8v-a35-li-ion-battery-xt60.html"
     ],
-    "weight_g": 720
+    "weight_g": 720,
+    "origin": "China"
   },
   {
     "pid": "BAT-1111",
@@ -6441,7 +6552,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/molicel-p28a-18650-2800mah-35a-3-6v-li-ion-battery-2pcs.html"
     ],
-    "weight_g": 126
+    "weight_g": 126,
+    "origin": "Taiwan"
   },
   {
     "pid": "BAT-1112",
@@ -6499,7 +6611,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-1050mah-4s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 189
+    "weight_g": 189,
+    "origin": "China"
   },
   {
     "pid": "BAT-1113",
@@ -6557,7 +6670,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-850mah-4s-95c-lipo-battery.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "China"
   },
   {
     "pid": "BAT-1114",
@@ -6615,7 +6729,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1400mah-6s-150c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1115",
@@ -6673,7 +6788,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-6s-95c-lipo-battery.html"
     ],
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1116",
@@ -6731,7 +6847,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-35c-lipo-battery-xt60.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1117",
@@ -6789,7 +6906,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1600mah-6s-130c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 432
+    "weight_g": 432,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1118",
@@ -6847,7 +6965,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-aquila16-1100mah-15c-3-8v-battery-2pcs-bt2-0.html"
     ],
-    "weight_g": 50
+    "weight_g": 50,
+    "origin": "China"
   },
   {
     "pid": "BAT-1119",
@@ -6905,7 +7024,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-750mah-4s-100c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 135
+    "weight_g": 135,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1120",
@@ -6963,7 +7083,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/cnhl-ultra-black-series-1400mah-150c-6s-lipo-battery-xt60.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "China"
   },
   {
     "pid": "BAT-1121",
@@ -7021,7 +7142,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-3-0-1300mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "China"
   },
   {
     "pid": "BAT-1122",
@@ -7079,7 +7201,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1250mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 225
+    "weight_g": 225,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1123",
@@ -7136,7 +7259,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/molicel-m35a-18650-3500mah-10a-3-6v-li-ion-battery-2pcs.html"
     ],
-    "weight_g": 158
+    "weight_g": 158,
+    "origin": "Taiwan"
   },
   {
     "pid": "BAT-1124",
@@ -7194,7 +7318,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-silicon-graphene-1300mah-6s-95c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1125",
@@ -7252,7 +7377,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1800mah-4s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1126",
@@ -7310,7 +7436,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-6s-95c-lipo-battery-xt30.html"
     ],
-    "weight_g": 148
+    "weight_g": 148,
+    "origin": "China"
   },
   {
     "pid": "BAT-1127",
@@ -7368,7 +7495,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-6s-150c-lipo-battery.html"
     ],
-    "weight_g": 364
+    "weight_g": 364,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1128",
@@ -7426,7 +7554,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-35c-lipo-battery-xt60.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1129",
@@ -7485,7 +7614,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-4s-100c-basher-lipo-battery-xt60.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1130",
@@ -7543,7 +7673,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-5-0-1050mah-8s-150c-29-6v-lipo-battery-xt60.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "China"
   },
   {
     "pid": "BAT-1131",
@@ -7601,7 +7732,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1000mah-4s-80c-lipo-battery.html"
     ],
-    "weight_g": 180
+    "weight_g": 180,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1132",
@@ -7659,7 +7791,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dogcom-1380mah-6s-22-2v-150c-lipo-battery-xt60.html"
     ],
-    "weight_g": 373
+    "weight_g": 373,
+    "origin": "China"
   },
   {
     "pid": "BAT-1133",
@@ -7710,14 +7843,15 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 60,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-5000mah-4s-20c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 900
+    "weight_g": 900,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1134",
@@ -7768,14 +7902,15 @@
     "schema_data": {
       "weight_g": 203
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 64,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-5000mah-6s-20c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 1350
+    "weight_g": 1350,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1135",
@@ -7826,14 +7961,15 @@
     "schema_data": {
       "weight_g": 207
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 63,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-green-10000mah-6s-20c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 2700
+    "weight_g": 2700,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1136",
@@ -7891,7 +8027,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-sr-1350mah-120c-4s-super-rate-fpv-lipo-battery-xt60.html"
     ],
-    "weight_g": 243
+    "weight_g": 243,
+    "origin": "China"
   },
   {
     "pid": "BAT-1137",
@@ -7942,14 +8079,15 @@
     "schema_data": {
       "weight_g": 206
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 56,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-6s-22-2v-30c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 1512
+    "weight_g": 1512,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1138",
@@ -8000,14 +8138,15 @@
     "schema_data": {
       "weight_g": 205
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 60,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 504
+    "weight_g": 504,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1139",
@@ -8058,14 +8197,15 @@
     "schema_data": {
       "weight_g": 200
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 57,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-5600mah-4s-14-8v-30c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 1008
+    "weight_g": 1008,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1140",
@@ -8116,14 +8256,15 @@
     "schema_data": {
       "weight_g": 190
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 58,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-6s-22-2v-30c-li-ion-battery-xt60.html"
     ],
-    "weight_g": 756
+    "weight_g": 756,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1141",
@@ -8174,14 +8315,15 @@
     "schema_data": {
       "weight_g": 202
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 61,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-22-2v-30c-6s-li-ion-battery-xt30.html"
     ],
-    "weight_g": 756
+    "weight_g": 756,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1142",
@@ -8232,14 +8374,15 @@
     "schema_data": {
       "weight_g": 193
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 63,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/upgrade-energy-dark-lithium-red-2800mah-4s-14-8v-30c-li-ion-battery-xt30.html"
     ],
-    "weight_g": 504
+    "weight_g": 504,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1143",
@@ -8296,7 +8439,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/iflight-defender-25-4s-lipo-battery-900mah.html"
     ],
-    "weight_g": 162
+    "weight_g": 162,
+    "origin": "China"
   },
   {
     "pid": "BAT-1144",
@@ -8354,7 +8498,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/flywoo-explorer-750mah-hv-4s-80c-lipo-battery-2pcs-xt30.html"
     ],
-    "weight_g": 135
+    "weight_g": 135,
+    "origin": "China"
   },
   {
     "pid": "BAT-1145",
@@ -8412,7 +8557,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-750mah4s1p-95c-lipo-battery-v1-0-xt30.html"
     ],
-    "weight_g": 135
+    "weight_g": 135,
+    "origin": "China"
   },
   {
     "pid": "BAT-1146",
@@ -8460,7 +8606,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/dji-avata-intelligent-flight-battery.html"
     ],
-    "weight_g": 295
+    "weight_g": 295,
+    "origin": "China"
   },
   {
     "pid": "BAT-1147",
@@ -8518,7 +8665,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/hglrc-kratos-4s-450mah-75c-lipo-battery-xt30.html"
     ],
-    "weight_g": 81
+    "weight_g": 81,
+    "origin": "China"
   },
   {
     "pid": "BAT-1148",
@@ -8576,7 +8724,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1150mah-6s-130c-lipo-battery-xt-60.html"
     ],
-    "weight_g": 310
+    "weight_g": 310,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1149",
@@ -8634,7 +8783,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-ex-1350mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 243
+    "weight_g": 243,
+    "origin": "China"
   },
   {
     "pid": "BAT-1150",
@@ -8692,7 +8842,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1050mah-6s1p-130c-lipo-battery.html"
     ],
-    "weight_g": 284
+    "weight_g": 284,
+    "origin": "China"
   },
   {
     "pid": "BAT-1151",
@@ -8750,7 +8901,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-4-0-1400mah-6s1p-130c-lipo-battery.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "China"
   },
   {
     "pid": "BAT-1152",
@@ -8807,7 +8959,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-4s1p-3000mah-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 540
+    "weight_g": 540,
+    "origin": "China"
   },
   {
     "pid": "BAT-1153",
@@ -8864,7 +9017,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-max-21700-4s2p-10000mah-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 1800
+    "weight_g": 1800,
+    "origin": "China"
   },
   {
     "pid": "BAT-1154",
@@ -8921,7 +9075,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-max-21700-4s1p-5000mah-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 900
+    "weight_g": 900,
+    "origin": "China"
   },
   {
     "pid": "BAT-1155",
@@ -8979,7 +9134,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-850mah-4s-75c-battery-2pcs.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "China"
   },
   {
     "pid": "BAT-1156",
@@ -9037,7 +9193,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/betafpv-550mah-6s-75c-battery-2pcs.html"
     ],
-    "weight_g": 148
+    "weight_g": 148,
+    "origin": "China"
   },
   {
     "pid": "BAT-1157",
@@ -9088,14 +9245,15 @@
     "schema_data": {
       "weight_g": 190
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 362
+    "weight_g": 362,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1158",
@@ -9146,14 +9304,15 @@
     "schema_data": {
       "weight_g": 198
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 241
+    "weight_g": 241,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1159",
@@ -9203,14 +9362,15 @@
     "schema_data": {
       "weight_g": 199
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-adrenaline-v3-0-1340mah-5s-120c-lipo-battery.html"
     ],
-    "weight_g": 302
+    "weight_g": 302,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1160",
@@ -9267,7 +9427,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/zohd-lionpack-18650-4s1p-3500mah-14-8v-li-ion-battery.html"
     ],
-    "weight_g": 630
+    "weight_g": 630,
+    "origin": "China"
   },
   {
     "pid": "BAT-1161",
@@ -9325,7 +9486,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-extreme-1350mah-4s-150c-lipo-battery.html"
     ],
-    "weight_g": 243
+    "weight_g": 243,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1162",
@@ -9384,7 +9546,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-2250mah-6s-75c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 608
+    "weight_g": 608,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1163",
@@ -9435,14 +9598,15 @@
     "schema_data": {
       "weight_g": 207
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/ahtech-infinity-rs-force-v2-1300mah-120c-6s-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1164",
@@ -9501,7 +9665,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-2250mah-4s-75c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1165",
@@ -9560,7 +9725,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-850mah-4s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1166",
@@ -9611,14 +9777,15 @@
     "schema_data": {
       "weight_g": 196
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/ahtech-infinity-rs-force-v2-1300mah-100c-4s-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1167",
@@ -9677,7 +9844,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1250mah-6s-75c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1168",
@@ -9728,14 +9896,15 @@
     "schema_data": {
       "weight_g": 198
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1100mah-6s-100c-adrenaline-series-lipo-battery.html"
     ],
-    "weight_g": 297
+    "weight_g": 297,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1169",
@@ -9794,7 +9963,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1500mah-4s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1170",
@@ -9853,7 +10023,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/xilo-1300mah-4s-100c-lipo-battery.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1171",
@@ -9890,7 +10061,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/nitro-nectar-4s-1300-mah-battery-with-removable-balance-lead-rbl-aluminum-shield.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1172",
@@ -9927,7 +10099,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-850mah-4s-60c-lipo-battery-w-removable-balance-lead.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1173",
@@ -9964,7 +10137,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-1800mah-4s-80c-lipo-battery-w-removable-balance-lead-aluminum-shield.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1174",
@@ -10001,7 +10175,8 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/newbeedrone-nitro-nectar-1500mah-4s-80c-lipo-battery-w-removable-balance-lead-aluminum-shield.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1175",
@@ -10059,7 +10234,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1300mah-4s-95c-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1176",
@@ -10117,7 +10293,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-850mah-14-8v-75c-4s1p-lipo-battery-pack-xt30.html"
     ],
-    "weight_g": 153
+    "weight_g": 153,
+    "origin": "China"
   },
   {
     "pid": "BAT-1177",
@@ -10175,7 +10352,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 180
+    "weight_g": 180,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1178",
@@ -10232,7 +10410,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1500mah-5s-80c-lipo-battery.html"
     ],
-    "weight_g": 338
+    "weight_g": 338,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1179",
@@ -10290,7 +10469,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-1550mah-4s-95c-lipo-battery.html"
     ],
-    "weight_g": 279
+    "weight_g": 279,
+    "origin": "China"
   },
   {
     "pid": "BAT-1180",
@@ -10348,7 +10528,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-1300mah-4s-95c-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "China"
   },
   {
     "pid": "BAT-1181",
@@ -10406,7 +10587,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-graphene-1500mah-4s-80c-lipo-battery.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1182",
@@ -10464,7 +10646,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1900mah-4s-85c-lipo-battery.html"
     ],
-    "weight_g": 342
+    "weight_g": 342,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1183",
@@ -10515,14 +10698,15 @@
     "schema_data": {
       "weight_g": 201
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1300mah-6s-70c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1184",
@@ -10573,14 +10757,15 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-rampage-1300mah-4s-70c-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1185",
@@ -10638,7 +10823,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-60c-lipo-battery-xt60.html"
     ],
-    "weight_g": 180
+    "weight_g": 180,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1186",
@@ -10696,7 +10882,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-3500mah-4s-120c-lipo-battery.html"
     ],
-    "weight_g": 630
+    "weight_g": 630,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1187",
@@ -10754,7 +10941,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-r-line-version-1-0-550mah-4s-95c-lipo-battery-xt30.html"
     ],
-    "weight_g": 99
+    "weight_g": 99,
+    "origin": "China"
   },
   {
     "pid": "BAT-1188",
@@ -10812,7 +11000,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-450mah-4s-75c-lipo-battery-long-size-xt30.html"
     ],
-    "weight_g": 81
+    "weight_g": 81,
+    "origin": "China"
   },
   {
     "pid": "BAT-1189",
@@ -10869,7 +11058,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/auline-21700-4000mah-14-8v-a45-4s-li-ion-battery-xt60.html"
     ],
-    "weight_g": 720
+    "weight_g": 720,
+    "origin": "China"
   },
   {
     "pid": "BAT-1190",
@@ -10927,7 +11117,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-silicon-graphene-1500mah-6s-95c-lipo-battery.html"
     ],
-    "weight_g": 405
+    "weight_g": 405,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1191",
@@ -10985,7 +11176,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-95c-lipo-battery-xt60.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1192",
@@ -11043,7 +11235,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-45c-lipo-battery.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1193",
@@ -11094,14 +11287,15 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 31,
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/thunder-power-1800mah-4s-70c-lipo-battery.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1194",
@@ -11159,7 +11353,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-6s-35c-lipo-battery.html"
     ],
-    "weight_g": 351
+    "weight_g": 351,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1195",
@@ -11217,7 +11412,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1000mah-4s-35c-lipo-battery.html"
     ],
-    "weight_g": 180
+    "weight_g": 180,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1196",
@@ -11275,7 +11471,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-1800mah-4s-75c-lipo-battery.html"
     ],
-    "weight_g": 324
+    "weight_g": 324,
+    "origin": "China"
   },
   {
     "pid": "BAT-1197",
@@ -11333,7 +11530,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-1400mah-6s-75c-lipo-battery.html"
     ],
-    "weight_g": 378
+    "weight_g": 378,
+    "origin": "China"
   },
   {
     "pid": "BAT-1198",
@@ -11391,7 +11589,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/tattu-2200mah-4s-35c-lipo-battery.html"
     ],
-    "weight_g": 396
+    "weight_g": 396,
+    "origin": "China"
   },
   {
     "pid": "BAT-1199",
@@ -11449,7 +11648,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1300mah-4s-80c-15-2v-high-voltage-lipo-battery.html"
     ],
-    "weight_g": 234
+    "weight_g": 234,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1200",
@@ -11507,7 +11707,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-1500mah-4s-80c-15-2v-high-voltage-lipo-battery.html"
     ],
-    "weight_g": 270
+    "weight_g": 270,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1201",
@@ -11565,7 +11766,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-1100mah-6s-120c-lipo-battery.html"
     ],
-    "weight_g": 297
+    "weight_g": 297,
+    "origin": "USA"
   },
   {
     "pid": "BAT-1202",
@@ -11622,7 +11824,8 @@
     "links": [
       "https://www.getfpv.com/batteries/mini-quad-batteries/geprc-vtc6-18650-6s1p-3000mah-22-2v-li-ion-battery.html"
     ],
-    "weight_g": 810
+    "weight_g": 810,
+    "origin": "China"
   },
   {
     "pid": "BAT-1300",
@@ -11674,7 +11877,8 @@
     "price_usd": 60,
     "links": [
       "https://www.molicel.com/"
-    ]
+    ],
+    "origin": "Taiwan"
   },
   {
     "pid": "BAT-1301",
@@ -11725,7 +11929,8 @@
     "price_usd": 60,
     "links": [
       "https://www.molicel.com/"
-    ]
+    ],
+    "origin": "Taiwan"
   },
   {
     "pid": "BAT-1302",
@@ -11773,7 +11978,8 @@
     "price_usd": 61,
     "links": [
       "https://www.molicel.com/"
-    ]
+    ],
+    "origin": "Taiwan"
   },
   {
     "pid": "BAT-1303",
@@ -11815,13 +12021,14 @@
     "schema_data": {
       "weight_g": 199
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 52,
     "links": [
       "https://www.samsungsdi.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1304",
@@ -11863,13 +12070,14 @@
     "schema_data": {
       "weight_g": 206
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 63,
     "links": [
       "https://www.samsungsdi.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1305",
@@ -11911,13 +12119,14 @@
     "schema_data": {
       "weight_g": 197
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "South Korea",
     "price_usd": 58,
     "links": [
       "https://www.lgensol.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1306",
@@ -11962,13 +12171,14 @@
     "schema_data": {
       "weight_g": 197
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 25,
     "links": [
       "https://www.amprius.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1307",
@@ -12011,13 +12221,14 @@
     "schema_data": {
       "weight_g": 204
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
     "links": [
       "https://www.amprius.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1308",
@@ -12062,13 +12273,14 @@
     "schema_data": {
       "weight_g": 208
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
     "links": [
       "https://www.kulrtechnology.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1309",
@@ -12111,13 +12323,14 @@
     "schema_data": {
       "weight_g": 194
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 56,
     "links": [
       "https://www.eaglepicher.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1310",
@@ -12160,13 +12373,14 @@
     "schema_data": {
       "weight_g": 193
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Israel",
     "price_usd": 30,
     "links": [
       "https://epsilor.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1311",
@@ -12209,10 +12423,11 @@
     "schema_data": {
       "weight_g": 205
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
-    "price_usd": 26
+    "price_usd": 26,
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1312",
@@ -12256,13 +12471,14 @@
     "schema_data": {
       "weight_g": 195
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 33,
     "links": [
       "https://lyten.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-1313",
@@ -12306,13 +12522,14 @@
     "schema_data": {
       "weight_g": 198
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 59,
     "links": [
       "https://www.evebattery.com/"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "BAT-FF-SL8AIR",
@@ -12334,7 +12551,8 @@
     "firmware_compat": [
       "Auterion Enterprise PX4"
     ],
-    "link": "https://freeflysystems.com/astro"
+    "link": "https://freeflysystems.com/astro",
+    "origin": "USA"
   },
   {
     "pid": "BAT-FF-SL4GND",
@@ -12353,7 +12571,8 @@
       "smart-battery"
     ],
     "firmware_compat": [],
-    "link": "https://freeflysystems.com"
+    "link": "https://freeflysystems.com",
+    "origin": "USA"
   },
   {
     "pid": "CAT-3215",

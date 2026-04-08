@@ -48,9 +48,10 @@
     "links": [
       "https://hailo.ai/products/ai-accelerators/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv, Israel. Allied-nation NDAA compliant.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0002",
@@ -106,9 +107,10 @@
     "links": [
       "https://hailo.ai/products/ai-accelerators/hailo-10h-m-2-ai-acceleration-module/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv, Israel. Allied-nation NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0003",
@@ -151,9 +153,10 @@
     "links": [
       "https://www.ambarella.com/products/aiot-industrial-robotics/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ambarella Inc., Santa Clara CA. US semiconductor company (NASDAQ: AMBA). NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0004",
@@ -194,9 +197,10 @@
     "links": [
       "https://www.ambarella.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ambarella Inc., Santa Clara CA. US semiconductor company (NASDAQ: AMBA). NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0005",
@@ -235,9 +239,10 @@
     "links": [
       "https://coral.ai/products/accelerator/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Google LLC, Mountain View CA. US company. Coral Edge TPU. NDAA compliant.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0006",
@@ -273,9 +278,10 @@
     "links": [
       "https://www.kneron.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Kneron Inc., San Diego CA. US-incorporated AI chip company (Taiwan-founded). NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0007",
@@ -311,9 +317,10 @@
     "links": [
       "https://www.deepx.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DeepX Inc., Seoul, South Korea. Allied-nation NDAA compliant. Edge AI semiconductor company.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0008",
@@ -366,7 +373,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "USA"
   },
   {
     "pid": "AIACCEL-0009",
@@ -410,9 +418,10 @@
     "links": [
       "https://www.qualcomm.com/products/technology/robotics"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Qualcomm Technologies, San Diego CA. US semiconductor (NASDAQ: QCOM). NDAA compliant.",
-    "weight_g": 5.0
+    "weight_g": 5.0,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0010",
@@ -457,9 +466,10 @@
     "links": [
       "https://www.intel.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Intel Corporation, Santa Clara CA. US company. NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0011",
@@ -499,9 +509,10 @@
     "links": [
       "https://www.kinara.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Kinara Inc., San Jose CA \u2014 acquired by NXP Semiconductors (Netherlands) 2024. US-origin, NXP is allied-nation. NDAA compliant.",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0012",
@@ -535,9 +546,10 @@
     "links": [
       "https://www.axelera.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Axelera AI, Eindhoven, Netherlands. EU/NATO allied-nation NDAA compliant.",
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "Unknown"
   },
   {
     "pid": "AIACCEL-0013",
@@ -580,9 +592,10 @@
     "links": [
       "https://www.syntiant.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Syntiant Corp., Irvine CA. US ultra-low-power neural decision processor. NDAA compliant.",
-    "weight_g": 1
+    "weight_g": 1,
+    "origin": "Unknown"
   },
   {
     "pid": "AI-0014",
@@ -657,6 +670,7 @@
       "https://echomav.com/products/compute-module-orin-nx"
     ],
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
-    "weight_g": 60
+    "weight_g": 60,
+    "origin": "USA"
   }
 ]

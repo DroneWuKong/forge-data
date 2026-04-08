@@ -34,7 +34,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-set-of-2-dji-goggles-2-lhcp-blackout.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1001",
@@ -65,14 +66,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/spironet-mox-915mhz-rp-sma-m-s-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1002",
@@ -103,14 +105,15 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/spironet-mox-490mhz-rp-sma-m-s-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1003",
@@ -141,14 +144,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/spironet-megaqt-490mhz-rp-sma-m-s-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1004",
@@ -179,14 +183,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
     "links": [
       "https://www.getfpv.com/fpv/antennas/spironet-megaqt-915mhz-rp-sma-m-s-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1005",
@@ -217,14 +222,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12.99,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-2-4ghz-victory-long-range-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1006",
@@ -255,14 +261,15 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-walksnail-fatshark-5-8ghz-lhcp-upgrade-antenna-set-of-4.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1008",
@@ -299,7 +306,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-stubby-combo-for-hdzero-vrx4.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1009",
@@ -336,7 +344,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-5-8ghz-antenna-rhcp-2-pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1010",
@@ -374,7 +383,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-915mhz-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1011",
@@ -411,7 +421,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-line-air-5-8ghz-mk-ii-for-dji-goggles-2-set-of-2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1012",
@@ -448,7 +459,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8-mk-ii-antenna-set-of-2-dji-goggles-2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1014",
@@ -486,7 +498,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-duality-2-4-5-8ghz-rp-sma-stubby-antenna-for-dji-fpv-goggles-v2-4pcs-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1015",
@@ -516,14 +529,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/bdi-patch-g2-5-8ghz-foldable-antenna-for-dji-goggles-2-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1017",
@@ -561,7 +575,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-airscrew-5-8ghz-mmcx-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1018",
@@ -599,7 +614,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-airscrew-5-8ghz-lr-sma-90-degree-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1019",
@@ -637,7 +653,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-ninja-star-lr-linear-antenna-u-fl.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1020",
@@ -675,7 +692,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-ninja-star-lr-linear-antenna-sma.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1022",
@@ -713,7 +731,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-stubby-combo-for-hdzero-vrx4-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1023",
@@ -743,14 +762,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-avenger-xr18-5-8ghz-antenna-lhcp-rhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1024",
@@ -780,14 +800,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-avenger-xr15-5-8ghz-antenna-lhcp-rhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1025",
@@ -818,14 +839,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-crosshair-xtreme-mini-5-8ghz-antenna-sma-rhcp-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1026",
@@ -856,14 +878,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-diamond-antenna-1380mhz-sma.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1027",
@@ -900,7 +923,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1028",
@@ -937,7 +961,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/walksnail-patch-antenna-v2-avatar-goggles-x.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ANT-1029",
@@ -974,7 +999,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-duality-hd-2-4-5-8ghz-dual-band-antenna-for-dji-o3-o4-walksnail.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1030",
@@ -1011,7 +1037,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-core-5-8ghz-antenna-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1031",
@@ -1049,7 +1076,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-core-5-8ghz-side-feed-antenna-mmcx-mmcx90-85mm-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1032",
@@ -1087,7 +1115,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-core-5-8ghz-side-feed-antenna-sma-100mm.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1034",
@@ -1123,7 +1152,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/walksnail-avatar-vtx-antenna-v2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1036",
@@ -1153,14 +1183,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-2-4ghz-shapeshifter-selectable-gain-antenna-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1037",
@@ -1191,14 +1222,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-victory-5-8ghz-stubby-antenna-rhcp-rp-sma.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1038",
@@ -1235,7 +1267,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-quadro-5-8ghz-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1039",
@@ -1271,7 +1304,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-set-of-2-hdzero-goggles.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1040",
@@ -1308,7 +1342,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-stubby-combo-hdzero-goggles.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1041",
@@ -1338,14 +1373,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-pepperbox-xtreme-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1042",
@@ -1381,7 +1417,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-set-of-2-dji-goggles-2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1043",
@@ -1411,14 +1448,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-pepperbox-xtreme-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1044",
@@ -1455,7 +1493,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/radiomaster-2-4ghz-moxon-directional-antenna-rp-sma.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ANT-1045",
@@ -1493,7 +1532,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-patch-hd-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1046",
@@ -1531,7 +1571,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-patch-hd-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1048",
@@ -1568,7 +1609,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-pair-for-walksnail.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1049",
@@ -1604,7 +1646,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-pair-for-hdzero-vrx4.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1050",
@@ -1640,7 +1683,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x2-air-5-8ghz-mk-ii-antenna-pair-for-hdzero-vrx4.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1051",
@@ -1677,7 +1721,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-2-patch-visor-5-8ghz-antennas-for-dji-fpv-goggles.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1052",
@@ -1707,14 +1752,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-2-patch-visor-5-8ghz-antenna-combo-set-for-dji-fpv-goggles.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ANT-1053",
@@ -1751,7 +1797,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/happymodel-expresslrs-ep1-rx-2-4ghz-omnidirectional-u-fl-antenna.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ANT-1054",
@@ -1788,7 +1835,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-90-degree-mmcx.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1055",
@@ -1825,7 +1873,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-u-fl.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1056",
@@ -1862,7 +1911,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-stubby-sma.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1057",
@@ -1899,7 +1949,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-hd-2-antenna-5-8ghz-stubby-for-dji-goggles-rp-sma.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1058",
@@ -1936,7 +1987,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-u-fl-lite.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1059",
@@ -1973,7 +2025,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1060",
@@ -2010,7 +2063,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-straight-mmcx.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1061",
@@ -2047,7 +2101,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-2-antenna-5-8ghz-90-degree-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1063",
@@ -2083,7 +2138,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-antenna-combo-kit-w-singularity-antennas-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1064",
@@ -2120,7 +2176,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-matchstick-5-8ghz-antenna-carbon-edition.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1065",
@@ -2157,7 +2214,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-duality-dual-mox-hd-2-4-5-8ghz-dual-band-high-gain-antenna-1pc.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1066",
@@ -2194,7 +2252,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-duality-dual-mox-hd-2-4-5-8ghz-dual-band-high-gain-antenna-combo-4pcs.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1067",
@@ -2232,7 +2291,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-hd-long-range-5-8ghz-antenna-lhcp-rpsma.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1068",
@@ -2270,7 +2330,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-hd-long-range-5-8ghz-antenna-lhcp-rpsma-right-angle.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1069",
@@ -2300,14 +2361,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-crosshair-xtreme-v2-1-3ghz-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1070",
@@ -2345,7 +2407,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-mk-ii-sma-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1071",
@@ -2383,7 +2446,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-u-fl-5-8ghz-antenna-extended-wire-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1072",
@@ -2420,7 +2484,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-duality-hd-stubby-2-4-5-8ghz-dual-band-antenna-4x-combo-for-dji-digital-hd-fpv-goggles-v2.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1073",
@@ -2457,7 +2522,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-stubby-5-8ghz-antenna-combo-set.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1074",
@@ -2495,7 +2561,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-long-range-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1075",
@@ -2533,7 +2600,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-long-range-right-angle-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1076",
@@ -2571,7 +2639,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-long-range-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1077",
@@ -2602,14 +2671,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-rhcp-ufl-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1078",
@@ -2640,14 +2710,15 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 7,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-lhcp-ufl-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1079",
@@ -2678,14 +2749,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-pagoda-stubby-5-8ghz-antenna-set-for-dji-lhcp-set-of-4-99.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1080",
@@ -2721,7 +2793,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-crossfire-stock-tx-v2-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1081",
@@ -2757,7 +2830,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/immersionrc-lzr-mini-5-8ghz-headset-diversity-antennas-rchp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1082",
@@ -2794,7 +2868,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1083",
@@ -2832,7 +2907,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-ultra-long-range-diversity-antenna-bundle-5-8ghz-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1084",
@@ -2870,7 +2946,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-ultra-long-range-diversity-antenna-bundle-5-8ghz-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1085",
@@ -2908,7 +2985,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-duo-patch-antenna-5-8ghz-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1086",
@@ -2943,7 +3021,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-1-3ghz-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1087",
@@ -2980,7 +3059,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-fpvcycle-minimortal-t-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1088",
@@ -3010,14 +3090,15 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-915mhz-xfire-pro-antenna-u-fl.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1091",
@@ -3055,7 +3136,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-stubby-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1092",
@@ -3085,14 +3167,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-dual-shield-pro-5-8ghz-antenna-white-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1093",
@@ -3122,14 +3205,15 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-dual-shield-pro-5-8ghz-antenna-white-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1094",
@@ -3159,14 +3243,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-dual-shield-pro-5-8ghz-antenna-black-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1095",
@@ -3196,14 +3281,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-dual-shield-pro-5-8ghz-dual-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1096",
@@ -3241,7 +3327,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-diversity-antenna-bundle-5-8ghz-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1097",
@@ -3279,7 +3366,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-diversity-antenna-bundle-5-8ghz-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1098",
@@ -3316,7 +3404,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-airblade-tuffpole-900mhz-antenna-ipx-4-for-frsky-r9.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1099",
@@ -3354,7 +3443,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-diversity-antenna-bundle-5-8ghz-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1100",
@@ -3392,7 +3482,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-diversity-antenna-bundle-5-8ghz-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1101",
@@ -3430,7 +3521,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-stubby-antenna-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1102",
@@ -3468,7 +3560,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma90-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1103",
@@ -3506,7 +3599,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma90-long-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1104",
@@ -3544,7 +3638,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-em-vee-900-sma-flexible-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1105",
@@ -3583,7 +3678,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-stubby-sma-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1106",
@@ -3622,7 +3718,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-long-range-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1107",
@@ -3661,7 +3758,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-long-range-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1108",
@@ -3699,7 +3797,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-stubby-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1109",
@@ -3736,7 +3835,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1110",
@@ -3773,7 +3873,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-right-angle-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1111",
@@ -3811,7 +3912,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-stubby-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1112",
@@ -3849,7 +3951,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-u-fl-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1113",
@@ -3887,7 +3990,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-stubby-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1114",
@@ -3924,7 +4028,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-long-range-right-angle-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1115",
@@ -3962,7 +4067,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-straight-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1116",
@@ -4000,7 +4106,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1117",
@@ -4030,14 +4137,15 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-1-3ghz-bluebeam-pro-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1118",
@@ -4067,14 +4175,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-1-3ghz-bluebeam-pro-sidefeed-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1121",
@@ -4105,14 +4214,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-crosshair-xtreme-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1122",
@@ -4150,7 +4260,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-microvee-antenna-868mhz.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1123",
@@ -4188,7 +4299,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-microvee-antenna-915mhz.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1124",
@@ -4223,7 +4335,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-xf-race-antenna-915mhz.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1125",
@@ -4253,14 +4366,15 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-antenna-pack-5-8ghz-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1126",
@@ -4298,7 +4412,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-5-8ghz-rhcp-fpv-antenna-set-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1127",
@@ -4327,14 +4442,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3ghz-sky-hammer-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1128",
@@ -4370,7 +4486,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-mk-ii-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1129",
@@ -4408,7 +4525,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-stubby-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1130",
@@ -4446,7 +4564,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-patch-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1131",
@@ -4484,7 +4603,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma-long-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1133",
@@ -4519,7 +4639,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-sniper-ii-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1134",
@@ -4555,7 +4676,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/walksnail-avatar-vtx-antenna-set-of-2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1135",
@@ -4593,7 +4715,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-airscrew-5-8ghz-lr-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1136",
@@ -4631,7 +4754,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8ghz-stubby-for-dji-lhcp-4pcs.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1137",
@@ -4662,14 +4786,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-sma-short-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1139",
@@ -4707,7 +4832,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-double-axii-2-long-range-right-angle-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1140",
@@ -4746,7 +4872,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-sma-5-8ghz-antenna-rhcp-2pcs.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1141",
@@ -4784,7 +4911,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-straight-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1142",
@@ -4821,7 +4949,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-stubby-5-8ghz-antenna-for-dji-digital-hd-fpv-goggles.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1143",
@@ -4851,14 +4980,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-868-915mhz-shapeshifter-selectable-gain-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1144",
@@ -4896,7 +5026,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma-long-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1145",
@@ -4927,14 +5058,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-crosshair-xtreme-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1146",
@@ -4972,7 +5104,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-patch-antenna-5-8ghz-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1147",
@@ -5011,7 +5144,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-straight-mmcx-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1148",
@@ -5042,14 +5176,15 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-micro-switchblade-u-fl-antenna-by-ibcrazy-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1149",
@@ -5079,14 +5214,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-2-4hz-shapeshifter-selectable-gain-antenna-rpsma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1150",
@@ -5124,7 +5260,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-bardpole-2-4ghz-u-fl-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1151",
@@ -5154,14 +5291,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-thrasher-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1152",
@@ -5198,7 +5336,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/betafpv-expresslrs-915mhz-868mhz-46mm-dipole-t-antenna-2pcs.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "China"
   },
   {
     "pid": "ANT-1153",
@@ -5235,7 +5374,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/caddx-polar-5-8ghz-replacement-antenna-10-5cm.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1154",
@@ -5272,7 +5412,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-line-air-900mhz-linear-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1155",
@@ -5310,7 +5451,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-duo-patch-antenna-5-8ghz-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1156",
@@ -5341,14 +5483,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-skyhammer-sma-antenna-rhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1157",
@@ -5386,7 +5529,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-5g8-mmcx-linear-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1158",
@@ -5417,14 +5561,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/uhf-semi-rigid-dipole-433-mhz-ibcrazy.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1159",
@@ -5460,7 +5605,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/walksnail-redbird-antenna-v2-set-of-2-avatar-goggles-x.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1160",
@@ -5497,7 +5643,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/geprc-triple-feed-patch-array-5-8ghz-14dbi-antenna-hm-rpsma.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "China"
   },
   {
     "pid": "ANT-1161",
@@ -5527,14 +5674,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-pepperbox-xtreme-2-4ghz-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1162",
@@ -5572,7 +5720,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma90-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1163",
@@ -5602,14 +5751,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-madmushroom-v3-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1164",
@@ -5639,14 +5789,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
     "links": [
       "https://www.getfpv.com/fpv/antennas/uhf-moxon-rectangle-433-mhz-ibcrazy.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1165",
@@ -5684,7 +5835,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-1280-v2-1-3ghz-1-9-dbic-antenna-rhcp-sma-90.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1167",
@@ -5721,7 +5873,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-line-air-1-3ghz-linear-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1168",
@@ -5759,7 +5912,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/hglrc-hammer-5-8ghz-dual-antenna-sma-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1170",
@@ -5796,7 +5950,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/dji-o4-air-unit-pro-antenna.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ANT-1173",
@@ -5827,14 +5982,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 5,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-ion-pro-5-8ghz-sma-short-antenna-lhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1174",
@@ -5863,14 +6019,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-walksnail-vrx-crosshair-xtreme-mini-mod-rhcp-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1176",
@@ -5908,7 +6065,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-5-8ghz-antenna-w-locking-u-fl-rhcp-five33-edition.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1178",
@@ -5944,7 +6102,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-ray-5-8ghz-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1179",
@@ -5979,7 +6138,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/dji-o3-air-unit-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "China"
   },
   {
     "pid": "ANT-1181",
@@ -6010,14 +6170,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 7,
     "links": [
       "https://www.getfpv.com/fpv/antennas/orqa-fpv-01-pro-5-8ghz-sma-omni-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1182",
@@ -6050,7 +6211,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-cybermech-led-visor-for-dji-fpv-goggles.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1183",
@@ -6087,7 +6249,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8-mk-ii-antenna-pair-for-shark-byte-hd-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1184",
@@ -6125,7 +6288,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8-mk-ii-antenna-pair-for-shark-byte-hd-stubby-combo-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1185",
@@ -6156,14 +6320,15 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/orqa-fpv-p1-pro-5-8ghz-sma-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1186",
@@ -6201,7 +6366,8 @@
     "links": [
       "https://www.getfpv.com/catalog/product/view/id/11975/s/dummy-antenna/category/49/"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1187",
@@ -6239,7 +6405,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/dummy-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1188",
@@ -6277,7 +6444,8 @@
     "links": [
       "https://www.getfpv.com/catalog/product/view/id/11979/s/dummy-antenna/category/49/"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1189",
@@ -6315,7 +6483,8 @@
     "links": [
       "https://www.getfpv.com/catalog/product/view/id/11980/s/dummy-antenna/category/49/"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1190",
@@ -6349,7 +6518,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1191",
@@ -6387,7 +6557,8 @@
     "links": [
       "https://www.getfpv.com/catalog/product/view/id/11983/s/dummy-antenna/category/49/"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1192",
@@ -6423,7 +6594,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-900-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1194",
@@ -6460,7 +6632,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/happymodel-expresslrs-es24tx-2-4ghz-sma-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1195",
@@ -6496,7 +6669,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-mk-ii-5-8ghz-antenna-for-dji-fpv-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1196",
@@ -6531,7 +6705,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-vulcan-mk-ii-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1197",
@@ -6567,7 +6742,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-vulcan-mk-ii-5-8ghz-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1198",
@@ -6604,7 +6780,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-true-mox-2-4ghz-rpsma-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1199",
@@ -6639,7 +6816,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-vulcan-mk-ii-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1200",
@@ -6677,7 +6855,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-gatling-v2-1-3ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1201",
@@ -6715,7 +6894,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-2-4ghz-v2-sma-antenna-side-fed-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1202",
@@ -6753,7 +6933,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-2-4ghz-v2-sma-antenna-bottom-fed-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1203",
@@ -6791,7 +6972,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-antenna-red-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1204",
@@ -6829,7 +7011,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-long-antenna-green-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1205",
@@ -6867,7 +7050,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-antenna-white-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1206",
@@ -6905,7 +7089,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-long-antenna-red-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1207",
@@ -6943,7 +7128,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-long-antenna-blue-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1208",
@@ -6981,7 +7167,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-antenna-blue-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1209",
@@ -7019,7 +7206,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-antenna-green-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1210",
@@ -7057,7 +7245,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-blaze-5-8ghz-u-fl-long-antenna-white-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1211",
@@ -7093,7 +7282,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/caddx-vista-antenna-15cm.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1212",
@@ -7130,7 +7320,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-duality-hd-stubby-2-4-5-8ghz-dual-band-antenna-for-dji-digital-hd-fpv-goggles-v2.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1213",
@@ -7161,14 +7352,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/hom-fpv-ipex-5-8ghz-lhcp-fpv-antenna.html"
     ],
-    "weight_g": 5.8
+    "weight_g": 5.8,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1214",
@@ -7206,7 +7398,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-pro-long-range-5-8ghz-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1215",
@@ -7237,14 +7430,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-rhcp-sma-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1216",
@@ -7275,14 +7469,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 5,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-lhcp-sma-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1217",
@@ -7313,14 +7508,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-rhcp-mmcx-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1218",
@@ -7351,14 +7547,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-lhcp-mmcx-5-8ghz-omni-for-fpv-planes-and-wings.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "France"
   },
   {
     "pid": "ANT-1219",
@@ -7394,7 +7591,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-5-8ghz-antenna-combo-set-for-dji-digital-hd-fpv-goggles.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1220",
@@ -7431,7 +7629,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-hd-patch-5-8ghz-antennas-for-dji-digital-hd-fpv-goggles-2pcs.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1221",
@@ -7468,7 +7667,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/rushfpv-micro-915mhz-u-fl-antenna.html"
     ],
-    "weight_g": 1.7
+    "weight_g": 1.7,
+    "origin": "China"
   },
   {
     "pid": "ANT-1222",
@@ -7504,7 +7704,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/caddx-vista-antenna-8cm.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1223",
@@ -7534,14 +7735,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-cyclops-mini-antenna-array-for-dji-digital-hd-fpv-system-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1224",
@@ -7576,7 +7778,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8ghz-array-for-rapidfire-fat-shark-lhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1225",
@@ -7614,7 +7817,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-ocp-5-8-sma-flex-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1226",
@@ -7644,14 +7848,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menance-digipack-antenna-set-for-dji-digital-fpv-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1228",
@@ -7688,7 +7893,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1229",
@@ -7719,14 +7925,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/orqa-fpv-01-pro-5-8ghz-sma-omni-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1230",
@@ -7763,7 +7970,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-ocp-5-8-sma-long-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1231",
@@ -7794,14 +8002,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-victory-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1232",
@@ -7832,14 +8041,15 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 7,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-tiny-whoop-dipole-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1233",
@@ -7868,14 +8078,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-868-915mhz-longshot-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1234",
@@ -7911,7 +8122,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-5g8-patch-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1235",
@@ -7949,7 +8161,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-stubby-5-8ghz-antenna-skitzo-hydro-dip-se-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1236",
@@ -7986,7 +8199,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-pro-antenna-sma.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1238",
@@ -8024,7 +8238,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-right-angle-stubby-5-8ghz-antenna-skitzo-hydro-dip-se-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1239",
@@ -8062,7 +8277,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-stubby-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1240",
@@ -8092,14 +8308,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-dual-shield-pro-5-8ghz-antenna-black-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1241",
@@ -8130,14 +8347,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ort-quad-shield-pro-5-8ghz-rp-sma-patch-antennas-for-dji-goggles-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1242",
@@ -8174,7 +8392,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-5-8ghz-for-dji-fpv-lhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1243",
@@ -8212,7 +8431,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-868mhz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1244",
@@ -8248,7 +8468,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-2-4ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1245",
@@ -8279,14 +8500,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-sma-short-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1246",
@@ -8317,14 +8539,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-sma-long-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1247",
@@ -8355,14 +8578,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-u-fl-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1248",
@@ -8393,14 +8617,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-mmcx-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1249",
@@ -8431,14 +8656,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-mmcx-90-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1250",
@@ -8469,14 +8695,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-minion-pro-mmcx-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1251",
@@ -8512,7 +8739,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-replacement-caps-lhcp-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1252",
@@ -8548,7 +8776,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-replacement-caps-rhcp-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1253",
@@ -8586,7 +8815,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/emax-nano-5-8ghz-sma-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1254",
@@ -8623,7 +8853,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-5-8ghz-x-2-air-dual-fpv-antenna-lhcp-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1255",
@@ -8659,7 +8890,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-2-4-side-feed-90-degree-lhcp-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1256",
@@ -8697,7 +8929,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-2-4-v2-side-feed-90-degree-rhcp-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1257",
@@ -8734,7 +8967,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-airblade-tuffpole-900-mhz-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1258",
@@ -8771,7 +9005,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-true-mox-868-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1259",
@@ -8808,7 +9043,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-true-mox-868-rp-sma-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1260",
@@ -8846,7 +9082,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-em-vee-900-u-fl-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1261",
@@ -8877,14 +9114,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-ion-v2-stubby-antenna-rhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1262",
@@ -8915,14 +9153,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-ion-v2-stubby-antenna-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1263",
@@ -8961,7 +9200,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-mmcx-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1264",
@@ -9000,7 +9240,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-stubby-sma-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1265",
@@ -9037,7 +9278,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/dji-fpv-air-unit-antenna-mmcx-straight.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1267",
@@ -9073,7 +9315,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1268",
@@ -9111,7 +9354,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1269",
@@ -9149,7 +9393,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-u-fl-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1270",
@@ -9187,7 +9432,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-stubby-axii-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1271",
@@ -9224,7 +9470,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-2-5-8ghz-antenna-lhcp-2-pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1272",
@@ -9262,7 +9509,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-pro-5-8ghz-fpv-antenna-rhcp-u-fl.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1273",
@@ -9300,7 +9548,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-pro-5-8ghz-fpv-antenna-rhcp-mmcx-90.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1274",
@@ -9338,7 +9587,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-pro-5-8ghz-fpv-antenna-rhcp-mmcx.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1277",
@@ -9376,7 +9626,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-straight-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1278",
@@ -9414,7 +9665,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-straight-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1279",
@@ -9451,7 +9703,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-bare-wire-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1280",
@@ -9489,7 +9742,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-straight-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1281",
@@ -9527,7 +9781,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-straight-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1282",
@@ -9561,7 +9816,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-aerum-polar-p-5g8-mimo-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1283",
@@ -9595,7 +9851,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-aerum-polar-x-5g8-mimo-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1284",
@@ -9628,7 +9885,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-aerum-polar-s-5g8-mimo-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1285",
@@ -9658,14 +9916,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-madmushroom-v2-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1290",
@@ -9695,14 +9954,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/fpv/antennas/orqa-fpv-p1-5-8ghz-patch-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Croatia"
   },
   {
     "pid": "ANT-1291",
@@ -9737,7 +9997,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-gatling-2-4ghz-antenna-rhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1292",
@@ -9772,7 +10033,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-2-4ghz-antenna-rhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1293",
@@ -9808,7 +10070,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x2-air-2-4ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1294",
@@ -9845,7 +10108,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-em-vee-1-3ghz-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1295",
@@ -9876,14 +10140,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-numskull-2-4ghz-patch-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1296",
@@ -9919,7 +10184,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8ghz-antenna-rhcp-99.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1297",
@@ -9955,7 +10221,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1298",
@@ -9985,14 +10252,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-bluebleam-ultra-v2-5-8ghz-antenna-set-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1299",
@@ -10022,14 +10290,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-pepperbox-xtreme-2-4ghz-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1300",
@@ -10060,14 +10329,15 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-crosshair-xtreme-2-4ghz-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1301",
@@ -10106,7 +10376,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-pagoda-2-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1302",
@@ -10145,7 +10416,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-pagoda-2-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1303",
@@ -10176,14 +10448,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-periscope-5-8ghz-omni-sma-antenna-90-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1304",
@@ -10221,7 +10494,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-u-fl-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1305",
@@ -10259,7 +10533,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1306",
@@ -10297,7 +10572,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-u-fl-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1307",
@@ -10335,7 +10611,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-mmcx-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1308",
@@ -10373,7 +10650,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/emax-pagoda-3b-5-8ghz-30mm-sma-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1309",
@@ -10411,7 +10689,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-odine-5-8ghz-sma-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1310",
@@ -10449,7 +10728,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-odine-5-8ghz-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1311",
@@ -10479,14 +10759,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-pepperbox-xtreme-1-3ghz-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1312",
@@ -10516,14 +10797,15 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-switchblade-5-8ghz-rhcp-lhcp-hot-swap-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1313",
@@ -10561,7 +10843,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/emax-pagoda-3b-5-8ghz-30mm-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1320",
@@ -10599,7 +10882,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/hglrc-5-8ghz-u-fl-linear-dipole-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "China"
   },
   {
     "pid": "ANT-1321",
@@ -10630,14 +10914,15 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-5-8ghz-4-leaf-clover-antenna-set-for-tx-rx-rpsma-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1322",
@@ -10668,14 +10953,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-picopatch-lhcp-5-8ghz-sma-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1323",
@@ -10710,7 +10996,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-xf-race-antenna-868mhz.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1324",
@@ -10747,7 +11034,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/immersionrc-spironet-v2-5-8ghz-lhcp-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1325",
@@ -10784,7 +11072,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/immersionrc-spironet-v2-5-8ghz-lhcp-diversity-bundle.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1326",
@@ -10821,7 +11110,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/immersionrc-spironet-v2-5-8ghz-rhcp-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1327",
@@ -10852,14 +11142,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-diamond-u-fl-2-4ghz-dipole-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1329",
@@ -10890,14 +11181,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-uhf-900-mhz-semi-rigid-dipole-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1330",
@@ -10932,7 +11224,8 @@
       "https://www.getfpv.com/fpv/antennas/newbeedrone-beetx-5-8ghz-antenna.html"
     ],
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1331",
@@ -10961,14 +11254,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-diamond-433mhz-uhf-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1332",
@@ -11005,7 +11299,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-ocp-5-8-sma-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1334",
@@ -11043,7 +11338,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-dipole-5-8ghz-antenna-u-fl.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1335",
@@ -11081,7 +11377,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-dipole-5-8ghz-antenna-mmcx.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1336",
@@ -11118,7 +11415,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-u-fl-fpv-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1337",
@@ -11154,7 +11452,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-5-8ghz-crosshair-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1338",
@@ -11190,7 +11489,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-crossfire-immortal-t-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1340",
@@ -11228,7 +11528,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-u-fl-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1341",
@@ -11259,14 +11560,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-short-5-8ghz-4-cloverleaf-antenna-with-protection-cover-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1342",
@@ -11297,14 +11599,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-short-5-8ghz-4-cloverleaf-antenna-with-protection-cover-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1343",
@@ -11335,7 +11638,7 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 5,
@@ -11343,7 +11646,8 @@
       "https://www.getfpv.com/fpv/antennas/furiousfpv-70mm-5g8-u-fl-linear-antenna.html"
     ],
     "ndaa_note": "Furious FPV, Belgium. EU/NATO allied nation. NDAA compliance not formally documented.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Australia"
   },
   {
     "pid": "ANT-1344",
@@ -11373,14 +11677,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-ion-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1345",
@@ -11410,14 +11715,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-ion-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1346",
@@ -11455,7 +11761,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-5-8ghz-fpv-antenna-lhcp-sma-set-of-2.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1347",
@@ -11493,7 +11800,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-5-8ghz-fpv-antenna-lhcp-stubby-sma-set-of-2.html"
     ],
-    "weight_g": 3
+    "weight_g": 3,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1348",
@@ -11531,7 +11839,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-pagoda-2-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1349",
@@ -11560,14 +11869,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-hd-circular-receiver-array.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1350",
@@ -11598,14 +11908,15 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-hd-linear-antenna-combo.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1351",
@@ -11641,7 +11952,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-pentapro-5-8g-antenna-for-digital-hd.html"
     ],
-    "weight_g": 5.8
+    "weight_g": 5.8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1352",
@@ -11672,14 +11984,15 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-5-8ghz-4-leaf-clover-antenna-set-for-tx-rx-sma-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1353",
@@ -11710,14 +12023,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-5-8ghz-4-leaf-clover-antenna-set-for-tx-rx-rp-sma-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1354",
@@ -11751,7 +12065,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-biquad-5.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1355",
@@ -11779,14 +12094,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/spektrum-tricera-5-8ghz-lhcp-fpv-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1356",
@@ -11824,7 +12140,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-5-8ghz-antenna-lhcp-rpsma-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1357",
@@ -11862,7 +12179,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-5-8ghz-antenna-rhcp-rpsma-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1358",
@@ -11898,7 +12216,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-1280-58.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1359",
@@ -11936,7 +12255,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-1280-58-side-fed.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1360",
@@ -11972,7 +12292,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-replacement-caps-rhcp-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1361",
@@ -12009,7 +12330,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-stub-sma-rhcp-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1362",
@@ -12039,14 +12361,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-airblade-micro-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1363",
@@ -12072,14 +12395,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 7,
     "links": [
       "https://www.getfpv.com/fpv/antennas/quad-antenna-flex-mount.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1364",
@@ -12110,14 +12434,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/invader-antenna-5-8ghz-rhcp-polarized-receiver-patch.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1365",
@@ -12148,14 +12473,15 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/invader-antenna-5-8ghz-lhcp-polarized-receiver-patch.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1366",
@@ -12192,7 +12518,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1367",
@@ -12229,7 +12556,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-1.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1368",
@@ -12266,7 +12594,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-mmcx-fpv-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1369",
@@ -12303,7 +12632,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-blue.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1370",
@@ -12340,7 +12670,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-black.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1371",
@@ -12370,14 +12701,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8-ghz-cyclone-antenna-set-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1372",
@@ -12407,14 +12739,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-3-4ghz-blubeam-ultra-antenna-set.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1373",
@@ -12444,14 +12777,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8-ghz-rhcp-dura-spec-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1375",
@@ -12482,14 +12816,15 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-3-4ghz-7-5dbic-helical-3-turn-rhcp.html"
     ],
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1376",
@@ -12520,14 +12855,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/5-8ghz-spironet-mini-patch-antenna-rhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1377",
@@ -12558,14 +12894,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/5-8ghz-spironet-mini-patch-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1378",
@@ -12594,14 +12931,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-2-4ghz-blubeam-ultra-airscrew-antenna-single.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1379",
@@ -12627,14 +12965,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/24-dragonlink-rx-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1380",
@@ -12665,14 +13004,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3ghz-blubeam-omni-skew-planar-antenna-single.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1382",
@@ -12703,14 +13043,15 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-2-4-ghz-13dbic-pepperbox-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1384",
@@ -12740,14 +13081,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8ghz-12-5dbic-helical-black-cannon.html"
     ],
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1385",
@@ -12786,7 +13128,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-mmcx-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1387",
@@ -12825,7 +13168,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-u-fl-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1388",
@@ -12863,7 +13207,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-singularity-5-8-sma90-long-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1389",
@@ -12902,7 +13247,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-u-fl-5-8ghz-antenna-rhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1390",
@@ -12940,7 +13286,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-x-air-mk-ii-5-8ghz-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1391",
@@ -12979,7 +13326,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-sma-5-8ghz-antenna-lhcp-2pcs.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1392",
@@ -13010,14 +13358,15 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-super-cannon-15-5dbic-helical-rhcp.html"
     ],
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1393",
@@ -13048,14 +13397,15 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-picopatch-rhcp-5-8ghz-sma-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1394",
@@ -13085,14 +13435,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-fpv-goggle-antenna-pack-5-8ghz-polarised-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1395",
@@ -13123,14 +13474,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-viper-5-8ghz-linear-patch-antenna.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1396",
@@ -13161,14 +13513,15 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 14,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-bandicoot-antenna-5-8ghz-linear-receiver-patch.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1397",
@@ -13205,7 +13558,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/radiomaster-2-4ghz-omnidirectional-t-antenna-rp-sma.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "China"
   },
   {
     "pid": "ANT-1398",
@@ -13236,14 +13590,15 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-diamond-2-4ghz-dipole-antenna-sma.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1399",
@@ -13278,7 +13633,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-sniper-ii-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1400",
@@ -13309,14 +13665,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-5-8ghz-ion-pro-sma-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1401",
@@ -13347,14 +13704,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 9,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3ghz-blubeam-omni-cloverleaf-antenna-single.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1402",
@@ -13385,14 +13743,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 5,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8-ghz-bluebeam-omni-antenna-set-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1403",
@@ -13422,14 +13781,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 7,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3ghz-cloverleaf-antenna-side-feed.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1404",
@@ -13462,7 +13822,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/frsky-horus-x12s-replacement-antenna.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "China"
   },
   {
     "pid": "ANT-1406",
@@ -13500,7 +13861,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1407",
@@ -13538,7 +13900,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-sma-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1408",
@@ -13576,7 +13939,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-sma-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1409",
@@ -13615,7 +13979,8 @@
       "https://www.getfpv.com/fpv/antennas/xilo-axii-straight-mmcx-5-8ghz-antenna-lhcp.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1410",
@@ -13646,14 +14011,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8-ghz-lhcp-airblade-antenna-set.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1411",
@@ -13684,14 +14050,15 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-3-4ghz-9-5dbic-helical-5-turn-rhcp.html"
     ],
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1412",
@@ -13728,7 +14095,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-red.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1413",
@@ -13764,7 +14132,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-replacement-caps-lhcp-2pcs.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1414",
@@ -13802,7 +14171,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-sma-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1415",
@@ -13839,7 +14209,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-bare-wire-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1416",
@@ -13868,14 +14239,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8-ghz-bluebeam-ultra-antenna-set.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1417",
@@ -13906,14 +14278,15 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3-ghz-13dbic-pepperbox-antenna-lhcp.html"
     ],
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1418",
@@ -13943,14 +14316,15 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/fpv/antennas/5-8ghz-airscrew-race-spec-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1419",
@@ -13981,14 +14355,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/5-8ghz-blubeam-whip-with-90-degree-sma.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1420",
@@ -14026,7 +14401,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-axii-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1421",
@@ -14057,14 +14433,15 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 10,
     "links": [
       "https://www.getfpv.com/fpv/antennas/aomway-5-8ghz-4-leaf-clover-antenna-set-for-tx-rx-sma-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Taiwan"
   },
   {
     "pid": "ANT-1422",
@@ -14095,7 +14472,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
@@ -14103,7 +14480,8 @@
       "https://www.getfpv.com/fpv/antennas/furiousfpv-patch-antenna-2-4ghz-sma.html"
     ],
     "ndaa_note": "Furious FPV, Belgium. EU/NATO allied nation. NDAA compliance not formally documented.",
-    "weight_g": 25
+    "weight_g": 25,
+    "origin": "Australia"
   },
   {
     "pid": "ANT-1423",
@@ -14141,7 +14519,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-u-fl-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1424",
@@ -14179,7 +14558,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-u-fl-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1425",
@@ -14210,14 +14590,15 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
     "links": [
       "https://www.getfpv.com/fpv/antennas/vas-ion-pro-5-8ghz-sma-long-antenna-lhcp.html"
     ],
-    "weight_g": 18
+    "weight_g": 18,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1426",
@@ -14243,14 +14624,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 8,
     "links": [
       "https://www.getfpv.com/fpv/antennas/18-dragonlink-rx-antenna-cable.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "Unknown"
   },
   {
     "pid": "ANT-1427",
@@ -14280,14 +14662,15 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
     "links": [
       "https://www.getfpv.com/fpv/antennas/5-8ghz-airblade-race-spec-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1428",
@@ -14317,14 +14700,15 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-2-4ghz-bluebeam-omni-antenna-set.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1429",
@@ -14360,7 +14744,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-5-8ghz-x-air-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1430",
@@ -14397,7 +14782,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/tbs-triumph-5-8ghz-cp-fpv-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "Germany"
   },
   {
     "pid": "ANT-1431",
@@ -14428,14 +14814,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 5,
     "links": [
       "https://www.getfpv.com/fpv/antennas/menace-raptor-antenna-5-8ghz-omni-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1432",
@@ -14473,7 +14860,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-shorty-sma-5-8ghz-antenna-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1433",
@@ -14509,7 +14897,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1434",
@@ -14547,7 +14936,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/foxeer-lollipop-v4-5-8ghz-90-mmcx-antenna-set-of-2-rhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "China"
   },
   {
     "pid": "ANT-1435",
@@ -14577,14 +14967,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-1-3ghz-bluebeam-ultra-antenna.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1436",
@@ -14614,14 +15005,15 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 12,
     "links": [
       "https://www.getfpv.com/fpv/antennas/ibcrazy-5-8ghz-7-5dbic-helical-goggle-mount.html"
     ],
-    "weight_g": 15
+    "weight_g": 15,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1437",
@@ -14659,7 +15051,8 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/lumenier-micro-axii-mmcx-5-8ghz-antenna-lhcp.html"
     ],
-    "weight_g": 8
+    "weight_g": 8,
+    "origin": "USA"
   },
   {
     "pid": "ANT-1438",
@@ -14694,6 +15087,7 @@
     "links": [
       "https://www.getfpv.com/fpv/antennas/truerc-gatling-5-8ghz-antenna-15-5dbic.html"
     ],
-    "weight_g": 6
+    "weight_g": 6,
+    "origin": "USA"
   }
 ]

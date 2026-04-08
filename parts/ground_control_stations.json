@@ -50,9 +50,10 @@
     "links": [
       "https://inspiredflight.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Inspired Flight Technologies, San Luis Obispo CA. US drone/GCS manufacturer. NDAA compliant.",
-    "weight_g": 850
+    "weight_g": 850,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0002",
@@ -103,11 +104,12 @@
     "links": [
       "https://qgroundcontrol.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Open-source protocol (Linux Foundation). NDAA compliant \u2014 open source, no foreign entity control.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0003",
@@ -154,11 +156,12 @@
     "links": [
       "https://ardupilot.org/planner/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Open-source GCS (Mission Planner). NDAA compliant.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0004",
@@ -214,8 +217,9 @@
       "https://www.motionew.com/"
     ],
     "ndaa_note": "MotioNew \u2014 origin unclear. Verify.",
-    "ndaa_compliant": true,
-    "weight_g": 850
+    "ndaa_compliant": null,
+    "weight_g": 850,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0005",
@@ -271,9 +275,10 @@
     "links": [
       "https://www.ugcs.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "SPH Engineering, Riga, Latvia. EU/NATO allied-nation NDAA compliant. UgCS mission planning software.",
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0006",
@@ -327,9 +332,10 @@
     "links": [
       "https://www.winmate.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Winmate Inc., Taipei, Taiwan. Allied-nation NDAA compliant. Rugged tablet/GCS hardware.",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0007",
@@ -381,11 +387,12 @@
     "links": [
       "https://www.ga-asi.com/ground-control-stations/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "General Atomics Aeronautical Systems, San Diego CA. US defense prime. NDAA compliant. Maker of Predator/Reaper.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 12000
+    "weight_g": 12000,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0008",
@@ -431,11 +438,12 @@
     "links": [
       "https://ardupilot.org/mavproxy/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "ArduPilot open-source GCS. Linux Foundation project. NDAA compliant \u2014 open source, no foreign adversary control.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0009",
@@ -482,7 +490,8 @@
     ],
     "ndaa_compliant": true,
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "weight_g": 500
+    "weight_g": 500,
+    "origin": "USA"
   },
   {
     "pid": "GCS-0010",
@@ -521,11 +530,12 @@
     "links": [
       "https://www.uavnavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "UAV Navigation, Madrid, Spain. EU/NATO allied-nation NDAA compliant. Part of Grupo Oes\u00eda defense.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 500
+    "weight_g": 500,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0011",
@@ -565,9 +575,10 @@
     "links": [
       "https://www.embention.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Embention, Valencia, Spain. EU/NATO allied-nation NDAA compliant. Veronte avionics.",
-    "weight_g": 500
+    "weight_g": 500,
+    "origin": "Unknown"
   },
   {
     "pid": "GCS-0012",
@@ -611,7 +622,8 @@
     "ndaa_note": "Auterion Inc., San Francisco CA (Swiss-founded, US HQ). NDAA compliant. Enterprise PX4 platform.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "USA"
   },
   {
     "pid": "GCS-0013",
@@ -649,11 +661,12 @@
     "links": [
       "https://www.votix.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "VOTIX, USA. US drone OS/fleet management company. NDAA compliant.",
     "price_note": "Contact for pricing",
     "price_usd": null,
-    "weight_g": 0
+    "weight_g": 0,
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3211",

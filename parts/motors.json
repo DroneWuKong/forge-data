@@ -68,7 +68,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-af2207-5-racing-motor-1960kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1001",
@@ -132,14 +133,15 @@
       "weight_g": 42
     },
     "kv": 1350,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29.99,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/vci-hobby-ares-2808-motor-1350kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1002",
@@ -203,14 +205,15 @@
       "weight_g": 36
     },
     "kv": 1550,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/vci-hobby-spark-2406-motor-1550kv.html"
     ],
-    "weight_g": 36
+    "weight_g": 36,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1003",
@@ -274,14 +277,15 @@
       "weight_g": 32
     },
     "kv": 2120,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24.99,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/vci-hobby-yuki-savage-2207-motor-2120kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1004",
@@ -352,7 +356,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2810-motor-1350kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1005",
@@ -423,7 +428,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2207-unibell-motor-2050kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1006",
@@ -491,7 +497,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2307-johnnyfpv-v3-pro-cinematic-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1007",
@@ -562,7 +569,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2205-motor-2300kv-unibell.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1008",
@@ -630,7 +638,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2807-johnnyfpv-v3-pro-cinematic-motor.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1009",
@@ -701,7 +710,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-lpd-2306-5-2000kv-2450kv-2650kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1010",
@@ -772,7 +782,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-v3-2812-900kv-1115kv-motor-cw.html"
     ],
-    "weight_g": 85
+    "weight_g": 85,
+    "origin": "China"
   },
   {
     "pid": "MTR-1011",
@@ -843,7 +854,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-pro-series-2808-motor-1350kv-1500kv-1900kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1012",
@@ -914,7 +926,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-pro-series-2812-motor-930kv-1100kv.html"
     ],
-    "weight_g": 85
+    "weight_g": 85,
+    "origin": "China"
   },
   {
     "pid": "MTR-1013",
@@ -974,7 +987,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-special-edition-v4-32-5-12-motor-cw-580kv-950kv.html"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "China"
   },
   {
     "pid": "MTR-1014",
@@ -1045,7 +1059,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-rsiii-2306-race-motor-1800kv-2100kv-2500kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1015",
@@ -1116,7 +1131,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-gom-2207-5-1750kv-1920kv-2500kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1016",
@@ -1187,7 +1203,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-gts-v4-2207-motor-1960kv-2040kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1017",
@@ -1258,7 +1275,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-smoox-2806-plus-motor-1350kv-1750kv.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1018",
@@ -1329,7 +1347,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-c224-2204-5-motor-1900kv-3500kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1019",
@@ -1400,7 +1419,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-c287-2807-5-motor-1350kv-1750kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1020",
@@ -1471,7 +1491,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-c246-2406-motor-1650kv-2050kv.html"
     ],
-    "weight_g": 36
+    "weight_g": 36,
+    "origin": "China"
   },
   {
     "pid": "MTR-1021",
@@ -1542,7 +1563,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2305-cinematic-motor-w-m3-shaft-1800kv-2400kv-3200kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1022",
@@ -1613,7 +1635,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2506-1350kv-1650kv-1850kv-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "China"
   },
   {
     "pid": "MTR-1023",
@@ -1684,7 +1707,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v3008-cinematic-motor-1155kv-1350kv-1500kv.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "MTR-1024",
@@ -1749,7 +1773,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-af-3010-cinematic-motor-1010kv-1210kv.html"
     ],
-    "weight_g": 100
+    "weight_g": 100,
+    "origin": "China"
   },
   {
     "pid": "MTR-1025",
@@ -1820,7 +1845,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tbs-grinder-v4-2207-motor-1750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Germany"
   },
   {
     "pid": "MTR-1026",
@@ -1892,7 +1918,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-stealth-2207-motor-1800kv-2450kv.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1027",
@@ -1963,7 +1990,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-3110-cinelifter-motor-900kv-1250kv-1600kv.html"
     ],
-    "weight_g": 105
+    "weight_g": 105,
+    "origin": "China"
   },
   {
     "pid": "MTR-1028",
@@ -2034,7 +2062,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-sunfun-2306-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1029",
@@ -2105,7 +2134,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v3-p2306-powerful-freestyle-motor-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1030",
@@ -2173,7 +2203,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/foxeer-datura-2207-5-fpv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1031",
@@ -2238,7 +2269,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2203-5-motor-1650kv-2200kv-2650kv-3300kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1032",
@@ -2309,7 +2341,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2808-motor-1350kv-1500kv-1900kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1033",
@@ -2374,7 +2407,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-3120-motor-500kv-700kv.html"
     ],
-    "weight_g": 140
+    "weight_g": 140,
+    "origin": "China"
   },
   {
     "pid": "MTR-1034",
@@ -2445,7 +2479,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-vs-2207-motor-cw-1720kv-2400kv-2700kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1035",
@@ -2516,7 +2551,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-3008-motor-1150kv-1300kv-1500kv-1900kv.html"
     ],
-    "weight_g": 95
+    "weight_g": 95,
+    "origin": "China"
   },
   {
     "pid": "MTR-1036",
@@ -2587,7 +2623,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2806-5-motor-870kv-1300kv-1460kv-1700kv.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1037",
@@ -2652,7 +2689,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2816-motor-620kv-750kv-810kv-1050kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1038",
@@ -2723,7 +2761,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2810-motor-1180kv-1500kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1039",
@@ -2794,7 +2833,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-e-pro-2207-motor-1pc-1800kv-2450kv-2750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1040",
@@ -2865,7 +2905,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2807-motor-1300kv-1700kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1041",
@@ -2930,7 +2971,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2405-1800kv-1950kv-motor-unibell.html"
     ],
-    "weight_g": 35
+    "weight_g": 35,
+    "origin": "China"
   },
   {
     "pid": "MTR-1042",
@@ -2995,7 +3037,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-3106-1200kv-1500kv-motor-unibell.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1043",
@@ -3066,7 +3109,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2306-1755kv-2555kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1044",
@@ -3137,7 +3181,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2207-motor-1855kv-2755kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1045",
@@ -3208,7 +3253,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2207-5-v2-motor-1750kv-2550kv-royal-blue.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1046",
@@ -3279,7 +3325,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2306-johnnyfpv-cinematic-v2-motor-1750kv-2250kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1047",
@@ -3350,7 +3397,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-smoox-2306-plus-motor-1350kv-1880kv-2280kv-2580kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1048",
@@ -3421,7 +3469,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-eco-ii-series-2807-motor-1300kv-1500kv-1700kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1049",
@@ -3492,7 +3541,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-eco-ii-series-2207-motor-1700kv-1900kv-2400kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1050",
@@ -3563,7 +3613,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-eco-ii-series-2306-motor-1700kv-1900kv-2400kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1051",
@@ -3628,7 +3679,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-x4214-400kv-motor-1-pc.html"
     ],
-    "weight_g": 260
+    "weight_g": 260,
+    "origin": "China"
   },
   {
     "pid": "MTR-1052",
@@ -3699,7 +3751,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-eco-ii-2807-1300kv-motor.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1053",
@@ -3770,7 +3823,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wei-2207-1750kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1054",
@@ -3841,7 +3895,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wu-2206-1750kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1055",
@@ -3912,7 +3967,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-shu-2306-1750kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1056",
@@ -3983,7 +4039,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wei-2207-2300kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1057",
@@ -4054,7 +4111,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-shu-2306-2500kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1058",
@@ -4125,7 +4183,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wu-2206-2400kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1059",
@@ -4196,7 +4255,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-v2-2507-1850kv-4-6s.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1060",
@@ -4267,7 +4327,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2407-blackout-motor-1700kv.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1061",
@@ -4338,7 +4399,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/aos-rc-supernova-2207-fpv-motor-1980kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1062",
@@ -4409,7 +4471,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/aos-rc-supernova-2807-fpv-motor-1400kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1063",
@@ -4480,7 +4543,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2207-motor-w-logos-1750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1064",
@@ -4551,7 +4615,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2205-fpv-nextgen-motor-unibell-2300kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1065",
@@ -4616,7 +4681,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-pro-series-2814-motor-730kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1066",
@@ -4678,7 +4744,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-5215-330kv-x-class-motor-1pc.html"
     ],
-    "weight_g": 345
+    "weight_g": 345,
+    "origin": "China"
   },
   {
     "pid": "MTR-1067",
@@ -4742,14 +4809,15 @@
       "weight_g": 41
     },
     "kv": 2160,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 20,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/vci-hobby-2207-lt-motor-2160kv-fire.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1068",
@@ -4817,7 +4885,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-blackbird-v4-2307-fpv-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "China"
   },
   {
     "pid": "MTR-1069",
@@ -4888,7 +4957,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v3-2-p2207-powerful-freestyle-motor-2550kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1070",
@@ -4952,14 +5022,15 @@
       "weight_g": 28
     },
     "kv": 1400,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 32,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/amax-competition-2808-motor-1400kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1071",
@@ -5030,7 +5101,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2306-v3-motor-1500kv-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1072",
@@ -5101,7 +5173,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2207-v3-motor-1500kv-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1073",
@@ -5172,7 +5245,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-dxa-2207-5-1750kv-1920kv-motor-cw.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1074",
@@ -5243,7 +5317,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-lpd-2806-5-1300kv-1700kv-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1075",
@@ -5314,7 +5389,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-2207-5-bando-motor-1860kv-1960kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1076",
@@ -5385,7 +5461,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-ae-v2-2207-motor-1860kv-1960kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1077",
@@ -5456,7 +5533,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-ae-v2-2306-5-motor-1860kv-1960kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1078",
@@ -5521,7 +5599,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v3120-motor-500kv-700kv.html"
     ],
-    "weight_g": 140
+    "weight_g": 140,
+    "origin": "China"
   },
   {
     "pid": "MTR-1079",
@@ -5592,7 +5671,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v3115-motor-400kv-640kv-900kv.html"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "China"
   },
   {
     "pid": "MTR-1080",
@@ -5657,7 +5737,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f2203-5-1500kv-2850kv-3550kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1081",
@@ -5721,14 +5802,15 @@
       "weight_g": 23
     },
     "kv": 900,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/performance-fpv-3115-motor-special-edition-900kv-1050kv.html"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1082",
@@ -5799,7 +5881,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v2-p2207-powerful-freestyle-1750kv-1950kv-2550kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1083",
@@ -5870,7 +5953,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-rsiii-2207-race-motor-1800kv-2100kv-2500kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1084",
@@ -5941,7 +6025,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-gts-v2-2207-plus-motor-1860kv-2500kv-2750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1085",
@@ -6012,7 +6097,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hglrc-aeolus-2306-5-1900kv-2550kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1086",
@@ -6076,14 +6162,15 @@
       "weight_g": 32
     },
     "kv": 2111,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/quadifier-venom-2207-race-motor-2111kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1087",
@@ -6154,7 +6241,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2206-5-1750kv-2550kv-motor-booster-edition.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1088",
@@ -6225,7 +6313,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-konasty-moon-boot-v2-2507-motor-1750kv-2200kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1089",
@@ -6296,7 +6385,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-c204-2204-motor-2910kv-3500kv.html"
     ],
-    "weight_g": 20
+    "weight_g": 20,
+    "origin": "China"
   },
   {
     "pid": "MTR-1090",
@@ -6367,7 +6457,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-tornado-t5-pro-3115-motor-1050kv-no-logo.html"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "China"
   },
   {
     "pid": "MTR-1091",
@@ -6431,14 +6522,15 @@
       "weight_g": 39
     },
     "kv": 1750,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/flash-hobby-king-k2207-5-motor-army-green-1750kv-1950kv-2580kv-2750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1092",
@@ -6509,7 +6601,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-mr-steele-stout-2307-motor-v5-1950kv-blue.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1093",
@@ -6580,7 +6673,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-mr-steele-silk-2307-motor-v5-1750kv.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1094",
@@ -6651,7 +6745,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v2-p2306-powerful-freestyle-1950kv-2550kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1095",
@@ -6722,7 +6817,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2550kv-motor-12194.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1096",
@@ -6793,7 +6889,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ummagawd-aerolite-2306-motor-1800kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1098",
@@ -6864,7 +6961,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2207-5-popo-pro-motor-1750kv-2500kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1099",
@@ -6935,7 +7033,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2407-popo-pro-motor-1700kv-2550kv.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1100",
@@ -7000,7 +7099,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rushfpv-faroukfpv-vroom-2505-5-sbang-motor-2000kv.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1101",
@@ -7064,14 +7164,15 @@
       "weight_g": 25
     },
     "kv": 1850,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/xhelix-fpv-garuda-sf-2306-motor-1850kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1102",
@@ -7142,7 +7243,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2808-cinematic-motor-1300kv-1500kv-1950kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1103",
@@ -7206,14 +7308,15 @@
       "weight_g": 35
     },
     "kv": 1750,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 20,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/amaxinno-superleggera-2305-5-a-bell-motor-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1104",
@@ -7277,14 +7380,15 @@
       "weight_g": 22
     },
     "kv": 1750,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/amaxinno-performante-2207-a-bell-motor-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1105",
@@ -7348,14 +7452,15 @@
       "weight_g": 36
     },
     "kv": 1750,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/amaxinno-performante-2306-a-bell-motor-1750kv-1950kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1106",
@@ -7426,7 +7531,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2812-cinematic-motor-925kv-1155kv.html"
     ],
-    "weight_g": 85
+    "weight_g": 85,
+    "origin": "China"
   },
   {
     "pid": "MTR-1107",
@@ -7497,7 +7603,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-slatts-2306-3-motor-1700kv-2500kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1108",
@@ -7561,14 +7668,15 @@
       "weight_g": 38
     },
     "kv": 1750,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/elev8-fpv-cricket-fpv-2306-5-motor-1750kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1109",
@@ -7639,7 +7747,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tbs-grinder-v3-2207-motor-1750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Germany"
   },
   {
     "pid": "MTR-1110",
@@ -7710,7 +7819,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-v3-p2207-powerful-freestyle-motor-1750kv-1950kv-2080kv-2550kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1111",
@@ -7781,7 +7891,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2808-motor-1100kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1112",
@@ -7846,7 +7957,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-p2505-1850kv-motor.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1113",
@@ -7917,7 +8029,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f90-1300kv-1500kv-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1114",
@@ -7988,7 +8101,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2306-5-motor-1700kv-2450kv-2650kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1115",
@@ -8059,7 +8173,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2207-black-motor-nazgul-evoque-1750kv-2750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1116",
@@ -8123,14 +8238,15 @@
       "weight_g": 30
     },
     "kv": 2522,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-10791.html"
     ],
-    "weight_g": 45
+    "weight_g": 45,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1117",
@@ -8201,7 +8317,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/newbeedrone-flow-2306-5-1850kv-2450kv-motor-combo-kit.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1118",
@@ -8265,14 +8382,15 @@
       "weight_g": 40
     },
     "kv": 2222,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-10792.html"
     ],
-    "weight_g": 45
+    "weight_g": 45,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1119",
@@ -8336,14 +8454,15 @@
       "weight_g": 26
     },
     "kv": 1922,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-10793.html"
     ],
-    "weight_g": 45
+    "weight_g": 45,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1120",
@@ -8407,14 +8526,15 @@
       "weight_g": 41
     },
     "kv": 1622,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2408-5-1622kv-1922kv-2222kv-2522kv-motor-team-edition.html"
     ],
-    "weight_g": 45
+    "weight_g": 45,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1121",
@@ -8485,7 +8605,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-2207-5-v3-1910kv-2100kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1123",
@@ -8556,7 +8677,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2207-1750kv-1950kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1124",
@@ -8627,7 +8749,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-dxa-2207-5-motor-1750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1125",
@@ -8698,7 +8821,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2808-motor-1900kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1126",
@@ -8769,7 +8893,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-gts-v2-2207-plus-motor-pink-2750kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1127",
@@ -8840,7 +8965,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tbs-grinder-v3-2207-motor-2450kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Germany"
   },
   {
     "pid": "MTR-1128",
@@ -8911,7 +9037,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-v2-2407-motor-1700kv-2550kv.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1129",
@@ -8979,7 +9106,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-mr-steele-stout-motor-v3-legacy.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1130",
@@ -9050,7 +9178,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2306-motor-unibell-2450kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1131",
@@ -9121,7 +9250,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-mr-steele-stout-2306-1750kv-motor-v4.html"
     ],
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1132",
@@ -9189,7 +9319,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-mr-steele-stout-motor-v4-red-launch-edition.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1133",
@@ -9260,7 +9391,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-bms-racing-raptor-v2-2306-5-motor-2000kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1134",
@@ -9325,7 +9457,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-sunfun-x2203-motor-3000kv-3500kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1135",
@@ -9390,7 +9523,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2-2604-1350kv-1650kv-motor-unibell.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1136",
@@ -9461,7 +9595,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2306-5-2550kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1137",
@@ -9519,14 +9654,15 @@
       "weight_g": 38
     },
     "kv": 1690,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 20,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/stan-fpv-2604-1690kv-6s-pro-motor-5mm-shaft.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1138",
@@ -9591,7 +9727,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-1900kv-2700kv-motor-1-5mm-shaft.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1139",
@@ -9656,7 +9793,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-1900kv-motor-1-5mm-shaft.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1140",
@@ -9721,7 +9859,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-2700kv-motor-1-5mm-shaft.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1141",
@@ -9792,7 +9931,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2208-v2-motor-1750kv-1950kv-2450kv-gray.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1142",
@@ -9863,7 +10003,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2307-v2-motor-1950kv-2550kv-rose-gold.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "China"
   },
   {
     "pid": "MTR-1143",
@@ -9934,7 +10075,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-veloce-v2-v2306-5-motor-royal-blue-1950kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1144",
@@ -9998,14 +10140,15 @@
       "weight_g": 29
     },
     "kv": 2500,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/xhover-xh2207-2500kv-cinematic-motor-v2.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1145",
@@ -10076,7 +10219,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2207-2050kv-chief-racing-motor-v2.html"
     ],
-    "weight_g": 28.0
+    "weight_g": 28.0,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1146",
@@ -10134,14 +10278,15 @@
       "weight_g": 26
     },
     "kv": 3390,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/stan-fpv-2203-3390kv-pro-motor-v2-t-mount.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1147",
@@ -10199,14 +10344,15 @@
       "weight_g": 31
     },
     "kv": 3390,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 23,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/stan-fpv-2203-3390kv-pro-motor-v2-5mm-shaft.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1148",
@@ -10271,7 +10417,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-4-6s-fpv-motor-unibell-3600kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1149",
@@ -10336,7 +10483,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2203-5-2500kv-3600kv-motor-1pc.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1150",
@@ -10407,7 +10555,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2-v2207-1750kv-1950kv-2550kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1151",
@@ -10478,7 +10627,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2-v2306-1950kv-2400kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1152",
@@ -10549,7 +10699,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/diatone-mamba-toka-2207-5-1700kv-1800kv-2450kv-2650kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1153",
@@ -10607,14 +10758,15 @@
       "weight_g": 34
     },
     "kv": 2410,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/stan-fpv-2604-2410kv-pro-motor-5mm-shaft.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1154",
@@ -10672,14 +10824,15 @@
       "weight_g": 36
     },
     "kv": 2410,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/stan-fpv-2604-2410kv-pro-motor-t-mount.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1155",
@@ -10750,7 +10903,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2207-5-1750kv-motor-rainbow.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1156",
@@ -10821,7 +10975,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/flywoo-nin-2806-5-v2-1350kv-1750kv-fpv-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1157",
@@ -10892,7 +11047,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/flywoo-nin-2306-5-v2-1750kv-1350kv-2450kv-motor-1pc.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1158",
@@ -10963,7 +11119,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-smoox-2306-motor-gun-metal-1350kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1159",
@@ -11034,7 +11191,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rcinpower-gts-v2-2207-plus-motor-1860kv-11124.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1160",
@@ -11105,7 +11263,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-2207-5-v3-1910kv-motor-1pc.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1161",
@@ -11176,7 +11335,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-heiko-2207-5-1750kv-motor-1pc.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1162",
@@ -11247,7 +11407,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-black-bird-2207-v2-0-1950kv-2800kv-motor-1pc.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1163",
@@ -11318,7 +11479,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/flywoo-nin-2306-5-1750kv-2450kv-motor-1pc.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1164",
@@ -11390,7 +11552,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-stealth-2206-2600kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1165",
@@ -11454,14 +11617,15 @@
       "weight_g": 33
     },
     "kv": 1900,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/fpvcrate-booster-v2-2207-1900kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1166",
@@ -11532,7 +11696,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-v3-2306-5-2000kv-2450kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1167",
@@ -11596,14 +11761,15 @@
       "weight_g": 27
     },
     "kv": 1800,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 22,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/rotor-riot-hypetrain-blaster-2207-1800kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1168",
@@ -11674,7 +11840,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-cyber-xing-2207-5-1777kv-1999kv-2555kv-fpv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1169",
@@ -11745,7 +11912,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-cyber-xing-2306-1777kv-1999kv-2555kv-fpv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1170",
@@ -11816,7 +11984,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-p2207-5-1750kv-1950kv-2550kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1171",
@@ -11887,7 +12056,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-pacer-p2208-1750kv-1950kv-2550kv-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1172",
@@ -11958,7 +12128,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-velox-v2208-1750kv-1950kv-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1173",
@@ -12029,7 +12200,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2306-johnnyfpv-cinematic-v2-popo-pro-motor-1750kv-2250kv-2550kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1174",
@@ -12100,7 +12272,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2550kv-motor-9441.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1175",
@@ -12171,7 +12344,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2550kv-motor-9430.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1176",
@@ -12242,7 +12416,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2550kv-motor-9435.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1177",
@@ -12313,7 +12488,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2207-2150kv-popo-pro-chief-racing-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1178",
@@ -12384,7 +12560,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-2250kv-popo-pro-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1179",
@@ -12455,7 +12632,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-popo-pro-motor-1750kv-2250kv-2550kv.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1180",
@@ -12526,7 +12704,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-motor-1750kv-2250kv-2550kv.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1181",
@@ -12597,7 +12776,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2207-2150kv-chief-racing-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1182",
@@ -12668,7 +12848,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-speed-shield-v3-2207-5-1750kv-2400kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1183",
@@ -12739,7 +12920,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2250kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1184",
@@ -12810,7 +12992,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-1750kv-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1185",
@@ -12881,7 +13064,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-2550kv-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1186",
@@ -12952,7 +13136,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-2550kv-popo-pro-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1187",
@@ -13023,7 +13208,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/flywoo-nin-2806-5-1350kv-fpv-motor-gold.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1188",
@@ -13094,7 +13280,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2307-1750kv-popo-pro-motor.html"
     ],
-    "weight_g": 52
+    "weight_g": 52,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1189",
@@ -13165,7 +13352,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-pulsar-2306-led-motor-1700kv-2400kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1190",
@@ -13236,7 +13424,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tbs-ethix-mr-steele-2306-2345kv-silk-v3-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1191",
@@ -13307,7 +13496,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tbs-ethix-mr-steele-2306-1750kv-stout-v3-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1192",
@@ -13378,7 +13568,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-7-2400kv-popo-pro-bardwell-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1193",
@@ -13449,7 +13640,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-10-1650kv-bardwell-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1194",
@@ -13520,7 +13712,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-bardwell-motor-1650kv-2400kv.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1195",
@@ -13591,7 +13784,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-10-1650kv-popo-pro-bardwell-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1196",
@@ -13662,7 +13856,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-7-2400kv-bardwell-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1197",
@@ -13733,7 +13928,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2208-bardwell-popo-pro-motor-1650kv-2400kv.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1198",
@@ -13804,7 +14000,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-hom-2207-5-1750kv-2500kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1199",
@@ -13875,7 +14072,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-e-2208-1800kv-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1200",
@@ -13946,7 +14144,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-1404-3800kv-toothpick-motor-8100.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1201",
@@ -14014,7 +14213,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-e-2306-2-6s-fpv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1202",
@@ -14082,7 +14282,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-e-2208-2-6s-fpv-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1203",
@@ -14147,7 +14348,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-2814-1100kv-nextgen-motor.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1204",
@@ -14218,7 +14420,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-1404-3800kv-toothpick-motor-8098.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1205",
@@ -14286,7 +14489,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f40-pro-iii-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1206",
@@ -14357,7 +14561,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f40-pro-iii-red-motor-1600kv-7948.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1207",
@@ -14428,7 +14633,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/emax-eco-2207-1700kv-1900kv-2400kv-brushless-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1208",
@@ -14493,7 +14699,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-sunfun-2207-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1209",
@@ -14564,7 +14771,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2407-9-1750kv-bardwell-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1210",
@@ -14628,14 +14836,15 @@
       "weight_g": 24
     },
     "kv": 2522,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2206-5-2522kv-team-edition-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1211",
@@ -14699,14 +14908,15 @@
       "weight_g": 35
     },
     "kv": 1722,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2205-5-1722kv-hv-edition-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1212",
@@ -14770,14 +14980,15 @@
       "weight_g": 35
     },
     "kv": 1722,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2206-5-1722kv-team-edition-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1213",
@@ -14848,7 +15059,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-2750kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1214",
@@ -14919,7 +15131,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-edition-2207-1800kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1215",
@@ -14990,7 +15203,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-v2-0-2550kv-motor-9427.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1216",
@@ -15061,7 +15275,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2407-1700kv-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1217",
@@ -15132,7 +15347,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2407-2250kv-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1218",
@@ -15200,7 +15416,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-camo-x2306-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1219",
@@ -15271,7 +15488,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-x2206-1750kv-1850kv-2750kv-fpv-nextgen-motor-1pc.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1220",
@@ -15342,7 +15560,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2207-camouflage-1800kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1221",
@@ -15410,7 +15629,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-camo-x2207-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1222",
@@ -15478,7 +15698,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing-camo-x2208-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1223",
@@ -15542,14 +15763,15 @@
       "weight_g": 28
     },
     "kv": 2522,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 25,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2207-5-2522kv-team-edition-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1224",
@@ -15620,7 +15842,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2407-2550kv-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1225",
@@ -15691,7 +15914,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-2750kv-popo-pro-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1226",
@@ -15762,7 +15986,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-2450kv-popo-pro-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1227",
@@ -15833,7 +16058,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f40-pro-iii-motor-2600kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1228",
@@ -15897,14 +16123,15 @@
       "weight_g": 25
     },
     "kv": 2200,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/3bhobby-2206s-1800kv-training-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1229",
@@ -15968,14 +16195,15 @@
       "weight_g": 32
     },
     "kv": 2600,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 24,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/3bhobby-2206s-1800kv-training-motor-1.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1230",
@@ -16046,7 +16274,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2407-2250kv-popo-pro-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1231",
@@ -16117,7 +16346,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2407-2550kv-popo-pro-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1232",
@@ -16189,7 +16419,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-popo-pro-2207-2250kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1233",
@@ -16261,7 +16492,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-popo-pro-2207-1750kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1234",
@@ -16333,7 +16565,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-popo-pro-2207-2550kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1235",
@@ -16404,7 +16637,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-jb2407-2500kv-bardwell-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1236",
@@ -16475,7 +16709,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f40-pro-ii-popor-pro-2600kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1237",
@@ -16546,7 +16781,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-lf40-2305-2450kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1238",
@@ -16617,7 +16853,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-speed-shield-2207-5-2150kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1239",
@@ -16688,7 +16925,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f80-pro-2200kv-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1240",
@@ -16759,7 +16997,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f80-pro-2500kv-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1241",
@@ -16831,7 +17070,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-2207-1750kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1242",
@@ -16903,7 +17143,8 @@
       "https://www.getfpv.com/motors/mini-quad-motors/xilo-2205-2250kv-motor.html"
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1243",
@@ -16974,7 +17215,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wei-2207-2600kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1244",
@@ -17045,7 +17287,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-shu-2306-2800kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1245",
@@ -17116,7 +17359,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dys-samguk-series-wu-2206-2700kv-motor.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1246",
@@ -17187,7 +17431,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-2808-motor-1500kv.html"
     ],
-    "weight_g": 75
+    "weight_g": 75,
+    "origin": "China"
   },
   {
     "pid": "MTR-1247",
@@ -17258,7 +17503,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-9242.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1248",
@@ -17329,7 +17575,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-9695.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1249",
@@ -17400,7 +17647,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-9236.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1250",
@@ -17471,7 +17719,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/dummy-motor-9238.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1251",
@@ -17535,14 +17784,15 @@
       "weight_g": 29
     },
     "kv": 2650,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/3bhobby-2407-pro-2650kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1252",
@@ -17613,7 +17863,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-f40-pro-ii-2400kv-adamantium-gray.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1253",
@@ -17684,7 +17935,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-f40-pro-ii-2400kv-monster-green.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1254",
@@ -17755,7 +18007,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-f40-pro-ii-2600kv-reactor-red.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1255",
@@ -17826,7 +18079,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tiger-motor-f60iii-2350kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1256",
@@ -17897,7 +18151,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tiger-motor-f40iii-2600kv.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1257",
@@ -17968,7 +18223,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/foxeer-black-hornet-3115-motor-900kv.html"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "China"
   },
   {
     "pid": "MTR-1258",
@@ -18039,7 +18295,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/brotherhobby-avenger-v2-2507-1500kv-motor.html"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "China"
   },
   {
     "pid": "MTR-1259",
@@ -18110,7 +18367,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/foxeer-black-hornet-2812-motor-900kv.html"
     ],
-    "weight_g": 85
+    "weight_g": 85,
+    "origin": "China"
   },
   {
     "pid": "MTR-1260",
@@ -18181,7 +18439,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-2207-7-2700kv-johnnyfpv-v2-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1261",
@@ -18245,14 +18504,15 @@
       "weight_g": 26
     },
     "kv": 2522,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2208-5-2522kv-team-edition-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1262",
@@ -18323,7 +18583,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-2450kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1263",
@@ -18394,7 +18655,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-f60-pro-iii-motor-2500kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1264",
@@ -18458,14 +18720,15 @@
       "weight_g": 24
     },
     "kv": 1722,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 23,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2207-5-1722kv-hv-edition-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1265",
@@ -18536,7 +18799,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-f40-pro-ii-2600kv-adamantium-gray.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1266",
@@ -18600,14 +18864,15 @@
       "weight_g": 28
     },
     "kv": 1722,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/hyperlite-2208-5-1722kv-team-edition-motor.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1267",
@@ -18678,7 +18943,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/axisflying-blackbird-v3-2207-motor-2725kv.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1268",
@@ -18749,7 +19015,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tiger-motor-f80-2500kv-fpv-series-motor.html"
     ],
-    "weight_g": 65
+    "weight_g": 65,
+    "origin": "China"
   },
   {
     "pid": "MTR-1269",
@@ -18820,7 +19087,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/iflight-xing2208-camouflage-2150kv.html"
     ],
-    "weight_g": 32
+    "weight_g": 32,
+    "origin": "China"
   },
   {
     "pid": "MTR-1270",
@@ -18891,7 +19159,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/ethix-konasty-2407-1739kv-motor.html"
     ],
-    "weight_g": 42
+    "weight_g": 42,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1271",
@@ -18962,7 +19231,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/tmotor-f40-pro-ii-2400kv-reactor-red.html"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "China"
   },
   {
     "pid": "MTR-1272",
@@ -19033,7 +19303,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-1750kv-popo-pro-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1273",
@@ -19104,7 +19375,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/lumenier-zip-2207-1750kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1274",
@@ -19175,7 +19447,8 @@
     "links": [
       "https://www.getfpv.com/motors/mini-quad-motors/t-motor-mck-edition-2207-2500kv-motor.html"
     ],
-    "weight_g": 30
+    "weight_g": 30,
+    "origin": "China"
   },
   {
     "pid": "MTR-1275",
@@ -19217,14 +19490,15 @@
       "weight_g": 23
     },
     "kv": 1500,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 50.0,
     "links": [
       "https://motor-g.com/en"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1276",
@@ -19267,14 +19541,15 @@
       "weight_g": 31
     },
     "kv": 900,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 55.0,
     "links": [
       "https://motor-g.com/en"
     ],
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1277",
@@ -19315,14 +19590,15 @@
     "schema_data": {
       "weight_g": 34
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 65.0,
     "links": [
       "https://motor-g.com/en"
     ],
-    "weight_g": 5000.0
+    "weight_g": 5000.0,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1278",
@@ -19364,14 +19640,15 @@
       "weight_g": 33
     },
     "kv": 1250,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 52.0,
     "links": [
       "https://motor-g.com/en"
     ],
-    "weight_g": 105
+    "weight_g": 105,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1279",
@@ -19413,14 +19690,15 @@
       "weight_g": 33
     },
     "kv": 1500,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.0,
     "links": [
       "https://aeromotors.com.ua"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1280",
@@ -19461,14 +19739,15 @@
       "weight_g": 34
     },
     "kv": 1500,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 45.0,
     "links": [
       "https://thedefender.media/en/2025/09/realgold-produces-fpv-engines/"
     ],
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1281",
@@ -19519,7 +19798,8 @@
     "links": [
       "https://www.vertiq.co/23-06-g1"
     ],
-    "weight_g": 28
+    "weight_g": 28,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1282",
@@ -19567,7 +19847,8 @@
     "links": [
       "https://www.vertiq.co/40-06-g2"
     ],
-    "weight_g": 140
+    "weight_g": 140,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1283",
@@ -19616,7 +19897,8 @@
     "links": [
       "https://www.vertiq.co/60-08-g2"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1284",
@@ -19666,7 +19948,8 @@
     "links": [
       "https://www.vertiq.co/81-08-g2"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1285",
@@ -19714,7 +19997,8 @@
     "links": [
       "https://www.kdedirect.com/products/kde7215xf-135"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1286",
@@ -19763,7 +20047,8 @@
     "links": [
       "https://www.kdedirect.com/products/kde10218xf-105"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1287",
@@ -19811,7 +20096,8 @@
     "links": [
       "https://www.kdedirect.com/products/kde6815xf-205"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "USA"
   },
   {
     "pid": "MTR-1288",
@@ -19853,14 +20139,15 @@
     "schema_data": {
       "weight_g": 24
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Germany",
     "price_usd": 800.0,
     "links": [
       "https://www.unmannedsystemstechnology.com/company/plettenberg/"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-1289",
@@ -19901,14 +20188,15 @@
     "schema_data": {
       "weight_g": 29
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Norway",
     "price_usd": 400.0,
     "links": [
       "https://www.alvaindustries.com/"
     ],
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-Flytex-4215-510KV",
@@ -19945,7 +20233,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 34.15,
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "India"
   },
   {
     "pid": "MTR-UA-Flytex-3115-900KV",
@@ -19982,7 +20271,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16.95,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "India"
   },
   {
     "pid": "MTR-UA-Flytex-4320-320KV",
@@ -20019,7 +20309,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 39.02,
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "India"
   },
   {
     "pid": "MTR-UA-DiFly-DF-2807-13",
@@ -20056,7 +20347,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 12.2,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Ukraine"
   },
   {
     "pid": "MTR-UA-\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d-BLDC-2807-",
@@ -20089,11 +20381,12 @@
     "kv": 1300,
     "stator_diameter_mm": 28,
     "stator_height_mm": 7,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 15.85,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-LEADER-T-2807-1300K",
@@ -20130,7 +20423,8 @@
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 12.17,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "USA"
   },
   {
     "pid": "MTR-UA-FT-2812-1100K",
@@ -20163,11 +20457,12 @@
     "kv": 1100,
     "stator_diameter_mm": 28,
     "stator_height_mm": 12,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19.9,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-2812-1900K",
@@ -20200,11 +20495,12 @@
     "kv": 1900,
     "stator_diameter_mm": 28,
     "stator_height_mm": 12,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19.9,
-    "weight_g": 80
+    "weight_g": 80,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-3115-800KV",
@@ -20237,11 +20533,12 @@
     "kv": 800,
     "stator_diameter_mm": 31,
     "stator_height_mm": 15,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 30.59,
-    "weight_g": 130
+    "weight_g": 130,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-4220-400KV",
@@ -20274,11 +20571,12 @@
     "kv": 400,
     "stator_diameter_mm": 42,
     "stator_height_mm": 20,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 39.8,
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-4220-650KV",
@@ -20311,11 +20609,12 @@
     "kv": 650,
     "stator_diameter_mm": 42,
     "stator_height_mm": 20,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 39.8,
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-6007-380KV",
@@ -20346,11 +20645,12 @@
     "approx_price": 59.71,
     "description": "Motor by. mm x mm stator..",
     "kv": 380,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 59.71,
-    "weight_g": 200
+    "weight_g": 200,
+    "origin": "Unknown"
   },
   {
     "pid": "MTR-UA-FT-2807-1300K",

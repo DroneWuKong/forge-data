@@ -34,7 +34,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-es900-900mhz-elrs-dual-rx-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1005",
@@ -71,7 +72,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-tramp-ghost-hybrid-duo-v2-2-4ghz-rx-25-600mw-5-8ghz-vtx.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1014",
@@ -100,7 +102,7 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
@@ -108,7 +110,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-diversity-nano-rx.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1016",
@@ -145,7 +148,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr1-nano-multi-frequency-receiver-elrs-2-4ghz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1018",
@@ -182,7 +186,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr3-nano-multi-frequency-diversity-receiver-elrs-2-4ghz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1020",
@@ -219,7 +224,8 @@
       "https://www.getfpv.com/radios/receivers/hglrc-gemini-elrs-2-4ghz-rx-dual-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1021",
@@ -256,7 +262,8 @@
       "https://www.getfpv.com/radios/receivers/hglrc-gemini-elrs-915mhz-rx-dual-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1022",
@@ -293,7 +300,8 @@
       "https://www.getfpv.com/radios/receivers/foxeer-elrs-diversity-receiver-915mhz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1023",
@@ -330,7 +338,8 @@
       "https://www.getfpv.com/radios/receivers/darwinfpv-cement-ultra-durable-elrs-2-4ghz-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1025",
@@ -367,7 +376,8 @@
       "https://www.getfpv.com/radios/receivers/betafpv-superd-elrs-2-4ghz-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1026",
@@ -404,7 +414,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-expresslrs-2-4ghz-true-diversity-receiver-elrs-r24-td.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1027",
@@ -441,7 +452,8 @@
       "https://www.getfpv.com/radios/receivers/betafpv-superd-elrs-915mhz-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1029",
@@ -470,7 +482,7 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
@@ -478,7 +490,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-nano-rx-pro-ndaa.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1032",
@@ -515,7 +528,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-nano-rx.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1033",
@@ -552,7 +566,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-ranger-2-4ghz-elrs-module-starter-combo.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1034",
@@ -589,7 +604,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-ranger-micro-2-4ghz-elrs-module-starter-combo.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1035",
@@ -626,7 +642,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-ranger-nano-2-4ghz-elrs-module-starter-combo.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1038",
@@ -663,7 +680,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-plus-gr8-2-4ghz-access-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1039",
@@ -700,7 +718,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rb-40-24ch-pwm-receiver-redundancy-bus-w-menu-scroll-button-lcd-screen.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1040",
@@ -737,7 +756,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-r86c-v2-6ch-pwm-receiver-d8-d16-sfhss.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1041",
@@ -774,7 +794,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-expresslrs-2-4ghz-receiver-pwm-elrs-r24-p6.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1042",
@@ -811,7 +832,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-nano-rx-pro.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1043",
@@ -848,7 +870,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-crossfire-to-pwm-converter-crsf-pwm-6.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1044",
@@ -885,7 +908,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-crossfire-to-pwm-converter-crsf-pwm-c.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1045",
@@ -922,7 +946,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-expresslrs-2-4ghz-receiver-elrs-r24-d.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1046",
@@ -959,7 +984,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-x14s-afhds-2a-receiver.html"
     ],
     "interface": "IBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1047",
@@ -988,7 +1014,7 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
@@ -996,7 +1022,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-diversity-nano-rx-ndaa.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1048",
@@ -1033,7 +1060,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-es900tx-es900rx-long-range-combo.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1049",
@@ -1070,7 +1098,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-r81-v2-8ch-frsky-d8-d16-compatible-nano-receiver-w-sbus.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1050",
@@ -1107,7 +1136,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-6ch-pwm-nano-rx.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1052",
@@ -1144,7 +1174,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-a8s-fs-a8s-2-4g-8ch-mini-receiver-with-ppm-i-bus-sbus-output.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "China"
   },
   {
     "pid": "RCV-1053",
@@ -1181,7 +1212,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-ia6b-receiver-6ch-2-4g-afhds-2a-telemetry-receiver.html"
     ],
     "interface": "IBUS / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "China"
   },
   {
     "pid": "RCV-1054",
@@ -1218,7 +1250,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr4-gemini-xrossband-elrs-2-4ghz-900mhz-dual-band-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1055",
@@ -1255,7 +1288,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-ghost-atto-2-4ghz-rx.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 0.6
+    "weight_g": 0.6,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1056",
@@ -1292,7 +1326,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr3-nano-multi-frequency-elrs-2-4ghz-sub-g-900mhz-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1057",
@@ -1329,7 +1364,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-tracer-nano-rx.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1059",
@@ -1366,7 +1402,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-rp4td-m-elrs-2-4ghz-mini-true-diversity-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1060",
@@ -1403,7 +1440,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr1-nano-multi-frequency-receiver-900mhz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1061",
@@ -1440,7 +1478,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-dbr4-dual-band-xross-gemini-expresslrs-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1062",
@@ -1477,7 +1516,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr2-nano-elrs-2-4ghz-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 0.8
+    "weight_g": 0.8,
+    "origin": "China"
   },
   {
     "pid": "RCV-1064",
@@ -1514,7 +1554,8 @@
       "https://www.getfpv.com/radios/receivers/axisflying-elrs-2-4ghz-radio-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1065",
@@ -1550,7 +1591,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-mavlink-900mhz-receiver-mr900-30.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1066",
@@ -1587,7 +1629,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-xm-sbus-mini-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1068",
@@ -1624,7 +1667,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-nano-rx-6ch-pwm-adapter.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1069",
@@ -1661,7 +1705,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-fusion-hardware-upgrade-board.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1070",
@@ -1698,7 +1743,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-8ch-diversity-receiver.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1071",
@@ -1735,7 +1781,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-crossfire-micro-receiver.html"
     ],
     "interface": "CRSF (UART)",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1072",
@@ -1772,7 +1819,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-r10-2-4ghz-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1074",
@@ -1809,7 +1857,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-r88-v2-8ch-pwm-receiver-w-sbus.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1075",
@@ -1846,7 +1895,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-plus-gr6-2-4ghz-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1076",
@@ -1882,7 +1932,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-mlrs-2-4ghz-receiver-mr24-30.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1077",
@@ -1919,7 +1970,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-r86-v2-6ch-pwm-receiver-d8-d16-sfhss.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1078",
@@ -1956,7 +2008,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-ia6-receiver-6ch-2-4g-afhds-2a-receiver.html"
     ],
     "interface": "IBUS / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "China"
   },
   {
     "pid": "RCV-1079",
@@ -1993,7 +2046,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r-xsr-2-4ghz-16ch-accst-micro-receiver-w-s-bus-cppm.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1080",
@@ -2030,7 +2084,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r9-sx-ota-900mhz-long-range-receiver-access.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1081",
@@ -2067,7 +2122,8 @@
       "https://www.getfpv.com/radios/receivers/radio-master-r81-v2-8ch-frsky-d8-d16-compatible-nano-receiver-w-sbus-pre-soldered-wires.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1082",
@@ -2104,7 +2160,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r9-mm-ota-915mhz-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1083",
@@ -2141,7 +2198,8 @@
       "https://www.getfpv.com/radios/receivers/geprc-nano-pa500-receiver-elrs-915mhz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1084",
@@ -2178,7 +2236,8 @@
       "https://www.getfpv.com/radios/receivers/flywoo-tcxo-elrs-2-4ghz-receiver-el24e.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1085",
@@ -2215,7 +2274,8 @@
       "https://www.getfpv.com/radios/receivers/speedybee-nano-2-4ghz-elrs-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1086",
@@ -2252,7 +2312,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr3-nano-multi-frequency-diversity-receiver-900mhz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1088",
@@ -2289,7 +2350,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-expresslrs-2-4ghz-pwm-vario-receiver-elrs-r24-p6v.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1089",
@@ -2326,7 +2388,8 @@
       "https://www.getfpv.com/radios/receivers/flywoo-tcxo-elrs-2-4ghz-receiver-el24p.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1091",
@@ -2363,7 +2426,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-tcxo-expresslrs-2-4ghz-6ch-pmw-receiver-epw6.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1092",
@@ -2399,7 +2463,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-micro-2-4ghz-4-in-1-module-jr-nano.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1094",
@@ -2436,7 +2501,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-nano-2-4ghz-ep1-tcxo-rx.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1095",
@@ -2473,7 +2539,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-nano-2-4ghz-ep2-tcxo-rx.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1096",
@@ -2510,7 +2577,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-nano-2-4ghz-ep1-dual-tcxo-rx.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1098",
@@ -2547,7 +2615,8 @@
       "https://www.getfpv.com/radios/receivers/immersion-rc-ghost-ultimate-hybrid-5-8ghz-vtx-2-4ghz-rx.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1102",
@@ -2584,7 +2653,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rb-30-24ch-pwm-receiver-redundancy-bus-dual-power-triple-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1103",
@@ -2621,7 +2691,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-r84-v2-4ch-pwm-receiver-d8-d16-sfhss.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1104",
@@ -2658,7 +2729,8 @@
       "https://www.getfpv.com/radios/receivers/hglrc-hermes-expresslrs-receiver-kit-2400rx-t-w-connector.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1105",
@@ -2695,7 +2767,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-pwm-receiver-kit-5ch-epw5-2-4ghz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1107",
@@ -2732,7 +2805,8 @@
       "https://www.getfpv.com/radios/receivers/hglrc-hermes-expresslrs-receiver-2400rx-s.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1108",
@@ -2769,7 +2843,8 @@
       "https://www.getfpv.com/radios/receivers/hglrc-hermes-expresslrs-receiver-2400rx-t.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1109",
@@ -2806,7 +2881,8 @@
       "https://www.getfpv.com/radios/receivers/mateksys-expresslrs-2-4ghz-receiver-pwm-elrs-r24-p.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1111",
@@ -2843,7 +2919,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-tramp-ghost-hybrid-uno-v2-2-4ghz-rx-25-600mw-5-8ghz-vtx.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1112",
@@ -2880,7 +2957,8 @@
       "https://www.getfpv.com/radios/receivers/betafpv-expresslrs-nano-915mhz-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1113",
@@ -2917,7 +2995,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-es900rx-receiver-module.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1114",
@@ -2954,7 +3033,8 @@
       "https://www.getfpv.com/radios/receivers/iflight-if8-r81-8ch-receiver-w-sbus.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1115",
@@ -2991,7 +3071,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-speki-micro-2-4ghz-receiver-dsm2-dsmx-srxl-built-in-pa-and-rssi-telemetry.html"
     ],
     "interface": "DSM / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1116",
@@ -3028,7 +3109,8 @@
       "https://www.getfpv.com/radios/receivers/tbs-tracer-6ch-pwm-nano-rx.html"
     ],
     "interface": "PWM",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RCV-1117",
@@ -3065,7 +3147,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-ghost-proton-30x30-pack.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1118",
@@ -3102,7 +3185,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-ghost-proton-25x25-pack.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1119",
@@ -3130,7 +3214,7 @@
       "weight_g": 2
     },
     "frequency_ghz": 0.433,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
@@ -3138,7 +3222,8 @@
       "https://www.getfpv.com/radios/receivers/dragon-link-advanced-433-mhz-1000-mw-receiver.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RCV-1120",
@@ -3175,7 +3260,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-r10-pro-2-4ghz-access-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1121",
@@ -3212,7 +3298,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-r6-2-4ghz-access-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1122",
@@ -3249,7 +3336,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-archer-gr6-2-4ghz-access-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1124",
@@ -3286,7 +3374,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-s-port-neuron-8a-sbec-regulator-for-transmitter-and-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1125",
@@ -3322,7 +3411,8 @@
       "https://www.getfpv.com/radios/receivers/cubepilot-rfd-900tx-mod-bundle-tx-rx-combo.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1126",
@@ -3351,7 +3441,7 @@
       "weight_g": 3
     },
     "frequency_ghz": 2.4,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
@@ -3359,7 +3449,8 @@
       "https://www.getfpv.com/radios/receivers/spektrum-srxl2-remote-serial-receiver-with-telemetry-spm4651t.html"
     ],
     "interface": "DSM / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1127",
@@ -3396,7 +3487,8 @@
       "https://www.getfpv.com/radios/receivers/jumper-sf410-mini-4ch-full-range-s-shss-receiver-w-sbus-pwm-output.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1128",
@@ -3433,7 +3525,8 @@
       "https://www.getfpv.com/radios/receivers/jumper-r1-d16-frsky-compatible-micro-receiver-with-s-port-and-s-bus.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1129",
@@ -3470,7 +3563,8 @@
       "https://www.getfpv.com/radios/receivers/jumper-sf410-4ch-full-range-s-fhss-receiver-w-sbus-pwm-output.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1130",
@@ -3507,7 +3601,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rxsr-fc-omnibus-f4-fireworks-v2-flight-controller-w-integrated-r-xsr.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1131",
@@ -3544,7 +3639,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rxsr-fc-omnibus-f4-v6-flight-controller-w-integrated-r-xsr.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1132",
@@ -3581,7 +3677,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-g-rx8-2-4ghz-8-16ch-accst-telemetry-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1133",
@@ -3618,7 +3715,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1134",
@@ -3655,7 +3753,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r9-slim-915mhz-long-range-receiver-og-antennas.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1136",
@@ -3692,7 +3791,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r9-mini-900mhz-long-range-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1137",
@@ -3729,7 +3829,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-r9-900mhz-16ch-long-range-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1138",
@@ -3766,7 +3867,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rb-10-redundancy-bus-10.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1139",
@@ -3795,7 +3897,7 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
@@ -3804,7 +3906,8 @@
     ],
     "ndaa_note": "OverSky, USA. US retailer. FC origin varies \u2014 verify per SKU.",
     "interface": "SBUS / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "Unknown"
   },
   {
     "pid": "RCV-1140",
@@ -3841,7 +3944,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-xm-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "China"
   },
   {
     "pid": "RCV-1141",
@@ -3878,7 +3982,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-x4r-sb-3-16-channel-receiver-with-sbus-and-cppm-without-pins.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1142",
@@ -3906,7 +4011,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 21,
@@ -3914,7 +4019,8 @@
       "https://www.getfpv.com/radios/receivers/radiolink-r6ds-6-ch-s-bus-2-4ghz-dsss-receiver.html"
     ],
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RCV-1143",
@@ -3951,7 +4057,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-s6r-6ch-receiver-w-3-axis-stabilization-smart-port-telemetry.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1144",
@@ -3979,7 +4086,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
@@ -3987,7 +4094,8 @@
       "https://www.getfpv.com/radios/receivers/radiolink-r10d-10-ch-2-4ghz-dsss-receiver.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RCV-1145",
@@ -4016,7 +4124,7 @@
       "weight_g": 2
     },
     "frequency_ghz": 2.4,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 27,
@@ -4024,7 +4132,8 @@
       "https://www.getfpv.com/radios/receivers/spektrum-ar7700-serial-receiver-with-ppm-srxl-remote-rx.html"
     ],
     "interface": "DSM / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1146",
@@ -4053,7 +4162,7 @@
       "weight_g": 8
     },
     "frequency_ghz": 2.4,
-    "ndaa_compliant": false,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 28,
@@ -4061,7 +4170,8 @@
       "https://www.getfpv.com/radios/receivers/spektrum-dsm2-airmod-with-ar7010-jr-compatible.html"
     ],
     "interface": "DSM / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1147",
@@ -4098,7 +4208,8 @@
       "https://www.getfpv.com/radios/receivers/betafpv-elrs-2-4ghz-nano-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1148",
@@ -4135,7 +4246,8 @@
       "https://www.getfpv.com/radios/receivers/radiomaster-xr1-nano-multi-frequency-elrs-2-4ghz-sub-g-900mhz-dual-band-receiver.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1149",
@@ -4172,7 +4284,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-nano-2-4ghz-ep1-rx.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1150",
@@ -4209,7 +4322,8 @@
       "https://www.getfpv.com/radios/receivers/happymodel-expresslrs-nano-2-4ghz-ep2-rx.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1151",
@@ -4246,7 +4360,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rx8r-pro-2-4g-accst-8-16ch-sbus-telemetry-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "China"
   },
   {
     "pid": "RCV-1154",
@@ -4283,7 +4398,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-td-r6-2-4ghz-900mhz-dual-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1155",
@@ -4320,7 +4436,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-x6r-16ch-receiver-sbus-smart-port.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1156",
@@ -4348,7 +4465,7 @@
       "weight_g": 10
     },
     "frequency_ghz": 0.433,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
@@ -4356,7 +4473,8 @@
       "https://www.getfpv.com/radios/receivers/dragon-link-micro-uhf-receiver-next-gen-firmware.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.5
+    "weight_g": 1.5,
+    "origin": "Unknown"
   },
   {
     "pid": "RCV-1157",
@@ -4393,7 +4511,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-ia10ch-receiver-10ch-2-4g-afhds-2a-telemetry-receiver.html"
     ],
     "interface": "IBUS / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "China"
   },
   {
     "pid": "RCV-1159",
@@ -4430,7 +4549,8 @@
       "https://www.getfpv.com/radios/receivers/flysky-fs-rx2a-pro-2-4ghz-receiver.html"
     ],
     "interface": "IBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1160",
@@ -4467,7 +4587,8 @@
       "https://www.getfpv.com/radios/receivers/geprc-gemini-xrossband-receiver-elrs-2-4ghz-915mhz.html"
     ],
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1161",
@@ -4504,7 +4625,8 @@
     ],
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1162",
@@ -4541,7 +4663,8 @@
       "https://www.getfpv.com/radios/receivers/immersionrc-ghost-atto-duo-2-4ghz-receiver.html"
     ],
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RCV-1163",
@@ -4578,7 +4701,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-delta-8-2-4ghz-8ch-multi-brand-receiver.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1164",
@@ -4615,7 +4739,8 @@
       "https://www.getfpv.com/radios/receivers/frsky-rxsr-fc-omninxt-f7-flight-controller-w-integrated-r-xsr.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1165",
@@ -4652,7 +4777,8 @@
       "https://www.getfpv.com/radios/receivers/jumper-sf610-6ch-full-range-s-shss-receiver-w-sbus-pwm-output.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RCV-1166",
@@ -4689,7 +4815,8 @@
       "https://www.getfpv.com/radios/receivers/jumper-sf810-8ch-full-range-s-fhss-receiver-w-sbus-pwm-output.html"
     ],
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-UA-Flytex-Fuzia",
@@ -4728,7 +4855,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "India"
   },
   {
     "pid": "RX-UA-DiFly-Nano-RX",
@@ -4768,7 +4896,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-UA-DiFly-TrueD",
@@ -4807,7 +4936,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-UA-VYRIY-ELRS",
@@ -4841,12 +4971,13 @@
     },
     "description": "receiver by VYRIY. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-UA-VYRIY-XR1",
@@ -4880,12 +5011,13 @@
     },
     "description": "receiver by VYRIY. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-UA-Radion-MaxLink",
@@ -4919,12 +5051,13 @@
     },
     "description": "receiver by Radion. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-UA-Aeroneti-DBR1",
@@ -4963,7 +5096,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-UA-Aeroneti-ELRS-433-\u041c\u0413\u0446",
@@ -5002,7 +5136,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 20,
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-UA-Flytex-GEMINI-DUAL-",
@@ -5042,7 +5177,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "India"
   },
   {
     "pid": "RX-UA-Ariadna-R1A1",
@@ -5076,12 +5212,13 @@
     },
     "description": "receiver by Ariadna. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-single-rad",
@@ -5120,12 +5257,13 @@
     },
     "description": "receiver by AnyLeaf. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-dual-radio",
@@ -5164,12 +5302,13 @@
     },
     "description": "receiver by AnyLeaf. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-ANYLEAF-h7-fc",
@@ -5208,12 +5347,13 @@
     },
     "description": "receiver by AnyLeaf. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-AERONETI-lr1121",
@@ -5262,7 +5402,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-MAFIA-AXIS-thor",
@@ -5301,12 +5442,13 @@
     },
     "description": "receiver by Axisflying. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-nano",
@@ -5349,12 +5491,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core",
@@ -5396,12 +5539,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core-",
@@ -5445,12 +5589,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-bc_sub",
@@ -5495,12 +5640,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 11,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-nano",
@@ -5543,12 +5689,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual-core",
@@ -5590,12 +5737,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rrd1",
@@ -5637,12 +5785,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-pwmc3",
@@ -5684,12 +5833,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 18,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rrd2",
@@ -5733,12 +5883,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-rr2",
@@ -5782,12 +5933,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dual",
@@ -5835,12 +5987,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-single",
@@ -5888,12 +6041,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur100",
@@ -5938,12 +6092,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur500",
@@ -5990,12 +6145,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-pwm",
@@ -6042,12 +6198,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 13,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-dualc3",
@@ -6095,12 +6252,13 @@
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BAYCKRC-ur1000",
@@ -6145,12 +6303,13 @@
     },
     "description": "receiver by BAYCKRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-nano",
@@ -6195,7 +6354,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superd",
@@ -6239,7 +6399,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superp",
@@ -6283,7 +6444,8 @@
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-aio",
@@ -6327,7 +6489,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-lite",
@@ -6371,7 +6534,8 @@
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-nano",
@@ -6416,7 +6580,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-pwmp",
@@ -6460,7 +6625,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superd",
@@ -6504,7 +6670,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superp",
@@ -6548,7 +6715,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superx-nan",
@@ -6596,7 +6764,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BETAFPV-superx-mon",
@@ -6643,7 +6812,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BOTLAB-botlink1",
@@ -6682,12 +6852,13 @@
     },
     "description": "receiver by BotLabDynamics. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-BROTHERH-plain",
@@ -6727,12 +6898,13 @@
     "description": "receiver by BrotherHobby. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BROTHERH-nano",
@@ -6772,12 +6944,13 @@
     "description": "receiver by BrotherHobby. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-BROTHERH-dualc3",
@@ -6822,12 +6995,13 @@
     "description": "receiver by BrotherHobby. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DIFLY-lt433",
@@ -6876,7 +7050,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-MAFIA-DIFLY-nano",
@@ -6924,7 +7099,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 11,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-MAFIA-DIFLY-trued",
@@ -6971,7 +7147,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Ukraine"
   },
   {
     "pid": "RX-MAFIA-BSIP-superx-mon",
@@ -7014,12 +7191,13 @@
     "description": "receiver by BlackSheep. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-rx900",
@@ -7061,12 +7239,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-gemx",
@@ -7111,12 +7290,13 @@
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-rx900",
@@ -7158,12 +7338,13 @@
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-superd",
@@ -7204,12 +7385,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-pro",
@@ -7252,12 +7434,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 26,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-nano",
@@ -7299,12 +7482,13 @@
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-superd",
@@ -7345,12 +7529,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-pro",
@@ -7393,12 +7578,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DAKEFPV-1w",
@@ -7439,12 +7625,13 @@
     },
     "description": "receiver by DAKEFPV. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-DIY-ttgov1",
@@ -7482,12 +7669,13 @@
     },
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 26,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DIY-ttgov2",
@@ -7525,12 +7713,13 @@
     },
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DIY-huzzah",
@@ -7569,12 +7758,13 @@
     },
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DIY-stm32-sx12",
@@ -7611,12 +7801,13 @@
     },
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DIY-true_diver",
@@ -7656,12 +7847,13 @@
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-DIY-true_diver",
@@ -7701,12 +7893,13 @@
     "description": "receiver by DIY devices. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-EMAX-plain",
@@ -7745,12 +7938,13 @@
     },
     "description": "receiver by EMAX. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-EMAX-plain",
@@ -7789,12 +7983,13 @@
     },
     "description": "receiver by EMAX. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-EMAX-pa",
@@ -7833,12 +8028,13 @@
     },
     "description": "receiver by EMAX. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLYCOLOR-c3",
@@ -7878,12 +8074,13 @@
     "description": "receiver by Flycolor. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLYWOO-el24e",
@@ -7922,12 +8119,13 @@
     },
     "description": "receiver by Flywoo. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLYWOO-el24p",
@@ -7966,12 +8164,13 @@
     },
     "description": "receiver by Flywoo. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FOXEER-pa-rgb",
@@ -8015,7 +8214,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FOXEER-lite",
@@ -8059,7 +8259,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FOXEER-plain",
@@ -8103,7 +8304,8 @@
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FOXEER-td",
@@ -8148,7 +8350,8 @@
     "manufacturer_country": "International",
     "price_usd": 24,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLASHTEC-se4",
@@ -8193,12 +8396,13 @@
     "description": "receiver by Flash Tech. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-FLASHTEC-ft_se4",
@@ -8243,12 +8447,13 @@
     "description": "receiver by Flash Tech. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9mm",
@@ -8292,7 +8497,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim",
@@ -8335,7 +8541,8 @@
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim-plu",
@@ -8378,7 +8585,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9slim-plu",
@@ -8421,7 +8629,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FRSKY-r9mx",
@@ -8464,7 +8673,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GENERIC-plain",
@@ -8503,12 +8713,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwmp",
@@ -8547,12 +8758,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 25,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -8592,12 +8804,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -8639,12 +8852,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -8684,12 +8898,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain",
@@ -8728,12 +8943,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain-p",
@@ -8772,12 +8988,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-td",
@@ -8817,12 +9034,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 28,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-pwm",
@@ -8861,12 +9079,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pp",
@@ -8904,12 +9123,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-plain",
@@ -8948,12 +9168,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm5",
@@ -8991,12 +9212,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm6",
@@ -9034,12 +9256,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm-vario",
@@ -9077,12 +9300,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pwm7",
@@ -9120,12 +9344,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pa",
@@ -9164,12 +9389,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-pa-rgb",
@@ -9208,12 +9434,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity",
@@ -9253,12 +9480,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-frank",
@@ -9297,12 +9525,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-rx_vtx",
@@ -9341,12 +9570,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -9386,12 +9616,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity_",
@@ -9431,12 +9662,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-diversity_",
@@ -9476,12 +9708,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -9521,12 +9754,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -9566,12 +9800,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 27,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-true_diver",
@@ -9614,12 +9849,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-true_di",
@@ -9662,12 +9898,13 @@
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-plain",
@@ -9709,12 +9946,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GENERIC-c3-pwm",
@@ -9756,12 +9994,13 @@
     },
     "description": "receiver by Generic targets used as a base. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano",
@@ -9806,7 +10045,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual",
@@ -9851,7 +10091,8 @@
     "manufacturer_country": "International",
     "price_usd": 28,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual500",
@@ -9898,7 +10139,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-pa",
@@ -9945,7 +10187,8 @@
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano",
@@ -9990,7 +10233,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-pa",
@@ -10035,7 +10279,8 @@
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-geprc-dual",
@@ -10080,7 +10325,8 @@
     "manufacturer_country": "International",
     "price_usd": 24,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-nano-td",
@@ -10125,7 +10371,8 @@
     "manufacturer_country": "International",
     "price_usd": 11,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-dual",
@@ -10175,7 +10422,8 @@
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-single",
@@ -10224,7 +10472,8 @@
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-GEPRC-c3-dual",
@@ -10274,7 +10523,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SUB250-nano",
@@ -10315,12 +10565,13 @@
     },
     "description": "receiver by Sub250. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SUB250-pro",
@@ -10360,12 +10611,13 @@
     "description": "receiver by Sub250. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SUB250-single",
@@ -10409,12 +10661,13 @@
     },
     "description": "receiver by Sub250. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-HAOYERC-nano",
@@ -10454,12 +10707,13 @@
     "description": "receiver by HAOYERC. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es915",
@@ -10502,7 +10756,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900",
@@ -10546,7 +10801,8 @@
     "manufacturer_country": "International",
     "price_usd": 10,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900_dual",
@@ -10590,7 +10846,8 @@
     "manufacturer_country": "International",
     "price_usd": 10,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-es900_dual",
@@ -10634,7 +10891,8 @@
     "manufacturer_country": "International",
     "price_usd": 10,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw6",
@@ -10678,7 +10936,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-pp",
@@ -10721,7 +10980,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-ep",
@@ -10765,7 +11025,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-ep-dual",
@@ -10809,7 +11070,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw5",
@@ -10852,7 +11114,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-epw6",
@@ -10895,7 +11158,8 @@
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HAPPYMOD-aio",
@@ -10939,7 +11203,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HDZERO-halo",
@@ -10979,13 +11244,14 @@
     "description": "receiver by HDZero. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HDZERO-aio15",
@@ -11024,13 +11290,14 @@
     },
     "description": "receiver by HDZero. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HELLORAD-hr8e",
@@ -11073,12 +11340,13 @@
     "description": "receiver by HelloRadio. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 29,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HELLORAD-hr7e",
@@ -11121,12 +11389,13 @@
     "description": "receiver by HelloRadio. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 25,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-hermes",
@@ -11170,7 +11439,8 @@
     "manufacturer_country": "International",
     "price_usd": 26,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-dual",
@@ -11215,7 +11485,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-hermes",
@@ -11259,7 +11530,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-dual",
@@ -11304,7 +11576,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-nano",
@@ -11354,7 +11627,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HGLRC-pro",
@@ -11403,7 +11677,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-plain",
@@ -11447,7 +11722,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-nano",
@@ -11492,7 +11768,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-500",
@@ -11538,7 +11815,8 @@
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-dual500",
@@ -11585,7 +11863,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-plain",
@@ -11629,7 +11908,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-nano",
@@ -11674,7 +11954,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-500",
@@ -11720,7 +12001,8 @@
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IFLIGHT-dual250",
@@ -11765,7 +12047,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-IMRC-atto",
@@ -11808,7 +12091,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RX-MAFIA-JUMPER-ep24s",
@@ -11848,12 +12132,13 @@
     "description": "receiver by Jumper. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JUMPER-nano",
@@ -11893,12 +12178,13 @@
     "description": "receiver by Jumper. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JUMPER-c3-pwm6",
@@ -11937,12 +12223,13 @@
     },
     "description": "receiver by Jumper. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JUMPER-mini",
@@ -11981,12 +12268,13 @@
     "description": "receiver by Jumper. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JUMPER-aion",
@@ -12026,12 +12314,13 @@
     "description": "receiver by Jumper. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-MATEK-r24d",
@@ -12070,12 +12359,13 @@
     },
     "description": "receiver by Matek Systems. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-MATEK-r24s",
@@ -12114,12 +12404,13 @@
     },
     "description": "receiver by Matek Systems. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-MATEK-r24p",
@@ -12157,12 +12448,13 @@
     },
     "description": "receiver by Matek Systems. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-voyager_st",
@@ -12200,12 +12492,13 @@
     },
     "description": "receiver by NamimnoRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-voyager",
@@ -12244,12 +12537,13 @@
     },
     "description": "receiver by NamimnoRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 26,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash_stm",
@@ -12287,12 +12581,13 @@
     },
     "description": "receiver by NamimnoRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash",
@@ -12331,12 +12626,13 @@
     },
     "description": "receiver by NamimnoRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NAMIMNOR-flash-pa",
@@ -12376,12 +12672,13 @@
     "description": "receiver by NamimnoRC. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-NEUTRONR-plain",
@@ -12420,12 +12717,13 @@
     },
     "description": "receiver by NeutronRC. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 24,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-microg",
@@ -12470,7 +12768,8 @@
     "price_usd": 14,
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-rx24d",
@@ -12516,7 +12815,8 @@
     "price_usd": 23,
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RX-MAFIA-NEWBEEDR-c324d",
@@ -12562,7 +12862,8 @@
     "price_usd": 24,
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "USA"
   },
   {
     "pid": "RX-MAFIA-QUADKOPT-nano",
@@ -12602,12 +12903,13 @@
     "description": "receiver by QuadKopters. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 11,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br1",
@@ -12651,7 +12953,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br3",
@@ -12696,7 +12999,8 @@
     "manufacturer_country": "International",
     "price_usd": 28,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-bandit-nan",
@@ -12741,7 +13045,8 @@
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-br4td",
@@ -12785,7 +13090,8 @@
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er3",
@@ -12828,7 +13134,8 @@
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er4",
@@ -12871,7 +13178,8 @@
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5",
@@ -12914,7 +13222,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5c-i",
@@ -12957,7 +13266,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er5-v2",
@@ -13000,7 +13310,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6",
@@ -13044,7 +13355,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6g",
@@ -13088,7 +13400,8 @@
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er6gv",
@@ -13132,7 +13445,8 @@
     "manufacturer_country": "International",
     "price_usd": 24,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8",
@@ -13176,7 +13490,8 @@
     "manufacturer_country": "International",
     "price_usd": 24,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8g",
@@ -13220,7 +13535,8 @@
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-er8gv",
@@ -13264,7 +13580,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "PWM",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp1",
@@ -13308,7 +13625,8 @@
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp2",
@@ -13352,7 +13670,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp3",
@@ -13397,7 +13716,8 @@
     "manufacturer_country": "International",
     "price_usd": 28,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp3-h",
@@ -13442,7 +13762,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp4",
@@ -13487,7 +13808,8 @@
     "manufacturer_country": "International",
     "price_usd": 26,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-rp4m",
@@ -13532,7 +13854,8 @@
     "manufacturer_country": "International",
     "price_usd": 29,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr2",
@@ -13578,7 +13901,8 @@
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-nexus-xr",
@@ -13623,7 +13947,8 @@
     "manufacturer_country": "International",
     "price_usd": 28,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-dbr4",
@@ -13671,7 +13996,8 @@
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr1",
@@ -13718,7 +14044,8 @@
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr3",
@@ -13766,7 +14093,8 @@
     "manufacturer_country": "International",
     "price_usd": 23,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-RADIOMAS-xr4",
@@ -13814,7 +14142,8 @@
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SEQURE-single",
@@ -13853,12 +14182,13 @@
     },
     "description": "receiver by SEQURE. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SEQURE-dual",
@@ -13897,12 +14227,13 @@
     },
     "description": "receiver by SEQURE. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SEQURE-dual",
@@ -13941,12 +14272,13 @@
     },
     "description": "receiver by SEQURE. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SIYI-mini",
@@ -13986,12 +14318,13 @@
     "description": "receiver by SIYI. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SKYSTARS-ss24d",
@@ -14030,12 +14363,13 @@
     },
     "description": "receiver by Skystars. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-nano",
@@ -14075,12 +14409,13 @@
     "description": "receiver by SpeedyBee. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-ss24d",
@@ -14120,12 +14455,13 @@
     "description": "receiver by SpeedyBee. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 12,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-SPEEDYBE-aio",
@@ -14164,12 +14500,13 @@
     },
     "description": "receiver by SpeedyBee. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-STELLAR-stellar",
@@ -14211,12 +14548,13 @@
     },
     "description": "receiver by STELLAR. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-STELLAR-c3-trued-g",
@@ -14263,12 +14601,13 @@
     },
     "description": "receiver by STELLAR. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-STELLAR-c3-dual",
@@ -14315,12 +14654,13 @@
     },
     "description": "receiver by STELLAR. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SPRACING-rxg1",
@@ -14359,12 +14699,13 @@
     },
     "description": "receiver by SPRacing. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SPRACING-rxn1",
@@ -14403,12 +14744,13 @@
     },
     "description": "receiver by SPRacing. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-TBS-tbs_crossf",
@@ -14453,7 +14795,8 @@
     "manufacturer_country": "International",
     "price_usd": 25,
     "interface": "CRSF (UART)",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Germany"
   },
   {
     "pid": "RX-MAFIA-TUNERC-tunerc_240",
@@ -14493,12 +14836,13 @@
     "description": "receiver by TuneRC. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-ATOMRC-atomrc",
@@ -14537,12 +14881,13 @@
     },
     "description": "receiver by atomrc. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.4
+    "weight_g": 2.4,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-VANTAC-plain",
@@ -14581,12 +14926,13 @@
     },
     "description": "receiver by Vantac. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-ZERODRAG-nexus1",
@@ -14625,12 +14971,13 @@
     },
     "description": "receiver by ZeroDrag. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-FLYDRAGO-r24d",
@@ -14669,12 +15016,13 @@
     },
     "description": "receiver by FlyDragonRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-FLYFISH-2g4rx",
@@ -14715,12 +15063,13 @@
     },
     "description": "receiver by FlyFish. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-THXMRSQU-squidstick",
@@ -14759,12 +15108,13 @@
     },
     "description": "receiver by ThxMrSquid. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr1",
@@ -14805,12 +15155,13 @@
     },
     "description": "receiver by Hobbyporter. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr1v2",
@@ -14851,12 +15202,13 @@
     },
     "description": "receiver by Hobbyporter. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-HOBBYPOR-dbr3",
@@ -14897,12 +15249,13 @@
     },
     "description": "receiver by Hobbyporter. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor433",
@@ -14946,12 +15299,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor_beas",
@@ -14995,12 +15349,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-pidor520c3",
@@ -15044,12 +15399,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 22,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-N24R_TD_D4",
@@ -15091,12 +15447,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-94e_v1",
@@ -15141,12 +15498,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-brx24",
@@ -15191,12 +15549,13 @@
     },
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAFIA-lr1824",
@@ -15242,12 +15601,13 @@
     "description": "receiver by FPV Mafia targets. band. antenna connector.",
     "frequency_ghz": 0.9,
     "size_class": "mini",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 3.0
+    "weight_g": 3.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-EDIFIER-rx433",
@@ -15292,12 +15652,13 @@
     "description": "receiver by Edifier. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "full",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-EDIFIER-gemx250",
@@ -15341,12 +15702,13 @@
     },
     "description": "receiver by Edifier. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-BELINRC-rx900",
@@ -15388,12 +15750,13 @@
     },
     "description": "receiver by BelinRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-BELINRC-433rx",
@@ -15437,12 +15800,13 @@
     },
     "description": "receiver by BelinRC. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-MAXLINK-rx360",
@@ -15486,12 +15850,13 @@
     },
     "description": "receiver by MaxLink. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-AYZ-RD2R4",
@@ -15535,12 +15900,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 14,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-MC2R4",
@@ -15582,12 +15948,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-9624R",
@@ -15633,12 +16000,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-433m_v1",
@@ -15682,12 +16050,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-ff14",
@@ -15731,12 +16100,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-px1011",
@@ -15780,12 +16150,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "ELRS (CRSF/UART)",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-AYZ-9624R24",
@@ -15830,12 +16201,13 @@
     },
     "description": "receiver by AYZ. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-CYCLONE-cyclone433",
@@ -15879,12 +16251,13 @@
     },
     "description": "receiver by Cyclone. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-CYCLONE-c3_lr1121",
@@ -15929,12 +16302,13 @@
     },
     "description": "receiver by Cyclone. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLYTEX-rx433",
@@ -15983,7 +16357,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "India"
   },
   {
     "pid": "RX-MAFIA-FLYTEX-db2",
@@ -16034,7 +16409,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 24,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "India"
   },
   {
     "pid": "RX-MAFIA-FLYSKY-pr01",
@@ -16073,12 +16449,13 @@
     },
     "description": "receiver by FlySky. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "interface": "IBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-FLYSKY-pr02",
@@ -16117,12 +16494,13 @@
     },
     "description": "receiver by FlySky. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "IBUS / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HOLYBRO-zephyr",
@@ -16164,13 +16542,14 @@
     },
     "description": "receiver by Holybro. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 14,
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JHEMCU-lite",
@@ -16209,12 +16588,13 @@
     },
     "description": "receiver by JHEMCU. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 21,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 2.0
+    "weight_g": 2.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-JHEMCU-dual",
@@ -16253,12 +16633,13 @@
     },
     "description": "receiver by JHEMCU. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "China"
   },
   {
     "pid": "RX-MAFIA-HPXGRC-superx_nan",
@@ -16304,12 +16685,13 @@
     "description": "receiver by HPXGRC. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 16,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-OXBOT-aio",
@@ -16348,12 +16730,13 @@
     },
     "description": "receiver by Oxbot. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 15,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SKYGUY-nano",
@@ -16393,12 +16776,13 @@
     "description": "receiver by SkyGuy. band. antenna connector.",
     "frequency_ghz": 2.4,
     "size_class": "nano",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 17,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 1.0
+    "weight_g": 1.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SKYGUY-max",
@@ -16437,12 +16821,13 @@
     },
     "description": "receiver by SkyGuy. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spx24",
@@ -16481,12 +16866,13 @@
     },
     "description": "receiver by Spedix. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 19,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spx900",
@@ -16527,12 +16913,13 @@
     },
     "description": "receiver by Spedix. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 20,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-SPEDIX-spxdb",
@@ -16574,12 +16961,13 @@
     },
     "description": "receiver by Spedix. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobby24",
@@ -16618,12 +17006,13 @@
     },
     "description": "receiver by THOBBY. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 13,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobby900",
@@ -16664,12 +17053,13 @@
     },
     "description": "receiver by THOBBY. band. antenna connector.",
     "frequency_ghz": 0.9,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 25,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   },
   {
     "pid": "RX-MAFIA-THOBBY-thobbydb",
@@ -16711,11 +17101,12 @@
     },
     "description": "receiver by THOBBY. band. antenna connector.",
     "frequency_ghz": 2.4,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 18,
     "interface": "SBUS / CRSF / UART",
-    "weight_g": 4.0
+    "weight_g": 4.0,
+    "origin": "Unknown"
   }
 ]

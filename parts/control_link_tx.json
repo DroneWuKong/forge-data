@@ -27,12 +27,13 @@
     ],
     "approx_price": 82.93,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 82.93,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-\u0427\u0414\u0411-TX-400-V2,5",
@@ -62,12 +63,13 @@
     ],
     "approx_price": 60.98,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.98,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-\u0427\u0414\u0411-TX-500-V2,5",
@@ -97,12 +99,13 @@
     ],
     "approx_price": 60.98,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.98,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-\u0427\u0414\u0411-TX-150",
@@ -132,12 +135,13 @@
     ],
     "approx_price": 82.93,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 82.93,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-COALAS-s-34TX",
@@ -167,12 +171,13 @@
     ],
     "approx_price": 282.93,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 282.93,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-COALAS-s-45TX",
@@ -202,12 +207,13 @@
     ],
     "approx_price": 168.29,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 168.29,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-COALAS-s-17TX",
@@ -237,12 +243,13 @@
     ],
     "approx_price": 287.8,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 287.8,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-COALAS-s-X62.TX",
@@ -272,12 +279,13 @@
     ],
     "approx_price": 240.0,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 240.0,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-LEADER-T-ELRS-433\u041c\u0413\u0446-",
@@ -312,7 +320,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 60.95,
     "interface": "ELRS (915/868/2.4GHz)",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "USA"
   },
   {
     "pid": "TX-UA-KODKOD-E32-X00M30S",
@@ -342,12 +351,13 @@
     ],
     "approx_price": 73.17,
     "description": "Radio transmitter by KODKOD. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 73.17,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-Radion-MaxLink-TX-S",
@@ -377,12 +387,13 @@
     ],
     "approx_price": 153.66,
     "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 153.66,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-Radion-MaxLink-TX-D",
@@ -412,12 +423,13 @@
     ],
     "approx_price": 200.0,
     "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 200.0,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-Radion-MaxLink-TX-D",
@@ -447,12 +459,13 @@
     ],
     "approx_price": 487.8,
     "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 487.8,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-UA-Aeroneti-LR1121-TX-20",
@@ -487,7 +500,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 243.9,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-UA-Ariadna-T1A0",
@@ -517,12 +531,13 @@
     ],
     "approx_price": 255.07,
     "description": "Radio transmitter by Ariadna. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 255.07,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-AERONETI-v1",
@@ -569,7 +584,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 103,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-v2",
@@ -616,7 +632,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 103,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-v2_1",
@@ -663,7 +680,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_v1",
@@ -711,7 +729,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 95,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_150",
@@ -761,7 +780,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 97,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_450",
@@ -811,7 +831,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_5w_",
@@ -861,7 +882,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 101,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_5w_",
@@ -911,7 +933,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 101,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AERONETI-lr1121_1w_",
@@ -959,7 +982,8 @@
     "manufacturer_country": "Ukraine",
     "price_usd": 97,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Ukraine"
   },
   {
     "pid": "TX-MAFIA-AXIS-thor",
@@ -996,12 +1020,13 @@
       "weight_g": 354
     },
     "description": "Radio transmitter by Axisflying. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 103,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BAYCKRC-nano",
@@ -1046,12 +1071,13 @@
       "weight_g": 344
     },
     "description": "Radio transmitter by BAYCKRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 103,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BAYCKRC-nano_gemin",
@@ -1096,12 +1122,13 @@
       "weight_g": 345
     },
     "description": "Radio transmitter by BAYCKRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 95,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BAYCKRC-micro_gemi",
@@ -1146,12 +1173,13 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by BAYCKRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 99,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BAYCKRC-dual_as_tx",
@@ -1197,12 +1225,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by BAYCKRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 97,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-nano900",
@@ -1244,7 +1273,8 @@
     "manufacturer_country": "International",
     "price_usd": 99,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-nanov2",
@@ -1286,7 +1316,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro900",
@@ -1328,7 +1359,8 @@
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro900v2",
@@ -1370,7 +1402,8 @@
     "manufacturer_country": "International",
     "price_usd": 102,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro400v1",
@@ -1414,7 +1447,8 @@
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro400v1",
@@ -1458,7 +1492,8 @@
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro400v1",
@@ -1502,7 +1537,8 @@
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-nano2g4",
@@ -1544,7 +1580,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-nanov2",
@@ -1586,7 +1623,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro2g4",
@@ -1628,7 +1666,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-micro1w",
@@ -1670,7 +1709,8 @@
     "manufacturer_country": "International",
     "price_usd": 101,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-literadio3",
@@ -1713,7 +1753,8 @@
     "manufacturer_country": "International",
     "price_usd": 103,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-BETAFPV-superg",
@@ -1755,7 +1796,8 @@
     "manufacturer_country": "International",
     "price_usd": 99,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-COREWING-sirius",
@@ -1792,12 +1834,13 @@
       "weight_g": 358
     },
     "description": "Radio transmitter by CoreWing. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-ttgov1",
@@ -1834,12 +1877,13 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-ttgov2",
@@ -1876,12 +1920,13 @@
       "weight_g": 358
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 101,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-e19",
@@ -1918,12 +1963,13 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-rfm95",
@@ -1960,12 +2006,13 @@
       "weight_g": 343
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 103,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-stm32-sx12",
@@ -2001,12 +2048,13 @@
       "weight_g": 355
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 99,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-mini",
@@ -2043,12 +2091,13 @@
       "weight_g": 347
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-e28",
@@ -2085,12 +2134,13 @@
       "weight_g": 352
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-f27",
@@ -2127,12 +2177,13 @@
       "weight_g": 354
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-ble",
@@ -2169,12 +2220,13 @@
       "weight_g": 342
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-DIY-true_diver",
@@ -2212,12 +2264,13 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by DIY devices. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-EMAX-plain",
@@ -2254,12 +2307,13 @@
       "weight_g": 350
     },
     "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-EMAX-nano",
@@ -2296,12 +2350,13 @@
       "weight_g": 350
     },
     "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-EMAX-plain",
@@ -2338,12 +2393,13 @@
       "weight_g": 351
     },
     "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-EMAX-nano",
@@ -2380,12 +2436,13 @@
       "weight_g": 342
     },
     "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-FOXEER-tx790",
@@ -2427,7 +2484,8 @@
     "manufacturer_country": "International",
     "price_usd": 100,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-FRSKY-r9m",
@@ -2470,7 +2528,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "FrSky D16 / ACCESS",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-FRSKY-r9m-lite",
@@ -2512,7 +2571,8 @@
     "manufacturer_country": "International",
     "price_usd": 103,
     "interface": "FrSky D16 / ACCESS",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-FRSKY-r9m-lite-p",
@@ -2554,7 +2614,8 @@
     "manufacturer_country": "International",
     "price_usd": 102,
     "interface": "FrSky D16 / ACCESS",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-GENERIC-gemini",
@@ -2592,12 +2653,13 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-GENERIC-dupletx",
@@ -2635,12 +2697,13 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-GENERIC-gemini",
@@ -2678,12 +2741,13 @@
       "weight_g": 359
     },
     "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-GENERIC-gemini",
@@ -2723,12 +2787,13 @@
       "weight_g": 352
     },
     "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-GEPRC-linkflow",
@@ -2770,7 +2835,8 @@
     "manufacturer_country": "International",
     "price_usd": 101,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-GEPRC-dual500_as",
@@ -2815,7 +2881,8 @@
     "manufacturer_country": "International",
     "price_usd": 103,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-GEPRC-dual",
@@ -2862,7 +2929,8 @@
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es915",
@@ -2904,7 +2972,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es900",
@@ -2946,7 +3015,8 @@
     "manufacturer_country": "International",
     "price_usd": 102,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es900max",
@@ -2988,7 +3058,8 @@
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es24",
@@ -3030,7 +3101,8 @@
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es24pro",
@@ -3072,7 +3144,8 @@
     "manufacturer_country": "International",
     "price_usd": 102,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HAPPYMOD-es24slimpr",
@@ -3114,7 +3187,8 @@
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HDZERO-radio",
@@ -3151,13 +3225,14 @@
       "weight_g": 344
     },
     "description": "Radio transmitter by HDZero. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 102,
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HELLORAD-v16",
@@ -3198,12 +3273,13 @@
       "weight_g": 351
     },
     "description": "Radio transmitter by HelloRadio. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HELLORAD-v14",
@@ -3244,12 +3320,13 @@
       "weight_g": 345
     },
     "description": "Radio transmitter by HelloRadio. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 102,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HELLORAD-v16r",
@@ -3290,12 +3367,13 @@
       "weight_g": 341
     },
     "description": "Radio transmitter by HelloRadio. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 100,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HGLRC-oled",
@@ -3337,7 +3415,8 @@
     "manufacturer_country": "International",
     "price_usd": 98,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-HGLRC-hermes",
@@ -3379,7 +3458,8 @@
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-IFLIGHT-plain",
@@ -3421,7 +3501,8 @@
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-IFLIGHT-v2",
@@ -3463,7 +3544,8 @@
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-IFLIGHT-plain",
@@ -3505,7 +3587,8 @@
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-IFLIGHT-v2",
@@ -3547,7 +3630,8 @@
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-IMRC-ghost",
@@ -3589,7 +3673,8 @@
     "manufacturer_country": "International",
     "price_usd": 101,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "USA"
   },
   {
     "pid": "TX-MAFIA-IMRC-ghost_lite",
@@ -3631,7 +3716,8 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "USA"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-20",
@@ -3669,12 +3755,13 @@
       "weight_g": 343
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 77,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-20-v2",
@@ -3712,12 +3799,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 79,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-pros",
@@ -3755,12 +3843,13 @@
       "weight_g": 343
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 78,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-15",
@@ -3798,12 +3887,13 @@
       "weight_g": 356
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 76,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-14",
@@ -3841,12 +3931,13 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 84,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-20-gemin",
@@ -3884,12 +3975,13 @@
       "weight_g": 354
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 76,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-pro",
@@ -3927,12 +4019,13 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 79,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-lite",
@@ -3970,12 +4063,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 77,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-nano",
@@ -4012,12 +4106,13 @@
       "weight_g": 347
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 82,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t12",
@@ -4055,12 +4150,13 @@
       "weight_g": 354
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 82,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t12-1w",
@@ -4098,12 +4194,13 @@
       "weight_g": 345
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 78,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-20",
@@ -4141,12 +4238,13 @@
       "weight_g": 351
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 77,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-20-v2",
@@ -4184,12 +4282,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 79,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-15",
@@ -4227,12 +4326,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 76,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-pros",
@@ -4270,12 +4370,13 @@
       "weight_g": 358
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 78,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-14",
@@ -4313,12 +4414,13 @@
       "weight_g": 344
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 84,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-JUMPER-t-pro",
@@ -4356,12 +4458,13 @@
       "weight_g": 357
     },
     "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 79,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-NAMIMNOR-voyager_st",
@@ -4398,12 +4501,13 @@
       "weight_g": 359
     },
     "description": "Radio transmitter by NamimnoRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 97,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-NAMIMNOR-voyager",
@@ -4440,12 +4544,13 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by NamimnoRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 102,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-NAMIMNOR-flash_stm",
@@ -4482,12 +4587,13 @@
       "weight_g": 352
     },
     "description": "Radio transmitter by NamimnoRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-NAMIMNOR-flash",
@@ -4524,12 +4630,13 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by NamimnoRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-QUADKOPT-jr",
@@ -4566,12 +4673,13 @@
       "weight_g": 341
     },
     "description": "Radio transmitter by QuadKopters. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 104,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-QUADKOPT-slim",
@@ -4608,12 +4716,13 @@
       "weight_g": 358
     },
     "description": "Radio transmitter by QuadKopters. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-bandit",
@@ -4655,7 +4764,8 @@
     "manufacturer_country": "International",
     "price_usd": 120,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-bandit-mic",
@@ -4697,7 +4807,8 @@
     "manufacturer_country": "International",
     "price_usd": 119,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-bandit-nan",
@@ -4739,7 +4850,8 @@
     "manufacturer_country": "International",
     "price_usd": 120,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-zorro",
@@ -4782,7 +4894,8 @@
     "manufacturer_country": "International",
     "price_usd": 122,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-pocket",
@@ -4825,7 +4938,8 @@
     "manufacturer_country": "International",
     "price_usd": 123,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-mt12",
@@ -4868,7 +4982,8 @@
     "manufacturer_country": "International",
     "price_usd": 118,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-tx16s",
@@ -4911,7 +5026,8 @@
     "manufacturer_country": "International",
     "price_usd": 124,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-tx12",
@@ -4954,7 +5070,8 @@
     "manufacturer_country": "International",
     "price_usd": 124,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-ranger",
@@ -4996,7 +5113,8 @@
     "manufacturer_country": "International",
     "price_usd": 124,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-ranger-mic",
@@ -5038,7 +5156,8 @@
     "manufacturer_country": "International",
     "price_usd": 121,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-ranger-nan",
@@ -5080,7 +5199,8 @@
     "manufacturer_country": "International",
     "price_usd": 123,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-boxer",
@@ -5123,7 +5243,8 @@
     "manufacturer_country": "International",
     "price_usd": 118,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-t8l",
@@ -5165,7 +5286,8 @@
     "manufacturer_country": "International",
     "price_usd": 115,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-nomad",
@@ -5210,7 +5332,8 @@
     "manufacturer_country": "International",
     "price_usd": 124,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-gx12",
@@ -5255,7 +5378,8 @@
     "manufacturer_country": "International",
     "price_usd": 118,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-tx15",
@@ -5300,7 +5424,8 @@
     "manufacturer_country": "International",
     "price_usd": 122,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-RADIOMAS-xr4_as_tx",
@@ -5345,7 +5470,8 @@
     "manufacturer_country": "International",
     "price_usd": 119,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-SIYI-fm30",
@@ -5382,12 +5508,13 @@
       "weight_g": 355
     },
     "description": "Radio transmitter by SIYI. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 101,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-SIYI-rx_as_tx",
@@ -5424,12 +5551,13 @@
       "weight_g": 345
     },
     "description": "Radio transmitter by SIYI. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 96,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-VANTAC-lite",
@@ -5466,12 +5594,13 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by Vantac. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 99,
     "interface": "RF 2.4GHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-MAFIA-tx433",
@@ -5513,12 +5642,13 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by FPV Mafia targets. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-MAFIA-bl627",
@@ -5560,12 +5690,13 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by FPV Mafia targets. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 96,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-EDIFIER-tx433",
@@ -5607,12 +5738,13 @@
       "weight_g": 341
     },
     "description": "Radio transmitter by Edifier. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 97,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-BELINRC-tx433",
@@ -5654,12 +5786,13 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by BelinRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 102,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "Unknown"
   },
   {
     "pid": "TX-MAFIA-CYCLONE-cyclone_mi",
@@ -5699,12 +5832,13 @@
       "weight_g": 347
     },
     "description": "Radio transmitter by Cyclone. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
     "interface": "RF 900MHz",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-CYCLONE-cyclone_40",
@@ -5746,12 +5880,13 @@
       "weight_g": 341
     },
     "description": "Radio transmitter by Cyclone. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 103,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-CYCLONE-cyclone_1w",
@@ -5793,12 +5928,13 @@
       "weight_g": 352
     },
     "description": "Radio transmitter by Cyclone. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 104,
     "interface": "RF Proprietary",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   },
   {
     "pid": "TX-MAFIA-FLYSKY-pa01",
@@ -5836,11 +5972,12 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by FlySky. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 54,
     "interface": "AFHDS 2A",
-    "weight_g": 800
+    "weight_g": 800,
+    "origin": "China"
   }
 ]
