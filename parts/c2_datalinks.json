@@ -32,11 +32,22 @@
       "c2",
       "multi_datalink",
       "fleet_management",
-      "tso_certified"
+      "tso_certified",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 85
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://uavionix.com/product/microlink/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null
   },
   {
     "pid": "C2DL-0002",
@@ -76,11 +87,23 @@
       "starlink",
       "bvlos",
       "link_switching",
-      "cnpc"
+      "cnpc",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 120
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://uavionix.com/products/skyline/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0003",
@@ -119,11 +142,25 @@
       "c2",
       "video_link",
       "blue_uas",
-      "mesh"
+      "mesh",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
     "schema_data": {
       "weight_g": 340
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "links": [
+      "https://silvustechnologies.com/applications/unmanned-systems/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0004",
@@ -153,11 +190,25 @@
       "manet",
       "mn_mimo",
       "swarm",
-      "relay"
+      "relay",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
     "schema_data": {
       "weight_g": 60
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "links": [
+      "https://silvustechnologies.com/applications/unmanned-systems/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0005",
@@ -207,11 +258,21 @@
       "qgroundcontrol",
       "ardupilot",
       "px4",
-      "2.4ghz"
+      "2.4ghz",
+      "non-ndaa",
+      "china"
     ],
     "schema_data": {
       "weight_g": 750
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 499,
+    "links": [
+      "https://www.cubepilot.com/herelink"
+    ],
+    "ndaa_compliant": false,
+    "interface": "Ethernet / Serial / RF",
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0006",
@@ -249,9 +310,21 @@
       "devsecops",
       "multi_domain",
       "iamd",
-      "cato"
+      "cato",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.ultra.group/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ultra Electronics, UK. Allied-nation NDAA compliant. Part of Cobham Advanced Electronic Systems.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0007",
@@ -280,9 +353,23 @@
       "ew_resilient",
       "encrypted",
       "tactical",
-      "blue_uas"
+      "blue_uas",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.performancedroneworx.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Performance Drone Works, Sarasota FL. US UAS C2 manufacturer. NDAA compliant.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0008",
@@ -308,9 +395,21 @@
       "interoperability",
       "dod",
       "tactical",
-      "multi_uas"
+      "multi_uas",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://kuttatech.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Kutta Technologies, Phoenix AZ. US DoD C2 software company. NDAA compliant.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "C2DL-0009",
@@ -356,11 +455,23 @@
       "anti_jamming",
       "87mbps",
       "ultra_light",
-      "battle_proven"
+      "battle_proven",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 90
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://domotactical.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 150
   },
   {
     "pid": "C2DL-0010",
@@ -389,11 +500,23 @@
       "swarm",
       "250km",
       "miniature",
-      "mother_daughter"
+      "mother_daughter",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 60
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://domotactical.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
+    "interface": "Ethernet / Serial / RF",
+    "weight_g": 60.0,
+    "price_note": "Contact for pricing",
+    "price_usd": null
   },
   {
     "pid": "C2DL-0011",
@@ -419,9 +542,21 @@
       "decentralized",
       "thousands_of_drones",
       "autonomous",
-      "l3harris"
+      "l3harris",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.l3harris.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "L3Harris Technologies. US defense prime. NDAA compliant.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "C2DL-0012",
@@ -447,9 +582,21 @@
       "jadc2",
       "single_operator",
       "multi_platform",
-      "mother_daughter"
+      "mother_daughter",
+      "ndaa",
+      "israel"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Israel",
+    "links": [
+      "https://xtend.me/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "XTEND, Tel Aviv, Israel. Allied-nation NDAA compliant. XOS tactical drone OS.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "C2DL-0013",
@@ -478,8 +625,20 @@
       "autonomous",
       "cca",
       "navy",
-      "hivemind"
+      "hivemind",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://shield.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Shield AI, San Diego CA. US AI autonomy company. NDAA compliant. DoD prime contractor.",
+    "interface": "Ethernet / Serial / RF",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   }
 ]

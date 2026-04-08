@@ -29,11 +29,20 @@
       "ip69k",
       "128ch",
       "mapping",
-      "autonomy"
+      "autonomy",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3000.0,
+    "links": [
+      "https://ouster.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant."
   },
   {
     "pid": "SENS-0002",
@@ -63,11 +72,20 @@
       "wide_vfov_90deg",
       "short_range",
       "obstacle_avoidance",
-      "indoor"
+      "indoor",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3000.0,
+    "links": [
+      "https://ouster.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant."
   },
   {
     "pid": "SENS-0003",
@@ -96,11 +114,20 @@
       "digital_lidar",
       "long_range",
       "400m",
-      "infrastructure_inspection"
+      "infrastructure_inspection",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 19
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 6000.0,
+    "links": [
+      "https://ouster.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant."
   },
   {
     "pid": "SENS-0004",
@@ -131,11 +158,20 @@
       "100khz",
       "eye_safe",
       "topographic",
-      "centimeter_accuracy"
+      "centimeter_accuracy",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "manufacturer_country": "Austria",
+    "price_usd": 80000.0,
+    "links": [
+      "https://www.riegl.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0005",
@@ -165,11 +201,20 @@
       "1.8mhz",
       "720m_altitude",
       "10mm_accuracy",
-      "multi_echo"
+      "multi_echo",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "manufacturer_country": "Austria",
+    "price_usd": 150000.0,
+    "links": [
+      "https://www.riegl.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0006",
@@ -198,11 +243,20 @@
       "riegl_scanner",
       "ins_included",
       "turnkey",
-      "professional_survey"
+      "professional_survey",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "manufacturer_country": "France",
+    "price_usd": 100000.0,
+    "links": [
+      "https://www.yellowscan-lidar.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "YellowScan, Montpellier, France. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0007",
@@ -240,11 +294,19 @@
       "265g",
       "non_repetitive_scan",
       "chinese",
-      "dji_subsidiary"
+      "dji_subsidiary",
+      "non-ndaa",
+      "china"
     ],
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 600.0,
+    "links": [
+      "https://www.livoxtech.com/"
+    ],
+    "ndaa_compliant": false
   },
   {
     "pid": "SENS-0008",
@@ -276,11 +338,20 @@
       "50m",
       "ip67",
       "ardupilot_px4_standard",
-      "100hz"
+      "100hz",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 200.0,
+    "links": [
+      "https://ainstein.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ainstein Inc., Lawrence KS. US radar altimeter manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0009",
@@ -310,11 +381,20 @@
       "counter_uas",
       "drone_detection_1km",
       "vehicle_3.5km",
-      "120x80_fov"
+      "120x80_fov",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 20000.0,
+    "links": [
+      "https://www.echodyne.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan."
   },
   {
     "pid": "SENS-0010",
@@ -342,11 +422,20 @@
       "metamaterial_esa",
       "360_coverage",
       "persistent_monitoring",
-      "counter_uas"
+      "counter_uas",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 17
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 60000.0,
+    "links": [
+      "https://www.echodyne.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan."
   },
   {
     "pid": "SENS-0011",
@@ -374,11 +463,20 @@
       "0.2_deg_hr",
       "fog_grade_performance",
       "26g",
-      "five_eyes"
+      "five_eyes",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 3000.0,
+    "links": [
+      "https://www.advancednavigation.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0012",
@@ -405,11 +503,20 @@
       "tactical_grade",
       "0.8_deg_hr",
       "gnss_integrated",
-      "french_sovereign"
+      "french_sovereign",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "manufacturer_country": "France",
+    "price_usd": 2000.0,
+    "links": [
+      "https://www.sbg-systems.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0013",
@@ -438,11 +545,20 @@
       "0.3w",
       "micro_uas",
       "pgm",
-      "dual_antenna"
+      "dual_antenna",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "manufacturer_country": "France",
+    "price_usd": 3000.0,
+    "links": [
+      "https://www.sbg-systems.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0014",
@@ -470,11 +586,20 @@
       "rtk",
       "cm_positioning",
       "no_magnetometer",
-      "survey_mapping"
+      "survey_mapping",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "manufacturer_country": "France",
+    "price_usd": 5000.0,
+    "links": [
+      "https://www.sbg-systems.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "SENS-0015",
@@ -500,11 +625,20 @@
       "ahrs",
       "compact",
       "commercial_standard",
-      "us_manufactured"
+      "us_manufactured",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 1500.0,
+    "links": [
+      "https://www.vectornav.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "VectorNav Technologies, Dallas TX. US AHRS/INS manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0016",
@@ -529,11 +663,20 @@
     "tags": [
       "gps_ins",
       "kalman_filter",
-      "mid_range"
+      "mid_range",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3000.0,
+    "links": [
+      "https://www.vectornav.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "VectorNav Technologies, Dallas TX. US AHRS/INS manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0017",
@@ -559,11 +702,20 @@
       "dual_antenna",
       "gps_ins",
       "no_magnetometer",
-      "highest_performance"
+      "highest_performance",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 5000.0,
+    "links": [
+      "https://www.vectornav.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "VectorNav Technologies, Dallas TX. US AHRS/INS manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0018",
@@ -589,11 +741,20 @@
       "defense_grade",
       "dual_antenna",
       "px4_ardupilot",
-      "us_manufactured"
+      "us_manufactured",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 5000.0,
+    "links": [
+      "https://inertiallabs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier."
   },
   {
     "pid": "SENS-0019",
@@ -618,11 +779,20 @@
       "gps_denied",
       "blue_uas",
       "made_in_usa",
-      "visual_odometry"
+      "visual_odometry",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 22
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "ndaa_note": "Designed and manufactured USA. NDAA compliant.",
+    "price_usd": 245.0,
+    "links": [
+      "https://arkelectron.com/"
+    ]
   },
   {
     "pid": "SENS-0020",
@@ -650,11 +820,20 @@
       "0.05_deg_hr",
       "gold_standard",
       "defense_grade",
-      "high_accuracy"
+      "high_accuracy",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 15000.0,
+    "links": [
+      "https://www.kvh.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "KVH Industries, Middletown RI (NASDAQ: KVHI). US FOG IMU manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0021",
@@ -684,11 +863,20 @@
       "precision_agriculture",
       "environmental",
       "300g",
-      "industry_standard"
+      "industry_standard",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 5000.0,
+    "links": [
+      "https://micasense.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "MicaSense, acquired by AgEagle Aerial Systems, Wichita KS. US manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0022",
@@ -715,11 +903,20 @@
       "6_band",
       "multispectral_plus_thermal",
       "crop_stress",
-      "flir_thermal"
+      "flir_thermal",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 23
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 10000.0,
+    "links": [
+      "https://micasense.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "MicaSense, acquired by AgEagle Aerial Systems, Wichita KS. US manufacturer. NDAA compliant."
   },
   {
     "pid": "SENS-0023",
@@ -750,11 +947,20 @@
       "flir_boson_optional",
       "290g",
       "precision_ag",
-      "defense_isr"
+      "defense_isr",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 8000.0,
+    "links": [
+      "https://sentera.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Sentera, Minneapolis MN \u2014 acquired by John Deere May 2025. US manufacturer. NDAA compliant."
   },
   {
     "pid": "SEN-0001",
@@ -796,7 +1002,16 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 54,
+    "ndaa_compliant": false,
+    "interface": "CAN / UART",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 200
   },
   {
     "pid": "SEN-0002",
@@ -827,7 +1042,16 @@
     "approx_price": 54,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 54,
+    "ndaa_compliant": false,
+    "interface": "UART / Ethernet",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 200
   },
   {
     "pid": "SEN-0003",
@@ -853,7 +1077,16 @@
     "approx_price": 52,
     "schema_data": {
       "weight_g": 20
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 52,
+    "ndaa_compliant": false,
+    "interface": "UART / Ethernet",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 200
   },
   {
     "pid": "SEN-0004",
@@ -884,7 +1117,17 @@
     "approx_price": 53,
     "schema_data": {
       "weight_g": 18
-    }
+    },
+    "price_usd": 53,
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "ndaa_note": "RoboSense (Suteng Innovation Technology), Shenzhen, China. Non-NDAA. Chinese LiDAR manufacturer.",
+    "interface": "UART / Ethernet",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 200
   },
   {
     "pid": "SEN-0005",
@@ -914,7 +1157,17 @@
     "approx_price": 48,
     "schema_data": {
       "weight_g": 21
-    }
+    },
+    "price_usd": 48,
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "ndaa_note": "Velodyne Lidar merged with Ouster 2023. Ouster Inc., San Francisco CA (NYSE: OUST). US company. NDAA compliant.",
+    "interface": "UART / Ethernet",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 830
   },
   {
     "pid": "SEN-0006",
@@ -934,7 +1187,17 @@
     "approx_price": 45,
     "schema_data": {
       "weight_g": 11
-    }
+    },
+    "price_usd": 45,
+    "manufacturer_country": "Netherlands",
+    "ndaa_compliant": true,
+    "ndaa_note": "Xsens/Movella, Enschede, Netherlands. EU/NATO allied-nation NDAA compliant.",
+    "interface": "UART / Ethernet",
+    "tags": [
+      "ndaa",
+      "nato"
+    ],
+    "weight_g": 200
   },
   {
     "pid": "SENS-0024",
@@ -1014,21 +1277,25 @@
     "itar_free": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "INS",
-      "GPS-aided",
+      "ins",
+      "gps-aided",
       "tactical-grade",
-      "LiDAR",
+      "lidar",
       "survey",
-      "UAV",
-      "RTK",
-      "GNSS-denied",
-      "Pixhawk",
-      "NDAA"
+      "uav",
+      "rtk",
+      "gnss-denied",
+      "pixhawk",
+      "ndaa"
     ],
     "approx_price": 52,
     "schema_data": {
       "weight_g": 24
-    }
+    },
+    "price_usd": 52,
+    "links": [
+      "https://inertiallabs.com/products/ins-inertial-navigation-systems/"
+    ]
   },
   {
     "pid": "SENS-0025",
@@ -1092,19 +1359,23 @@
     "itar_free": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "INS",
-      "GPS-aided",
+      "ins",
+      "gps-aided",
       "industrial-grade",
       "fluxgate",
       "heading",
-      "GPS-denied",
-      "UAV",
-      "NDAA"
+      "gps-denied",
+      "uav",
+      "ndaa"
     ],
     "approx_price": 54,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "price_usd": 54,
+    "links": [
+      "https://inertiallabs.com/products/ins-inertial-navigation-systems/"
+    ]
   },
   {
     "pid": "SENS-0026",
@@ -1155,19 +1426,23 @@
     "itar_free": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "INS",
+      "ins",
       "dual-antenna",
       "tactical-grade",
       "heading",
-      "RTK",
+      "rtk",
       "survey",
-      "ISR",
-      "NDAA"
+      "isr",
+      "ndaa"
     ],
     "approx_price": 53,
     "schema_data": {
       "weight_g": 10
-    }
+    },
+    "price_usd": 53,
+    "links": [
+      "https://inertiallabs.com/products/ins-inertial-navigation-systems/"
+    ]
   },
   {
     "pid": "SENS-0027",
@@ -1195,21 +1470,25 @@
     "itar_free": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "AHRS",
-      "MEMS",
+      "ahrs",
+      "mems",
       "fluxgate",
       "compact",
       "gimbal",
       "antenna",
       "stabilization",
-      "UAV",
-      "NDAA",
-      "ITAR-free"
+      "uav",
+      "ndaa",
+      "itar-free"
     ],
     "approx_price": 54,
     "schema_data": {
       "weight_g": 7
-    }
+    },
+    "price_usd": 54,
+    "links": [
+      "https://inertiallabs.com/products/ahrs/"
+    ]
   },
   {
     "pid": "SENS-0028",
@@ -1241,20 +1520,25 @@
     "itar_free": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "AHRS",
+      "ahrs",
       "tactical-grade",
       "fluxgate",
-      "UAV",
+      "uav",
       "vessel",
-      "UGV",
+      "ugv",
       "stabilization",
-      "NDAA",
-      "ITAR-free"
+      "ndaa",
+      "itar-free"
     ],
     "approx_price": 48,
     "schema_data": {
       "weight_g": 14
-    }
+    },
+    "price_usd": 48,
+    "links": [
+      "https://inertiallabs.com/products/ahrs/"
+    ],
+    "weight_g": 100
   },
   {
     "pid": "SENS-0029",
@@ -1294,21 +1578,85 @@
     "ndaa_compliant": true,
     "manufacturer_country": "USA (Paeonian Springs, VA)",
     "tags": [
-      "APNT",
+      "apnt",
       "anti-jam",
-      "CRPA",
-      "GPS-denied",
-      "EW-resilient",
-      "L1",
-      "L2",
-      "L5",
-      "GNSS",
+      "crpa",
+      "gps-denied",
+      "ew-resilient",
+      "l1",
+      "l2",
+      "l5",
+      "gnss",
       "military",
-      "NDAA"
+      "ndaa"
     ],
     "approx_price": 54,
     "schema_data": {
       "weight_g": 13
-    }
+    },
+    "price_usd": 54,
+    "links": [
+      "https://inertiallabs.com/products/apnt-assured-positioning-navigation-timing/anti-jamming-advanced-antenna-system-m-aj-quatro/"
+    ],
+    "interface": "UART / Ethernet",
+    "weight_g": 100
+  },
+  {
+    "pid": "SNS-3050",
+    "category": "sensors",
+    "name": "ARK Electronics ARK Flow",
+    "manufacturer": "ARK Electronics",
+    "description": "Blue UAS listed DroneCAN optical flow + distance sensor for GPS-denied flight. PAW3902 optical flow (tracks >9 lux, 80mm to infinity, 7.4 rad/s max), Broadcom AFBR-S50LV85D ToF LiDAR (30m range, 12.4\u00b0x6.2\u00b0 FoV, 32px), ICM-42688-P IMU. STM32F412, 2x CAN JST-GH. 3x3x1.4cm, 5g. Open source firmware + ROS2 support. USA made.",
+    "link": "https://arkelectron.com/product/ark-flow/",
+    "approx_price": "$250",
+    "subcategory": "optical_flow",
+    "tags": [
+      "ndaa",
+      "blue-uas",
+      "usa",
+      "px4",
+      "ardupilot",
+      "dronecan",
+      "open-source",
+      "pixhawk",
+      "optical-flow",
+      "lidar",
+      "gps-denied",
+      "tof",
+      "paw3902",
+      "can",
+      "ros2"
+    ],
+    "country": "USA",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": true,
+      "note": "Blue UAS Framework listed. NDAA compliant. Made in USA."
+    },
+    "specs": {
+      "optical_flow": "PAW3902 (>9 lux, 80mm-inf, 7.4 rad/s)",
+      "lidar": "AFBR-S50LV85D ToF 30m",
+      "fov": "12.4x6.2 deg 32px",
+      "imu": "ICM-42688-P",
+      "mcu": "STM32F412",
+      "dims_cm": "3x3x1.4",
+      "weight_g": 5,
+      "ir_led": "40mW built-in"
+    },
+    "schema_data": {
+      "ndaa_compliant": true,
+      "blue_uas": true,
+      "country": "USA"
+    },
+    "ndaa_compliant": true,
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 250.0,
+    "links": [
+      "https://arkelectron.com/product/ark-flow/"
+    ],
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "interface": "CAN / UART",
+    "weight_g": 5.0
   }
 ]

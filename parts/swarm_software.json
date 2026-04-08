@@ -33,7 +33,16 @@
       "last_updated": "2026-03-21"
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0002",
@@ -55,7 +64,16 @@
       "stars": 106
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "Hungary",
+    "ndaa_compliant": true,
+    "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
+    "tags": [
+      "ndaa"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0003",
@@ -77,7 +95,16 @@
       "stars": 79
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "Hungary",
+    "ndaa_compliant": true,
+    "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
+    "tags": [
+      "ndaa"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0004",
@@ -118,7 +145,11 @@
       }
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "ndaa_note": "Open-source ArduPilot swarm software. Origin unverified \u2014 individual contributor. Verify per contract.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0005",
@@ -271,7 +302,12 @@
       "algorithms_stars": 22
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "Brazil",
+    "ndaa_note": "Brazil-origin academic project + Embraer. Not adversary-nation but verify per contract.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0006",
@@ -397,7 +433,17 @@
       }
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "ndaa_note": "Origin unclear. Verify.",
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0007",
@@ -423,7 +469,17 @@
       "stars": 33
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "France",
+    "ndaa_compliant": true,
+    "ndaa_note": "MICROS Lab, ENAC (French civil aviation school), Toulouse, France. EU/NATO. NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "nato"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0008",
@@ -448,7 +504,17 @@
       "stars": 300
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "ndaa_note": "IMRC Lab, University of Southern California, Los Angeles CA. US academic. NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0009",
@@ -497,7 +563,12 @@
       "stars": 32
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "Brazil",
+    "ndaa_note": "Insper + NVIDIA academic partnership. Brazil origin. Verify per contract.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "SWR-0010",
@@ -788,6 +859,16 @@
       }
     },
     "schema_data": {},
-    "approx_price": 0
+    "approx_price": 0,
+    "manufacturer_country": "Italy",
+    "ndaa_compliant": true,
+    "ndaa_note": "OpenIPC, Italy-based community. EU/NATO allied-nation. NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "nato"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   }
 ]

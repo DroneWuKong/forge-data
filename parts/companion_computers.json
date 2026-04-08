@@ -41,11 +41,21 @@
       "docker",
       "7_cameras",
       "16g",
-      "assembled_usa"
+      "assembled_usa",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 449.0,
+    "links": [
+      "https://www.modalai.com/products/voxl-2"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0002",
@@ -85,11 +95,21 @@
       "micro_drone",
       "px4_integrated",
       "8k30",
-      "assembled_usa"
+      "assembled_usa",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 1170.0,
+    "links": [
+      "https://www.modalai.com/products/voxl-2-mini"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0003",
@@ -102,7 +122,7 @@
     "processor": "NVIDIA Jetson Orin NX / Orin Nano",
     "ai_compute_tops": 100,
     "ram_gb": 16,
-    "weight_g": null,
+    "weight_g": 20,
     "power_w": 25,
     "camera_inputs": 4,
     "camera_interface": "MIPI-CSI / USB 3.0",
@@ -129,11 +149,21 @@
       "75v_battery_input",
       "built_in_imu",
       "pab",
-      "made_in_usa"
+      "made_in_usa",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 40
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 300.0,
+    "links": [
+      "https://arkelectron.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0004",
@@ -146,7 +176,7 @@
     "processor": "NVIDIA Jetson Orin NX 16GB",
     "ai_compute_tops": 157,
     "ram_gb": 16,
-    "weight_g": null,
+    "weight_g": 60,
     "power_w": 25,
     "camera_inputs": 6,
     "camera_interface": "MIPI-CSI / GMSL2 / USB 3.0",
@@ -175,11 +205,21 @@
       "pab_slot",
       "1w_heater",
       "jetpack_6.2",
-      "super_maxn"
+      "super_maxn",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 48
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 600.0,
+    "links": [
+      "https://arkelectron.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0005",
@@ -192,7 +232,7 @@
     "processor": "Qualcomm QRB5165 (via VOXL 2)",
     "ai_compute_tops": 15,
     "ram_gb": 8,
-    "weight_g": null,
+    "weight_g": 35,
     "power_w": 8,
     "camera_inputs": 7,
     "camera_interface": "MIPI-CSI",
@@ -217,11 +257,21 @@
       "rtk_gnss",
       "pab_slot",
       "qrb5165",
-      "made_in_usa"
+      "made_in_usa",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 42
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 1500.0,
+    "links": [
+      "https://arkelectron.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0006",
@@ -234,7 +284,7 @@
     "processor": "NVIDIA Jetson AGX Orin 64GB",
     "ai_compute_tops": 275,
     "ram_gb": 64,
-    "weight_g": null,
+    "weight_g": 60,
     "power_w": 60,
     "camera_inputs": 16,
     "camera_interface": "MIPI-CSI / GMSL2",
@@ -261,11 +311,21 @@
       "64gb_ram",
       "edge_ai",
       "multi_network",
-      "pcie_gen4"
+      "pcie_gen4",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 49
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 999.0,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0007",
@@ -305,11 +365,21 @@
       "25g",
       "uas_sweet_spot",
       "jetpack_6",
-      "super_maxn"
+      "super_maxn",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 44
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 399.0,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0008",
@@ -346,11 +416,21 @@
       "67_tops",
       "entry_level",
       "cost_effective",
-      "basic_autonomy"
+      "basic_autonomy",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 199.0,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0009",
@@ -363,7 +443,7 @@
     "processor": "NVIDIA Jetson AGX Thor",
     "ai_compute_tops": 2070,
     "ram_gb": null,
-    "weight_g": null,
+    "weight_g": 60,
     "power_w": 130,
     "camera_inputs": null,
     "camera_interface": "MIPI-CSI / GMSL2",
@@ -386,11 +466,20 @@
       "next_gen",
       "llm_capable",
       "multi_modal",
-      "pcie_gen5"
+      "pcie_gen5",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 31
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-agx-thor/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0010",
@@ -422,11 +511,21 @@
       "m2_form_factor",
       "raspberry_pi",
       "edge_inference",
-      "ai_accelerator"
+      "ai_accelerator",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 48
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 70.0,
+    "links": [
+      "https://hailo.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
+    "interface": "PCIe / USB / Ethernet"
   },
   {
     "pid": "COMP-0011",
@@ -459,11 +558,21 @@
       "llm_capable",
       "llama_3.2",
       "m2_form_factor",
-      "edge_ai"
+      "edge_ai",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 100.0,
+    "links": [
+      "https://hailo.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
+    "interface": "PCIe / USB / Ethernet"
   },
   {
     "pid": "COMP-0012",
@@ -503,11 +612,21 @@
       "gmsl2",
       "ruggedized",
       "mil_temp",
-      "vibration_rated"
+      "vibration_rated",
+      "ndaa",
+      "taiwan"
     ],
     "schema_data": {
       "weight_g": 32
-    }
+    },
+    "manufacturer_country": "Taiwan",
+    "price_usd": 1000.0,
+    "links": [
+      "https://www.neousys-tech.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Neousys Technology, New Taipei City, Taiwan. Allied-nation NDAA compliant. Rugged embedded computing.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "COMP-0013",
@@ -520,7 +639,7 @@
     "processor": "NVIDIA Jetson Orin NX",
     "ai_compute_tops": 100,
     "ram_gb": 16,
-    "weight_g": null,
+    "weight_g": 20,
     "power_w": 25,
     "camera_inputs": 4,
     "camera_interface": "MIPI-CSI",
@@ -549,7 +668,14 @@
     ],
     "schema_data": {
       "weight_g": 42
-    }
+    },
+    "manufacturer_country": "Turkey",
+    "price_usd": 200.0,
+    "links": [
+      "https://www.forecr.io/"
+    ],
+    "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
+    "interface": "Ethernet / USB / UART / PCIe"
   },
   {
     "pid": "COMP-0014",
@@ -562,7 +688,7 @@
     "processor": "NVIDIA Jetson Orin NX",
     "ai_compute_tops": 100,
     "ram_gb": 16,
-    "weight_g": null,
+    "weight_g": 60,
     "power_w": 25,
     "camera_inputs": 6,
     "camera_interface": "MIPI-CSI / USB 3.0",
@@ -595,7 +721,14 @@
     ],
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "manufacturer_country": "Turkey",
+    "price_usd": 300.0,
+    "links": [
+      "https://www.forecr.io/"
+    ],
+    "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
+    "interface": "Ethernet / USB / UART / PCIe"
   },
   {
     "pid": "COMP-0015",
@@ -608,7 +741,7 @@
     "processor": "Qualcomm QRB5165",
     "ai_compute_tops": 15,
     "ram_gb": 8,
-    "weight_g": null,
+    "weight_g": 5.0,
     "power_w": 6,
     "camera_inputs": 7,
     "camera_interface": "MIPI-CSI",
@@ -633,11 +766,21 @@
       "15_tops",
       "5g_integrated",
       "reference_platform",
-      "oem_development"
+      "oem_development",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 36
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 500.0,
+    "links": [
+      "https://www.qualcomm.com/products/internet-of-things/industrial/drones/flight-rb5"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Qualcomm Technologies, San Diego CA. US semiconductor (NASDAQ: QCOM). NDAA compliant.",
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "CC-0001",
@@ -672,13 +815,22 @@
       "nvidia_jetson",
       "redundant",
       "mosa",
-      "open_architecture"
+      "open_architecture",
+      "ndaa"
     ],
     "link": "https://airvolute.com/product-category/uav-autopilots/",
     "approx_price": 304,
     "schema_data": {
       "weight_g": 47
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "Slovakia",
+    "price_usd": 304,
+    "links": [
+      "https://airvolute.com/product-category/uav-autopilots/"
+    ],
+    "interface": "USB / Ethernet / UART",
+    "weight_g": 20
   },
   {
     "pid": "CC-0002",
@@ -701,13 +853,21 @@
       "autopilot",
       "companion_computer",
       "dronecore",
-      "nvidia_jetson"
+      "nvidia_jetson",
+      "ndaa"
     ],
     "link": "https://syndicate.uasnexus.com/collections/computes",
     "approx_price": 296,
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "Slovakia",
+    "links": [
+      "https://syndicate.uasnexus.com/collections/computes"
+    ],
+    "interface": "USB / Ethernet / UART",
+    "weight_g": 60
   },
   {
     "pid": "CC-0003",
@@ -730,13 +890,21 @@
       "autopilot",
       "companion_computer",
       "dronecore",
-      "nvidia_jetson"
+      "nvidia_jetson",
+      "ndaa"
     ],
     "link": "https://syndicate.uasnexus.com/collections/computes",
     "approx_price": 104,
     "schema_data": {
       "weight_g": 37
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "Slovakia",
+    "links": [
+      "https://syndicate.uasnexus.com/collections/computes"
+    ],
+    "interface": "USB / Ethernet / UART",
+    "weight_g": 60
   },
   {
     "pid": "CC-0004",
@@ -759,13 +927,21 @@
       "autopilot",
       "companion_computer",
       "dronecore",
-      "nvidia_jetson"
+      "nvidia_jetson",
+      "ndaa"
     ],
     "link": "https://syndicate.uasnexus.com/collections/computes",
     "approx_price": 298,
     "schema_data": {
       "weight_g": 45
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "Slovakia",
+    "links": [
+      "https://syndicate.uasnexus.com/collections/computes"
+    ],
+    "interface": "USB / Ethernet / UART",
+    "weight_g": 60
   },
   {
     "pid": "CC-1019",
@@ -792,20 +968,25 @@
     ],
     "ndaa_compliant": true,
     "blue_uas": false,
-    "weight_g": null,
-    "price_usd": null,
+    "weight_g": 60,
+    "price_usd": 48,
     "tags": [
-      "AI",
-      "QRB5165",
-      "CubePilot",
-      "VSLAM",
-      "NDAA",
-      "6-cameras"
+      "ai",
+      "qrb5165",
+      "cubepilot",
+      "vslam",
+      "ndaa",
+      "6-cameras",
+      "taiwan"
     ],
     "approx_price": 48,
     "schema_data": {
       "weight_g": 41
-    }
+    },
+    "manufacturer_country": "Taiwan",
+    "links": [
+      "https://www.mistralsolutions.com"
+    ]
   },
   {
     "pid": "CC-1020",
@@ -829,19 +1010,23 @@
     ],
     "ndaa_compliant": false,
     "blue_uas": false,
-    "weight_g": null,
-    "price_usd": null,
+    "weight_g": 60,
+    "price_usd": 49,
     "tags": [
       "mission-computer",
       "segregated-architecture",
-      "STANAG-4586",
-      "Spanish",
-      "military-grade"
+      "stanag-4586",
+      "spanish",
+      "military-grade",
+      "non-ndaa"
     ],
     "approx_price": 49,
     "schema_data": {
       "weight_g": 33
-    }
+    },
+    "links": [
+      "https://www.uavnavigation.com"
+    ]
   },
   {
     "pid": "CC-1021",
@@ -903,22 +1088,29 @@
       "Fleet management"
     ],
     "tags": [
-      "MAVLink",
-      "ArduPilot",
+      "mavlink",
+      "ardupilot",
       "cellular",
-      "BVLOS",
+      "bvlos",
       "swarm",
       "companion-software",
-      "RPi",
+      "rpi",
       "open-source",
-      "NDAA",
-      "cloud-GCS",
+      "ndaa",
+      "cloud-gcs",
       "air-gap",
-      "DroneEngage"
+      "droneengage"
     ],
     "schema_data": {
       "weight_g": 39
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "Australia / International (open source)",
+    "price_usd": 62,
+    "links": [
+      "https://cloud.ardupilot.org"
+    ],
+    "interface": "USB / Ethernet / UART"
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-Orin-Nano",
@@ -940,7 +1132,20 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 200,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 20
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-Orin-NX",
@@ -961,7 +1166,20 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 400,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 60
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-AGX-Orin",
@@ -982,6 +1200,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (Santa Clara). Fab: TSMC (Taiwan)."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 900,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "interface": "USB / Ethernet / UART",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 60
   }
 ]
