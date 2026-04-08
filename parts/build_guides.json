@@ -257,7 +257,9 @@
           "PRP-1009"
         ]
       }
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "BG-1001",
@@ -518,7 +520,9 @@
           "BAT-1000"
         ]
       }
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "BG-1002",
@@ -737,6 +741,8 @@
           "PRP-1007"
         ]
       }
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   }
 ]

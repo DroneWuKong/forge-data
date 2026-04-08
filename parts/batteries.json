@@ -12581,7 +12581,9 @@
     "type": "Battery Kit",
     "compatible_platforms": [
       "Censys Sentaero 5"
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3216",
@@ -12590,6 +12592,8 @@
     "type": "Battery Kit",
     "compatible_platforms": [
       "Censys Sentaero 5"
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   }
 ]
