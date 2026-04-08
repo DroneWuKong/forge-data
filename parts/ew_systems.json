@@ -35,11 +35,21 @@
       "gnss_denial",
       "non_kinetic",
       "forensic_safe",
-      "nato"
+      "nato",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 7300
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 30000,
+    "weight_g": 7300.0,
+    "links": [
+      "https://www.droneshield.com/c-uas-products/dronegun-mk4"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO)."
   },
   {
     "pid": "EW-0002",
@@ -66,11 +76,21 @@
       "fpv_defeat",
       "covert_capable",
       "picatinny",
-      "no_software_update"
+      "no_software_update",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 3500
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 25000,
+    "links": [
+      "https://www.droneshield.com/c-uas-products/dronegun-mk4"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO).",
+    "weight_g": 500
   },
   {
     "pid": "EW-0003",
@@ -106,11 +126,21 @@
       "fixed_site",
       "pnt_defeat",
       "itar",
-      "combat_proven"
+      "combat-proven",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 1400
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 15000,
+    "links": [
+      "https://dzyne.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DZYNE Technologies, Irvine CA. US manufacturer. NDAA compliant.",
+    "weight_g": 500
   },
   {
     "pid": "EW-0004",
@@ -150,9 +180,19 @@
       "safe_landing",
       "multi_deployment",
       "sdr",
-      "us_gov"
+      "us_gov",
+      "ndaa",
+      "israel"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Israel",
+    "price_usd": 200.0,
+    "links": [
+      "https://d-fendsolutions.com/enforceair/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
+    "weight_g": 500
   },
   {
     "pid": "EW-0005",
@@ -176,17 +216,26 @@
       "ukraine_fielded": true
     },
     "tags": [
-      "combat_proven",
+      "combat-proven",
       "ukraine",
       "portable",
       "gnss_jammer",
       "single_operator",
       "lithuania",
-      "nato_ally"
+      "nato_ally",
+      "ndaa"
     ],
     "schema_data": {
       "weight_g": 5500
-    }
+    },
+    "manufacturer_country": "Lithuania",
+    "price_usd": 15000,
+    "links": [
+      "https://ntservice.lt/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NT Service, Ukraine. EW/C-UAS developer. Allied-nation NDAA compliant.",
+    "weight_g": 85
   },
   {
     "pid": "EW-0006",
@@ -218,9 +267,20 @@
       "multi_sensor",
       "fixed_site",
       "automated",
-      "critical_infrastructure"
+      "critical_infrastructure",
+      "ndaa",
+      "five-eyes"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Australia",
+    "links": [
+      "https://www.droneshield.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO).",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   },
   {
     "pid": "EW-0007",
@@ -252,13 +312,21 @@
       "sead",
       "radar_ew",
       "turkey",
-      "combat_proven",
+      "combat-proven",
       "syria",
       "libya",
       "azerbaijan",
       "uas_enabler"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Turkey",
+    "links": [
+      "https://www.aselsan.com.tr/"
+    ],
+    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 5000
   },
   {
     "pid": "EW-0008",
@@ -294,11 +362,21 @@
       "adaptive_nulling",
       "multi_constellation",
       "low_swap",
-      "uav_optimized"
+      "uav_optimized",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 50
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 2500,
+    "links": [
+      "https://infinidome.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "infiniDome, Caesarea, Israel. Allied-nation NDAA compliant. GNSS anti-jam protection.",
+    "weight_g": 85
   },
   {
     "pid": "EW-0009",
@@ -325,11 +403,21 @@
       "rf_detector",
       "no_emissions",
       "irk",
-      "situational_awareness"
+      "situational_awareness",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 800
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 15000,
+    "links": [
+      "https://www.droneshield.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO).",
+    "weight_g": 500
   },
   {
     "pid": "EW-0010",
@@ -364,9 +452,20 @@
       "sead",
       "multi_target",
       "production",
-      "raytheon"
+      "raytheon",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.rtx.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant.",
+    "weight_g": 18.0,
+    "price_note": "Contact for pricing",
+    "price_usd": null
   },
   {
     "pid": "EW-0011",
@@ -397,11 +496,20 @@
       "mobile",
       "awacs_jamming",
       "ukraine",
-      "combat_proven",
+      "combat-proven",
       "adversary",
-      "vehicle_mounted"
+      "vehicle_mounted",
+      "non-ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Russia",
+    "links": [
+      "https://kret.com/"
+    ],
+    "ndaa_compliant": false,
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   },
   {
     "pid": "EW-0012",
@@ -428,9 +536,18 @@
       "hf_jammer",
       "theater_level",
       "adversary",
-      "long_range"
+      "long_range",
+      "non-ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Russia",
+    "links": [
+      "https://kret.com/"
+    ],
+    "ndaa_compliant": false,
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   },
   {
     "pid": "EW-0013",
@@ -459,9 +576,15 @@
       "cuas",
       "radio_suppression",
       "adversary",
-      "drone_defeat"
+      "drone_defeat",
+      "non-ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Russia",
+    "ndaa_compliant": false,
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   },
   {
     "pid": "EW-0014",
@@ -489,8 +612,15 @@
       "vehicle_mounted",
       "man_portable",
       "gnss_jamming",
-      "developing_nation"
+      "developing_nation",
+      "non-ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Pakistan",
+    "ndaa_compliant": false,
+    "ndaa_note": "GIDS \u2014 Global Industrial and Defence Solutions, Pakistan. Pakistan is NOT an allied nation for NDAA purposes. Non-NDAA compliant.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   }
 ]

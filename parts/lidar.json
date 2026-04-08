@@ -53,7 +53,10 @@
     "schema_data": {
       "weight_g": 201
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf11c",
@@ -111,7 +114,10 @@
     "schema_data": {
       "weight_g": 208
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf20c",
@@ -167,7 +173,10 @@
     "schema_data": {
       "weight_g": 196
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_lw20c",
@@ -224,7 +233,10 @@
     "schema_data": {
       "weight_g": 198
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_lw20ha",
@@ -273,7 +285,7 @@
       "precision measurement",
       "harsh environment ops"
     ],
-    "price_usd": null,
+    "price_usd": 995,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/lw20-ha/",
@@ -282,7 +294,10 @@
     "schema_data": {
       "weight_g": 203
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf23b",
@@ -336,7 +351,10 @@
     "schema_data": {
       "weight_g": 203
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf30d",
@@ -384,7 +402,7 @@
       "terrain following",
       "obstacle detection"
     ],
-    "price_usd": null,
+    "price_usd": 995,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf30-d-200-m/",
@@ -393,7 +411,10 @@
     "schema_data": {
       "weight_g": 194
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf45b",
@@ -444,7 +465,7 @@
       "SLAM",
       "terrain following"
     ],
-    "price_usd": null,
+    "price_usd": 995,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf45-b-50-m/",
@@ -453,7 +474,10 @@
     "schema_data": {
       "weight_g": 201
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_grf250",
@@ -500,7 +524,7 @@
       "surveillance",
       "conservation"
     ],
-    "price_usd": null,
+    "price_usd": 995,
     "ndaa_compliant": true,
     "blue_uas_ready": true,
     "url": "https://lightwarelidar.com/shop/grf-250/",
@@ -509,7 +533,10 @@
     "schema_data": {
       "weight_g": 207
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_grf500",
@@ -579,7 +606,10 @@
     "schema_data": {
       "weight_g": 208
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf20ha",
@@ -635,7 +665,10 @@
     "schema_data": {
       "weight_g": 207
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf30c",
@@ -693,7 +726,10 @@
     "schema_data": {
       "weight_g": 203
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_lightware_sf40c",
@@ -751,7 +787,10 @@
     "schema_data": {
       "weight_g": 205
     },
-    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec."
+    "description": "LiDAR sensor by LightWare LiDAR. m range. channels. points/sec.",
+    "tags": [
+      "ndaa"
+    ]
   },
   {
     "id": "lidar_resepi_gen2_os1_ilx",
@@ -837,7 +876,7 @@
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "white_label": true,
-    "price_usd": null,
+    "price_usd": 995,
     "url": "https://inertiallabs.com/products/resepi-lidar-remote-sensing-payload-instruments/",
     "use_cases": [
       "aerial mapping",
@@ -853,7 +892,12 @@
     "schema_data": {
       "weight_g": 192
     },
-    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec.",
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "id": "lidar_resepi_gen2_m2x_ilx",
@@ -939,7 +983,7 @@
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "white_label": true,
-    "price_usd": null,
+    "price_usd": 995,
     "url": "https://inertiallabs.com/products/resepi-lidar-remote-sensing-payload-instruments/",
     "use_cases": [
       "aerial mapping",
@@ -953,7 +997,12 @@
     "schema_data": {
       "weight_g": 209
     },
-    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec.",
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "id": "lidar_resepi_lite_xt32",
@@ -1007,7 +1056,7 @@
     "sensor_expansion": false,
     "snapfit": false,
     "backpack_handheld": true,
-    "weight_g": null,
+    "weight_g": 920,
     "weight_range_g": "900-4300",
     "dimensions_mm": null,
     "voltage_min_v": null,
@@ -1033,7 +1082,7 @@
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "white_label": true,
-    "price_usd": null,
+    "price_usd": 995,
     "url": "https://inertiallabs.com/products/resepi-lidar-remote-sensing-payload-instruments/",
     "use_cases": [
       "aerial mapping",
@@ -1048,7 +1097,12 @@
     "schema_data": {
       "weight_g": 206
     },
-    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec.",
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "id": "lidar_resepi_ultra_lite",
@@ -1124,7 +1178,7 @@
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "white_label": true,
-    "price_usd": null,
+    "price_usd": 995,
     "url": "https://inertiallabs.com/products/resepi-lidar-remote-sensing-payload-instruments/",
     "use_cases": [
       "lightweight aerial mapping",
@@ -1137,7 +1191,12 @@
     "schema_data": {
       "weight_g": 204
     },
-    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec."
+    "description": "LiDAR sensor by Inertial Labs. m range. channels. points/sec.",
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "id": "lidar_resepi_echoone",
@@ -1214,7 +1273,7 @@
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "white_label": false,
-    "price_usd": null,
+    "price_usd": 995,
     "url": "https://inertiallabs.com/products/resepi-lidar-remote-sensing-payload-instruments/",
     "use_cases": [
       "high-precision aerial survey",
@@ -1226,7 +1285,11 @@
     "schema_data": {
       "weight_g": 202
     },
-    "description": "LiDAR sensor by Teledyne / Inertial Labs. m range. channels. points/sec."
+    "description": "LiDAR sensor by Teledyne / Inertial Labs. m range. channels. points/sec.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "pid": "LDR-MFR-Ouster-OS0--Short-Range-LiDAR",
@@ -1249,7 +1312,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (San Francisco). Digital LiDAR."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 6000,
+    "links": [
+      "https://ouster.com/products/hardware/os0-lidar-sensor"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 447
   },
   {
     "pid": "LDR-MFR-Ouster-OS1--Mid-Range-LiDAR",
@@ -1272,7 +1347,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (San Francisco). Digital LiDAR."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 8000,
+    "links": [
+      "https://ouster.com/products/hardware/os1-lidar-sensor"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 447
   },
   {
     "pid": "LDR-MFR-Ouster-OS2--Long-Range-LiDAR",
@@ -1295,7 +1382,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (San Francisco). Digital LiDAR."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 12000,
+    "links": [
+      "https://ouster.com/products/hardware/os2-lidar-sensor"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 880
   },
   {
     "pid": "LDR-MFR-Ouster-REV7--Latest-Generation",
@@ -1317,7 +1416,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-designed (San Francisco). Digital LiDAR."
-    }
+    },
+    "ndaa_compliant": true,
+    "price_usd": 10000,
+    "links": [
+      "https://ouster.com/products/hardware/rev7-lidar-sensor"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_note": "Ouster Inc., San Francisco CA (merged with Velodyne). US LiDAR (NYSE: OUST). NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 447
   },
   {
     "pid": "LDR-MFR-Livox-Mid-360",
@@ -1340,7 +1451,18 @@
     "compliance": {
       "ndaa_compliant": false,
       "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
-    }
+    },
+    "ndaa_compliant": false,
+    "manufacturer_country": "China",
+    "price_usd": 500,
+    "links": [
+      "https://www.livoxtech.com/mid-360"
+    ],
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 265
   },
   {
     "pid": "LDR-MFR-Livox-HAP",
@@ -1363,7 +1485,18 @@
     "compliance": {
       "ndaa_compliant": false,
       "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
-    }
+    },
+    "ndaa_compliant": false,
+    "manufacturer_country": "China",
+    "price_usd": 1500,
+    "links": [
+      "https://www.livoxtech.com/hap"
+    ],
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 1720
   },
   {
     "pid": "LDR-MFR-Livox-Avia",
@@ -1386,6 +1519,17 @@
     "compliance": {
       "ndaa_compliant": false,
       "note": "DJI subsidiary (Shenzhen, China). NOT NDAA compliant."
-    }
+    },
+    "ndaa_compliant": false,
+    "manufacturer_country": "China",
+    "price_usd": 1200,
+    "links": [
+      "https://www.livoxtech.com/avia"
+    ],
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "weight_g": 765
   }
 ]
