@@ -117,7 +117,7 @@
     },
     "payload_droppers": {
       "file": "parts/payload_droppers.json",
-      "count": 5
+      "count": 11
     },
     "platform_images": {
       "file": "parts/platform_images.json",
@@ -167,5 +167,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3962
+  "total_parts": 3968
 }
