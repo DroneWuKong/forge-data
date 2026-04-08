@@ -173,7 +173,7 @@
     "links": [
       "https://www.riegl.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -217,7 +217,7 @@
     "links": [
       "https://www.riegl.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -260,7 +260,7 @@
     "links": [
       "https://www.yellowscan-lidar.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "YellowScan, Montpellier, France. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -357,7 +357,7 @@
     "links": [
       "https://ainstein.ai/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Ainstein Inc., Lawrence KS. US radar altimeter manufacturer. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -401,7 +401,7 @@
     "links": [
       "https://www.echodyne.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan.",
     "origin": "Unknown"
   },
@@ -443,7 +443,7 @@
     "links": [
       "https://www.echodyne.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan.",
     "origin": "Unknown"
   },
@@ -1035,7 +1035,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/avia"
   },
   {
     "pid": "SEN-0002",
@@ -1076,7 +1077,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/mid-360"
   },
   {
     "pid": "SEN-0003",
@@ -1112,7 +1114,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/horizon"
   },
   {
     "pid": "SEN-0004",
@@ -1146,7 +1149,7 @@
     },
     "price_usd": 53,
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "ndaa_note": "RoboSense (Suteng Innovation Technology), Shenzhen, China. Non-NDAA. Chinese LiDAR manufacturer.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1154,7 +1157,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://www.robosense.ai/rslidar/RS-Helios"
   },
   {
     "pid": "SEN-0005",
@@ -1187,7 +1191,7 @@
     },
     "price_usd": 48,
     "manufacturer_country": "USA",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Velodyne Lidar merged with Ouster 2023. Ouster Inc., San Francisco CA (NYSE: OUST). US company. NDAA compliant.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1195,7 +1199,8 @@
       "usa"
     ],
     "weight_g": 830,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://ouster.com/products/hardware/vlp-16"
   },
   {
     "pid": "SEN-0006",
@@ -1218,7 +1223,7 @@
     },
     "price_usd": 45,
     "manufacturer_country": "Netherlands",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Xsens/Movella, Enschede, Netherlands. EU/NATO allied-nation NDAA compliant.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1226,7 +1231,8 @@
       "nato"
     ],
     "weight_g": 200,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://www.movella.com/products/sensor-modules/xsens-mti-30"
   },
   {
     "pid": "SENS-0024",
@@ -1706,7 +1712,10 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "OEM version integrated for Sentaero"
+    "notes": "OEM version integrated for Sentaero",
+    "source": "https://www.yellowscan-lidar.com",
+    "ndaa_compliant": true,
+    "manufacturer_country": "France"
   },
   {
     "pid": "CAT-3203",
@@ -1717,7 +1726,10 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.phaseone.com/industrial",
+    "ndaa_compliant": true,
+    "manufacturer_country": "Denmark"
   },
   {
     "pid": "CAT-3204",
@@ -1728,7 +1740,10 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.sony.com/en/articles/alpha-7r-iv",
+    "ndaa_compliant": true,
+    "manufacturer_country": "Japan"
   },
   {
     "pid": "CAT-3205",
@@ -1738,6 +1753,9 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.sony.com/en/articles/alpha-a6400",
+    "ndaa_compliant": true,
+    "manufacturer_country": "Japan"
   }
 ]
