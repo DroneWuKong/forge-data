@@ -26,7 +26,20 @@
         "swarm",
         "combat_proven"
       ]
-    }
+    },
+    "links": [
+      "https://cybershafarat.com/2025/04/06/milelrs-v2-30-firmware-introduces-substantial-upgrades-based-on-expresslrs-3-3-2/"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian open-source firmware community. Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0002",
@@ -51,7 +64,20 @@
         "ew_display",
         "combat_proven"
       ]
-    }
+    },
+    "links": [
+      "https://cybershafarat.com/2024/11/30/milbeta-v1-23-firmware-flashing/"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian open-source firmware community. Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0003",
@@ -73,7 +99,20 @@
         "free_distro",
         "combat_proven"
       ]
-    }
+    },
+    "links": [
+      "https://dev.ua/en/news/tse-tsyfrove-video-iake-dozvoliaie-zaminyty-analohove-ale-zberihaie-vsi-ioho-harni-storony-rozrobnyk-videomodulia-dlia-bpla-barvinok-5-rozpoviv-pro-holovni-fichi-novoho-produktu-1760507138"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian FPV firmware project. Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0004",
@@ -97,7 +136,20 @@
         "anti_jam",
         "prototype"
       ]
-    }
+    },
+    "links": [
+      "https://dev.ua/en/news/tse-tsyfrove-video-iake-dozvoliaie-zaminyty-analohove-ale-zberihaie-vsi-ioho-harni-storony-rozrobnyk-videomodulia-dlia-bpla-barvinok-5-rozpoviv-pro-holovni-fichi-novoho-produktu-1760507138"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian FPV firmware project. Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0005",
@@ -119,7 +171,20 @@
         "gps_spoof_resist",
         "disrupted"
       ]
-    }
+    },
+    "links": [
+      "https://therecord.media/cyberattack-russia-firmware-blow-hackers"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian developer collective (anti-Russian). Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0006",
@@ -140,7 +205,20 @@
         "opsec",
         "remote_id"
       ]
-    }
+    },
+    "links": [
+      "https://www.c4isrnet.com/battlefield-tech/2022/10/17/how-ukraine-learned-to-cloak-its-drones-from-russian-surveillance/"
+    ],
+    "manufacturer_country": "Ukraine",
+    "ndaa_compliant": true,
+    "ndaa_note": "Ukrainian volunteer firmware developers. Allied-nation compliant.",
+    "tags": [
+      "ndaa",
+      "ukraine"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0007",
@@ -168,7 +246,20 @@
         "long_range",
         "bvlos"
       ]
-    }
+    },
+    "links": [
+      "https://github.com/olliw42/mLRS"
+    ],
+    "manufacturer_country": "Germany",
+    "ndaa_compliant": true,
+    "ndaa_note": "olliw42 \u2014 Oliver Wiesner, Germany. Open-source mLRS firmware. EU/NATO allied-nation. NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "nato"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "MFW-0008",
@@ -197,6 +288,19 @@
         "encrypted",
         "swarm"
       ]
-    }
+    },
+    "links": [
+      "https://github.com/DroneBridge/ESP32"
+    ],
+    "manufacturer_country": "Germany",
+    "ndaa_compliant": true,
+    "ndaa_note": "Wolfgang Kr\u00f6pfl, Germany. DroneBridge ESP32 open-source. EU/NATO. NDAA compliant.",
+    "tags": [
+      "ndaa",
+      "nato"
+    ],
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   }
 ]

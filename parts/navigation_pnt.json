@@ -31,11 +31,20 @@
       "12_gram",
       "itar_free",
       "gnss_denied",
-      "anti_jam"
+      "anti_jam",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "manufacturer_country": "France",
+    "price_usd": 3000,
+    "links": [
+      "https://www.sbg-systems.com/defense/uav-unmanned-aerial-vehicles-navigation-defense/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant."
   },
   {
     "pid": "PNT-0002",
@@ -84,11 +93,21 @@
       "mil_std",
       "ahrs",
       "adc",
-      "centimeter_accuracy"
+      "centimeter_accuracy",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 130
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 8000,
+    "links": [
+      "https://inertiallabs.com/products/ins-inertial-navigation-systems/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "weight_g": 100
   },
   {
     "pid": "PNT-0003",
@@ -116,11 +135,21 @@
       "anti_spoof",
       "assured_pnt",
       "multi_element",
-      "nulling"
+      "nulling",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 250
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 5000,
+    "links": [
+      "https://inertiallabs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Inertial Labs Inc., Paeonian Springs VA. US GNSS/INS manufacturer. NDAA compliant. DoD supplier.",
+    "weight_g": 25
   },
   {
     "pid": "PNT-0004",
@@ -147,11 +176,21 @@
       "sub_0.1_percent",
       "gps_denied",
       "deep_mine_tested",
-      "high_accuracy"
+      "high_accuracy",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 450
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 25000,
+    "links": [
+      "https://www.advancednavigation.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
+    "weight_g": 495
   },
   {
     "pid": "PNT-0005",
@@ -181,11 +220,21 @@
       "anti_jam",
       "anti_spoof",
       "dual_antenna",
-      "assured_pnt"
+      "assured_pnt",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 200
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 12000,
+    "links": [
+      "https://aerospace.honeywell.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Honeywell International, Charlotte NC. Major US aerospace/defense (NASDAQ: HON). NDAA compliant.",
+    "weight_g": 100
   },
   {
     "pid": "PNT-0006",
@@ -219,9 +268,18 @@
       "timing",
       "rubidium",
       "gps_denied",
-      "darpa"
+      "darpa",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.infleqtion.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
+    "weight_g": 35
   },
   {
     "pid": "PNT-0007",
@@ -254,9 +312,18 @@
       "ml",
       "gps_free",
       "darpa",
-      "94x_accuracy"
+      "94x_accuracy",
+      "ndaa",
+      "five-eyes"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Australia",
+    "links": [
+      "https://q-ctrl.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Q-CTRL, Sydney, Australia. Allied-nation NDAA compliant. Quantum sensing/navigation.",
+    "weight_g": 50
   },
   {
     "pid": "PNT-0008",
@@ -294,11 +361,22 @@
       "16g",
       "blue_uas",
       "ros2",
-      "assembled_usa"
+      "assembled_usa",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
     "schema_data": {
       "weight_g": 16
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 449,
+    "links": [
+      "https://www.modalai.com/pages/vio-drone"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant."
   },
   {
     "pid": "PNT-0009",
@@ -330,9 +408,18 @@
       "continuous_nav",
       "darpa",
       "rubidium",
-      "next_gen"
+      "next_gen",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.infleqtion.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
+    "weight_g": 12
   },
   {
     "pid": "PNT-0010",
@@ -362,11 +449,21 @@
       "ekf",
       "tightly_coupled",
       "survey",
-      "mapping"
+      "mapping",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 45
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 5000,
+    "links": [
+      "https://www.advancednavigation.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
+    "weight_g": 100
   },
   {
     "pid": "PNT-0011",
@@ -400,11 +497,21 @@
       "rov",
       "maritime",
       "depth",
-      "all_in_one"
+      "all_in_one",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 900
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 15000,
+    "links": [
+      "https://www.teledynemarine.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Teledyne Marine, part of Teledyne Technologies (NYSE: TDY). US company. NDAA compliant.",
+    "weight_g": 35
   },
   {
     "pid": "PNT-0012",
@@ -431,10 +538,20 @@
       "solid_state",
       "maritime",
       "no_moving_parts",
-      "next_gen"
+      "next_gen",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 150
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 10000,
+    "links": [
+      "https://www.anellophotonics.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Anello Photonics, Santa Clara CA. US photonic IMU. NDAA compliant. DARPA-funded.",
+    "weight_g": 100
   }
 ]
