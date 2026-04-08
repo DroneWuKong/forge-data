@@ -25,11 +25,21 @@
       "hpm_block3",
       "kurfs_radar",
       "6000_ordered",
-      "swarm_defeat"
+      "swarm_defeat",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 5009
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 100000.0,
+    "weight_g": 6000.0,
+    "links": [
+      "https://www.rtx.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant."
   },
   {
     "pid": "CUAS-0002",
@@ -54,11 +64,21 @@
       "200mph",
       "autonomous_engagement",
       "lattice_ai",
-      "quadcopter"
+      "quadcopter",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 4990
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 50000.0,
+    "weight_g": 5000.0,
+    "links": [
+      "https://www.anduril.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts."
   },
   {
     "pid": "CUAS-0003",
@@ -84,11 +104,21 @@
       "explosive_warhead",
       "group_1_5",
       "cruise_missile",
-      "next_gen"
+      "next_gen",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 5000
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 200000.0,
+    "links": [
+      "https://www.anduril.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts.",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-0004",
@@ -113,11 +143,21 @@
       "passive_rf",
       "700_systems",
       "largest_sigint_library",
-      "protocol_detection"
+      "protocol_detection",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 4993
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 100000.0,
+    "links": [
+      "https://www.caci.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant.",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-0005",
@@ -143,11 +183,21 @@
       "3lbs",
       "3km_dismount",
       "10km_fixed",
-      "portable_jammer"
+      "portable_jammer",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 5004
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 50000.0,
+    "weight_g": 1400.0,
+    "links": [
+      "https://www.caci.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant."
   },
   {
     "pid": "CUAS-0006",
@@ -174,11 +224,21 @@
       "360_omni",
       "4.5km_detect",
       "jco_caas",
-      "non_disruptive"
+      "non_disruptive",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 4997
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 200000.0,
+    "links": [
+      "https://d-fendsolutions.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
+    "weight_g": 0
   },
   {
     "pid": "CUAS-0007",
@@ -202,11 +262,21 @@
       "protocol_manipulation",
       "no_preloaded_libraries",
       "real_time",
-      "drone_dome_integrated"
+      "drone_dome_integrated",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 5005
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 100000.0,
+    "links": [
+      "https://www.sentrycs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Sentrycs, Tel Aviv, Israel. Allied-nation NDAA compliant. Direct protocol manipulation C-UAS.",
+    "weight_g": 0
   },
   {
     "pid": "CUAS-0008",
@@ -233,11 +303,21 @@
       "british_army",
       "g7",
       "full_kill_chain",
-      "sentrycs_integrated"
+      "sentrycs_integrated",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 5008
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 2000000.0,
+    "links": [
+      "https://www.rafael.co.il/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Rafael Advanced Defense Systems, Haifa, Israel. Israeli state-owned defense company. Allied-nation NDAA compliant. Co-produces Iron Dome with Raytheon.",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-0009",
@@ -265,11 +345,21 @@
       "gnss_jam",
       "2.5km",
       "point_and_shoot",
-      "61.6m_contract"
+      "61.6m_contract",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 5009
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 30000.0,
+    "weight_g": 7300.0,
+    "links": [
+      "https://www.droneshield.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO)."
   },
   {
     "pid": "CUAS-0010",
@@ -295,11 +385,21 @@
       "2.6lbs",
       "no_emissions",
       "smartphone_alert",
-      "dismounted_troops"
+      "dismounted_troops",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 4997
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 10000.0,
+    "weight_g": 1200.0,
+    "links": [
+      "https://www.droneshield.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO)."
   },
   {
     "pid": "CUAS-0011",
@@ -326,11 +426,21 @@
       "rf_detection",
       "radar",
       "camera_tracking",
-      "perimeter"
+      "perimeter",
+      "ndaa",
+      "five-eyes"
     ],
     "schema_data": {
       "weight_g": 4994
-    }
+    },
+    "manufacturer_country": "Australia",
+    "price_usd": 200000.0,
+    "links": [
+      "https://www.droneshield.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DroneShield Ltd, Sydney/Washington DC. Allied-nation, US office, DoD supplier. NDAA compliant. Listed on Nasdaq (DRO).",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-0012",
@@ -359,11 +469,21 @@
       "40km",
       "guardion",
       "bundeswehr",
-      "german_defense"
+      "german_defense",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 4993
-    }
+    },
+    "manufacturer_country": "Germany",
+    "price_usd": 500000.0,
+    "links": [
+      "https://www.hensoldt.net/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Hensoldt AG, Taufkirchen, Germany. EU/NATO allied-nation NDAA compliant. German defense electronics prime.",
+    "weight_g": 8000
   },
   {
     "pid": "CUAS-0013",
@@ -391,11 +511,21 @@
       "250w",
       "24_7",
       "guardion",
-      "no_frequency_gaps"
+      "no_frequency_gaps",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 5000
-    }
+    },
+    "manufacturer_country": "Germany",
+    "price_usd": 500000.0,
+    "links": [
+      "https://www.rohde-schwarz.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Rohde & Schwarz GmbH, Munich, Germany. EU/NATO allied-nation NDAA compliant. Major German defense/test equipment company.",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-0014",
@@ -421,11 +551,21 @@
       "bird_drone_classification",
       "3-9km",
       "false_alarm_reduction",
-      "dutch"
+      "dutch",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 5006
-    }
+    },
+    "manufacturer_country": "Netherlands",
+    "price_usd": 200000.0,
+    "links": [
+      "https://www.robinradar.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Robin Radar Systems, The Hague, Netherlands. EU/NATO allied-nation NDAA compliant.",
+    "weight_g": 8000
   },
   {
     "pid": "CUAS-0015",
@@ -456,7 +596,14 @@
     ],
     "schema_data": {
       "weight_g": 4998
-    }
+    },
+    "manufacturer_country": "Turkey",
+    "price_usd": 1000000.0,
+    "links": [
+      "https://www.aselsan.com.tr/"
+    ],
+    "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
+    "weight_g": 3000
   },
   {
     "pid": "CUAS-1015",
