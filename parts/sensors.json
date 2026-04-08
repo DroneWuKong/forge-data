@@ -1035,7 +1035,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/avia"
   },
   {
     "pid": "SEN-0002",
@@ -1076,7 +1077,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/mid-360"
   },
   {
     "pid": "SEN-0003",
@@ -1112,7 +1114,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.livoxtech.com/horizon"
   },
   {
     "pid": "SEN-0004",
@@ -1154,7 +1157,8 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://www.robosense.ai/rslidar/RS-Helios"
   },
   {
     "pid": "SEN-0005",
@@ -1195,7 +1199,8 @@
       "usa"
     ],
     "weight_g": 830,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://ouster.com/products/hardware/vlp-16"
   },
   {
     "pid": "SEN-0006",
@@ -1226,7 +1231,8 @@
       "nato"
     ],
     "weight_g": 200,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://www.movella.com/products/sensor-modules/xsens-mti-30"
   },
   {
     "pid": "SENS-0024",
@@ -1706,7 +1712,8 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "OEM version integrated for Sentaero"
+    "notes": "OEM version integrated for Sentaero",
+    "source": "https://www.yellowscan-lidar.com"
   },
   {
     "pid": "CAT-3203",
@@ -1717,7 +1724,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.phaseone.com/industrial"
   },
   {
     "pid": "CAT-3204",
@@ -1728,7 +1736,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.sony.com/en/articles/alpha-7r-iv"
   },
   {
     "pid": "CAT-3205",
@@ -1738,6 +1747,7 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.sony.com/en/articles/alpha-a6400"
   }
 ]
