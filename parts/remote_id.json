@@ -1,0 +1,191 @@
+[
+  {
+    "pid": "RID-1000",
+    "name": "Dronetag BS \u2014 RemoteID Broadcast Module",
+    "manufacturer": "Dronetag",
+    "manufacturer_country": "Czech Republic",
+    "ndaa_compliant": true,
+    "price_usd": 79,
+    "source": "https://dronetag.cz/en/products/broadcaster/",
+    "interface": "UART / Bluetooth / WiFi",
+    "protocol": [
+      "MAVLink",
+      "Bluetooth",
+      "WiFi"
+    ],
+    "standard": "ASTM F3411 / ASD-STAN prEN 4709-002",
+    "weight_g": 17,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "EU/US compliant RemoteID broadcaster. Broadcasts drone ID over Bluetooth 5 and WiFi Beacon. Czech Republic. NDAA compliant.",
+    "tags": [
+      "remote-id",
+      "ndaa",
+      "bluetooth",
+      "wifi",
+      "eu-compliant",
+      "us-compliant"
+    ]
+  },
+  {
+    "pid": "RID-1001",
+    "name": "Dronetag Mini \u2014 RemoteID Nano Module",
+    "manufacturer": "Dronetag",
+    "manufacturer_country": "Czech Republic",
+    "ndaa_compliant": true,
+    "price_usd": 59,
+    "source": "https://dronetag.cz/en/products/mini/",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink"
+    ],
+    "standard": "ASTM F3411",
+    "weight_g": 6,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Ultra-light RemoteID for small FPV/racing drones. 6g. Bluetooth 5 only. Czech Republic. NDAA compliant.",
+    "tags": [
+      "remote-id",
+      "ndaa",
+      "ultra-light",
+      "fpv",
+      "bluetooth"
+    ]
+  },
+  {
+    "pid": "RID-1002",
+    "name": "uAvionix SkyBeacon \u2014 Wing-tip RemoteID + ADS-B Out",
+    "manufacturer": "uAvionix",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 189,
+    "source": "https://uavionix.com/products/skybeacon/",
+    "interface": "Integrated (wing-tip mount)",
+    "protocol": [
+      "ADS-B",
+      "RemoteID"
+    ],
+    "standard": "ASTM F3411 / DO-260B ADS-B",
+    "weight_g": 25,
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "Wing-tip nav light with integrated ADS-B Out + RemoteID. FAA TSO'd. uAvionix is USA. NDAA compliant.",
+    "ndaa_note": "uAvionix is USA-based. NDAA compliant.",
+    "tags": [
+      "remote-id",
+      "adsb-out",
+      "ndaa",
+      "usa-made",
+      "faa-tso",
+      "fixed-wing"
+    ]
+  },
+  {
+    "pid": "RID-1003",
+    "name": "uAvionix Ping200X \u2014 ADS-B In/Out + RemoteID",
+    "manufacturer": "uAvionix",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 899,
+    "source": "https://uavionix.com/products/ping200x/",
+    "interface": "Serial / UART",
+    "protocol": [
+      "MAVLink",
+      "ADS-B"
+    ],
+    "standard": "DO-260B ADS-B / ASTM F3411",
+    "weight_g": 40,
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "Combined ADS-B In/Out + RemoteID for larger UAS. FAA TSO'd. BVLOS operations. USA. NDAA compliant.",
+    "tags": [
+      "remote-id",
+      "adsb-in",
+      "adsb-out",
+      "ndaa",
+      "usa-made",
+      "bvlos"
+    ]
+  },
+  {
+    "pid": "RID-1004",
+    "name": "BlueMark DB110 / DB200 \u2014 Open Drone ID",
+    "manufacturer": "BlueMark Innovations",
+    "manufacturer_country": "Netherlands",
+    "ndaa_compliant": true,
+    "price_usd": 65,
+    "source": "https://bluemark.io",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "Open Drone ID"
+    ],
+    "standard": "ASTM F3411 / EN 4709-002",
+    "weight_g": 10,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Dutch Open Drone ID broadcaster. Bluetooth 5 + WiFi. ArduPilot and PX4 tested. NDAA compliant (Netherlands).",
+    "tags": [
+      "remote-id",
+      "open-drone-id",
+      "ndaa",
+      "netherlands",
+      "bluetooth",
+      "wifi"
+    ]
+  },
+  {
+    "pid": "RID-1005",
+    "name": "Sagetech MXS \u2014 Certified ADS-B Transponder",
+    "manufacturer": "Sagetech Avionics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 2995,
+    "source": "https://sagetech.com/mxs/",
+    "interface": "Serial / RS-232",
+    "protocol": [
+      "ADS-B",
+      "MAVLink"
+    ],
+    "standard": "DO-181F / DO-260B / ICAO Annex 10",
+    "weight_g": 57,
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "FAA/EASA-certified ADS-B In/Out transponder for UAS. Required for Class E/G airspace BVLOS. USA. NDAA compliant.",
+    "tags": [
+      "adsb",
+      "transponder",
+      "certified",
+      "ndaa",
+      "usa-made",
+      "bvlos",
+      "class-e"
+    ]
+  },
+  {
+    "pid": "RID-1006",
+    "name": "Aerobits TR1 \u2014 Dual ADS-B Receiver",
+    "manufacturer": "Aerobits",
+    "manufacturer_country": "Poland",
+    "ndaa_compliant": true,
+    "price_usd": 349,
+    "source": "https://www.aerobits.pl/product/tr1/",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "ADS-B"
+    ],
+    "standard": "ADS-B In (receive only)",
+    "weight_g": 12,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Dual-channel ADS-B receiver. 1090MHz + UAT. Detect manned aircraft for sense-and-avoid. Polish. NDAA compliant.",
+    "tags": [
+      "adsb-in",
+      "sense-and-avoid",
+      "ndaa",
+      "poland",
+      "dual-band"
+    ]
+  }
+]

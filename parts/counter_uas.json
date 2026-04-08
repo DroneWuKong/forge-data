@@ -38,7 +38,7 @@
     "links": [
       "https://www.rtx.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant.",
     "origin": "Unknown"
   },
@@ -78,7 +78,7 @@
     "links": [
       "https://www.anduril.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts.",
     "origin": "Unknown"
   },
@@ -118,7 +118,7 @@
     "links": [
       "https://www.anduril.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -158,7 +158,7 @@
     "links": [
       "https://www.caci.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -200,7 +200,7 @@
     "links": [
       "https://www.caci.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant.",
     "origin": "Unknown"
   },
@@ -241,7 +241,7 @@
     "links": [
       "https://d-fendsolutions.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
     "weight_g": 0,
     "origin": "Unknown"
@@ -280,7 +280,7 @@
     "links": [
       "https://www.sentrycs.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Sentrycs, Tel Aviv, Israel. Allied-nation NDAA compliant. Direct protocol manipulation C-UAS.",
     "weight_g": 0,
     "origin": "Unknown"
@@ -322,7 +322,7 @@
     "links": [
       "https://www.rafael.co.il/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Rafael Advanced Defense Systems, Haifa, Israel. Israeli state-owned defense company. Allied-nation NDAA compliant. Co-produces Iron Dome with Raytheon.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -492,7 +492,7 @@
     "links": [
       "https://www.hensoldt.net/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Hensoldt AG, Taufkirchen, Germany. EU/NATO allied-nation NDAA compliant. German defense electronics prime.",
     "weight_g": 8000,
     "origin": "Unknown"
@@ -535,7 +535,7 @@
     "links": [
       "https://www.rohde-schwarz.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Rohde & Schwarz GmbH, Munich, Germany. EU/NATO allied-nation NDAA compliant. Major German defense/test equipment company.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -576,7 +576,7 @@
     "links": [
       "https://www.robinradar.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Robin Radar Systems, The Hague, Netherlands. EU/NATO allied-nation NDAA compliant.",
     "weight_g": 8000,
     "origin": "Unknown"
@@ -619,7 +619,7 @@
     "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
     "weight_g": 3000,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "CUAS-1015",
@@ -654,7 +654,9 @@
       "swarm-capable",
       "no-LOS",
       "US-deployed"
-    ]
+    ],
+    "ndaa_compliant": true,
+    "manufacturer_country": "Israel"
   },
   {
     "pid": "CUAS-1016",
@@ -680,7 +682,9 @@
       "man-portable",
       "SDR-upgradeable",
       "GPS-denial"
-    ]
+    ],
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "CUAS-1017",
@@ -708,7 +712,9 @@
       "networked",
       "triangulation",
       "wearable"
-    ]
+    ],
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "CUAS-1018",
@@ -734,7 +740,9 @@
       "ATAK-integration",
       "C2-disruption",
       "pilot-locating"
-    ]
+    ],
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA"
   },
   {
     "pid": "CUAS-1019",

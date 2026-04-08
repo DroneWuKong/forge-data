@@ -7977,7 +7977,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1192",
@@ -9247,7 +9247,7 @@
     "interface": "USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1222",
@@ -9305,7 +9305,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1225",
@@ -11366,7 +11366,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1266",
@@ -11792,7 +11792,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/hom-fpv-f411-20a-3-4s-blheli-s-aio-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "HOM FPV \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -11856,7 +11856,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/hom-fpv-f405-blheli-s-2-4s-20a-aio-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "ndaa_note": "HOM FPV \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -12218,7 +12218,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1281",
@@ -12882,7 +12882,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1298",
@@ -13115,7 +13115,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/v-good-rc-aio-flight-controller-f7-osd-40a-6s-blheli32-esc-bec-curr-dji-black-box.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "ndaa_note": "V-Good RC \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -13774,7 +13774,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1318",
@@ -14489,7 +14489,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1333",
@@ -14670,7 +14670,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1336",
@@ -14956,7 +14956,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1343",
@@ -15012,7 +15012,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1344",
@@ -15185,7 +15185,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1353",
@@ -15473,7 +15473,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1362",
@@ -15584,7 +15584,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1364",
@@ -15749,7 +15749,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/cl-racing-f4-mini-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "ndaa_note": "CL_Racing \u2014 Chinese FC manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 4,
@@ -15806,7 +15806,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/dalrc-f405-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "ndaa_note": "DALRC \u2014 Chinese FC manufacturer (Shenzhen). Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -15866,7 +15866,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 4,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "FC-1377",
@@ -16346,7 +16346,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/brainfpv-radix-2-h7-flight-controller-analog.html"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Manufactured Portland, Oregon USA. NDAA compliant. Confirmed on brainfpv.com product pages.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -17510,7 +17510,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/brainfpv-radix-2-hd-h7-flight-controller.html"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Manufactured Portland, Oregon USA. NDAA compliant. Confirmed on brainfpv.com product pages.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -17817,7 +17817,7 @@
       "https://www.uavnavigation.com"
     ],
     "manufacturer_country": "Spain",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "UAV Navigation S.L., Madrid, Spain. EU/NATO allied-nation manufacturer. Part of Grupo Oes\u00eda defense group.",
     "origin": "Unknown"
   },
@@ -17891,7 +17891,7 @@
     "approx_price": 29.27,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 29.27,
@@ -17928,7 +17928,7 @@
     "approx_price": 30.73,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 30.73,
@@ -17965,7 +17965,7 @@
     "approx_price": 40.98,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 40.98,
@@ -18002,7 +18002,7 @@
     "approx_price": 50.49,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 50.49,
@@ -18039,7 +18039,7 @@
     "approx_price": 57.8,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 57.8,
@@ -18598,7 +18598,7 @@
     "approx_price": 107.12,
     "description": "Flight controller by Bloomtech. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 107.12,
@@ -18635,7 +18635,7 @@
     "approx_price": 56.78,
     "description": "Flight controller by. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 56.78,
@@ -18672,7 +18672,7 @@
     "approx_price": 47.71,
     "description": "Flight controller by. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 47.71,
@@ -18776,7 +18776,7 @@
     ],
     "manufacturer_country": "USA",
     "ndaa_note": "EchoMAV \u2014 US company (Madison, WI). Autopilot/FC maker. Likely NDAA compliant but not formally verified in DB.",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown"
