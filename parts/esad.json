@@ -24,11 +24,21 @@
       "leefi",
       "fpv_strike",
       "us_manufactured",
-      "multi_inhibit"
+      "multi_inhibit",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 3004
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 500.0,
+    "links": [
+      "https://www.krakenkinetics.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Kraken Kinetics, Huntsville AL. US ESAD manufacturer. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0002",
@@ -57,11 +67,21 @@
       "heritage",
       "nsi_derivative",
       "ordnance_fuzing",
-      "aerospace"
+      "aerospace",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 2992
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 200.0,
+    "links": [
+      "https://www.ebad.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "EBAD, Simsbury CT. US defense pyrotechnics. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0003",
@@ -91,11 +111,21 @@
       "detonators",
       "initiators",
       "prime_contractor_supplier",
-      "fortive"
+      "fortive",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 3003
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 500.0,
+    "links": [
+      "https://www.psemc.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Pacific Scientific EMC, Duarte CA. Fortive subsidiary. US ESAD/initiator manufacturer. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0004",
@@ -126,11 +156,21 @@
       "fiber_optic",
       "rf_immune",
       "emi_safe",
-      "state_of_art"
+      "state_of_art",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 3009
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 500.0,
+    "links": [
+      "https://www.excelitas.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Excelitas Technologies, Waltham MA. US defense electronics. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0005",
@@ -159,11 +199,21 @@
       "complete_module",
       "safety_logic",
       "guided_munition",
-      "loitering_munition"
+      "loitering_munition",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 3002
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 1000.0,
+    "links": [
+      "https://www.excelitas.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Excelitas Technologies, Waltham MA. US defense electronics. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0006",
@@ -194,11 +244,21 @@
       "precision_guided",
       "heritage",
       "multiple_programs",
-      "defense_grade"
+      "defense_grade",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 3005
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 2000.0,
+    "links": [
+      "https://www.l3harris.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "L3Harris Technologies. US defense prime. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0007",
@@ -222,11 +282,18 @@
     "tags": [
       "israeli_defense",
       "loitering_munition",
-      "indigenous"
+      "indigenous",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 2990
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 500.0,
+    "ndaa_compliant": true,
+    "ndaa_note": "GATE Technologies, USA. US ESAD manufacturer. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0008",
@@ -251,11 +318,21 @@
       "fuse_board",
       "compact",
       "fpv_retrofit",
-      "strike_conversion"
+      "strike_conversion",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 2993
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 200.0,
+    "links": [
+      "https://www.xtend.me/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "XTEND, Israel. Allied-nation NDAA compliant.",
+    "weight_g": 12
   },
   {
     "pid": "ESAD-0009",
@@ -282,7 +359,14 @@
     ],
     "schema_data": {
       "weight_g": 3006
-    }
+    },
+    "manufacturer_country": "United Arab Emirates",
+    "price_usd": 500.0,
+    "links": [
+      "https://edgegroup.ae/"
+    ],
+    "ndaa_note": "EDGE Group, Abu Dhabi, UAE. UAE state defense conglomerate. UAE is a US partner but not a formal allied nation under NDAA \u2014 verify per contract.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0010",
@@ -311,11 +395,21 @@
       "energetics",
       "nato_heritage",
       "uk_sovereign",
-      "ordnance_electronics"
+      "ordnance_electronics",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 3004
-    }
+    },
+    "manufacturer_country": "United Kingdom",
+    "price_usd": 1000.0,
+    "links": [
+      "https://www.chemring.co.uk/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Chemring Group plc, Hampshire, UK. Allied-nation NDAA compliant. Major UK defense pyrotechnics/countermeasures.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0011",
@@ -345,11 +439,21 @@
       "precision_fuze",
       "diehl_defence",
       "german_nato",
-      "mechanical_electronic"
+      "mechanical_electronic",
+      "ndaa",
+      "nato"
     ],
     "schema_data": {
       "weight_g": 3003
-    }
+    },
+    "manufacturer_country": "Germany",
+    "price_usd": 1000.0,
+    "links": [
+      "https://www.diehl.com/defence/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Junghans Defence GmbH, part of Diehl Defence, \u00dcberlingen, Germany. EU/NATO allied-nation NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "ESAD-0012",
@@ -381,10 +485,20 @@
       "gun_launched",
       "proximity_fuze",
       "removable_detonator",
-      "iso_9001"
+      "iso_9001",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 2992
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 500.0,
+    "links": [
+      "https://www.dayzim.com/services-and-products/munitions/munitions-fuzing"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Day & Zimmermann, Philadelphia PA. US defense/munitions company. NDAA compliant.",
+    "weight_g": 8
   }
 ]

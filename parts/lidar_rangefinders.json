@@ -40,10 +40,17 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "ultralight",
-      "OEM"
-    ]
+      "oem",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1001",
@@ -81,11 +88,18 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "low-power",
-      "OEM",
-      "on-sale"
-    ]
+      "oem",
+      "on-sale",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1002",
@@ -130,11 +144,18 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "caseless",
-      "OEM",
-      "scanning-capable"
-    ]
+      "oem",
+      "scanning-capable",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1003",
@@ -177,10 +198,17 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "high-accuracy",
-      "ultralight"
-    ]
+      "ultralight",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/sf20-ha/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1004",
@@ -223,11 +251,18 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
-      "IP67",
+      "microlidar",
+      "ip67",
       "weatherproof",
-      "field-proven"
-    ]
+      "field-proven",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1005",
@@ -269,11 +304,18 @@
     "eye_safe_class": "1M",
     "size_class": "micro",
     "tags": [
-      "microLiDAR",
-      "IP67",
+      "microlidar",
+      "ip67",
       "high-accuracy",
-      "weatherproof"
-    ]
+      "weatherproof",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1006",
@@ -316,10 +358,17 @@
     "eye_safe_class": "1",
     "size_class": "small",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "legacy-proven",
-      "plug-and-play"
-    ]
+      "plug-and-play",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/sf11-c-100-m2/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1007",
@@ -362,10 +411,17 @@
     "eye_safe_class": "1M",
     "size_class": "small",
     "tags": [
-      "microLiDAR",
-      "20kHz-family",
-      "high-speed"
-    ]
+      "microlidar",
+      "20khz-family",
+      "high-speed",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1008",
@@ -409,11 +465,18 @@
     "eye_safe_class": "1M",
     "size_class": "small",
     "tags": [
-      "microLiDAR",
-      "20kHz-family",
+      "microlidar",
+      "20khz-family",
       "long-range",
-      "BVLOS"
-    ]
+      "bvlos",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1009",
@@ -456,11 +519,18 @@
     "eye_safe_class": "1M",
     "size_class": "small",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "scanning",
       "320-degree",
-      "compact-scanner"
-    ]
+      "compact-scanner",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/sf45-b-50-m/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1010",
@@ -504,11 +574,18 @@
     "eye_safe_class": "1M",
     "size_class": "medium",
     "tags": [
-      "microLiDAR",
+      "microlidar",
       "360-scanning",
-      "SLAM",
-      "2D-scanner"
-    ]
+      "slam",
+      "2d-scanner",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/sf40-c-100-m/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1011",
@@ -551,9 +628,16 @@
     "tags": [
       "gimbal-rangefinder",
       "ultralight",
-      "EO/IR",
-      "ISR"
-    ]
+      "eo/ir",
+      "isr",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/grf-250/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   },
   {
     "pid": "LIDAR-1012",
@@ -571,7 +655,7 @@
     "resolution_cm": 1,
     "wavelength_nm": 905,
     "fov_deg": null,
-    "weight_g": null,
+    "weight_g": 38,
     "dimensions_mm": null,
     "ip_rating": null,
     "voltage_v": "3.3-5.5",
@@ -595,8 +679,15 @@
     "tags": [
       "gimbal-rangefinder",
       "long-range",
-      "EO/IR",
-      "ISR"
-    ]
+      "eo/ir",
+      "isr",
+      "ndaa"
+    ],
+    "manufacturer_country": "South Africa",
+    "links": [
+      "https://lightwarelidar.com/shop/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "LightWare Micro LiDAR, Cape Town, South Africa. Allied-nation NDAA compliant. No adversary-country supply chain documented."
   }
 ]
