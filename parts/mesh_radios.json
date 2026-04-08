@@ -715,7 +715,7 @@
       "https://www.rajant.com/"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Rajant Corporation, Malvern PA. US kinetic mesh radio manufacturer. NDAA compliant. DoD/mining/enterprise deployments.",
     "interface": "RF Mesh / Ethernet",
     "weight_g": 120,
@@ -775,7 +775,7 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"
@@ -833,7 +833,7 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
     "weight_g": 110.0,
     "origin": "Unknown"
@@ -890,7 +890,7 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"
@@ -946,7 +946,7 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"

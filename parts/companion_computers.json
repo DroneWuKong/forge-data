@@ -532,7 +532,7 @@
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
     "origin": "Unknown"
@@ -580,7 +580,7 @@
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
     "origin": "Unknown"
@@ -635,7 +635,7 @@
     "links": [
       "https://www.neousys-tech.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Neousys Technology, New Taipei City, Taiwan. Allied-nation NDAA compliant. Rugged embedded computing.",
     "interface": "USB / Ethernet / UART",
     "origin": "Unknown"
@@ -689,7 +689,7 @@
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
     "interface": "Ethernet / USB / UART / PCIe",
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "COMP-0014",
@@ -744,7 +744,7 @@
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
     "interface": "Ethernet / USB / UART / PCIe",
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": true
   },
   {
     "pid": "COMP-0015",

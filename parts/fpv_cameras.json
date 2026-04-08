@@ -24,7 +24,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
@@ -1159,7 +1159,7 @@
     "schema_data": {
       "weight_g": -2
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
@@ -1635,7 +1635,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
@@ -2110,7 +2110,7 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": null,
+    "ndaa_compliant": false,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,

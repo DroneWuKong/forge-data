@@ -113,7 +113,7 @@
     },
     "optical_flow": {
       "file": "parts/optical_flow.json",
-      "count": 7
+      "count": 16
     },
     "payload_droppers": {
       "file": "parts/payload_droppers.json",
@@ -167,5 +167,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3968
+  "total_parts": 3977
 }
