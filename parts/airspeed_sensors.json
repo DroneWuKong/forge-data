@@ -1,0 +1,222 @@
+[
+  {
+    "pid": "ASPD-1000",
+    "name": "Matek ASPD-4525 \u2014 Digital Airspeed Sensor",
+    "manufacturer": "Mateksys",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 22,
+    "source": "https://www.mateksys.com/?portfolio=aspd-4525",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "sensor_chip": "4525DO (TE Connectivity)",
+    "pressure_range_pa": 1000,
+    "max_airspeed_ms": 68,
+    "weight_g": 5,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Most popular digital differential airspeed sensor for fixed-wing/VTOL. 4525DO chip. Mateksys is Chinese \u2014 not NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "digital",
+      "i2c",
+      "fixed-wing",
+      "vtol"
+    ]
+  },
+  {
+    "pid": "ASPD-1001",
+    "name": "Holybro Digital Airspeed Sensor V2",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 28,
+    "source": "https://holybro.com/products/digital-air-speed-sensor",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "sensor_chip": "SDP3X (Sensirion)",
+    "weight_g": 7,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Sensirion SDP3X-based airspeed sensor. More accurate than 4525DO. Holybro is Chinese \u2014 not NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "digital",
+      "i2c",
+      "sdp3x",
+      "sensirion"
+    ]
+  },
+  {
+    "pid": "ASPD-1002",
+    "name": "mRo Digital Airspeed Sensor",
+    "manufacturer": "mRobotics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 39,
+    "source": "https://store.mrobotics.io",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "sensor_chip": "MS4525DO (TE Connectivity)",
+    "weight_g": 6,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "USA-made digital airspeed sensor. NDAA compliant. MS4525DO chip. Standard Pixhawk I2C connector.",
+    "ndaa_note": "mRobotics is USA-based. NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "digital",
+      "i2c",
+      "ndaa",
+      "usa-made"
+    ]
+  },
+  {
+    "pid": "ASPD-1003",
+    "name": "Avionics Anonymous DroneCAN Airspeed",
+    "manufacturer": "Avionics Anonymous",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 89,
+    "source": "https://www.tindie.com/stores/avionicsanonymous/",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "sensor_chip": "SDP3X (Sensirion)",
+    "weight_g": 8,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "DroneCAN airspeed sensor. CAN bus robustness vs I2C for longer cable runs. USA-made. NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "dronecan",
+      "ndaa",
+      "usa-made",
+      "can-bus"
+    ]
+  },
+  {
+    "pid": "ASPD-1004",
+    "name": "CUAV Pitot Tube \u2014 Digital Airspeed",
+    "manufacturer": "CUAV",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "price_usd": 25,
+    "source": "https://store.cuav.net",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "weight_g": 15,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "CUAV's bundled pitot tube airspeed kit. Chinese. Not NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "pitot",
+      "i2c",
+      "china"
+    ]
+  },
+  {
+    "pid": "ASPD-1005",
+    "name": "Sensirion SDP33 \u2014 Differential Pressure Sensor",
+    "manufacturer": "Sensirion",
+    "manufacturer_country": "Switzerland",
+    "ndaa_compliant": true,
+    "price_usd": 35,
+    "source": "https://www.sensirion.com/sdp800-series",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "sensor_chip": "SDP33",
+    "weight_g": 3,
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Swiss Sensirion differential pressure sensor. High accuracy. Used as core chip in several commercial airspeed modules. NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "differential-pressure",
+      "ndaa",
+      "switzerland",
+      "chip-level"
+    ]
+  },
+  {
+    "pid": "ASPD-1006",
+    "name": "TE Connectivity MS4525DO \u2014 Differential Pressure",
+    "manufacturer": "TE Connectivity",
+    "manufacturer_country": "Switzerland",
+    "ndaa_compliant": true,
+    "price_usd": 18,
+    "source": "https://www.te.com/usa-en/product-CAT-BLPS0002.html",
+    "interface": "I2C",
+    "protocol": [
+      "I2C"
+    ],
+    "sensor_chip": "MS4525DO",
+    "px4_support": true,
+    "ardupilot_support": true,
+    "description": "Base sensor chip used in most commercial drone airspeed modules. Swiss/USA. NDAA compliant. Board-level component.",
+    "tags": [
+      "airspeed",
+      "differential-pressure",
+      "ndaa",
+      "chip-level"
+    ]
+  },
+  {
+    "pid": "ASPD-1007",
+    "name": "Aeroprobe Micro Air Data System",
+    "manufacturer": "Aeroprobe",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 1200,
+    "source": "https://www.aeroprobe.com",
+    "interface": "RS-232 / Analog",
+    "protocol": [
+      "RS-232"
+    ],
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "High-accuracy micro air data system for fixed-wing research UAVs. Measures airspeed, AoA, AoSS. ArduPilot only. USA. NDAA compliant. Professional/military grade.",
+    "tags": [
+      "airspeed",
+      "aoa",
+      "research",
+      "ndaa",
+      "usa-made",
+      "professional"
+    ]
+  },
+  {
+    "pid": "ASPD-1008",
+    "name": "Eagle Tree Airspeed MicroSensor V3",
+    "manufacturer": "Eagle Tree Systems",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "price_usd": 39,
+    "source": "https://www.eagletreesystems.com",
+    "interface": "Analog / UART",
+    "protocol": [
+      "Analog"
+    ],
+    "px4_support": false,
+    "ardupilot_support": true,
+    "description": "Analog differential pressure airspeed sensor. ArduPilot only. USA. NDAA compliant.",
+    "tags": [
+      "airspeed",
+      "analog",
+      "ndaa",
+      "ardupilot-only"
+    ]
+  }
+]
