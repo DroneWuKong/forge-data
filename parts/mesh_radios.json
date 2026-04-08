@@ -66,16 +66,28 @@
     "tags": [
       "defense",
       "tactical",
-      "MANET",
+      "manet",
       "mesh",
-      "SOF",
+      "sof",
       "combat-proven",
-      "smart-radio"
+      "smart-radio",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
     "approx_price": 3997,
     "schema_data": {
       "weight_g": 85
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 3997,
+    "links": [
+      "https://persistentsystems.com/mpu5/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1001",
@@ -132,18 +144,29 @@
     },
     "tags": [
       "defense",
-      "UAS",
-      "UGV",
+      "uas",
+      "ugv",
       "embedded",
-      "SWaP",
-      "MANET",
+      "swap",
+      "manet",
       "mesh",
-      "swarming"
+      "swarming",
+      "ndaa",
+      "usa",
+      "blue-uas"
     ],
     "approx_price": 4002,
     "schema_data": {
       "weight_g": 89
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 4002,
+    "links": [
+      "https://persistentsystems.com/embedded-module/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts."
   },
   {
     "pid": "MESH-1010",
@@ -178,10 +201,12 @@
     ],
     "primary_users": "Military, overseas operations",
     "tags": [
-      "L-Band",
+      "l-band",
       "military",
       "aviation",
-      "long-range"
+      "long-range",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 1.5,
     "encryption": "AES-256",
@@ -190,7 +215,16 @@
     "approx_price": 4004,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 4004,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1011",
@@ -224,10 +258,12 @@
     ],
     "primary_users": "Military, overseas operations (high power)",
     "tags": [
-      "L-Band",
+      "l-band",
       "high-power",
       "military",
-      "contested-spectrum"
+      "contested-spectrum",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 1.5,
     "encryption": "AES-256",
@@ -236,7 +272,16 @@
     "approx_price": 4000,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 4000,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1012",
@@ -267,9 +312,11 @@
     ],
     "primary_users": "Broadcast, electronic newsgathering",
     "tags": [
-      "BAS",
+      "bas",
       "broadcast",
-      "licensed-spectrum"
+      "licensed-spectrum",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 1.35,
     "encryption": "AES-256",
@@ -278,7 +325,16 @@
     "approx_price": 3999,
     "schema_data": {
       "weight_g": 76
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3999,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1013",
@@ -315,11 +371,13 @@
     ],
     "primary_users": "Federal, commercial, ISM band users, urban operations",
     "tags": [
-      "S-Band",
-      "ISM",
-      "FCC-Part-15",
+      "s-band",
+      "ism",
+      "fcc-part-15",
       "urban",
-      "federal"
+      "federal",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 2.4,
     "encryption": "AES-256",
@@ -328,7 +386,16 @@
     "approx_price": 4001,
     "schema_data": {
       "weight_g": 74
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 4001,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1014",
@@ -362,11 +429,13 @@
     ],
     "primary_users": "NATO, Federal, Public Safety, UGV programs",
     "tags": [
-      "C-Band",
-      "NATO",
+      "c-band",
+      "nato",
       "federal",
       "public-safety",
-      "UGV"
+      "ugv",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 5.0,
     "encryption": "AES-256",
@@ -375,7 +444,16 @@
     "approx_price": 4001,
     "schema_data": {
       "weight_g": 87
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 4001,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1015",
@@ -414,12 +492,14 @@
     ],
     "primary_users": "Commercial, defense (LPI in urban), UAV operators",
     "tags": [
-      "C-Band",
-      "ISM",
-      "5GHz",
-      "FCC-Part-15",
+      "c-band",
+      "ism",
+      "5ghz",
+      "fcc-part-15",
       "commercial",
-      "UAV"
+      "uav",
+      "ndaa",
+      "usa"
     ],
     "frequency_ghz": 5.0,
     "encryption": "AES-256",
@@ -428,7 +508,16 @@
     "approx_price": 3999,
     "schema_data": {
       "weight_g": 84
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3999,
+    "links": [
+      "https://persistentsystems.com/radio-modules/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1020",
@@ -451,14 +540,25 @@
       "dual-band",
       "ground",
       "aircraft",
-      "defense"
+      "defense",
+      "ndaa",
+      "usa"
     ],
     "encryption": "AES-256",
     "max_throughput_mbps": 150,
     "approx_price": 4003,
     "schema_data": {
       "weight_g": 71
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 4003,
+    "links": [
+      "https://persistentsystems.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Persistent Systems LLC, New York NY. US MANET manufacturer. NDAA compliant. Multiple DoD/DHS contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-2000",
@@ -476,15 +576,26 @@
       "commercial",
       "drone",
       "open-platform",
-      "OpenWRT",
-      "batman-adv"
+      "openwrt",
+      "batman-adv",
+      "ndaa",
+      "usa"
     ],
     "encryption": "AES-256",
     "max_throughput_mbps": 86,
     "approx_price": 400,
     "schema_data": {
       "weight_g": 82
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 400,
+    "links": [
+      "https://www.doodlelabs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-2001",
@@ -501,15 +612,26 @@
     "tags": [
       "defense",
       "tactical",
-      "MIMO",
-      "OpenWRT"
+      "mimo",
+      "openwrt",
+      "ndaa",
+      "usa"
     ],
     "encryption": "AES-256",
     "max_throughput_mbps": 86,
     "approx_price": 400,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 400,
+    "links": [
+      "https://www.doodlelabs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-3000",
@@ -529,16 +651,27 @@
     },
     "tags": [
       "defense",
-      "TDMA",
-      "MIMO",
+      "tdma",
+      "mimo",
       "video-streaming",
-      "government"
+      "government",
+      "ndaa",
+      "usa"
     ],
     "encryption": "AES-256",
     "approx_price": 3500,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 3500,
+    "links": [
+      "https://silvustechnologies.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 80
   },
   {
     "pid": "MESH-4000",
@@ -555,14 +688,25 @@
       "industrial",
       "mining",
       "dual-radio",
-      "full-duplex"
+      "full-duplex",
+      "ndaa",
+      "usa"
     ],
     "encryption": "AES-256",
     "max_throughput_mbps": 100,
     "approx_price": 2998,
     "schema_data": {
       "weight_g": 81
-    }
+    },
+    "price_usd": 2998,
+    "links": [
+      "https://www.rajant.com/"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "ndaa_note": "Rajant Corporation, Malvern PA. US kinetic mesh radio manufacturer. NDAA compliant. DoD/mining/enterprise deployments.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 120
   },
   {
     "pid": "MESH-1013",
@@ -599,18 +743,28 @@
       "ndaa": true
     },
     "tags": [
-      "SDR",
-      "MANET",
-      "COFDM",
+      "sdr",
+      "manet",
+      "cofdm",
       "144-node",
       "battle-proven",
-      "Ukraine",
-      "OEM-available"
+      "ukraine",
+      "oem-available",
+      "ndaa",
+      "five-eyes"
     ],
     "approx_price": 501,
     "schema_data": {
       "weight_g": 77
-    }
+    },
+    "price_usd": 501,
+    "links": [
+      "https://www.domotactical.com"
+    ],
+    "manufacturer_country": "Australia",
+    "ndaa_compliant": true,
+    "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1014",
@@ -648,16 +802,26 @@
       "ndaa": true
     },
     "tags": [
-      "SDR",
-      "OEM",
-      "ultra-low-SWaP",
+      "sdr",
+      "oem",
+      "ultra-low-swap",
       "110g",
-      "drone-integration"
+      "drone-integration",
+      "ndaa",
+      "five-eyes"
     ],
     "approx_price": 501,
     "schema_data": {
       "weight_g": 89
-    }
+    },
+    "price_usd": 501,
+    "links": [
+      "https://www.domotactical.com"
+    ],
+    "manufacturer_country": "Australia",
+    "ndaa_compliant": true,
+    "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
+    "weight_g": 110.0
   },
   {
     "pid": "MESH-1015",
@@ -693,17 +857,27 @@
     "ew_capability": false,
     "compliance": {},
     "tags": [
-      "SDR",
-      "French",
+      "sdr",
+      "french",
       "65km-proven",
-      "NLOS",
-      "HD-video",
-      "datalink"
+      "nlos",
+      "hd-video",
+      "datalink",
+      "ndaa",
+      "nato"
     ],
     "approx_price": 499,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "price_usd": 499,
+    "links": [
+      "https://www.simpulse.fr"
+    ],
+    "manufacturer_country": "France",
+    "ndaa_compliant": true,
+    "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1016",
@@ -738,17 +912,27 @@
     "ew_capability": true,
     "compliance": {},
     "tags": [
-      "SDR",
+      "sdr",
       "anti-jamming",
       "200km-proven",
-      "FHSS",
+      "fhss",
       "contested-environments",
-      "French"
+      "french",
+      "ndaa",
+      "nato"
     ],
     "approx_price": 502,
     "schema_data": {
       "weight_g": 70
-    }
+    },
+    "price_usd": 502,
+    "links": [
+      "https://www.simpulse.fr"
+    ],
+    "manufacturer_country": "France",
+    "ndaa_compliant": true,
+    "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1017",
@@ -783,18 +967,28 @@
     "ew_capability": true,
     "compliance": {},
     "tags": [
-      "MANET",
-      "SDR",
-      "250km-LOS",
-      "80Mbps",
-      "MIL-STD",
+      "manet",
+      "sdr",
+      "250km-los",
+      "80mbps",
+      "mil-std",
       "cognitive-radio",
-      "multi-domain"
+      "multi-domain",
+      "ndaa",
+      "israel"
     ],
     "approx_price": 498,
     "schema_data": {
       "weight_g": 72
-    }
+    },
+    "price_usd": 498,
+    "links": [
+      "https://www.creomagic.com"
+    ],
+    "manufacturer_country": "Israel",
+    "ndaa_compliant": true,
+    "ndaa_note": "Creomagic, Israel. Allied-nation NDAA compliant. Mesh radio systems.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1018",
@@ -834,15 +1028,25 @@
       "software-mesh",
       "swarm",
       "100-nodes",
-      "L2-mesh",
+      "l2-mesh",
       "collision-avoidance",
-      "German",
-      "WiFi-mesh"
+      "german",
+      "wifi-mesh",
+      "ndaa",
+      "nato"
     ],
     "approx_price": 502,
     "schema_data": {
       "weight_g": 86
-    }
+    },
+    "price_usd": 502,
+    "links": [
+      "https://www.meshmerize.net"
+    ],
+    "manufacturer_country": "Germany",
+    "ndaa_compliant": true,
+    "ndaa_note": "Meshmerize GmbH, Germany. EU/NATO allied-nation NDAA compliant. Mesh networking software.",
+    "weight_g": 5.0
   },
   {
     "pid": "MESH-1019",
@@ -883,16 +1087,26 @@
     "tags": [
       "multilink",
       "bonded-connectivity",
-      "BVLOS",
+      "bvlos",
       "cellular",
       "satellite",
-      "DIU",
-      "Israeli"
+      "diu",
+      "israeli",
+      "ndaa",
+      "israel"
     ],
     "approx_price": 498,
     "schema_data": {
       "weight_g": 78
-    }
+    },
+    "price_usd": 498,
+    "links": [
+      "https://www.elsight.com"
+    ],
+    "manufacturer_country": "Israel",
+    "ndaa_compliant": true,
+    "ndaa_note": "Elsight Ltd, Petah Tikva, Israel. Allied-nation NDAA compliant. HALO multi-link connectivity.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-1020",
@@ -927,15 +1141,25 @@
     "ew_capability": false,
     "compliance": {},
     "tags": [
-      "MANET",
+      "manet",
       "portable",
       "ruggedized",
-      "secure-IP"
+      "secure-ip",
+      "ndaa",
+      "usa"
     ],
     "approx_price": 503,
     "schema_data": {
       "weight_g": 84
-    }
+    },
+    "price_usd": 503,
+    "links": [
+      "https://www.horizon31.com"
+    ],
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "ndaa_note": "Horizon31, USA. US mesh radio manufacturer. NDAA compliant.",
+    "weight_g": 80
   },
   {
     "pid": "MESH-5000",
@@ -974,19 +1198,26 @@
     ],
     "mavlink_bridge": true,
     "tags": [
-      "LoRa",
-      "Meshtastic",
-      "ESP32",
-      "915MHz",
-      "GPS",
+      "lora",
+      "meshtastic",
+      "esp32",
+      "915mhz",
+      "gps",
       "mesh",
-      "ISM-band",
-      "MAVLink-bridge"
+      "ism-band",
+      "mavlink-bridge",
+      "ndaa",
+      "china"
     ],
     "approx_price": 29,
     "schema_data": {
       "weight_g": 71
-    }
+    },
+    "manufacturer_country": "China",
+    "price_usd": 29,
+    "links": [
+      "https://www.lilygo.cc/products/t-beam"
+    ]
   },
   {
     "pid": "MESH-5001",
@@ -1022,19 +1253,24 @@
     ],
     "mavlink_bridge": true,
     "tags": [
-      "LoRa",
-      "Meshtastic",
-      "ESP32-S3",
-      "SX1262",
-      "915MHz",
-      "OLED",
+      "lora",
+      "meshtastic",
+      "esp32-s3",
+      "sx1262",
+      "915mhz",
+      "oled",
       "mesh",
-      "ISM-band"
+      "ism-band",
+      "ndaa"
     ],
     "approx_price": 25,
     "schema_data": {
       "weight_g": 88
-    }
+    },
+    "price_usd": 25,
+    "links": [
+      "https://heltec.org/project/wifi-lora-32-v3/"
+    ]
   },
   {
     "pid": "MESH-5002",
@@ -1073,19 +1309,24 @@
     ],
     "mavlink_bridge": true,
     "tags": [
-      "LoRa",
-      "Meshtastic",
-      "nRF52840",
-      "SX1262",
-      "915MHz",
+      "lora",
+      "meshtastic",
+      "nrf52840",
+      "sx1262",
+      "915mhz",
       "low-power",
       "modular",
-      "WisBlock"
+      "wisblock",
+      "ndaa"
     ],
     "approx_price": 25,
     "schema_data": {
       "weight_g": 76
-    }
+    },
+    "price_usd": 25,
+    "links": [
+      "https://store.rakwireless.com/products/wisblock-meshtastic-kit"
+    ]
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Helix-Smart-Radio",
@@ -1113,7 +1354,20 @@
       "ndaa_compliant": true,
       "blue_uas_framework": true,
       "note": "Canadian company. Blue UAS Framework component."
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 800,
+    "links": [
+      "https://doodlelabs.com/products/helix-smart-radio/"
+    ],
+    "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 56.0,
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Helix-Pro",
@@ -1137,7 +1391,20 @@
       "ndaa_compliant": true,
       "blue_uas_framework": true,
       "note": "Canadian company. Blue UAS Framework component."
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 1500,
+    "links": [
+      "https://doodlelabs.com/products/helix-pro/"
+    ],
+    "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
+    "interface": "RF Mesh / Ethernet",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 80
   },
   {
     "pid": "MSH-MFR-Doodle-Labs-Net-Node",
@@ -1159,7 +1426,20 @@
       "ndaa_compliant": true,
       "blue_uas_framework": true,
       "note": "Canadian company. Blue UAS Framework component."
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 2000,
+    "links": [
+      "https://doodlelabs.com/products/net-node/"
+    ],
+    "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
+    "interface": "RF Mesh / Ethernet",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 120
   },
   {
     "pid": "MSH-MFR-Silvus-StreamCaster-4200",
@@ -1184,7 +1464,20 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-made (Los Angeles). Acquired by Motorola Solutions $4.4B (2025)."
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 5000,
+    "links": [
+      "https://silvustechnologies.com/products/streamcaster-4200/"
+    ],
+    "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "tags": [
+      "ndaa",
+      "usa"
+    ],
+    "weight_g": 80
   },
   {
     "pid": "MSH-MFR-Silvus-StreamCaster-4400P",
@@ -1206,6 +1499,19 @@
     "compliance": {
       "ndaa_compliant": true,
       "note": "US-made (Los Angeles). Acquired by Motorola Solutions $4.4B (2025)."
-    }
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 3500,
+    "links": [
+      "https://silvustechnologies.com/products/streamcaster-4400/"
+    ],
+    "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
+    "interface": "RF Mesh / Ethernet",
+    "weight_g": 160.0,
+    "tags": [
+      "ndaa",
+      "usa"
+    ]
   }
 ]
