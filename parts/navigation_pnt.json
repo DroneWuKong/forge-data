@@ -43,7 +43,7 @@
     "links": [
       "https://www.sbg-systems.com/defense/uav-unmanned-aerial-vehicles-navigation-defense/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -191,7 +191,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 495,
     "origin": "Unknown"
@@ -236,7 +236,7 @@
     "links": [
       "https://aerospace.honeywell.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Honeywell International, Charlotte NC. Major US aerospace/defense (NASDAQ: HON). NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -282,7 +282,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -327,7 +327,7 @@
     "links": [
       "https://q-ctrl.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Q-CTRL, Sydney, Australia. Allied-nation NDAA compliant. Quantum sensing/navigation.",
     "weight_g": 50,
     "origin": "Unknown"
@@ -425,7 +425,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 12,
     "origin": "Unknown"
@@ -470,7 +470,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -519,7 +519,7 @@
     "links": [
       "https://www.teledynemarine.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Teledyne Marine, part of Teledyne Technologies (NYSE: TDY). US company. NDAA compliant.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -561,7 +561,7 @@
     "links": [
       "https://www.anellophotonics.com/"
     ],
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
     "ndaa_note": "Anello Photonics, Santa Clara CA. US photonic IMU. NDAA compliant. DARPA-funded.",
     "weight_g": 100,
     "origin": "Unknown"
