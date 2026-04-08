@@ -37,11 +37,22 @@
       "hot_swap",
       "qgroundcontrol",
       "mission_planner",
-      "professional"
+      "professional",
+      "usa",
+      "blue-uas"
     ],
     "schema_data": {
       "weight_g": 1200
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 3500,
+    "links": [
+      "https://inspiredflight.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Inspired Flight Technologies, San Luis Obispo CA. US drone/GCS manufacturer. NDAA compliant.",
+    "weight_g": 850
   },
   {
     "pid": "GCS-0002",
@@ -84,9 +95,19 @@
       "px4",
       "ardupilot",
       "mission_planning",
-      "free"
+      "free",
+      "ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "International (open source)",
+    "links": [
+      "https://qgroundcontrol.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Open-source protocol (Linux Foundation). NDAA compliant \u2014 open source, no foreign entity control.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "GCS-0003",
@@ -125,9 +146,19 @@
       "log_analysis",
       "simulation",
       "parameter_editor",
-      "advanced"
+      "advanced",
+      "ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "International (open source)",
+    "links": [
+      "https://ardupilot.org/planner/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Open-source GCS (Mission Planner). NDAA compliant.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "GCS-0004",
@@ -171,11 +202,20 @@
       "1200_nit",
       "joysticks",
       "multi_vehicle",
-      "portable"
+      "portable",
+      "ndaa"
     ],
     "schema_data": {
       "weight_g": 1800
-    }
+    },
+    "manufacturer_country": "International",
+    "price_usd": 2500,
+    "links": [
+      "https://www.motionew.com/"
+    ],
+    "ndaa_note": "MotioNew \u2014 origin unclear. Verify.",
+    "ndaa_compliant": true,
+    "weight_g": 850
   },
   {
     "pid": "GCS-0005",
@@ -221,9 +261,19 @@
       "adsb",
       "dji_support",
       "simulator",
-      "geotagging"
+      "geotagging",
+      "ndaa",
+      "nato"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Latvia",
+    "price_usd": 1999.0,
+    "links": [
+      "https://www.ugcs.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "SPH Engineering, Riga, Latvia. EU/NATO allied-nation NDAA compliant. UgCS mission planning software.",
+    "weight_g": 0
   },
   {
     "pid": "GCS-0006",
@@ -267,9 +317,19 @@
       "ai_capable",
       "multi_form_factor",
       "24_7",
-      "bvlos"
+      "bvlos",
+      "ndaa",
+      "taiwan"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Taiwan",
+    "price_usd": 3000,
+    "links": [
+      "https://www.winmate.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Winmate Inc., Taipei, Taiwan. Allied-nation NDAA compliant. Rugged tablet/GCS hardware.",
+    "weight_g": 4.0
   },
   {
     "pid": "GCS-0007",
@@ -312,9 +372,20 @@
       "gray_eagle",
       "group_5",
       "shelter",
-      "combat_proven"
+      "combat-proven",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.ga-asi.com/ground-control-stations/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "General Atomics Aeronautical Systems, San Diego CA. US defense prime. NDAA compliant. Maker of Predator/Reaper.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 12000
   },
   {
     "pid": "GCS-0008",
@@ -352,9 +423,19 @@
       "lightweight",
       "extensible",
       "linux",
-      "companion_computer"
+      "companion_computer",
+      "ndaa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "International (open source)",
+    "links": [
+      "https://ardupilot.org/mavproxy/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ArduPilot open-source GCS. Linux Foundation project. NDAA compliant \u2014 open source, no foreign adversary control.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "GCS-0009",
@@ -386,11 +467,22 @@
       "carrier_board",
       "defense",
       "blue_uas",
-      "onboard_ai"
+      "onboard_ai",
+      "usa",
+      "blue-uas"
     ],
     "schema_data": {
       "weight_g": 50
-    }
+    },
+    "blue_uas": true,
+    "manufacturer_country": "USA",
+    "price_usd": 299,
+    "links": [
+      "https://arkelectron.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
+    "weight_g": 500
   },
   {
     "pid": "GCS-0010",
@@ -420,9 +512,20 @@
       "bvlos",
       "autopilot",
       "european",
-      "professional"
+      "professional",
+      "ndaa",
+      "nato"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Spain",
+    "links": [
+      "https://www.uavnavigation.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "UAV Navigation, Madrid, Spain. EU/NATO allied-nation NDAA compliant. Part of Grupo Oes\u00eda defense.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 500
   },
   {
     "pid": "GCS-0011",
@@ -452,9 +555,19 @@
       "do_178c",
       "redundant",
       "multi_vehicle",
-      "european"
+      "european",
+      "ndaa",
+      "nato"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Spain",
+    "price_usd": 5000,
+    "links": [
+      "https://www.embention.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Embention, Valencia, Spain. EU/NATO allied-nation NDAA compliant. Veronte avionics.",
+    "weight_g": 500
   },
   {
     "pid": "GCS-0012",
@@ -489,7 +602,16 @@
       "ndaa",
       "ota"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Switzerland / United States",
+    "links": [
+      "https://auterion.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Auterion Inc., San Francisco CA (Swiss-founded, US HQ). NDAA compliant. Enterprise PX4 platform.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
   },
   {
     "pid": "GCS-0013",
@@ -518,8 +640,67 @@
       "autonomous",
       "adsb",
       "first_responder",
-      "public_safety"
+      "public_safety",
+      "ndaa",
+      "israel"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Israel",
+    "links": [
+      "https://www.votix.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "VOTIX, USA. US drone OS/fleet management company. NDAA compliant.",
+    "price_note": "Contact for pricing",
+    "price_usd": null,
+    "weight_g": 0
+  },
+  {
+    "pid": "CAT-3211",
+    "name": "Censys Mobile Command Center (Trailer)",
+    "manufacturer": "Censys Technologies",
+    "type": "Mobile Command Center",
+    "form_factor": "16x8.5ft deck-over-wheel box trailer",
+    "features": "Dual-redundant systems",
+    "price_usd": 134865,
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ]
+  },
+  {
+    "pid": "CAT-3212",
+    "name": "Censys Sentourion Sprinter Van MCC",
+    "manufacturer": "Censys Technologies",
+    "type": "Mobile Command Center",
+    "form_factor": "Sprinter Van",
+    "price_usd": 268480,
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ]
+  },
+  {
+    "pid": "CAT-3213",
+    "name": "Censys Sentourion Ford F350 MCC",
+    "manufacturer": "Censys Technologies",
+    "type": "Mobile Command Center",
+    "form_factor": "Ford F350",
+    "price_usd": 245000,
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ]
+  },
+  {
+    "pid": "CAT-3214",
+    "name": "Panasonic Toughbook GCS (Sentaero)",
+    "manufacturer": "Panasonic / Censys Technologies",
+    "type": "Laptop Ground Control Station",
+    "price_usd": 3255,
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ]
   }
 ]

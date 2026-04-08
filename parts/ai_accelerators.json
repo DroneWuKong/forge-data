@@ -36,11 +36,21 @@
       "object_detection",
       "yolo",
       "stackable",
-      "passive_cooling"
+      "passive_cooling",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 8
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 99,
+    "links": [
+      "https://hailo.ai/products/ai-accelerators/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Hailo Technologies, Tel Aviv, Israel. Allied-nation NDAA compliant.",
+    "weight_g": 30
   },
   {
     "pid": "AIACCEL-0002",
@@ -84,11 +94,21 @@
       "4k_realtime",
       "automotive_qualified",
       "raspberry_pi",
-      "on_device_ai"
+      "on_device_ai",
+      "ndaa",
+      "israel"
     ],
     "schema_data": {
       "weight_g": 12
-    }
+    },
+    "manufacturer_country": "Israel",
+    "price_usd": 149,
+    "links": [
+      "https://hailo.ai/products/ai-accelerators/hailo-10h-m-2-ai-acceleration-module/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Hailo Technologies, Tel Aviv, Israel. Allied-nation NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0003",
@@ -122,9 +142,18 @@
       "drone_vision",
       "autonomy",
       "ambarella",
-      "multi_camera"
+      "multi_camera",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.ambarella.com/products/aiot-industrial-robotics/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ambarella Inc., Santa Clara CA. US semiconductor company (NASDAQ: AMBA). NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0004",
@@ -156,9 +185,18 @@
       "8k",
       "cortex_a73",
       "transformer",
-      "3rd_gen_cvflow"
+      "3rd_gen_cvflow",
+      "ndaa",
+      "usa"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.ambarella.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Ambarella Inc., Santa Clara CA. US semiconductor company (NASDAQ: AMBA). NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0005",
@@ -185,11 +223,21 @@
       "prototyping",
       "tensorflow_lite",
       "low_cost",
-      "plug_and_play"
+      "plug_and_play",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 60,
+    "links": [
+      "https://coral.ai/products/accelerator/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Google LLC, Mountain View CA. US company. Coral Edge TPU. NDAA compliant.",
+    "weight_g": 8
   },
   {
     "pid": "AIACCEL-0006",
@@ -213,11 +261,21 @@
       "low_cost",
       "edge_soc",
       "cnn",
-      "rnn"
+      "rnn",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 5
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 30,
+    "links": [
+      "https://www.kneron.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Kneron Inc., San Diego CA. US-incorporated AI chip company (Taiwan-founded). NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0007",
@@ -243,11 +301,19 @@
       "quantization",
       "co_processor",
       "drones",
-      "robots"
+      "robots",
+      "ndaa"
     ],
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "manufacturer_country": "South Korea",
+    "links": [
+      "https://www.deepx.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "DeepX Inc., Seoul, South Korea. Allied-nation NDAA compliant. Edge AI semiconductor company.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0008",
@@ -286,11 +352,21 @@
       "vio",
       "40_tops",
       "ampere",
-      "ark_electronics"
+      "ark_electronics",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 25
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 199,
+    "links": [
+      "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "weight_g": 60
   },
   {
     "pid": "AIACCEL-0009",
@@ -322,11 +398,21 @@
       "qualcomm",
       "ros2",
       "7_cameras",
-      "heterogeneous_compute"
+      "heterogeneous_compute",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 35
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 399,
+    "links": [
+      "https://www.qualcomm.com/products/technology/robotics"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Qualcomm Technologies, San Diego CA. US semiconductor (NASDAQ: QCOM). NDAA compliant.",
+    "weight_g": 5.0
   },
   {
     "pid": "AIACCEL-0010",
@@ -359,11 +445,21 @@
       "movidius",
       "4_tops",
       "prototyping",
-      "academic"
+      "academic",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 30
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 69,
+    "links": [
+      "https://www.intel.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Intel Corporation, Santa Clara CA. US company. NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0011",
@@ -392,11 +488,20 @@
       "stable_diffusion",
       "vliw",
       "6w",
-      "2nd_gen"
+      "2nd_gen",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 15
-    }
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.kinara.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Kinara Inc., San Jose CA \u2014 acquired by NXP Semiconductors (Netherlands) 2024. US-origin, NXP is allied-nation. NDAA compliant.",
+    "weight_g": 25
   },
   {
     "pid": "AIACCEL-0012",
@@ -421,9 +526,18 @@
       "in_memory_compute",
       "risc_v",
       "14.7_tops_w",
-      "high_performance"
+      "high_performance",
+      "ndaa",
+      "nato"
     ],
-    "schema_data": {}
+    "schema_data": {},
+    "manufacturer_country": "Netherlands",
+    "links": [
+      "https://www.axelera.ai/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Axelera AI, Eindhoven, Netherlands. EU/NATO allied-nation NDAA compliant.",
+    "weight_g": 20
   },
   {
     "pid": "AIACCEL-0013",
@@ -454,10 +568,95 @@
       "always_on",
       "ultra_low_power",
       "wake_word",
-      "battery_friendly"
+      "battery_friendly",
+      "ndaa",
+      "usa"
     ],
     "schema_data": {
       "weight_g": 1
-    }
+    },
+    "manufacturer_country": "USA",
+    "price_usd": 15,
+    "links": [
+      "https://www.syntiant.com/"
+    ],
+    "ndaa_compliant": true,
+    "ndaa_note": "Syntiant Corp., Irvine CA. US ultra-low-power neural decision processor. NDAA compliant.",
+    "weight_g": 1
+  },
+  {
+    "pid": "AI-0014",
+    "category": "ai_accelerators",
+    "name": "NVIDIA Jetson Orin NX TAA (16GB)",
+    "manufacturer": "NVIDIA",
+    "manufacturer_hq": "USA",
+    "description": "TAA-compliant (USA Country of Origin) Jetson Orin NX 16GB compute module with 1024-core Ampere GPU and 8-core ARM 64-bit CPU. Designed for AI inference on unmanned systems. Compatible with EchoMAV EchoPilot AI and other 260-pin Jetson NX carrier boards. Supports full NVIDIA JetPack SDK including DeepStream, Isaac, Triton, Riva. Part: 900-13767-0000-0A1 / 900-13767-0000-0A0.",
+    "link": "https://echomav.com/products/compute-module-orin-nx",
+    "approx_price": "$990",
+    "ai_compute_tops": 100,
+    "power_w": 10,
+    "architecture": "NVIDIA Ampere GPU (1024-core) + 8-core ARM Cortex-A78AE",
+    "form_factor": "Jetson NX 260-pin SO-DIMM",
+    "interface": "260-pin card edge (Jetson NX standard)",
+    "supported_frameworks": [
+      "CUDA",
+      "TensorRT",
+      "DeepStream",
+      "Isaac",
+      "Triton",
+      "Riva",
+      "JetPack SDK"
+    ],
+    "stacking": true,
+    "passive_cooling": false,
+    "typical_models": [
+      "Object detection (YOLO)",
+      "Video analytics",
+      "Multi-sensor fusion"
+    ],
+    "country": "USA",
+    "compliance": {
+      "ndaa_compliant": true,
+      "taa_compliant": true,
+      "coo": "USA (guaranteed)",
+      "eccn": "5A992.C",
+      "note": "TAA compliant (USA COO). Suitable for Blue UAS when paired with EchoPilot AI."
+    },
+    "tags": [
+      "taa",
+      "ndaa",
+      "usa",
+      "jetson",
+      "nvidia",
+      "orin",
+      "ai",
+      "inference",
+      "ampere",
+      "uas",
+      "deepstream"
+    ],
+    "specs": {
+      "gpu_cores": 1024,
+      "gpu_arch": "NVIDIA Ampere",
+      "cpu": "8-core ARM Cortex-A78AE 64-bit",
+      "memory": "16GB LPDDR5",
+      "part_number": "900-13767-0000-0A1 / 900-13767-0000-0A0",
+      "form_factor": "Jetson NX 260-pin",
+      "coo": "USA (guaranteed TAA)",
+      "jetpack": "Full JetPack SDK"
+    },
+    "schema_data": {
+      "ndaa_compliant": true,
+      "taa_compliant": true,
+      "country_of_origin": "USA"
+    },
+    "ndaa_compliant": true,
+    "manufacturer_country": "USA",
+    "price_usd": 990.0,
+    "links": [
+      "https://echomav.com/products/compute-module-orin-nx"
+    ],
+    "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
+    "weight_g": 60
   }
 ]
