@@ -2154,6 +2154,30 @@
     ]
   },
   {
+    "pid": "CAT-3200",
+    "name": "Colibri 212 Gimballed EO/IR",
+    "manufacturer": "Censys Technologies (integrated)",
+    "type": "Gimballed EO/IR Payload",
+    "thermal_resolution": "640x480",
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ],
+    "notes": "Integrated payload for Sentaero universal housing"
+  },
+  {
+    "pid": "CAT-3201",
+    "name": "Workswell Wiris Pro Radiometric (Sentaero)",
+    "manufacturer": "Workswell / Censys Technologies",
+    "type": "Radiometric Thermal Payload",
+    "orientations": "Nadir, 60deg aft",
+    "compatible_platforms": [
+      "Censys Sentaero 5",
+      "Censys Sentaero 6"
+    ],
+    "notes": "Integrated for Sentaero universal payload housing"
+  },
+  {
     "pid": "TCAM-0045",
     "category": "thermal_cameras",
     "name": "Teledyne FLIR Vue Pro 336 30Hz",
@@ -2222,29 +2246,5 @@
     },
     "price_msrp_usd": 6000,
     "link": "https://www.flir.com"
-  },
-  {
-    "pid": "CAT-3200",
-    "name": "Colibri 212 Gimballed EO/IR",
-    "manufacturer": "Censys Technologies (integrated)",
-    "type": "Gimballed EO/IR Payload",
-    "thermal_resolution": "640x480",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
-    ],
-    "notes": "Integrated payload for Sentaero universal housing"
-  },
-  {
-    "pid": "CAT-3201",
-    "name": "Workswell Wiris Pro Radiometric (Sentaero)",
-    "manufacturer": "Workswell / Censys Technologies",
-    "type": "Radiometric Thermal Payload",
-    "orientations": "Nadir, 60deg aft",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
-    ],
-    "notes": "Integrated for Sentaero universal payload housing"
   }
 ]
