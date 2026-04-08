@@ -5,33 +5,41 @@
     "manufacturer": "ARK Electronics",
     "manufacturer_country": "USA",
     "ndaa_compliant": true,
-    "price_usd": 320,
-    "description": "Made in the USA, NDAA compliant DroneCAN optical flow and short-range distance sensor. Combines PAW3902 optical flow sensor, Broadcom AFBR-S50LV85D ToF LiDAR, and BMI088 IMU. CAN protocol. PX4 and ArduPilot support. Firmware updates over DroneCAN. Gold standard for NDAA-compliant GPS-denied navigation.",
-    "interface": "DroneCAN / CAN",
+    "blue_uas": false,
+    "price_usd": 79,
+    "source": "https://arkelectron.com/product/ark-flow",
+    "source_confidence": "manufacturer",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN",
+      "MAVLink"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt)",
+    "rangefinder": true,
+    "rangefinder_type": "ToF",
+    "rangefinder_range_m": 8,
+    "flow_range_min_mm": 80,
+    "flow_range_max_m": null,
+    "weight_g": 3.1,
+    "dimensions_mm": "16x16x5",
     "firmware_compat": [
       "PX4",
       "ArduPilot"
     ],
-    "flow_sensor": "PAW3902 (PixArt, Taiwan)",
-    "distance_sensor": "Broadcom AFBR-S50LV85D ToF",
-    "imu": "BMI088",
-    "range_m": 8,
-    "weight_g": 36,
-    "ndaa_note": "Designed and manufactured USA. Full supply chain documentation available.",
-    "links": [
-      "https://arkelectron.com/product/ark-flow/"
-    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "NDAA-compliant, USA-made optical flow + ToF sensor on DroneCAN bus. Drop-in for PX4/ArduPilot GPS-denied navigation. Integrated IMU for gyro-compensated flow.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
       "ndaa",
       "usa-made",
       "dronecan",
-      "px4",
-      "ardupilot",
-      "usa"
+      "tof",
+      "gps-denied",
+      "indoor",
+      "pixhawk"
     ],
-    "origin": "USA"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1001",
@@ -39,137 +47,146 @@
     "manufacturer": "ARK Electronics",
     "manufacturer_country": "USA",
     "ndaa_compliant": true,
-    "price_usd": 650,
-    "description": "Drop-in upgrade to ARK Flow with extended 50m mid-range distance sensing. PAA3905 optical flow sensor (improved over PAW3902), Broadcom AFBR-S50LX85D 50m ToF sensor, InvenSense IIM-42653 IMU. Adds only 5g over base ARK Flow. Launched March 2025. Best NDAA-compliant option for outdoor and semi-outdoor GPS-denied operations.",
-    "interface": "DroneCAN / CAN",
+    "blue_uas": false,
+    "price_usd": 99,
+    "source": "https://arkelectron.com/product/ark-flow-mr",
+    "source_confidence": "manufacturer",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN",
+      "MAVLink"
+    ],
+    "flow_sensor_chip": "Upgraded PMW3901-class (PixArt)",
+    "rangefinder": true,
+    "rangefinder_type": "ToF",
+    "rangefinder_range_m": 50,
+    "flow_range_min_mm": 80,
+    "weight_g": 8,
+    "dimensions_mm": "16x16x5",
     "firmware_compat": [
       "PX4",
       "ArduPilot"
     ],
-    "flow_sensor": "PAA3905 (PixArt, Taiwan)",
-    "distance_sensor": "Broadcom AFBR-S50LX85D ToF (50m range)",
-    "imu": "InvenSense IIM-42653",
-    "range_m": 50,
-    "weight_g": 41,
-    "ndaa_note": "Designed and manufactured USA. March 2025 release.",
-    "links": [
-      "https://arkelectron.com/product/ark-flow-mr/"
-    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "Drop-in upgrade to ARK Flow. Extends rangefinder to 50m vs 8m on original. USA-made, NDAA-compliant. +5g weight penalty over original ARK Flow.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
       "ndaa",
       "usa-made",
       "dronecan",
-      "px4",
-      "ardupilot",
+      "tof",
       "mid-range",
-      "usa"
+      "gps-denied",
+      "pixhawk"
     ],
-    "origin": "USA"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1002",
     "name": "CubePilot HereFlow \u2014 Optical Flow + LiDAR",
     "manufacturer": "CubePilot (Hex Technology)",
-    "manufacturer_country": "Taiwan",
+    "manufacturer_country": "Australia",
     "ndaa_compliant": true,
-    "price_usd": 85,
-    "description": "Finger-sized 1.2g optical flow sensor with integrated LiDAR and 6D IMU. PMW3901 optical flow (80mm to infinity), short-range LiDAR altimetry, ICM20602 IMU. CAN protocol. NDAA 2024 compliant \u2014 all chips and components sourced and assembled in allied nations (Taiwan). Best lightweight option for small/micro platforms. Note: built-in LiDAR is very short range outdoors; pair with external longer-range LiDAR for outdoor use.",
-    "interface": "DroneCAN / CAN",
+    "blue_uas": false,
+    "price_usd": 69,
+    "source": "https://docs.cubepilot.org/user-guides/flow-sensor/here-flow",
+    "source_confidence": "manufacturer",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "VL53L1X ToF",
+    "rangefinder_range_m": 4,
+    "flow_range_min_mm": 80,
+    "weight_g": 5,
+    "imu_integrated": true,
     "firmware_compat": [
-      "ArduPilot",
-      "PX4"
+      "PX4",
+      "ArduPilot"
     ],
-    "flow_sensor": "PMW3901 (PixArt)",
-    "distance_sensor": "Integrated short-range LiDAR",
-    "imu": "ICM20602",
-    "range_m": 3,
-    "weight_g": 1.2,
-    "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 allied nations supply chain.",
-    "links": [
-      "https://docs.cubepilot.org/user-guides/flow-senor/here-flow"
-    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "CubePilot's DroneCAN optical flow module. PMW3901 chip + VL53L1X rangefinder + IMU for gyro-sync. Popular in commercial/government builds. Australian assembly, PixArt chip from Taiwan.",
+    "ndaa_note": "CubePilot is Australian-owned. PixArt chip is Taiwanese (not PRC-listed). Generally considered NDAA-compliant but verify with legal counsel for specific contracts.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
-      "ndaa",
-      "taiwan",
       "dronecan",
-      "ardupilot",
-      "px4",
-      "lightweight",
-      "micro"
+      "tof",
+      "cubepilot",
+      "pixhawk",
+      "gps-denied",
+      "imu-integrated"
     ],
-    "origin": "USA"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1003",
     "name": "Holybro H-Flow \u2014 Optical Flow + Distance Sensor",
     "manufacturer": "Holybro",
-    "manufacturer_country": "Unknown \u2014 verify supply chain",
+    "manufacturer_country": "China",
     "ndaa_compliant": false,
-    "price_usd": 45,
-    "description": "Compact DroneCAN optical flow and distance sensor. PixArt PAA3905E1 optical flow, Broadcom AFBR-S50LV85D ToF distance sensor, InvenSense ICM-42688-P 6-axis IMU. Onboard IR LED for low-light. Compatible with PX4 and ArduPilot. Good component selection (same sensors as ARK Flow MR) but Holybro HQ is Shenzhen, China \u2014 supply chain not independently verified for NDAA compliance. Verify before federal procurement.",
-    "interface": "DroneCAN / CAN",
+    "blue_uas": false,
+    "price_usd": 49,
+    "source": "https://holybro.com/products/h-flow",
+    "source_confidence": "manufacturer",
+    "interface": "DroneCAN (CAN)",
+    "protocol": [
+      "DroneCAN"
+    ],
+    "flow_sensor_chip": "PAA3905E1 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "Broadcom AFBR-S50LV85D ToF",
+    "rangefinder_range_m": 10,
+    "flow_range_min_mm": 50,
+    "imu_integrated": true,
+    "imu_chip": "ICM-42688-P (InvenSense)",
     "firmware_compat": [
       "PX4",
       "ArduPilot"
     ],
-    "flow_sensor": "PAA3905E1 (PixArt)",
-    "distance_sensor": "Broadcom AFBR-S50LV85D ToF",
-    "imu": "ICM-42688-P (InvenSense/TDK)",
-    "range_m": 35,
-    "weight_g": 8,
-    "ndaa_note": "Holybro HQ: Shenzhen, China. Supply chain not independently verified. Do not use for federal contracts without written NDAA compliance documentation from Holybro.",
-    "links": [
-      "https://holybro.com/products/h-flow"
-    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "Holybro's premium flow module. Uses newer PAA3905E1 chip (better low-light than PMW3901), Broadcom ToF to 10m, ICM-42688-P IMU. DroneCAN. Holybro is Chinese-owned \u2014 not NDAA compliant.",
+    "ndaa_note": "Holybro is headquartered in Shenzhen, China. Not NDAA compliant. Not suitable for DoD/federal programs.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
+      "china",
       "dronecan",
-      "px4",
-      "ardupilot",
-      "china-caution"
+      "tof",
+      "paa3905",
+      "icm42688",
+      "gps-denied"
     ],
-    "origin": "China"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1004",
     "name": "Centeye Vision Chip Suite \u2014 Neuromorphic Optical Flow",
     "manufacturer": "Centeye",
     "manufacturer_country": "USA",
-    "ndaa_compliant": null,
+    "ndaa_compliant": true,
+    "blue_uas": false,
     "price_usd": null,
-    "description": "Washington DC-based pioneer \u2014 first company to fly an optical flow sensor on a drone (1990s). Produces proprietary neuromorphic vision chips designed ground-up for drone autonomy. Sensors from 1g. Up to 150\u00b0 FOV. IR illumination for dark environments (850nm, up to 5m range). Stereo depth + optical flow combined. Not a commodity product \u2014 sold as integrated solution or OEM chipset for custom platforms. Contact for pricing. Best option for nano/micro platforms and DARPA-adjacent programs.",
-    "interface": "Custom / I2C (contact for details)",
-    "firmware_compat": [
-      "Custom integration"
+    "source": "https://centeye.com",
+    "source_confidence": "manufacturer_homepage",
+    "interface": "SPI / custom",
+    "protocol": [
+      "Custom"
     ],
-    "flow_sensor": "Proprietary Centeye neuromorphic vision chip",
-    "distance_sensor": "Stereo depth (optional)",
-    "imu": "N/A (separate)",
-    "range_m": 5,
-    "weight_g": 1,
-    "ndaa_note": "Designed and built USA. OEM/custom integration only.",
-    "links": [
-      "https://www.centeye.com/drones-and-robotics/integrated-vision-sensors/"
-    ],
+    "flow_sensor_chip": "Centeye proprietary neuromorphic CMOS",
+    "rangefinder": false,
+    "description": "US-based neuromorphic optical flow. Research/advanced integrations. Not a standard plug-and-play module \u2014 requires custom integration. Significantly higher sensitivity than PMW3901 on low-texture/dark surfaces.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
-      "ndaa",
       "usa-made",
       "neuromorphic",
-      "nano",
-      "micro",
-      "oem",
+      "research",
       "advanced",
-      "usa"
+      "low-texture"
     ],
-    "price_note": "OEM/custom pricing \u2014 contact manufacturer",
-    "origin": "Unknown"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1005",
@@ -177,33 +194,41 @@
     "manufacturer": "Mateksys",
     "manufacturer_country": "China",
     "ndaa_compliant": false,
+    "blue_uas": false,
     "price_usd": 28,
-    "description": "PMW3901 optical flow + VL53L0X LiDAR combined module. UART interface, MSP V2 protocol. iNAV and ArduPilot compatible. Very popular in hobbyist/FPV community for indoor position hold. NOT NDAA compliant \u2014 designed and manufactured in China (Mateksys, Shenzhen). Do not use for federal contracts or federally-funded programs. Listed for awareness \u2014 this is what most people use, but it cannot be used in NDAA contexts.",
+    "source": "https://www.mateksys.com/?portfolio=3901-l0x",
+    "source_confidence": "manufacturer",
     "interface": "UART",
-    "firmware_compat": [
-      "iNAV",
-      "ArduPilot",
-      "Betaflight (limited)"
+    "protocol": [
+      "MSP",
+      "CXOF"
     ],
-    "flow_sensor": "PMW3901 (PixArt)",
-    "distance_sensor": "VL53L0X (ST Microelectronics)",
-    "imu": "None",
-    "range_m": 2,
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "VL53L0X ToF",
+    "rangefinder_range_m": 2,
+    "flow_range_min_mm": 80,
     "weight_g": 3.4,
-    "ndaa_note": "China-made. Not NDAA compliant. Hobbyist use only.",
-    "links": [
-      "https://www.mateksys.com/?portfolio=3901-l0x"
+    "firmware_compat": [
+      "ArduPilot",
+      "iNAV",
+      "Betaflight"
     ],
+    "px4_support": false,
+    "ardupilot_support": true,
+    "inav_support": true,
+    "description": "Budget UART optical flow sensor popular in FPV builds. PMW3901 + VL53L0X (2m max range \u2014 limited vs newer modules). Great for iNAV GPS-denied. Mateksys is Chinese. Not NDAA compliant.",
+    "ndaa_note": "Mateksys is Chinese-owned. Not NDAA compliant.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
       "china",
-      "non-ndaa",
       "uart",
+      "budget",
+      "fpv",
       "inav",
-      "hobbyist"
+      "betaflight",
+      "gps-denied"
     ],
-    "origin": "China"
+    "category": "optical_flow"
   },
   {
     "pid": "OF-1006",
@@ -211,30 +236,358 @@
     "manufacturer": "DJI",
     "manufacturer_country": "China",
     "ndaa_compliant": false,
+    "blue_uas": false,
     "price_usd": null,
-    "description": "DJI's integrated downward visual positioning system on Mavic/Mini/Inspire/Matrice series. Combines downward-facing stereo cameras with ultrasonic sensors for indoor hover and obstacle avoidance. Not a standalone purchasable sensor \u2014 integrated into DJI platforms only. Not NDAA compliant. Listed for reference as the consumer benchmark most users know.",
-    "interface": "Integrated (DJI proprietary)",
-    "firmware_compat": [
-      "DJI platforms only"
+    "source": "https://www.dji.com/o3-air-unit",
+    "source_confidence": "manufacturer",
+    "interface": "Integrated (proprietary)",
+    "protocol": [
+      "DJI proprietary"
     ],
-    "flow_sensor": "DJI proprietary stereo vision",
-    "distance_sensor": "Ultrasonic + downward IR",
-    "imu": "Integrated",
-    "range_m": 10,
-    "weight_g": 0,
-    "ndaa_note": "China-made, FCC Covered List. Not NDAA compliant. Not available as standalone component.",
-    "links": [
-      "https://enterprise.dji.com"
-    ],
+    "flow_sensor_chip": "DJI proprietary",
+    "rangefinder": true,
+    "description": "Integrated downward optical flow/vision on DJI O3 Air Unit. Not available as standalone. Proprietary to DJI ecosystem. DJI is PRC-listed \u2014 NDAA non-compliant.",
+    "ndaa_note": "DJI is PRC-listed under NDAA. Not compliant. FCC covered list as of Dec 22 2025.",
     "tags": [
-      "optical-flow",
-      "gps-denied",
       "china",
-      "non-ndaa",
-      "integrated",
       "dji",
-      "reference-only"
+      "integrated",
+      "proprietary",
+      "non-compliant"
     ],
-    "origin": "China"
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1007",
+    "name": "Holybro PMW3901 \u2014 UART Optical Flow (Budget)",
+    "manufacturer": "Holybro",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 25,
+    "source": "https://holybro.com/products/pmw3901-optical-flow-sensor",
+    "source_confidence": "manufacturer",
+    "interface": "UART",
+    "protocol": [
+      "MSP / Passthrough"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": false,
+    "weight_g": 2,
+    "firmware_compat": [
+      "ArduPilot",
+      "PX4",
+      "iNAV"
+    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": true,
+    "description": "Simple UART PMW3901 breakout with JST-GH connector for Pixhawk TELEM ports. No integrated rangefinder \u2014 requires external distance sensor. Budget option for non-NDAA builds.",
+    "ndaa_note": "Holybro is Chinese-owned. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "uart",
+      "budget",
+      "pmw3901",
+      "no-rangefinder"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1008",
+    "name": "Bitcraze Flow Deck V2 \u2014 PMW3901 + VL53L1X",
+    "manufacturer": "Bitcraze",
+    "manufacturer_country": "Sweden",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "price_usd": 35,
+    "source": "https://store.bitcraze.io/products/flow-deck-v2",
+    "source_confidence": "manufacturer",
+    "interface": "SPI + I2C (Crazyflie deck connector)",
+    "protocol": [
+      "Crazyflie proprietary"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "VL53L1X ToF",
+    "rangefinder_range_m": 4,
+    "flow_range_min_mm": 80,
+    "weight_g": 1.6,
+    "firmware_compat": [
+      "Crazyflie"
+    ],
+    "px4_support": false,
+    "ardupilot_support": false,
+    "inav_support": false,
+    "description": "Bitcraze's flow module for Crazyflie nano-drones. Swedish manufacturer. PMW3901 + VL53L1X. Not compatible with PX4/ArduPilot \u2014 Crazyflie-only form factor. Good for research/swarm prototyping.",
+    "ndaa_note": "Bitcraze is Swedish. Generally NDAA compliant but verify PixArt chip sourcing for specific program requirements.",
+    "tags": [
+      "sweden",
+      "crazyflie",
+      "research",
+      "swarm",
+      "nano",
+      "tof"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1009",
+    "name": "MicoAir MTF-01 \u2014 Optical Flow + 3m LiDAR",
+    "manufacturer": "MicoAir Technology",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 22,
+    "source": "https://micoair.com/optical_range_sensor_mtf-01/",
+    "source_confidence": "manufacturer",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "Micolink",
+      "MSP"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "ToF",
+    "rangefinder_range_m": 3,
+    "flow_range_min_mm": 80,
+    "weight_g": 3.5,
+    "firmware_compat": [
+      "ArduPilot",
+      "PX4",
+      "iNAV"
+    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": true,
+    "description": "Popular budget Chinese flow sensor. Multi-protocol UART (MAVLink/MSP/Micolink). PMW3901 + 3m ToF LiDAR. Excellent value for non-NDAA builds. Available on AliExpress/Amazon ~$22.",
+    "ndaa_note": "MicoAir is Chinese. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "uart",
+      "budget",
+      "pmw3901",
+      "mavlink",
+      "msp",
+      "gps-denied"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1010",
+    "name": "MicoAir MTF-02P \u2014 Optical Flow + 6m LiDAR",
+    "manufacturer": "MicoAir Technology",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 32,
+    "source": "https://micoair.com/optical_range_sensor_mtf-02p/",
+    "source_confidence": "manufacturer",
+    "interface": "UART",
+    "protocol": [
+      "MAVLink",
+      "Micolink",
+      "MSP"
+    ],
+    "flow_sensor_chip": "PMW3901-class (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "Laser ToF",
+    "rangefinder_range_m": 6,
+    "flow_range_min_mm": 80,
+    "max_velocity_ms": 7,
+    "fov_deg": 42,
+    "min_lux": 60,
+    "weight_g": 4.5,
+    "firmware_compat": [
+      "ArduPilot",
+      "PX4",
+      "iNAV"
+    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": true,
+    "description": "Upgraded MTF-01 with 6m laser rangefinder vs 3m. 42\u00b0 FOV, min 60 lux. Max 7 m/s at 1m altitude. Multi-protocol UART. Best-value GPS-denied sensor for non-compliant builds.",
+    "ndaa_note": "MicoAir is Chinese. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "uart",
+      "budget",
+      "6m-range",
+      "mavlink",
+      "msp",
+      "gps-denied"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1011",
+    "name": "ThoneFlow-3901U \u2014 PMW3901 UART Breakout",
+    "manufacturer": "Thone / Triton",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 18,
+    "source": "https://docs.px4.io/main/en/sensor/pmw3901",
+    "source_confidence": "px4_docs",
+    "interface": "UART",
+    "protocol": [
+      "PX4 UART flow protocol"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": false,
+    "firmware_compat": [
+      "PX4",
+      "ArduPilot"
+    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "Basic UART PMW3901 breakout. No rangefinder. PX4-verified via SENS_TFLOW_CFG parameter. Cheap but requires external distance sensor for altitude. Chinese-made.",
+    "ndaa_note": "Chinese-made. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "uart",
+      "budget",
+      "pmw3901",
+      "no-rangefinder",
+      "px4-verified"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1012",
+    "name": "AlienTek ATK-PMW3901 \u2014 PMW3901 SPI/I2C",
+    "manufacturer": "AlienTek (\u6b63\u70b9\u539f\u5b50)",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 15,
+    "source": "https://docs.px4.io/main/en/sensor/pmw3901",
+    "source_confidence": "px4_docs",
+    "interface": "SPI + I2C",
+    "protocol": [
+      "SPI raw",
+      "I2C distance"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": true,
+    "rangefinder_type": "I2C (onboard, low quality \u2014 recommend external)",
+    "firmware_compat": [
+      "PX4"
+    ],
+    "px4_support": true,
+    "ardupilot_support": false,
+    "inav_support": false,
+    "description": "Chinese electronics maker. PMW3901 SPI + integrated (low-quality) distance sensor. PX4 docs recommend external rangefinder. Budget option for DIY/non-compliant builds.",
+    "ndaa_note": "Chinese-made. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "spi",
+      "budget",
+      "pmw3901",
+      "diy"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1013",
+    "name": "CUAV PX4FLOW 2.1 \u2014 Camera-Based Optical Flow",
+    "manufacturer": "CUAV",
+    "manufacturer_country": "China",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "price_usd": 89,
+    "source": "https://store.cuav.net",
+    "source_confidence": "manufacturer_homepage",
+    "interface": "USB / UART / I2C",
+    "protocol": [
+      "PX4Flow USB",
+      "MAVLink"
+    ],
+    "flow_sensor_chip": "MT9V034 CMOS (full camera, not ASIC)",
+    "rangefinder": true,
+    "rangefinder_type": "Ultrasonic",
+    "flow_range_min_mm": 300,
+    "weight_g": 12,
+    "firmware_compat": [
+      "PX4",
+      "ArduPilot"
+    ],
+    "px4_support": true,
+    "ardupilot_support": true,
+    "inav_support": false,
+    "description": "Camera-based optical flow (not ASIC-based). Uses MT9V034 camera with onboard STM32 processor running Lucas-Kanade optical flow algorithm. Higher resolution than PMW3901 ASIC but heavier/larger. CUAV is Chinese.",
+    "ndaa_note": "CUAV is Chinese. Not NDAA compliant.",
+    "tags": [
+      "china",
+      "camera-based",
+      "px4flow",
+      "lucas-kanade",
+      "mt9v034"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1014",
+    "name": "Pimoroni PMW3901 Breakout \u2014 SPI",
+    "manufacturer": "Pimoroni",
+    "manufacturer_country": "United Kingdom",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "price_usd": 15,
+    "source": "https://shop.pimoroni.com/en-us/products/pmw3901-optical-flow-sensor-breakout",
+    "source_confidence": "manufacturer",
+    "interface": "SPI",
+    "protocol": [
+      "SPI raw"
+    ],
+    "flow_sensor_chip": "PMW3901 (PixArt, Taiwan)",
+    "rangefinder": false,
+    "weight_g": 2,
+    "firmware_compat": [
+      "Custom / Raspberry Pi / Python"
+    ],
+    "px4_support": false,
+    "ardupilot_support": false,
+    "inav_support": false,
+    "description": "UK-made dev/maker board. Not a UAV flight controller module \u2014 requires custom code (Python library provided). Good for prototyping on Raspberry Pi companion computers. No rangefinder.",
+    "tags": [
+      "uk",
+      "developer",
+      "raspberry-pi",
+      "spi",
+      "maker",
+      "prototype"
+    ],
+    "category": "optical_flow"
+  },
+  {
+    "pid": "OF-1015",
+    "name": "ARK Pi6X Flow \u2014 FC + Integrated Optical Flow Bundle",
+    "manufacturer": "ARK Electronics",
+    "manufacturer_country": "USA",
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "price_usd": 399,
+    "source": "https://arkelectron.com/product/ark-pi6x-flow/",
+    "source_confidence": "manufacturer",
+    "interface": "Integrated (on-board)",
+    "protocol": [
+      "DroneCAN internal"
+    ],
+    "flow_sensor_chip": "ARK Flow (PMW3901-class, integrated)",
+    "rangefinder": true,
+    "description": "All-in-one NDAA-compliant flight controller stack: ARKV6X FC + Pi CM4 carrier + ARK Flow sensors integrated on one board. Eliminates separate flow module. USA-made.",
+    "ndaa_note": "Fully NDAA compliant. Made in USA.",
+    "tags": [
+      "ndaa",
+      "usa-made",
+      "integrated",
+      "flight-controller",
+      "bundle",
+      "pi-cm4"
+    ],
+    "category": "optical_flow"
   }
 ]

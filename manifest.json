@@ -11,6 +11,10 @@
       "file": "parts/ai_accelerators.json",
       "count": 14
     },
+    "airspeed_sensors": {
+      "file": "parts/airspeed_sensors.json",
+      "count": 9
+    },
     "antennas": {
       "file": "parts/antennas.json",
       "count": 394
@@ -93,7 +97,7 @@
     },
     "lidar_rangefinders": {
       "file": "parts/lidar_rangefinders.json",
-      "count": 13
+      "count": 42
     },
     "mesh_radios": {
       "file": "parts/mesh_radios.json",
@@ -109,11 +113,11 @@
     },
     "navigation_pnt": {
       "file": "parts/navigation_pnt.json",
-      "count": 12
+      "count": 19
     },
     "optical_flow": {
       "file": "parts/optical_flow.json",
-      "count": 7
+      "count": 16
     },
     "payload_droppers": {
       "file": "parts/payload_droppers.json",
@@ -122,6 +126,10 @@
     "platform_images": {
       "file": "parts/platform_images.json",
       "count": 0
+    },
+    "power_modules": {
+      "file": "parts/power_modules.json",
+      "count": 8
     },
     "propellers": {
       "file": "parts/propellers.json",
@@ -135,6 +143,10 @@
       "file": "parts/receivers.json",
       "count": 391
     },
+    "remote_id": {
+      "file": "parts/remote_id.json",
+      "count": 7
+    },
     "sensors": {
       "file": "parts/sensors.json",
       "count": 40
@@ -146,6 +158,10 @@
     "swarm_software": {
       "file": "parts/swarm_software.json",
       "count": 10
+    },
+    "telemetry_radios": {
+      "file": "parts/telemetry_radios.json",
+      "count": 9
     },
     "thermal_cameras": {
       "file": "parts/thermal_cameras.json",
@@ -167,5 +183,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 3968
+  "total_parts": 4046
 }
