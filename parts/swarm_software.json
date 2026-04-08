@@ -43,7 +43,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "China"
+    "origin": "China",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0002",
@@ -75,7 +77,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0003",
@@ -107,7 +111,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0004",
@@ -154,7 +160,9 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0005",
@@ -314,7 +322,9 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0006",
@@ -451,7 +461,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0007",
@@ -488,7 +500,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0008",
@@ -524,7 +538,9 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0009",
@@ -580,7 +596,9 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "SWR-0010",
@@ -882,6 +900,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   }
 ]

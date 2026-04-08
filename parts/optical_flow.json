@@ -31,7 +31,9 @@
       "ardupilot",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1001",
@@ -66,7 +68,9 @@
       "mid-range",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1002",
@@ -101,7 +105,9 @@
       "lightweight",
       "micro"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1003",
@@ -133,7 +139,9 @@
       "ardupilot",
       "china-caution"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1004",
@@ -169,7 +177,9 @@
       "usa"
     ],
     "price_note": "OEM/custom pricing \u2014 contact manufacturer",
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1005",
@@ -203,7 +213,9 @@
       "inav",
       "hobbyist"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "OF-1006",
@@ -235,6 +247,8 @@
       "dji",
       "reference-only"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": null,
+    "source_needed": true
   }
 ]

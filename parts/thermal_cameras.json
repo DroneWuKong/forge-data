@@ -2210,7 +2210,9 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated payload for Sentaero universal housing"
+    "notes": "Integrated payload for Sentaero universal housing",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3201",
@@ -2222,7 +2224,9 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated for Sentaero universal payload housing"
+    "notes": "Integrated for Sentaero universal payload housing",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "TCAM-0045",

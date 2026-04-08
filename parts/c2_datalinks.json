@@ -664,7 +664,9 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3207",
@@ -676,7 +678,9 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3208",
@@ -687,7 +691,9 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Primary C2 for BVLOS. Range dependent on cellular coverage."
+    "notes": "Primary C2 for BVLOS. Range dependent on cellular coverage.",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3209",
@@ -699,7 +705,9 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Forward-facing EO + ADS-B. Required for BVLOS waivers."
+    "notes": "Forward-facing EO + ADS-B. Required for BVLOS waivers.",
+    "source": null,
+    "source_needed": true
   },
   {
     "pid": "CAT-3210",
@@ -710,6 +718,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": null,
+    "source_needed": true
   }
 ]
