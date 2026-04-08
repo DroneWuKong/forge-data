@@ -2210,7 +2210,8 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated payload for Sentaero universal housing"
+    "notes": "Integrated payload for Sentaero universal housing",
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3201",
@@ -2222,7 +2223,8 @@
       "Censys Sentaero 5",
       "Censys Sentaero 6"
     ],
-    "notes": "Integrated for Sentaero universal payload housing"
+    "notes": "Integrated for Sentaero universal payload housing",
+    "source": "https://workswell-thermal-camera.com/wiris-pro"
   },
   {
     "pid": "TCAM-0045",
