@@ -43,7 +43,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "China"
+    "origin": "China",
+    "source": "https://skybrush.io"
   },
   {
     "pid": "SWR-0002",
@@ -75,7 +76,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://skybrush.io/products/live"
   },
   {
     "pid": "SWR-0003",
@@ -107,7 +109,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://skybrush.io/products/studio"
   },
   {
     "pid": "SWR-0004",
@@ -154,7 +157,8 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": "https://github.com/alireza787b/mavsdk-drone-show"
   },
   {
     "pid": "SWR-0005",
@@ -314,7 +318,8 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": "https://github.com/pfeinsper/drone-swarm-search"
   },
   {
     "pid": "SWR-0006",
@@ -451,7 +456,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://github.com/koesan"
   },
   {
     "pid": "SWR-0007",
@@ -488,7 +494,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://github.com/micros-uav/CoFlyers"
   },
   {
     "pid": "SWR-0008",
@@ -524,7 +531,8 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://imrclab.github.io/crazyswarm2"
   },
   {
     "pid": "SWR-0009",
@@ -580,7 +588,8 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": null
+    "ndaa_compliant": null,
+    "source": "https://github.com/capstone-insper"
   },
   {
     "pid": "SWR-0010",
@@ -882,6 +891,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://openipc.org/fpv"
   }
 ]

@@ -31,7 +31,8 @@
       "ardupilot",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": "https://arkelectron.com/product/ark-flow"
   },
   {
     "pid": "OF-1001",
@@ -66,7 +67,8 @@
       "mid-range",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": "https://arkelectron.com/product/ark-flow-mr"
   },
   {
     "pid": "OF-1002",
@@ -101,7 +103,8 @@
       "lightweight",
       "micro"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "source": "https://docs.cubepilot.org/user-guides/flow-sensor/here-flow"
   },
   {
     "pid": "OF-1003",
@@ -133,7 +136,8 @@
       "ardupilot",
       "china-caution"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": "https://holybro.com/products/h-flow"
   },
   {
     "pid": "OF-1004",
@@ -169,7 +173,8 @@
       "usa"
     ],
     "price_note": "OEM/custom pricing \u2014 contact manufacturer",
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "source": "https://centeye.com"
   },
   {
     "pid": "OF-1005",
@@ -203,7 +208,8 @@
       "inav",
       "hobbyist"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.mateksys.com/?portfolio=3901-l0x"
   },
   {
     "pid": "OF-1006",
@@ -235,6 +241,7 @@
       "dji",
       "reference-only"
     ],
-    "origin": "China"
+    "origin": "China",
+    "source": "https://www.dji.com/o3-air-unit"
   }
 ]

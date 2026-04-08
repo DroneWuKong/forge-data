@@ -678,7 +678,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3212",
@@ -689,7 +690,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3213",
@@ -700,7 +702,8 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   },
   {
     "pid": "CAT-3214",
@@ -710,6 +713,7 @@
     "compatible_platforms": [
       "Censys Sentaero 5",
       "Censys Sentaero 6"
-    ]
+    ],
+    "source": "https://www.censys-tech.com/sentaero"
   }
 ]
