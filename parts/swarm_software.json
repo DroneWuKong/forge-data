@@ -68,7 +68,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
@@ -101,7 +101,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
@@ -157,7 +157,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "source": "https://github.com/alireza787b/mavsdk-drone-show",
     "manufacturer_country": "USA"
   },
@@ -319,7 +319,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "source": "https://github.com/pfeinsper/drone-swarm-search"
   },
   {
@@ -449,7 +449,7 @@
     "approx_price": 0,
     "ndaa_note": "Origin unclear. Verify.",
     "manufacturer_country": "Ukraine",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "tags": [
       "ndaa",
       "ukraine"
@@ -486,7 +486,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "MICROS Lab, ENAC (French civil aviation school), Toulouse, France. EU/NATO. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -523,7 +523,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "IMRC Lab, University of Southern California, Los Angeles CA. US academic. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -589,7 +589,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "source": "https://github.com/capstone-insper"
   },
   {
@@ -883,7 +883,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Italy",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "OpenIPC, Italy-based community. EU/NATO allied-nation. NDAA compliant.",
     "tags": [
       "ndaa",

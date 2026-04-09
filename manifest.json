@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-09",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 261
@@ -61,7 +61,7 @@
     },
     "flight_controllers": {
       "file": "parts/flight_controllers.json",
-      "count": 327
+      "count": 328
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
@@ -183,5 +183,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4046
+  "total_parts": 4047
 }
