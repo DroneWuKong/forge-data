@@ -258,7 +258,9 @@
         ]
       }
     ],
-    "source": "internal_archetype"
+    "source": "internal_archetype",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "BG-1001",
@@ -520,7 +522,9 @@
         ]
       }
     ],
-    "source": "internal_archetype"
+    "source": "internal_archetype",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "BG-1002",
@@ -740,6 +744,8 @@
         ]
       }
     ],
-    "source": "internal_archetype"
+    "source": "internal_archetype",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   }
 ]
