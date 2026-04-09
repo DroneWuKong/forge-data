@@ -39,7 +39,8 @@
       "indoor",
       "pixhawk"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "USA"
   },
   {
     "pid": "OF-1001",
@@ -80,7 +81,8 @@
       "gps-denied",
       "pixhawk"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "USA"
   },
   {
     "pid": "OF-1002",
@@ -120,7 +122,8 @@
       "gps-denied",
       "imu-integrated"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "USA"
   },
   {
     "pid": "OF-1003",
@@ -160,14 +163,15 @@
       "icm42688",
       "gps-denied"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "China"
   },
   {
     "pid": "OF-1004",
     "name": "Centeye Vision Chip Suite \u2014 Neuromorphic Optical Flow",
     "manufacturer": "Centeye",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": null,
     "source": "https://centeye.com",
@@ -186,7 +190,8 @@
       "advanced",
       "low-texture"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1005",
@@ -228,7 +233,8 @@
       "betaflight",
       "gps-denied"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "China"
   },
   {
     "pid": "OF-1006",
@@ -255,7 +261,8 @@
       "proprietary",
       "non-compliant"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "China"
   },
   {
     "pid": "OF-1007",
@@ -291,14 +298,15 @@
       "pmw3901",
       "no-rangefinder"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "China"
   },
   {
     "pid": "OF-1008",
     "name": "Bitcraze Flow Deck V2 \u2014 PMW3901 + VL53L1X",
     "manufacturer": "Bitcraze",
     "manufacturer_country": "Sweden",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 35,
     "source": "https://store.bitcraze.io/products/flow-deck-v2",
@@ -329,14 +337,15 @@
       "nano",
       "tof"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1009",
     "name": "MicoAir MTF-01 \u2014 Optical Flow + 3m LiDAR",
     "manufacturer": "MicoAir Technology",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 22,
     "source": "https://micoair.com/optical_range_sensor_mtf-01/",
@@ -372,14 +381,15 @@
       "msp",
       "gps-denied"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1010",
     "name": "MicoAir MTF-02P \u2014 Optical Flow + 6m LiDAR",
     "manufacturer": "MicoAir Technology",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 32,
     "source": "https://micoair.com/optical_range_sensor_mtf-02p/",
@@ -418,14 +428,15 @@
       "msp",
       "gps-denied"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1011",
     "name": "ThoneFlow-3901U \u2014 PMW3901 UART Breakout",
     "manufacturer": "Thone / Triton",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 18,
     "source": "https://docs.px4.io/main/en/sensor/pmw3901",
@@ -453,14 +464,15 @@
       "no-rangefinder",
       "px4-verified"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1012",
     "name": "AlienTek ATK-PMW3901 \u2014 PMW3901 SPI/I2C",
     "manufacturer": "AlienTek (\u6b63\u70b9\u539f\u5b50)",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 15,
     "source": "https://docs.px4.io/main/en/sensor/pmw3901",
@@ -488,7 +500,8 @@
       "pmw3901",
       "diy"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1013",
@@ -526,14 +539,15 @@
       "lucas-kanade",
       "mt9v034"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "China"
   },
   {
     "pid": "OF-1014",
     "name": "Pimoroni PMW3901 Breakout \u2014 SPI",
     "manufacturer": "Pimoroni",
     "manufacturer_country": "United Kingdom",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "price_usd": 15,
     "source": "https://shop.pimoroni.com/en-us/products/pmw3901-optical-flow-sensor-breakout",
@@ -560,7 +574,8 @@
       "maker",
       "prototype"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "Unknown"
   },
   {
     "pid": "OF-1015",
@@ -588,6 +603,7 @@
       "bundle",
       "pi-cm4"
     ],
-    "category": "optical_flow"
+    "category": "optical_flow",
+    "origin": "USA"
   }
 ]
