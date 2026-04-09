@@ -1136,7 +1136,7 @@
       "weight_g": 12
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 47,
@@ -2772,7 +2772,7 @@
       "weight_g": 13
     },
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 45,
@@ -5429,7 +5429,7 @@
       "weight_g": 18
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 44,
@@ -5564,7 +5564,7 @@
       "weight_g": 21
     },
     "continuous_current_a": 40,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 37,
@@ -6950,7 +6950,7 @@
       "weight_g": 9
     },
     "continuous_current_a": 46,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 48,
@@ -8097,7 +8097,7 @@
       "weight_g": 17
     },
     "continuous_current_a": 45,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 48,
@@ -8711,7 +8711,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 49,
@@ -8833,7 +8833,7 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 46,
@@ -8898,7 +8898,7 @@
       "weight_g": 6
     },
     "continuous_current_a": 25,
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 41,
@@ -9133,7 +9133,7 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 46,
@@ -9554,7 +9554,7 @@
       "weight_g": 21
     },
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 40,
@@ -9598,7 +9598,7 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Australia",
     "price_usd": 54,
@@ -9643,7 +9643,7 @@
     "schema_data": {
       "weight_g": 19
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Australia",
     "price_usd": 40,
@@ -9774,7 +9774,7 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Unknown",
     "price_usd": 47,
@@ -9813,7 +9813,7 @@
     "approx_price": 36.59,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 36.59,
@@ -9849,7 +9849,7 @@
     "approx_price": 38.78,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 55,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 38.78,
@@ -9885,7 +9885,7 @@
     "approx_price": 38.78,
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 60,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 38.78,
@@ -9922,7 +9922,7 @@
     "description": "ESC by 603700. A continuous. firmware. mounting.",
     "continuous_current_a": 80,
     "cell_count_max": 8,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 62.93,
@@ -10251,7 +10251,7 @@
     "description": "ESC by. A continuous. firmware. mounting.",
     "continuous_current_a": 65,
     "cell_count_max": 6,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 68.78,
