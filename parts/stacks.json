@@ -3231,7 +3231,7 @@
     "schema_data": {
       "weight_g": 21
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 62,
@@ -6839,7 +6839,7 @@
     ],
     "approx_price": 62.93,
     "description": "FC+ESC stack by 603700. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 62.93,
@@ -6873,7 +6873,7 @@
     ],
     "approx_price": 65.12,
     "description": "FC+ESC stack by 603700. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 65.12,
@@ -6907,7 +6907,7 @@
     ],
     "approx_price": 53.66,
     "description": "FC+ESC stack by 603700. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 53.66,
@@ -6941,7 +6941,7 @@
     ],
     "approx_price": 47.56,
     "description": "FC+ESC stack by 603700. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 47.56,
@@ -6975,7 +6975,7 @@
     ],
     "approx_price": 56.51,
     "description": "FC+ESC stack by VYRIY. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 56.51,
@@ -7077,7 +7077,7 @@
     ],
     "approx_price": 70.73,
     "description": "FC+ESC stack by Karma Flights. FC + A ESC.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 70.73,
@@ -7474,6 +7474,7 @@
       "Croatia"
     ],
     "ndaa_compliant": true,
-    "manufacturing_country": "Croatia (EU)"
+    "manufacturing_country": "Croatia (EU)",
+    "origin": "Croatia"
   }
 ]
