@@ -2,7 +2,7 @@
   "database_meta": {
     "name": "AI Wingman Forge \u2014 Platform Database",
     "description": "Merged platform data for the Forge build planner.",
-    "last_updated": "2026-04-08",
+    "last_updated": "2026-04-09",
     "platform_count": 261,
     "sources": [
       "data/parts-db/drone_models.json",
@@ -99,7 +99,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Analog 5.8GHz FPV camera (e.g., Runcam Phoenix 2)",
@@ -119,7 +119,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\")",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1001",
@@ -204,7 +205,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Analog 5.8GHz FPV camera, low-latency",
@@ -224,7 +225,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\" race)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1002",
@@ -305,7 +307,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Walksnail Avatar HD Pro 1080p digital FPV",
@@ -325,7 +327,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\" HD)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1003",
@@ -410,7 +413,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Digital FPV (DJI O3 Air Unit or Walksnail)",
@@ -430,7 +433,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 7\" LR)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1004",
@@ -515,7 +519,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Digital FPV",
@@ -535,7 +539,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 6\" LR)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1005",
@@ -620,7 +625,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "HD FPV + GoPro/cinema camera mount",
@@ -640,7 +645,8 @@
       "group": 1,
       "propulsion": "Electric quad (10\" cinelifter)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1006",
@@ -725,7 +731,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "DJI O3 Air Unit digital FPV",
@@ -745,7 +751,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\")",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1007",
@@ -826,7 +833,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Analog FPV camera",
@@ -846,7 +853,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\")",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1008",
@@ -931,7 +939,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Digital FPV + stabilized action camera",
@@ -951,7 +959,8 @@
       "group": 1,
       "propulsion": "Electric quad (7\" cinema)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1009",
@@ -1036,7 +1045,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Analog FPV camera",
@@ -1056,7 +1065,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV 5\" power)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1010",
@@ -1141,7 +1151,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Digital FPV (DJI/Walksnail)",
@@ -1161,7 +1171,8 @@
       "group": 1,
       "propulsion": "Electric quad (7\" ultra LR)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-1011",
@@ -1246,7 +1257,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "specs": {
           "video_system": "Digital FPV",
@@ -1266,7 +1277,8 @@
       "group": 1,
       "propulsion": "Electric quad (6\" digital LR)",
       "source": "internal_archetype",
-      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only."
+      "source_note": "Generic build archetype \u2014 no real manufacturer. For reference only.",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2000",
@@ -1352,7 +1364,8 @@
       "propulsion": "Electric quad",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/DJI_Matrice_350_RTK_%28cropped%29.jpg/640px-DJI_Matrice_350_RTK_%28cropped%29.jpg",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2001",
@@ -1439,7 +1452,8 @@
       "note": "Thermal + zoom integrated.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DJI_Matrice_30.jpg/640px-DJI_Matrice_30.jpg",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2002",
@@ -1451,7 +1465,7 @@
       "pdf_file": "",
       "platform_category": "cots",
       "manufacturer": "Autel Robotics",
-      "ndaa_compliant": "XE variant only",
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -1529,7 +1543,8 @@
       "mtow_kg": 1.5,
       "propulsion": "Electric quad",
       "source": "https://www.autelrobotics.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2003",
@@ -1652,7 +1667,8 @@
       "propulsion": "Electric quad",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skydio_X10.png/640px-Skydio_X10.png",
       "source": "https://www.skydio.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2004",
@@ -1758,7 +1774,8 @@
         "blue-uas"
       ],
       "source": "https://freeflysystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2005",
@@ -1770,7 +1787,7 @@
       "pdf_file": "",
       "platform_category": "blue_uas",
       "manufacturer": "Inspired Flight Technologies",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "ArduPilot",
       "mavlink_support": true,
@@ -1853,7 +1870,8 @@
       "group": 2,
       "propulsion": "Electric hex",
       "source": "https://inspiredflight.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2006",
@@ -1865,7 +1883,7 @@
       "pdf_file": "",
       "platform_category": "blue_uas",
       "manufacturer": "Teal Drones / Red Cat Holdings",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": true,
@@ -1958,7 +1976,8 @@
       "group": 1,
       "propulsion": "Electric quad",
       "source": "https://www.tealuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2007",
@@ -1970,7 +1989,7 @@
       "pdf_file": "",
       "platform_category": "blue_uas",
       "manufacturer": "Parrot",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -2047,7 +2066,8 @@
       "propulsion": "Electric quad",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Parrot_ANAFI_USA.jpg/640px-Parrot_ANAFI_USA.jpg",
       "source": "https://www.parrot.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2008",
@@ -2059,7 +2079,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Anduril Industries",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Anduril Lattice",
       "mavlink_support": false,
@@ -2152,7 +2172,8 @@
       "group": 2,
       "propulsion": "Electric quad",
       "source": "https://www.anduril.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2009",
@@ -2223,7 +2244,8 @@
       "propulsion": "Electric quad",
       "note": "Dev kit / reference platform.",
       "source": "https://holybro.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2010",
@@ -2303,7 +2325,8 @@
       "propulsion": "Electric quad coaxial",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DJI_T50.png/640px-DJI_T50.png",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2011",
@@ -2382,7 +2405,8 @@
       "mtow_kg": 65,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2012",
@@ -2392,7 +2416,7 @@
       "build_class": "confined_space",
       "platform_category": "cots",
       "manufacturer": "Flyability",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -2474,7 +2498,8 @@
       "note": "Collision-tolerant. Confined space inspection.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Elios_3_front_transparent.png/640px-Elios_3_front_transparent.png",
       "source": "https://www.flyability.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2013",
@@ -2484,7 +2509,7 @@
       "build_class": "mapping",
       "platform_category": "blue_uas",
       "manufacturer": "Wingtra",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": true,
@@ -2566,7 +2591,8 @@
       "propulsion": "Electric VTOL fixed-wing",
       "note": "Survey/mapping. 42MP camera.",
       "source": "https://wingtra.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2014",
@@ -2576,7 +2602,7 @@
       "build_class": "agriculture",
       "platform_category": "cots",
       "manufacturer": "XAG",
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -2639,7 +2665,8 @@
       "mtow_kg": 79,
       "propulsion": "Electric coaxial",
       "note": "Agricultural sprayer.",
-      "source": "https://www.xa.com/en/p100pro"
+      "source": "https://www.xa.com/en/p100pro",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2015",
@@ -2649,7 +2676,7 @@
       "build_class": "agriculture",
       "platform_category": "cots",
       "manufacturer": "Hylio",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": true,
@@ -2717,7 +2744,8 @@
       "mtow_kg": 42,
       "propulsion": "Electric hex",
       "note": "Agricultural spraying. 22L tank.",
-      "source": "https://hylio.com/ag-272"
+      "source": "https://hylio.com/ag-272",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2016",
@@ -2727,7 +2755,7 @@
       "build_class": "mapping",
       "platform_category": "cots",
       "manufacturer": "senseFly/AgEagle",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -2792,7 +2820,8 @@
       "mtow_kg": 1.6,
       "propulsion": "Electric fixed-wing",
       "note": "Survey/mapping. Swiss-made.",
-      "source": "https://ageagle.com/drone-solutions/ebee-x"
+      "source": "https://ageagle.com/drone-solutions/ebee-x",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2017",
@@ -2802,7 +2831,7 @@
       "build_class": "mapping",
       "platform_category": "cots",
       "manufacturer": "Quantum Systems",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "proprietary",
       "mavlink_support": true,
@@ -2908,7 +2937,8 @@
       "mtow_kg": 5.2,
       "propulsion": "Electric VTOL fixed-wing",
       "source": "https://www.quantum-systems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2018",
@@ -2985,7 +3015,8 @@
       "propulsion": "Electric quad",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DJI_Mavic_3_Enterprise.jpg/640px-DJI_Mavic_3_Enterprise.jpg",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2019",
@@ -2995,7 +3026,7 @@
       "build_class": "tethered",
       "platform_category": "tactical",
       "manufacturer": "Hoverfly Technologies",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -3067,7 +3098,8 @@
       "propulsion": "Electric tethered",
       "note": "Tethered \u2014 unlimited endurance (8+ hrs rated)",
       "source": "https://hoverflytech.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2020",
@@ -3077,7 +3109,7 @@
       "build_class": "tactical_indoor",
       "platform_category": "tactical",
       "manufacturer": "Shield AI",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Hivemind",
       "mavlink_support": false,
@@ -3154,7 +3186,8 @@
       "group": 1,
       "propulsion": "Electric quad",
       "source": "https://shield.ai",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2021",
@@ -3164,7 +3197,7 @@
       "build_class": "tactical_fpv",
       "platform_category": "tactical",
       "manufacturer": "Neros Technologies",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": false,
@@ -3229,7 +3262,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric quad",
       "source": "https://nerostechnologies.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2022",
@@ -3239,7 +3273,7 @@
       "build_class": "enterprise_blue_uas",
       "platform_category": "blue_uas",
       "manufacturer": "Ascent Aerosystems",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "proprietary",
       "mavlink_support": true,
@@ -3311,7 +3345,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric coaxial",
       "source": "https://www.ascentaerosystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2023",
@@ -3323,7 +3358,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Skycutter",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -3403,7 +3438,8 @@
       "mtow_kg": 12,
       "propulsion": "Electric fixed-wing",
       "note": "Fiber-optic link. EW-immune.",
-      "source": "https://skycutteruas.co.uk"
+      "source": "https://skycutteruas.co.uk",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2024",
@@ -3415,7 +3451,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Red Cat Holdings",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Brave F7 (STM32 F722, BMI270 Gyro, BMP390 Barometer)",
       "mavlink_support": false,
@@ -3499,7 +3535,8 @@
       "mtow_kg": 0.8,
       "group": 1,
       "propulsion": "Electric quad (FPV)",
-      "source": "https://redcat.red/fang"
+      "source": "https://redcat.red/fang",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2025",
@@ -3596,7 +3633,8 @@
       "mtow_kg": 0.6,
       "group": 1,
       "propulsion": "Electric quad (FPV)",
-      "source": "https://modalai.com"
+      "source": "https://modalai.com",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2026",
@@ -3698,7 +3736,8 @@
       "group": 1,
       "propulsion": "Electric quad (FPV)",
       "source": "https://www.modalai.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2027",
@@ -3710,7 +3749,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Renegade UxS",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -3786,7 +3825,8 @@
       "max_endurance_min": 15,
       "mtow_kg": 3,
       "propulsion": "Electric FPV",
-      "source": "https://renegadeuxs.com"
+      "source": "https://renegadeuxs.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2028",
@@ -3798,7 +3838,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Performance Drone Works",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "PDW proprietary (MOSA)",
       "mavlink_support": false,
@@ -3893,7 +3933,8 @@
       "max_endurance_min": 40,
       "mtow_kg": 6,
       "propulsion": "Electric quad",
-      "source": "https://pdw.ai"
+      "source": "https://pdw.ai",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2029",
@@ -3905,7 +3946,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Titan Dynamics",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -3973,7 +4014,8 @@
       "mtow_kg": 6.0,
       "group": 1,
       "propulsion": "Electric quad",
-      "source": "https://titandynamics.aero"
+      "source": "https://titandynamics.aero",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2030",
@@ -3985,7 +4027,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Vantage Robotics",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -4062,7 +4104,8 @@
       "max_endurance_min": 30,
       "mtow_kg": 2,
       "propulsion": "Electric quad",
-      "source": "https://vantagerobotics.com"
+      "source": "https://vantagerobotics.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2031",
@@ -4074,7 +4117,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Vantage Robotics",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -4154,7 +4197,8 @@
       "mtow_kg": 1,
       "propulsion": "Electric quad",
       "source": "https://vantage.it",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2032",
@@ -4166,7 +4210,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Zone 5 Technologies",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -4240,7 +4284,8 @@
       "max_endurance_min": 35,
       "mtow_kg": 5,
       "propulsion": "Electric quad",
-      "source": "https://zone5tech.com"
+      "source": "https://zone5tech.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2033",
@@ -4252,7 +4297,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Shield AI",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Hivemind (Shield AI)",
       "mavlink_support": false,
@@ -4351,7 +4396,8 @@
       "group": 3,
       "propulsion": "JP-8 ducted fan VTOL",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/V-BAT_128_%28cropped%29.jpg/640px-V-BAT_128_%28cropped%29.jpg",
-      "source": "https://shield.ai/v-bat"
+      "source": "https://shield.ai/v-bat",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2034",
@@ -4363,7 +4409,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Quantum Systems",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Quantum-Skynode (PX4-derived)",
       "mavlink_support": true,
@@ -4472,7 +4518,8 @@
       "mtow_kg": 7.0,
       "propulsion": "Electric VTOL fixed-wing",
       "note": "AI-enabled ISR.",
-      "source": "https://quantum-systems.com"
+      "source": "https://quantum-systems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2035",
@@ -4484,7 +4531,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "AeroVironment",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "AV proprietary (AV_Halo)",
       "mavlink_support": false,
@@ -4573,7 +4620,8 @@
       "propulsion": "Electric tube-launched",
       "note": "Updated Block 20 with enhanced seeker.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Switchblade_300.jpg/640px-Switchblade_300.jpg",
-      "source": "https://www.avinc.com/lms/switchblade"
+      "source": "https://www.avinc.com/lms/switchblade",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2036",
@@ -4585,7 +4633,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "AeroVironment",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "AV proprietary (AV_Halo)",
       "mavlink_support": false,
@@ -4686,7 +4734,8 @@
       "note": "Anti-armor loitering munition",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AeroVironment_Switchblade_600.jpg/640px-AeroVironment_Switchblade_600.jpg",
       "source": "https://www.avinc.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2037",
@@ -4698,7 +4747,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "AeroVironment",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "AV proprietary (AV_Halo)",
       "mavlink_support": false,
@@ -4775,7 +4824,8 @@
       "propulsion": "Electric tube-launched",
       "note": "Between 300 and 600. Anti-vehicle.",
       "source": "https://www.avinc.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2038",
@@ -4787,7 +4837,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Anduril Industries",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Anduril Lattice",
       "mavlink_support": false,
@@ -4875,7 +4925,8 @@
       "mtow_kg": 7,
       "propulsion": "Electric quad",
       "note": "FPV-class loitering munition. AI-guided.",
-      "source": "https://www.anduril.com/bolt"
+      "source": "https://www.anduril.com/bolt",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2039",
@@ -4887,7 +4938,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Teledyne FLIR Defense",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -4972,7 +5023,8 @@
       "mtow_kg": 1.5,
       "propulsion": "Electric quad",
       "note": "Backpackable ISR.",
-      "source": "https://www.flir.com/products/rogue-1"
+      "source": "https://www.flir.com/products/rogue-1",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2040",
@@ -4984,7 +5036,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "GreenSight",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -5053,7 +5105,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric quad",
       "source": "https://greensightag.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2041",
@@ -5065,7 +5118,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Thunder Tiger Corporation",
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -5124,7 +5177,8 @@
       "propulsion": "Electric FPV",
       "note": "Taiwanese. FPV racer.",
       "source": "https://www.thundertiger.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2042",
@@ -5136,7 +5190,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "Zepher Flight Labs",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -5194,7 +5248,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric quad",
       "source": "https://zepherflight.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2043",
@@ -5206,7 +5261,7 @@
       "pdf_file": "",
       "platform_category": "tactical",
       "manufacturer": "SkyTech Orion Global",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "Proprietary",
       "mavlink_support": false,
@@ -5280,7 +5335,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric quad",
       "source": "https://skytechorion.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0001",
@@ -5359,7 +5415,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "USA",
@@ -5382,7 +5438,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric quad",
       "source": "https://nerostechnologies.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0002",
@@ -5438,7 +5495,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "DDG Phase I winner. 20km fiber spool. Zero RF emissions."
@@ -5470,7 +5527,8 @@
       "max_endurance_min": 60,
       "mtow_kg": 12,
       "propulsion": "Electric fixed-wing",
-      "source": "https://skycutter.co.uk"
+      "source": "https://skycutter.co.uk",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0003",
@@ -5538,7 +5596,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": true,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "platform_category": "tactical",
       "industry_data": {
         "compliance": {
@@ -5601,7 +5659,8 @@
       "mtow_kg": 6,
       "propulsion": "Electric quad",
       "source": "https://www.performancedroneworks.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0004",
@@ -5670,7 +5729,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": true,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Tethered = unlimited flight. 150ft tether."
@@ -5697,7 +5756,8 @@
       "mtow_kg": 8,
       "propulsion": "Electric tethered",
       "source": "https://hoverflytech.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0005",
@@ -5756,7 +5816,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "platform_category": "tactical",
       "industry_data": {
         "compliance": {
@@ -5787,7 +5847,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric quad",
       "source": "https://skytechorion.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0006",
@@ -5840,7 +5901,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "German AI defense company. \u20ac400M+ funding. Ukraine deployed."
@@ -5874,7 +5935,8 @@
       "propulsion": "Electric fixed-wing",
       "note": "German AI-guided loitering munition. Ukraine deployed.",
       "source": "https://helsing.ai",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0007",
@@ -5925,7 +5987,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Estonia",
@@ -5950,7 +6012,8 @@
       "propulsion": "Electric quad",
       "note": "German. Modular payload.",
       "source": "https://www.starkdefence.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0008",
@@ -5999,7 +6062,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Rheinmetall German defense. LUNA NG = 12hr endurance. Bundeswehr HUSAR program."
@@ -6033,7 +6096,8 @@
       "propulsion": "Electric motor",
       "note": "Catapult-launched tactical ISR. German.",
       "source": "https://www.rheinmetall.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0009",
@@ -6088,7 +6152,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Duplicate \u2014 see Hero Loitering Munition Family."
@@ -6115,7 +6179,8 @@
       "propulsion": "Various",
       "note": "EU-licensed production.",
       "source": "https://uvisionuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0010",
@@ -6169,7 +6234,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "French. KNDS defense partnership."
@@ -6197,7 +6262,8 @@
       "propulsion": "Electric fixed-wing",
       "note": "French tactical ISR. KNDS defense partner.",
       "source": "https://delair.aero",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0011",
@@ -6248,7 +6314,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "French MALE UAS. 20hr endurance. French Army SDT program."
@@ -6287,7 +6353,8 @@
       "mtow_kg": 1050,
       "wingspan_m": 18,
       "propulsion": "Rotax 914 (115hp)",
-      "source": "https://www.safran-group.com/products/patroller-tactical-uas"
+      "source": "https://www.safran-group.com/products/patroller-tactical-uas",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0012",
@@ -6337,7 +6404,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "French micro UAS. Deployed by French Army."
@@ -6377,7 +6444,8 @@
       "mtow_kg": 1.3,
       "propulsion": "Electric quad",
       "note": "French micro tactical ISR.",
-      "source": "https://novadem.com"
+      "source": "https://novadem.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0013",
@@ -6432,7 +6500,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Portuguese. NATO maritime ISR. Frontex operations."
@@ -6477,7 +6545,8 @@
       "wingspan_m": 5.4,
       "propulsion": "Combustion (AR5)",
       "note": "Maritime ISR. 12hr endurance. SATCOM + SAR.",
-      "source": "https://www.tekever.com"
+      "source": "https://www.tekever.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0014",
@@ -6526,7 +6595,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "UK. BAE partnership. 150kg MTOW. Military logistics."
@@ -6553,7 +6622,8 @@
       "propulsion": "Electric quad",
       "note": "Heavy-lift cargo. BAE partnership.",
       "source": "https://malloyaeronautics.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0015",
@@ -6607,7 +6677,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Spain"
@@ -6630,7 +6700,8 @@
       "mtow_kg": 5,
       "propulsion": "Electric quad",
       "note": "Spanish. LiDAR SLAM-based.",
-      "source": "https://www.arquimea.com"
+      "source": "https://www.arquimea.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0016",
@@ -6681,7 +6752,7 @@
       "mavlink_support": true,
       "sdk_available": true,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Dutch. PX4/MAVLink. NDAA compliant."
@@ -6723,7 +6794,8 @@
       "mtow_kg": 7,
       "wingspan_m": 2.35,
       "propulsion": "Electric VTOL fixed-wing",
-      "source": "https://www.deltaquad.com"
+      "source": "https://www.deltaquad.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0017",
@@ -6774,7 +6846,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Swedish/Swiss. 5hr endurance. Naval ISR. 200kg class."
@@ -6801,7 +6873,8 @@
       "mtow_kg": 235,
       "propulsion": "Heavy-fuel engine",
       "note": "Unmanned helicopter. Maritime. Swedish.",
-      "source": "https://www.skeldar.com"
+      "source": "https://www.skeldar.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0018",
@@ -6847,7 +6920,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "France"
@@ -6870,7 +6943,8 @@
       "mtow_kg": 8,
       "propulsion": "Electric",
       "note": "Belgian loitering munition.",
-      "source": "https://www.alxsystems.com"
+      "source": "https://www.alxsystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0019",
@@ -6929,7 +7003,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine",
@@ -6952,7 +7026,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric FPV",
       "note": "Ukrainian FPV family.",
-      "source": "https://tafindustries.com"
+      "source": "https://tafindustries.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0020",
@@ -7004,7 +7079,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine",
@@ -7027,7 +7102,8 @@
       "mtow_kg": 5,
       "propulsion": "Electric FPV",
       "note": "Ukrainian FPV recon + strike.",
-      "source": "https://vyriy.com"
+      "source": "https://vyriy.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0021",
@@ -7083,7 +7159,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine",
@@ -7105,7 +7181,8 @@
       "max_endurance_min": 15,
       "mtow_kg": 4,
       "propulsion": "Electric FPV",
-      "source": "https://wildhornets.com.ua"
+      "source": "https://wildhornets.com.ua",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0022",
@@ -7156,7 +7233,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine"
@@ -7177,7 +7254,8 @@
       "max_endurance_min": 12,
       "mtow_kg": 3,
       "propulsion": "Electric FPV",
-      "source": "https://escadrone.fr"
+      "source": "https://escadrone.fr",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0023",
@@ -7235,7 +7313,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian ISR platform. 3hr endurance. Used extensively in war."
@@ -7267,7 +7345,8 @@
       "wingspan_m": 3.4,
       "propulsion": "Electric fixed-wing",
       "note": "ISR + laser designator. Combat-proven.",
-      "source": "https://ukrspecsystems.com"
+      "source": "https://ukrspecsystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0024",
@@ -7315,7 +7394,7 @@
       "mavlink_support": true,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian volunteer unit platform. Drops anti-tank munitions."
@@ -7343,7 +7422,8 @@
       "propulsion": "Electric octocopter",
       "note": "Modified DJI. Bomb drop. Combat icon.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aerorozvidka_R18_octocopter.jpg/640px-Aerorozvidka_R18_octocopter.jpg",
-      "source": "https://aerorozvidka.xyz"
+      "source": "https://aerorozvidka.xyz",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0025",
@@ -7395,7 +7475,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine",
@@ -7419,7 +7499,8 @@
       "wingspan_m": 2.3,
       "propulsion": "Electric fixed-wing",
       "note": "Strike drone. Carries 4 bombs.",
-      "source": "https://uadynamics.com"
+      "source": "https://uadynamics.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0026",
@@ -7472,7 +7553,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian long-range strike drone. 800+km range."
@@ -7498,7 +7579,8 @@
       "mtow_kg": 40,
       "propulsion": "Combustion engine",
       "note": "Ground attack. Bomb drop.",
-      "source": "https://ukrjet.com"
+      "source": "https://ukrjet.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0027",
@@ -7548,7 +7630,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian/Australian. 750km range. Cardboard/composite construction."
@@ -7574,7 +7656,8 @@
       "mtow_kg": 80,
       "propulsion": "Combustion engine",
       "note": "One-way attack. Jet-fuel powered. 750km range.",
-      "source": "https://terminalautonomy.com"
+      "source": "https://terminalautonomy.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0028",
@@ -7624,7 +7707,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian. 10hr endurance. 50kg MTOW."
@@ -7651,7 +7734,8 @@
       "mtow_kg": 25,
       "wingspan_m": 4.2,
       "propulsion": "Combustion fixed-wing",
-      "source": "https://skyeton.com"
+      "source": "https://skyeton.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0029",
@@ -7713,7 +7797,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Polish defense. Warmate: LM 4kg, 30min. FlyEye: ISR 3hr. Deployed Ukraine."
@@ -7760,7 +7844,8 @@
       "propulsion": "Electric",
       "note": "FlyEye: recon. Warmate: loitering munition.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Warmate_loitering_munition.jpg/640px-Warmate_loitering_munition.jpg",
-      "source": "https://www.wbelectronics.pl"
+      "source": "https://www.wbelectronics.pl",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0030",
@@ -7812,7 +7897,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Czech. 15hr endurance. 150kg MTOW."
@@ -7843,7 +7928,8 @@
       "wingspan_m": 4.9,
       "propulsion": "Combustion engine",
       "note": "Czech. 15hr endurance. Containerized GCS.",
-      "source": "https://primocouav.com"
+      "source": "https://primocouav.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0031",
@@ -7891,7 +7977,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Estonian. 2hr endurance."
@@ -7918,7 +8004,8 @@
       "mtow_kg": 7,
       "propulsion": "Electric VTOL fixed-wing",
       "note": "Estonian. Tactical ISR.",
-      "source": "https://threod.com"
+      "source": "https://threod.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0032",
@@ -7988,7 +8075,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Estonian company. NATO/EU aligned. Made in EU."
@@ -8022,7 +8109,8 @@
       "propulsion": "Electric quadcopter",
       "note": "Estonian.",
       "source": "https://krattworks.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0033",
@@ -8071,7 +8159,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "United Kingdom",
@@ -8095,7 +8183,8 @@
       "mtow_kg": 3.5,
       "propulsion": "Electric quad",
       "note": "Latvian. Modular payload.",
-      "source": "https://originrobotics.io"
+      "source": "https://originrobotics.io",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0034",
@@ -8156,7 +8245,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish MALE UCAV. 27hr endurance. 650kg MTOW. Combat-proven (Libya, Ukraine, Nagorno-Karabakh)."
@@ -8200,7 +8289,8 @@
       "propulsion": "Rotax 912 (100hp)",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bayraktar_TB2_at_Teknofest_Istanbul_2019_%284%29.jpg/640px-Bayraktar_TB2_at_Teknofest_Istanbul_2019_%284%29.jpg",
       "source": "https://www.baykarsavunma.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0035",
@@ -8252,7 +8342,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish HALE UCAV. 24hr endurance. 6000kg MTOW. SOM cruise missile capable."
@@ -8300,7 +8390,8 @@
       "propulsion": "2x AI-450T (450hp each)",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayraktar_Ak%C4%B1nc%C4%B1_S1_%281%29.jpg/640px-Bayraktar_Ak%C4%B1nc%C4%B1_S1_%281%29.jpg",
       "source": "https://www.baykarsavunma.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0036",
@@ -8354,7 +8445,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish unmanned fighter jet. AI-38 engine. Carrier-capable (TCG Anadolu)."
@@ -8388,7 +8479,8 @@
       "note": "Unmanned combat jet. Carrier-capable.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bayraktar_TB3_%282%29.jpg/640px-Bayraktar_TB3_%282%29.jpg",
       "source": "https://www.baykarsavunma.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0037",
@@ -8440,7 +8532,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Turkey",
@@ -8466,7 +8558,8 @@
       "note": "FPV-style loitering munition.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bayraktar_K%C4%B1z%C4%B1lelma_during_maiden_flight_%282%29.jpg/640px-Bayraktar_K%C4%B1z%C4%B1lelma_during_maiden_flight_%282%29.jpg",
       "source": "https://www.baykarsavunma.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0038",
@@ -8523,7 +8616,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish Aerospace. Anka-S: SATCOM. Aksungur: 24hr endurance."
@@ -8566,7 +8659,8 @@
       "mtow_kg": 1750,
       "wingspan_m": 17.5,
       "propulsion": "TEI PD-170 (170hp)",
-      "source": "https://www.tai.com.tr"
+      "source": "https://www.tai.com.tr",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0039",
@@ -8625,7 +8719,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish. Kargu-2 = first autonomous swarm attack (Libya 2020, per UN report)."
@@ -8665,7 +8759,8 @@
       "mtow_kg": 7,
       "propulsion": "Electric quad",
       "note": "Autonomous swarm loitering munition. AI target recognition.",
-      "source": "https://www.stm.com.tr"
+      "source": "https://www.stm.com.tr",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0040",
@@ -8721,7 +8816,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Turkish armed drone. Mounts machine guns, grenade launchers."
@@ -8748,7 +8843,8 @@
       "mtow_kg": 25,
       "propulsion": "Electric octocopter",
       "note": "Armed with 5.56mm MG or 40mm GL.",
-      "source": "https://asisguard.com"
+      "source": "https://asisguard.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0041",
@@ -8804,7 +8900,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli. Skylark I-LE: 3hr. 7.5kg. Used by 30+ countries."
@@ -8848,7 +8944,8 @@
       "wingspan_m": 3.1,
       "propulsion": "Electric",
       "source": "https://elbitsystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0042",
@@ -8900,7 +8997,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli indoor autonomous drone. Similar concept to Shield AI Nova."
@@ -8939,7 +9036,8 @@
       "propulsion": "Electric quad",
       "note": "Indoor autonomous recon. AI-driven CQB.",
       "source": "https://elbitsystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0043",
@@ -9001,7 +9099,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli. Harop: 9hr loiter, 23kg warhead. Harpy: anti-radar. Widely exported."
@@ -9041,7 +9139,8 @@
       "wingspan_m": 3.0,
       "propulsion": "Rotary engine",
       "note": "Harop: EO/IR seeker. Harpy: anti-radiation.",
-      "source": "https://www.iai.co.il/p/harop"
+      "source": "https://www.iai.co.il/p/harop",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0044",
@@ -9097,7 +9196,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli. Orbiter 1K = loitering munition. Orbiter 4 = medium ISR."
@@ -9131,7 +9230,8 @@
       "wingspan_m": 4.2,
       "propulsion": "Electric (Orbiter 3)",
       "note": "Orbiter 1K is loitering munition variant.",
-      "source": "https://aeronautics-sys.com"
+      "source": "https://aeronautics-sys.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0045",
@@ -9185,7 +9285,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli. Human-machine teaming. Used by IDF, USSOCOM. Lockheed partnership."
@@ -9238,7 +9338,8 @@
       "propulsion": "Electric quad",
       "note": "Indoor tactical. Human-machine teaming. Gesture/VR control.",
       "source": "https://xtend.me",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0046",
@@ -9293,7 +9394,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "UAE defense conglomerate. Shadow 25/50 VTOL ISR. Hunter loitering munition."
@@ -9320,7 +9421,8 @@
       "mtow_kg": 600,
       "propulsion": "Various (electric/combustion)",
       "note": "UAE family of tactical/MALE UAS.",
-      "source": "https://www.edgegroup.ae"
+      "source": "https://www.edgegroup.ae",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0047",
@@ -9384,7 +9486,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Iranian. Shahed-136/131 used by Russia in Ukraine. Low-cost mass-produced."
@@ -9411,7 +9513,8 @@
       "wingspan_m": 2.5,
       "propulsion": "Moped engine (Shahed-136)",
       "note": "One-way attack. Mass produced. Used by Russia in Ukraine.",
-      "source": "https://en.wikipedia.org/wiki/Shahed_136"
+      "source": "https://en.wikipedia.org/wiki/Shahed_136",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0048",
@@ -9469,7 +9572,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese MALE UCAV. Wing Loong II: 40hr endurance. MQ-9 competitor. 20+ export countries."
@@ -9500,7 +9603,8 @@
       "wingspan_m": 20.5,
       "operating_altitude_m": 9000,
       "propulsion": "Turboprop",
-      "source": "https://en.wikipedia.org/wiki/AVIC_Wing_Loong"
+      "source": "https://en.wikipedia.org/wiki/AVIC_Wing_Loong",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0049",
@@ -9561,7 +9665,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese. CH-4/CH-5. Major export to Middle East, Africa."
@@ -9591,7 +9695,8 @@
       "mtow_kg": 4100,
       "wingspan_m": 18,
       "propulsion": "Piston (CH-4), Turboprop (CH-5)",
-      "source": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      "source": "https://en.wikipedia.org/wiki/CASC_Rainbow",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0050",
@@ -9638,7 +9743,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese stealth UCAV. Flying wing design. Internal weapons bay."
@@ -9664,7 +9769,8 @@
       "max_endurance_min": 300,
       "mtow_kg": 10000,
       "propulsion": "Turbofan",
-      "source": "https://en.wikipedia.org/wiki/GJ-11"
+      "source": "https://en.wikipedia.org/wiki/GJ-11",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0051",
@@ -9713,7 +9819,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese. 35hr endurance. Twin boom. PLA operated."
@@ -9740,7 +9846,8 @@
       "mtow_kg": 3150,
       "wingspan_m": 20,
       "propulsion": "2x piston engines (200hp each)",
-      "source": "https://en.wikipedia.org/wiki/Tengden_TB-001"
+      "source": "https://en.wikipedia.org/wiki/Tengden_TB-001",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0052",
@@ -9789,7 +9896,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "China"
@@ -9811,7 +9918,8 @@
       "max_endurance_min": 60,
       "mtow_kg": 300,
       "propulsion": "Electric multi-rotor",
-      "source": "https://en.wikipedia.org/wiki/Norinco"
+      "source": "https://en.wikipedia.org/wiki/Norinco",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0053",
@@ -9861,7 +9969,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "South Korean MALE. 24hr endurance. MQ-9 equivalent for ROKAF."
@@ -9901,7 +10009,8 @@
       "mtow_kg": 1500,
       "wingspan_m": 11,
       "propulsion": "Turboprop",
-      "source": "https://www.kai.co.kr"
+      "source": "https://www.kai.co.kr",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0054",
@@ -9953,7 +10062,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Indian. Largest Indian military drone supplier. IPO 2023."
@@ -9998,7 +10107,8 @@
       "max_endurance_min": 120,
       "mtow_kg": 7.5,
       "propulsion": "Electric VTOL fixed-wing",
-      "source": "https://ideaforgetech.com"
+      "source": "https://ideaforgetech.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0055",
@@ -10050,7 +10160,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Indian loitering munition. Indian Army order."
@@ -10076,7 +10186,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric",
       "note": "Indian loitering munition. MoD contract.",
-      "source": "https://solarindustries.in"
+      "source": "https://solarindustries.in",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0056",
@@ -10128,7 +10239,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Australian. Flat-pack cardboard drone. Provided to Ukraine."
@@ -10172,7 +10283,8 @@
       "propulsion": "Electric fixed-wing",
       "note": "Cardboard drone. Expendable. $3,500 unit cost.",
       "source": "https://www.sypaq.com.au",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0057",
@@ -10223,7 +10335,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Taiwanese. Anti-radar loitering munition. Similar to IAI Harpy."
@@ -10256,7 +10368,8 @@
       "mtow_kg": 12,
       "propulsion": "Electric",
       "note": "Taiwanese anti-radiation loitering munition.",
-      "source": "https://www.ncsist.org.tw"
+      "source": "https://www.ncsist.org.tw",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0058",
@@ -10309,7 +10422,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Singaporean defense. Skyblade: 1hr ISR. EagleStrike: loitering munition."
@@ -10336,7 +10449,8 @@
       "mtow_kg": 4,
       "propulsion": "Electric",
       "note": "Tactical ISR. Singapore military.",
-      "source": "https://www.stengg.com"
+      "source": "https://www.stengg.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0059",
@@ -10385,7 +10499,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Israeli UVision, Rheinmetall EU license. Hero-120: 60min, 4.5kg warhead."
@@ -10411,7 +10525,8 @@
       "mtow_kg": 135,
       "propulsion": "Various",
       "source": "https://uvisionuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0060",
@@ -10459,7 +10574,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "France",
@@ -10482,7 +10597,8 @@
       "mtow_kg": 25,
       "propulsion": "Electric fixed-wing",
       "source": "https://delair.aero",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0061",
@@ -10530,7 +10646,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "UK. BAE partnership. 150kg MTOW. Military logistics."
@@ -10556,7 +10672,8 @@
       "mtow_kg": 150,
       "propulsion": "Electric quad",
       "source": "https://malloyaeronautics.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0062",
@@ -10605,7 +10722,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "United Kingdom/Sweden"
@@ -10627,7 +10744,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric quad swarm",
       "note": "Autonomous swarm. 40+ simultaneous drones.",
-      "source": "https://www.saab.com"
+      "source": "https://www.saab.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0063",
@@ -10674,7 +10792,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "France"
@@ -10695,7 +10813,8 @@
       "max_endurance_min": 30,
       "mtow_kg": 8,
       "propulsion": "Electric",
-      "source": "https://www.alxsystems.com"
+      "source": "https://www.alxsystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0064",
@@ -10744,7 +10863,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian ISR platform. 3hr endurance. Used extensively in war."
@@ -10769,7 +10888,8 @@
       "max_endurance_min": 180,
       "mtow_kg": 22,
       "propulsion": "Electric fixed-wing",
-      "source": "https://ukrspecsystems.com"
+      "source": "https://ukrspecsystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0065",
@@ -10818,7 +10938,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Ukrainian long-range strike drone. 800+km range."
@@ -10843,7 +10963,8 @@
       "max_endurance_min": 60,
       "mtow_kg": 40,
       "propulsion": "Combustion engine",
-      "source": "https://ukrjet.com"
+      "source": "https://ukrjet.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0066",
@@ -10891,7 +11012,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Polish defense. Warmate: LM 4kg, 30min. FlyEye: ISR 3hr. Deployed Ukraine."
@@ -10917,7 +11038,8 @@
       "mtow_kg": 12,
       "propulsion": "Electric fixed-wing",
       "note": "Polish tactical ISR.",
-      "source": "https://www.wbelectronics.pl"
+      "source": "https://www.wbelectronics.pl",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0067",
@@ -10966,7 +11088,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Upgraded Warmate. 20kg class."
@@ -10992,7 +11114,8 @@
       "mtow_kg": 20,
       "propulsion": "Electric",
       "note": "Larger Warmate variant.",
-      "source": "https://www.wbelectronics.pl"
+      "source": "https://www.wbelectronics.pl",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0068",
@@ -11041,7 +11164,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "note": "Swarm technology platform"
@@ -11063,7 +11186,8 @@
       "mtow_kg": 2,
       "propulsion": "Electric quad swarm",
       "note": "Lithuanian. Autonomous swarm.",
-      "source": "https://uds.ua"
+      "source": "https://uds.ua",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0069",
@@ -11110,7 +11234,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "China"
@@ -11133,7 +11257,8 @@
       "mtow_kg": 9,
       "propulsion": "Electric",
       "note": "Tube-launched loitering munition.",
-      "source": "https://en.wikipedia.org/wiki/CASC_Rainbow"
+      "source": "https://en.wikipedia.org/wiki/CASC_Rainbow",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0070",
@@ -11181,7 +11306,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese stealth UCAV. Flying wing."
@@ -11208,7 +11333,8 @@
       "wingspan_m": 14,
       "propulsion": "Turbofan (WS-13 class)",
       "note": "Stealth UCAV. Internal weapons bay.",
-      "source": "https://en.wikipedia.org/wiki/GJ-11"
+      "source": "https://en.wikipedia.org/wiki/GJ-11",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0071",
@@ -11254,7 +11380,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese. 35hr endurance. Twin boom. PLA operated."
@@ -11280,7 +11406,8 @@
       "mtow_kg": 3150,
       "wingspan_m": 20,
       "propulsion": "2x piston engines",
-      "source": "https://en.wikipedia.org/wiki/Tengden_TB-001"
+      "source": "https://en.wikipedia.org/wiki/Tengden_TB-001",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0072",
@@ -11328,7 +11455,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Chinese autonomous armed helicopter drone. Saudi/UAE sales reported."
@@ -11355,7 +11482,8 @@
       "mtow_kg": 38,
       "propulsion": "Electric hex",
       "note": "Armed cargo drone. Autonomous.",
-      "source": "https://www.ziyan.aero"
+      "source": "https://www.ziyan.aero",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0073",
@@ -11404,7 +11532,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Germany"
@@ -11426,7 +11554,8 @@
       "max_endurance_min": 30,
       "mtow_kg": 6,
       "propulsion": "Electric multi-rotor",
-      "source": "https://airlogix.com.ua"
+      "source": "https://airlogix.com.ua",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0074",
@@ -11478,7 +11607,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Germany"
@@ -11500,7 +11629,8 @@
       "max_endurance_min": 40,
       "mtow_kg": 8,
       "propulsion": "Electric multi-rotor",
-      "source": "https://deviro.com.ua"
+      "source": "https://deviro.com.ua",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0075",
@@ -11548,7 +11678,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Ukraine"
@@ -11572,7 +11702,8 @@
       "wingspan_m": 6.2,
       "propulsion": "Combustion fixed-wing",
       "note": "Strike drone. 75kg warhead.",
-      "source": "https://antonov.com"
+      "source": "https://antonov.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0076",
@@ -11620,7 +11751,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Canada"
@@ -11643,7 +11774,8 @@
       "mtow_kg": 6,
       "propulsion": "Electric quad",
       "source": "https://www.quantum-systems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0077",
@@ -11690,7 +11822,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "South Korea",
@@ -11715,7 +11847,8 @@
       "propulsion": "Turbofan",
       "note": "Concept/development. Carrier-based stealth UCAV.",
       "source": "https://www.tealuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0078",
@@ -11766,7 +11899,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Italian. Leonardo defense. Naval/maritime ISR. 200kg class."
@@ -11799,7 +11932,8 @@
       "max_endurance_min": 360,
       "mtow_kg": 200,
       "propulsion": "Rotary-wing unmanned helicopter",
-      "source": "https://www.leonardocompany.com"
+      "source": "https://www.leonardocompany.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0079",
@@ -11849,7 +11983,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "India"
@@ -11871,7 +12005,8 @@
       "mtow_kg": 1180,
       "propulsion": "Rotax 914 (115hp)",
       "note": "Hermes 900 co-production with Elbit.",
-      "source": "https://elbitsystems.com"
+      "source": "https://elbitsystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0080",
@@ -11921,7 +12056,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "India",
@@ -11945,7 +12080,8 @@
       "mtow_kg": 1500,
       "propulsion": "Turbojet",
       "note": "Stealth loyal wingman. Concept/development.",
-      "source": "https://hal-india.co.in"
+      "source": "https://hal-india.co.in",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0081",
@@ -12021,7 +12157,8 @@
       "max_endurance_min": 0,
       "propulsion": "N/A (ground C-UAS)",
       "note": "Counter-UAS system, not a flying platform.",
-      "source": "https://www.droneshield.com"
+      "source": "https://www.droneshield.com",
+      "origin": "Australia"
     },
     {
       "pid": "DM-0082",
@@ -12068,7 +12205,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "France"
@@ -12091,7 +12228,8 @@
       "propulsion": "Electric fixed-wing",
       "note": "French Army MATARIS program.",
       "source": "https://delair.aero",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0083",
@@ -12138,7 +12276,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Saudi Arabia"
@@ -12161,7 +12299,8 @@
       "wingspan_m": 20,
       "propulsion": "2x AI-450T",
       "note": "Turkish Akinci co-production.",
-      "source": "https://www.sami.com.sa"
+      "source": "https://www.sami.com.sa",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0084",
@@ -12217,7 +12356,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "TB3 = carrier-variant of TB2. Folding wings for TCG Anadolu. 26hr endurance."
@@ -12258,7 +12397,8 @@
       "propulsion": "PD-170 (170hp)",
       "note": "Carrier-optimized. Foldable wings.",
       "source": "https://www.baykarsavunma.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-85",
@@ -12328,7 +12468,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "US company (Firestorm Labs). Tempest 50: 50 min endurance, 50 lbs class."
@@ -12369,7 +12509,8 @@
       "group": 2,
       "propulsion": "Electric/hybrid",
       "source": "https://launchfirestorm.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-86",
@@ -12431,7 +12572,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "USA"
@@ -12458,7 +12599,8 @@
       "group": 2,
       "propulsion": "Electric",
       "source": "https://launchfirestorm.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-87",
@@ -12508,7 +12650,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "USA"
@@ -12535,7 +12677,8 @@
       "group": 1,
       "propulsion": "Electric FPV",
       "source": "https://launchfirestorm.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-88",
@@ -12607,7 +12750,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "compliance": {
           "note": "Slovak company. NATO compliant."
@@ -12634,7 +12777,8 @@
       "mtow_kg": 7,
       "propulsion": "Electric multi-rotor",
       "note": "Slovak ISR platform.",
-      "source": "https://airvolute.com"
+      "source": "https://airvolute.com",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-89",
@@ -12687,7 +12831,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "industry_data": {
         "production": {
           "manufacturing_country": "Slovakia",
@@ -12710,7 +12854,8 @@
       "mtow_kg": 3,
       "propulsion": "Electric FPV",
       "note": "Slovak combat FPV.",
-      "source": "https://airvolute.com"
+      "source": "https://airvolute.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2044",
@@ -12722,7 +12867,7 @@
       "pdf_file": "",
       "manufacturer": "UAS Nexus",
       "manufacturer_country": "United States",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "relations": {
         "frames": [],
@@ -12915,7 +13060,8 @@
       "max_range_km": 5,
       "max_endurance_min": 35,
       "mtow_kg": 4,
-      "propulsion": "Electric quad"
+      "propulsion": "Electric quad",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2054",
@@ -13077,7 +13223,8 @@
       "mtow_kg": 10,
       "propulsion": "Electric multi-rotor",
       "note": "Croatian military ISR.",
-      "source": "https://orqafpv.com"
+      "source": "https://orqafpv.com",
+      "origin": "Croatia"
     },
     {
       "pid": "MDL-2055",
@@ -13220,7 +13367,8 @@
       "mtow_kg": 10,
       "propulsion": "Electric multi-rotor",
       "note": "FPV variant.",
-      "source": "https://orqafpv.com"
+      "source": "https://orqafpv.com",
+      "origin": "Croatia"
     },
     {
       "pid": "MDL-2056",
@@ -13384,7 +13532,8 @@
       "mtow_kg": 5,
       "propulsion": "Electric quad",
       "note": "Lighter tactical variant.",
-      "source": "https://orqafpv.com"
+      "source": "https://orqafpv.com",
+      "origin": "Croatia"
     },
     {
       "pid": "DM-0090",
@@ -13437,7 +13586,9 @@
       "mtow_kg": 5,
       "propulsion": "Electric quad",
       "note": "Bulgarian.",
-      "source": "https://nomadium.io"
+      "source": "https://nomadium.io",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "MDL-2045",
@@ -13452,7 +13603,7 @@
       "manufacturer_url": "",
       "manufacturer_country": "",
       "country": "",
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "compliance": {
         "blue_uas": false,
@@ -13527,7 +13678,8 @@
       "mtow_kg": 5,
       "propulsion": "Electric (varies)",
       "note": "Reference specs for generic custom build.",
-      "source": "https://ardupilot.org"
+      "source": "https://ardupilot.org",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2046",
@@ -13598,7 +13750,8 @@
       "mtow_kg": 0.9,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2047",
@@ -13689,7 +13842,8 @@
       "mtow_kg": 5.5,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China"
     },
     {
       "pid": "MDL-2048",
@@ -13704,7 +13858,7 @@
       "manufacturer_url": "",
       "manufacturer_country": "",
       "country": "",
-      "ndaa_compliant": false,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "compliance": {
         "blue_uas": false,
@@ -13760,7 +13914,8 @@
       "mtow_kg": 1.5,
       "propulsion": "Electric quad",
       "source": "https://www.autelrobotics.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2050",
@@ -13775,7 +13930,7 @@
       "manufacturer_url": "",
       "manufacturer_country": "",
       "country": "",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "compliance": {
         "blue_uas": true,
@@ -13833,7 +13988,8 @@
       "group": 1,
       "propulsion": "Electric quad",
       "source": "https://www.tealuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2051",
@@ -13848,7 +14004,7 @@
       "manufacturer_url": "",
       "manufacturer_country": "",
       "country": "",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "compliance": {
         "blue_uas": false,
@@ -13899,7 +14055,8 @@
       "max_endurance_min": 30,
       "mtow_kg": 6,
       "propulsion": "Electric quad",
-      "source": "https://skyfish.com"
+      "source": "https://skyfish.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2053",
@@ -13914,7 +14071,7 @@
       "manufacturer_url": "",
       "manufacturer_country": "",
       "country": "",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "compliance": {
         "blue_uas": false,
@@ -13964,7 +14121,8 @@
       "max_endurance_min": 35,
       "mtow_kg": 4,
       "propulsion": "Electric quad",
-      "source": "https://sifly.io"
+      "source": "https://sifly.io",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2057",
@@ -13984,7 +14142,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "image_file": "",
       "pdf_file": "",
       "relations": {},
@@ -14010,7 +14168,8 @@
       "group": 2,
       "propulsion": "Electric VTOL",
       "source": "https://www.avinc.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2058",
@@ -14030,7 +14189,7 @@
       "mavlink_support": true,
       "sdk_available": false,
       "blue_uas": true,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "image_file": "",
       "pdf_file": "",
       "relations": {},
@@ -14077,7 +14236,8 @@
       "mtow_kg": 1.8,
       "propulsion": "Electric quad",
       "source": "https://redcat.red",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2059",
@@ -14097,7 +14257,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "image_file": "",
       "pdf_file": "",
       "relations": {},
@@ -14122,7 +14282,8 @@
       "mtow_kg": 2.5,
       "propulsion": "Electric tri-copter VTOL",
       "source": "https://redcat.red",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2060",
@@ -14142,7 +14303,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": true,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "image_file": "",
       "pdf_file": "",
       "relations": {},
@@ -14176,7 +14337,8 @@
       "mtow_kg": 1.6,
       "propulsion": "Electric fixed-wing",
       "source": "https://ageagle.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2061",
@@ -14196,7 +14358,7 @@
       "mavlink_support": false,
       "sdk_available": false,
       "blue_uas": true,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "image_file": "",
       "pdf_file": "",
       "relations": {},
@@ -14219,7 +14381,8 @@
       "propulsion": "Electric fixed-wing",
       "note": "Military variant. Sold to US Army.",
       "source": "https://ageagle.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "DM-0091",
@@ -14282,7 +14445,9 @@
       "max_payload_kg": 5,
       "mtow_kg": 22,
       "propulsion": "Electric fixed-wing",
-      "source": "https://ukrspecsystems.com"
+      "source": "https://ukrspecsystems.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0092",
@@ -14341,7 +14506,9 @@
       "mtow_kg": 85,
       "propulsion": "Combustion engine",
       "note": "UJ-22: 800km range MALE. UJ-25/26: strike.",
-      "source": "https://ukrjet.com"
+      "source": "https://ukrjet.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0093",
@@ -14427,7 +14594,9 @@
       "max_payload_kg": 5,
       "mtow_kg": 15,
       "propulsion": "Electric/hybrid",
-      "source": "https://launchfirestorm.com"
+      "source": "https://launchfirestorm.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0094",
@@ -14499,7 +14668,9 @@
       "max_payload_kg": 2,
       "mtow_kg": 8,
       "propulsion": "Electric",
-      "source": "https://launchfirestorm.com"
+      "source": "https://launchfirestorm.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0095",
@@ -14563,7 +14734,9 @@
       "max_payload_kg": 1,
       "mtow_kg": 3,
       "propulsion": "Electric FPV",
-      "source": "https://launchfirestorm.com"
+      "source": "https://launchfirestorm.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0096",
@@ -14629,7 +14802,9 @@
       "max_payload_kg": 2,
       "mtow_kg": 5,
       "propulsion": "Electric (varies)",
-      "source": "https://ardupilot.org"
+      "source": "https://ardupilot.org",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0097",
@@ -14690,7 +14865,9 @@
       "mtow_kg": 2.5,
       "propulsion": "Electric quad",
       "source": "https://holybro.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0098",
@@ -14741,7 +14918,9 @@
       "mtow_kg": 0.92,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0099",
@@ -14781,7 +14960,9 @@
       "max_payload_kg": 0.3,
       "mtow_kg": 1.6,
       "propulsion": "Electric fixed-wing",
-      "source": "https://ageagle.com/drone-solutions/ebee-x"
+      "source": "https://ageagle.com/drone-solutions/ebee-x",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0100",
@@ -14838,7 +15019,9 @@
       "propulsion": "Electric quad",
       "note": "Cargo delivery. 30kg payload.",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0101",
@@ -14889,7 +15072,9 @@
       "mtow_kg": 3.77,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0102",
@@ -14946,7 +15131,9 @@
       "mtow_kg": 1.5,
       "propulsion": "Electric quad",
       "source": "https://www.autelrobotics.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0103",
@@ -15002,7 +15189,9 @@
       "propulsion": "Electric quad coaxial",
       "note": "Agricultural sprayer. 40L tank.",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0104",
@@ -15058,7 +15247,9 @@
       "max_payload_kg": 50,
       "mtow_kg": 79,
       "propulsion": "Electric coaxial",
-      "source": "https://www.xa.com/en/p100pro"
+      "source": "https://www.xa.com/en/p100pro",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0105",
@@ -15118,7 +15309,9 @@
       "max_payload_kg": 22,
       "mtow_kg": 42,
       "propulsion": "Electric hex",
-      "source": "https://hylio.com/ag-272"
+      "source": "https://hylio.com/ag-272",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0106",
@@ -15170,7 +15363,9 @@
       "mtow_kg": 1.5,
       "propulsion": "Electric caged quad",
       "source": "https://www.flyability.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0107",
@@ -15223,7 +15418,9 @@
       "mtow_kg": 9.2,
       "propulsion": "Electric quad",
       "source": "https://www.dji.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "China",
+      "ndaa_compliant": false
     },
     {
       "pid": "DM-0108",
@@ -15275,7 +15472,9 @@
       "max_payload_kg": 1,
       "mtow_kg": 4,
       "propulsion": "Electric quad",
-      "source": "https://syndicate.uasnexus.com/pages/platform-one"
+      "source": "https://syndicate.uasnexus.com/pages/platform-one",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0109",
@@ -15333,7 +15532,9 @@
       "group": 1,
       "propulsion": "Electric quad (FPV)",
       "source": "https://www.modalai.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA",
+      "ndaa_compliant": true
     },
     {
       "pid": "DM-0110",
@@ -15393,7 +15594,9 @@
       "mtow_kg": 7,
       "propulsion": "Electric quad",
       "source": "https://www.anduril.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0111",
@@ -15452,7 +15655,9 @@
       "group": 1,
       "propulsion": "Electric quad",
       "source": "https://shield.ai",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0112",
@@ -15493,7 +15698,9 @@
       "mtow_kg": 8,
       "propulsion": "Electric tethered",
       "source": "https://hoverflytech.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0113",
@@ -15552,7 +15759,9 @@
       "mtow_kg": 4.5,
       "propulsion": "Electric VTOL fixed-wing",
       "source": "https://wingtra.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0114",
@@ -15606,7 +15815,9 @@
       "mtow_kg": 12,
       "propulsion": "Electric hex",
       "source": "https://inspiredflight.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0115",
@@ -15668,7 +15879,9 @@
       "group": 1,
       "propulsion": "Electric quad",
       "source": "https://www.parrot.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0116",
@@ -15709,7 +15922,9 @@
       "mtow_kg": 4,
       "propulsion": "Electric coaxial",
       "source": "https://www.ascentaerosystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0117",
@@ -15775,7 +15990,9 @@
       "manufacturer_hq": "Boulder, CO, USA",
       "manufacturer_url": "https://freeflysystems.com/astro",
       "source": "https://freeflysystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA",
+      "ndaa_compliant": true
     },
     {
       "pid": "DM-0118",
@@ -15837,7 +16054,9 @@
       "mtow_kg": 1.8,
       "propulsion": "Electric quad",
       "source": "https://www.tealuav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0119",
@@ -15894,7 +16113,9 @@
       "mtow_kg": 8,
       "propulsion": "Electric VTOL fixed-wing",
       "note": "UK. ISR platform.",
-      "source": "https://www.issaerospace.com"
+      "source": "https://www.issaerospace.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0120",
@@ -15946,7 +16167,9 @@
       "mtow_kg": 6,
       "propulsion": "Electric tethered quad",
       "note": "UK. Tethered ISR.",
-      "source": "https://www.issaerospace.com"
+      "source": "https://www.issaerospace.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0121",
@@ -16003,7 +16226,9 @@
       "mtow_kg": 18,
       "propulsion": "Hybrid (gas-electric) hex",
       "note": "2hr endurance. Dutch-made.",
-      "source": "https://acecoretechnologies.com"
+      "source": "https://acecoretechnologies.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0122",
@@ -16059,7 +16284,9 @@
       "mtow_kg": 6,
       "propulsion": "Electric quad",
       "note": "Dutch. Survey/mapping.",
-      "source": "https://acecoretechnologies.com"
+      "source": "https://acecoretechnologies.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0123",
@@ -16113,7 +16340,9 @@
       "max_payload_kg": 3,
       "mtow_kg": 8,
       "propulsion": "Electric octocopter",
-      "source": "https://www.xer.swiss"
+      "source": "https://www.xer.swiss",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0124",
@@ -16166,7 +16395,9 @@
       "mtow_kg": 8,
       "propulsion": "Hydrogen fuel cell hex",
       "note": "Hydrogen-powered. 2hr endurance.",
-      "source": "https://www.cellen.com"
+      "source": "https://www.cellen.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0125",
@@ -16223,7 +16454,9 @@
       "mtow_kg": 6,
       "propulsion": "Electric VTOL fixed-wing",
       "note": "Slovenian. Survey + ISR.",
-      "source": "https://www.elevonx.com"
+      "source": "https://www.elevonx.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0126",
@@ -16287,7 +16520,9 @@
       "wingspan_m": 3.3,
       "propulsion": "Combustion fixed-wing",
       "note": "20hr endurance. Former UAV Factory.",
-      "source": "https://www.edgeautonomy.io"
+      "source": "https://www.edgeautonomy.io",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0127",
@@ -16344,7 +16579,9 @@
       "mtow_kg": 70,
       "propulsion": "Combustion engine helicopter",
       "note": "Spanish. 8hr endurance. Helicopter UAS.",
-      "source": "https://www.integrauav.com"
+      "source": "https://www.integrauav.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0128",
@@ -16406,7 +16643,9 @@
       "propulsion": "Rotax 914 (55hp)",
       "note": "Unmanned helicopter. Maritime. Austrian.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Camcopter_S-100.jpg/640px-Camcopter_S-100.jpg",
-      "source": "https://www.schiebel.net"
+      "source": "https://www.schiebel.net",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0129",
@@ -16464,7 +16703,9 @@
       "max_payload_kg": 5,
       "mtow_kg": 15,
       "propulsion": "Electric quad",
-      "source": "https://www.t-drones.com"
+      "source": "https://www.t-drones.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0130",
@@ -16522,7 +16763,9 @@
       "mtow_kg": 30,
       "propulsion": "Hybrid (gas-electric)",
       "note": "Chinese. Heavy-lift hybrid.",
-      "source": "https://www.flydragondronetech.com"
+      "source": "https://www.flydragondronetech.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0131",
@@ -16579,7 +16822,9 @@
       "mtow_kg": 25,
       "propulsion": "Electric VTOL fixed-wing",
       "note": "Boeing subsidiary. Experimental.",
-      "source": "https://www.aurora.aero"
+      "source": "https://www.aurora.aero",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0132",
@@ -16668,7 +16913,9 @@
       "propulsion": "2x TEI PD-170 (170hp each)",
       "note": "Maritime/land ISR. 48hr endurance.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TAI_Aksungur_flying_%281%29_%28cropped%29.jpg/640px-TAI_Aksungur_flying_%281%29_%28cropped%29.jpg",
-      "source": "https://www.tai.com.tr"
+      "source": "https://www.tai.com.tr",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0133",
@@ -16736,7 +16983,9 @@
       "propulsion": "Turbojet",
       "note": "Stealth UCAV. Under development.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TAI_Anka-3_MIUS_%28cropped%29.jpg/640px-TAI_Anka-3_MIUS_%28cropped%29.jpg",
-      "source": "https://www.tai.com.tr"
+      "source": "https://www.tai.com.tr",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0134",
@@ -16802,7 +17051,9 @@
       "mtow_kg": 2,
       "propulsion": "Electric quad",
       "note": "Kamikaze mini drone.",
-      "source": "https://www.stm.com.tr"
+      "source": "https://www.stm.com.tr",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0135",
@@ -16855,7 +17106,9 @@
       "mtow_kg": 3,
       "propulsion": "Electric quad",
       "note": "ISR micro drone.",
-      "source": "https://www.stm.com.tr"
+      "source": "https://www.stm.com.tr",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0136",
@@ -16914,7 +17167,9 @@
       "mtow_kg": 630,
       "wingspan_m": 10.5,
       "propulsion": "Rotax 912 (100hp)",
-      "source": "https://www.vestelsavunma.com"
+      "source": "https://www.vestelsavunma.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0137",
@@ -16968,7 +17223,9 @@
       "mtow_kg": 15,
       "propulsion": "Electric fixed-wing",
       "note": "Recon variant. Catapult launched.",
-      "source": "https://ukrspecsystems.com"
+      "source": "https://ukrspecsystems.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0138",
@@ -17024,7 +17281,9 @@
       "mtow_kg": 7,
       "propulsion": "Electric fixed-wing",
       "note": "ISR. Hand-launched.",
-      "source": "https://deviro.com.ua"
+      "source": "https://deviro.com.ua",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0139",
@@ -17083,7 +17342,9 @@
       "mtow_kg": 1000,
       "propulsion": "Marine diesel",
       "note": "Unmanned SURFACE vessel, not aerial. Naval drone.",
-      "source": "https://en.wikipedia.org/wiki/MAGURA_V5"
+      "source": "https://en.wikipedia.org/wiki/MAGURA_V5",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0140",
@@ -17138,7 +17399,9 @@
       "max_payload_kg": 50,
       "mtow_kg": 200,
       "propulsion": "Combustion engine",
-      "source": "https://en.wikipedia.org/wiki/Shahed_136"
+      "source": "https://en.wikipedia.org/wiki/Shahed_136",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0141",
@@ -17191,7 +17454,9 @@
       "max_payload_kg": 20,
       "mtow_kg": 85,
       "propulsion": "Combustion engine",
-      "source": "https://ukrjet.com"
+      "source": "https://ukrjet.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0142",
@@ -17284,7 +17549,9 @@
       "operating_altitude_m": 9144,
       "propulsion": "Rotax 914 (115hp)",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hermes_900_UAV_%281%29.jpg/640px-Hermes_900_UAV_%281%29.jpg",
-      "source": "https://elbitsystems.com"
+      "source": "https://elbitsystems.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0143",
@@ -17351,7 +17618,9 @@
       "operating_altitude_m": 5486,
       "propulsion": "Rotary engine",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbit_Hermes_450.jpg/640px-Elbit_Hermes_450.jpg",
-      "source": "https://elbitsystems.com"
+      "source": "https://elbitsystems.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0144",
@@ -17426,7 +17695,9 @@
       "propulsion": "Rotax 914 (115hp)",
       "note": "52hr endurance. MALE ISR.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/IAI_Heron_1_in_flight_%28cropped%29.jpg/640px-IAI_Heron_1_in_flight_%28cropped%29.jpg",
-      "source": "https://www.iai.co.il"
+      "source": "https://www.iai.co.il",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0145",
@@ -17506,7 +17777,9 @@
       "propulsion": "P&W PT6A-67A (1,200hp)",
       "note": "36hr endurance. Israel's largest drone.",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IAI_Eitan_at_Tel_Nof.jpg/640px-IAI_Eitan_at_Tel_Nof.jpg",
-      "source": "https://www.iai.co.il"
+      "source": "https://www.iai.co.il",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0146",
@@ -17572,7 +17845,9 @@
       "mtow_kg": 135,
       "propulsion": "Various (electric + combustion)",
       "note": "Hero-20/30/120/400. Loitering munition family.",
-      "source": "https://uvisionuav.com"
+      "source": "https://uvisionuav.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "pid": "DM-0147",
@@ -17668,7 +17943,9 @@
       "max_payload_kg": 2,
       "mtow_kg": 5,
       "propulsion": "Electric quad",
-      "source": "https://www.nomadiumrobotics.com"
+      "source": "https://www.nomadiumrobotics.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Skycutter SC-ISR \u2014 Quadcopter ISR Platform",
@@ -17693,7 +17970,9 @@
       "pid": "DM-2062",
       "image_file": "",
       "relations": {},
-      "source": "https://skycutter.co.uk"
+      "source": "https://skycutter.co.uk",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Skycutter SC-Orca \u2014 One-Way Effector",
@@ -17716,7 +17995,9 @@
       "pid": "DM-2063",
       "image_file": "",
       "relations": {},
-      "source": "https://skycutter.co.uk"
+      "source": "https://skycutter.co.uk",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Skycutter SC Gryphon \u2014 Heavy-Lift Hexacopter",
@@ -17741,7 +18022,9 @@
       "pid": "DM-2064",
       "image_file": "",
       "relations": {},
-      "source": "https://skycutter.co.uk"
+      "source": "https://skycutter.co.uk",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Napatree Bumblebee \u2014 AI-Guided FPV Attack Quadcopter",
@@ -17765,7 +18048,9 @@
       "pid": "DM-2065",
       "image_file": "",
       "relations": {},
-      "source": "https://napatree.tech"
+      "source": "https://napatree.tech",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Napatree Hornet \u2014 Fixed-Wing Strike Drone",
@@ -17786,7 +18071,9 @@
       "pid": "DM-2066",
       "image_file": "",
       "relations": {},
-      "source": "https://napatree.tech"
+      "source": "https://napatree.tech",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Napatree MEROPS AS3 Surveyor \u2014 C-UAS Interceptor",
@@ -17812,7 +18099,9 @@
       "pid": "DM-2067",
       "image_file": "",
       "relations": {},
-      "source": "https://napatree.tech"
+      "source": "https://napatree.tech",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Nokturnal AI Nightmare \u2014 Blue UAS FPV Strike Drone",
@@ -17836,7 +18125,9 @@
       "pid": "DM-2068",
       "image_file": "",
       "relations": {},
-      "source": "https://nokturnal.ai"
+      "source": "https://nokturnal.ai",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Nokturnal AI Unruly \u2014 Long-Range Fixed-Wing Strike",
@@ -17858,7 +18149,9 @@
       "pid": "DM-2069",
       "image_file": "",
       "relations": {},
-      "source": "https://nokturnal.ai"
+      "source": "https://nokturnal.ai",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Nokturnal AI Menace \u2014 High-Speed Jet Strike",
@@ -17880,7 +18173,9 @@
       "pid": "DM-2070",
       "image_file": "",
       "relations": {},
-      "source": "https://nokturnal.ai"
+      "source": "https://nokturnal.ai",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "HALO Aeronautics PERSES \u2014 Disposable FPV Attack Drone",
@@ -17903,7 +18198,9 @@
       "pid": "DM-2071",
       "image_file": "",
       "relations": {},
-      "source": "https://hushaircraft.com"
+      "source": "https://hushaircraft.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "HALO Aeronautics HALO-6 VTOL \u2014 Long-Endurance ISR",
@@ -17928,7 +18225,9 @@
       "pid": "DM-2072",
       "image_file": "",
       "relations": {},
-      "source": "https://hushaircraft.com"
+      "source": "https://hushaircraft.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "UDD F10 \u2014 China-Free FPV Attack Quadcopter",
@@ -17952,7 +18251,9 @@
       "pid": "DM-2073",
       "image_file": "",
       "relations": {},
-      "source": "https://uddtech.com"
+      "source": "https://uddtech.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "UDD F7 \u2014 Front-Line FPV Attack Drone",
@@ -17973,7 +18274,9 @@
       "pid": "DM-2074",
       "image_file": "",
       "relations": {},
-      "source": "https://uddtech.com"
+      "source": "https://uddtech.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Neros Archer Fiber \u2014 NDAA-Compliant Fiber-Optic FPV",
@@ -17998,7 +18301,9 @@
       "image_file": "",
       "relations": {},
       "source": "https://nerostechnologies.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Vector Defense Hammer \u2014 10-inch Fiber-Optic FPV",
@@ -18023,7 +18328,9 @@
       "pid": "DM-2076",
       "image_file": "",
       "relations": {},
-      "source": "https://vectordefense.com"
+      "source": "https://vectordefense.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Swarm Defense KIWI \u2014 Stackable OWA Drone",
@@ -18044,7 +18351,9 @@
       "pid": "DM-2077",
       "image_file": "",
       "relations": {},
-      "source": "https://swarmdefense.com"
+      "source": "https://swarmdefense.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "General Cherry Bullet Interceptor \u2014 High-Speed C-UAS",
@@ -18068,7 +18377,9 @@
       "pid": "DM-2078",
       "image_file": "",
       "relations": {},
-      "source": "https://generalcherry.com"
+      "source": "https://generalcherry.com",
+      "origin": "Unknown",
+      "ndaa_compliant": null
     },
     {
       "name": "Auterion Nemyx \u2014 Cross-Platform Swarm Strike Engine",
@@ -18092,7 +18403,9 @@
       "pid": "DM-2079",
       "image_file": "",
       "relations": {},
-      "source": "https://auterion.com/nemyx"
+      "source": "https://auterion.com/nemyx",
+      "origin": "USA",
+      "ndaa_compliant": true
     },
     {
       "pid": "MDL-2062",
@@ -18124,7 +18437,7 @@
       "mavlink_support": true,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "propulsion": "Electric fixed wing",
       "status": "production",
       "combat_proven": false,
@@ -18175,7 +18488,8 @@
         "DART with X-band radar reflector"
       ],
       "source": "https://krattworks.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2063",
@@ -18207,7 +18521,7 @@
       "mavlink_support": true,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "propulsion": "Electric flying wing",
       "status": "production",
       "combat_proven": false,
@@ -18257,7 +18571,8 @@
         "DART-R decoy (high RCS)"
       ],
       "source": "https://krattworks.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2064",
@@ -18289,7 +18604,7 @@
       "mavlink_support": true,
       "sdk_available": false,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "propulsion": "Electric quadcopter",
       "status": "production",
       "combat_proven": false,
@@ -18330,7 +18645,8 @@
         "PARM with FPV camera"
       ],
       "source": "https://krattworks.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2065",
@@ -18363,7 +18679,7 @@
       "mavlink_support": true,
       "sdk_available": true,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "propulsion": "Electric quadcopter, folding arms",
       "status": "production",
       "combat_proven": false,
@@ -18450,7 +18766,8 @@
         "MONARK RTF w/FLIR Boson 640 (govt only)"
       ],
       "source": "https://echomav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2066",
@@ -18485,7 +18802,7 @@
       "mavlink_support": true,
       "sdk_available": true,
       "blue_uas": false,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "propulsion": "Hybrid: 2-cycle ICE + electric starter/generator (VTOL)",
       "status": "production",
       "combat_proven": false,
@@ -18545,7 +18862,8 @@
         "MK1 with 5G comms"
       ],
       "source": "https://echomav.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2067",
@@ -18560,11 +18878,12 @@
       "range_km": 0.1,
       "endurance_min": 12,
       "payload_kg": 0.1,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "Palm-sized toroidal rotor indoor drone. GPS-denied autonomous navigation via ModalAI VOXL. Designed for confined spaces, ships, tunnels, collapsed buildings. Primary customer: US SOCOM.",
-      "link": "https://cleorobotics.com"
+      "link": "https://cleorobotics.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2068",
@@ -18579,11 +18898,12 @@
       "range_km": 0.1,
       "endurance_min": 999,
       "payload_kg": 1.5,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "Tethered autonomous multi-mission system (SAMS). Unlimited flight time via ground power tether. Blue UAS listed. Used for border security, base protection, critical infrastructure persistent ISR.",
-      "link": "https://www.easyaerial.com"
+      "link": "https://www.easyaerial.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2069",
@@ -18598,11 +18918,12 @@
       "range_km": 5,
       "endurance_min": 30,
       "payload_kg": 0.7,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "combat_proven": false,
       "description": "Coaxial rotor cylindrical UAS. Acquired by Robinson Helicopter Apr 2024 \u2014 now built at Robinson's Torrance CA facility. All-weather capable. No Chinese components. SOCOM interest for maritime and adverse-weather ops. Robinson crewed-uncrewed teaming vision.",
-      "link": "https://www.ascentaerosystems.com"
+      "link": "https://www.ascentaerosystems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2070",
@@ -18617,11 +18938,12 @@
       "range_km": 8,
       "endurance_min": 35,
       "payload_kg": 4.5,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "combat_proven": false,
       "description": "DJI-free heavy-lift hexacopter. Huntsville AL manufacture near Redstone Arsenal. Supports LiDAR, large-format cameras. NDAA-focused BOM. Strong Army program pipeline.",
-      "link": "https://www.harrisaerial.com"
+      "link": "https://www.harrisaerial.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2072",
@@ -18636,11 +18958,12 @@
       "range_km": 3,
       "endurance_min": 15,
       "payload_kg": 18.5,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "combat_proven": false,
       "description": "Heavy-duty agricultural sprayer. 41L tank. US-owned and operated. Sold direct and through Frontier Precision. USDA program eligible.",
-      "link": "https://www.hylio.com"
+      "link": "https://www.hylio.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2073",
@@ -18655,11 +18978,12 @@
       "range_km": 50,
       "endurance_min": 300,
       "payload_kg": 2.7,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "Hybrid-electric gasoline-battery octocopter. 5+ hour flight time. Blue UAS listed April 2025. LiDAR survey, utility inspection, long-range monitoring. Frontier Precision authorized dealer.",
-      "link": "https://www.skyfront.com"
+      "link": "https://www.skyfront.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2074",
@@ -18674,11 +18998,12 @@
       "range_km": 5,
       "endurance_min": 25,
       "payload_kg": 0.8,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "Japanese-made NDAA/Blue UAS compliant enterprise drone. Swappable RGB/thermal/multispectral payloads. $7K-14K (GOV/MIL). Teledyne FLIR SAMO thermal. Global shutter camera. No Chinese components.",
-      "link": "https://www.acsl.co.jp/en"
+      "link": "https://www.acsl.co.jp/en",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2075",
@@ -18693,11 +19018,12 @@
       "range_km": 60,
       "endurance_min": 120,
       "payload_kg": 1.2,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "German VTOL fixed-wing. Blue UAS Cleared List. Bundeswehr operator. No Chinese components confirmed. 2-hour endurance for ISR and survey. NATO ally manufacture.",
-      "link": "https://www.quantum-systems.com"
+      "link": "https://www.quantum-systems.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2076",
@@ -18712,11 +19038,12 @@
       "range_km": 40,
       "endurance_min": 90,
       "payload_kg": 0.9,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "combat_proven": false,
       "description": "US-made BVLOS fixed-wing platform. FAA BEYOND program participant. Infrastructure inspection, pipeline monitoring, DOT surveys. NDAA compliant.",
-      "link": "https://www.censys-tech.com"
+      "link": "https://www.censys-tech.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2077",
@@ -18731,11 +19058,12 @@
       "range_km": 5,
       "endurance_min": 30,
       "payload_kg": 18.0,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "US-made heavy-lift octocopter. 40lb+ payload capacity. Blue UAS listed. Modular payload bay. LiDAR, large format camera, and defense payload capable.",
-      "link": "https://www.visionaerial.com"
+      "link": "https://www.visionaerial.com",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2078",
@@ -18750,11 +19078,12 @@
       "range_km": 7,
       "endurance_min": 45,
       "payload_kg": 0.5,
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": true,
       "combat_proven": false,
       "description": "US-built DFR drone for Flock Aerodome system. BVLOS capable, 400ft AGL ops. Thermal + HD + zoom + night vision. Auto-launch in <90s. Covers 38 sq mi per dock. Flock911 integration.",
-      "link": "https://www.flocksafety.com/products/flock-aerodome-copy-2"
+      "link": "https://www.flocksafety.com/products/flock-aerodome-copy-2",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2079",
@@ -18773,7 +19102,8 @@
       "blue_uas": true,
       "combat_proven": false,
       "description": "VOXL 2 powered autonomous drone. Starling 2 Logis variant for warehouse inventory. GPS-denied navigation. Blue UAS Framework core FC supplier powering Teal, Cleo Dronut, and other platforms.",
-      "link": "https://www.modalai.com"
+      "link": "https://www.modalai.com",
+      "origin": "USA"
     },
     {
       "pid": "MDL-FREEFLY-ALTAX",
@@ -18818,7 +19148,8 @@
       "image_file": "https://freeflysystems.com/app/uploads/2021/02/alta-x-hero-1.jpg",
       "description": "Freefly Alta X is a heavy-lift octocopter capable of carrying payloads up to 15.9 kg. DIU Blue UAS listed, NDAA-compliant. Used in cinema, mapping, and defense applications. Runs ArduPilot or PX4. US-manufactured in Boulder, CO.",
       "source": "https://freeflysystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-FREEFLY-ALTAPRO",
@@ -18859,7 +19190,8 @@
       "image_file": "",
       "description": "Freefly Alta Pro is an 8-motor heavy-lift platform designed for cinema and commercial applications. US-manufactured, NDAA-compliant. Runs ArduPilot. Predecessor to Alta X.",
       "source": "https://freeflysystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-FREEFLY-ASTROMAP",
@@ -18901,7 +19233,8 @@
       "image_file": "https://freeflysystems.com/app/uploads/2023/01/astro-map-hero.jpg",
       "description": "Freefly Astro Map is the mapping-optimized variant of the Astro platform. Includes RTK GPS, mapping payload, and Pilot Pro controller. Blue UAS listed. COO=US. Runs Auterion Enterprise PX4.",
       "source": "https://freeflysystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2162",
@@ -18911,7 +19244,7 @@
       "build_class": "enterprise_cots",
       "manufacturer": "Ascent AeroSystems",
       "country": "US",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "ArduCopter",
       "mavlink_support": true,
@@ -18925,7 +19258,8 @@
         "max_speed_mph": 60,
         "density_altitude_ft": 14600
       },
-      "source": "AFM v1.1.0 public"
+      "source": "AFM v1.1.0 public",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2163",
@@ -18949,7 +19283,8 @@
         "density_altitude_ft": 15000,
         "range_km": 12
       },
-      "source": "skydio.com/x10/technical-specs"
+      "source": "skydio.com/x10/technical-specs",
+      "origin": "USA"
     },
     {
       "pid": "MDL-2080",
@@ -18961,7 +19296,7 @@
       "pdf_file": "",
       "platform_category": "cots",
       "manufacturer": "Ascent AeroSystems",
-      "ndaa_compliant": true,
+      "ndaa_compliant": null,
       "blue_uas": false,
       "firmware": "ArduCopter",
       "mavlink_support": true,
@@ -19005,7 +19340,8 @@
         "gps_modules": []
       },
       "source": "https://www.ascentaerosystems.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "Unknown"
     },
     {
       "pid": "MDL-2081",
@@ -19079,7 +19415,8 @@
         "gps_modules": []
       },
       "source": "https://www.skydio.com",
-      "source_confidence": "manufacturer_homepage"
+      "source_confidence": "manufacturer_homepage",
+      "origin": "USA"
     }
   ]
 }
