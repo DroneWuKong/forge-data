@@ -25,7 +25,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
@@ -3321,7 +3321,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
