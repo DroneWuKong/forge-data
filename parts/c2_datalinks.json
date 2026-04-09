@@ -43,7 +43,7 @@
     "links": [
       "https://uavionix.com/product/microlink/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -99,7 +99,7 @@
     "links": [
       "https://uavionix.com/products/skyline/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -324,7 +324,7 @@
     "links": [
       "https://www.ultra.group/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ultra Electronics, UK. Allied-nation NDAA compliant. Part of Cobham Advanced Electronic Systems.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -370,7 +370,7 @@
     "links": [
       "https://www.performancedroneworx.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Performance Drone Works, Sarasota FL. US UAS C2 manufacturer. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -411,7 +411,7 @@
     "links": [
       "https://kuttatech.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Kutta Technologies, Phoenix AZ. US DoD C2 software company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -474,7 +474,7 @@
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -520,7 +520,7 @@
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
     "weight_g": 60.0,
@@ -602,7 +602,7 @@
     "links": [
       "https://xtend.me/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "XTEND, Tel Aviv, Israel. Allied-nation NDAA compliant. XOS tactical drone OS.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -646,7 +646,7 @@
     "links": [
       "https://shield.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Shield AI, San Diego CA. US AI autonomy company. NDAA compliant. DoD prime contractor.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -666,8 +666,9 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3207",
@@ -681,8 +682,9 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3208",
@@ -695,8 +697,9 @@
     ],
     "notes": "Primary C2 for BVLOS. Range dependent on cellular coverage.",
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3209",
@@ -710,8 +713,9 @@
     ],
     "notes": "Forward-facing EO + ADS-B. Required for BVLOS waivers.",
     "source": "https://www.irisautomation.co/casia",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3210",
@@ -724,7 +728,8 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.irisautomation.co/casia",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   }
 ]
