@@ -1,10 +1,10 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-10",
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 261
+    "count": 258
   },
   "parts": {
     "ai_accelerators": {
@@ -45,7 +45,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 261
+      "count": 258
     },
     "esad": {
       "file": "parts/esad.json",
@@ -61,7 +61,7 @@
     },
     "flight_controllers": {
       "file": "parts/flight_controllers.json",
-      "count": 327
+      "count": 328
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
@@ -85,7 +85,7 @@
     },
     "ground_control_stations": {
       "file": "parts/ground_control_stations.json",
-      "count": 17
+      "count": 18
     },
     "integrated_stacks": {
       "file": "parts/integrated_stacks.json",
@@ -137,7 +137,7 @@
     },
     "propulsion": {
       "file": "parts/propulsion.json",
-      "count": 16
+      "count": 17
     },
     "receivers": {
       "file": "parts/receivers.json",
@@ -149,7 +149,7 @@
     },
     "sensors": {
       "file": "parts/sensors.json",
-      "count": 40
+      "count": 42
     },
     "stacks": {
       "file": "parts/stacks.json",
@@ -183,5 +183,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4046
+  "total_parts": 4048
 }
