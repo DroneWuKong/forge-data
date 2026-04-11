@@ -58,9 +58,15 @@
         "title": "Amazon Prime Air Adjusts Course After Richardson Setbacks",
         "date": "2026-04-07",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0002",
@@ -118,9 +124,15 @@
         "title": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories",
         "date": "2026-04-01",
         "site": "defensenews"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-01"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0004",
@@ -228,9 +240,15 @@
         "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-03-24"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0008",
@@ -287,9 +305,15 @@
         "title": "XTEND and ParaZero Partner to Deliver Autonomous Drone Interception System",
         "date": "2026-03-30",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0009",
@@ -303,7 +327,9 @@
       "counter-UAS",
       "one-way attack",
       "ISR",
-      "electronic warfare"
+      "electronic warfare",
+      "autonomy",
+      "GPS-denied"
     ],
     "sources": [
       {
@@ -335,9 +361,21 @@
         "title": "Flying Lion Launches DroneBooth for Rapid Drone Dock Deployment",
         "date": "2026-03-25",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/09/skydio-usaf-mideast-bases/",
+        "title": "Skydio to Supply USAF With Dock-Based ISR Drones for Mideast Air Bases",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-03-26"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0010",
@@ -636,9 +674,81 @@
         "title": "Army looks to quadruple procurement for Precision Strike Missile in 2027",
         "date": "2026-04-07",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/06/us-f22-filtered-connectors/",
+        "title": "Mobix to Supply Filtered Connectors for F-22 Raptor Jets",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/06/mim-104-patriot-guide/",
+        "title": "MIM-104 Patriot: The Missile Shield Defending the Skies, Explained",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/02/uk-largest-military-parachute/",
+        "title": "UK Conducts Largest Military Parachute Drop in Over a Decade",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/01/us-aim-260-australia/",
+        "title": "US Approves $3.16-Billion Sale of Classified AIM-260 Missiles to Australia",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/31/aim-260-jatm-guide/",
+        "title": "AIM-260 JATM: The Next Generation of US Air-to-Air Dominance",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/02/04/us-navy-helios-laser/",
+        "title": "US Navy\u2019s Burke-Class Destroyer Unleashes HELIOS Laser in Breathtaking New Photo",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/06/bae-m777-barrel-production/",
+        "title": "BAE Lands $145M US Army Deal to Boost M777 Barrel Production",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
+        "title": "Mystery Launcher Appears On U.S. Navy Destroyer",
+        "date": "2026-04-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/bahrain-first-to-claim-f-16-block-70-air-to-air-kills",
+        "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+        "date": "2026-04-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/09/netherlands-patriot-air-defense/",
+        "title": "Netherlands Expands Patriot Air Defense Arsenal With $627M Purchase",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/10/space-force-contract-andromeda-program-vendors",
+        "title": "Space Force brings 14 vendors into $1.8B next-gen space domain awareness program",
+        "date": "2026-04-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0011",
@@ -799,9 +909,57 @@
         "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/new-views-of-massive-rq-180-stealth-drone-flying-over-greece",
+        "title": "New Views Of Massive RQ-180 Stealth Drone Flying Over Greece",
+        "date": "2026-04-07",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/08/b21-raider-guide/",
+        "title": "B-21 Raider: Inside America\u2019s Next-Generation Strategic Bomber",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.navalnews.com/naval-news/2026/04/northrop-grumman-to-deliver-first-sewip-block-3-system-for-cvn-under-contract-modification/",
+        "title": "Northrop Grumman to deliver first SEWIP Block 3 system for CVN under contract modification",
+        "date": "",
+        "site": "navalnews"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/04/08/polish-firm-teams-with-northrop-st-engineering-to-tap-polands-massive-ammo-spending/",
+        "title": "Polish firm teams with Northrop, ST Engineering to tap Poland\u2019s massive ammo spending",
+        "date": "2026-04-08",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/bahrain-first-to-claim-f-16-block-70-air-to-air-kills",
+        "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+        "date": "2026-04-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/navy-mq-4c-tritons-fate-unknown-after-disappearing-from-flight-tracking-over-persian-gulf",
+        "title": "Navy MQ-4C Triton\u2019s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
+        "date": "2026-04-09",
+        "site": "twz"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/10/space-force-contract-andromeda-program-vendors",
+        "title": "Space Force brings 14 vendors into $1.8B next-gen space domain awareness program",
+        "date": "2026-04-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0012",
@@ -973,9 +1131,33 @@
         "title": "General Atomics CCA drone wingman prototype crashes in California",
         "date": "2026-04-07",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
+        "title": "Mystery Launcher Appears On U.S. Navy Destroyer",
+        "date": "2026-04-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/10/drone-aevex-stock-market-debut/",
+        "title": "Drone Firm AEVEX Eyes $2.35B Valuation in US Stock Market Debut",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/10/space-force-contract-andromeda-program-vendors",
+        "title": "Space Force brings 14 vendors into $1.8B next-gen space domain awareness program",
+        "date": "2026-04-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0013",
@@ -1163,9 +1345,21 @@
         "title": "Everything We Now Know About The Operation To Rescue The F-15E WSO",
         "date": "2026-04-06",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/new-views-of-massive-rq-180-stealth-drone-flying-over-greece",
+        "title": "New Views Of Massive RQ-180 Stealth Drone Flying Over Greece",
+        "date": "2026-04-07",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/31/rheinmetall-boeing-mq-28-germany/",
+        "title": "Rheinmetall, Boeing Team Up to Pitch MQ-28 Ghost Bat to Germany",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0014",
@@ -1259,9 +1453,45 @@
         "title": "Is U.S. Manufacturing the Answer? SKYROVER Signals a New Strategy as FCC Pressure Mounts",
         "date": "2026-04-07",
         "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/09/inside-the-coachella-valleys-plan-to-centralize-dfr-operations/",
+        "title": "Inside the Coachella Valley\u2019s Plan to Centralize Drone First Responder Operations",
+        "date": "2026-04-09",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/10/pentagon-memo-dji-fcc-petition/#respond/",
+        "title": "Pentagon Filing Opposes DJI Petition, Citing National Security Risks and Classified Information",
+        "date": "2026-04-10",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/10/pentagon-memo-dji-fcc-petition/",
+        "title": "Pentagon Filing Opposes DJI Petition, Citing National Security Risks and Classified Information",
+        "date": "2026-04-10",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/09/inside-the-coachella-valleys-plan-to-centralize-dfr-operations/#respond/",
+        "title": "Inside the Coachella Valley\u2019s Plan to Centralize Drone First Responder Operations",
+        "date": "2026-04-09",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/04/07/is-u-s-manufacturing-the-answer-skyrover-signals-a-new-strategy-as-fcc-pressure-mounts/#comments/",
+        "title": "Is U.S. Manufacturing the Answer? SKYROVER Signals a New Strategy as FCC Pressure Mounts",
+        "date": "2026-04-07",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/uncategorized/safesky-integrates-with-dji-flighthub-2-to-enhance-air-traffic-awareness/",
+        "title": "SafeSky integrates with DJI Flighthub 2 to enhance air traffic awareness",
+        "date": "2026-04-10",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0015",
@@ -1314,9 +1544,27 @@
         "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
         "date": "2026-04-05",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/07/israel-domestic-munitions-elbit/",
+        "title": "Israel Boosts Domestic Munitions Output With $48M Elbit Deal",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/07/elbit-puls-rocket-greece/",
+        "title": "Greece Awards $750M PULS Rocket Artillery Contract to Elbit Systems",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-05"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0016",
@@ -1331,7 +1579,8 @@
       "counter-UAS",
       "electronic warfare",
       "C2",
-      "ISR"
+      "ISR",
+      "autonomy"
     ],
     "sources": [
       {
@@ -1375,9 +1624,27 @@
         "title": "THAAD Kill Vehicle\u2019s Infrared Seeker Appears To Have Been Found In Syria Intact",
         "date": "2026-04-06",
         "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/31/canada-husky-l3harris-airbus/",
+        "title": "L3Harris, Airbus Nab $1B Support Deals for Canada\u2019s CC-330 Husky Fleet",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/10/space-force-contract-andromeda-program-vendors",
+        "title": "Space Force brings 14 vendors into $1.8B next-gen space domain awareness program",
+        "date": "2026-04-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0017",
@@ -1484,9 +1751,33 @@
         "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
         "date": "2026-04-05",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/02/us-aerovironment-jump-20x/",
+        "title": "US Navy Picks AeroVironment JUMP 20-X to Boost ISR Capabilities",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+        "title": "AV to Deliver ISR Services to U.S. Navy with JUMP 20-X",
+        "date": "",
+        "site": "navalnews"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/10/us-health-performance-aerovironment/",
+        "title": "US Air Force Taps AeroVironment for $25M Health and Performance Tech Push",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-05"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0018",
@@ -1519,9 +1810,21 @@
         "title": "SAMI exec on Saudi Arabian localization push, Turkish deal prospects and future plans",
         "date": "2023-11-14",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/04/italy-set-to-sign-off-on-turkish-tb3-drone-order-within-months-says-baykar-ceo/",
+        "title": "Italy set to sign off on Turkish TB3 drone order within months, says Baykar CEO",
+        "date": "2026-04-07",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-03-23"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0019",
@@ -1538,7 +1841,9 @@
       "acquisition",
       "counter-UAS",
       "swarming",
-      "electronic warfare"
+      "electronic warfare",
+      "ISR",
+      "FPV"
     ],
     "sources": [
       {
@@ -1606,9 +1911,27 @@
         "title": "General Atomics CCA drone wingman prototype crashes in California",
         "date": "2026-04-07",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/08/canada-mq9-limited-capability/",
+        "title": "Canada\u2019s Future MQ-9 Drone Fleet to Launch With Limited Capability",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/10/space-force-contract-andromeda-program-vendors",
+        "title": "Space Force brings 14 vendors into $1.8B next-gen space domain awareness program",
+        "date": "2026-04-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-11"
   },
   {
     "cid": "CMP-0020",
@@ -1657,9 +1980,15 @@
         "title": "Swiss Destinus, Shield AI wrap European drone autonomy test campaign",
         "date": "2026-03-24",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-03-24"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0021",
@@ -1672,7 +2001,8 @@
       "autonomy",
       "counter-UAS",
       "C2",
-      "acquisition"
+      "acquisition",
+      "ISR"
     ],
     "sources": [
       {
@@ -1698,9 +2028,27 @@
         "title": "Marine Corps fuels high-stakes competition for its Advanced Reconnaissance Vehicle with new deals",
         "date": "2026-04-06",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/08/peru-beechcraft-king-air/",
+        "title": "Peru Expands Airlift Fleet With New Beechcraft King Air 360C",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/08/belgium-cessna-skycourier-textron/",
+        "title": "Belgium Orders Five Cessna SkyCouriers for Special Operations",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/09/usmc-general-dynamics-arv/",
+        "title": "USMC Awards General Dynamics $450M for ARV Pre-Production",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0022",
@@ -1771,9 +2119,15 @@
         "title": "MQ-28 Ghost Bat Gains Major European Foothold As Rheinmetall Joins Forces With Boeing",
         "date": "2026-03-31",
         "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-01"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0023",
@@ -2077,7 +2431,8 @@
       "AI",
       "NDAA",
       "ISR",
-      "acquisition"
+      "acquisition",
+      "GPS-denied"
     ],
     "sources": [
       {
@@ -2121,9 +2476,27 @@
         "title": "Teledyne FLIR OEM Upgrades Prism SKR Software for Autonomous Target Recognition",
         "date": "2026-04-08",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/06/red-cat-nato-black-widow/",
+        "title": "Red Cat Lands NATO Order for Black Widow Drones",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2025/06/13/drone-companies-ranking-2025/",
+        "title": "Top 100 Drone Defense Companies in 2025",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/08/teledyne-software-upgrade/",
+        "title": "From Seeker to Hunter: Teledyne Software Upgrade Unifies Kill Chain in One Capability",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-04-09"
   },
   {
     "cid": "CMP-0029",

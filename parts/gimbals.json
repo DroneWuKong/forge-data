@@ -28,9 +28,10 @@
       "magnesium",
       "low-cost"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    "ndaa_note": "US manufacturer. ITAR-controlled.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1001",
@@ -57,9 +58,10 @@
       "ultra-light",
       "sUAS"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    "ndaa_note": "US manufacturer. ITAR-controlled.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1002",
@@ -88,9 +90,10 @@
       "NV-laser",
       "direct-drive"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    "ndaa_note": "US manufacturer. ITAR-controlled.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1003",
@@ -119,9 +122,10 @@
       "Cat1-geolocation",
       "low-SWaP-C"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    "ndaa_note": "US manufacturer. ITAR-controlled.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1004",
@@ -152,9 +156,10 @@
       "laser-designator",
       "STANAG-3733"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    "ndaa_note": "US manufacturer. ITAR-controlled.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1005",
@@ -184,9 +189,10 @@
       "non-ITAR",
       "geolocation"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. Blue UAS aligned."
+    "ndaa_note": "US manufacturer. Blue UAS aligned.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1006",
@@ -217,9 +223,10 @@
       "ultra-light",
       "Israeli"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": false,
     "manufacturer_country": "Israel",
-    "ndaa_note": "Israeli manufacturer. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract."
+    "ndaa_note": "Israeli manufacturer. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
+    "origin": "China"
   },
   {
     "pid": "GIMBAL-1007",
@@ -246,10 +253,11 @@
       "dual-sensor",
       "miniature-UAV"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Turkey",
     "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    "source": "https://www.blitztech.com.tr",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1008",
@@ -278,10 +286,11 @@
       "modular",
       "field-upgrade"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Turkey",
     "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    "source": "https://www.blitztech.com.tr",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1009",
@@ -309,10 +318,11 @@
       "laser-pointer",
       "tactical"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "manufacturer_country": "Turkey",
     "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    "source": "https://www.blitztech.com.tr",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1010",
@@ -340,9 +350,10 @@
       "LRF",
       "Chinese"
     ],
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "manufacturer_country": "China",
-    "ndaa_note": "Chinese manufacturer. Not NDAA compliant."
+    "ndaa_note": "Chinese manufacturer. Not NDAA compliant.",
+    "origin": "Unknown"
   },
   {
     "pid": "GIMBAL-1011",
@@ -372,8 +383,9 @@
       "munitions-support",
       "Chinese"
     ],
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "manufacturer_country": "China",
-    "ndaa_note": "Chinese manufacturer. Not NDAA compliant."
+    "ndaa_note": "Chinese manufacturer. Not NDAA compliant.",
+    "origin": "Unknown"
   }
 ]
