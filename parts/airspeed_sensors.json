@@ -24,7 +24,8 @@
       "i2c",
       "fixed-wing",
       "vtol"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "ASPD-1001",
@@ -49,7 +50,8 @@
       "i2c",
       "sdp3x",
       "sensirion"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "ASPD-1002",
@@ -75,14 +77,15 @@
       "i2c",
       "ndaa",
       "usa-made"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "ASPD-1003",
     "name": "Avionics Anonymous DroneCAN Airspeed",
     "manufacturer": "Avionics Anonymous",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 89,
     "source": "https://www.tindie.com/stores/avionicsanonymous/",
     "interface": "DroneCAN (CAN)",
@@ -100,7 +103,8 @@
       "ndaa",
       "usa-made",
       "can-bus"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "ASPD-1004",
@@ -123,14 +127,15 @@
       "pitot",
       "i2c",
       "china"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "ASPD-1005",
     "name": "Sensirion SDP33 \u2014 Differential Pressure Sensor",
     "manufacturer": "Sensirion",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 35,
     "source": "https://www.sensirion.com/sdp800-series",
     "interface": "I2C",
@@ -148,14 +153,15 @@
       "ndaa",
       "switzerland",
       "chip-level"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "ASPD-1006",
     "name": "TE Connectivity MS4525DO \u2014 Differential Pressure",
     "manufacturer": "TE Connectivity",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 18,
     "source": "https://www.te.com/usa-en/product-CAT-BLPS0002.html",
     "interface": "I2C",
@@ -171,14 +177,15 @@
       "differential-pressure",
       "ndaa",
       "chip-level"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "ASPD-1007",
     "name": "Aeroprobe Micro Air Data System",
     "manufacturer": "Aeroprobe",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 1200,
     "source": "https://www.aeroprobe.com",
     "interface": "RS-232 / Analog",
@@ -195,14 +202,15 @@
       "ndaa",
       "usa-made",
       "professional"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "ASPD-1008",
     "name": "Eagle Tree Airspeed MicroSensor V3",
     "manufacturer": "Eagle Tree Systems",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 39,
     "source": "https://www.eagletreesystems.com",
     "interface": "Analog / UART",
@@ -217,6 +225,7 @@
       "analog",
       "ndaa",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   }
 ]
