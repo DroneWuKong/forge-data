@@ -43,7 +43,7 @@
     "links": [
       "https://www.sbg-systems.com/defense/uav-unmanned-aerial-vehicles-navigation-defense/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "SBG Systems, Rueil-Malmaison, France. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -191,7 +191,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 495,
     "origin": "Unknown"
@@ -236,7 +236,7 @@
     "links": [
       "https://aerospace.honeywell.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Honeywell International, Charlotte NC. Major US aerospace/defense (NASDAQ: HON). NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -282,7 +282,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -327,7 +327,7 @@
     "links": [
       "https://q-ctrl.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Q-CTRL, Sydney, Australia. Allied-nation NDAA compliant. Quantum sensing/navigation.",
     "weight_g": 50,
     "origin": "Unknown"
@@ -425,7 +425,7 @@
     "links": [
       "https://www.infleqtion.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Infleqtion (formerly ColdQuanta), Boulder CO. US quantum sensing. NDAA compliant. DARPA/DoD funded.",
     "weight_g": 12,
     "origin": "Unknown"
@@ -470,7 +470,7 @@
     "links": [
       "https://www.advancednavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Advanced Navigation, Sydney, Australia. Allied-nation NDAA compliant.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -519,7 +519,7 @@
     "links": [
       "https://www.teledynemarine.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Teledyne Marine, part of Teledyne Technologies (NYSE: TDY). US company. NDAA compliant.",
     "weight_g": 35,
     "origin": "Unknown"
@@ -561,7 +561,7 @@
     "links": [
       "https://www.anellophotonics.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Anello Photonics, Santa Clara CA. US photonic IMU. NDAA compliant. DARPA-funded.",
     "weight_g": 100,
     "origin": "Unknown"
@@ -571,7 +571,7 @@
     "name": "Intel RealSense T265 \u2014 Tracking Camera (VIO)",
     "manufacturer": "Intel",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 199,
     "source": "https://www.intelrealsense.com/tracking-camera-t265/",
     "interface": "USB3",
@@ -592,7 +592,8 @@
       "ndaa",
       "companion-required",
       "discontinued"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "NAV-2001",
@@ -620,14 +621,15 @@
       "blue-uas",
       "ai-compute",
       "px4-native"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "NAV-2002",
     "name": "Nooploop LinkTrack P \u2014 UWB Positioning System",
     "manufacturer": "Nooploop",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 349,
     "source": "https://www.nooploop.com/linktrack/",
     "interface": "UART",
@@ -647,14 +649,15 @@
       "gps-denied",
       "cm-accuracy",
       "anchor-based"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "NAV-2003",
     "name": "Pozyx Creator \u2014 UWB Indoor Positioning",
     "manufacturer": "Pozyx Labs",
     "manufacturer_country": "Belgium",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 299,
     "source": "https://www.pozyx.io",
     "interface": "I2C / UART",
@@ -674,14 +677,15 @@
       "gps-denied",
       "ndaa",
       "belgium"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "NAV-2004",
     "name": "IRLock Precision Landing Sensor",
     "manufacturer": "IRLock",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 179,
     "source": "https://irlock.com",
     "interface": "I2C",
@@ -700,7 +704,8 @@
       "ndaa",
       "usa-made",
       "autonomous-landing"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "NAV-2005",
@@ -728,14 +733,15 @@
       "indoor",
       "2cm-accuracy",
       "gps-denied"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "NAV-2006",
     "name": "Qualisys Motion Capture \u2014 External Navigation",
     "manufacturer": "Qualisys",
     "manufacturer_country": "Sweden",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": null,
     "source": "https://www.qualisys.com",
     "interface": "Ethernet / UART",
@@ -755,6 +761,7 @@
       "sub-mm",
       "ndaa",
       "external"
-    ]
+    ],
+    "origin": "Unknown"
   }
 ]
