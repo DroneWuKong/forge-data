@@ -50,7 +50,7 @@
     "links": [
       "https://inspiredflight.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Inspired Flight Technologies, San Luis Obispo CA. US drone/GCS manufacturer. NDAA compliant.",
     "weight_g": 850,
     "origin": "Unknown"
@@ -104,7 +104,7 @@
     "links": [
       "https://qgroundcontrol.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Open-source protocol (Linux Foundation). NDAA compliant \u2014 open source, no foreign entity control.",
     "price_note": "Contact for pricing",
     "price_usd": null,
@@ -156,7 +156,7 @@
     "links": [
       "https://ardupilot.org/planner/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Open-source GCS (Mission Planner). NDAA compliant.",
     "price_note": "Contact for pricing",
     "price_usd": null,
@@ -217,7 +217,7 @@
       "https://www.motionew.com/"
     ],
     "ndaa_note": "MotioNew \u2014 origin unclear. Verify.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "weight_g": 850,
     "origin": "Unknown"
   },
@@ -275,7 +275,7 @@
     "links": [
       "https://www.ugcs.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "SPH Engineering, Riga, Latvia. EU/NATO allied-nation NDAA compliant. UgCS mission planning software.",
     "weight_g": 0,
     "origin": "Unknown"
@@ -332,7 +332,7 @@
     "links": [
       "https://www.winmate.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Winmate Inc., Taipei, Taiwan. Allied-nation NDAA compliant. Rugged tablet/GCS hardware.",
     "weight_g": 4.0,
     "origin": "Unknown"
@@ -387,7 +387,7 @@
     "links": [
       "https://www.ga-asi.com/ground-control-stations/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "General Atomics Aeronautical Systems, San Diego CA. US defense prime. NDAA compliant. Maker of Predator/Reaper.",
     "price_note": "Contact for pricing",
     "price_usd": null,
@@ -438,7 +438,7 @@
     "links": [
       "https://ardupilot.org/mavproxy/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "ArduPilot open-source GCS. Linux Foundation project. NDAA compliant \u2014 open source, no foreign adversary control.",
     "price_note": "Contact for pricing",
     "price_usd": null,
@@ -530,7 +530,7 @@
     "links": [
       "https://www.uavnavigation.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "UAV Navigation, Madrid, Spain. EU/NATO allied-nation NDAA compliant. Part of Grupo Oes\u00eda defense.",
     "price_note": "Contact for pricing",
     "price_usd": null,
@@ -669,6 +669,56 @@
     "origin": "Unknown"
   },
   {
+    "pid": "GCS-0014",
+    "category": "ground_control_stations",
+    "name": "Draganfly Surveyor",
+    "manufacturer": "Draganfly",
+    "manufacturer_hq": "Saskatoon, SK, Canada / Tampa, FL, USA",
+    "manufacturer_country": "USA/Canada",
+    "description": "Flight planning and mission execution software for Draganfly platforms. Enables automated grid flight mode for mapping and surveying. Integrates with Commander2, Commander 3XL, Tango2, and Heavy Lift. Supports multi-axis stabilized data acquisition. Used in conjunction with MicaSense, FLIR, and LiDAR payloads. Also referenced as MAVLink-based flight planning compatible with Mission Planner and QGroundControl for advanced users.",
+    "link": "https://draganfly.com/",
+    "approx_price": "Bundled with platform",
+    "display": null,
+    "processor": null,
+    "ram_gb": null,
+    "os": "PC / tablet",
+    "gcs_software": "Draganfly Surveyor",
+    "max_range_mi": null,
+    "hot_swap_battery": false,
+    "form_factor": "Software (PC/tablet)",
+    "compatible_platforms": [
+      "Commander2 (MDL-2168)",
+      "Commander 3XL (MDL-2165)",
+      "Tango2 (MDL-2169)",
+      "Heavy Lift (MDL-2166)"
+    ],
+    "country": "USA",
+    "ndaa_compliant": null,
+    "blue_uas": true,
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "North American developed software."
+    },
+    "tags": [
+      "gcs",
+      "software",
+      "flight planning",
+      "mapping",
+      "surveying",
+      "grid flight",
+      "MAVLink"
+    ],
+    "origin": "mined \u2014 draganfly.com 2026-04-09",
+    "sources": [
+      {
+        "url": "https://draganfly.com/products/draganflyer-commander2/",
+        "title": "Commander2 product page",
+        "date": "2025-07-25",
+        "site": "draganfly.com"
+      }
+    ]
+  },
+  {
     "pid": "CAT-3211",
     "name": "Censys Mobile Command Center (Trailer)",
     "manufacturer": "Censys Technologies",
@@ -680,8 +730,9 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3212",
@@ -694,8 +745,9 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3213",
@@ -708,8 +760,9 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   },
   {
     "pid": "CAT-3214",
@@ -721,7 +774,8 @@
       "Censys Sentaero 6"
     ],
     "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null,
+    "manufacturer_country": "USA",
+    "origin": "Unknown"
   }
 ]

@@ -136,9 +136,27 @@
         "title": "Pentagon seeks robot ships to haul supplies to combat zones",
         "date": "2026-03-02",
         "site": "defensenews"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/07/us-tactical-moving-map/",
+        "title": "US Eyes \u2018Tactical Moving Map\u2019 to Supercharge Aircrew Awareness",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
+        "title": "Mystery Launcher Appears On U.S. Navy Destroyer",
+        "date": "2026-04-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war",
+        "title": "How America\u2019s Shahed-136 Kamikaze Drone Clone Suddenly Became An \u201cIndispensable\u201d Weapon Of War",
+        "date": "2026-04-09",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-04-06"
+    "last_updated": "2026-04-11"
   },
   {
     "pgid": "PGM-0002",
@@ -819,9 +837,27 @@
         "title": "Is U.S. Manufacturing the Answer? SKYROVER Signals a New Strategy as FCC Pressure Mounts",
         "date": "2026-04-07",
         "site": "dronelife"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/31/rheinmetall-boeing-mq-28-germany/",
+        "title": "Rheinmetall, Boeing Team Up to Pitch MQ-28 Ghost Bat to Germany",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/18/india-iran-regime-change-risk/",
+        "title": "Why India Quietly Prefers a Weaker Iran Over Regime Change",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/09/lebanon-israel-violent-strikes/",
+        "title": "Panic in Lebanon as Israel Carries Out Most Violent Strikes on Capital",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-04-09"
   },
   {
     "pgid": "PGM-0004",
@@ -1178,7 +1214,8 @@
       "AI",
       "ISR",
       "one-way attack",
-      "mesh network"
+      "mesh network",
+      "FPV"
     ],
     "sources": [
       {
@@ -1330,9 +1367,27 @@
         "title": "Army looks to quadruple procurement for Precision Strike Missile in 2027",
         "date": "2026-04-07",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/04/08/army-automated-target-recognition-breaching-operations",
+        "title": "Army eyeing automated target recognition tech to detect explosive hazards, battlefield obstacles",
+        "date": "2026-04-08",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/04/01/us-aim-260-australia/",
+        "title": "US Approves $3.16-Billion Sale of Classified AIM-260 Missiles to Australia",
+        "date": "",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/03/31/rheinmetall-boeing-mq-28-germany/",
+        "title": "Rheinmetall, Boeing Team Up to Pitch MQ-28 Ghost Bat to Germany",
+        "date": "",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-04-09"
   },
   {
     "pgid": "PGM-0008",
@@ -1541,9 +1596,15 @@
         "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
         "date": "2026-04-05",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war",
+        "title": "How America\u2019s Shahed-136 Kamikaze Drone Clone Suddenly Became An \u201cIndispensable\u201d Weapon Of War",
+        "date": "2026-04-09",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-04-05"
+    "last_updated": "2026-04-11"
   },
   {
     "pgid": "PGM-0011",
