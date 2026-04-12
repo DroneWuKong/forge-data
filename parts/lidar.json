@@ -1287,7 +1287,7 @@
       "PPK post-processing",
       "Real-time point cloud"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas_ready": false,
     "white_label": false,
     "price_usd": 995,
