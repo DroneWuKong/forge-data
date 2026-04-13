@@ -37,8 +37,7 @@
       "ndaa",
       "eu_manufactured",
       "onboard_ai",
-      "orqa_dtk",
-      "usa"
+      "orqa_dtk"
     ],
     "approx_price": 78,
     "schema_data": {
@@ -52,14 +51,7 @@
       "country": "Croatia (EU)",
       "ndaa_compliant": true,
       "pinout_notes": "All-in-one board. No separate companion computer wiring needed. Direct Ethernet and serial between FC and companion."
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 78,
-    "links": [
-      "https://orqafpv.com"
-    ],
-    "weight_g": 85,
-    "origin": "Croatia"
+    }
   },
   {
     "pid": "IS-0002",
@@ -101,21 +93,12 @@
       "16g",
       "assembled_usa",
       "blue_uas_framework",
-      "ndaa",
-      "usa",
-      "blue-uas"
+      "ndaa"
     ],
     "approx_price": 79,
     "schema_data": {
       "weight_g": 31
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 79,
-    "links": [
-      "https://www.modalai.com/products/voxl-2"
-    ],
-    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
-    "origin": "USA"
+    }
   },
   {
     "pid": "IS-0003",
@@ -153,21 +136,12 @@
       "8k30",
       "assembled_usa",
       "blue_uas_framework",
-      "ndaa",
-      "usa",
-      "blue-uas"
+      "ndaa"
     ],
     "approx_price": 70,
     "schema_data": {
       "weight_g": 20
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 70,
-    "links": [
-      "https://www.modalai.com/products/voxl-2-mini"
-    ],
-    "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
-    "origin": "USA"
+    }
   },
   {
     "pid": "IS-0004",
@@ -199,27 +173,18 @@
       "npu",
       "px4",
       "auterion_os",
-      "30.5x30.5mm",
+      "30.5mm",
       "8s_direct",
       "blue_uas_framework",
       "ndaa",
       "combat_proven_ukraine",
       "swarm",
-      "track_intercept",
-      "usa"
+      "track_intercept"
     ],
     "approx_price": 75,
     "schema_data": {
       "weight_g": 12
-    },
-    "price_usd": 75,
-    "links": [
-      "https://auterion.com/product/skynode-s/"
-    ],
-    "manufacturer_country": "USA",
-    "ndaa_note": "Auterion Inc., San Francisco CA (Swiss-founded, US HQ). NDAA compliant. Enterprise PX4 platform.",
-    "weight_g": 32,
-    "origin": "USA"
+    }
   },
   {
     "pid": "IS-0005",
@@ -256,7 +221,7 @@
     "tags": [
       "stm32h7",
       "iim42653",
-      "30.5x30.5mm",
+      "30.5mm",
       "3_12s",
       "12v_vtx_output",
       "px4",
@@ -266,19 +231,11 @@
       "blue_uas_framework",
       "ndaa",
       "1w_heater",
-      "fpv_optimized",
-      "usa"
+      "fpv_optimized"
     ],
     "approx_price": 79,
     "schema_data": {
       "weight_g": 28
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 79,
-    "links": [
-      "https://arkelectron.com/product/ark-fpv-flight-controller/"
-    ],
-    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "origin": "USA"
+    }
   }
 ]

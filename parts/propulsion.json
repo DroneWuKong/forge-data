@@ -22,22 +22,11 @@
       "pem",
       "air_cooled",
       "modular_to_24kw",
-      "12hr_record",
-      "ndaa",
-      "nato"
+      "12hr_record"
     ],
     "schema_data": {
       "weight_g": 498
-    },
-    "manufacturer_country": "United Kingdom",
-    "price_usd": 15000.0,
-    "weight_g": 2000.0,
-    "links": [
-      "https://www.intelligent-energy.com/"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Intelligent Energy, Loughborough, UK. Allied-nation fuel cell manufacturer. NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0002",
@@ -62,22 +51,11 @@
       "pem",
       "air_cooled",
       "2.4kw",
-      "group_3",
-      "ndaa",
-      "nato"
+      "group_3"
     ],
     "schema_data": {
       "weight_g": 502
-    },
-    "manufacturer_country": "United Kingdom",
-    "price_usd": 30000.0,
-    "weight_g": 5000.0,
-    "links": [
-      "https://www.intelligent-energy.com/"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Intelligent Energy, Loughborough, UK. Allied-nation fuel cell manufacturer. NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0003",
@@ -103,21 +81,11 @@
       "first_commercial",
       "2.6kw",
       "120-150min",
-      "allied",
-      "ndaa"
+      "allied"
     ],
     "schema_data": {
       "weight_g": 504
-    },
-    "manufacturer_country": "South Korea",
-    "price_usd": 20000.0,
-    "weight_g": 3500.0,
-    "links": [
-      "https://www.doosanmobility.com/"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Doosan Mobility Innovation, Seoul, South Korea. Allied-nation NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0004",
@@ -139,21 +107,11 @@
     "platforms_integrated": [],
     "tags": [
       "lightweight",
-      "long_endurance",
-      "ndaa"
+      "long_endurance"
     ],
     "schema_data": {
       "weight_g": 503
-    },
-    "manufacturer_country": "Singapore",
-    "price_usd": 10000.0,
-    "weight_g": 2000.0,
-    "links": [
-      "https://www.hes.sg/"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "HES Energy Systems, Singapore. Allied-nation (Five Eyes adjacent). NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0005",
@@ -177,22 +135,11 @@
       "pem",
       "honeywell_integration",
       "41g_hr_h2",
-      "canadian_us",
-      "ndaa",
-      "five-eyes"
+      "canadian_us"
     ],
     "schema_data": {
       "weight_g": 502
-    },
-    "manufacturer_country": "Canada",
-    "price_usd": 15000.0,
-    "weight_g": 2500.0,
-    "links": [
-      "https://www.ballard.com/"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "Ballard Power Systems (TSX: BLDP), Burnaby BC, Canada + Honeywell. Five Eyes allied-nation. NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0006",
@@ -220,22 +167,11 @@
       "13hr_record",
       "205mi",
       "blue_uas_select",
-      "us_manufactured",
-      "ndaa",
-      "usa"
+      "us_manufactured"
     ],
     "schema_data": {
       "weight_g": 503
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 50000.0,
-    "links": [
-      "https://skyfront.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Skyfront Inc., San Jose CA. US hybrid/gasoline drone manufacturer. NDAA compliant.",
-    "weight_g": 2900,
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0007",
@@ -261,22 +197,11 @@
       "2_stroke",
       "10hr_record",
       "spanish",
-      "commercial_endurance",
-      "ndaa",
-      "nato"
+      "commercial_endurance"
     ],
     "schema_data": {
       "weight_g": 504
-    },
-    "manufacturer_country": "Spain",
-    "price_usd": 15000.0,
-    "links": [
-      "https://www.quaternium.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Quaternium, Valencia, Spain. EU/NATO allied-nation NDAA compliant. HYBRiX hybrid drone.",
-    "weight_g": 3600,
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0008",
@@ -305,22 +230,11 @@
       "28000_hrs",
       "18000_engines",
       "1m_fleet_hrs",
-      "us_military_standard",
-      "ndaa",
-      "usa"
+      "us_military_standard"
     ],
     "schema_data": {
       "weight_g": 500
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 5000.0,
-    "weight_g": 3400.0,
-    "links": [
-      "https://www.nwuav.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Northwest UAV, McMinnville OR. US propulsion manufacturer. NDAA compliant. DoD supplier.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0009",
@@ -345,22 +259,11 @@
       "40-75kg_aircraft",
       "group_3",
       "multi_fuel",
-      "efi",
-      "ndaa",
-      "usa"
+      "efi"
     ],
     "schema_data": {
       "weight_g": 498
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 10000.0,
-    "weight_g": 6000.0,
-    "links": [
-      "https://www.nwuav.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Northwest UAV, McMinnville OR. US propulsion manufacturer. NDAA compliant. DoD supplier.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0010",
@@ -387,22 +290,11 @@
       "100000rpm",
       "heavy_fuel",
       "us_army",
-      "group_3_4",
-      "ndaa",
-      "usa"
+      "group_3_4"
     ],
     "schema_data": {
       "weight_g": 507
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 50000.0,
-    "weight_g": 10000.0,
-    "links": [
-      "https://uavturbines.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "UAV Turbines Inc., Ogden UT. US turbine manufacturer. NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0011",
@@ -432,22 +324,11 @@
       "700_systems",
       "t_hawk",
       "five_eyes",
-      "australian",
-      "ndaa",
-      "five-eyes"
+      "australian"
     ],
     "schema_data": {
       "weight_g": 494
-    },
-    "manufacturer_country": "Australia",
-    "price_usd": 3000.0,
-    "weight_g": 2000.0,
-    "links": [
-      "https://www.currawongeng.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Currawong Engineering, Sydney, Australia. Allied-nation NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0012",
@@ -472,22 +353,11 @@
       "50cc",
       "efi",
       "heavy_lift",
-      "five_eyes",
-      "ndaa",
-      "five-eyes"
+      "five_eyes"
     ],
     "schema_data": {
       "weight_g": 502
-    },
-    "manufacturer_country": "Australia",
-    "price_usd": 5000.0,
-    "weight_g": 3500.0,
-    "links": [
-      "https://www.currawongeng.com/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Currawong Engineering, Sydney, Australia. Allied-nation NDAA compliant.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0013",
@@ -514,22 +384,11 @@
       "53-100hp",
       "7500rpm",
       "multi_fuel",
-      "sensor_friendly",
-      "ndaa",
-      "nato"
+      "sensor_friendly"
     ],
     "schema_data": {
       "weight_g": 491
-    },
-    "manufacturer_country": "United Kingdom",
-    "price_usd": 20000.0,
-    "weight_g": 15000.0,
-    "links": [
-      "https://www.uavenginesltd.co.uk/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "UAV Engines Ltd (Rotron Power), Lichfield, UK. Allied-nation NDAA compliant. Wankel rotary engines.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0014",
@@ -554,22 +413,11 @@
       "2_stroke",
       "german",
       "nato_eu",
-      "proven",
-      "ndaa",
-      "nato"
+      "proven"
     ],
     "schema_data": {
       "weight_g": 509
-    },
-    "manufacturer_country": "Germany",
-    "price_usd": 3000.0,
-    "weight_g": 3000.0,
-    "links": [
-      "https://www.hirth-motoren.de/"
-    ],
-    "ndaa_compliant": null,
-    "ndaa_note": "Hirth Engines GmbH, Benningen, Germany. EU/NATO allied-nation NDAA compliant. 2-stroke UAS engines.",
-    "origin": "Unknown"
+    }
   },
   {
     "pid": "PROP-0015",
@@ -606,16 +454,7 @@
     ],
     "schema_data": {
       "weight_g": 508
-    },
-    "manufacturer_country": "Turkey",
-    "price_usd": 100000.0,
-    "weight_g": 120000.0,
-    "links": [
-      "https://www.tei.com.tr/"
-    ],
-    "ndaa_note": "TEI \u2014 TUSA\u015e Engine Industries, Eski\u015fehir, Turkey. NATO member but Turkey S-400 complication. Verify per contract.",
-    "origin": "Unknown",
-    "ndaa_compliant": null
+    }
   },
   {
     "pid": "PROP-0016",
@@ -643,18 +482,10 @@
       "afterburning",
       "kizilelma",
       "ucav",
-      "ukrainian_turbine",
-      "ndaa",
-      "ukraine"
+      "ukrainian_turbine"
     ],
     "schema_data": {
       "weight_g": 491
-    },
-    "manufacturer_country": "Ukraine",
-    "price_usd": 500000.0,
-    "weight_g": 570000.0,
-    "ndaa_compliant": null,
-    "ndaa_note": "Ivchenko-Progress / Motor Sich, Zaporizhzhia, Ukraine. Allied-nation NDAA compliant \u2014 Ukraine is a US defense partner under active support frameworks.",
-    "origin": "Unknown"
+    }
   }
 ]
