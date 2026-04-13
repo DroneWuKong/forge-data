@@ -708,7 +708,7 @@
     "name": "Benewake TFmini Plus \u2014 Micro LiDAR",
     "manufacturer": "Benewake",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 35,
     "source": "https://en.benewake.com/TFminiPlus",
     "interface": "UART/I2C",
@@ -732,14 +732,15 @@
       "i2c",
       "px4",
       "ardupilot"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2001",
     "name": "Benewake TF02-Pro \u2014 Medium Range LiDAR",
     "manufacturer": "Benewake",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 65,
     "source": "https://en.benewake.com/TF02Pro",
     "interface": "UART/I2C",
@@ -761,14 +762,15 @@
       "terrain-following",
       "px4",
       "ardupilot"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2002",
     "name": "Benewake TF03 \u2014 Long Range LiDAR (180m)",
     "manufacturer": "Benewake",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 189,
     "source": "https://en.benewake.com/TF03",
     "interface": "UART",
@@ -788,14 +790,15 @@
       "fixed-wing",
       "px4",
       "ardupilot"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2003",
     "name": "Benewake TF-Luna \u2014 Ultra-Mini LiDAR",
     "manufacturer": "Benewake",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 18,
     "source": "https://en.benewake.com/TFLuna",
     "interface": "UART/I2C",
@@ -816,14 +819,15 @@
       "ultra-compact",
       "budget",
       "indoor"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2004",
     "name": "Garmin Lidar-Lite V3 / V3HP",
     "manufacturer": "Garmin",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 130,
     "source": "https://buy.garmin.com/en-US/US/p/557294",
     "interface": "I2C / PWM",
@@ -844,14 +848,15 @@
       "i2c",
       "pwm",
       "proven"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2005",
     "name": "Garmin Lidar-Lite V4",
     "manufacturer": "Garmin",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 145,
     "source": "https://buy.garmin.com/en-US/US/p/610275",
     "interface": "I2C",
@@ -869,14 +874,15 @@
       "ndaa",
       "usa-made",
       "i2c"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2006",
     "name": "TeraRanger Evo 60m \u2014 Long Range ToF",
     "manufacturer": "Terabee",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 249,
     "source": "https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-evo-60m/",
     "interface": "I2C / UART",
@@ -898,14 +904,15 @@
       "i2c",
       "uart",
       "discontinued"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2007",
     "name": "TeraRanger NEO \u2014 Compact I2C ToF",
     "manufacturer": "Terabee",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 79,
     "source": "https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-neo/",
     "interface": "I2C",
@@ -924,14 +931,15 @@
       "ndaa",
       "i2c",
       "compact"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2008",
     "name": "Ainstein US-D1 \u2014 Radar Altimeter",
     "manufacturer": "Ainstein",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 299,
     "source": "https://ainstein.ai/us-d1-pre-order-page/",
     "interface": "UART",
@@ -952,14 +960,15 @@
       "usa-made",
       "all-weather",
       "maritime"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2009",
     "name": "Ainstein LR-D1 \u2014 Long Range Radar Altimeter",
     "manufacturer": "Ainstein",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 399,
     "source": "https://ainstein.ai/lr-d1/",
     "interface": "UART",
@@ -979,7 +988,8 @@
       "ndaa",
       "usa-made",
       "all-weather"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2010",
@@ -1006,7 +1016,8 @@
       "ndaa",
       "usa-made",
       "short-range"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "LIDAR-2011",
@@ -1034,14 +1045,15 @@
       "usa-made",
       "mid-range",
       "50m"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "LIDAR-2012",
     "name": "Maxbotix MB1200 XL-MaxSonar-EZ0 \u2014 I2C Sonar",
     "manufacturer": "MaxBotix",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 25,
     "source": "https://www.maxbotix.com/ultrasonic_sensors/mb1200.htm",
     "interface": "I2C / Analog",
@@ -1061,14 +1073,15 @@
       "usa-made",
       "budget",
       "i2c"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2013",
     "name": "ST VL53L1X \u2014 ToF (4m)",
     "manufacturer": "STMicroelectronics",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 5,
     "source": "https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html",
     "interface": "I2C",
@@ -1087,14 +1100,15 @@
       "ultra-compact",
       "ndaa",
       "embedded"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2014",
     "name": "ST VL53L0X \u2014 ToF (2m, short range)",
     "manufacturer": "STMicroelectronics",
     "manufacturer_country": "Switzerland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 3,
     "source": "https://www.st.com/en/imaging-and-photonics-solutions/vl53l0x.html",
     "interface": "I2C",
@@ -1113,14 +1127,15 @@
       "ultra-compact",
       "ndaa",
       "short-range"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2015",
     "name": "LeddarTech LeddarOne \u2014 Narrow Beam LiDAR (40m)",
     "manufacturer": "LeddarTech",
     "manufacturer_country": "Canada",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 195,
     "source": "https://leddartech.com",
     "interface": "UART",
@@ -1140,14 +1155,15 @@
       "canada",
       "uart",
       "solid-state"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2016",
     "name": "Nooploop TOF-Sense P \u2014 UART ToF",
     "manufacturer": "Nooploop",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 29,
     "source": "https://www.nooploop.com/tof-sense-p/",
     "interface": "UART",
@@ -1165,14 +1181,15 @@
       "25m",
       "uart",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2017",
     "name": "Nooploop TOF-Sense F \u2014 CAN ToF",
     "manufacturer": "Nooploop",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 45,
     "source": "https://www.nooploop.com/tof-sense-f/",
     "interface": "CAN",
@@ -1190,14 +1207,15 @@
       "25m",
       "can",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2018",
     "name": "Avionics Anonymous DroneCAN LiDAR Interface",
     "manufacturer": "Avionics Anonymous",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 89,
     "source": "https://www.tindie.com/stores/avionicsanonymous/",
     "interface": "DroneCAN (CAN)",
@@ -1216,14 +1234,15 @@
       "ndaa",
       "usa-made",
       "i2c-to-can"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2019",
     "name": "Lanbao PSK-CM8JL65 \u2014 IR ToF (8m)",
     "manufacturer": "Lanbao",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 22,
     "source": "https://www.lanbao.com",
     "interface": "UART",
@@ -1243,14 +1262,15 @@
       "ir",
       "px4-only",
       "ultra-compact"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2020",
     "name": "JAE JRE-30 \u2014 Industrial Laser Rangefinder",
     "manufacturer": "JAE Electronics",
     "manufacturer_country": "Japan",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 299,
     "source": "https://www.jae.com",
     "interface": "UART",
@@ -1270,14 +1290,15 @@
       "japan",
       "industrial",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2021",
     "name": "Attollo Engineering Wasp 200 \u2014 High-Performance LiDAR",
     "manufacturer": "Attollo Engineering",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 395,
     "source": "https://attolloengineering.com",
     "interface": "UART",
@@ -1296,14 +1317,15 @@
       "ndaa",
       "usa-made",
       "high-performance"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2022",
     "name": "Hexsoon 24G Radar Altimeter",
     "manufacturer": "Hexsoon",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 89,
     "source": "https://www.hexsoon.com",
     "interface": "UART / CAN",
@@ -1323,14 +1345,15 @@
       "altimeter",
       "ardupilot-only",
       "all-weather"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2023",
     "name": "Hexsoon 77G MWW Radar \u2014 360\u00b0 Proximity",
     "manufacturer": "Hexsoon",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 299,
     "source": "https://www.hexsoon.com",
     "interface": "UART",
@@ -1350,14 +1373,15 @@
       "proximity",
       "obstacle-avoidance",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2024",
     "name": "RPLidar A2M8 \u2014 360\u00b0 Scanning LiDAR",
     "manufacturer": "Slamtec",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 99,
     "source": "https://www.slamtec.com/en/Lidar/A2",
     "interface": "UART",
@@ -1378,14 +1402,15 @@
       "obstacle-avoidance",
       "spinning",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2025",
     "name": "RPLidar C1 \u2014 Compact 360\u00b0 ToF LiDAR",
     "manufacturer": "Slamtec",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 79,
     "source": "https://www.slamtec.com/en/Lidar/C1",
     "interface": "UART",
@@ -1405,7 +1430,8 @@
       "tof",
       "compact",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2026",
@@ -1430,14 +1456,15 @@
       "adapter",
       "cyphal",
       "rangefinder"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2027",
     "name": "Intel RealSense D435 \u2014 Depth Camera (Rangefinder use)",
     "manufacturer": "Intel",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 179,
     "source": "https://www.intelrealsense.com/depth-camera-d435/",
     "interface": "USB3",
@@ -1457,14 +1484,15 @@
       "realsense",
       "ndaa",
       "companion-required"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "LIDAR-2028",
     "name": "LDRobot LD-06 \u2014 360\u00b0 ToF LiDAR",
     "manufacturer": "LDRobot",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 59,
     "source": "https://www.ldrobot.com/product/en/3",
     "interface": "UART",
@@ -1484,6 +1512,7 @@
       "tof",
       "budget",
       "ardupilot-only"
-    ]
+    ],
+    "origin": "Unknown"
   }
 ]

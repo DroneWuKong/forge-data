@@ -319,49 +319,6 @@
     "origin": "China"
   },
   {
-    "pid": "GPS-1008",
-    "category": "gps_modules",
-    "name": "HGLRC M100 Mini GPS",
-    "manufacturer": "HGLRC",
-    "description": "Using the new 10th-generation UBLOX chip design, the HGLRC M100 GPS positioning is fast and accurate. The small 15x15mm size can be loaded on 2-7 inch drones. The ceramic antenna and externally expanded PCB design allow M100 MINI GPS to receive satellite signals effectively.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/i/file_4.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 22,
-    "schema_data": {
-      "weight_g": 4
-    },
-    "constellations": [
-      "GPS",
-      "GLONASS",
-      "Galileo",
-      "BeiDou",
-      "NavIC"
-    ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html"
-    ],
-    "interface": "DroneCAN / UART",
-    "weight_g": 10,
-    "origin": "China"
-  },
-  {
     "pid": "GPS-1009",
     "category": "gps_modules",
     "name": "Flywoo GOKU GM10 Mini V3 GPS Module",
@@ -530,41 +487,6 @@
     ],
     "interface": "UART / I2C",
     "weight_g": 10,
-    "origin": "China"
-  },
-  {
-    "pid": "GPS-1013",
-    "category": "gps_modules",
-    "name": "iFlight Defender 25 BLITZ Split GPS",
-    "manufacturer": "iFlight",
-    "description": "The iFlight Defender 25 BLITZ Split GPS is an innovative GPS module tailored for seamless integration with the Defender25 drone.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight_defender_25_blitz_split_gps_2_.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 15,
-    "schema_data": {
-      "weight_g": 15
-    },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
     "origin": "China"
   },
   {
@@ -774,41 +696,6 @@
     "origin": "China"
   },
   {
-    "pid": "GPS-1019",
-    "category": "gps_modules",
-    "name": "Frsky GPS ADV Telemetry Sensor",
-    "manufacturer": "FrSky",
-    "description": "FrSky has enhanced the performance and capability of the original sensor line, resulting in the development of the new ADVANCE (ADV) FrSky GPS ADV Telemetry Sensor.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/r/frsky-gps-adv-telemetry-sensor-_image-2_.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 10,
-    "schema_data": {
-      "weight_g": 12
-    },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
-  },
-  {
     "pid": "GPS-1020",
     "category": "gps_modules",
     "name": "iFlight BLITZ Mini M10 GPS V2",
@@ -893,41 +780,6 @@
     "interface": "UART / I2C",
     "weight_g": 10,
     "origin": "China"
-  },
-  {
-    "pid": "GPS-1022",
-    "category": "gps_modules",
-    "name": "CubePilot The Cube Orange+ Standard Set",
-    "manufacturer": "CubePilot",
-    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1_1.jpg",
-    "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
-    "country": "Australia",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": true,
-      "combat_proven": false,
-      "note": "Allied nation (Australia)"
-    },
-    "approx_price": 11,
-    "schema_data": {
-      "weight_g": 9
-    },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
   },
   {
     "pid": "GPS-1023",
@@ -1708,41 +1560,6 @@
     "origin": "China"
   },
   {
-    "pid": "GPS-1042",
-    "category": "gps_modules",
-    "name": "CubePilot The Cube Orange+ Standard Set ADS-B (IMU V8) ",
-    "manufacturer": "CubePilot",
-    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1.jpg",
-    "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
-    "country": "Australia",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": true,
-      "combat_proven": false,
-      "note": "Allied nation (Australia)"
-    },
-    "approx_price": 13,
-    "schema_data": {
-      "weight_g": 3
-    },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
-  },
-  {
     "pid": "GPS-1043",
     "category": "gps_modules",
     "name": "Holybro H-RTK F9P Rover Lite GNSS w/ 10-Pin Cable",
@@ -1782,49 +1599,6 @@
     "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
     "interface": "UART / I2C",
     "weight_g": 35,
-    "origin": "China"
-  },
-  {
-    "pid": "GPS-1044",
-    "category": "gps_modules",
-    "name": "Holybro DroneCAN M8N GPS",
-    "manufacturer": "Holybro",
-    "description": "The DroneCAN M8N GPS is the primary CAN protocol used by the ArduPilot and PX4 projects for communication with CAN peripherals. It is an open protocol with open communication, specification, and multiple open implementations.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro_dronecan_m8n_gps_5_.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 14,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "constellations": [
-      "GPS",
-      "GLONASS",
-      "Galileo",
-      "BeiDou"
-    ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 15,
     "origin": "China"
   },
   {
@@ -2073,41 +1847,6 @@
     ],
     "interface": "UART / I2C",
     "weight_g": 12,
-    "origin": "China"
-  },
-  {
-    "pid": "GPS-1051",
-    "category": "gps_modules",
-    "name": "CUAV X7+ Standard Autopilot Flight Controller - PX4/APM",
-    "manufacturer": "CUAV",
-    "description": "The X7+\u00ae Standard Autopilot Flight Controller is a high-performance autopilot. It is an ideal choice for industrial drones and large-scale heavy-duty drones. The X7+ features an H7 processor, an upgraded sensor with a redundancy design, a temperature compensation system, and a CORE separate design.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cuav-x7_-standard-autopilot-flight-controller---px4apm-main.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 10,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
     "origin": "China"
   },
   {
@@ -2386,7 +2125,7 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 16,
@@ -2433,76 +2172,6 @@
     "origin": "China"
   },
   {
-    "pid": "GPS-1060",
-    "category": "gps_modules",
-    "name": "CubePilot The Cube Orange FD Standard Set + ADS-B",
-    "manufacturer": "CubePilot",
-    "description": "The Cube Orange Standard Set + ADS-B  flight controller comes with an H7 processor, features a 1,090 MHz ADS-B receiver from uAvionix, automatically avoids aircraft and Is integrated into the new ADS-B carrier board!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk2-suiteee.jpg",
-    "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
-    "country": "Australia",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": true,
-      "combat_proven": false,
-      "note": "Allied nation (Australia)"
-    },
-    "approx_price": 14,
-    "schema_data": {
-      "weight_g": 12
-    },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
-  },
-  {
-    "pid": "GPS-1061",
-    "category": "gps_modules",
-    "name": "The Cube - Yellow (F7 Processor for Pixhawk)",
-    "manufacturer": "Hex Technology",
-    "description": "Cube Yellow target to education, drones lovers and professional cost-effective flight control hardware providers.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/y/e/yellow-cube-main_1.jpg",
-    "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
-    "country": "Australia",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": true,
-      "combat_proven": false,
-      "note": "Allied nation (Australia)"
-    },
-    "approx_price": 11,
-    "schema_data": {
-      "weight_g": 14
-    },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Taiwan"
-  },
-  {
     "pid": "GPS-1062",
     "category": "gps_modules",
     "name": "MATEKSYS SAM-M8Q GPS Module",
@@ -2542,49 +2211,6 @@
     ],
     "interface": "UART / I2C",
     "weight_g": 6,
-    "origin": "China"
-  },
-  {
-    "pid": "GPS-1063",
-    "category": "gps_modules",
-    "name": "Holybro Pixhawk 4 Neo-M8N GPS",
-    "manufacturer": "Holybro",
-    "description": "Holybro now offers a new GPS which works with the Pixhawk 4. It has a UBLOX M8N module on it, as well as an IST8310 compass and tri-colored LED indicator, along with the Safety switch making the connection more convenient and simple.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/p/i/pixhawk4-gps1_1.jpg",
-    "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
-    "country": "China",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": false,
-      "combat_proven": false,
-      "note": "Chinese manufacture \u2014 NOT NDAA"
-    },
-    "approx_price": 14,
-    "schema_data": {
-      "weight_g": 12
-    },
-    "constellations": [
-      "GPS",
-      "GLONASS",
-      "Galileo",
-      "BeiDou"
-    ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 15,
     "origin": "China"
   },
   {
@@ -2930,41 +2556,6 @@
     "origin": "China"
   },
   {
-    "pid": "GPS-1072",
-    "category": "gps_modules",
-    "name": "Pixhawk 2.1 Cube Black",
-    "manufacturer": "Hex Technology",
-    "description": "The Pixhawk 2.1 Cube by Hex.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cube-black1.jpg",
-    "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
-    "country": "Australia",
-    "compliance": {
-      "blue_uas": false,
-      "ndaa_compliant": true,
-      "combat_proven": false,
-      "note": "Allied nation (Australia)"
-    },
-    "approx_price": 10,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Taiwan"
-  },
-  {
     "pid": "GPS-1073",
     "category": "gps_modules",
     "name": "Holybro UART to USB-C Converter",
@@ -3168,5 +2759,414 @@
     ],
     "link": "https://freeflysystems.com",
     "origin": "USA"
+  },
+  {
+    "pid": "GPS-1008",
+    "category": "gps_modules",
+    "name": "HGLRC M100 Mini GPS",
+    "manufacturer": "HGLRC",
+    "description": "Using the new 10th-generation UBLOX chip design, the HGLRC M100 GPS positioning is fast and accurate. The small 15x15mm size can be loaded on 2-7 inch drones. The ceramic antenna and externally expanded PCB design allow M100 MINI GPS to receive satellite signals effectively.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/i/file_4.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 22,
+    "schema_data": {
+      "weight_g": 4
+    },
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BeiDou",
+      "NavIC"
+    ],
+    "gnss_chipset": "u-blox M10",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 22,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html"
+    ],
+    "interface": "DroneCAN / UART",
+    "weight_g": 10,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1013",
+    "category": "gps_modules",
+    "name": "iFlight Defender 25 BLITZ Split GPS",
+    "manufacturer": "iFlight",
+    "description": "The iFlight Defender 25 BLITZ Split GPS is an innovative GPS module tailored for seamless integration with the Defender25 drone.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight_defender_25_blitz_split_gps_2_.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 15,
+    "schema_data": {
+      "weight_g": 15
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 15,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1019",
+    "category": "gps_modules",
+    "name": "Frsky GPS ADV Telemetry Sensor",
+    "manufacturer": "FrSky",
+    "description": "FrSky has enhanced the performance and capability of the original sensor line, resulting in the development of the new ADVANCE (ADV) FrSky GPS ADV Telemetry Sensor.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/r/frsky-gps-adv-telemetry-sensor-_image-2_.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 12
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 10,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1022",
+    "category": "gps_modules",
+    "name": "CubePilot The Cube Orange+ Standard Set",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1_1.jpg",
+    "size_class": "universal",
+    "tags": [
+      "ndaa",
+      "five-eyes"
+    ],
+    "country": "Australia",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 9
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Australia",
+    "price_usd": 11,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "USA"
+  },
+  {
+    "pid": "GPS-1042",
+    "category": "gps_modules",
+    "name": "CubePilot The Cube Orange+ Standard Set ADS-B (IMU V8) ",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1.jpg",
+    "size_class": "universal",
+    "tags": [
+      "ndaa",
+      "five-eyes"
+    ],
+    "country": "Australia",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Allied nation (Australia)"
+    },
+    "approx_price": 13,
+    "schema_data": {
+      "weight_g": 3
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Australia",
+    "price_usd": 13,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "USA"
+  },
+  {
+    "pid": "GPS-1044",
+    "category": "gps_modules",
+    "name": "Holybro DroneCAN M8N GPS",
+    "manufacturer": "Holybro",
+    "description": "The DroneCAN M8N GPS is the primary CAN protocol used by the ArduPilot and PX4 projects for communication with CAN peripherals. It is an open protocol with open communication, specification, and multiple open implementations.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro_dronecan_m8n_gps_5_.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BeiDou"
+    ],
+    "gnss_chipset": "u-blox M8",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 14,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "interface": "DroneCAN / UART",
+    "weight_g": 15,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1051",
+    "category": "gps_modules",
+    "name": "CUAV X7+ Standard Autopilot Flight Controller - PX4/APM",
+    "manufacturer": "CUAV",
+    "description": "The X7+\u00ae Standard Autopilot Flight Controller is a high-performance autopilot. It is an ideal choice for industrial drones and large-scale heavy-duty drones. The X7+ features an H7 processor, an upgraded sensor with a redundancy design, a temperature compensation system, and a CORE separate design.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cuav-x7_-standard-autopilot-flight-controller---px4apm-main.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 10,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1060",
+    "category": "gps_modules",
+    "name": "CubePilot The Cube Orange FD Standard Set + ADS-B",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange Standard Set + ADS-B  flight controller comes with an H7 processor, features a 1,090 MHz ADS-B receiver from uAvionix, automatically avoids aircraft and Is integrated into the new ADS-B carrier board!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk2-suiteee.jpg",
+    "size_class": "universal",
+    "tags": [
+      "ndaa",
+      "five-eyes"
+    ],
+    "country": "Australia",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Allied nation (Australia)"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 12
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Australia",
+    "price_usd": 14,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "USA"
+  },
+  {
+    "pid": "GPS-1061",
+    "category": "gps_modules",
+    "name": "The Cube - Yellow (F7 Processor for Pixhawk)",
+    "manufacturer": "Hex Technology",
+    "description": "Cube Yellow target to education, drones lovers and professional cost-effective flight control hardware providers.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/y/e/yellow-cube-main_1.jpg",
+    "size_class": "universal",
+    "tags": [
+      "ndaa",
+      "five-eyes"
+    ],
+    "country": "Australia",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Allied nation (Australia)"
+    },
+    "approx_price": 11,
+    "schema_data": {
+      "weight_g": 14
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Australia",
+    "price_usd": 11,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "Taiwan"
+  },
+  {
+    "pid": "GPS-1063",
+    "category": "gps_modules",
+    "name": "Holybro Pixhawk 4 Neo-M8N GPS",
+    "manufacturer": "Holybro",
+    "description": "Holybro now offers a new GPS which works with the Pixhawk 4. It has a UBLOX M8N module on it, as well as an IST8310 compass and tri-colored LED indicator, along with the Safety switch making the connection more convenient and simple.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/p/i/pixhawk4-gps1_1.jpg",
+    "size_class": "universal",
+    "tags": [
+      "non-ndaa",
+      "china"
+    ],
+    "country": "China",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": false,
+      "combat_proven": false,
+      "note": "Chinese manufacture \u2014 NOT NDAA"
+    },
+    "approx_price": 14,
+    "schema_data": {
+      "weight_g": 12
+    },
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BeiDou"
+    ],
+    "gnss_chipset": "u-blox M8",
+    "ndaa_compliant": false,
+    "blue_uas": false,
+    "manufacturer_country": "China",
+    "price_usd": 14,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html"
+    ],
+    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "China"
+  },
+  {
+    "pid": "GPS-1072",
+    "category": "gps_modules",
+    "name": "Pixhawk 2.1 Cube Black",
+    "manufacturer": "Hex Technology",
+    "description": "The Pixhawk 2.1 Cube by Hex.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cube-black1.jpg",
+    "size_class": "universal",
+    "tags": [
+      "ndaa",
+      "five-eyes"
+    ],
+    "country": "Australia",
+    "compliance": {
+      "blue_uas": false,
+      "ndaa_compliant": true,
+      "combat_proven": false,
+      "note": "Allied nation (Australia)"
+    },
+    "approx_price": 10,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "ndaa_compliant": true,
+    "blue_uas": false,
+    "manufacturer_country": "Australia",
+    "price_usd": 10,
+    "links": [
+      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html"
+    ],
+    "interface": "UART / I2C",
+    "weight_g": 15,
+    "origin": "Taiwan"
   }
 ]

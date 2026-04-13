@@ -1,6 +1,6 @@
 {
   "?": {
-    "image_url": "https://cdn.prod.website-files.com/66c338dc0b7091d0f18af0be/66cf221b83ea700fee7b7b78_5341e670998ace116535cca788a6e21b_SEO%20Cover.png",
+    "image_url": "https://censystech.com/wp-content/uploads/2025/02/VegCens-LiDAR-2.png",
     "local_path": "data/images/platforms/?.png",
     "source": "scrape",
     "downloaded": true
@@ -62,6 +62,12 @@
   "MDL-2056": {
     "image_url": "https://orqafpv.com/images/orqa-share.jpg",
     "local_path": "data/images/platforms/MDL-2056.jpg",
+    "source": "scrape",
+    "downloaded": true
+  },
+  "MDL-2004": {
+    "image_url": "https://freeflysystems.com/wp-content/uploads/2020/09/fb-astro.png",
+    "local_path": "data/images/platforms/MDL-2004.png",
     "source": "scrape",
     "downloaded": true
   }
