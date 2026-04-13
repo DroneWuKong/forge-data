@@ -8,10 +8,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here4-multiband-rtk-gnss-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-here4-multiband-rtk-gnss-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -29,16 +26,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here4-multiband-rtk-gnss-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "USA"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1001",
@@ -49,10 +37,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/radiomaster-ers-gps-telemetry-sensor-elrs-er.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/a/radiomaster-ers-gps---precision-gps-sensor-for-elrs-er-receivers_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -64,16 +49,13 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/radiomaster-ers-gps-telemetry-sensor-elrs-er.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1002",
@@ -84,10 +66,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-helical-gps-antenna-mount.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-helical-gps-mount-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -105,17 +84,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-helical-gps-antenna-mount.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1003",
@@ -126,10 +95,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m10-gps-w-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-micro-m10-gps-_images-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -148,18 +114,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m10-gps-w-case.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1004",
@@ -170,10 +125,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here4-base.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-here4-base.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -185,16 +137,13 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here4-base.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 45,
-    "origin": "USA"
+    "gnss_chipset": "u-blox F9P",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1005",
@@ -205,10 +154,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-rm3100-professional-grade-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-dronecan-rm3100-professional-grade-compass-1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -220,17 +166,11 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-rm3100-professional-grade-compass.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "PNI RM3100",
+    "constellations": [
+      "GPS",
+      "GLONASS"
+    ]
   },
   {
     "pid": "GPS-1006",
@@ -241,10 +181,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/lumenier-sam-m10q-gps-module-ndaa.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-gps-module-v1.2-1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -263,17 +200,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 29.99,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/lumenier-sam-m10q-gps-module-ndaa.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1007",
@@ -284,10 +211,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-m9n-standard-gps-w-10-pin-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-pixhawk-m9n-standard-gps-10-pin-cable.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -305,18 +229,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-m9n-standard-gps-w-10-pin-cable.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1008",
@@ -327,10 +240,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/i/file_4.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -349,17 +259,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-mini-gps.html"
-    ],
-    "interface": "DroneCAN / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1009",
@@ -370,10 +270,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-mini-v3-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo_goku_gm10_mini_v3_gps_module_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -392,17 +289,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14.99,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-mini-v3-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1010",
@@ -413,10 +300,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-pro-gps-module-for-fpv-drone-racing.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc_m80_pro_gps_module_for_fpv_drone_4_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -434,17 +318,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-pro-gps-module-for-fpv-drone-racing.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1011",
@@ -455,10 +329,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-pro-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrcm100pro1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -477,17 +348,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-pro-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1012",
@@ -498,10 +359,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-pro-v3-gps-module-w-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo_goku_gm10_pro_v3_gps_module_w_compass_2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -520,17 +378,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 24.99,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-pro-v3-gps-module-w-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1013",
@@ -541,10 +389,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight_defender_25_blitz_split_gps_2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -556,16 +401,12 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-defender-25-blitz-split-gps.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1014",
@@ -576,10 +417,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-nano-v3-1-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-gm10-nano-v3.1-gps-module-_image-1__1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -598,17 +436,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-nano-v3-1-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1015",
@@ -619,10 +447,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-mini-v3-gps-w-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-gm10-mini-v3-gps-w-compass.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -641,17 +466,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-mini-v3-gps-w-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1016",
@@ -662,10 +477,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-nano-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-m10-nano-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -684,17 +496,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-nano-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1017",
@@ -705,10 +507,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-bqnano-v1-compass-baro-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-bqnano-v1-compassbaro-module-main_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -720,16 +519,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-bqnano-v1-compass-baro-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 5,
-    "origin": "China"
+    "gnss_chipset": "N/A - compass/baro only",
+    "constellations": []
   },
   {
     "pid": "GPS-1018",
@@ -740,10 +531,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-gps-module-for-fpv-drone-racing.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-m80-gps-for-fpv-racing-drone-162676_1001x.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -761,17 +549,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m80-gps-module-for-fpv-drone-racing.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1019",
@@ -782,10 +560,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/r/frsky-gps-adv-telemetry-sensor-_image-2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -797,16 +572,12 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/frsky-gps-adv-telemetry-sensor.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1020",
@@ -817,10 +588,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-blitz-mini-m10-gps-v2.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-blitz-mini-m10-gps-v2-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -839,17 +607,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-blitz-mini-m10-gps-v2.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1021",
@@ -860,10 +618,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flyfishrc-m10qmc-5883l-gps-compass-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/h/the_flyfishrc_m10qmc-5883l_gps_2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -882,17 +637,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flyfishrc-m10qmc-5883l-gps-compass-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1022",
@@ -903,10 +648,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -918,16 +660,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1023",
@@ -938,10 +676,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/newbeedrone-beeid-v1-1-m10q-gps-module-remote-id.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/e/newbeedrone_beeid_v1.1_m10q_gps_module_with_remoteid_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -960,18 +695,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/newbeedrone-beeid-v1-1-m10q-gps-module-remote-id.html"
-    ],
-    "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1024",
@@ -982,10 +706,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m10-gps-module-w-o-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-micro-m10-gps-module-wo-case-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1004,18 +725,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m10-gps-module-w-o-case.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1025",
@@ -1026,10 +736,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-mosaic-h-gps-module-w-dual-antennas.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-mosaic-h-dual-antenna-heading-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1047,17 +754,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-mosaic-h-gps-module-w-dual-antennas.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1026",
@@ -1068,10 +765,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-herepro-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-herepro-without-istand-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -1089,16 +783,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-herepro-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "USA"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1027",
@@ -1109,10 +794,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hex-herepro-usb-adapter-board.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-herepro-usb-adapter-board-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -1124,16 +806,8 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hex-herepro-usb-adapter-board.html"
-    ],
-    "interface": "USB",
-    "weight_g": 15,
-    "origin": "USA"
+    "gnss_chipset": "N/A - adapter",
+    "constellations": []
   },
   {
     "pid": "GPS-1028",
@@ -1144,10 +818,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-can-hub-module-w-27cm-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-can-hub-module-27cm-cable-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1159,17 +830,8 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-can-hub-module-w-27cm-cable.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "N/A - cable",
+    "constellations": []
   },
   {
     "pid": "GPS-1029",
@@ -1180,10 +842,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-helical-gps-mount-vertical.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-helical-mount-vertical-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1201,17 +860,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 12,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-helical-gps-mount-vertical.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1030",
@@ -1222,10 +871,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-gps-extended-length-cable-jst-ghr-10p-420mm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-gps-extended-length-xable-10p-420mm.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1237,17 +883,8 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-gps-extended-length-cable-jst-ghr-10p-420mm.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "N/A - cable",
+    "constellations": []
   },
   {
     "pid": "GPS-1031",
@@ -1258,10 +895,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-gps-extended-length-cable-jst-ghr-6p-420mm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-gps-extended-length-xable-6p-420mm-_image-1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1273,17 +907,8 @@
     "schema_data": {
       "weight_g": 17
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-gps-extended-length-cable-jst-ghr-6p-420mm.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "N/A - cable",
+    "constellations": []
   },
   {
     "pid": "GPS-1032",
@@ -1294,10 +919,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-unc-adapter-1-4-20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/h/o/holybro-0.25-inch-unc-adapter-for-h-rtk-_image-2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1315,17 +937,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 148,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-unc-adapter-1-4-20.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "N/A - adapter"
   },
   {
     "pid": "GPS-1033",
@@ -1336,10 +948,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-gps-extended-length-cable-45cm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-dronecan-gps-extended-length-cable-45-cm-_image-2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1351,17 +960,8 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-gps-extended-length-cable-45cm.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "N/A - cable",
+    "constellations": []
   },
   {
     "pid": "GPS-1034",
@@ -1372,10 +972,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-unicore-um982-dual-antenna.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-unicore-um982-dual-antenna_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1393,18 +990,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-unicore-um982-dual-antenna.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1035",
@@ -1415,10 +1001,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-ultralight-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-f9p-ultralight-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1436,17 +1019,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-ultralight-gps-module.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1036",
@@ -1457,10 +1030,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m9n-gps-module-w-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-micro-m9n-gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1478,18 +1048,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m9n-gps-module-w-case.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1037",
@@ -1500,10 +1059,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-m10-standard-gps-w-10-pin-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-pixhawk-m10-standard-gps-w-10-pin-cable_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1522,18 +1078,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-m10-standard-gps-w-10-pin-cable.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1038",
@@ -1544,10 +1089,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm02-v3-m9n-gps-plastic-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-pixhawk-6c-pm02-_-m9n-gps-_-plastic-case_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1565,18 +1107,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm02-v3-m9n-gps-plastic-case.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1039",
@@ -1587,10 +1118,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-120-gps-w-5883-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-m10q-120-gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1609,17 +1137,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-120-gps-w-5883-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1040",
@@ -1630,10 +1148,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-gnss-sam-m10q-gps-module-gallileo-glonass-beidoub1c.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys-gnss-sam-m10q-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1652,17 +1167,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-gnss-sam-m10q-gps-module-gallileo-glonass-beidoub1c.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1041",
@@ -1673,10 +1178,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-nano-v3-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo_goku_gm10_nano_v3_gps_module_5.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1695,17 +1197,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-goku-gm10-nano-v3-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 2.2,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1042",
@@ -1716,10 +1208,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex_the_cube_orange_standard_set_ads-b_imu_v8_3__1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -1731,16 +1220,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1043",
@@ -1751,10 +1236,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-rover-lite-gnss-w-10-pin-cable.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro_h-rtk_f9p_rover_lite_gnss.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1772,17 +1254,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-rover-lite-gnss-w-10-pin-cable.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1044",
@@ -1793,10 +1265,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro_dronecan_m8n_gps_5_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1814,18 +1283,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-dronecan-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1045",
@@ -1836,10 +1294,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-roverlite-gnss-2nd-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-h-rtk-f9p-rover-lite-gnss-2nd-gps-w-6-pin-cable.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1857,17 +1312,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-h-rtk-f9p-roverlite-gnss-2nd-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 35,
-    "origin": "China"
+    "gnss_chipset": "u-blox F9P"
   },
   {
     "pid": "GPS-1046",
@@ -1878,10 +1323,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm02-v3-power-module-m8n-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk_6c.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1899,18 +1341,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm02-v3-power-module-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1047",
@@ -1921,10 +1352,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/zohd-kopilot-lite-gps-module-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/o/zohd-kopilot-lite-gps-module-unit-_2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1936,16 +1364,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/zohd-kopilot-lite-gps-module-unit.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1048",
@@ -1956,10 +1380,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-m10-5883-gnss-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/n/gnss_compass_m10-5883.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1978,17 +1399,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-m10-5883-gnss-compass.html"
-    ],
-    "interface": "DroneCAN / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1049",
@@ -1999,10 +1410,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-ap-periph-gnss-m10-l4-3100-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys_ap_periph_gnss_m10-l4-3100_can_gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2021,17 +1429,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-ap-periph-gnss-m10-l4-3100-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1050",
@@ -2042,10 +1440,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-neo-3-pro-gps-module-gnss-u-blox-m9n-can-bus.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cuav-neo-3-pro-gps-module---gnss-u-blox-m9n-can-bus-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2063,17 +1458,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-neo-3-pro-gps-module-gnss-u-blox-m9n-can-bus.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1051",
@@ -2084,10 +1469,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cuav-x7_-standard-autopilot-flight-controller---px4apm-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2099,16 +1481,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cuav-x7-standard-autopilot-flight-controller-px4-apm.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1052",
@@ -2119,10 +1497,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-hex-here3-can-gnss-gps-module-w-istand-html.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-here3-can-gnss-gps-module-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -2140,16 +1515,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-hex-here3-can-gnss-gps-module-w-istand-html.html"
-    ],
-    "interface": "DroneCAN / UART",
-    "weight_g": 35,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M8P"
   },
   {
     "pid": "GPS-1053",
@@ -2160,10 +1526,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ap-periph-gnss-m9n-f4-3100-can-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/m/a/matek-ap_periph-gnss-m9n-f4-3100-can-gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2181,17 +1544,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ap-periph-gnss-m9n-f4-3100-can-gps.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1054",
@@ -2202,10 +1555,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm07-power-module-m8n-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk6c_aluminum_pm0714s_m9ngpsset_1800x1800.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2223,18 +1573,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-6c-pm07-power-module-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1055",
@@ -2245,10 +1584,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-m8q-5883-v2-0-gps-module-w-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight_m8q-5883_gps_and_compass_v2.0.jpeg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2266,17 +1602,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/iflight-m8q-5883-v2-0-gps-module-w-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1056",
@@ -2287,10 +1613,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/tbs-m8-2-gps-glonass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs_m8.2_gps_glonass_.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -2308,17 +1631,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 12,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/tbs-m8-2-gps-glonass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Germany"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1057",
@@ -2329,10 +1642,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-gnss-m8q-can-uavcan-msp-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/matek_gps_m8q-can_uavcan_msp_4_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2350,17 +1660,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-gnss-m8q-can-uavcan-msp-gps.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1058",
@@ -2371,10 +1671,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hc-05-rf-wireless-bluetooth-transceiver-module-rs232-ttl-to-uart-converter-and-adapter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/c/hc-05-rf-wireless-bluetooth-transceiver-module-rs232--ttl-to-uart-converter-and-adapter_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2386,16 +1683,8 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hc-05-rf-wireless-bluetooth-transceiver-module-rs232-ttl-to-uart-converter-and-adapter.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Unknown"
+    "gnss_chipset": "N/A - Bluetooth module",
+    "constellations": []
   },
   {
     "pid": "GPS-1059",
@@ -2406,10 +1695,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-bt-nano-v2-bluetooth-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-bt-nano-v3_3_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2421,16 +1707,8 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/flywoo-bt-nano-v2-bluetooth-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 5,
-    "origin": "China"
+    "gnss_chipset": "N/A - Bluetooth module",
+    "constellations": []
   },
   {
     "pid": "GPS-1060",
@@ -2441,10 +1719,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/p/i/pixhawk2-suiteee.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -2456,16 +1731,12 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-the-cube-orange-fd-standard-set-ads-b.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1061",
@@ -2476,10 +1747,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/y/e/yellow-cube-main_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -2491,16 +1759,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/the-cube-yellow-f7-processor-for-pixhawk.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Taiwan"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1062",
@@ -2511,10 +1775,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ublox-sam-m8q-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/g/p/gps-sam-m8q-2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2532,17 +1793,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/matek-ublox-sam-m8q-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 6,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1063",
@@ -2553,10 +1804,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/p/i/pixhawk4-gps1_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2574,18 +1822,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M8",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-pixhawk-4-neo-m8n-gps.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
+    "gnss_chipset": "u-blox M8"
   },
   {
     "pid": "GPS-1064",
@@ -2596,10 +1833,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-250-gps-w-5883-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-m10q-250-gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2618,17 +1852,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-250-gps-w-5883-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1065",
@@ -2639,10 +1863,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-dq-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-m10-dq-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2661,17 +1882,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-dq-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1066",
@@ -2682,10 +1893,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-180-gps-w-5883-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-m10q-180-gps.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2704,17 +1912,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/foxeer-m10q-180-gps-w-5883-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1067",
@@ -2725,10 +1923,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-5883-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-m100-5883-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2747,17 +1942,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/hglrc-m100-5883-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1068",
@@ -2768,10 +1953,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-gps-module.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc-m10-gps-module.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2790,17 +1972,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/geprc-m10-gps-module.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1069",
@@ -2811,10 +1983,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here3-can-gnss-gps-module-w-istand.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/hex-here3-can-gnss-gps-module-main-plus.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -2832,16 +2001,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 11,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/cubepilot-here3-can-gnss-gps-module-w-istand.html"
-    ],
-    "interface": "DroneCAN / UART",
-    "weight_g": 35,
-    "origin": "USA"
+    "gnss_chipset": "u-blox M8P"
   },
   {
     "pid": "GPS-1070",
@@ -2852,10 +2012,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-m10q-5883-gnss-compass.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys-m10q-5883-gnss-_-compass_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2874,17 +2031,7 @@
       "BeiDou",
       "NavIC"
     ],
-    "gnss_chipset": "u-blox M10",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/mateksys-m10q-5883-gnss-compass.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 10,
-    "origin": "China"
+    "gnss_chipset": "u-blox M10"
   },
   {
     "pid": "GPS-1071",
@@ -2895,10 +2042,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m9n-gps-module-w-o-case.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-micro-m9n-gps-module-wo-case-_image-2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2916,18 +2060,7 @@
       "Galileo",
       "BeiDou"
     ],
-    "gnss_chipset": "u-blox M9",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-micro-m9n-gps-module-w-o-case.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 12,
-    "origin": "China"
+    "gnss_chipset": "u-blox M9"
   },
   {
     "pid": "GPS-1072",
@@ -2938,10 +2071,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cube-black1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "country": "Australia",
     "compliance": {
       "blue_uas": false,
@@ -2953,16 +2083,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 10,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/pixhawk-2-1-cube.html"
-    ],
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "Taiwan"
+    "gnss_chipset": "u-blox M8N",
+    "constellations": [
+      "GPS",
+      "GLONASS",
+      "BeiDou"
+    ]
   },
   {
     "pid": "GPS-1073",
@@ -2973,10 +2099,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-uart-to-usb-c-converter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/holybro-uart-to-usb-c-converter-_image-3_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2988,185 +2111,7 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/fc-with-gps/holybro-uart-to-usb-c-converter.html"
-    ],
-    "ndaa_note": "Holybro, Shenzhen, China. H-Flow uses quality components (Broadcom ToF, PixArt, InvenSense) but board assembly is Chinese. NDAA status not independently verified \u2014 do not use for federal contracts without written compliance documentation.",
-    "interface": "UART / I2C",
-    "weight_g": 15,
-    "origin": "China"
-  },
-  {
-    "pid": "GPS-1074",
-    "category": "gps_modules",
-    "name": "ARK Electronics ARK GPS (M9N)",
-    "manufacturer": "ARK Electronics",
-    "description": "USA made DroneCAN GPS + magnetometer + barometer + IMU + buzzer + safety switch on one module. u-blox M9N (4-constellation L1, 25Hz), Bosch BMM150 mag, BMP388 baro, ICM-42688-P IMU. STM32F412, 2x CAN JST-GH. Advanced spoofing/jamming detection. 5x5x1cm, 16g. PX4 open source firmware. Blue UAS listed.",
-    "link": "https://arkelectron.com/product/ark-gps/",
-    "image_file": "",
-    "size_class": "standard",
-    "tags": [
-      "ndaa",
-      "blue-uas",
-      "usa",
-      "px4",
-      "ardupilot",
-      "dronecan",
-      "open-source",
-      "pixhawk",
-      "m9n",
-      "can",
-      "buzzer",
-      "safety-switch",
-      "imu",
-      "barometer",
-      "magnetometer"
-    ],
-    "country": "USA",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": true,
-      "note": "Blue UAS Framework listed. NDAA compliant. Made in USA."
-    },
-    "approx_price": "$225",
-    "constellations": [
-      "GPS",
-      "GLONASS",
-      "Galileo",
-      "BeiDou"
-    ],
-    "schema_data": {
-      "ndaa_compliant": true,
-      "blue_uas": true,
-      "country": "USA",
-      "module": "u-blox M9N"
-    },
-    "ndaa_compliant": true,
-    "blue_uas": true,
-    "manufacturer_country": "USA",
-    "price_usd": 225.0,
-    "links": [
-      "https://arkelectron.com/product/ark-gps/"
-    ],
-    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 16.0,
-    "origin": "USA"
-  },
-  {
-    "pid": "GPS-1075",
-    "category": "gps_modules",
-    "name": "ARK Electronics ARK RTK GPS (F9P)",
-    "manufacturer": "ARK Electronics",
-    "description": "Blue UAS listed DroneCAN L1/L2 RTK GPS. u-blox F9P (centimeter accuracy in seconds, moving base for heading), Bosch BMM150 mag, BMP388 baro, ICM-42688-P IMU, STM32F412. 2x CAN JST-GH. Safety button, buzzer, RGB LED. Supports concurrent GPS/GLONASS/Galileo/BeiDou. 16g, 50x50mm. Includes L1/L2 helical antenna. Blue UAS listed.",
-    "link": "https://arkelectron.com/product/ark-rtk-gps/",
-    "image_file": "",
-    "size_class": "professional",
-    "tags": [
-      "ndaa",
-      "blue-uas",
-      "usa",
-      "px4",
-      "ardupilot",
-      "dronecan",
-      "open-source",
-      "pixhawk",
-      "rtk",
-      "f9p",
-      "l1-l2",
-      "moving-base",
-      "heading",
-      "can",
-      "buzzer",
-      "safety-switch",
-      "imu",
-      "barometer"
-    ],
-    "country": "USA",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": true,
-      "note": "Blue UAS Framework listed. NDAA compliant. Made in USA."
-    },
-    "approx_price": "$615\u2013$650",
-    "constellations": [
-      "GPS",
-      "GLONASS",
-      "Galileo",
-      "BeiDou"
-    ],
-    "schema_data": {
-      "ndaa_compliant": true,
-      "blue_uas": true,
-      "country": "USA",
-      "module": "u-blox ZED-F9P",
-      "rtk": true,
-      "bands": "L1/L2"
-    },
-    "ndaa_compliant": true,
-    "blue_uas": true,
-    "manufacturer_country": "USA",
-    "price_usd": 615.0,
-    "links": [
-      "https://arkelectron.com/product/ark-rtk-gps/"
-    ],
-    "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
-    "interface": "DroneCAN / UART",
-    "weight_g": 16.0,
-    "origin": "USA"
-  },
-  {
-    "pid": "GPS-FF-RTK-GND",
-    "name": "Freefly RTK GPS Ground Station",
-    "manufacturer": "Freefly Systems",
-    "manufacturer_country": "United States",
-    "ndaa_compliant": true,
-    "weight_g": 907,
-    "interface": "USB",
-    "description": "Freefly RTK GPS Ground Station. US-manufactured. Provides RTK corrections to Astro and Alta X platforms. Compatible with u-blox F9P.",
-    "sku": "910-00659",
-    "tags": [
-      "ndaa",
-      "freefly",
-      "rtk",
-      "gps",
-      "ground-station",
-      "ublox-f9p"
-    ],
-    "firmware_compat": [
-      "ArduPilot",
-      "PX4",
-      "Auterion Enterprise PX4"
-    ],
-    "link": "https://freeflysystems.com",
-    "origin": "USA"
-  },
-  {
-    "pid": "GPS-FF-ANT-RTK",
-    "name": "Freefly Replacement GPS Antenna (RTK)",
-    "manufacturer": "Freefly Systems",
-    "manufacturer_country": "United States",
-    "ndaa_compliant": true,
-    "weight_g": 454,
-    "interface": "SMA",
-    "description": "Replacement RTK GPS antenna for Freefly Astro and Alta X. US-manufactured. Dual-band RTK antenna.",
-    "sku": "910-00438",
-    "tags": [
-      "ndaa",
-      "freefly",
-      "rtk",
-      "antenna",
-      "gps"
-    ],
-    "firmware_compat": [
-      "ArduPilot",
-      "PX4"
-    ],
-    "link": "https://freeflysystems.com",
-    "origin": "USA"
+    "gnss_chipset": "N/A - adapter cable",
+    "constellations": []
   }
 ]

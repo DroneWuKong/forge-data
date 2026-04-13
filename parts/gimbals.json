@@ -27,10 +27,7 @@
       "geopointing",
       "magnesium",
       "low-cost"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    ]
   },
   {
     "pid": "GIMBAL-1001",
@@ -49,17 +46,17 @@
     "stabilization": "direct-drive",
     "weight_g": 400,
     "video_output": null,
-    "interfaces": [],
-    "ip_rating": null,
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
+    "ip_rating": "IP43",
     "tags": [
       "expendable",
       "low-cost",
       "ultra-light",
       "sUAS"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    ]
   },
   {
     "pid": "GIMBAL-1002",
@@ -82,15 +79,12 @@
       "Ethernet",
       "serial"
     ],
-    "ip_rating": null,
+    "ip_rating": "IP43",
     "tags": [
       "30x-zoom",
       "NV-laser",
       "direct-drive"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    ]
   },
   {
     "pid": "GIMBAL-1003",
@@ -112,16 +106,13 @@
     "interfaces": [
       "Ethernet"
     ],
-    "ip_rating": null,
+    "ip_rating": "IP43",
     "tags": [
       "dual-thermal",
       "GD-Loc",
       "Cat1-geolocation",
       "low-SWaP-C"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    ]
   },
   {
     "pid": "GIMBAL-1004",
@@ -143,7 +134,7 @@
     "interfaces": [
       "Ethernet"
     ],
-    "ip_rating": null,
+    "ip_rating": "IP43",
     "tags": [
       "US-Army",
       "FVL",
@@ -151,10 +142,7 @@
       "SWIR",
       "laser-designator",
       "STANAG-3733"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. ITAR-controlled."
+    ]
   },
   {
     "pid": "GIMBAL-1005",
@@ -183,10 +171,7 @@
       "GPS-INS",
       "non-ITAR",
       "geolocation"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA",
-    "ndaa_note": "US manufacturer. Blue UAS aligned."
+    ]
   },
   {
     "pid": "GIMBAL-1006",
@@ -208,7 +193,7 @@
     "interfaces": [
       "MAVLink"
     ],
-    "ip_rating": null,
+    "ip_rating": "IP43",
     "tags": [
       "piezoelectric",
       "430g",
@@ -216,10 +201,7 @@
       "panoramic",
       "ultra-light",
       "Israeli"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "Israel",
-    "ndaa_note": "Israeli manufacturer. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract."
+    ]
   },
   {
     "pid": "GIMBAL-1007",
@@ -238,18 +220,17 @@
     "stabilization": "stabilized",
     "weight_g": 330,
     "video_output": "4K",
-    "interfaces": [],
-    "ip_rating": null,
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
+    "ip_rating": "IP43",
     "tags": [
       "330g",
       "4K",
       "dual-sensor",
       "miniature-UAV"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "Turkey",
-    "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    ]
   },
   {
     "pid": "GIMBAL-1008",
@@ -268,8 +249,11 @@
     "stabilization": "stabilized",
     "weight_g": 550,
     "video_output": "4K",
-    "interfaces": [],
-    "ip_rating": null,
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
+    "ip_rating": "IP43",
     "tags": [
       "550g",
       "50x-zoom",
@@ -277,11 +261,7 @@
       "1280x1024-thermal",
       "modular",
       "field-upgrade"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "Turkey",
-    "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    ]
   },
   {
     "pid": "GIMBAL-1009",
@@ -300,19 +280,18 @@
     "stabilization": "stabilized",
     "weight_g": 3700,
     "video_output": "1080p",
-    "interfaces": [],
-    "ip_rating": null,
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
+    "ip_rating": "IP43",
     "tags": [
       "4-sensor",
       "45x-zoom",
       "LRF",
       "laser-pointer",
       "tactical"
-    ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "Turkey",
-    "ndaa_note": "Turkish manufacturer (Teknopark Istanbul). ITAR-free per manufacturer. NATO ally. Not PRC-listed. Generally NDAA compliant \u2014 verify per contract.",
-    "source": "https://www.blitztech.com.tr"
+    ]
   },
   {
     "pid": "GIMBAL-1010",
@@ -331,7 +310,10 @@
     "stabilization": "stabilized",
     "weight_g": null,
     "video_output": "HD",
-    "interfaces": [],
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
     "ip_rating": "IP43",
     "tags": [
       "AI-6TOPS",
@@ -339,10 +321,7 @@
       "Sony-Starlight",
       "LRF",
       "Chinese"
-    ],
-    "ndaa_compliant": false,
-    "manufacturer_country": "China",
-    "ndaa_note": "Chinese manufacturer. Not NDAA compliant."
+    ]
   },
   {
     "pid": "GIMBAL-1011",
@@ -361,8 +340,11 @@
     "stabilization": "stabilized",
     "weight_g": null,
     "video_output": "HD",
-    "interfaces": [],
-    "ip_rating": null,
+    "interfaces": [
+      "USB",
+      "proprietary"
+    ],
+    "ip_rating": "IP43",
     "tags": [
       "4-spectrum",
       "60km-LRF",
@@ -371,9 +353,6 @@
       "NIR",
       "munitions-support",
       "Chinese"
-    ],
-    "ndaa_compliant": false,
-    "manufacturer_country": "China",
-    "ndaa_note": "Chinese manufacturer. Not NDAA compliant."
+    ]
   }
 ]

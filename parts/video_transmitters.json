@@ -8,10 +8,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/wallefpv-naked-o4-pro-air-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/wallefpv_naked_o4_pro_air_unit-1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI O4",
     "max_power_mw": 1600,
     "country": "China",
@@ -25,16 +22,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/wallefpv-naked-o4-pro-air-unit.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.6,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1001",
@@ -45,10 +38,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-blue-air-unit-v1-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cubepilot_herelink_blue_air_unit_v1.1_1__1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "video_system": "Proprietary",
     "country": "Australia",
     "compliance": {
@@ -61,16 +51,13 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-blue-air-unit-v1-1.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "max_power_mw": 1000,
+    "channels": "Digital",
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "DJI Herelink",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1002",
@@ -81,10 +68,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-blue-bundle-v1-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/u/cubepilot_herelink_blue_bundle_v1.1.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "video_system": "Proprietary",
     "country": "Australia",
     "compliance": {
@@ -97,16 +81,13 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-blue-bundle-v1-1.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "max_power_mw": 1000,
+    "channels": "Digital",
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "DJI Herelink",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1003",
@@ -117,10 +98,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/betafpv-p1-air-unit-hd-vtx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/e/betafpv_p1_air_unit_hd-1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 1000,
     "country": "China",
@@ -134,16 +112,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/betafpv-p1-air-unit-hd-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "Digital",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1004",
@@ -155,10 +129,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_whoop_v2-2.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 200,
     "country": "China",
     "compliance": {
@@ -171,17 +142,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 54,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-whoop-v2-bundle-nano-v3-camera.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Digital / UART",
-    "weight_g": 2,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1005",
@@ -193,10 +159,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_whoop_v2_vtx-1.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 200,
     "country": "China",
     "compliance": {
@@ -209,17 +172,12 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 53,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-whoop-v2-vtx.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "MIPI CSI / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1006",
@@ -231,10 +189,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-kit---32gb-w-dual-antennas_1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -247,16 +202,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 50,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-pro-kit-32gb-w-dual-antennas.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1007",
@@ -268,10 +219,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-kit---32gb-w-dual-antennas-bundle-_thumbnail_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -284,16 +232,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 48,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-pro-kit-32gb-gyro-dual-antennas.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1008",
@@ -305,10 +249,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/m/emax-wyvern-link-vtx_1_.jpg",
     "max_power_mw": 800,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "OpenIPC",
     "country": "China",
     "compliance": {
@@ -321,16 +262,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/emax-wyvern-link-alpha-v2-800mw-vtx-w-openipc-aluminum-case.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "OpenIPC",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1009",
@@ -341,10 +278,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/runcam-wifilink-2-g-w-openipc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/i/wifilink-g_1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "OpenIPC",
     "country": "China",
     "compliance": {
@@ -357,16 +291,13 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/runcam-wifilink-2-g-w-openipc.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "max_power_mw": 100,
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.1,
+    "protocol": "OpenIPC",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1010",
@@ -378,10 +309,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-freestyle-v2-vtx-kit.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -394,17 +322,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 59.99,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-freestyle-v2-vtx-kit.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1011",
@@ -416,10 +339,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-32gb-single-antenna-_image-1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -432,16 +352,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 54,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1012",
@@ -453,10 +369,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-mini-1s-kit-bundle-_thumbnail_1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 400,
     "country": "China",
     "compliance": {
@@ -469,16 +382,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 51,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-mini-1s-gyro.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1013",
@@ -490,10 +399,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-repeater-_image-1__1.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -506,16 +412,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 47,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-repeater.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1014",
@@ -527,10 +429,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-o4-air-unit-render_main-1000x1000_.jpg",
     "video_system": "DJI O4",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1400,
     "country": "China",
     "compliance": {
@@ -543,16 +442,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 83,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-o4-air-unit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.4,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1015",
@@ -564,10 +459,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2----32g-w-gyro.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -580,16 +472,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 46,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-kit-v2-32gb-w-gyro.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1016",
@@ -601,10 +489,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/r/truerc-x-air-5.8ghz-mk-ii-antenna-stubby-combo-for-hdzero-vrx4---rhcp-_image-1_1_.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "USA",
     "compliance": {
@@ -617,16 +502,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 50,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/truerc-x-air-5-8ghz-mk-ii-antenna-stubby-combo-for-hdzero-vrx4-rhcp.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1017",
@@ -638,10 +519,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-moonlight-kit---4k-avatar-fpv-system.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -654,16 +532,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 49,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-moonlight-kit-4k-avatar-fpv-system.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1018",
@@ -674,10 +548,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/hglrc-specter-aio-f411-elrs-fc-10a-1-2s-blheli-s-esc-400mw-vtx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-specter-aio---f411-elrs-fc-_-10a-1-2s-blheli_s-esc-_-400mw-vtx.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 400,
     "country": "China",
@@ -691,16 +562,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hglrc-specter-aio-f411-elrs-fc-10a-1-2s-blheli-s-esc-400mw-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 2.4,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1019",
@@ -712,10 +579,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-vtx-v2-module---32gb-dual-antennas-version_2_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -728,16 +592,12 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 45,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vtx-v2-dual-antennas.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1020",
@@ -749,10 +609,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-freestyle-v2-vtx-_2_.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -765,17 +622,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-freestyle-v2-vtx.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1024",
@@ -787,10 +639,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-nano-camera-_-mini-lite-1s-vtx-kit-w-heatsink_1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 400,
     "country": "China",
     "compliance": {
@@ -803,16 +652,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-mini-1s-kit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1025",
@@ -824,10 +669,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-vrx_1__2.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -840,16 +682,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1026",
@@ -860,10 +698,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-hd-air-unit-v1-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/herelink-hd-air-unit-v2-_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "video_system": "Proprietary",
     "country": "Australia",
     "compliance": {
@@ -876,16 +711,13 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 24,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-hd-air-unit-v1-1.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "max_power_mw": 1000,
+    "channels": "Digital",
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "DJI Herelink",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1027",
@@ -897,10 +729,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-unify-pro32-dp---mmcx-_image-2__1.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -913,16 +742,12 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro32-dp-vtx-ndaa.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1028",
@@ -933,10 +758,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/speedybee-tx800-5-8ghz-vtx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/p/speedybee-tx800-vtx_3_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 800,
     "country": "China",
@@ -950,16 +772,12 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16.99,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/speedybee-tx800-5-8ghz-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1029",
@@ -970,10 +788,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/happymodel-expresslrs-f4-5a-5-in-1-aio-fc-w-built-in-2-4ghz-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/a/happymodel-expresslrs-f4-5a-5-in-1-aio-fc-w-built-in-2.4ghz-rx-front.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 400,
     "country": "China",
@@ -987,16 +802,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/happymodel-expresslrs-f4-5a-5-in-1-aio-fc-w-built-in-2-4ghz-rx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1030",
@@ -1008,10 +819,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/x/i/xilo-stax-video-transmitter_1.jpg",
     "max_power_mw": 600,
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "USA",
     "compliance": {
@@ -1024,17 +832,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 19.99,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/xilo-stax-5-8ghz-fpv-video-transmitter-25-600mw.html"
-    ],
-    "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.6,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1033",
@@ -1047,10 +850,7 @@
     "max_power_mw": 500,
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -1062,16 +862,12 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro32-nano-5g8.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 2,
-    "origin": "Germany"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1034",
@@ -1083,10 +879,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/unify-hv-1_2.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1099,16 +892,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro-5g8-hv-sma.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1035",
@@ -1120,10 +909,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/unify-hv-1_1.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1136,16 +922,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro-hv-5g8-race-sma.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1036",
@@ -1157,10 +939,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/unify-hv-1.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1173,16 +952,12 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro-5g8-hv.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "RP-SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1038",
@@ -1194,10 +969,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-unify-pro32-vtx-mmcx.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1210,16 +982,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro32-5-8ghz-video-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "MMCX",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1039",
@@ -1231,10 +999,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-unify-pro32-dp---mmcx-_image-1_.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1247,16 +1012,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro32-dp-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1040",
@@ -1267,10 +1028,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/runcam-wifilink-2-w-openipc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/i/wifilink-1.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "OpenIPC",
     "country": "China",
     "compliance": {
@@ -1284,16 +1042,12 @@
       "weight_g": 1
     },
     "max_power_mw": 2000,
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 20,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/runcam-wifilink-2-w-openipc.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 2.0,
+    "protocol": "OpenIPC",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1041",
@@ -1305,10 +1059,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/unify-5g8-v3_1.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1321,16 +1072,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro-5g8.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "RP-SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1042",
@@ -1342,10 +1089,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_race_v3_shark_byte_digital_hd_video_transmitter.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 400,
     "country": "China",
     "compliance": {
@@ -1358,17 +1102,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 59,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-race-v3-digital-hd-video-transmitter.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1044",
@@ -1380,10 +1119,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-mini-vtx-v3.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 400,
     "country": "China",
     "compliance": {
@@ -1396,16 +1132,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-mini-vtx-v3.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1045",
@@ -1417,10 +1149,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/unify-5g8-v3.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -1433,16 +1162,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-pro-5g8-v3-sma.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 5.0,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1048",
@@ -1454,10 +1179,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddxfpv_walksnail_ascent_lite_vtx_kit-1_1.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 700,
     "country": "China",
     "compliance": {
@@ -1470,16 +1192,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 53,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-ascent-lite-vtx-kit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.7,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1049",
@@ -1490,10 +1208,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/dji-goggles-n3-o4-air-unit-bundle.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/h/dhi_goggles_n3_o4_bundle_image.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI O4",
     "max_power_mw": 1400,
     "country": "China",
@@ -1507,16 +1222,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 76,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-goggles-n3-o4-air-unit-bundle.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.4,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1050",
@@ -1528,10 +1239,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-o4-air-unit-pro-_main-image_.jpg",
     "video_system": "DJI O4",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1400,
     "country": "China",
     "compliance": {
@@ -1544,16 +1252,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 83,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-o4-air-unit-pro.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.4,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1051",
@@ -1565,10 +1269,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2---32gb-_-gyro-w-dual-antennas-bundle-_thumbnail_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -1581,16 +1282,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 51,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-vrx-bundle-hd-kit-v2-32gb-gyro-dual-antennas.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1052",
@@ -1602,10 +1299,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/m/emax-wyvern-link-_alpha_-openipc---800mw-vtx-_image-2_.jpg",
     "max_power_mw": 800,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "OpenIPC",
     "country": "China",
     "compliance": {
@@ -1618,16 +1312,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 23,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/emax-wyvern-link-alpha-openipc-800mw-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "OpenIPC",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1053",
@@ -1639,10 +1329,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/m/emax-wyvern-link-_alpha_-openipc---100mw-vtx-_image-1_.jpg",
     "max_power_mw": 100,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "OpenIPC",
     "country": "China",
     "compliance": {
@@ -1655,16 +1342,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/emax-wyvern-link-alpha-openipc-100mw-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.1,
+    "protocol": "OpenIPC",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1054",
@@ -1677,10 +1360,7 @@
     "max_power_mw": 1000,
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1692,16 +1372,12 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 33,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-max-solo-25-1000mw-5-8ghz-vtx-mmcx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 18,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "MMCX",
+    "power_w": 1.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1055",
@@ -1713,10 +1389,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-vrx-_-hd-kit-v2---32gb-gyro-_-dual-antennas.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -1729,16 +1402,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 54,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-vrx-hd-kit-v2-32gb-w-gyro-dual-antennas.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1057",
@@ -1749,10 +1418,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-stack---gn405s-fc-_icm42688_-20a-esc-aio-_-hm850-850mw-microphone-vtx.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 850,
     "video_system": "Analog",
     "country": "China",
@@ -1766,16 +1432,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 3,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1058",
@@ -1787,10 +1449,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2---32gb-_-gyro-w-dual-antennas_1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -1803,16 +1462,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 50,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-kit-v2-32gb-gyro-w-dual-antennas.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1059",
@@ -1823,10 +1478,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/flywoo-naked-o3-lite-air-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-naked-o3-lite-air-unit_2_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI O3",
     "max_power_mw": 700,
     "country": "China",
@@ -1840,16 +1492,12 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/flywoo-naked-o3-lite-air-unit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.7,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1060",
@@ -1860,10 +1508,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/flywoo-naked-o3-ultra-air-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-naked-o3-ultra-air-unit-_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI O3",
     "max_power_mw": 1200,
     "country": "China",
@@ -1877,16 +1522,12 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/flywoo-naked-o3-ultra-air-unit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1061",
@@ -1899,10 +1540,7 @@
     "max_power_mw": 200,
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1914,16 +1552,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 53,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/foxeer-hdzero-200mw-hd-vtx-race-edition.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 6,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1062",
@@ -1935,10 +1569,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-vrx-_-hd-kit-v2---32gb-w-gyro.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -1951,16 +1582,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 54,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-vrx-hd-kit-v2-32gb-w-gyro.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1063",
@@ -1971,10 +1598,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/runcam-wasp-nano-hd-fpv-camera-system-w-link-vtx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam_wasp_nano_hd_camera_system_w_link_vtx_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Walksnail",
     "max_power_mw": 400,
     "country": "China",
@@ -1988,16 +1612,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/runcam-wasp-nano-hd-fpv-camera-system-w-link-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 2,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1064",
@@ -2008,10 +1628,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/runcam-wasp-hd-fpv-camera-system-w-dji-fpv-air-unit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam-wasp-hd-fpv-camera-system-w-dji-fpv-air-unit.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 700,
     "country": "China",
@@ -2025,16 +1642,12 @@
     "schema_data": {
       "weight_g": 5
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 81,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/runcam-wasp-hd-fpv-camera-system-w-dji-fpv-air-unit.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.7,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1065",
@@ -2046,10 +1659,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-pro-kit---32g-w-gyro.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -2062,16 +1672,12 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 54,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-pro-kit-32gb-w-gyro.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1066",
@@ -2083,10 +1689,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-kit-v2---8g---no-gyro.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -2099,16 +1702,12 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 53,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-kit-v2-8gb-no-gyro.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1067",
@@ -2120,10 +1719,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-camera-v2-w-gyro-_-14mm-cable.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -2136,16 +1732,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 45,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-camera-v2-w-gyro-14cm-cable.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1068",
@@ -2157,10 +1749,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-o3-air-unit-_8_.jpg",
     "video_system": "DJI O3",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -2173,16 +1762,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 76,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-o3-air-unit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1069",
@@ -2194,10 +1779,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-o3-air-unit-module_8_.jpg",
     "video_system": "DJI O3",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1200,
     "country": "China",
     "compliance": {
@@ -2210,16 +1792,12 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 77,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-o3-air-unit-transmission-module.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1070",
@@ -2230,10 +1808,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/dji-transmission-combo.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-transmission-combo-_1_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI O3",
     "max_power_mw": 1200,
     "country": "China",
@@ -2247,16 +1822,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 82,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-transmission-combo.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.2,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1071",
@@ -2267,10 +1838,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/immersion-rc-ghost-ultimate-hybrid-5-8ghz-vtx-2-4ghz-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/2/1234.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 600,
     "country": "USA",
@@ -2284,16 +1852,12 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 24,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/immersion-rc-ghost-ultimate-hybrid-5-8ghz-vtx-2-4ghz-rx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.6,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1072",
@@ -2305,10 +1869,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-nano-camera--mini-1s-vtx-kit-_1_.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 350,
     "country": "China",
     "compliance": {
@@ -2321,16 +1882,12 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 45,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-hd-nano-camera-mini-1s-vtx-kit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1073",
@@ -2341,10 +1898,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-2-4ghz-long-range-hd-video-transmission-system-v1-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/e/herelink-video-transmission-system-1.1-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "five-eyes"
-    ],
+    "tags": [],
     "video_system": "Proprietary",
     "country": "Australia",
     "compliance": {
@@ -2357,16 +1911,13 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Australia",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/cubepilot-herelink-2-4ghz-long-range-hd-video-transmission-system-v1-1.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "USA"
+    "max_power_mw": 1000,
+    "channels": "Digital",
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "DJI Herelink",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1074",
@@ -2377,10 +1928,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/happymodel-elrs-fyujon-aio-board-5-8ghz-openvtx-2-4ghz-erls-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/a/happymodel-fyujon-vtx_rx-elrs-2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 400,
     "country": "China",
@@ -2394,16 +1942,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/happymodel-elrs-fyujon-aio-board-5-8ghz-openvtx-2-4ghz-erls-rx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1075",
@@ -2415,10 +1959,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/v/avatar-hd-nano-camera-vtx-kit-main_1.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 350,
     "country": "China",
     "compliance": {
@@ -2431,16 +1972,12 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/avatar-hd-nano-camera-vtx-kit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1076",
@@ -2452,10 +1989,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/v/avatar-hd-camera-vtx-kit-main.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 1000,
     "country": "China",
     "compliance": {
@@ -2468,16 +2002,12 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 45,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/avatar-hd-camera-vtx-kit.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 450,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1077",
@@ -2489,10 +2019,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/rushfpv-rush-tank-race-ii-5_3_.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -2505,16 +2032,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-rush-tank-race-ii-5-8ghz-vtx-w-smartaudio.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1078",
@@ -2525,10 +2048,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/dji-digital-hd-fpv-air-unit-kit-original-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/j/dji-digital-hd-fpv-air-unit-kit---original-version-dji-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 700,
     "country": "China",
@@ -2542,16 +2062,12 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 83,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/dji-digital-hd-fpv-air-unit-kit-original-version.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.7,
+    "protocol": "DJI O3/O4",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1079",
@@ -2562,10 +2078,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/mateksys-vtx-1g3se-1-2-1-3ghz-video-transmitter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys-vtx-1g3se-2-1.21.3ghz-video-transmitter-main.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 400,
     "country": "China",
@@ -2579,16 +2092,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/mateksys-vtx-1g3se-1-2-1-3ghz-video-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "1.3GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1080",
@@ -2600,10 +2109,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-whoop-hd-fpv-divimath-video-transmitter-main.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 200,
     "country": "China",
     "compliance": {
@@ -2616,17 +2122,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 58,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-whoop-hd-fpv-divimath-video-transmitter.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 6,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1081",
@@ -2637,10 +2138,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/caddx-naked-vista-unit-w-nebula-pro-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/a/naked-vista-nebula-pro.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 500,
     "country": "China",
@@ -2654,16 +2152,12 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 44,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/caddx-naked-vista-unit-w-nebula-pro-camera.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10.0,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1082",
@@ -2674,10 +2168,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/caddx-naked-vista-unit-w-polar-camera.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/n/a/naked-vista-polar_3_.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 500,
     "country": "China",
@@ -2691,16 +2182,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 40,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/caddx-naked-vista-unit-w-polar-camera.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10.0,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1083",
@@ -2711,10 +2198,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/runcam-link-phoenix-hd-fpv-camera-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/runcam_link_phoenix_hd_fpv_vista_camera_kit_2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "country": "China",
     "compliance": {
@@ -2727,16 +2211,13 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/runcam-link-phoenix-hd-fpv-camera-kit.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "max_power_mw": 300,
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1084",
@@ -2747,10 +2228,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/caddx-polar-micro-digital-fpv-air-unit-camera-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx-polar-micro-digital-fpv-air-unit-camera-kit-silver.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 500,
     "country": "China",
@@ -2764,16 +2242,12 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/caddx-polar-micro-digital-fpv-air-unit-camera-kit.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 3,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1085",
@@ -2784,10 +2258,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/caddx-polar-micro-digital-fpv-vista-camera-kit.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/c/a/caddx-polar-micro-digital-fpv-vista-camera-kit-silver.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "DJI",
     "max_power_mw": 500,
     "country": "China",
@@ -2801,16 +2272,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 42,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/caddx-polar-micro-digital-fpv-vista-camera-kit.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 3,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1088",
@@ -2823,10 +2290,7 @@
     "max_power_mw": 1000,
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2838,16 +2302,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-rush-tank-solo-5-8ghz-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 18,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 1.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1089",
@@ -2860,10 +2320,7 @@
     "max_power_mw": 350,
     "mounting_pattern_mm": 25.5,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -2876,16 +2333,11 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 23,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hglrc-zeus-nano-350mw-16mm-20mm-25-5mm-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 2,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Analog"
   },
   {
     "pid": "VTX-1090",
@@ -2898,10 +2350,7 @@
     "max_power_mw": 800,
     "mounting_pattern_mm": 20.0,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -2914,16 +2363,11 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 24,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hglrc-zeus-800mw-smart-mounting-20x20-30x30-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog"
   },
   {
     "pid": "VTX-1092",
@@ -2935,10 +2379,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/immersionrc_ghost_proton_20x20_pack_.jpg",
     "mounting_pattern_mm": 20.0,
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 400,
     "country": "USA",
@@ -2952,16 +2393,11 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/immersionrc-ghost-proton-20x20-pack.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 2,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "2.4GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog"
   },
   {
     "pid": "VTX-1093",
@@ -2974,10 +2410,7 @@
     "video_system": "Analog",
     "mounting_pattern_mm": 30.5,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2989,16 +2422,12 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-rush-blade-f722-fc-50a-30x30-rush-tank-vtx-rush-pfb-stack-combo.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 5,
-    "origin": "China"
+    "max_power_mw": 400,
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog"
   },
   {
     "pid": "VTX-1094",
@@ -3010,10 +2439,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/rush-fpv-tank-ii-ultimate-30x30-25-800mw-vtx-w-smart-audio---mmcx.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -3026,16 +2452,12 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 18,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-rush-tank-ii-5-8ghz-vtx-w-smart-audio.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1095",
@@ -3047,10 +2469,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/u/rushfpv-agc-microphone-module.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -3062,16 +2481,13 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 13,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rushfpv-ultra-small-external-automatic-gain-control-vtx-microphone.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 3,
-    "origin": "China"
+    "max_power_mw": 25,
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1096",
@@ -3083,10 +2499,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/0/m02-25-350mw-5.8g-vtx-7.jpg",
     "max_power_mw": 350,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3099,16 +2512,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 12,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/betafpv-m02-25-350mw-5-8ghz-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 6,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1097",
@@ -3119,10 +2528,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/o/goku-gn413s-stack-aio-toothpick-13a-vtx625-2.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3135,16 +2541,13 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 19,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "max_power_mw": 400,
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1098",
@@ -3155,10 +2558,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/immersionrc-tramp-nano-5-8ghz-video-transmitter-us-version.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/immersionrc-tramp-nano-5.8ghz-video-transmitter.jpg",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "max_power_mw": 500,
     "country": "USA",
@@ -3172,16 +2572,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/immersionrc-tramp-nano-5-8ghz-video-transmitter-us-version.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 1.01,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1099",
@@ -3193,10 +2589,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0096.jpg",
     "max_power_mw": 200,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3209,16 +2602,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 17,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/betafpv-a01-25-200mw-5-8ghz-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 6,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1100",
@@ -3231,10 +2620,7 @@
     "max_power_mw": 800,
     "mounting_pattern_mm": 20.0,
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "USA",
     "compliance": {
@@ -3247,16 +2633,11 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 27,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/lumenier-lux-mini-5-8ghz-fpv-video-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog"
   },
   {
     "pid": "VTX-1101",
@@ -3268,10 +2649,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/z/ezgif-1-a5d24321153d.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "China",
     "compliance": {
@@ -3284,16 +2662,12 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 14,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/rush-tank-ultimate-plus-5-8ghz-vtx-w-smart-audio.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1102",
@@ -3305,10 +2679,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/e/f/efcfb8adfa_3.jpg",
     "max_power_mw": 1000,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3321,16 +2692,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/fxt-ares-5-8ghz-pit-25mw-200mw-600mw-1w-vtx-w-smart-audio.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 18,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "SMA",
+    "power_w": 1.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1103",
@@ -3342,10 +2709,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/6/3/6391ace427ade714b70fb966024ae804_dbe8cdb5-b464-45f0-9195-31223007f213_1200x.jpg",
     "max_power_mw": 400,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3358,16 +2722,12 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hglrc-forward-5-8ghz-48ch-25-50-100-200-400mw-vtx.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "China"
+    "channels": 48,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1104",
@@ -3379,10 +2739,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc01635-ga.jpg",
     "video_system": "Analog",
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 800,
     "country": "Hong Kong",
     "compliance": {
@@ -3395,16 +2752,12 @@
     "schema_data": {
       "weight_g": 9
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/tbs-unify-evo-5-8ghz-video-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Germany"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1106",
@@ -3416,10 +2769,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-sm-25-25mw-micro-vtx-u-fl-sma-main.jpg",
     "max_power_mw": 25,
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "USA",
     "compliance": {
@@ -3432,16 +2782,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/lumenier-sm-25-25mw-micro-vtx-u-fl-sma.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 3,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1107",
@@ -3453,10 +2799,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-sm-25-25mw-micro-vtx-dipole-antenna-main.jpg",
     "max_power_mw": 25,
     "size_class": "universal",
-    "tags": [
-      "ndaa",
-      "usa"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "USA",
     "compliance": {
@@ -3469,16 +2812,12 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "USA",
-    "price_usd": 7,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/lumenier-sm-25-25mw-micro-vtx-dipole-antenna.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 3,
-    "origin": "USA"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1109",
@@ -3489,10 +2828,7 @@
     "link": "https://www.getfpv.com/fpv/video-transmitters/board-replacement-for-plug-play-transmitter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/o/board-replacement-for-plug-_-play-transmitter-lea.jpg",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3505,16 +2841,13 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 23,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/board-replacement-for-plug-play-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "max_power_mw": 25,
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.0,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1110",
@@ -3526,10 +2859,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/imag0286_1.jpg",
     "max_power_mw": 400,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3542,16 +2872,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 16,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/1-3ghz-400mw-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "1.3GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1112",
@@ -3563,10 +2889,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/w/a/walksnail-avatar-hd-nano-kit-v3.jpg",
     "video_system": "Walksnail",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 350,
     "country": "China",
     "compliance": {
@@ -3579,16 +2902,12 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 47,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/walksnail-avatar-nano-kit-v3.html"
-    ],
-    "interface": "Digital / UART",
-    "weight_g": 2,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.3,
+    "protocol": "Walksnail",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1113",
@@ -3600,10 +2919,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/s/ts58500-vtx.jpg",
     "max_power_mw": 500,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3616,16 +2932,12 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 22,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/5-8ghz-32ch-a-v-500mw-video-transmitter-ts58500-international-version.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.5,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1114",
@@ -3637,10 +2949,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/img_3636.jpg",
     "max_power_mw": 800,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3653,16 +2962,12 @@
     "schema_data": {
       "weight_g": 6
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/800mw-1-3ghz-transmitter.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "1.3GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1115",
@@ -3674,10 +2979,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/imag0286_1_3.jpg",
     "max_power_mw": 400,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3690,16 +2992,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 15,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/1-3ghz-400mw-video-transmitter-9-channels-international-version.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "1.3GHz",
+    "connector": "U.FL",
+    "power_w": 0.4,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-1117",
@@ -3711,10 +3009,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-whoop-lite-v3_2_.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 200,
     "country": "China",
     "compliance": {
@@ -3727,17 +3022,12 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 55,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-whoop-lite-bundle.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Digital / UART",
-    "weight_g": 2,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1118",
@@ -3749,10 +3039,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-whoop-lite-vtx_1.jpg",
     "video_system": "HDZero",
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "max_power_mw": 200,
     "country": "China",
     "compliance": {
@@ -3765,17 +3052,12 @@
     "schema_data": {
       "weight_g": 11
     },
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 56,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/hdzero-whoop-lite-vtx.html"
-    ],
-    "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
-    "interface": "Analog / UART",
-    "weight_g": 6,
-    "origin": "China"
+    "channels": "Digital",
+    "frequency_band": "5.8GHz",
+    "connector": "U.FL",
+    "power_w": 0.2,
+    "protocol": "HDZero",
+    "mounting_pattern_mm": 16
   },
   {
     "pid": "VTX-1119",
@@ -3787,10 +3069,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/m/img_3636_4.jpg",
     "max_power_mw": 800,
     "size_class": "universal",
-    "tags": [
-      "non-ndaa",
-      "china"
-    ],
+    "tags": [],
     "video_system": "Analog",
     "country": "China",
     "compliance": {
@@ -3803,16 +3082,12 @@
     "schema_data": {
       "weight_g": 8
     },
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "China",
-    "price_usd": 25,
-    "links": [
-      "https://www.getfpv.com/fpv/video-transmitters/1-3ghz-800mw-video-transmitter-9-channels-international-version.html"
-    ],
-    "interface": "Analog / UART",
-    "weight_g": 10,
-    "origin": "Unknown"
+    "channels": 40,
+    "frequency_band": "1.3GHz",
+    "connector": "U.FL",
+    "power_w": 0.8,
+    "protocol": "Analog",
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-DEC1-Spot",
@@ -3835,25 +3110,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g,6.1g",
-      "ndaa"
+      "5.8g,4.9g,6.1g"
     ],
     "approx_price": 22,
     "schema_data": {
       "weight_g": 1
     },
     "description": "Video transmitter by DEC1. mW output. band.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 22,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-DEC1-Spot-SMA",
@@ -3876,25 +3145,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g,6.1g",
-      "ndaa"
+      "5.8g,4.9g,6.1g"
     ],
     "approx_price": 21,
     "schema_data": {
       "weight_g": 10
     },
     "description": "Video transmitter by DEC1. mW output. band.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 21,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Unknown"
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Flytex-Fuzia",
@@ -3917,25 +3180,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g",
-      "ndaa"
+      "5.8g,4.9g"
     ],
     "approx_price": 20,
     "schema_data": {
       "weight_g": 12
     },
     "description": "Video transmitter by Flytex. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 20,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "India"
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Stingbee-Stellar-VT",
@@ -3958,25 +3215,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g",
-      "ndaa"
+      "5.8g,4.9g"
     ],
     "approx_price": 21,
     "schema_data": {
       "weight_g": 6
     },
     "description": "Video transmitter by Stingbee. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 21,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R1600",
@@ -3999,25 +3250,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g",
-      "ndaa"
+      "5.8g"
     ],
     "approx_price": 21,
     "schema_data": {
       "weight_g": 1
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 21,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 1600,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R2500",
@@ -4040,25 +3285,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g",
-      "ndaa"
+      "5.8g"
     ],
     "approx_price": 20,
     "schema_data": {
       "weight_g": 9
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 20,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 2500,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R2500-V1",
@@ -4081,25 +3320,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g",
-      "ndaa"
+      "5.8g,4.9g"
     ],
     "approx_price": 21,
     "schema_data": {
       "weight_g": 5
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 21,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 2500,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R2500-SE",
@@ -4122,25 +3355,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g",
-      "ndaa"
+      "5.8g"
     ],
     "approx_price": 16,
     "schema_data": {
       "weight_g": 11
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 16,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 2500,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R3000",
@@ -4163,25 +3390,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g",
-      "ndaa"
+      "5.8g"
     ],
     "approx_price": 15,
     "schema_data": {
       "weight_g": 7
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 15,
-    "interface": "Analog / UART",
-    "weight_g": 8,
-    "origin": "Ukraine"
+    "max_power_mw": 3000,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R3000-(4.9",
@@ -4204,25 +3425,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g",
-      "ndaa"
+      "5.8g,4.9g"
     ],
     "approx_price": 24,
     "schema_data": {
       "weight_g": 4
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 24,
-    "interface": "Analog / UART",
-    "weight_g": 5.8,
-    "origin": "Ukraine"
+    "max_power_mw": 3000,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-Pilotix-R3000-(4.9",
@@ -4245,25 +3460,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "5.8g,4.9g,6.1g",
-      "ndaa"
+      "5.8g,4.9g,6.1g"
     ],
     "approx_price": 24,
     "schema_data": {
       "weight_g": 7
     },
     "description": "Video transmitter by Pilotix. mW output. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 24,
-    "interface": "Analog / UART",
-    "weight_g": 6.2,
-    "origin": "Ukraine"
+    "max_power_mw": 3000,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-FT-VTX-7.2G-S",
@@ -4286,25 +3495,19 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "7g+",
-      "ndaa"
+      "7g+"
     ],
     "approx_price": 21,
     "schema_data": {
       "weight_g": 9
     },
     "description": "Video transmitter by. mW output. band.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 21,
-    "interface": "Analog / UART",
-    "weight_g": 7.2,
-    "origin": "Unknown"
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-KaraFPV-Teleport67",
@@ -4314,8 +3517,8 @@
     "country": "Ukraine",
     "power_w": "4W",
     "frequency_band": "6.1G, 7G +",
-    "protocol": "",
-    "channels": "",
+    "protocol": "Analog",
+    "channels": 40,
     "connector": "SMA",
     "approx_price_usd": null,
     "source": "vtx.in.ua",
@@ -4327,12 +3530,11 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "vtx",
-      "6.1g,7g+",
-      "ndaa"
+      "6.1g,7g+"
     ],
     "approx_price": 22,
     "schema_data": {
@@ -4340,13 +3542,7 @@
     },
     "description": "Video transmitter by KaraFPV. mW output. band.",
     "max_power_mw": 4000,
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 22,
-    "interface": "Analog / UART",
-    "weight_g": 7.2,
-    "origin": "Ukraine"
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-FT-VTX",
@@ -4379,7 +3575,9 @@
     "schema_data": {
       "weight_g": 14
     },
-    "description": "Video transmitter by. mW output. band."
+    "description": "Video transmitter by. mW output. band.",
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   },
   {
     "pid": "VTX-UA-FT-VTX-SMA",
@@ -4412,6 +3610,8 @@
     "schema_data": {
       "weight_g": 13
     },
-    "description": "Video transmitter by. mW output. band."
+    "description": "Video transmitter by. mW output. band.",
+    "max_power_mw": 200,
+    "mounting_pattern_mm": 20
   }
 ]
