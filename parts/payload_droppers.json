@@ -17,22 +17,15 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "dropper",
       "payload_release",
-      "delivery",
-      "ndaa"
+      "delivery"
     ],
     "approx_price": 17.93,
-    "description": "FPV.3 by Carrier Electronics.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 17.93,
-    "weight_g": 28,
-    "origin": "China"
+    "description": "FPV.3 by Carrier Electronics."
   },
   {
     "pid": "DROP-UA-Carrier--FPV-v2.0",
@@ -52,22 +45,15 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "dropper",
       "payload_release",
-      "delivery",
-      "ndaa"
+      "delivery"
     ],
     "approx_price": 36.59,
-    "description": "FPV.0 by Carrier Electronics.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 36.59,
-    "weight_g": 28,
-    "origin": "China"
+    "description": "FPV.0 by Carrier Electronics."
   },
   {
     "pid": "DROP-UA-Carrier--One-v1.4-\u0434\u043b\u044f",
@@ -87,22 +73,15 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "dropper",
       "payload_release",
-      "delivery",
-      "ndaa"
+      "delivery"
     ],
     "approx_price": 23.17,
-    "description": "One.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 23.17,
-    "weight_g": 28,
-    "origin": "China"
+    "description": "One.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics."
   },
   {
     "pid": "DROP-UA-Carrier--Two-v1.4-\u0434\u043b\u044f",
@@ -122,316 +101,15 @@
     },
     "tags": [
       "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
       "dropper",
       "payload_release",
-      "delivery",
-      "ndaa"
+      "delivery"
     ],
     "approx_price": 24.39,
-    "description": "Two.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 24.39,
-    "weight_g": 28,
-    "origin": "China"
-  },
-  {
-    "pid": "DROP-ORI-HKR-MRS-001",
-    "category": "payload_droppers",
-    "name": "Orbital Research HKR Modular Payload Release System",
-    "manufacturer": "Orbital Research Inc.",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "Hunt-Kill-Return (HKR) modular payload release system for converting single-use FPV/UAS platforms into multi-mission lethal assets. Integrates with multiple UAS platforms per Army directed requirement. Supports interchangeable drop-glide munitions with anti-personnel and anti-armor warheads. Includes motion measurement package, common tail section, and modular fusing system. SBIR-funded, tested at Project Convergence Capstone 4 (Fort Irwin), AEWE 2023/2024/2025. $9M+ APFIT Phase III contract Sep 2022. 1,700 munitions and 24 UAVs procured for Soldier assessments.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "US manufacturer (Cleveland, OH). SBIR Phase I/II/III. APFIT contract. SBIR CATALYST. Not commercially available \u2014 government procurement only via SBIR Phase III authority."
-    },
-    "programs": [
-      "Army SBIR/STTR",
-      "APFIT Phase III ($9M+)",
-      "SBIR CATALYST",
-      "Project Convergence Capstone 4",
-      "AEWE 2023/2024/2025",
-      "DEVCOM Armaments Center",
-      "Army directed requirement company-level sUAS"
-    ],
-    "platform_compatibility": "Multi-platform \u2014 adapted for multiple UAS per Army directed requirement for company-level sUAS supporting brigade combat teams",
-    "source": "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding",
-    "links": [
-      "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding",
-      "https://www.orbitalresearch.com/"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "military",
-      "combat-proven",
-      "dropper",
-      "payload_release",
-      "smart-munitions",
-      "sbir",
-      "army",
-      "drop-glide",
-      "weaponization",
-      "anti-armor",
-      "anti-personnel",
-      "multi-mission"
-    ],
-    "origin": "Unknown"
-  },
-  {
-    "pid": "DROP-ORI-DGM-001",
-    "category": "payload_droppers",
-    "name": "Orbital Research Drop-Glide Munition \u2014 Anti-Personnel",
-    "manufacturer": "Orbital Research Inc.",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "Low-cost drop-glide munition with interchangeable anti-personnel warhead for FPV/UAS delivery. Developed with Soldier feedback from Fort Benning (defeat ambush positions). Features guided and unguided variants, motion measurement package, and common tail section compatible with multiple warhead types. Released from multi-mission dropper kit. Live rounds tested on military ranges via Maneuver Battle Lab partnership. Part of HKR (Hunt-Kill-Return) system.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "US manufacturer. Government procurement only. Not available commercially. Tested live at Maneuver Battle Lab ranges."
-    },
-    "programs": [
-      "APFIT Phase III",
-      "AEWE 2023/2024/2025",
-      "Project Convergence Capstone 4"
-    ],
-    "platform_compatibility": "FPV drones and multi-rotor UAS with HKR modular release system installed",
-    "source": "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding",
-    "links": [
-      "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "military",
-      "combat-proven",
-      "dropper",
-      "munition",
-      "anti-personnel",
-      "drop-glide",
-      "army",
-      "sbir",
-      "weaponization"
-    ],
-    "origin": "Unknown"
-  },
-  {
-    "pid": "DROP-ORI-DGM-002",
-    "category": "payload_droppers",
-    "name": "Orbital Research Drop-Glide Munition \u2014 Anti-Armor",
-    "manufacturer": "Orbital Research Inc.",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "Low-cost drop-glide munition with interchangeable anti-armor warhead for FPV/UAS delivery. Developed to defeat armored vehicles per Soldier feedback from Fort Benning. Shares common tail section and motion measurement package with anti-personnel variant. Supports real-time detection and geolocation of multiple enemy threats. Part of HKR (Hunt-Kill-Return) system. Tested live at Project Convergence Capstone 4, Fort Irwin and AEWE exercises.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "US manufacturer. Government procurement only. Tested live at Project Convergence Capstone 4 and AEWE."
-    },
-    "programs": [
-      "APFIT Phase III",
-      "AEWE 2023/2024/2025",
-      "Project Convergence Capstone 4"
-    ],
-    "platform_compatibility": "FPV drones and multi-rotor UAS with HKR modular release system installed",
-    "source": "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding",
-    "links": [
-      "https://www.army.mil/article/285535/advanced_drone_weaponization_tech_soars_with_army_innovation_funding"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "military",
-      "combat-proven",
-      "dropper",
-      "munition",
-      "anti-armor",
-      "drop-glide",
-      "army",
-      "sbir",
-      "weaponization"
-    ],
-    "origin": "Unknown"
-  },
-  {
-    "pid": "DROP-DEVCOM-AUDIBLE-001",
-    "category": "payload_droppers",
-    "name": "DEVCOM Audible Dropper \u2014 M67 Grenade Release System",
-    "manufacturer": "US Army DEVCOM",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "3D-printed munition dropper developed by the US Army Combat Capabilities Development Command (DEVCOM). Mounts under a Skydio X10D sUAS. Remotely pulls the M67 grenade pin mid-flight via electronic trigger, enabling precise delivery against static and moving targets. First live M67 grenade drop by conventional US Army forces conducted June 25, 2025 at Grafenwoehr Training Area, Germany (7ATC, 278th ACR, 173rd Airborne). Follow-on September 2025 trial dropped 117 live M67 grenades. Gen 2 version in development addressing release reliability and stabilization. Field-printable \u2014 soldiers can 3D print in theater using commercial CAD software and standard Army additive manufacturing kits. Part of Project Shiv experimentation lineage. Inspired by Ukraine FPV grenade-drop tactics.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "payload_capacity_g": 397,
-    "compatible_platform": "Skydio X10D (primary), Skydio X10 Delta",
-    "munition_compatibility": "M67 fragmentation grenade (400g/14oz)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "US Army government-developed. Not commercially available. 3D-printable in field. No procurement pathway \u2014 DEVCOM internal."
-    },
-    "programs": [
-      "Project Shiv",
-      "DEVCOM CCDC",
-      "7ATC Grafenwoehr experimentation",
-      "JMTG-U",
-      "US Army Europe and Africa multi-domain modernization"
-    ],
-    "source": "https://www.army.mil/article/286759/soldiers_test_suas_borne_live_fire_grenade_drops",
-    "links": [
-      "https://www.army.mil/article/286759/soldiers_test_suas_borne_live_fire_grenade_drops",
-      "https://www.dvidshub.net/news/501870/7atc-devcom-test-suas-borne-live-fire-grenade-drops-gta",
-      "https://www.armyrecognition.com/news/army-news/2025/report-us-army-brings-precision-guided-firepower-to-smallest-tactical-formations-with-drone-grenade-system"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "military",
-      "combat-proven",
-      "dropper",
-      "grenade",
-      "3d-printed",
-      "devcom",
-      "army",
-      "m67",
-      "skydio",
-      "field-printable",
-      "project-shiv",
-      "ukraine-inspired"
-    ],
-    "origin": "Unknown"
-  },
-  {
-    "pid": "DROP-101ABN-WIDOWMAKER-001",
-    "category": "payload_droppers",
-    "name": "Widowmaker 3D-Printed Grenade Dropper",
-    "manufacturer": "101st Airborne Division (soldier-developed)",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "Soldier-developed 3D-printed pylon-mounted munition dropper designed and fabricated entirely in theater by soldiers from the Multi Purpose Company, 1-502nd Infantry, 2nd Mobile BCT, 101st Airborne Division. Tested on a PDW C100 drone during Combined Resolve 26-1 at Grafenwoehr, October 9, 2025. Electronically triggered release mechanism. Demonstrated 4 grenades per sortie with accuracy from standoff ranges exceeding 100 meters. Compatible with M67 fragmentation grenades, M18 smoke grenades, and training munitions. Produced using commercial CAD software and standard Army additive manufacturing kits \u2014 no formal engineering background required. Represents squad-level organic air-delivered munitions capability. Pylon mounts under drone fuselage without compromising stability.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "grenades_per_sortie": 4,
-    "standoff_range_m": 100,
-    "compatible_platform": "PDW C100",
-    "munition_compatibility": "M67 fragmentation grenade, M18 smoke grenade, training munitions",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Soldier-designed and fabricated in theater. Not commercially available. Open design \u2014 printable with standard Army AM kits."
-    },
-    "programs": [
-      "Combined Resolve 26-1",
-      "101st Airborne Division modernization",
-      "US Army Europe field innovation"
-    ],
-    "source": "https://www.armyrecognition.com/focus-analysis-conflicts/army/defence-security-industry-technology/u-s-soldiers-test-3d-printed-widowmaker-grenade-dropper-on-pdw-c100-drone-in-germany",
-    "links": [
-      "https://www.armyrecognition.com/focus-analysis-conflicts/army/defence-security-industry-technology/u-s-soldiers-test-3d-printed-widowmaker-grenade-dropper-on-pdw-c100-drone-in-germany"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "military",
-      "combat-proven",
-      "dropper",
-      "grenade",
-      "3d-printed",
-      "soldier-designed",
-      "army",
-      "m67",
-      "m18",
-      "pdw-c100",
-      "101st-airborne",
-      "field-fabricated",
-      "squad-level"
-    ],
-    "origin": "Unknown"
-  },
-  {
-    "pid": "DROP-UAVSI-PRM-001",
-    "category": "payload_droppers",
-    "name": "UAV Systems International Payload Release Mechanism",
-    "manufacturer": "UAV Systems International",
-    "manufacturer_country": "USA",
-    "country": "USA",
-    "description": "Commercial servo-actuated payload release/drop mechanism for multi-rotor UAS. Supports payloads up to 5kg (11lb). Optimized for 3.5kg payloads. Triggered via remote controller button. Includes mounting hardware, setup, and controller configuration. Delivered in wooden box. NDAA 848 and TAA compliant. US-manufactured electronics (flight controllers and onboard electronics made in California). Used in NATO ammo resupply trial with Aurelia X6 Pro fleet \u2014 soldiers activated drop via helmet-mounted button to GPS coordinates. Also used for medical supply delivery in Sierra Leone and photogrammetry surveys in Canada. Available for Tarot X6, Tarot T-18, Tarot 650, and universal configurations.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "price_usd": null,
-    "approx_price_usd": null,
-    "weight_g": null,
-    "payload_capacity_g": 5000,
-    "payload_capacity_lb": 11,
-    "optimal_payload_g": 3500,
-    "compatible_platform": "Tarot X6, Tarot T-18, Tarot 650, Aurelia X6 Pro, universal mounting",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "NDAA 848 and TAA compliant. US electronics (California). Commercially available. NATO trial use documented."
-    },
-    "programs": [
-      "NATO ammo resupply trial (Aurelia X6 Pro fleet)",
-      "Sierra Leone medical delivery",
-      "Commercial survey"
-    ],
-    "source": "https://uavsystemsinternational.com/products/payload-release-mechanism",
-    "links": [
-      "https://uavsystemsinternational.com/products/payload-release-mechanism",
-      "https://uavsystemsinternational.com/blogs/drone-guides/best-drones-using-a-drop-release-mechanism"
-    ],
-    "tags": [
-      "usa",
-      "ndaa",
-      "taa",
-      "commercial",
-      "dropper",
-      "payload_release",
-      "delivery",
-      "nato",
-      "servo",
-      "tarot",
-      "aurelia",
-      "medical-delivery",
-      "resupply"
-    ],
-    "origin": "Unknown"
+    "description": "Two.4 \u0434\u043b\u044f Mavic 3 by Carrier Electronics."
   },
   {
     "pid": "DROP-UA-LEADER-T-",
