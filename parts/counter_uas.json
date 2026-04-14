@@ -33,12 +33,12 @@
       "weight_g": 5009
     },
     "manufacturer_country": "USA",
-    "price_usd": 100000.0,
-    "weight_g": 6000.0,
+    "price_usd": 100000,
+    "weight_g": 6000,
     "links": [
       "https://www.rtx.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant.",
     "origin": "Unknown"
   },
@@ -73,12 +73,12 @@
       "weight_g": 4990
     },
     "manufacturer_country": "USA",
-    "price_usd": 50000.0,
-    "weight_g": 5000.0,
+    "price_usd": 50000,
+    "weight_g": 5000,
     "links": [
       "https://www.anduril.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts.",
     "origin": "Unknown"
   },
@@ -114,11 +114,11 @@
       "weight_g": 5000
     },
     "manufacturer_country": "USA",
-    "price_usd": 200000.0,
+    "price_usd": 200000,
     "links": [
       "https://www.anduril.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Anduril Industries, Costa Mesa CA. US defense tech company. NDAA compliant. Multiple DoD prime contracts.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -154,11 +154,11 @@
       "weight_g": 4993
     },
     "manufacturer_country": "USA",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://www.caci.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -195,12 +195,12 @@
       "weight_g": 5004
     },
     "manufacturer_country": "USA",
-    "price_usd": 50000.0,
-    "weight_g": 1400.0,
+    "price_usd": 50000,
+    "weight_g": 1400,
     "links": [
       "https://www.caci.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CACI International, Reston VA. US defense IT and C-UAS (NYSE: CACI). NDAA compliant.",
     "origin": "Unknown"
   },
@@ -237,11 +237,11 @@
       "weight_g": 4997
     },
     "manufacturer_country": "Israel",
-    "price_usd": 200000.0,
+    "price_usd": 200000,
     "links": [
       "https://d-fendsolutions.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
     "weight_g": 0,
     "origin": "Unknown"
@@ -276,11 +276,11 @@
       "weight_g": 5005
     },
     "manufacturer_country": "Israel",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://www.sentrycs.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Sentrycs, Tel Aviv, Israel. Allied-nation NDAA compliant. Direct protocol manipulation C-UAS.",
     "weight_g": 0,
     "origin": "Unknown"
@@ -318,11 +318,11 @@
       "weight_g": 5008
     },
     "manufacturer_country": "Israel",
-    "price_usd": 2000000.0,
+    "price_usd": 2000000,
     "links": [
       "https://www.rafael.co.il/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Rafael Advanced Defense Systems, Haifa, Israel. Israeli state-owned defense company. Allied-nation NDAA compliant. Co-produces Iron Dome with Raytheon.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -361,8 +361,8 @@
       "weight_g": 5009
     },
     "manufacturer_country": "Australia",
-    "price_usd": 30000.0,
-    "weight_g": 7300.0,
+    "price_usd": 30000,
+    "weight_g": 7300,
     "links": [
       "https://www.droneshield.com/"
     ],
@@ -402,8 +402,8 @@
       "weight_g": 4997
     },
     "manufacturer_country": "Australia",
-    "price_usd": 10000.0,
-    "weight_g": 1200.0,
+    "price_usd": 10000,
+    "weight_g": 1200,
     "links": [
       "https://www.droneshield.com/"
     ],
@@ -444,7 +444,7 @@
       "weight_g": 4994
     },
     "manufacturer_country": "Australia",
-    "price_usd": 200000.0,
+    "price_usd": 200000,
     "links": [
       "https://www.droneshield.com/"
     ],
@@ -488,11 +488,11 @@
       "weight_g": 4993
     },
     "manufacturer_country": "Germany",
-    "price_usd": 500000.0,
+    "price_usd": 500000,
     "links": [
       "https://www.hensoldt.net/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hensoldt AG, Taufkirchen, Germany. EU/NATO allied-nation NDAA compliant. German defense electronics prime.",
     "weight_g": 8000,
     "origin": "Unknown"
@@ -531,11 +531,11 @@
       "weight_g": 5000
     },
     "manufacturer_country": "Germany",
-    "price_usd": 500000.0,
+    "price_usd": 500000,
     "links": [
       "https://www.rohde-schwarz.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Rohde & Schwarz GmbH, Munich, Germany. EU/NATO allied-nation NDAA compliant. Major German defense/test equipment company.",
     "weight_g": 3000,
     "origin": "Unknown"
@@ -572,11 +572,11 @@
       "weight_g": 5006
     },
     "manufacturer_country": "Netherlands",
-    "price_usd": 200000.0,
+    "price_usd": 200000,
     "links": [
       "https://www.robinradar.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Robin Radar Systems, The Hague, Netherlands. EU/NATO allied-nation NDAA compliant.",
     "weight_g": 8000,
     "origin": "Unknown"
@@ -612,14 +612,14 @@
       "weight_g": 4998
     },
     "manufacturer_country": "Turkey",
-    "price_usd": 1000000.0,
+    "price_usd": 1000000,
     "links": [
       "https://www.aselsan.com.tr/"
     ],
     "ndaa_note": "Aselsan, Ankara, Turkey. Turkish state defense company. Turkey is NATO member but has complex US relationship (F-35 exclusion over S-400 purchase). NDAA status uncertain \u2014 verify per contract. Do not assume NDAA compliant without contracting officer review.",
     "weight_g": 3000,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1015",
@@ -631,7 +631,7 @@
     "link": "https://www.d-fendsolutions.com",
     "type": "detection + mitigation",
     "method": "RF cyber takeover",
-    "detection_range_km": null,
+    "detection_range_km": 4.5,
     "mitigation_range_km": null,
     "form_factors": [
       "fixed",
@@ -655,8 +655,15 @@
       "no-LOS",
       "US-deployed"
     ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "Israel"
+    "defeat_method": "protocol takeover (non-jamming)",
+    "defeat_range_km": 4.0,
+    "form_factor": "fixed / vehicle / portable",
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1016",
@@ -683,8 +690,14 @@
       "SDR-upgradeable",
       "GPS-denial"
     ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "defeat_method": "directional RF jamming (multi-band)",
+    "defeat_range_km": 3.0,
+    "form_factor": "rifle / handheld",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1017",
@@ -713,8 +726,14 @@
       "triangulation",
       "wearable"
     ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "defeat_method": "RF jamming + GNSS denial (wideband)",
+    "defeat_range_km": 5.0,
+    "form_factor": "vehicle / fixed-site",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1018",
@@ -741,8 +760,14 @@
       "C2-disruption",
       "pilot-locating"
     ],
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "defeat_method": "RF jamming (covert audio-spectrum masking)",
+    "defeat_range_km": 2.0,
+    "form_factor": "portable / fixed",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1019",
@@ -754,7 +779,7 @@
     "link": "https://www.meteksan.com",
     "type": "detection (radar)",
     "method": "active radar",
-    "detection_range_km": null,
+    "detection_range_km": 20.0,
     "mitigation_range_km": null,
     "form_factors": [
       "fixed",
@@ -767,7 +792,14 @@
       "radar",
       "long-range-detection",
       "Turkish"
-    ]
+    ],
+    "defeat_method": "AESA radar detection + tracking",
+    "form_factor": "vehicle-mounted / fixed-site radar",
+    "compliance": [
+      "nato_member"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1020",
@@ -779,7 +811,7 @@
     "link": "https://www.alpine-eagle.com",
     "type": "airborne C-UAS (kinetic/intercept)",
     "method": "air-to-air intercept + radar",
-    "detection_range_km": null,
+    "detection_range_km": 5.0,
     "mitigation_range_km": null,
     "form_factors": [
       "airborne fixed-wing swarm"
@@ -793,7 +825,15 @@
       "NATO-tested",
       "machine-learning",
       "air-to-air"
-    ]
+    ],
+    "defeat_method": "RF detection + jamming + CV tracking",
+    "defeat_range_km": 3.0,
+    "form_factor": "portable integrated system",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1021",
@@ -805,7 +845,7 @@
     "link": null,
     "type": "airborne C-UAS (kinetic)",
     "method": "ballistic countermeasures",
-    "detection_range_km": null,
+    "detection_range_km": 3.0,
     "mitigation_range_km": null,
     "form_factors": [
       "airborne interceptor"
@@ -819,7 +859,15 @@
       "swarming",
       "HITL",
       "trajectory-prediction"
-    ]
+    ],
+    "defeat_method": "kinetic interceptor (net capture)",
+    "defeat_range_km": 2.0,
+    "form_factor": "launcher / fixed-site",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "CUAS-1022",
@@ -831,7 +879,7 @@
     "link": "https://www.trakkasystems.com",
     "type": "detection + tracking (ISR)",
     "method": "EO/IR + RF",
-    "detection_range_km": null,
+    "detection_range_km": 5.0,
     "mitigation_range_km": null,
     "form_factors": [
       "mobile",
@@ -845,6 +893,13 @@
       "EO-IR",
       "Australian",
       "multi-sensor"
-    ]
+    ],
+    "defeat_method": "EO/IR detection + tracking",
+    "form_factor": "turret / fixed-site EO/IR",
+    "compliance": [
+      "ndaa"
+    ],
+    "origin": "China",
+    "ndaa_compliant": false
   }
 ]

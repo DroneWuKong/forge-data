@@ -44,7 +44,7 @@
       "precision landing",
       "obstacle detection"
     ],
-    "price_usd": 279.0,
+    "price_usd": 279,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/products/sf000",
@@ -106,7 +106,7 @@
       "precision landing",
       "automated landing"
     ],
-    "price_usd": 229.0,
+    "price_usd": 229,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf11-c-100-m2/",
@@ -166,7 +166,7 @@
       "obstacle detection",
       "scanning LiDAR with servo"
     ],
-    "price_usd": 279.0,
+    "price_usd": 279,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf20-c-100-m/",
@@ -227,7 +227,7 @@
       "scanning LiDAR with servo",
       "harsh environment ops"
     ],
-    "price_usd": 299.0,
+    "price_usd": 299,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/lw20-ha/",
@@ -346,7 +346,7 @@
       "energy-critical UAV ops",
       "battery/solar-powered systems"
     ],
-    "price_usd": 129.0,
+    "price_usd": 129,
     "price_note": "On sale from $259 original",
     "ndaa_compliant": true,
     "blue_uas_ready": false,
@@ -603,7 +603,7 @@
       "conservation",
       "ISR"
     ],
-    "price_usd": 399.0,
+    "price_usd": 399,
     "ndaa_compliant": true,
     "ndaa_section": "Section 848",
     "blue_uas_ready": true,
@@ -666,7 +666,7 @@
       "terrain following",
       "position hold"
     ],
-    "price_usd": 319.0,
+    "price_usd": 319,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf20-ha/",
@@ -728,7 +728,7 @@
       "high-speed applications",
       "sensing & automation"
     ],
-    "price_usd": 299.0,
+    "price_usd": 299,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/",
@@ -790,7 +790,7 @@
       "mapping",
       "360-degree detection"
     ],
-    "price_usd": 599.0,
+    "price_usd": 599,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf40-c-100-m/",
@@ -1287,7 +1287,7 @@
       "PPK post-processing",
       "Real-time point cloud"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas_ready": false,
     "white_label": false,
     "price_usd": 995,

@@ -4,7 +4,7 @@
     "name": "RFDesign RFD900x \u2014 Long Range SiK Radio",
     "manufacturer": "RFDesign",
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 89,
     "source": "https://rfdesign.com.au/products/rfd900x-modem/",
     "interface": "UART / USB",
@@ -26,14 +26,15 @@
       "long-range",
       "ndaa",
       "australia"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "TEL-1001",
     "name": "RFDesign RFD868x \u2014 EU 868MHz SiK Radio",
     "manufacturer": "RFDesign",
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 89,
     "source": "https://rfdesign.com.au/products/rfd868x-modem/",
     "interface": "UART / USB",
@@ -53,7 +54,8 @@
       "868mhz",
       "eu",
       "ndaa"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "TEL-1002",
@@ -81,7 +83,8 @@
       "915mhz",
       "budget",
       "china"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "TEL-1003",
@@ -107,7 +110,8 @@
       "xbee",
       "900mhz",
       "long-range"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "TEL-1004",
@@ -135,14 +139,15 @@
       "915mhz",
       "ndaa",
       "usa-made"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "TEL-1005",
     "name": "Microhard pDDL 2450 \u2014 2.4GHz Long Range",
     "manufacturer": "Microhard Systems",
     "manufacturer_country": "Canada",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 449,
     "source": "https://microhardcorp.com",
     "interface": "UART / Ethernet",
@@ -163,7 +168,8 @@
       "long-range",
       "ndaa",
       "canada"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "TEL-1006",
@@ -188,14 +194,15 @@
       "long-range",
       "60km",
       "mavlink"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "TEL-1007",
     "name": "FreeWave FGR3 \u2014 Industrial FHSS Radio",
     "manufacturer": "FreeWave Technologies",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 599,
     "source": "https://www.freewave.com",
     "interface": "UART / RS-232",
@@ -218,7 +225,8 @@
       "100km",
       "ndaa",
       "bvlos"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "TEL-1008",
@@ -247,6 +255,7 @@
       "ndaa",
       "australia",
       "1080p"
-    ]
+    ],
+    "origin": "USA"
   }
 ]
