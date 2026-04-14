@@ -24,7 +24,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
@@ -983,7 +983,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ant-1200tvl-1-8mm-fpv-nano-camera-14x14-black.html"
     ],
-    "weight_g": 2.0,
+    "weight_g": 2,
     "origin": "China"
   },
   {
@@ -1159,7 +1159,7 @@
     "schema_data": {
       "weight_g": -2
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
@@ -1239,7 +1239,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-baby-ratel-2-1200tvl-1-8mm-fpv-camera.html"
     ],
-    "weight_g": 3.0,
+    "weight_g": 3,
     "origin": "China"
   },
   {
@@ -1389,7 +1389,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-thumb-pro-4k-hd-action-camera-wide-fov.html"
     ],
-    "weight_g": 16.0,
+    "weight_g": 16,
     "origin": "China"
   },
   {
@@ -1635,7 +1635,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
@@ -2110,7 +2110,7 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
@@ -3325,7 +3325,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-nebula-pro-camera.html"
     ],
-    "weight_g": 10.0,
+    "weight_g": 10,
     "origin": "China"
   },
   {
@@ -3360,7 +3360,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-polar-camera.html"
     ],
-    "weight_g": 10.0,
+    "weight_g": 10,
     "origin": "China"
   },
   {
@@ -6980,7 +6980,7 @@
     "manufacturer": "KaraFPV",
     "country": "Ukraine",
     "approx_price_usd": 26.95,
-    "approx_price_uah": 1105.0,
+    "approx_price_uah": 1105,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -7012,7 +7012,7 @@
     "manufacturer": "SkyPulse",
     "country": "Ukraine",
     "approx_price_usd": 28.61,
-    "approx_price_uah": 1173.0,
+    "approx_price_uah": 1173,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -7044,7 +7044,7 @@
     "manufacturer": "SkyPulse",
     "country": "Ukraine",
     "approx_price_usd": 18.02,
-    "approx_price_uah": 739.0,
+    "approx_price_uah": 739,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
