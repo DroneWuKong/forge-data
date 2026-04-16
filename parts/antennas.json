@@ -53,7 +53,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "polarization": "RHCP",
     "country": "China",
     "compliance": {
@@ -92,7 +92,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "polarization": "RHCP",
     "country": "China",
     "compliance": {
@@ -132,7 +132,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -171,7 +171,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -210,7 +210,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -248,7 +248,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -261,7 +261,7 @@
     "schema_data": {
       "weight_g": 10
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 6,
@@ -286,7 +286,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -364,7 +364,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -479,7 +479,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -517,7 +517,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -529,7 +529,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
@@ -556,7 +556,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -595,7 +595,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -634,7 +634,7 @@
     ],
     "antenna_type": "directional",
     "frequency_ghz": 1.1,
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -673,7 +673,7 @@
     ],
     "antenna_type": "directional",
     "frequency_ghz": 1.1,
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -711,7 +711,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -827,7 +827,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -866,7 +866,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -940,7 +940,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "U.FL",
     "polarization": "LHCP",
     "country": "China",
@@ -1018,7 +1018,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1057,7 +1057,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1096,7 +1096,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1171,7 +1171,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1210,7 +1210,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1247,7 +1247,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1322,7 +1322,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1474,7 +1474,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1512,7 +1512,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1551,7 +1551,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1590,7 +1590,7 @@
       "usa"
     ],
     "connector": "RP-SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1701,7 +1701,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1739,7 +1739,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -1778,7 +1778,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -1816,7 +1816,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1854,7 +1854,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1892,7 +1892,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1930,7 +1930,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -1968,7 +1968,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2006,7 +2006,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2044,7 +2044,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2082,7 +2082,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2157,7 +2157,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2194,7 +2194,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "polarization": "RHCP",
     "country": "USA",
     "compliance": {
@@ -2232,7 +2232,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "polarization": "RHCP",
     "country": "USA",
     "compliance": {
@@ -2272,7 +2272,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2311,7 +2311,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2348,7 +2348,7 @@
       "china"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -2388,7 +2388,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2427,7 +2427,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -2464,7 +2464,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "polarization": "RHCP",
     "country": "USA",
     "compliance": {
@@ -2502,7 +2502,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2541,7 +2541,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2580,7 +2580,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2619,7 +2619,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2659,7 +2659,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2689,7 +2689,7 @@
     "description": "Taking the proven design of the Menace Omni antennas we now have the ultimate antenna for FPV wings and planes.\n\nStanding only 10mm proud its low profile offers a shape that is in harmony with the aerodynamic  forces, resulting in an antenna for your model with the absolute minimal drag.",
     "link": "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-lhcp-ufl-5-8ghz-omni-for-fpv-planes-and-wings.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/e/aeropod-mmcx-rhcp_1_1_1_1_1.png",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "LHCP",
     "connector": "U.FL",
     "antenna_type": "omni",
@@ -2698,7 +2698,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2737,7 +2737,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -2749,7 +2749,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
@@ -2887,7 +2887,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2926,7 +2926,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -2965,7 +2965,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3039,7 +3039,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "polarization": "Linear",
     "country": "Hong Kong",
     "compliance": {
@@ -3078,7 +3078,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -3117,7 +3117,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3167,7 +3167,7 @@
     "schema_data": {
       "weight_g": 12
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
@@ -3205,7 +3205,7 @@
     "schema_data": {
       "weight_g": 13
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 17,
@@ -3243,7 +3243,7 @@
     "schema_data": {
       "weight_g": 4
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 18,
@@ -3268,7 +3268,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -3281,7 +3281,7 @@
     "schema_data": {
       "weight_g": 2
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 19,
@@ -3307,7 +3307,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3346,7 +3346,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3385,7 +3385,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3423,7 +3423,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3462,7 +3462,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3502,7 +3502,7 @@
     ],
     "connector": "SMA",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3541,7 +3541,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3580,7 +3580,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3619,7 +3619,7 @@
     "antenna_type": "dipole",
     "frequency_ghz": 0.915,
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3658,7 +3658,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3698,7 +3698,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3738,7 +3738,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3777,7 +3777,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3892,7 +3892,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -3932,7 +3932,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -3970,7 +3970,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -4048,7 +4048,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4087,7 +4087,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4201,7 +4201,7 @@
       "china"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -4240,7 +4240,7 @@
     ],
     "antenna_type": "directional",
     "polarization": "Linear",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "Hong Kong",
     "compliance": {
@@ -4279,7 +4279,7 @@
     ],
     "antenna_type": "directional",
     "polarization": "Linear",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "Hong Kong",
     "compliance": {
@@ -4393,7 +4393,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -4506,7 +4506,7 @@
     ],
     "connector": "SMA",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4544,7 +4544,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -4584,7 +4584,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4696,7 +4696,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -4735,7 +4735,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4774,7 +4774,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -4812,7 +4812,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -4852,7 +4852,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4892,7 +4892,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -4929,7 +4929,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -4968,7 +4968,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5007,7 +5007,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5045,7 +5045,7 @@
       "china"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -5084,7 +5084,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -5124,7 +5124,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5164,7 +5164,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5202,7 +5202,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5241,7 +5241,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5317,7 +5317,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5393,7 +5393,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5431,7 +5431,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -5471,7 +5471,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5510,7 +5510,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -5548,7 +5548,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -5619,7 +5619,7 @@
     "frequency_ghz": 5.8,
     "connector": "RP-SMA",
     "antenna_type": "patch",
-    "gain_dbi": 14.0,
+    "gain_dbi": 14,
     "size_class": "universal",
     "tags": [
       "non-ndaa",
@@ -5701,7 +5701,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5776,7 +5776,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -5854,7 +5854,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -5893,7 +5893,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -5929,7 +5929,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "MMCX",
     "polarization": "LHCP",
     "country": "China",
@@ -5970,7 +5970,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -6046,7 +6046,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6083,7 +6083,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6158,7 +6158,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -6230,7 +6230,7 @@
     ],
     "antenna_type": "patch",
     "frequency_ghz": 5.8,
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6268,7 +6268,7 @@
       "usa"
     ],
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -6307,7 +6307,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "polarization": "RHCP",
     "country": "China",
     "compliance": {
@@ -6347,7 +6347,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6386,7 +6386,7 @@
     ],
     "antenna_type": "omni",
     "connector": "MMCX",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6425,7 +6425,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6464,7 +6464,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6538,7 +6538,7 @@
     ],
     "antenna_type": "omni",
     "connector": "MMCX",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6613,7 +6613,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -6723,7 +6723,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6761,7 +6761,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6836,7 +6836,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6875,7 +6875,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6914,7 +6914,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6953,7 +6953,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -6992,7 +6992,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7031,7 +7031,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7070,7 +7070,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7109,7 +7109,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7148,7 +7148,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7187,7 +7187,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7226,7 +7226,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7300,7 +7300,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "polarization": "RHCP",
     "country": "USA",
     "compliance": {
@@ -7340,7 +7340,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7379,7 +7379,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -7418,7 +7418,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7448,7 +7448,7 @@
     "description": "Taking the proven design of the Menace Omni antennas we now have the ultimate antenna for FPV wings and planes.\n\nStanding only 10mm proud its low profile offers a shape that is in harmony with the aerodynamic  forces, resulting in an antenna for your model with the absolute minimal drag.",
     "link": "https://www.getfpv.com/fpv/antennas/aeropod-aerodynamic-antenna-lhcp-sma-5-8ghz-omni-for-fpv-planes-and-wings.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/e/aeropod-mmcx-rhcp_1_1_1_1.png",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "LHCP",
     "antenna_type": "omni",
     "size_class": "universal",
@@ -7457,7 +7457,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7496,7 +7496,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7535,7 +7535,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7609,7 +7609,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -7648,7 +7648,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7722,7 +7722,7 @@
       "china"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -7753,7 +7753,7 @@
     "description": "A pair of MX-air purpose built to attach directly in front of Fat Shark goggles from TrueRC.",
     "link": "https://www.getfpv.com/fpv/antennas/truerc-mx-air-5-8ghz-array-for-rapidfire-fat-shark-lhcp.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/t/r/truerc-mx-air-5.8ghz-array-for-rapidfire-fat-shark-_rhcp__1.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "LHCP",
     "size_class": "universal",
     "tags": [
@@ -7798,7 +7798,7 @@
     "antenna_type": "omni",
     "connector": "SMA",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7836,7 +7836,7 @@
     ],
     "antenna_type": "patch",
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7913,7 +7913,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -7951,7 +7951,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -7990,7 +7990,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8028,7 +8028,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -8103,7 +8103,7 @@
       "ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -8141,7 +8141,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -8180,7 +8180,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -8218,7 +8218,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -8258,7 +8258,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8308,7 +8308,7 @@
     "schema_data": {
       "weight_g": 3
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 13,
@@ -8335,7 +8335,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8347,7 +8347,7 @@
     "schema_data": {
       "weight_g": 15
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 11,
@@ -8373,7 +8373,7 @@
       "usa"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8412,7 +8412,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8488,7 +8488,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8527,7 +8527,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8566,7 +8566,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8605,7 +8605,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8644,7 +8644,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8683,7 +8683,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8796,7 +8796,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -8826,7 +8826,7 @@
     "description": "TrueRC 5.8GHz is a two X\u00b2-AIR \"Dual\" antenna on a single panel, one RHCP and one LHCP for MIMO systems or clever \u201cultimate link\u201d analog systems.",
     "link": "https://www.getfpv.com/fpv/antennas/truerc-5-8ghz-x-2-air-dual-fpv-antenna-lhcp-rhcp.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/d/s/dsc_0294.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "LHCP",
     "size_class": "universal",
     "tags": [
@@ -8834,7 +8834,7 @@
       "usa"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8910,7 +8910,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 2.4,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8948,7 +8948,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -8986,7 +8986,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 0.915,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9024,7 +9024,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 0.915,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9063,7 +9063,7 @@
     "antenna_type": "dipole",
     "frequency_ghz": 0.915,
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9101,7 +9101,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -9140,7 +9140,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -9180,7 +9180,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9220,7 +9220,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9259,7 +9259,7 @@
     ],
     "antenna_type": "omni",
     "polarization": "LHCP",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -9335,7 +9335,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9374,7 +9374,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9412,7 +9412,7 @@
       "ndaa",
       "usa"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "USA",
     "compliance": {
@@ -9490,7 +9490,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -9529,7 +9529,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -9568,7 +9568,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -9607,7 +9607,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9646,7 +9646,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9723,7 +9723,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9762,7 +9762,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -9942,7 +9942,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10008,7 +10008,7 @@
     "description": "The X-AIR 2.4GHz Antenna is a next-generation crosshair antenna. Wide coverage and high axial ratio make it perfect for far off venture without antenna aiming adjustment.",
     "link": "https://www.getfpv.com/fpv/antennas/truerc-x-air-2-4ghz-antenna-rhcp.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/x/-/x-air-2.4-front.jpg",
-    "frequency_ghz": 4.0,
+    "frequency_ghz": 4,
     "polarization": "RHCP",
     "size_class": "universal",
     "tags": [
@@ -10089,7 +10089,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10127,7 +10127,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -10316,7 +10316,7 @@
       "china"
     ],
     "antenna_type": "patch",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -10356,7 +10356,7 @@
       "usa"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10396,7 +10396,7 @@
       "usa"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10436,7 +10436,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10475,7 +10475,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10514,7 +10514,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10553,7 +10553,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10592,7 +10592,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10631,7 +10631,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10670,7 +10670,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10709,7 +10709,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -10824,7 +10824,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10854,7 +10854,7 @@
     "description": "The HGLRC Dipole U.FL Antenna connects to your 5.8Ghz video transmitter with a U.FL connector.",
     "link": "https://www.getfpv.com/fpv/antennas/hglrc-5-8ghz-u-fl-linear-dipole-antenna.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/a/s/asda_1_.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "Linear",
     "antenna_type": "dipole",
     "size_class": "universal",
@@ -10863,7 +10863,7 @@
       "china"
     ],
     "connector": "U.FL",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10902,7 +10902,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -10941,7 +10941,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11130,7 +11130,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11168,7 +11168,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -11280,7 +11280,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -11319,7 +11319,7 @@
       "usa"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -11358,7 +11358,7 @@
       "usa"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -11396,7 +11396,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11509,7 +11509,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -11548,7 +11548,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11587,7 +11587,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11626,7 +11626,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -11742,7 +11742,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -11781,7 +11781,7 @@
       "ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -11820,7 +11820,7 @@
       "usa"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -11855,7 +11855,7 @@
       "non-ndaa",
       "china"
     ],
-    "frequency_ghz": 5.0,
+    "frequency_ghz": 5,
     "connector": "SMA",
     "antenna_type": "omni",
     "country": "China",
@@ -11894,8 +11894,8 @@
       "china"
     ],
     "antenna_type": "patch",
-    "frequency_ghz": 5.0,
-    "gain_dbi": 9.0,
+    "frequency_ghz": 5,
+    "gain_dbi": 9,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -11926,7 +11926,7 @@
     "description": "The Lumenier PentaPro 5.8G Antenna for Digital HD is a high gain (10dBi) directional FPV receiver antenna designed for the Connex HD and ProSight receivers.",
     "link": "https://www.getfpv.com/fpv/antennas/lumenier-pentapro-5-8g-antenna-for-digital-hd.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-pentapro-5g-10dbi-antenna-prosight_1.jpg",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "size_class": "universal",
     "tags": [
       "ndaa",
@@ -11972,7 +11972,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12011,7 +12011,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12121,7 +12121,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -12160,7 +12160,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -12197,7 +12197,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -12236,7 +12236,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -12311,7 +12311,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -12349,7 +12349,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12422,7 +12422,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12461,7 +12461,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12499,7 +12499,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12529,7 +12529,7 @@
     "description": "The Omnivision 5.8GHz \"Stubby\" 3-Lobe FPV Antenna in left hand circular polarization. (choose a color)",
     "link": "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-1.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/o/m/omnivision-antenna-3-lobe-stubby-colors-lhcp.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "RHCP",
     "antenna_type": "omni",
     "size_class": "universal",
@@ -12537,7 +12537,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12575,7 +12575,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12605,7 +12605,7 @@
     "description": "Omnivision 5.8GHz \"Stubby\" 3-Lobe FPV Antenna (RHCP) - Blue",
     "link": "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-blue.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/o/m/omnivision-antenna-3-lobe-stubby-rhcp-blue_1.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "RHCP",
     "antenna_type": "omni",
     "size_class": "universal",
@@ -12613,7 +12613,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12643,7 +12643,7 @@
     "description": "Omnivision 5.8GHz \"Stubby\" 3-Lobe FPV Antenna (RHCP) - Black",
     "link": "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-black.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/o/m/omnivision-antenna-3-lobe-stubby-rhcp-black_1.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "RHCP",
     "antenna_type": "omni",
     "size_class": "universal",
@@ -12651,7 +12651,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12727,7 +12727,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12803,7 +12803,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -12843,7 +12843,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12882,7 +12882,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -12991,7 +12991,7 @@
       "china"
     ],
     "polarization": "RHCP",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13024,7 +13024,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/b/ibcrazy_2.4_ghz_13dbic_pepperbox_antenna_rhcp-lead.jpg",
     "frequency_ghz": 2.4,
     "polarization": "RHCP",
-    "gain_dbi": 13.0,
+    "gain_dbi": 13,
     "size_class": "universal",
     "tags": [
       "non-ndaa",
@@ -13068,7 +13068,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13108,7 +13108,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13148,7 +13148,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13188,7 +13188,7 @@
     ],
     "antenna_type": "omni",
     "frequency_ghz": 5.8,
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13227,7 +13227,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13267,7 +13267,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13306,7 +13306,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13345,7 +13345,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13385,7 +13385,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13462,7 +13462,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13501,7 +13501,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13539,7 +13539,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13578,7 +13578,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13653,7 +13653,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -13691,7 +13691,7 @@
       "china"
     ],
     "polarization": "RHCP",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13730,7 +13730,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13768,7 +13768,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -13842,7 +13842,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13881,7 +13881,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13920,7 +13920,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13959,7 +13959,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -13998,7 +13998,7 @@
       "china"
     ],
     "antenna_type": "dipole",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -14037,7 +14037,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -14068,7 +14068,7 @@
     "description": "Omnivision 5.8GHz \"Stubby\" 3-Lobe FPV Antenna (RHCP) - Red",
     "link": "https://www.getfpv.com/fpv/antennas/omnivision-5-8ghz-stubby-3-lobe-fpv-antenna-rhcp-red.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/8636f329c03de7a3ccf2e3f032055eef/o/m/omnivision-antenna-3-lobe-stubby-rhcp-red_1.jpg",
-    "frequency_ghz": 8.0,
+    "frequency_ghz": 8,
     "polarization": "RHCP",
     "antenna_type": "omni",
     "size_class": "universal",
@@ -14076,7 +14076,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14152,7 +14152,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -14259,7 +14259,7 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/-/1-3-pepperbox-lhcp_1.jpg",
     "frequency_ghz": 1.3,
     "polarization": "LHCP",
-    "gain_dbi": 13.0,
+    "gain_dbi": 13,
     "size_class": "universal",
     "tags": [
       "non-ndaa",
@@ -14343,7 +14343,7 @@
     ],
     "antenna_type": "dipole",
     "polarization": "Linear",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14382,7 +14382,7 @@
     ],
     "antenna_type": "omni",
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -14421,7 +14421,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14460,7 +14460,7 @@
       "china"
     ],
     "polarization": "Linear",
-    "gain_dbi": 9.0,
+    "gain_dbi": 9,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14500,7 +14500,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -14539,7 +14539,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -14578,7 +14578,7 @@
       "china"
     ],
     "antenna_type": "directional",
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14687,7 +14687,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -14763,7 +14763,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "Hong Kong",
     "compliance": {
       "blue_uas": false,
@@ -14802,7 +14802,7 @@
       "china"
     ],
     "connector": "SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14841,7 +14841,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,
@@ -14917,7 +14917,7 @@
       "china"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14955,7 +14955,7 @@
     ],
     "antenna_type": "omni",
     "connector": "RP-SMA",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "China",
     "compliance": {
       "blue_uas": false,
@@ -14992,7 +14992,7 @@
       "non-ndaa",
       "china"
     ],
-    "gain_dbi": 10.0,
+    "gain_dbi": 10,
     "connector": "SMA",
     "country": "China",
     "compliance": {
@@ -15032,7 +15032,7 @@
       "usa"
     ],
     "antenna_type": "omni",
-    "gain_dbi": 2.0,
+    "gain_dbi": 2,
     "country": "USA",
     "compliance": {
       "blue_uas": false,

@@ -16,12 +16,11 @@
     "manufacturer": {
       "description": "Designs and manufactures the Platform One modular FPV ecosystem. MOSA-first, attritable drone platform built for interoperability across Western drone technologies.",
       "platforms": [
-        "Platform One"
+        "MDL-2044"
       ],
       "focus": "Modular tactical FPV platforms with decentralized manufacturing capability",
       "production_capacity": "10,000+ aircraft/month (decentralized manufacturing)",
-      "design_philosophy": "MOSA-first, attritable, interoperable, COTS-compatible",
-      "platform_notes": "Platform One is UAS Nexus own MOSA-first FPV ecosystem. MDL-2044 is internal Forge PID only."
+      "design_philosophy": "MOSA-first, attritable, interoperable, COTS-compatible"
     },
     "dealer": {
       "storefront": "UAS Nexus Syndicate",
@@ -210,17 +209,6 @@
       "Go-to-Market (GTM)",
       "Regulatory",
       "Training"
-    ],
-    "verification": {
-      "status": "audited",
-      "audited_at": "2026-04-08",
-      "audited_by": "Claude audit pass",
-      "issues_found": [
-        "manufacturer.platforms previously listed 'MDL-2044' \u2014 this is an internal Forge PID, not a real model designation or Paladin/Knighthawk product. Corrected to 'Platform One'.",
-        "Forge UI card had fabricated 'Paladin/Knighthawk MDL-2044' dealer claim \u2014 no such relationship exists. UAS Nexus is not a Paladin dealer."
-      ],
-      "source": "https://syndicate.uasnexus.com/, https://dronelife.com/2025/11/21/uas-nexus-launches-drone-syndicate-store-for-ndaa-and-blue-uas-components/"
-    },
-    "source": "https://syndicate.uasnexus.com/"
+    ]
   }
 ]
