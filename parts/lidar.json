@@ -44,7 +44,7 @@
       "precision landing",
       "obstacle detection"
     ],
-    "price_usd": 279.0,
+    "price_usd": 279,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/products/sf000",
@@ -57,7 +57,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF000-B"
   },
   {
     "id": "lidar_lightware_sf11c",
@@ -106,7 +107,7 @@
       "precision landing",
       "automated landing"
     ],
-    "price_usd": 229.0,
+    "price_usd": 229,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf11-c-100-m2/",
@@ -119,7 +120,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF11-C"
   },
   {
     "id": "lidar_lightware_sf20c",
@@ -166,7 +168,7 @@
       "obstacle detection",
       "scanning LiDAR with servo"
     ],
-    "price_usd": 279.0,
+    "price_usd": 279,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf20-c-100-m/",
@@ -179,7 +181,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF20-C"
   },
   {
     "id": "lidar_lightware_lw20c",
@@ -227,7 +230,7 @@
       "scanning LiDAR with servo",
       "harsh environment ops"
     ],
-    "price_usd": 299.0,
+    "price_usd": 299,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/lw20-ha/",
@@ -240,7 +243,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-LW20-C"
   },
   {
     "id": "lidar_lightware_lw20ha",
@@ -302,7 +306,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-LW20-HA"
   },
   {
     "id": "lidar_lightware_sf23b",
@@ -346,7 +351,7 @@
       "energy-critical UAV ops",
       "battery/solar-powered systems"
     ],
-    "price_usd": 129.0,
+    "price_usd": 129,
     "price_note": "On sale from $259 original",
     "ndaa_compliant": true,
     "blue_uas_ready": false,
@@ -360,7 +365,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF23-B"
   },
   {
     "id": "lidar_lightware_sf30d",
@@ -421,7 +427,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF30-D"
   },
   {
     "id": "lidar_lightware_sf45b",
@@ -485,7 +492,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF45-B"
   },
   {
     "id": "lidar_lightware_grf250",
@@ -545,7 +553,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-GRF-250"
   },
   {
     "id": "lidar_lightware_grf500",
@@ -603,7 +612,7 @@
       "conservation",
       "ISR"
     ],
-    "price_usd": 399.0,
+    "price_usd": 399,
     "ndaa_compliant": true,
     "ndaa_section": "Section 848",
     "blue_uas_ready": true,
@@ -619,7 +628,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-GRF-500"
   },
   {
     "id": "lidar_lightware_sf20ha",
@@ -666,7 +676,7 @@
       "terrain following",
       "position hold"
     ],
-    "price_usd": 319.0,
+    "price_usd": 319,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf20-ha/",
@@ -679,7 +689,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF20-HA"
   },
   {
     "id": "lidar_lightware_sf30c",
@@ -728,7 +739,7 @@
       "high-speed applications",
       "sensing & automation"
     ],
-    "price_usd": 299.0,
+    "price_usd": 299,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/",
@@ -741,7 +752,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF30-C"
   },
   {
     "id": "lidar_lightware_sf40c",
@@ -790,7 +802,7 @@
       "mapping",
       "360-degree detection"
     ],
-    "price_usd": 599.0,
+    "price_usd": 599,
     "ndaa_compliant": true,
     "blue_uas_ready": false,
     "url": "https://lightwarelidar.com/shop/sf40-c-100-m/",
@@ -803,7 +815,8 @@
     "tags": [
       "ndaa"
     ],
-    "origin": "South Africa"
+    "origin": "South Africa",
+    "pid": "LDR-MFR-LightWare-SF40-C"
   },
   {
     "id": "lidar_resepi_gen2_os1_ilx",
@@ -911,7 +924,8 @@
       "ndaa",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "pid": "LDR-MFR-Inertial-RESEPI-GEN-II-OS1-ILX"
   },
   {
     "id": "lidar_resepi_gen2_m2x_ilx",
@@ -1017,7 +1031,8 @@
       "ndaa",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "pid": "LDR-MFR-Inertial-RESEPI-GEN-II-M2X-ILX"
   },
   {
     "id": "lidar_resepi_lite_xt32",
@@ -1118,7 +1133,8 @@
       "ndaa",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "pid": "LDR-MFR-Inertial-RESEPI-LITE-XT-32"
   },
   {
     "id": "lidar_resepi_ultra_lite",
@@ -1213,7 +1229,8 @@
       "ndaa",
       "usa"
     ],
-    "origin": "USA"
+    "origin": "USA",
+    "pid": "LDR-MFR-Inertial-RESEPI-Ultra-LITE"
   },
   {
     "id": "lidar_resepi_echoone",
@@ -1287,7 +1304,7 @@
       "PPK post-processing",
       "Real-time point cloud"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas_ready": false,
     "white_label": false,
     "price_usd": 995,
@@ -1307,7 +1324,8 @@
       "ndaa",
       "usa"
     ],
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "pid": "LDR-MFR-Teledyne-EchoONE"
   },
   {
     "pid": "LDR-MFR-Ouster-OS0--Short-Range-LiDAR",
