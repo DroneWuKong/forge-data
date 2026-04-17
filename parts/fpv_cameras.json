@@ -24,7 +24,7 @@
     "schema_data": {
       "weight_g": 1
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 29,
@@ -983,7 +983,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-ant-1200tvl-1-8mm-fpv-nano-camera-14x14-black.html"
     ],
-    "weight_g": 2.0,
+    "weight_g": 2,
     "origin": "China"
   },
   {
@@ -1159,7 +1159,7 @@
     "schema_data": {
       "weight_g": -2
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 22,
@@ -1239,7 +1239,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-baby-ratel-2-1200tvl-1-8mm-fpv-camera.html"
     ],
-    "weight_g": 3.0,
+    "weight_g": 3,
     "origin": "China"
   },
   {
@@ -1389,7 +1389,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-thumb-pro-4k-hd-action-camera-wide-fov.html"
     ],
-    "weight_g": 16.0,
+    "weight_g": 16,
     "origin": "China"
   },
   {
@@ -1635,7 +1635,7 @@
     "schema_data": {
       "weight_g": 7
     },
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 15,
@@ -2110,7 +2110,7 @@
     "schema_data": {
       "weight_g": 14
     },
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "China",
     "price_usd": 26,
@@ -3325,7 +3325,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-nebula-pro-camera.html"
     ],
-    "weight_g": 10.0,
+    "weight_g": 10,
     "origin": "China"
   },
   {
@@ -3360,7 +3360,7 @@
     "links": [
       "https://www.getfpv.com/fpv/cameras/flight-cameras/caddx-naked-vista-unit-w-polar-camera.html"
     ],
-    "weight_g": 10.0,
+    "weight_g": 10,
     "origin": "China"
   },
   {
@@ -6980,7 +6980,7 @@
     "manufacturer": "KaraFPV",
     "country": "Ukraine",
     "approx_price_usd": 26.95,
-    "approx_price_uah": 1105.0,
+    "approx_price_uah": 1105,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -7012,7 +7012,7 @@
     "manufacturer": "SkyPulse",
     "country": "Ukraine",
     "approx_price_usd": 28.61,
-    "approx_price_uah": 1173.0,
+    "approx_price_uah": 1173,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -7044,7 +7044,7 @@
     "manufacturer": "SkyPulse",
     "country": "Ukraine",
     "approx_price_usd": 18.02,
-    "approx_price_uah": 739.0,
+    "approx_price_uah": 739,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -7068,5 +7068,2833 @@
     "price_usd": 18.02,
     "weight_g": 10,
     "origin": "Ukraine"
+  },
+  {
+    "name": "HISINGY Easy Copter FPV Camera + VTX",
+    "manufacturer": "HISINGY",
+    "description": "The HISINGY Easy Copter FPV Camera + VTX is a replacement camera and VTX for the Hisingy Firefly SMART and Firefly quadcopters.",
+    "link": "https://www.getfpv.com/fpv/cameras/hisingy-easy-copter-fpv-camera-vtx.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24327CN1Z",
+      "UPC (GTIN)": "723326379628",
+      "Manufacturer": "HISINGY",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Camera Type": "FPV Camera",
+      "System Type": "Analog"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1199",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "WalleFPV Naked O4 Pro ND Filter Set - UV + ND8 + ND16 + ND32",
+    "manufacturer": "WalleFPV",
+    "description": "The\u00a0WalleFPV Naked O4 Pro ND Filter Set contains four ultra-lightweight filters designed for the DJI O4 Pro lens.",
+    "link": "https://www.getfpv.com/fpv/cameras/wallefpv-naked-o4-pro-nd-filter-set-uv-nd8-nd16-nd32.html",
+    "image_file": "",
+    "approx_price": 399.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24173CN1Z",
+      "UPC (GTIN)": "723326379048",
+      "Manufacturer": "WalleFPV",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1200",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "WalleFPV Naked O4 Pro Coaxial Cable - 6cm",
+    "manufacturer": "WalleFPV",
+    "description": "The WalleFPV Naked O4 Pro Coaxial Cable is designed for compatibility and flexibility with the DJI O4 system.",
+    "link": "https://www.getfpv.com/fpv/cameras/wallefpv-naked-o4-pro-coaxial-cable-6cm.html",
+    "image_file": "",
+    "approx_price": 37.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24174CN1Z",
+      "UPC (GTIN)": "723326379055",
+      "Manufacturer": "WalleFPV",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1201",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "BETAFPV O4 Air Unit Bracket II",
+    "manufacturer": "BetaFPV",
+    "description": "The BETAFPV O4 Air Unit Bracket II is an upgraded mounting plate for O4-series air units that improves vibration isolation and simplifies installation.",
+    "link": "https://www.getfpv.com/fpv/cameras/betafpv-o4-air-unit-bracket-ii.html",
+    "image_file": "",
+    "approx_price": 19.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24298CN1Z",
+      "Manufacturer": "BETAFPV",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1202",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter DJI Osmo Nano ND Filter Pack - ND4/8/16/32",
+    "manufacturer": "DJI",
+    "description": "These pro-quality Camera Butter ND Filters for the DJI Osmo Nano offer tool-free installation, unmatched durability with Gorilla glass and anodized aluminum, and ultra-clear Black Diamond optics with nanocoating to reduce glare and repel water and fingerprints.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-dji-osmo-nano-nd-filter-pack-nd4-8-16-32.html",
+    "image_file": "",
+    "approx_price": 7.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24115CA1Z",
+      "UPC (GTIN)": "723326378768",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "Canada",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1203",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter DJI Osmo Action 6 ND Filter Pack  - ND4/8/16/32",
+    "manufacturer": "DJI",
+    "description": "These premium Camera Butter ND Filters for the DJI Osmo Action 6 offer four popular strengths (ND4, ND8, ND16, ND32) in ultra-strong Black Diamond glass with anodized aluminum frames.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-dji-osmo-action-6-nd-filter-pack-nd4-8-16-32.html",
+    "image_file": "",
+    "approx_price": 39.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24116CA1Z",
+      "UPC (GTIN)": "723326378775",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "Canada",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1204",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam HDZero Nano 90 V2 FPV Camera",
+    "manufacturer": "HDZero",
+    "description": "The RunCam HDZero Nano 90 V2 HD Camera is the perfect 90 fps camera for the HDZero VTX. This camera enables HDZero to be 5ms faster than analog 60i video, showing a full field/frame.",
+    "link": "https://www.getfpv.com/fpv/cameras/runcam-hdzero-nano-90-v2-fpv-camera.html",
+    "image_file": "",
+    "approx_price": 49.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24204CN1Z",
+      "UPC (GTIN)": "723326378393",
+      "Manufacturer": "RunCam",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Camera Type": "FPV Camera",
+      "System Type": "Digital",
+      "Camera Dimensions": "18x18",
+      "Aspect Ratio": "4:3"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1205",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "HDZero Camera Switcher 2",
+    "manufacturer": "HDZero",
+    "description": "The\u00a0HDZero Camera Switcher 2 allows you to run two MIPI cameras on a single VTX and switch between them instantly in flight.",
+    "link": "https://www.getfpv.com/fpv/cameras/hdzero-camera-switcher-2.html",
+    "image_file": "",
+    "approx_price": 79.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24067CN1Z",
+      "UPC (GTIN)": "723326378287",
+      "Manufacturer": "HDZero",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1206",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo UV Filters Set for O4 Wide-Angle Lens - UV (3Pcs)",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo UV Filters Set for O4 Wide-Angle Lens is a set of ultra-lightweight filters designed for the Flywoo O4 Wide-Angle Lens.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-uv-filters-set-for-o4-wide-angle-lens-uv-3pcs.html",
+    "image_file": "",
+    "approx_price": 129.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23507",
+      "UPC (GTIN)": "723326377334",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Camera Type": "FPV Camera",
+      "System Type": "Digital"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1207",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo O4 Wide-Angle Lens + Filters Set - O4 to O4 Pro",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo O4 Wide-Angle Lens + Filters Set was crafted exclusively for the DJI O4 Lite.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-o4-wide-angle-lens-filters-set-o4-to-o4-pro.html",
+    "image_file": "",
+    "approx_price": 49.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23505",
+      "UPC (GTIN)": "723326376900",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Camera Type": "FPV Camera",
+      "System Type": "Digital"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1208",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo O4 / O4 Pro Coaxial Cable",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo O4 / O4 Pro Coaxial Cable is designed for compatibility and flexibility with the DJI O4 system.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-o4-o4-pro-coaxial-cable.html",
+    "image_file": "",
+    "approx_price": 89.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23695",
+      "UPC (GTIN)": "723326376047",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1209",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar HD Pro Kit - 32GB w/ Dual Antennas",
+    "manufacturer": "Walksnail",
+    "description": "The Walksnail Avatar HD Pro Kit utilizes cutting-edge H.265 coding, ensuring top-tier 1080p FPV visuals while maintaining minimal latency.",
+    "link": "https://www.getfpv.com/fpv/cameras/walksnail-avatar-hd-pro-kit-32gb-w-dual-antennas.html",
+    "image_file": "",
+    "approx_price": 32.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21372",
+      "UPC (GTIN)": "724376355723",
+      "Manufacturer": "Walksnail",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "System Type": "Digital",
+      "Max Output Power": "500mW",
+      "Mounting Pattern": "25.5x25.5mm",
+      "Antenna Connector / Length": "U.FL",
+      "Tx Frequencies": "5.8GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1210",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Vista Coaxial Cable - 20cm",
+    "manufacturer": "Caddx",
+    "description": "A replacement or spare 20cm coaxial cable for the\u00a0Caddx Vista Digital HD System.",
+    "link": "https://www.getfpv.com/fpv/cameras/caddx-vista-coaxial-cable-20cm.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "15127",
+      "UPC (GTIN)": "736952010155",
+      "Manufacturer": "Caddx",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1211",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar Coaxial Camera Cable - 9cm w/ Micro Back Case",
+    "manufacturer": "Walksnail",
+    "description": "The Walksnail Avatar 9cm Coaxial Cable is a replacement or spare for the Walksnail Avatar HD Nano Camera.",
+    "link": "https://www.getfpv.com/fpv/cameras/walksnail-avatar-coaxial-camera-cable-9cm.html",
+    "image_file": "",
+    "approx_price": 17.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "19053",
+      "UPC (GTIN)": "764613346381",
+      "Manufacturer": "Walksnail",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1212",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Axisflying ND Filter Set for DJI O4 Air Unit - ND4/8/16/32",
+    "manufacturer": "DJI",
+    "description": "Enhance your DJI O4 Air Unit footage with the Axisflying ND Filter Set. This set includes ND4, ND8, ND16, and ND32 filters, allowing you to control light exposure and achieve smoother, more cinematic video in various lighting conditions.",
+    "link": "https://www.getfpv.com/fpv/cameras/axisflying-nd-filter-set-for-dji-o4-air-unit-nd4-8-16-32.html",
+    "image_file": "",
+    "approx_price": 14.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22895",
+      "UPC (GTIN)": "723326371592",
+      "Manufacturer": "Axisflying",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1213",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter Filter Set for DJI Avata 2/O4 Air Unit Pro - ND8/16/32/64/UV/CPL",
+    "manufacturer": "DJI",
+    "description": "Made from ultra-strong Corning Gorilla Glass with premium coatings, this\u00a0Filter Set\u00a0for the DJI Avata reduces jello, smoothing out video, and protecting your camera while adding cinematic motion blur.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-filter-set-for-dji-avata-2-o4-air-unit-pro-nd8-16-32-64-uv-cpl.html",
+    "image_file": "",
+    "approx_price": 18.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23075",
+      "UPC (GTIN)": "723326371479",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1214",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter Shock Mod Master ND Filter Set for GoPro Hero - ND4/8/16/32/64",
+    "manufacturer": "Camera",
+    "description": "Enhance your GoPro Hero 9, 10, 11, 12, and 13 footage with the Camera Butter Shock Mod Master ND Filter Set. This set includes ND4, ND8, ND16, ND32, and ND64 filters for precise light control and stunning cinematic shots.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-shock-mod-master-nd-filter-set-for-gopro-hero-nd4-8-16-32-64.html",
+    "image_file": "",
+    "approx_price": 43.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23077",
+      "UPC (GTIN)": "723326371486",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1215",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Camera Butter Shock Mod Protective Lens for GoPro Hero 9/10/Bones/11/11Mini/12/13",
+    "manufacturer": "Camera",
+    "description": "Protect your GoPro Hero 9, 10, Bones, 11, 11 Mini, 12, and 13 with the Camera Butter Shock Mod Protective Lens. Designed for durability and clarity, this lens guard shields your camera from scratches, dirt, and impacts while maintaining crystal-clear footage.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-shock-mod-protective-lens-for-gopro-hero-9-10-bones-11-11mini-12-13.html",
+    "image_file": "",
+    "approx_price": 87.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23076",
+      "UPC (GTIN)": "723326371493",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1216",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Camera Butter Shock Mod Master ND Filter for GoPro Hero",
+    "manufacturer": "Camera",
+    "description": "The Camera Butter Black Diamond ND Filter gives you that buttery smooth HD footage by allowing the optimal amount of light into your GoPro Hero camera.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-shock-mod-master-nd-filter-for-gopro-hero.html",
+    "image_file": "",
+    "approx_price": 21.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23159",
+      "Manufacturer": "Camera Butter",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1217",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Flywoo UV Filter for DJI O4 Air Unit Pro",
+    "manufacturer": "DJI",
+    "description": "Enhance your FPV footage with the Flywoo UV Filter\u00a0for the DJI O4 Air Unit. This filter allows you to control light exposure for smoother, more cinematic video.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-uv-filter-for-dji-o4-air-unit-pro.html",
+    "image_file": "",
+    "approx_price": 21.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22914",
+      "UPC (GTIN)": "723326371103",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1218",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo 3D Printed Storage Box for Flywoo Naked GoPro 2.0/2.1 - Yellow/Purple",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo Naked GoPro Action Camera Storage Box offers a secure, compact solution for storing your camera and accessories.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-3d-printed-storage-box-for-flywoo-naked-gopro-2-0-2-1-yellow-purple.html",
+    "image_file": "",
+    "approx_price": 12.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22964",
+      "UPC (GTIN)": "723326370786",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1219",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter Filter Set for DJI Neo - ND8/16/32/64/UV/CPL",
+    "manufacturer": "DJI",
+    "description": "Made with ultra-durable Corning Gorilla Glass and premium coatings, Camera Butter ND/CPL/Protector filters for the DJI Neo reduce jello, smooth out video, and provide cinema-quality motion blur while protecting your camera.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-filter-set-for-dji-neo-nd8-16-32-64-uv-cpl.html",
+    "image_file": "",
+    "approx_price": 32.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22864",
+      "UPC (GTIN)": "723326370526",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1220",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo DJI O3 Air Unit Camera ND Filter - UV",
+    "manufacturer": "DJI",
+    "description": "Flywoo has specially designed an ND Filter for the DJI Air Unit O3! This filter also acts as a lens protector when your drone has a serious crash.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-dji-o3-air-unit-camera-nd-filters-uv.html",
+    "image_file": "",
+    "approx_price": 39.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22863",
+      "UPC (GTIN)": "723326370335",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1221",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Flywoo ND Filter Set for DJI O4 Air Unit - ND4/8/16",
+    "manufacturer": "DJI",
+    "description": "Enhance your FPV footage with the Flywoo ND Filter Set for the DJI O4 Air Unit. This set includes ND4, ND8, and ND16 filters, allowing you to control light exposure for smoother, more cinematic video.",
+    "link": "https://www.getfpv.com/fpv/cameras/flywoo-nd-filter-set-for-dji-o4-air-unit-nd4-8-16.html",
+    "image_file": "",
+    "approx_price": 194.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22912",
+      "UPC (GTIN)": "723326371080",
+      "Manufacturer": "Flywoo",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1222",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter DJI Osmo Action 4/5 ND Filter Set - ND8/ND16/ND32",
+    "manufacturer": "DJI",
+    "description": "Pro-quality Camera Butter ND Filters for the DJI Osmo Action 4/5 easily twist on and off, replacing the lens cover while maintaining the waterproof seal.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-dji-osmo-action-4-5-nd-filter-set-nd8-nd16-nd32.html",
+    "image_file": "",
+    "approx_price": 19.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22265",
+      "UPC (GTIN)": "723326369049",
+      "Manufacturer": "Camera Butter",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1223",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx GM2 FPV Gimbal",
+    "manufacturer": "Caddx",
+    "description": "The Caddx GM2 Gimbal was developed based on pilot feedback and incorporates the head tracking function of goggles.",
+    "link": "https://www.getfpv.com/fpv/cameras/caddx-gm2-fpv-gimbal.html",
+    "image_file": "",
+    "approx_price": 36.13,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22344",
+      "UPC (GTIN)": "724376364725",
+      "Manufacturer": "Caddx",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1224",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx GM3 FPV Gimbal",
+    "manufacturer": "Caddx",
+    "description": "The Caddx GM3 Gimbal was developed based on pilot feedback and incorporates the head tracking function of goggles.",
+    "link": "https://www.getfpv.com/fpv/cameras/caddxfpv-gm3-fpv-gimbal.html",
+    "image_file": "",
+    "approx_price": 90.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22345",
+      "UPC (GTIN)": "724376364282",
+      "Manufacturer": "Caddx",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1225",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Moonlight Camera Module w/ Recording Board",
+    "manufacturer": "Walksnail",
+    "description": "The Walksnail Moonlight Camera Module with Recording Board delivers top-tier video quality for drone enthusiasts and professionals. Its starlight sensor and 160\u00b0 field of view ensure clarity in low light.",
+    "link": "https://www.getfpv.com/fpv/cameras/walksnail-moonlight-camera-module-w-recording-board.html",
+    "image_file": "",
+    "approx_price": 188.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21746",
+      "UPC (GTIN)": "9313419952268",
+      "Manufacturer": "Walksnail",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Camera Type": "FPV Camera",
+      "System Type": "Digital",
+      "Camera Dimensions": "19x19",
+      "Aspect Ratio": "16:9 / 4:3 (Switchable)"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1226",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Camera Butter Black Diamond Stick-On ND Filter for GoPro Session 4/5",
+    "manufacturer": "Camera",
+    "description": "The Camera Butter Black Diamond ND Filter gives you that buttery smooth HD footage by allowing the optimal amount of light into your GoPro Hero camera.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-black-diamond-stick-on-nd-filter-for-gopro-session-4-5.html",
+    "image_file": "",
+    "approx_price": 253.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22188",
+      "Manufacturer": "Camera Butter",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1227",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Camera Butter Black Diamond Stick-on ND Filter for GoPro Hero 8/9",
+    "manufacturer": "Camera",
+    "description": "The Camera Butter Black Diamond ND Filter gives you that buttery smooth HD footage by allowing the optimal amount of light into your GoPro Hero camera.",
+    "link": "https://www.getfpv.com/fpv/cameras/camera-butter-black-diamond-stick-on-nd-filter-for-gopro-hero-8-9.html",
+    "image_file": "",
+    "approx_price": 11.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22187",
+      "Manufacturer": "Camera Butter",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1228",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Patrios XBright 2-in-1 Tactical LED",
+    "manufacturer": "Patrios",
+    "description": "The\u00a0Patrios 2-in-1 XBright redefines compact illumination for demanding environments.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-xbright-2-in-1-tactical-led.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24164US1Z",
+      "UPC (GTIN)": "723326379536",
+      "Manufacturer": "Patrios",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1229",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Patrios 4-IR MaxBright Tactical LED",
+    "manufacturer": "Patrios",
+    "description": "The\u00a0Patrios 4-IR MaxBright Tactical LED sets a new benchmark for compact infrared illumination.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-4-ir-maxbright-tactical-led.html",
+    "image_file": "",
+    "approx_price": 399.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24165US1Z",
+      "UPC (GTIN)": "723326379543",
+      "Manufacturer": "Patrios",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1230",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Patrios MicroBright 2-in-1 Tactical LED",
+    "manufacturer": "Patrios",
+    "description": "The US-made Patrios MicroBright 2-in-1 Tactical LED is ideal for low/no-light, internal & external clearance\u00a0missions, eliminating the need for\u00a0costly thermal cameras.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-microbright-2-in-1-tactical-led.html",
+    "image_file": "",
+    "approx_price": 399.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24162US1Z",
+      "UPC (GTIN)": "723326379444",
+      "Manufacturer": "Patrios",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1231",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "CubePilot CAN BUS Splitter",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot CAN BUS Splitter lets you expand a single CAN Bus connection into three separate CAN ports, making it easy to add multiple CAN devices without extra gateways.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-can-bus-splitter.html",
+    "image_file": "",
+    "approx_price": 349.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G23800TW1Z",
+      "UPC (GTIN)": "723326379000",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1232",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Herelink Blue Bundle V1.1",
+    "manufacturer": "CubePilot",
+    "description": "The Herelink Blue V1.1 Bundle is an integrated remote controller, ground station, and wireless digital transmission system assembled and supported in the USA by NW Blue LLC.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-herelink-blue-bundle-v1-1.html",
+    "image_file": "",
+    "approx_price": 15.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24166US1Z",
+      "UPC (GTIN)": "789270120938",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "System Type": "Digital",
+      "Mounting Pattern": "N/A",
+      "Voltage": "3S",
+      "Tx Frequencies": "2.4GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1233",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Herelink Blue Controller V1.1",
+    "manufacturer": "CubePilot",
+    "description": "The Herelink Blue Controller V1.1 is an all-in-one remote control and ground station designed for long-range drone operation, combining RC control, HD video, and telemetry into a single portable unit.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-herelink-blue-controller-v1-1.html",
+    "image_file": "",
+    "approx_price": 3999.0,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24169US1Z",
+      "UPC (GTIN)": "723326378973",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1234",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange+ Mini Set",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange + Mini Set is an advanced flight controller solution combining the Cube Orange autopilot module and a compact Mini Carrier Board.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange-mini-set.html",
+    "image_file": "",
+    "approx_price": 2699.0,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "20481",
+      "UPC (GTIN)": "724376349821",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1235",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Cubenode ETH",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot CubeNode ETH ethernet adapter allows STM32 H7 autopilots without built-in ethernet support to connect to ethernet peripherals.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-cubenode-eth.html",
+    "image_file": "",
+    "approx_price": 440.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G23797TW1Z",
+      "UPC (GTIN)": "9359453000114",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1236",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot CubeNode V3",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot CubeNode V3 provides a platform to develop, create, test, and refine components such as navigation systems, communication modules, sensors, payloads, and more.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-cubenode-v3.html",
+    "image_file": "",
+    "approx_price": 71.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G23798TW1Z",
+      "UPC (GTIN)": "723326377884",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1237",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Lumenier LUX H743 Flight Controller - NDAA",
+    "manufacturer": "Lumenier",
+    "description": "The Lumenier LUX H743 \u2013 NDAA Flight Controller features some of the latest sensors in drone technology, including the next-generation InvenSense ICM-45686 Gyro/Accelerometer, Infineon DPS368 barometer, and STMicroelectronics LIS2MDL magnetometer.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-lux-h743-flight-controller-ndaa.html",
+    "image_file": "",
+    "approx_price": 51.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G23448US1Z",
+      "UPC (GTIN)": "723326376771",
+      "Manufacturer": "Lumenier",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30.5x30.5mm",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Betaflight/INAV/Ardupilot/PX4",
+      "Gyro": "ICM42688P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1238",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange+ Standard Set",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange-standard-set.html",
+    "image_file": "",
+    "approx_price": 148.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22372",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "Not Listed",
+      "Flight Controller Firmware Targets": "Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1239",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Orqa 3030 Lite F405 Flight Controller - NDAA",
+    "manufacturer": "Orqa",
+    "description": "The Orqa 3030 Lite F405 Flight Controller offers high-performance features and is made in the EU with full NDAA compliance.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-3030-lite-f405-flight-controller-ndaa.html",
+    "image_file": "",
+    "approx_price": 545.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24082HR1Z",
+      "UPC (GTIN)": "723326378027",
+      "Manufacturer": "Orqa",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30x30mm",
+      "Flight Controller Processor": "F4",
+      "Flight Controller Firmware Targets": "Betaflight/INAV/Ardupilot/PX4",
+      "Gyro": "Multi"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1240",
+    "source": "getfpv.com",
+    "origin": "Croatia",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Lucid 90A 3-12S AM32 ESC - NDAA",
+    "manufacturer": "TBS",
+    "description": "The NDAA Version of the TBS Lucid 12S ESC is built for high-voltage, high-power applications where reliability is non-negotiable.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-lucid-90a-3-12s-am32-esc-ndaa.html",
+    "image_file": "",
+    "approx_price": 159.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23170",
+      "UPC (GTIN)": "723326371813",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "ESC Firmware": "AM32",
+      "Amps": "90 Amps",
+      "Voltage": "3-12S",
+      "Number of ESC's": "Single ESC"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1241",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Lucid H7 Flight Controller - ICM42688 - NDAA",
+    "manufacturer": "TBS",
+    "description": "Unleash the full potential of your drone with the NDAA Compliant TBS Lucid H7 Flight Controller \u2014 engineered for peak performance and versatility.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-lucid-h7-flight-controller-icm42688-ndaa.html",
+    "image_file": "",
+    "approx_price": 69.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23171",
+      "UPC (GTIN)": "723326371738",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Betaflight/INAV/Ardupilot",
+      "Gyro": "ICM42688P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1242",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Tango 2 PRO FPV RC Radio Controller - NDAA",
+    "manufacturer": "TBS",
+    "description": "The TBS Tango 2 PRO sets a new standard for FPV radio controllers, combining portability with high-end performance. Featuring full-size folding Hall sensor gimbals, ultra-low latency, and built-in TBS Crossfire, it delivers unmatched control and reliability. This is an NDAA version.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-tango-2-pro-fpv-rc-radio-controller-ndaa.html",
+    "image_file": "",
+    "approx_price": 79.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23163",
+      "UPC (GTIN)": "723326371608",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Tx Frequencies": "868/915Mhz",
+      "Radio Controller Style": "Gamepad",
+      "Radio Protocol": "Crossfire"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1243",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Lumenier Siege 55A 3-6S AM32 4-in-1 ESC - NDAA",
+    "manufacturer": "Lumenier",
+    "description": "Elevate your multirotor's performance with the Lumenier Siege G071 55A 3-6S 4-in-1 AM32 NDAA ESC. Built for 3S to 6S LiPo batteries, this powerful ESC ensures seamless compatibility with Betaflight and KISS systems. Designed in the USA!",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-siege-g071-55a-3-6s-4-in-1-am32-esc-ndaa.html",
+    "image_file": "",
+    "approx_price": 289.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22725",
+      "UPC (GTIN)": "724376363780",
+      "Manufacturer": "Lumenier",
+      "Country of Manufacture": "Thailand",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30x30mm",
+      "ESC Firmware": "AM32",
+      "Amps": "55 Amps",
+      "Voltage": "3-6 Cell (11.1v-22.2v)",
+      "Number of ESC's": "4 ESC's in 1"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1244",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Lumenier LUX F765 Flight Controller - NDAA",
+    "manufacturer": "Lumenier",
+    "description": "The Lumenier LUX F765 Flight Controller is your ultimate solution for high-performance multirotor builds, offering robust features and seamless compatibility with Betaflight, Ardupilot, and PX4. Designed in the USA.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-lux-f765-flight-controller-ndaa.html",
+    "image_file": "",
+    "approx_price": 99.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22726",
+      "UPC (GTIN)": "724376363797",
+      "Manufacturer": "Lumenier",
+      "Country of Manufacture": "Thailand",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30.5x30.5mm",
+      "Flight Controller Processor": "F7",
+      "Flight Controller Firmware Targets": "Betaflight/Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1245",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Crossfire Nano Rx Pro - NDAA",
+    "manufacturer": "TBS",
+    "description": "The\u00a0TBS Crossfire Nano RX Pro is a higher telemetry output power option of the de-facto FPV standard receiver. This version is NDAA-compliant and made in the USA.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-nano-rx-pro-ndaa.html",
+    "image_file": "",
+    "approx_price": 89.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22035",
+      "UPC (GTIN)": "703674146912",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Radio Receiver Protocol": "Crossfire",
+      "RX Frequency": "915MHz",
+      "Antenna Mode": "Single"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1246",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Here4 Base",
+    "manufacturer": "CubePilot",
+    "description": "The Here 4 Base, a product of CubePilot, is compatible with both Ardupilot and PX4 systems.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-here4-base.html",
+    "image_file": "",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21697",
+      "UPC (GTIN)": "724376358090",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "F9P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1247",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Lumenier SAM-M10Q GPS Module - NDAA",
+    "manufacturer": "Lumenier",
+    "description": "This\u00a0Lumenier GPS Module features an integrated UBLOX SAM-M10Q and magnetometer for precise positioning in a compact and lightweight design.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-sam-m10q-gps-module-ndaa.html",
+    "image_file": "",
+    "approx_price": 194.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G22281US1Z",
+      "UPC (GTIN)": "724376363575",
+      "Manufacturer": "Lumenier",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "M10Q"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1248",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Crossfire Nano SE LR Receiver w/ Immortal-T V2 Antenna - NDAA",
+    "manufacturer": "TBS",
+    "description": "TBS takes long-range and UHF technology to the next level with the new and improved NDAA Version of the TBS Crossfire Nano SE LR Receiver.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-nano-se-lr-receiver-w-immortal-t-v2-antenna-ndaa.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23166",
+      "UPC (GTIN)": "723326371639",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Radio Receiver Protocol": "Crossfire",
+      "RX Frequency": "915MHz",
+      "Antenna Mode": "Single"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1249",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange+ (IMU V8)",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange (IMU V8) is an advanced flight controller autopilot module. This is the Cube only and needs to be paired with a carrier board.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange-imu-v8.html",
+    "image_file": "",
+    "approx_price": 49.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "20482",
+      "UPC (GTIN)": "724376349982",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1250",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Here3 CAN GNSS GPS Module w/ iStand",
+    "manufacturer": "CubePilot",
+    "description": "The Here3 GPS (with iStand) is a high-precision GNSS system that supports RTK mode, built with CAN protocol. It is also designed to be dust-proof and splash-proof up to a certain limit.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-hex-here3-can-gnss-gps-module-w-istand-html.html",
+    "image_file": "",
+    "approx_price": 454.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "19011",
+      "UPC (GTIN)": "764613346213",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "M8P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1251",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Crossfire Diversity Nano Receiver - NDAA",
+    "manufacturer": "TBS",
+    "description": "TBS is once again pushing the limits of long-range flying with the NDAA Version of the TBS Crossfire Diversity Nano RX.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-diversity-nano-rx-ndaa.html",
+    "image_file": "",
+    "approx_price": 311.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23165",
+      "UPC (GTIN)": "723326371622",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Radio Receiver Protocol": "Crossfire",
+      "RX Frequency": "915MHz",
+      "Antenna Mode": "Diversity"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1252",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Crossfire Micro TX Module V2 - NDAA",
+    "manufacturer": "TBS",
+    "description": "The NDAA Version of the TBS Crossfire Micro TX Module V2 pushes the boundaries of long-range R/C technology, delivering self-healing, two-way communication, and range beyond imagination.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-micro-tx-module-v2-ndaa.html",
+    "image_file": "",
+    "approx_price": 69.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23167",
+      "UPC (GTIN)": "723326371646",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Transmitter Protocol": "Crossfire",
+      "Tx Frequencies": "868/915Mhz",
+      "Transmitter Module Type": "JR Module"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1253",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Unify Pro32 DP VTX - NDAA",
+    "manufacturer": "TBS",
+    "description": "The TBS UNIFY PRO32 DP with an MMCX connector is a high-quality video transmitter (VTX) designed for use in FPV drones. This is an NDAA version.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-unify-pro32-dp-vtx-ndaa.html",
+    "image_file": "",
+    "approx_price": 99.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23164",
+      "UPC (GTIN)": "723326371615",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "System Type": "Analog",
+      "Max Output Power": "400mW",
+      "Mounting Pattern": "20x20mm",
+      "Antenna Connector / Length": "MMCX",
+      "Tx Frequencies": "5.8GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1254",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "ImmersionRC Ghost Next Gen 2.4GHz RC Transmitter Module - NDAA",
+    "manufacturer": "ImmersionRC",
+    "description": "The Ghost is the next generation R/C control system from ImmersionRC.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/immersionrc-ghost-next-gen-2-4ghz-rc-transmitter-module.html",
+    "image_file": "",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "16005",
+      "UPC (GTIN)": "736952008817",
+      "Manufacturer": "ImmersionRC",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "Transmitter Protocol": "GHOST",
+      "Tx Frequencies": "2.4GHz",
+      "Transmitter Module Type": "JR Module"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1255",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot ADS-B Standard Carrier Board",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot ADS-B Carrier Board allows the software to receive information about the location of manned aircraft in the area. Made to work well with the Cube Autopilot.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-ads-b-standard-carrier-board.html",
+    "image_file": "",
+    "approx_price": 87.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "13146",
+      "UPC (GTIN)": "751313214270",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "Not Listed"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1256",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Crossfire TX LITE Module - Long Range R/C Link - NDAA",
+    "manufacturer": "TBS",
+    "description": "The NDAA Version of the TBS Crossfire TX LITE Module redefines long-range R/C control with cutting-edge RF technology, self-healing two-way communication, and an impressive -130dB sensitivity with full RF-side diversity.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-tx-lite-module-long-range-r-c-link-ndaa.html",
+    "image_file": "",
+    "approx_price": 75.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23372",
+      "UPC (GTIN)": "723326373107",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Transmitter Protocol": "Crossfire",
+      "Tx Frequencies": "868/915Mhz",
+      "Transmitter Module Type": "JR Module"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1257",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "TBS Lucid 60A 3-8S AM32 4-in-1 ESC - NDAA",
+    "manufacturer": "TBS",
+    "description": "Engineered for peak performance, the NDAA Version of the TBS Lucid 60A 4-in-1 ESC is designed to satisfy both seasoned pilots and ambitious newcomers.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-lucid-60a-3-8s-am32-4-in-1-esc-ndaa.html",
+    "image_file": "",
+    "approx_price": 249.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "23169",
+      "UPC (GTIN)": "723326371660",
+      "Manufacturer": "Triumph Manufacturing",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "ESC Firmware": "AM32",
+      "Amps": "60 Amps",
+      "Voltage": "3-8 Cell (10v-35v)",
+      "Number of ESC's": "4 ESC's in 1"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1258",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Cube Mini Carrier Board",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot Mini Carrier Board is a compact, versatile solution for Cube flight controllers. Designed to work with all Cube models, it offers the core features of a full-size carrier board in a smaller, more space-efficient design\u2014perfect for tight builds.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-cube-mini-carrier-board.html",
+    "image_file": "",
+    "approx_price": 79.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22657",
+      "UPC (GTIN)": "0094393522485",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1259",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Here3+ CAN GNSS GPS Module w/ iStand",
+    "manufacturer": "CubePilot",
+    "description": "The\u00a0Here3+ GPS is a cost-efficient GNSS system that supports RTK mode with positioning accuracy down to centimeter-level in an ideal environment.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-here3-can-gnss-gps-module-w-istand.html",
+    "image_file": "",
+    "approx_price": 108.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "19922",
+      "UPC (GTIN)": "724376347360",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "M8P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1260",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Herelink Blue Air Unit V1.1",
+    "manufacturer": "CubePilot",
+    "description": "The Herelink Blue Air Unit V1.1 is a long-range digital video and data transmission module designed for seamless integration with the Herelink Blue system.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-herelink-blue-air-unit-v1-1.html",
+    "image_file": "",
+    "approx_price": 311.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24167US1Z",
+      "UPC (GTIN)": "723326378980",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "System Type": "Digital",
+      "Mounting Pattern": "N/A",
+      "Voltage": "3S",
+      "Tx Frequencies": "2.4GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1261",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot CubeLAN 8-Port Switch",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot CubeLAN 8-Port Switch is a miniature Ethernet switch that can connect up to eight Ethernet devices.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-cubelan-8-port-switch.html",
+    "image_file": "",
+    "approx_price": 1399.0,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G23801TW1Z",
+      "UPC (GTIN)": "723326373619",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1262",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Orqa 3030 70A 3-6S BLHeli_32 4-in-1 ESC - NDAA",
+    "manufacturer": "Orqa",
+    "description": "Get ready to take your drone\u2019s performance to new heights with the state-of-the-art Orqa 3030 70A 3-6S BLHeli_32 4-in-1 ESC.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-3030-70a-3-6s-blheli-32-4-in-1-esc-ndaa.html",
+    "image_file": "",
+    "approx_price": 71.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24083HR1Z",
+      "UPC (GTIN)": "723326378010",
+      "Manufacturer": "Orqa",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30x30mm",
+      "ESC Firmware": "BLHeli_32",
+      "Amps": "70 Amps",
+      "Voltage": "3-6S",
+      "Number of ESC's": "4 ESC's in 1"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1263",
+    "source": "getfpv.com",
+    "origin": "Croatia",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "ORQA FPV.One PILOT FPV Goggles",
+    "manufacturer": "Orqa",
+    "description": "The\u00a0Orqa FPV.One PILOT Goggles\u00a0are the most powerful FPV Goggles available! These future-proof goggles are architecturally sound and designed for upgrades with two module bays for expandability. These goggles feature a 1280x960 screen resolution, 56-74mm IDP range, and Micro HDMI Input option with best-in-class OLED displays.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-fpv-one-pilot-fpv-goggles.html",
+    "image_file": "",
+    "approx_price": 199.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "17766",
+      "UPC (GTIN)": "7426845052708",
+      "Manufacturer": "Orqa",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "System Type": "Analog",
+      "Display Type": "OLED/OSD",
+      "Resolution": "1280x960",
+      "Aspect Ratio": "4:3",
+      "Field of View (FOV)\u00b0": "37\u00b0"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1264",
+    "source": "getfpv.com",
+    "origin": "Croatia",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot Here4 Multiband RTK GNSS GPS Module",
+    "manufacturer": "CubePilot",
+    "description": "The Here 4 is a professional High Precision Dual-band RTK Navigation module.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-here4-multiband-rtk-gnss-gps-module.html",
+    "image_file": "",
+    "approx_price": 799.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21696",
+      "UPC (GTIN)": "724376358083",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "F9P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1265",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "ORQA FPV.Ctrl Radio Controller",
+    "manufacturer": "Orqa",
+    "description": "Introducing... The new\u00a0Orqa FPV.Ctrl Radio Controller! This radio controller was designed and developed by the Orqa team to create an FPV learning experience like no other. Great for beginners and pros alike, this controller helps bridge the gap between simulator flying and the FPV field experience! Get the best of both worlds.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-fpv-ctrl-radio-controller.html",
+    "image_file": "",
+    "approx_price": 311.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "17767",
+      "UPC (GTIN)": "7426845052685",
+      "Manufacturer": "Orqa",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Gamepad",
+      "Radio Protocol": "Ghost"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1266",
+    "source": "getfpv.com",
+    "origin": "Croatia",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange+",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange+ is an advanced flight controller autopilot module. This is the Cube only and needs to be paired with a carrier board.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange.html",
+    "image_file": "",
+    "approx_price": 129.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22371",
+      "UPC (GTIN)": "723326374852",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1267",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Lumenier RID - Remote ID Module - NDAA",
+    "manufacturer": "Lumenier",
+    "description": "The Lumenier RID complies with FAA remote ID regulations and features an integrated UBLOX SAM-M10Q and magnetometer for precise positioning in a compact and lightweight design.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-rid-remote-id-module.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "22003",
+      "UPC (GTIN)": "724376355242",
+      "Manufacturer": "Lumenier",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1268",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot HerePro GPS Module",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot HerePro is a professional high-precision Multi-band RTK Navigation module.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-herepro-gps-module.html",
+    "image_file": "",
+    "approx_price": 89.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21869",
+      "UPC (GTIN)": "724376360154",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "GPS Core Chip/Module": "F9P"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1269",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot HerePro USB Adapter Board",
+    "manufacturer": "CubePilot",
+    "description": "The CubePilot HerePro USB Adapter Board offers a seamless connection between the adapter board and external devices via USB.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/hex-herepro-usb-adapter-board.html",
+    "image_file": "",
+    "approx_price": 1039.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21870",
+      "UPC (GTIN)": "724376360161",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1270",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange+ Standard Set ADS-B (IMU V8)",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange+ Standard Set (IMU V8) features a high-performance H7 processor and the 1090MHz ADS-B receiver from uAvionix.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange-standard-set-ads-b-imu-v8.html",
+    "image_file": "",
+    "approx_price": 97.49,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "19669",
+      "UPC (GTIN)": "724376345236",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "Not Listed"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1271",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "ImmersionRC Ghost Lite Next Gen 2.4GHz RC Transmitter Module",
+    "manufacturer": "ImmersionRC",
+    "description": "The ImmersionRC Ghost Lite Next Gen 2.4GHz RC Transmitter Module is designed for both reliable control at extreme range, and extremely low latency with a best-in-class frame rate for the Race circuit.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/immersionrc-ghost-lite-next-gen-2-4ghz-rc-transmitter-module.html",
+    "image_file": "",
+    "approx_price": 454.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "16004",
+      "UPC (GTIN)": "736952008800",
+      "Manufacturer": "ImmersionRC",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "Yes",
+      "Transmitter Protocol": "GHOST",
+      "Tx Frequencies": "2.4GHz",
+      "Transmitter Module Type": "JR Module"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1272",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "CubePilot The Cube Orange FD Standard Set + ADS-B",
+    "manufacturer": "CubePilot",
+    "description": "The Cube Orange Standard Set + ADS-B  flight controller comes with an H7 processor, features a 1,090 MHz ADS-B receiver from uAvionix, automatically avoids aircraft and Is integrated into the new ADS-B carrier board!",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange-fd-standard-set-ads-b.html",
+    "image_file": "",
+    "approx_price": 87.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "12067",
+      "UPC (GTIN)": "032733839619",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "Taiwan",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "N/A",
+      "Flight Controller Processor": "Not Listed",
+      "Flight Controller Firmware Targets": "Ardupilot/PX4"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1273",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "BrainFPV Radix 2 H7 Flight Controller - Analog",
+    "manufacturer": "BrainFPV",
+    "description": "Introducing the BrainFPV RADIX 2 H7 Flight Controller, a cutting-edge innovation in drone technology crafted to redefine your FPV experience.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/brainfpv-radix-2-h7-flight-controller-analog.html",
+    "image_file": "",
+    "approx_price": 649.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21825",
+      "UPC (GTIN)": "641606519895",
+      "Manufacturer": "BrainFPV",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30x30mm",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Betaflight"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1274",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "BrainFPV Radix 2 H7 Flight Controller - HD",
+    "manufacturer": "BrainFPV",
+    "description": "Introducing the BrainFPV RADIX 2 HD H7 Flight Controller, a pinnacle of drone technology engineered for unparalleled performance and reliability.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/brainfpv-radix-2-hd-h7-flight-controller.html",
+    "image_file": "",
+    "approx_price": 89.99,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "21826",
+      "UPC (GTIN)": "641606519925",
+      "Manufacturer": "BrainFPV",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Mounting Pattern": "30.5x30.5mm",
+      "Flight Controller Processor": "H7",
+      "Flight Controller Firmware Targets": "Betaflight"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1275",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Foxeer T-Rex Mini 1500TVL CMOS 2MP 4:3/16:9 PAL/NTSC Super WDR FPV Camera (1.7mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer T-Rex Mini 1500TVL CMOS 2MP 4:3/16:9 camera is an exceptional analog camera, offering an outstanding resolution of 1500 TVL and incredibly realistic colors, even in low-light conditions. Thanks to its Super WDR technology, this camera also handles sudden contrast shifts very effectively. Get crisp footage for your FPV with this top-of-the-line camera. 110 db WDR, this camera will perform beyond your imagination under complicated conditions including sunny day, cloudy day, indoor, nigh",
+    "link": "https://www.racedayquads.com/products/foxeer-t-rex-mini-1500tvl-cmos-2mp-4-3-16-9-pal-ntsc-super-wdr-fpv-camera-1-7mm",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/foxeer-foxeer-t-rex-mini-1500tvl-cmos-2mp-4-3-16-9-pal-ntsc-super-wdr-fpv-camera-1-7mm-black-camera-30702891335793.jpg?v=1762442693",
+    "approx_price": 65.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1276",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam HDZero 720p60fps Nano HD FPV Camera V3 - No MIPI Cable",
+    "manufacturer": "HDZERO",
+    "description": "Upgrade your FPV experience with the RunCam HDZero V3 camera. Lightweight and easy to set up, this camera is perfect for capturing your FPV flights with clear HD clarity. Runcam Nano V3 HDZero camera is small and lightweight, making it ideal for whoops and micro drones. A sharp lens with very wide FOV offers the best nano camera image quality for HDZero yet. The camera is optimized for 4:3 aspect ratio but can be configured for 16:9 aspect ratio within the camera\u2019s settings menu. With its large ",
+    "link": "https://www.racedayquads.com/products/runcam-hdzero-1080p30fps-720p60fps-nano-hd-fpv-camera-v3-no-mipi-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/hdzero-runcam-hdzero-720p60fps-nano-hd-fpv-camera-v3-no-mipi-cable-camera-30967080386673.jpg?v=1737320994",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1277",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Thumb Pro 4k V2 HD Action Camera - Gyroflow Compatible",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam Thumb Pro (New Version, Wide FOV) is the next big thing in mini-action cameras. Coming in at an ultralightweight of 16g and a bigger FOV, this camera is perfect for your next FPV micro flight! This mini camera features 4K resolution and allows you to shoot in a horizontal or vertical orientation through remote control HD recording. The built-in gyro supports Gyroflow to perfectly output smooth and stabilized video. A replaceable lens protector cover allows for the addition of ND filte",
+    "link": "https://www.racedayquads.com/products/runcam-thumb-pro-4k-v2-hd-action-camera-gyroflow-compatible",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-thumb-pro-4k-v2-hd-action-camera-gyroflow-compatible-camera-30544117629041.jpg?v=1762442334",
+    "approx_price": 107.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1278",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Ratel PRO Micro 1500TVL BSI PAL/NTSC FPV Camera (2.8mm) - Black",
+    "manufacturer": "CADDX",
+    "description": "The Ratel PRO from Caddx features a huge BSI sensor - delivering excellent daytime image &amp; colors as-well-as outstanding night vision! Check out the rest of our Caddx cameras or other FPV Drone Cameras ! Features Featuring a blacklight technology, Ratel Pro displays real color images during the day and displays to black-and-white visuals at night, ensuring optimal visual performance in diverse lighting conditions. Ratel Pro delivers excellent daytime clarity, setting new standards in visual ",
+    "link": "https://www.racedayquads.com/products/caddx-ratel-pro-micro-1500tvl-bsi-pal-ntsc-fpv-camera-2-8mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/caddx-caddx-ratel-pro-micro-1500tvl-bsi-pal-ntsc-fpv-camera-2-8mm-black-camera-31059230556273.jpg?v=1737415865",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1279",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam HDZero 1080p30fps / 720p60fps Micro HD FPV Camera V3 - No MIPI Cable",
+    "manufacturer": "HDZERO",
+    "description": "Upgrade your FPV experience with the RunCam HDZero V3 camera. Lightweight and easy to set up, this camera is perfect for capturing your FPV flights with clear HD clarity. Runcam Micro V3 HDZero camera is optimized for a 16:9 aspect ratio which matches the HDZero Goggle\u2019s 16:9 display to offer the largest and sharpest picture available for the HDZero system. The large lens attached to this camera results in superior sharpness and contrast, reduced fish-eye effect, and excellent low-light performa",
+    "link": "https://www.racedayquads.com/products/runcam-hdzero-1080p30fps-720p60fps-micro-hd-fpv-camera-v3",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/hdzero-runcam-hdzero-1080p30fps-720p60fps-micro-hd-fpv-camera-v3-no-mipi-cable-camera-30963086917745.jpg?v=1737054049",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1280",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Ratel 2 Micro 1200TVL CMOS 4:3/16:9 NTSC/PAL FPV Camera (2.1mm) - Choose Your Color",
+    "manufacturer": "CADDX",
+    "description": "The second generation of the Caddx Ratel Camera, 1200TVL 1/1.8\" starlight sensor with a 2.1mm lens. Check out the rest of our ever growing selection Micro FPV Cameras and all our Caddx products ! Specifications Sensor: 1/1.8'' Inch Starlight Resolution: 1200TVL FOV: 165\u00b0 Lens: 2.1mm TV System: NTSC &amp; PAL (switchable) Image: 4:3 &amp; 16:9 (switchable) WDR: Super WDR DNR: 3DNR Min. Illumination: 0.0001LUX Video Output: CVBS Day/Night: Auto/Color/B&amp;W/EXT Shutter Speed: PAL:1/50~100,000; NT",
+    "link": "https://www.racedayquads.com/products/caddx-ratel-2-1200tvl-16-9-4-3-ntsc-pal-micro-fpv-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-ratel-2-micro-1200tvl-cmos-4-3-16-9-ntsc-pal-fpv-camera-2-1mm-choose-your-color-camera-16218999718001.jpg?v=1762441066",
+    "approx_price": 37.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1281",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Thumb 2 4K HD Action Camera + ND Filter Set",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam Thumb 2 back with more features, packed in a mini form factor. Coming in at a lightweight 27g, this camera is perfect for your next FPV micro flight! This mini camera features 4K resolution and allows you to shoot in a horizontal or vertical orientation through remote control HD recording. The built-in gyro supports Gyroflow to perfectly output smooth and stabilized video. ND filter set included! Check out all our HD Action Cams and our RunCam selection ! Features 10 min recording Gyr",
+    "link": "https://www.racedayquads.com/products/runcam-thumb-2-4k-hd-action-camera-nd-filter-set",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-thumb-2-4k-hd-action-camera-nd-filter-set-camera-32117619490929.jpg?v=1737100486",
+    "approx_price": 131.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1282",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Ant Nano 1200TVL CMOS PAL/NTSC FPV Camera (1.8mm) - Choose Color & Aspect Ratio",
+    "manufacturer": "CADDX",
+    "description": "The newest Caddx nano cam comes equipped with a 1200TVL 1/3\" CMOS. Check out the rest of our ever growing selection of Caddx cameras ! Specifications Image Sensor: 1/3\" CMOS Sensor Horizontal Resolution: 1200 TVL TV System: NTSC or PAL Menu: Support Image: 16:9 or 4:3 Synchronization: Internal Electronic Shutter: PAL: 1/50~100,000; NTSC: 1/60~100,000 S/N Ratio: &gt;52dB (AGC OFF) Video Output: CVBS Lens: 1.8mm Min. Illumination: 0.001Lux@F1.2 Auto Gain Control: YES BLC: YES WDR: Global WDR DNR: ",
+    "link": "https://www.racedayquads.com/products/caddx-ant-1200tvl-nano-fpv-camera-1-8mm-choose-color-aspect-ratio",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-ant-nano-1200tvl-cmos-pal-ntsc-fpv-camera-1-8mm-choose-color-aspect-ratio-black-4-3-camera-15166752292977.jpg?v=1762440784",
+    "approx_price": 21.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1283",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar Micro HD Pro FPV Camera V2 w/ Gyro and 14mm Cable",
+    "manufacturer": "CADDX",
+    "description": "The Avatar HD Pro Micro Camera for the Walksnail Avatar VTX works with Walksnail Avatar and Fat Shark Dominator HD Goggles. Check out all our Walksnail HD products! Features 1/1.8 inch Sony Starvis \u2161 sensor, come with extremely clear night vision as long as day vision. Support 1080P/120fps high frame, the first high frame night vision HD camera in FPV market. Support Gyroflow, takes you a smooth and stabilized video quality. F/1.6 Large Aperture to increase the amount of incoming light, make pic",
+    "link": "https://www.racedayquads.com/products/pre-order-walksnail-avatar-micro-hd-pro-fpv-camera-v2-w-gyro-and-14mm-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-walksnail-avatar-micro-hd-pro-fpv-camera-v2-w-gyro-and-14mm-cable-camera-30647892181105.webp?v=1762442540",
+    "approx_price": 77.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1284",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Baby Ratel 2 1200TVL CMOS 4:3/16:9 NTSC/PAL FPV Camera (1.8mm) - Black",
+    "manufacturer": "CADDX",
+    "description": "The Caddx Baby Ratel 2 is a multi weather FPV camera with a Starlight HDR sensor, NTSC &amp; PAL switchable, super WDR, OSD, metal case, and only weighs 3g! Check out the rest of our ever growing selection Nano FPV Cameras and all our Caddx products ! Features High quality 1/1.18\" Starlight HDR sensor OSD menu Switch between PAL and NTSC video standards Specifications Image Sensor: 1/1.8\" Inch starlight HDR sensor Horizontal Resolution: 1200TVL TV System: NTSC &amp; PAL (changeable) IMAGE: 16:9 ",
+    "link": "https://www.racedayquads.com/products/caddx-baby-ratel-2-1200tvl-cmos-4-3-16-9-ntsc-pal-fpv-camera-1-8mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-baby-ratel-2-1200tvl-cmos-4-3-16-9-ntsc-pal-fpv-camera-1-8mm-black-camera-28245642346609.jpg?v=1762441161",
+    "approx_price": 31.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1285",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Toothless 2 Micro Starlight 1200TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (1.7mm) - Choose Your Color",
+    "manufacturer": "FOXEER",
+    "description": "The Toothless is just got an upgrade! Now featuring a switchable FoV! Available in Nano Standard , Nano Starlight , Micro &amp; Mini/Full ! Check out all our micro FPV cameras and all our Foxeer gear ! Features Switchable Narrow/Wide FoV to suit freestyle quads or fixed wing flight Huge 1/2\" sensor grabs more light for better image quality and low light flying True all weather, all hours camera. Fly day or night, fog or blazing sunlight Supports OSD control from your FC or remote control joystic",
+    "link": "https://www.racedayquads.com/products/foxeer-toothless-2-micro-1200tvl-16-9-4-3-pal-nstc-cmos-switchable-fov-fpv-starlight-camera-w-m12-lens-and-1-2-sensor-1-7mm-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-toothless-2-micro-starlight-1200tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-choose-your-color-black-camera-14269940334705.jpg?v=1762440657",
+    "approx_price": 47.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1286",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Ant Lite Nano 1200TVL CMOS PAL/NTSC FPV Camera - Choose Your Aspect Ratio",
+    "manufacturer": "CADDX",
+    "description": "This camera was designed to fit into the NewBeeDrone BeeBrain V2 mount although the lens does protrude slightly out from the mount bumpers. All in all, this camera inside the NewBeeDrone BeeBrain V2 mount is the best combination of image quality per gram and mounting durability we could find for small, light platforms. Check out all our nano cameras , and the rest of our ever-growing selection of Caddx cameras ! Features Image Sensor: 1/3\" CMOS Sensor Horizontal Resolution: 1200 TVL TV System: N",
+    "link": "https://www.racedayquads.com/products/caddx-ant-lite-nano-1200tvl-cmos-pal-ntsc-fpv-camera-choose-your-version",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-ant-lite-nano-1200tvl-cmos-pal-ntsc-fpv-camera-choose-your-aspect-ratio-camera-28638373970033.jpg?v=1762441236",
+    "approx_price": 19.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1287",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Predator V5 Micro 1000TVL M8 CMOS 4:3/16:9 PAL/NTSC FPV Camera (1.7mm) Full Case- Black",
+    "manufacturer": "FOXEER",
+    "description": "Check out the new Foxeer Predator 5 Micro, extremely fast 4ms Latency with Super WDR! Check out the rest of our ever growing selection Micro FPV Cameras and our entire Foxeer Collection ! Features Fast Mode Switch: Long Press Right Button to switch among DAY/CLOUDY/Night/LED Flight OSD: Voltage/Cam Title/Time/Cross Hair 4ms Latency Sony 1/3\" CMOS Sensor Minimum Illumination: 0.01Lux Specifications Sensor Type: Sony 1/3\" CMOS Sensor Scale: 4:3(default)/16:9 Switchable Tv System: PAL(default)/NTSC",
+    "link": "https://www.racedayquads.com/products/foxeer-predator-v5-micro-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-full-case-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/foxeer-foxeer-predator-v5-micro-1000tvl-m8-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-full-case-black-camera-31046586990705.jpg?v=1737026327",
+    "approx_price": 44.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1288",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Cat 3 Mini 1200TVL CMOS 2MP 4:3/16:9 PAL/NTSC LUX Night FPV Camera (2.1mm) - Choose Your Color",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer Cat 3 Mini is a professional night vision FPV camera. It features a 1200TVL resolution and 0.00001lux night vision, allowing for clear footage even in the dark. This camera is perfect for nighttime flying. As it offers a large aperture night vision lens, this cam is designed to capture clear images and videos even in dark settings. With PAL/NTSC switchable video system, 4:3/16:9 aspect ratio, and 100dB WDR, you get balanced, low noise, and low latency footage. Enjoy your nighttime FPV",
+    "link": "https://www.racedayquads.com/products/foxeer-cat-3-mini-1200tvl-cmos-2mp-4-3-16-9-pal-ntsc-lux-night-fpv-camera-2-1mm-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/foxeer-foxeer-cat-3-mini-1200tvl-cmos-2mp-4-3-16-9-pal-ntsc-lux-night-fpv-camera-2-1mm-choose-your-color-red-camera-30702935113841.jpg?v=1762442693",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1289",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Phoenix 2 Micro Joshua Bardwell Edition 1000TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (2.1mm)  - Silver",
+    "manufacturer": "RUNCAM",
+    "description": "The Runcam Phoenix 2 Micro Joshua Bardwell Edition 1000TVL CMOS is now available in Silver! This camera is the new successor of the previous Runcam Phoenix 2 editions. The Joshua Bardwell Edition comes with a UART control mode, which will be displayed at the top left corner of your screen. Just like the last editions, this camera works great in the day and night time due to its f/2.0 big aperture. With upgraded CPU and upgrade 1/2\" high-performance image sensor, the RunCam Phoenix 2 produces viv",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-2-micro-joshua-bardwell-edition-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-2-1mm-silver",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-phoenix-2-micro-joshua-bardwell-edition-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-2-1mm-silver-camera-29931406852209.jpg?v=1762441839",
+    "approx_price": 39.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1290",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "BetaFPV C03 Micro 1200TVL CMOS 4:3 NTSC FPV Camera (w/ White 2022 Canopy)",
+    "manufacturer": "BETAFPV",
+    "description": "Check out the C03 FPV Micro Camera, specially designed for indoor micro FPV quadcopters, this micro camera has 1200TVL resolution and 1/3\" CMOS sensor getting you a high-quality and clear image. Expect a solder-free, and very convenient installation with this JST-0.8 plug-and-play design, suitable for Meteror series drones. With a Global WDR camera, 4:3 aspect ratio, getting you a clear dynamic picture even in low light conditions. Expect to 2.1mm lens, FOV 160\u00b0 for beyond the wide angle for rec",
+    "link": "https://www.racedayquads.com/products/betafpv-beta-c03-micro-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/betafpv-betafpv-c03-micro-1200tvl-cmos-4-3-ntsc-fpv-camera-w-white-2022-canopy-camera-30661049876593.jpg?v=1762442456",
+    "approx_price": 23.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1291",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "NewBeeDrone BeeEye Nano 600TVL FPV Camera for BeeBrain FC",
+    "manufacturer": "NEWBEEDRONE",
+    "description": "A replacement camera for the Beebrain FCs and Whoops . Can be used as a replacement camera for other applications too. Check out all our Nano FPV cameras and all our NewBeeDrone products ! Specifications 600 TVL 120 Degree Viewing Angle (20 Degree Mount) 1.7g (2.9g with Mount) Dimensions: W 14mm x H 14.25mm x D 14mm Includes BeeEye Camera x1 (BeeEye Camera Mount x1)",
+    "link": "https://www.racedayquads.com/products/newbeedrone-beeeye-600tvl-nano-fpv-camera-for-beebrain-fcs",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/newbeedrone-newbeedrone-beeeye-nano-600tvl-fpv-camera-for-beebrain-fc-camera-14038369501297.jpg?v=1762440604",
+    "approx_price": 15.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1292",
+    "source": "rdq",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "RunCam Thumb 2 4K HD Action Camera",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam Thumb 2 back with more features, packed in a mini form factor. Coming in at a lightweight 27g, this camera is perfect for your next FPV micro flight! This mini camera features 4K resolution and allows you to shoot in a horizontal or vertical orientation through remote control HD recording. The built-in gyro supports Gyroflow to perfectly output smooth and stabilized video. Check out all our HD Action Cams and our RunCam selection ! Features 10 min recording Gyroflow capable 27g Gorill",
+    "link": "https://www.racedayquads.com/products/runcam-thumb-2-4k-hd-action-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-thumb-2-4k-hd-action-camera-camera-32115704529009.jpg?v=1737067909",
+    "approx_price": 119.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1293",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam 6 - 4K HD Action Camera w/ ND Filter Set (ND8, ND16 & ND32)",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam 6 is the newest version of HD Action Cameras from RunCam! Now with more processing power allowing new modes, electronic stabilization, Recording in 4K @30FPS or 2.7K @60FPS, and longer recording times! This version comes with a set of ND filters. Don't need the ND filters and want to save a few bucks? It is offered alone here . Check out our HD Camera selection and all our RunCam products ! Features 4K@30fps 12MP 1/2.3 inch Sensor GyroFlow Supported OLED Display USB Type C ND Filters ",
+    "link": "https://www.racedayquads.com/products/runcam-6-4k-hd-action-camera-w-nd8-16-32",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-6-4k-hd-action-camera-w-nd-filter-set-nd8-nd16-nd32-camera-31718654115953.jpg?v=1737519722",
+    "approx_price": 131.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1294",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "HappyModel Nano7 CMOS 800TVL Mobula6 2024 Analog",
+    "manufacturer": "HAPPYMODEL",
+    "description": "Replacement Camera for 2024 V1 Mobula6 Ultra Light! Check out the rest of our HappyModel Collection! Specifications Model: Nano7 Sensor Size: 1/3 inch Aspect Ratio: 4:3 Shutter: Rolling Shutter FOV: D:150\u00b0 H:120\u00b0 V:98\u00b0 Input: 3.3V~5V Power Consumption: 0.5W Weight: 1.8g (With Cable) Dimensions: L14mm x W14mm x H13mm Includes 1x HappyModel Nano7 CMOS Camera for Mobula6 2024 Analog",
+    "link": "https://www.racedayquads.com/products/happymodel-fxt-fx17-b-cmos-camera-for-mobula6-2024-analog",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/happymodel-happymodel-nano7-cmos-800tvl-mobula6-2024-analog-camera-31674307018865.jpg?v=1737503872",
+    "approx_price": 29.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1295",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar Mini 1S V3 VTX Kit Combo - (w/ Nano Camera)",
+    "manufacturer": "CADDX",
+    "description": "Lightweight design, ultra-thin experience The Walksnail Avatar VRX Kit Combo is only 83g and comes with 114x55x22mm; a size easy to carry. Walksnail VRX adopts a 4-antenna design. 2 directional antennas and the maximum transmission distance is 4km 1080P/60FPS Walksnail VRX adopts industry-leading H.265 encoding technology, which can provide a minimum delay of 22ms and a maximum resolution of 1080p. The HD picture quality takes you to experience the fun of flying a drone. HDMI output ensures you ",
+    "link": "https://www.racedayquads.com/products/walksnail-avatar-mini-1s-v3-vtx-kit-combo-w-nano-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/caddx-walksnail-avatar-mini-1s-v3-vtx-kit-combo-w-nano-camera-vrx-31294464229489.jpg?v=1737314160",
+    "approx_price": 322.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1296",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "BetaFPV Beta C02 Micro 1200TVL CMOS 4:3 NTSC FPV Camera (w/ White 2022 Whoop Canopy)",
+    "manufacturer": "BETAFPV",
+    "description": "C02 Micro Camera is the lightweight camera customized for those weight sensitive micro whoop drones, like Meteor65, Beta65S, Beta85 pro2, HX100SE. Adapted a 1/4'' CMOS sensor, 2.1mm lens for 1200TVL resolution and excellent latency while minimizing the weight to 1.4g. C02 camera features a JST-0.8 connector, special design in plug-and-play, makes it easy to install without soldering. This micro camera comes with a micro canopy to protect your camera from a harsh crash! Be sure to check out all o",
+    "link": "https://www.racedayquads.com/products/betafpv-beta-c02-micro-fpv-camera-w-white-2022-canopy",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/betafpv-betafpv-beta-c02-micro-1200tvl-cmos-4-3-ntsc-fpv-camera-w-white-2022-whoop-canopy-camera-30613415788657.jpg?v=1762442458",
+    "approx_price": 17.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1297",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx ND Filters for the Walnut FPV Camera - ND8/16/Transparent",
+    "manufacturer": "CADDX",
+    "description": "These ND Filters are made for the Caddx Walnut FPV Action Camera . Neutral Density filters reduce the intensity of light entering the camera allowing pilots more control of their lighting conditions even in the most challenging environments. ND8, ND16, and Transparent filters are available. We have tons of Camera Parts and accessories for sale. And check out our Caddx Selection of products! Specifications ND8 (ND 0.9) 12.5% transmission (some sunlight) ND16 (ND 1.2) 6.25% transmission (bright su",
+    "link": "https://www.racedayquads.com/products/caddx-nd-filters-for-the-walnut-fpv-camera-nd8-16-transparent",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-nd-filters-for-the-walnut-fpv-camera-nd8-16-transparent-nd8-camera-acc-30547239665777.jpg?v=1762442348",
+    "approx_price": 1.0,
+    "category": "fpv_cameras",
+    "pid": "CAM-1298",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar Nano HD FPV Camera w/ Cable",
+    "manufacturer": "CADDX",
+    "description": "The Avatar HD Nano Camera for the Walksnail Avatar VTX works with Walksnail Avatar and Fat Shark Dominator HD Goggles . Check out all our Walksnail HD products ! Specifications Image Sensor: 1/27\" Resolution: 1080p 60FPS / 720P 120FPS / 720P 60FPS Aspect Ratio: 16/9 and 4/3 Switchable Lens: 2.1mm Field Of View: 170\u00b0 Aperture: F 2.0 Shutter Style: Rolling Shutter Minimum Illumination: 0.001Lux Cable Length: 90mm Dimensions: 14x14x17mm Weight: 3.5g Includes 1x Walksnail HD Nano Camera",
+    "link": "https://www.racedayquads.com/products/walksnail-avatar-nano-camera-w-9cm-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-walksnail-avatar-nano-hd-fpv-camera-w-cable-camera-30020745724017.jpg?v=1762441914",
+    "approx_price": 65.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1299",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "HappyModel Crux3 Replacement Camera - Caddx Ant",
+    "manufacturer": "HAPPYMODEL",
+    "description": "Replacement part for the HappyModel Crux3 Check out the HappyModel Crux3 Quad and Accessories Collection . Specifications Image Sensor: 1/3\" CMOS Sensor Horizontal Resolution: 1200 TVL TV System: NTSC or PAL Switchable IMAGE: 4:3 Synchronization: Internal Electronic Shutter: PAL: 1/50~100,000; NTSC: 1/60~100,000 S/N Ratio : &gt;52dB (AGC OFF) Video Output: CVBS Lens: 1.8mm Min. Illumination: 0.001Lux@F1.2 Auto Gain Control: YES BLC: YES WDR: Global WDR DNR: 3D DNR Dimensions: 14*14mm(with bracke",
+    "link": "https://www.racedayquads.com/products/happymodel-crux3-replacement-camera-caddx-ant",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/happymodel-happymodel-crux3-replacement-camera-caddx-ant-camera-15870507450481.jpg?v=1762440993",
+    "approx_price": 19.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1300",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam 5 - 4K Action Camera w/ Stabilization - Choose Version",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam 5 is an upgraded version of the Previous RunCam with more (and more efficient) processing power allowing new modes, electronic stabilization, Recording in 4K @30FPS or 2.7K @60FPS, and longer recording times! Check out our HD Camera selection and all our RunCam products ! Features 2.7K@60fps available Electronic Stabilization supported Upgraded CPU offers ultra-low power consumption 4K recording time up to 105 minutes 4:3 native sensor resolution supported 3rd Gen Corning Gorilla Glas",
+    "link": "https://www.racedayquads.com/products/runcam-5-orange-4k-action-camera-w-stabilization-4k-30fps-2-7k-60fps",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-5-4k-action-camera-w-stabilization-choose-version-orange-camera-13885012705393.jpg?v=1762440579",
+    "approx_price": 143.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1301",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Plastic M12 Replacement Lens Lock Ring for FPV Camera",
+    "manufacturer": "FPVELITE",
+    "description": "This lens ring fits any M12 camera. Check out all our replacement cam parts &amp; accessories! Includes 1x Plastic M12 Replacement Lens Lock Ring for FPV Camera",
+    "link": "https://www.racedayquads.com/products/lens-ring-for-fpv-camera-lenses",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/fpvelite-plastic-m12-replacement-lens-lock-ring-for-fpv-camera-camera-acc-7024097034353.jpg?v=1762439939",
+    "approx_price": 1.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1302",
+    "source": "rdq",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Lens Protector for DJI FPV Camera - 3D Printed TPU - Black",
+    "manufacturer": "RDQ",
+    "description": "TPU lens protector for the DJI Air Unit Camera. Fits tightly around the lens. We also carry the Official DJI Lens Protector Kit , and replacement camera modules, as well as the rest of the DJI Digital FPV System . Check out the rest of our DJI Compatible Gear and all our 3D printed accesories , and remember if you need something custom printed, we do that too ! Includes 1x Lens Protector for DJI FPV Camera - 3D Printed TPU - Black",
+    "link": "https://www.racedayquads.com/products/lens-protector-for-dji-fpv-camera-3d-printed-tpu-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-lens-protector-for-dji-fpv-camera-3d-printed-tpu-black-3d-printed-products-13541105303665.jpg?v=1762440512",
+    "approx_price": 2.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1303",
+    "source": "rdq",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Metal M8 Replacement Lens Lock Ring for Micro FPV Camera",
+    "manufacturer": "FPVELITE",
+    "description": "Tired of breaking the small plastic lock rings on your micro cam? Upgrade to a metal ring to avoid that issue with only a small amount a weight added! Works perfectly with any of our micro lenses, including the 2.1 Runcam Micro Lens or the 2.3 Runcam Micro Lens ! Check out the rest of our replacement camera parts ! Includes 1x Metal M8 Replacement Lens Lock Ring for Micro FPV Camera",
+    "link": "https://www.racedayquads.com/products/runcam-micro-lens-metal-lock-ring",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/fpvelite-metal-m8-replacement-lens-lock-ring-for-micro-fpv-camera-camera-acc-260063035403.jpg?v=1762439967",
+    "approx_price": 0.05,
+    "category": "fpv_cameras",
+    "pid": "CAM-1304",
+    "source": "rdq",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Foxeer Toothless 2 Nano Starlight 1200TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (2.1mm) - Choose Your Color",
+    "manufacturer": "FOXEER",
+    "description": "The Toothless is just got an upgrade! Now featuring a switchable FoV! This is the Nano with a 2.1mm starlight lens. Slightly more narrow FoV but better low light performance. Available in Nano Standard , Nano Starlight , Micro &amp; Mini/Full ! Check out all our Nano FPV cameras and all our Foxeer gear ! Features Huge 1/2\" sensor grabs more light for better image quality and low light flying True all weather, all hours camera. Fly day or night, fog or blazing sunlight Supports OSD control from y",
+    "link": "https://www.racedayquads.com/products/foxeer-toothless-2-nano-starlight-1200tvl-16-9-4-3-pal-nstc-cmos-fpv-camera-w-1-2-sensor-1-7mm-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-toothless-2-nano-starlight-1200tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-2-1mm-choose-your-color-fluorescent-green-camera-14270012588145.jpg?v=1762440659",
+    "approx_price": 47.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1305",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "DJI Osmo Action 5 Pro Standard Combo",
+    "manufacturer": "DJI",
+    "description": "DJI brings subject tracking to an action camera. Action 5 Pro now intelligently detects the subject's position and dynamically adjusts the composition. Keep the subject centered in every frame, during horizontal or vertical shots. Action 5 Pro's front and rear touchscreens let you preview 10-bit D-Log M footage with color recovery, so you can adjust color and brightness for top-quality raw footage at a glance. We're setting a new benchmark for action camera battery performance. A single battery ",
+    "link": "https://www.racedayquads.com/products/pre-order-dji-osmo-action-5-pro-standard-combo",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/dji-pre-order-dji-osmo-action-5-pro-standard-combo-camera-32125070049393.jpg?v=1737184018",
+    "approx_price": 349.0,
+    "category": "fpv_cameras",
+    "pid": "CAM-1306",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam 6 - 4K Action Camera",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam 6 is the newest version of HD Action Cameras from RunCam! Now with more processing power allowing new modes, electronic stabilization, Recording in 4K @30FPS or 2.7K @60FPS, and longer recording times! Also available with optional ND filters here . Check out our HD Camera selection and all our RunCam products ! Features 4K@30fps 12MP 1/2.3 inch Sensor GyroFlow Supported OLED Display USB Type C Specifications Image Sensor: SONY IMX377 (12MP) Video Resolution: 4K@30fps/2.7K@60fps/2.7K@3",
+    "link": "https://www.racedayquads.com/products/runcam-6-4k-action-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-6-4k-action-camera-camera-31718684328049.jpg?v=1737519724",
+    "approx_price": 119.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1307",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Infra Camera",
+    "manufacturer": "CADDX",
+    "description": "The CADDXFPV infra camera features a black and white sensor that can be used in very low light conditions. It also utilizes AI image enhancement and an HD output. *This is the analog version Check out our ever-growing selection of Caddx cameras and all our Walksnail HD products! Features AI Image Enhancement 0 Lux Black and White Sensor High Resolution AI image enhancement improves image quality, maximizing video quality in any environment. It can replace some of the scenarios where infrared rad",
+    "link": "https://www.racedayquads.com/products/caddx-infra-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/caddx-caddx-infra-camera-camera-31678738595953.jpg?v=1737518998",
+    "approx_price": 154.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1308",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Runcam Phoenix 2 Special Edition Micro 1000TVL CMOS 4:3/16:9 NTSC/PAL FPV Camera",
+    "manufacturer": "RUNCAM",
+    "description": "The Runcam Phoenix 2 is a great day and night camera with low latency and richer more natural colors. Check out our selection of FPV cameras and our other RunCam products ! Features Day &amp; Night FPV Camera Fully covered back, dust proof &amp; short-circuit proof Replaceable lens hood, Anti-glare and lens protection Specifications Product Name: RunCam Phoenix 2 SE V2 Image Sensor: 1/2\" COMS Sensor Horizontal Resolution: 1000TVL Lens: FOV D:160\u00b0 H:124\u00b0 V:95\u00b0@F 2.4 Screen Format: 4:3 / 16:9 Swit",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-2-special-edition-micro-1000tvl-cmos-4-3-16-9-ntsc-pal-fpv-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-phoenix-2-special-edition-micro-1000tvl-cmos-4-3-16-9-ntsc-pal-fpv-camera-camera-31068748218481.jpg?v=1737497765",
+    "approx_price": 29.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1309",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Predator V5 Micro 1000TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (1.7mm) Naked - Black",
+    "manufacturer": "FOXEER",
+    "description": "Check out the new Foxeer Predator 5 Micro, extremely fast 4ms Latency with Super WDR! Check out the rest of our ever growing selection Micro FPV Cameras and our entire Foxeer Collection ! Features Fast Mode Switch: Long Press Right Button to switch among DAY/CLOUDY/Night/LED Flight OSD: Voltage/Cam Title/Time/Cross Hair 4ms Latency Sony 1/3\" CMOS Sensor Minimum Illumination: 0.01Lux Specifications Sensor Type: Sony 1/3\" CMOS Sensor Scale: 4:3(default)/16:9 Switchable Tv System: PAL(default)/NTSC",
+    "link": "https://www.racedayquads.com/products/foxeer-predator-v5-micro-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-naked-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/foxeer-foxeer-predator-v5-micro-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-naked-black-camera-31046582370417.jpg?v=1737025435",
+    "approx_price": 36.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1310",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "DJI O3 Air Unit Camera Module",
+    "manufacturer": "DJI",
+    "description": "You can now replace each part of the DJI O3 Unit! The camera module comes with a coaxial cable &amp; using the quick-release design change your smashed camera in the field with ease! Check out all of our DJI products ! Features Works with DJI FPV Goggles V2, DJI Goggles 2, and DJI FPV Remote Controller 2 155\u00b0 Super-Wide FOV 1/1.7-Inch CMOS Sensor Compact in Size Compatibility: DJI O3 Air Unit Transmission Module Specifications Matrix : 1/1.7\" CMOS Effective Pixels: 48MP Lens : Field of View (FOV",
+    "link": "https://www.racedayquads.com/products/dji-o3-air-unit-camera-module",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/dji-dji-o3-air-unit-camera-module-camera-31031102832753.jpg?v=1737094740",
+    "approx_price": 108.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1311",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "NewBeeDrone BeeEye FPV Camera",
+    "manufacturer": "NewBeeDrone",
+    "description": "NewBeeDrone BeeEye FPV Camera A replacement camera for the AcroBee. Can be used as a replacement camera for other applications too. (Camera mount not included). Specifications: 600 TVL 120 Degree Viewing Angle (20 Degree Mount) 1.7g (2.9g with Mount) Dimensions: W 14mm x H 14.25mm x D 14mm What's in the package: BeeEye Camera x1 Where to buy a mount: Goober Canopy BeeBrain V2 Canopy Click here to purchase some spare high-quality silicone insulated connectors.",
+    "link": "https://www.racedayquads.com/products/newbeedrone-beeeye-fpv-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/newbeedrone-newbeedrone-beeeye-fpv-camera-beeeye-drone-vtx-camera-systems-30962968821873.png?v=1737045589",
+    "approx_price": 12.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1312",
+    "source": "rdq",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "Runcam Phoenix HD Micro FPV Camera for DJI - Silver",
+    "manufacturer": "RUNCAM",
+    "description": "RunCam's officially licensed DJI system camera is here, the Phoenix HD! Another excellent option for a crisp, smooth HD FPV feed with great low light performance! Check out all our DJI compatible gear , and our RunCam selection! This listing is for the camera only. Videos below to show camera performance: Features Beautiful 1280x720@60fps FPV feed Excellent low light performance Micro form factor for better frame compatibility Specifications Image Sensor 1/2\u201d Resolution 1280*720@60fps LENS FOV D",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-hd-micro-fpv-camera-for-dji-silver",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-phoenix-hd-micro-fpv-camera-for-dji-silver-camera-30928761782385.jpg?v=1762455651",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1313",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Runcam HDZero Nano 90 HD FPV Camera w/ Cable",
+    "manufacturer": "HDZERO",
+    "description": "The RunCam HDZero Nano 90 HD Camera gives you a competitive advantage like no other. 90FPS gives you an incomparable feeling of connected flight. You\u2019ll finish snap rolls sharper, and corner around gates tighter at 90 FPS. Freestylers will appreciate the new 540p60 60 FPS mode that offers better signal penetration and range by reducing HDZero\u2019s video bandwidth. Check out the Nano FPV Camera section and our HDZero selection . Features Supports various resolutions for different flying environments",
+    "link": "https://www.racedayquads.com/products/runcam-hdzero-nano-90-hd-fpv-camera-w-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/hdzero-runcam-hdzero-nano-90-hd-fpv-camera-w-cable-camera-30857952591985.jpg?v=1762452392",
+    "approx_price": 89.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1314",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar HD Nano V3 20x20 VTX Kit w/ Nano Camera (Compatible w/ Fat Shark Dominator HD)",
+    "manufacturer": "CADDX",
+    "description": "The Walksnail Avatar HD Nano Camera V3 / Avatar HD Mini VTX V3 features a nano digital camera, antenna, and mini VTX that works with HD goggles such as the Walksnail Avatar and Fat Shark HD Dominator. The Avatar V3 is the upgraded version of the Avatar 1S, where the V3 improves with 32G of storage, 500mW of power, a native 4:3 sensor, and a wide voltage range of 3.1-13V. Check out all our Walksnail HD products and check out all our Walksnail compatible products! Warning - Walksnail recommends th",
+    "link": "https://www.racedayquads.com/products/walksnail-avatar-hd-nano-v3-vtx-kit-w-nano-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/caddx-walksnail-avatar-hd-nano-v3-20x20-vtx-kit-w-nano-camera-compatible-w-fat-shark-dominator-hd-vtx-30803705921649.jpg?v=1762443211",
+    "approx_price": 130.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1315",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Runcam Phoenix 2 SP Micro 1500TVL Starlight CMOS 4:3/16:9 NTSC/PAL FPV Camera (2.1mm) - Black - Choose Your Version",
+    "manufacturer": "RUNCAM",
+    "description": "RunCam Phoenix 2 SP is a micro camera especially suitable for freestyle flying. The camera has a resolution of 1500TVL and thus provides a high-quality image. The Starlight sensor excels even in low light conditions. Like all better cameras, Runcam Phoenix supports 16:9 and 4:3 aspect ratio switching as well as NTSC/PAL. Check out our selection of FPV cameras and our other RunCam products ! Specifications Image Sensor: 1/2.8\" Starlight CMOS Sensor Horizontal Resolution: 1500TVL Lens: FOV D:155\u00b0 ",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-2-sp-1500tvl-starlight-coms-sensor-4-3-16-9-ntsc-pal-fpv-camera-2-1mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-phoenix-2-sp-micro-1500tvl-starlight-cmos-4-3-16-9-ntsc-pal-fpv-camera-2-1mm-black-choose-your-version-camera-30800953540721.jpg?v=1762443173",
+    "approx_price": 35.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1316",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Racer Nano 4 1200TVL CMOS 4:3 PAL/NTSC Waterproof FPV Camera",
+    "manufacturer": "RUNCAM",
+    "description": "The latest RunCam Racer Nano 4 delivers outstanding clarity, an incredible FOV, top-notch WDR (6ms latency), and amazing compatibility with OLED goggles! Noise is vastly reduced, and colors are perfectly adjusted for a more realistic look! This camera comes with a low-distortion lens, providing a vertical angle of up to 97\u00b0, which allows for a broader and more adaptable field of view. Check out our selection of FPV cameras and our other RunCam products ! Specification Image Sensor: Super WDR CMO",
+    "link": "https://www.racedayquads.com/products/runcam-racer-nano-4",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/runcam-runcam-racer-nano-4-1200tvl-cmos-4-3-pal-ntsc-waterproof-fpv-camera-camera-30783457853553.jpg?v=1762443101",
+    "approx_price": 41.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1317",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Five33 Foxeer Predator 5 Nano 1000TVL 4:3/16:9 PAL/NTSC FPV Camera (1.7mm) - Five33 Edition",
+    "manufacturer": "FIVE33",
+    "description": "The Predator 5 Nano Five33 Edition is a 14x14mm or 19x19mm (with bracket) FPV camera by Foxeer and modified by Five33 so that the camera comes Pre HV-Flipped (meaning the camera can be mounted with its connector at the bottom of the camera instead of the topside). This camera features a 1/3\" CMOS sensor, 1000TVL resolution, ultra-low 4ms latency, NTSC/PAL switchable, image flip, super WDR function, and many other cool features! Compared to the Predator 4, the Predator 5 has a more natural image.",
+    "link": "https://www.racedayquads.com/products/foxeer-predator-5-nano-1000tvl-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-five33-edition",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/files/five33-five33-foxeer-predator-5-nano-1000tvl-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-five33-edition-camera-30766382350449.jpg?v=1762443012",
+    "approx_price": 39.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1318",
+    "source": "rdq",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "Walksnail Avatar Micro HD FPV Camera V2 w/ Gyro and 14mm Cable",
+    "manufacturer": "CADDX",
+    "description": "The Avatar HD Micro Camera for the Walksnail Avatar VTX works with Walksnail Avatar and Fat Shark Dominator HD Goggles. Check out all our Walksnail HD products! Features With 2K 120fps pixels and native 4:3 sensor, ensures an excellent picture quality. Additionally, the native 4:3 image ratio provides the advantage of capturing a larger area of the surrounding scenery. The new camera V2 Camera with Gyro supports Gyroflow , Lets you smooth and stabilize your footage. F/2.0 Aperture increases the ",
+    "link": "https://www.racedayquads.com/products/walksnail-avatar-micro-hd-fpv-camera-v2-w-14mm-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-walksnail-avatar-micro-hd-fpv-camera-v2-w-gyro-and-14mm-cable-camera-30646495248497.webp?v=1762442536",
+    "approx_price": 70.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1319",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "NewBeeDrone Mark3 Micro FPV Camera & 25mW VTX w/ Goober Canopy AIO - Black",
+    "manufacturer": "NEWBEEDRONE",
+    "description": "Check out the NewBeeDrone Mark3 Camera w/ Goober Canopy, as this micro camera comes with a micro canopy to protect your camera from a harsh crash! However not just any canopy as the Goober canopy is one of the most durable and heavy canopies on the market. The Goober canopy was made for maximum protection for your hardware, and has very high durability, which comes with a bit more weight. With all this protection can you rest assured the safety for this new camera. An upgrade a to a design based",
+    "link": "https://www.racedayquads.com/products/newbeedrone-mark3-micro-fpv-camera-25mw-vtx-w-goober-canopy-aio-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/newbeedrone-newbeedrone-mark3-micro-fpv-camera-25mw-vtx-w-goober-canopy-aio-black-camera-vtx-30610687754353.png?v=1762442471",
+    "approx_price": 39.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1320",
+    "source": "rdq",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "RunCam Phoenix 2 Nano Camera",
+    "manufacturer": "RUNCAM",
+    "description": "The Runcam Phoenix 2 Nano is both great daylight and low-light FPV camera, equipped with an improved 1/2\" WDR image sensor and high-quality M8 lens. The Phoenix 2 Nano features a high 1000 TVL picture with a 4:3 or 16:9 aspect ratio option, WDR CMOS, and fast image processing. This Nano camera has the same CPU and 1/2'' high-performance image sensor as the RunCam Phoenix 2, however, the RunCam Phoenix 2 Nano produces vivid high-resolution pictures. Thanks to the 1/2'' super global WDR image sens",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-2-nano-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-phoenix-2-nano-camera-camera-30540724404337.jpg?v=1762442309",
+    "approx_price": 35.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1321",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Walnut FPV Action Camera - Choose Version",
+    "manufacturer": "CADDX",
+    "description": "The Caddx FPV Walnut Action Camera features 4k/60fps picture quality, IP64 waterproof rating, and gyroflow for stabilization This impact-resistant camera weighs only 60g and has optional ND8 and ND16 Filters. Check out all our HD Action Cams and our Caddx Selection ! Features One-Key Startup 4K/60fps high-definition picture quality with 100mbps bit rate Screw On ND8 and ND16 Filters The fuselage comes with a battery A hard shell with a soft rubber interior design makes it impact-resistant IP64 W",
+    "link": "https://www.racedayquads.com/products/caddx-walnut-fpv-action-camera-choose-version",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-walnut-fpv-action-camera-choose-version-caddx-walnut-w-nd8-and-nd16-camera-30468271046769.jpg?v=1762442202",
+    "approx_price": 138.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1322",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Wasp 720p/120fps Micro HD FPV Camera for DJI",
+    "manufacturer": "RUNCAM",
+    "description": "The RunCam Wasp Digital FPV Camera is another advanced video transmission camera by RunCam and fully authorized by DJI that supports a 5.8GHz digital video signal and 720p 120fps image transmission. The RunCam Wasp is designed for FPV drones and it can be used with DJI FPV Goggles, which provide digital high-definition pictures and a transmission range of up to 4km! Check out all our DJI-compatible gear , and our RunCam selection! This listing is for the camera only. Features Beautiful 720@120fp",
+    "link": "https://www.racedayquads.com/products/runcam-wasp-hd-micro-fpv-camera-for-dji",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-wasp-720p-120fps-micro-hd-fpv-camera-for-dji-camera-30431063834737.webp?v=1762442129",
+    "approx_price": 55.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1323",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Walksnail Avatar Micro HD FPV Camera w/ Cable",
+    "manufacturer": "CADDX",
+    "description": "The Avatar HD Micro Camera for the Walksnail Avatar VTX works with Walksnail Avatar and Fat Shark Dominator HD Goggles. Check out all our Walksnail HD products! Specifications Image Sensor: 1/27\" Resolution: 1080p 60FPS / 720P 120FPS / 720P 60FPS Aspect Ratio: 16/9 and 4/3 Switchable Lens: 2.1mm Field Of View: 170\u00b0 Aperture: F2.0 Shutter Style: Rolling Shutter Minimum Illumination: 0.001Lux Cable Length: 140mm Dimensions: 19x19x22mm Weight: 6g Includes 1x Walksnail Avatar Micro HD FPV Camera w/ ",
+    "link": "https://www.racedayquads.com/products/walksnail-avatar-micro-camera-w-14cm-cable",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-walksnail-avatar-micro-hd-fpv-camera-w-cable-camera-30020762501233.jpg?v=1762441915",
+    "approx_price": 70.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1324",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "HappyModel RunCam Nano 3 800TVL CMOS FPV Camera w/ Holes & Plug",
+    "manufacturer": "HAPPYMODEL",
+    "description": "This version from HappyModel has corner holes to attach to the Happymodel Mobula 6 stock canopy mount. It also has a plug compatible with the Crazybee F4 Lite . The RunCam Nano 3 is a TINY leap in nano camera design! At less than half the weight of the Nano 2 while still using a 1/3\" sensor, the Nano 3 actually has a higher resolution! The weight saving is due to the incredibly small lens which still provides 140\u00b0 field of view and distortion correction. This is THE cam for your whoop, micro, or",
+    "link": "https://www.racedayquads.com/products/happymodel-runcam-nano-3-800tvl-cmos-fpv-camera-w-plug",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/happymodel-happymodel-runcam-nano-3-800tvl-cmos-fpv-camera-w-holes-plug-camera-29824021364849.jpg?v=1762441760",
+    "approx_price": 23.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1325",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Thumb 1080p HD Action Camera w/ 3D Printed Mount - Gyroflow Compatible",
+    "manufacturer": "RUNCAM",
+    "description": "RunCam has come out with one of the most exciting new HD cams on the market. Coming in at only 9.8 grams, this camera is small enough to fit on even the smallest of quads. This camera has an internal gyro so the footage can be stabilized with Gyroflow! (See instructions below on how to enable gyro logging) Check out all our HD Action Cams and our RunCam selection ! Specifications Resolution: 1080p@60fps Video Format: MP4 Gyro: Built-In Communication Interface: Micro USB SD Card Compatibility: 12",
+    "link": "https://www.racedayquads.com/products/runcam-thumb-1080p-hd-action-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-thumb-1080p-hd-action-camera-w-3d-printed-mount-gyroflow-compatible-camera-29661123936369.jpg?v=1762441645",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1326",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Runcam HDZero Micro FPV Camera V2",
+    "manufacturer": "HDZERO",
+    "description": "The Runcam Micro V2 HD Zero camera is a 4:3 and 16:9 selectable high definition 720p 60fps camera designed for HDZero VTX. It supports the camera menu for brightness, contrast, saturation, HV flip and other camera settings. It has excellent low light performance for its ultra-high sensitive sensor. MIPI Cable Not Included. Check out our HDZero selection ! Specifications Input Voltage: 3.3V Sensor Size: 1/2 inch Resolution: 720p Sensitivity: 10650mV/Lux-sec Shutter: Rolling Shutter Operating Temp",
+    "link": "https://www.racedayquads.com/products/runcam-hdzero-micro-camera-v2-for-sharkbyte",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/hdzero-runcam-hdzero-micro-fpv-camera-v2-camera-29482060841073.jpg?v=1762441555",
+    "approx_price": 65.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1327",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Apollo Micro HD FPV Camera for DJI - Choose Version",
+    "manufacturer": "FOXEER",
+    "description": "Foxeer enters the realm of digital starlight cameras with their new Apollo! This new camera is sure to impress and also comes in a standard lens option. Check out all our DJI compatible gear and our Foxeer product selection ! Specifications Sensor: Sony 1/2\" CMOS Video out: Digital Mipi Menu: No Aspect Ratio: 16:9 Resolution: Digital 720P/60fps FOV: Standard 160\u00b0, Starlight 170\u00b0 Minimum Illumination 0.00001Lux White Balance Auto S/N Ratio: &gt;65dB(AGC OFF) WDR: 100dB Size: 19*19mm Weight: 9.8g ",
+    "link": "https://www.racedayquads.com/products/foxeer-apollo-micro-hd-fpv-camera-for-dji-choose-version",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-apollo-micro-hd-fpv-camera-for-dji-choose-version-camera-29413446549617.jpg?v=1762441508",
+    "approx_price": 49.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1328",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Caddx Nebula Pro Nano 720p/120fps HD FPV Camera for DJI",
+    "manufacturer": "CADDX",
+    "description": "The Caddx Nebula Pro Nano features the same great 720p/120fps performance and low 28ms latency of it's big brother the Nebula Pro Micro and weighs in at only 3.5 grams! If you want 120fps low latency HD in a nano form factor, this is your camera! We also carry the Caddx Nebula Pro Nano Vista Kit ! Check out all our DJI compatible gear and our CADDX product selection ! Specifications Image Sensor: 1/3 inch CMOS Sensor Aperture: F/2.0 Resolution: 720p/120fps Aspect Ratio: 16:9 &amp; 4:3 (Switchabl",
+    "link": "https://www.racedayquads.com/products/caddx-nebula-pro-nano-720p-120fps-hd-fpv-camera-for-dji",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/caddx-caddx-nebula-pro-nano-720p-120fps-hd-fpv-camera-for-dji-black-8cm-cable-camera-29357211975793.jpg?v=1762441482",
+    "approx_price": 80.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1329",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Cat 3 Micro 1200TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (2.1mm) - Choose Your Color",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer Cat 3's large aperture lens excels in low light conditions while also providing optimal footage when exposed to LED's. No more worrying about getting a blown out image when going through a race gate at night. Looking for the Mini size ? Check out the rest of our FPV cameras , and all our Foxeer products . Specifications Sensor Type: Sony 1/3\" CMOS Sensor Scale: 4:3 (Default)/ 16:9 Switchable Tv System: PAL(Default)/NTSC Switchable Resolution: 1200TVL Lens: M12 2.1mm Low Light Lens FOV",
+    "link": "https://www.racedayquads.com/products/foxeer-cat-3-micro-starlight-1200tvl-fpv-camera-4-3-16-9-pal-ntsc-2-1mm-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-cat-3-micro-1200tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-2-1mm-choose-your-color-black-camera-16616587133041.jpg?v=1762441112",
+    "approx_price": 59.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1330",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer T-Rex Micro 1500TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (1.7mm) - Choose Your Color",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer T Rex Micro is a 19x19mm FPV camera by Foxeer that features a 2MP CMOS sensor, 1500TVL resolution, 6ms latency, NTSC/PAL switchable, auto white balance, and many other cool features! Check out our selection of FPV cameras and our ever growing selection of Foxeer products. Specifications Sensor Type CMOS 2MP Scale: 4:3/16:9 Switchable Tv System : PAL/NTSC Switchable Resolution : 1500TVL FOV 4:3 : FOV-H: 120\u00b0 FOV-D:150\u00b0 FOV 16:9 : FOV-H: 155\u00b0 FOV-D:175\u00b0 Shutter Speed : Auto Flip : Up, D",
+    "link": "https://www.racedayquads.com/products/foxeer-t-rex-micro-fpv-camera-1500tvl-cmos-16-9-4-3-pal-ntsc-plug-choose-your-color",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-t-rex-micro-1500tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-7mm-choose-your-color-black-camera-15964621832305.jpg?v=1762441016",
+    "approx_price": 65.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1331",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "EMAX Tinyhawk II Race Replacement Camera - Runcam Nano 2",
+    "manufacturer": "EMAX",
+    "description": "Replacement part for the TinyHawk II Race . Check out all our TinyHawk parts , and EMAX gear ! Specifications Image Sensor: 1/3\" CMOS Horizontal Resolution: 700TVL Lens: 2.1mm M8 S/N Ratio: &gt;50dB Electronic Shutter Speed: Auto Auto Gain Control: Auto Min. Illumination: 0.01 LUX WDR: Auto Day/Night: Color Input Voltage: 3-5.5V Current: 110mA @ 5V Housing Material: ABS Net Weight: 3.2g Dimensions: 16x14x14mm Includes 1x EMAX TinyHawk II Race Replacement Camera - Runcam Nano 2",
+    "link": "https://www.racedayquads.com/products/emax-tinyhawk-ii-replacement-camera-runcam-nano-2",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/emax-emax-tinyhawk-ii-race-replacement-camera-runcam-nano-2-camera-14276502945905.jpg?v=1762440659",
+    "approx_price": 23.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1332",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Phoenix 2 Micro 1000TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera (2.1mm) - Silver",
+    "manufacturer": "RUNCAM",
+    "description": "The Phoenix is not just a daylight camera anymore. Version 2 of the Phoenix is RunCam's ultimate micro cam, set to eclipse even the Eagle! RunCam clearly understood that the Eagle set the bar high, but endeavored to raise it again while somehow lowering the cost to customers! Check out our selection of FPV cameras and our other RunCam products ! Features Rich yet natural color reproduction thanks to upgraded CPU and 1/2\" sensor! Even better low light performance than the Eagle! f/2.0 Large apert",
+    "link": "https://www.racedayquads.com/products/runcam-phoenix-2-1000tvl-16-9-4-3-ntsc-pal-cmos-micro-fpv-camera",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-phoenix-2-micro-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-2-1mm-silver-camera-29745129226353.jpg?v=1762440606",
+    "approx_price": 35.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1333",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Razer Nano 1200TVL CMOS 16:9 NSTC FPV Camera (1.8mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The wildly popular Razer is now available in a nano form factor! This camera is an incredible value! Also available in nano 4:3, as well as micro and mini sizes. Be sure to check out all our nano FPV cameras and our entire F oxeer selection ! Features 1200TVL High Definition Natural Image Low Latency Good Low Light Performance NTSC/PAL Switchable Wide Input Voltage Range Supports OSD &amp; Menu Remote Control Specifications Sensor Type: CMOS 1/3 Scale: 16:9 TV System: NTSC Resolution: 1200TVL FO",
+    "link": "https://www.racedayquads.com/products/foxeer-razer-nano-1200tvl-16-9-pal-nstc-cmos-fpv-camera-1-8mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-razer-nano-1200tvl-cmos-16-9-nstc-fpv-camera-1-8mm-black-camera-13854710497393.jpg?v=1759439791",
+    "approx_price": 19.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1334",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Razer Nano 1200TVL CMOS 4:3 PAL FPV Camera (1.8mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The wildly popular Razer is now available in a nano form factor! This camera is an incredible value! Also available in nano 16:9, as well as micro and mini sizes. Be sure to check out all our nano FPV cameras and our entire Foxeer selection ! Features 1200TVL High Definition Natural Image Low Latency Good Low Light Performance NTSC/PAL Switchable Wide Input Voltage Range Supports OSD &amp; Menu Remote Control Specifications Sensor Type: CMOS 1/3 Scale: 4:3 TV System: NTSC Resolution: 1200TVL FOV",
+    "link": "https://www.racedayquads.com/products/foxeer-razer-nano-1200tvl-4-3-nstc-cmos-fpv-camera-1-8mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-razer-nano-1200tvl-cmos-4-3-pal-fpv-camera-1-8mm-black-camera-13854709612657.jpg?v=1759439789",
+    "approx_price": 19.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1335",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Nano 3 800TVL CMOS FPV Camera w/ Plug",
+    "manufacturer": "RUNCAM",
+    "description": "This version from RunCam does not have the corner holes to attach to the Happymodel Mobula 6 stock canopy mount. It does have a plug compatible with the Crazybee F4 Lite . The RunCam Nano 3 is a TINY leap in nano camera design! At less than half the weight of the Nano 2 while still using a 1/3\" sensor, the Nano 3 actually has a higher resolution! The weight saving is due to the incredibly small lens which still provides 140\u00b0 field of view and distortion correction. This is THE cam for your whoop",
+    "link": "https://www.racedayquads.com/products/runcam-nano-3-800tvl-cmos-fpv-camera-w-plug-for",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-nano-3-800tvl-cmos-fpv-camera-w-plug-camera-29598792024177.jpg?v=1762440549",
+    "approx_price": 23.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1336",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RunCam Racer Nano 2 1000TVL CMOS 4:3/16:9 PAL/NTSC FPV Camera 1.8 - Orange",
+    "manufacturer": "RUNCAM",
+    "description": "The Nano 2 improves upon the original nano while still being one of the smallest cameras available from Runcam! Now offering 1000TVL resultion! Perfect for your next micro, or anything you want to save weight on. Check out the rest of our Nano FPV Cams , and all our RunCam products ! Features Even better picture quality! Light Weight Low Latency Super WDR Integrated OSD One touch Scene Setting (Personal / Lightrax / Darkness) Image Mirroring Option Gesture Control / Joystick Control Specificatio",
+    "link": "https://www.racedayquads.com/products/runcam-racer-nano-2-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-8-orange",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/runcam-runcam-racer-nano-2-1000tvl-cmos-4-3-16-9-pal-ntsc-fpv-camera-1-8-orange-camera-13609216147569.jpg?v=1762440526",
+    "approx_price": 38.49,
+    "category": "fpv_cameras",
+    "pid": "CAM-1337",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Razer Mini 1200TVL CMOS 16:9 PAL/NTSC FPV Camera (2.1mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer Razer is an incredible value! The image quality and performance are on par with much more expensive cameras. This is the new benchmark for a budget camera. Check out the test footage below, and in the \"Test Videos\" tab above! We also carry the Razer Mini in 4:3 , Razer Micro in 4:3 and Razer Micro in 16:9 ! Check out all our Mini FPV Cameras , and all our Foxeer products ! Features 1200TVL High Definition Natual Image Low Latency Good Low Light Performance NTSC/PAL Switchable Wide Inp",
+    "link": "https://www.racedayquads.com/products/foxeer-razer-mini-1200tvl-16-9-pal-nstc-cmos-fpv-camera-2-1mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-razer-mini-1200tvl-cmos-16-9-pal-ntsc-fpv-camera-2-1mm-black-camera-13367742365809.jpg?v=1759439594",
+    "approx_price": 23.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1338",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Razer Micro 1200TVL CMOS 4:3 PAL/NSTC FPV Camera (1.8mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer Razer is an incredible value! The image quality and performance are on par with much more expensive cameras. Check out the test footage below, and in the \"Test Videos\" tab above! We also carry the Razer Mini 4:3 ! Check out all our Mini FPV Cameras , and all our Foxeer products ! Features 1200TVL High Definition Natual Image Low Latency Good Low Light Performance NTSC/PAL Switchable Wide Input Voltage Range Supports OSD &amp; Menu Remote Control Specifications Sensor Type: CMOS 1/3 Sc",
+    "link": "https://www.racedayquads.com/products/foxeer-razer-micro-1200tvl-4-3-pal-nstc-cmos-fpv-camera-1-8mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-razer-micro-1200tvl-cmos-4-3-pal-nstc-fpv-camera-1-8mm-black-camera-13302041444465.jpg?v=1759439584",
+    "approx_price": 19.89,
+    "category": "fpv_cameras",
+    "pid": "CAM-1339",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Foxeer Razer V2 Mini 1200TVL 4:3 PAL/NSTC CMOS FPV Camera (2.1mm) - Black",
+    "manufacturer": "FOXEER",
+    "description": "The Foxeer Razer is an incredible value! The image quality and performance are on par with much more expensive cameras. This is the new benchmark for a budget camera. Check out the test footage below, and in the \"Test Videos\" tab above! We also carry the Razer Micro in 4:3 and Razer Micro in 16:9 ! Check out all our Mini FPV Cameras , and all our Foxeer products ! Features 1200TVL High Definition Natual Image Low Latency Good Low Light Performance NTSC/PAL Switchable Wide Input Voltage Range Sup",
+    "link": "https://www.racedayquads.com/products/foxeer-razer-v2-mini-1200tvl-4-3-pal-nstc-cmos-fpv-camera-2-1mm-black",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/foxeer-foxeer-razer-v2-mini-1200tvl-4-3-pal-nstc-cmos-fpv-camera-2-1mm-black-camera-13301985804401.jpg?v=1762440462",
+    "approx_price": 27.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1340",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "AKK AIO-SA Whoop/Micro AIO FPV Camera & 25-200mW VTX w/ Smart Audio",
+    "manufacturer": "AKK",
+    "description": "Featuring a whoop camera with Smart Audio! Take your Whoop tech to the next level. Check out all our Camera/VTX AIOs &amp; Combos Features Super light weight: 4.3g, all in one vtx + camera + antenna One button frequency and power setup Support 0.01mW parameter-adjusting mode 0.01/25mW/50mW/100mW/200mW power switchable OSD configuration using FC Uart (F3/F4/F7 with OSD) Notice: 5645,5925,5945(E4,E7, E8) channels are not available due to FCC regulation. Specifications Input voltage: 3.2-5.5V Weigh",
+    "link": "https://www.racedayquads.com/products/akk-aio-sa-fpv-camera-for-whoops-and-2-builds-smart-audio",
+    "image_file": "https://cdn.shopify.com/s/files/1/1285/4651/products/akk-akk-aio-sa-whoop-micro-aio-fpv-camera-25-200mw-vtx-w-smart-audio-camera-vtx-1752775065611.jpg?v=1762440041",
+    "approx_price": 29.99,
+    "category": "fpv_cameras",
+    "pid": "CAM-1341",
+    "source": "rdq",
+    "origin": "China",
+    "ndaa_compliant": false
   }
 ]
