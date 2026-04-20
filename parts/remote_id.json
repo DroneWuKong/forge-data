@@ -4,7 +4,7 @@
     "name": "Dronetag BS \u2014 RemoteID Broadcast Module",
     "manufacturer": "Dronetag",
     "manufacturer_country": "Czech Republic",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 79,
     "source": "https://dronetag.cz/en/products/broadcaster/",
     "interface": "UART / Bluetooth / WiFi",
@@ -25,14 +25,15 @@
       "wifi",
       "eu-compliant",
       "us-compliant"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1001",
     "name": "Dronetag Mini \u2014 RemoteID Nano Module",
     "manufacturer": "Dronetag",
     "manufacturer_country": "Czech Republic",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 59,
     "source": "https://dronetag.cz/en/products/mini/",
     "interface": "UART",
@@ -50,14 +51,15 @@
       "ultra-light",
       "fpv",
       "bluetooth"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1002",
     "name": "uAvionix SkyBeacon \u2014 Wing-tip RemoteID + ADS-B Out",
     "manufacturer": "uAvionix",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 189,
     "source": "https://uavionix.com/products/skybeacon/",
     "interface": "Integrated (wing-tip mount)",
@@ -78,14 +80,15 @@
       "usa-made",
       "faa-tso",
       "fixed-wing"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1003",
     "name": "uAvionix Ping200X \u2014 ADS-B In/Out + RemoteID",
     "manufacturer": "uAvionix",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 899,
     "source": "https://uavionix.com/products/ping200x/",
     "interface": "Serial / UART",
@@ -105,14 +108,15 @@
       "ndaa",
       "usa-made",
       "bvlos"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1004",
     "name": "BlueMark DB110 / DB200 \u2014 Open Drone ID",
     "manufacturer": "BlueMark Innovations",
     "manufacturer_country": "Netherlands",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 65,
     "source": "https://bluemark.io",
     "interface": "UART",
@@ -132,14 +136,15 @@
       "netherlands",
       "bluetooth",
       "wifi"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1005",
     "name": "Sagetech MXS \u2014 Certified ADS-B Transponder",
     "manufacturer": "Sagetech Avionics",
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 2995,
     "source": "https://sagetech.com/mxs/",
     "interface": "Serial / RS-232",
@@ -160,14 +165,15 @@
       "usa-made",
       "bvlos",
       "class-e"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "RID-1006",
     "name": "Aerobits TR1 \u2014 Dual ADS-B Receiver",
     "manufacturer": "Aerobits",
     "manufacturer_country": "Poland",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 349,
     "source": "https://www.aerobits.pl/product/tr1/",
     "interface": "UART",
@@ -186,6 +192,7 @@
       "ndaa",
       "poland",
       "dual-band"
-    ]
+    ],
+    "origin": "Unknown"
   }
 ]
