@@ -43,8 +43,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "China",
-    "source": "https://skybrush.io"
+    "origin": "China"
   },
   {
     "pid": "SWR-0002",
@@ -68,7 +67,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
@@ -76,8 +75,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://skybrush.io/products/live"
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0003",
@@ -101,7 +99,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Hungary",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "CollMot Robotics, Budapest, Hungary. EU/NATO allied-nation NDAA compliant.",
     "tags": [
       "ndaa"
@@ -109,8 +107,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://skybrush.io/products/studio"
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0004",
@@ -141,10 +138,10 @@
       "px4_params": {
         "COM_RCL_EXCEPT": 7,
         "GF_ACTION": 3,
-        "GF_MAX_HOR_DIST": 1500.0,
-        "GF_MAX_VER_DIST": 200.0,
+        "GF_MAX_HOR_DIST": 1500,
+        "GF_MAX_VER_DIST": 200,
         "COM_OBL_RC_ACT": 3,
-        "COM_OF_LOSS_T": 20.0,
+        "COM_OF_LOSS_T": 20,
         "EKF2_GPS_P_NOISE": 0.5,
         "EKF2_GPS_V_NOISE": 0.3,
         "EKF2_MULTI_IMU": 3
@@ -157,9 +154,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
-    "source": "https://github.com/alireza787b/mavsdk-drone-show",
-    "manufacturer_country": "USA"
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0005",
@@ -319,8 +314,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
-    "source": "https://github.com/pfeinsper/drone-swarm-search"
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0006",
@@ -351,7 +345,7 @@
         "takeoff_altitude_m": 5,
         "square_size_m": 20,
         "drone_speed_cms": 90,
-        "max_speed_ms": 4.0,
+        "max_speed_ms": 4,
         "control_interval_s": 0.15,
         "cell_reached_threshold_m": 1.2,
         "pid_kp": 0.9,
@@ -359,7 +353,7 @@
         "pid_kd": 0.12,
         "critical_battery_pct": 20,
         "gps_median_window": 7,
-        "stuck_timeout_s": 8.0
+        "stuck_timeout_s": 8
       },
       "license": "MIT",
       "github": "https://github.com/koesan/ORCUS",
@@ -391,9 +385,9 @@
         "largest_module_lines": 1410
       },
       "sensor_noise_model": {
-        "drone_yaw_std_deg": 5.0,
-        "drone_pitch_std_deg": 2.0,
-        "drone_pixel_noise_std_px": 5.0,
+        "drone_yaw_std_deg": 5,
+        "drone_pitch_std_deg": 2,
+        "drone_pixel_noise_std_px": 5,
         "drone_gps_position_std_m": 2.5,
         "drone_altitude_std_m": 1.5,
         "camera_mount_pitch_std_deg": 0.5,
@@ -411,13 +405,13 @@
       "ibvs_params": {
         "kp_yaw": 1.5,
         "kp_dive": 1.2,
-        "vx_max_ms": 8.0,
-        "vx_min_ms": 3.0,
-        "vz_max_ms": 3.0,
+        "vx_max_ms": 8,
+        "vx_min_ms": 3,
+        "vz_max_ms": 3,
         "terminal_coverage_pct": 55,
         "steep_dive_coverage_pct": 45,
         "ghost_timeout_s": 0.5,
-        "ramp_up_time_s": 3.0,
+        "ramp_up_time_s": 3,
         "max_pitch_tan": 0.27,
         "approach_pitch_tan": 0.18,
         "startup_pitch_tan": 0.087,
@@ -430,18 +424,18 @@
         "min_dt": 0.05,
         "process_noise": 0.1,
         "initial_covariance": 0.0001,
-        "merge_distance_base_m": 8.0,
-        "merge_distance_max_m": 20.0,
-        "fusion_hard_cap_m": 15.0,
-        "coast_time_s": 8.0,
-        "coast_max_displacement_m": 30.0
+        "merge_distance_base_m": 8,
+        "merge_distance_max_m": 20,
+        "fusion_hard_cap_m": 15,
+        "coast_time_s": 8,
+        "coast_max_displacement_m": 30
       },
       "track_lifecycle": {
         "confirmation_time_s": 0.3,
         "min_observations": 3,
         "tentative_timeout_s": 1.2,
         "lost_timeout_s": 1.3,
-        "delete_timeout_s": 4.0,
+        "delete_timeout_s": 4,
         "identity_conflict_window_s": 0.7
       }
     },
@@ -449,7 +443,7 @@
     "approx_price": 0,
     "ndaa_note": "Origin unclear. Verify.",
     "manufacturer_country": "Ukraine",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "tags": [
       "ndaa",
       "ukraine"
@@ -457,8 +451,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://github.com/koesan"
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0007",
@@ -486,7 +479,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "MICROS Lab, ENAC (French civil aviation school), Toulouse, France. EU/NATO. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -495,8 +488,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://github.com/micros-uav/CoFlyers"
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0008",
@@ -523,7 +515,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "IMRC Lab, University of Southern California, Los Angeles CA. US academic. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -532,8 +524,7 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://imrclab.github.io/crazyswarm2"
+    "origin": "Unknown"
   },
   {
     "pid": "SWR-0009",
@@ -589,8 +580,7 @@
     "price_usd": null,
     "weight_g": 0,
     "origin": "Unknown",
-    "ndaa_compliant": true,
-    "source": "https://github.com/capstone-insper"
+    "ndaa_compliant": null
   },
   {
     "pid": "SWR-0010",
@@ -883,7 +873,7 @@
     "schema_data": {},
     "approx_price": 0,
     "manufacturer_country": "Italy",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "OpenIPC, Italy-based community. EU/NATO allied-nation. NDAA compliant.",
     "tags": [
       "ndaa",
@@ -892,7 +882,6 @@
     "price_note": "Contact for pricing",
     "price_usd": null,
     "weight_g": 0,
-    "origin": "Unknown",
-    "source": "https://openipc.org/fpv"
+    "origin": "Unknown"
   }
 ]

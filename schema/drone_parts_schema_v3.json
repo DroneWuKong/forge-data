@@ -2155,21 +2155,5 @@
         "accessories": []
       }
     }
-  ],
-  "data_integrity": {
-    "source_policy": "Every record MUST have a 'source' field. Acceptable values: URL string, 'internal_archetype' (for generic build templates), or null with 'source_needed: true' flag pending verification.",
-    "source_needed_flag": "Records with source_needed: true are unverified and should not be used in procurement decisions or external reporting without manual source lookup.",
-    "fabrication_risk": "Fields most prone to AI hallucination: authorized_dealer, partner, specific contract values ($), SBIR/OTA award amounts, named personnel. These MUST have a source URL or be explicitly marked as estimates.",
-    "verification_block": {
-      "_description": "Optional verification block for audited records",
-      "status": "unverified | audited | disputed | fabricated",
-      "audited_at": "ISO date",
-      "audited_by": "string",
-      "issues_found": [
-        "array of issue descriptions"
-      ],
-      "source": "URL of verification source"
-    },
-    "last_schema_audit": "2026-04-08"
-  }
+  ]
 }
