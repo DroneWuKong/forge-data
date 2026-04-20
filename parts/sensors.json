@@ -37,7 +37,7 @@
       "weight_g": 10
     },
     "manufacturer_country": "USA",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://ouster.com/"
     ],
@@ -81,7 +81,7 @@
       "weight_g": 21
     },
     "manufacturer_country": "USA",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://ouster.com/"
     ],
@@ -124,7 +124,7 @@
       "weight_g": 19
     },
     "manufacturer_country": "USA",
-    "price_usd": 6000.0,
+    "price_usd": 6000,
     "links": [
       "https://ouster.com/"
     ],
@@ -169,11 +169,11 @@
       "weight_g": 18
     },
     "manufacturer_country": "Austria",
-    "price_usd": 80000.0,
+    "price_usd": 80000,
     "links": [
       "https://www.riegl.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -213,11 +213,11 @@
       "weight_g": 22
     },
     "manufacturer_country": "Austria",
-    "price_usd": 150000.0,
+    "price_usd": 150000,
     "links": [
       "https://www.riegl.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "RIEGL Laser Measurement Systems, Horn, Austria. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -256,11 +256,11 @@
       "weight_g": 23
     },
     "manufacturer_country": "France",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://www.yellowscan-lidar.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "YellowScan, Montpellier, France. EU/NATO allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -308,7 +308,7 @@
       "weight_g": 18
     },
     "manufacturer_country": "China",
-    "price_usd": 600.0,
+    "price_usd": 600,
     "links": [
       "https://www.livoxtech.com/"
     ],
@@ -353,11 +353,11 @@
       "weight_g": 17
     },
     "manufacturer_country": "USA",
-    "price_usd": 200.0,
+    "price_usd": 200,
     "links": [
       "https://ainstein.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ainstein Inc., Lawrence KS. US radar altimeter manufacturer. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -397,11 +397,11 @@
       "weight_g": 18
     },
     "manufacturer_country": "USA",
-    "price_usd": 20000.0,
+    "price_usd": 20000,
     "links": [
       "https://www.echodyne.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan.",
     "origin": "Unknown"
   },
@@ -439,11 +439,11 @@
       "weight_g": 17
     },
     "manufacturer_country": "USA",
-    "price_usd": 60000.0,
+    "price_usd": 60000,
     "links": [
       "https://www.echodyne.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Echodyne Corp, Kirkland WA. US metamaterial radar. NDAA compliant. Backed by Gates Ventures/Vulcan.",
     "origin": "Unknown"
   },
@@ -481,7 +481,7 @@
       "weight_g": 15
     },
     "manufacturer_country": "Australia",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://www.advancednavigation.com/"
     ],
@@ -522,7 +522,7 @@
       "weight_g": 21
     },
     "manufacturer_country": "France",
-    "price_usd": 2000.0,
+    "price_usd": 2000,
     "links": [
       "https://www.sbg-systems.com/"
     ],
@@ -565,7 +565,7 @@
       "weight_g": 20
     },
     "manufacturer_country": "France",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://www.sbg-systems.com/"
     ],
@@ -607,7 +607,7 @@
       "weight_g": 23
     },
     "manufacturer_country": "France",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://www.sbg-systems.com/"
     ],
@@ -647,7 +647,7 @@
       "weight_g": 10
     },
     "manufacturer_country": "USA",
-    "price_usd": 1500.0,
+    "price_usd": 1500,
     "links": [
       "https://www.vectornav.com/"
     ],
@@ -686,7 +686,7 @@
       "weight_g": 7
     },
     "manufacturer_country": "USA",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://www.vectornav.com/"
     ],
@@ -726,7 +726,7 @@
       "weight_g": 8
     },
     "manufacturer_country": "USA",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://www.vectornav.com/"
     ],
@@ -766,7 +766,7 @@
       "weight_g": 22
     },
     "manufacturer_country": "USA",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://inertiallabs.com/"
     ],
@@ -807,7 +807,7 @@
     "ndaa_compliant": true,
     "manufacturer_country": "USA",
     "ndaa_note": "Designed and manufactured USA. NDAA compliant.",
-    "price_usd": 245.0,
+    "price_usd": 245,
     "links": [
       "https://arkelectron.com/"
     ],
@@ -847,7 +847,7 @@
       "weight_g": 13
     },
     "manufacturer_country": "USA",
-    "price_usd": 15000.0,
+    "price_usd": 15000,
     "links": [
       "https://www.kvh.com/"
     ],
@@ -891,7 +891,7 @@
       "weight_g": 18
     },
     "manufacturer_country": "USA",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://micasense.com/"
     ],
@@ -932,7 +932,7 @@
       "weight_g": 23
     },
     "manufacturer_country": "USA",
-    "price_usd": 10000.0,
+    "price_usd": 10000,
     "links": [
       "https://micasense.com/"
     ],
@@ -977,7 +977,7 @@
       "weight_g": 24
     },
     "manufacturer_country": "USA",
-    "price_usd": 8000.0,
+    "price_usd": 8000,
     "links": [
       "https://sentera.com/"
     ],
@@ -1035,8 +1035,7 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China",
-    "source": "https://www.livoxtech.com/avia"
+    "origin": "China"
   },
   {
     "pid": "SEN-0002",
@@ -1077,8 +1076,7 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China",
-    "source": "https://www.livoxtech.com/mid-360"
+    "origin": "China"
   },
   {
     "pid": "SEN-0003",
@@ -1114,8 +1112,7 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "China",
-    "source": "https://www.livoxtech.com/horizon"
+    "origin": "China"
   },
   {
     "pid": "SEN-0004",
@@ -1149,7 +1146,7 @@
     },
     "price_usd": 53,
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "ndaa_note": "RoboSense (Suteng Innovation Technology), Shenzhen, China. Non-NDAA. Chinese LiDAR manufacturer.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1157,8 +1154,7 @@
       "china"
     ],
     "weight_g": 200,
-    "origin": "Unknown",
-    "source": "https://www.robosense.ai/rslidar/RS-Helios"
+    "origin": "Unknown"
   },
   {
     "pid": "SEN-0005",
@@ -1191,7 +1187,7 @@
     },
     "price_usd": 48,
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Velodyne Lidar merged with Ouster 2023. Ouster Inc., San Francisco CA (NYSE: OUST). US company. NDAA compliant.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1199,8 +1195,7 @@
       "usa"
     ],
     "weight_g": 830,
-    "origin": "Unknown",
-    "source": "https://ouster.com/products/hardware/vlp-16"
+    "origin": "Unknown"
   },
   {
     "pid": "SEN-0006",
@@ -1223,7 +1218,7 @@
     },
     "price_usd": 45,
     "manufacturer_country": "Netherlands",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Xsens/Movella, Enschede, Netherlands. EU/NATO allied-nation NDAA compliant.",
     "interface": "UART / Ethernet",
     "tags": [
@@ -1231,8 +1226,7 @@
       "nato"
     ],
     "weight_g": 200,
-    "origin": "Unknown",
-    "source": "https://www.movella.com/products/sensor-modules/xsens-mti-30"
+    "origin": "Unknown"
   },
   {
     "pid": "SENS-0024",
@@ -1248,7 +1242,7 @@
     "power_w": 2.5,
     "supply_voltage_v": "9-36",
     "imu_grade": "Tactical",
-    "gyro_bias_stability_deg_hr": 1.0,
+    "gyro_bias_stability_deg_hr": 1,
     "accel_bias_stability_mg": 0.005,
     "heading_dynamic_accuracy_deg": 0.1,
     "pitch_roll_dynamic_accuracy_deg": 0.03,
@@ -1347,7 +1341,7 @@
     "power_w": 3.5,
     "supply_voltage_v": "9-36",
     "imu_grade": "Industrial",
-    "gyro_bias_stability_deg_hr": 3.0,
+    "gyro_bias_stability_deg_hr": 3,
     "accel_bias_stability_mg": 0.01,
     "heading_static_accuracy_deg": 0.3,
     "heading_dynamic_accuracy_deg": 0.1,
@@ -1424,7 +1418,7 @@
     "link": "https://inertiallabs.com/products/ins-inertial-navigation-systems/",
     "weight_g": 320,
     "dimensions_mm": "120.5 x 53.2 x 49.3",
-    "power_w": 5.0,
+    "power_w": 5,
     "supply_voltage_v": "9-36",
     "imu_grade": "Tactical",
     "heading_accuracy_1m_baseline_deg": 0.15,
@@ -1692,70 +1686,333 @@
     "ndaa_compliant": true,
     "blue_uas": true,
     "manufacturer_country": "USA",
-    "price_usd": 250.0,
+    "price_usd": 250,
     "links": [
       "https://arkelectron.com/product/ark-flow/"
     ],
     "ndaa_note": "ARK Electronics, USA. Designed and manufactured USA. NDAA compliant.",
     "interface": "CAN / UART",
-    "weight_g": 5.0,
+    "weight_g": 5,
     "origin": "USA"
   },
   {
-    "pid": "CAT-3202",
-    "name": "YellowScan Mapper+ OEM LiDAR (Sentaero)",
-    "manufacturer": "YellowScan / Censys Technologies",
-    "type": "LiDAR Payload",
-    "echos": 3,
-    "scanner": "Livox Avia",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "pid": "SENS-0030",
+    "category": "sensors",
+    "subcategory": "lidar_mapping",
+    "name": "Draganfly Long Range LiDAR",
+    "manufacturer": "Draganfly (Teledyne sensor + Applanix IMU/GNSS)",
+    "manufacturer_country": "USA/Canada",
+    "description": "Survey-grade 360\u00b0 scanning LiDAR for UAV, helicopter, vehicle, and backpack deployment. Teledyne 40-year aerospace sensor heritage. Applanix (Trimble) IMU+GNSS. 750m range at 50kHz. 2M pts/sec. 4 laser returns for bare-earth under thick vegetation. 0.5cm point cloud precision, 2cm global accuracy. Includes pre-processing software (LAS/LAZ output). LiDAR360 post-processing available. Used for Ukraine demining ops.",
+    "link": "https://draganfly.com/lidar/",
+    "approx_price": "Custom \u2014 contact Draganfly",
+    "ndaa_compliant": null,
+    "blue_uas_ready": true,
+    "country": "USA",
+    "specs": {
+      "range_m": 750,
+      "frequency_khz": 50,
+      "points_per_sec": 2000000,
+      "precision_cm": 0.5,
+      "global_accuracy_cm": 2,
+      "fov_deg": 360,
+      "laser_returns": 4,
+      "sensor_core": "Teledyne (40yr aerospace heritage)",
+      "imu_gnss": "Applanix (Trimble subsidiary)",
+      "output_formats": [
+        "LAS",
+        "LAZ"
+      ],
+      "mounting": [
+        "UAV",
+        "helicopter",
+        "vehicle",
+        "backpack"
+      ],
+      "processing_software": "Draganfly pre-processing + LiDAR360 (optional)"
+    },
+    "weight_g": null,
+    "power_w": null,
+    "interface": "Platform-dependent",
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "North American manufactured. Teledyne sensor used in commercial and military aerospace."
+    },
+    "tags": [
+      "lidar",
+      "survey",
+      "mapping",
+      "military",
+      "demining",
+      "BVLOS",
+      "360-scan",
+      "Teledyne",
+      "Applanix",
+      "Trimble",
+      "bare-earth",
+      "ndaa"
     ],
-    "notes": "OEM version integrated for Sentaero",
-    "source": "https://www.yellowscan-lidar.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "France"
+    "use_cases": [
+      "aerial mapping",
+      "agriculture",
+      "forestry",
+      "construction",
+      "disaster recovery",
+      "military",
+      "demining",
+      "mining",
+      "wind turbine inspection",
+      "underground mapping"
+    ],
+    "origin": "mined \u2014 draganfly.com 2026-04-09",
+    "sources": [
+      {
+        "url": "https://draganfly.com/lidar/",
+        "title": "Draganfly Long Range LiDAR product page",
+        "date": "2025-07-25",
+        "site": "draganfly.com"
+      }
+    ]
   },
   {
-    "pid": "CAT-3203",
-    "name": "PhaseOne ixm100 Mapping Payload (Sentaero)",
-    "manufacturer": "Phase One / Censys Technologies",
-    "type": "Mapping Camera Payload",
-    "lens_options": "35mm, 80mm",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "pid": "SENS-0031",
+    "category": "sensors",
+    "subcategory": "health_monitoring_software",
+    "name": "Draganfly Vital Intelligence",
+    "manufacturer": "Draganfly (acquired 2020)",
+    "manufacturer_country": "USA/Canada",
+    "description": "Software platform turning any RGB camera into a contactless biometric monitoring system. Extracts heart rate, respiratory rate, oxygen saturation (SpO2), and body temperature from standard video feed \u2014 no specialized hardware. API available for telehealth integrations. Deployable on drones, robots, kiosks, handheld devices, and edge computing platforms. Anonymized data option. Dashboard for real-time display. Deployed in corporate offices, correctional facilities, schools, restaurants, sheriff's offices across North America. COVID-era origin (symptom screening at scale).",
+    "link": "https://draganfly.com/vital-intelligence/",
+    "approx_price": "API subscription \u2014 contact Draganfly",
+    "ndaa_compliant": null,
+    "blue_uas_ready": true,
+    "country": "USA",
+    "specs": {
+      "modality": "RGB video (standard camera \u2014 no thermal required)",
+      "vitals_measured": [
+        "heart rate",
+        "respiratory rate",
+        "SpO2",
+        "body temperature"
+      ],
+      "deployment": [
+        "drone",
+        "robot",
+        "kiosk",
+        "handheld",
+        "edge compute"
+      ],
+      "data_options": [
+        "anonymized",
+        "full profile",
+        "selective fields"
+      ],
+      "api_available": true,
+      "integration_time": "~1 week",
+      "white_label": true,
+      "chief_scientist": "Prof. Javaan Chahl, Univ. of South Australia / Defense Science and Technology Chair"
+    },
+    "weight_g": null,
+    "power_w": null,
+    "interface": "RGB camera input / API",
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Software product. North American developed. No personal data registered."
+    },
+    "tags": [
+      "health monitoring",
+      "biometrics",
+      "contactless",
+      "thermal-free",
+      "public safety",
+      "correctional",
+      "RGB",
+      "API",
+      "telehealth",
+      "edge compute"
     ],
-    "source": "https://www.phaseone.com/industrial",
-    "ndaa_compliant": true,
-    "manufacturer_country": "Denmark"
+    "use_cases": [
+      "event venues",
+      "schools",
+      "correctional facilities",
+      "corporate offices",
+      "public safety",
+      "telehealth",
+      "drone-based health screening"
+    ],
+    "origin": "mined \u2014 draganfly.com 2026-04-09",
+    "sources": [
+      {
+        "url": "https://draganfly.com/vital-intelligence/",
+        "title": "Vital Intelligence product page",
+        "date": "2025-02-18",
+        "site": "draganfly.com"
+      },
+      {
+        "url": "https://draganfly.com/news/draganfly-announces-the-vital-intelligence-api-for-telehealth-applications/",
+        "title": "Vital Intelligence API announcement",
+        "date": "2022-06-29",
+        "site": "draganfly.com"
+      }
+    ]
   },
   {
-    "pid": "CAT-3204",
-    "name": "Sony a7RIV Geotagging Mapping Payload (Sentaero)",
-    "manufacturer": "Sony / Censys Technologies",
-    "type": "Mapping Camera Payload",
-    "lenses": "55mm (1cm GSD @ 400ft AGL), 28mm (2cm GSD)",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "pid": "SENS-0032",
+    "name": "Gremsy T3V3 Gimbal",
+    "manufacturer": "Gremsy",
+    "category": "sensors",
+    "subcategory": "gimbal",
+    "country_of_origin": "vietnam",
+    "axes": 3,
+    "protocol": [
+      "MAVLink",
+      "SBUS"
     ],
-    "source": "https://www.sony.com/en/articles/alpha-7r-iv",
-    "ndaa_compliant": true,
-    "manufacturer_country": "Japan"
+    "price_usd": 1749,
+    "description": "3-axis MAVLink-compatible gimbal stabilizer for small-medium UAS payloads.",
+    "source": "Frontier Precision / Gremsy dealer price list 2022",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
-    "pid": "CAT-3205",
-    "name": "Sony a6400 Geotagging Mapping Payload (Sentaero)",
-    "manufacturer": "Sony / Censys Technologies",
-    "type": "Mapping Camera Payload",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "pid": "SENS-0033",
+    "name": "Gremsy T7 Gimbal",
+    "manufacturer": "Gremsy",
+    "category": "sensors",
+    "subcategory": "gimbal",
+    "country_of_origin": "vietnam",
+    "axes": 3,
+    "protocol": [
+      "MAVLink",
+      "SBUS"
     ],
-    "source": "https://www.sony.com/en/articles/alpha-a6400",
+    "price_usd": 2349,
+    "description": "3-axis MAVLink-compatible gimbal stabilizer for heavier UAS payloads.",
+    "source": "Frontier Precision / Gremsy dealer price list 2022",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "pid": "SENS-0034",
+    "name": "Gremsy Pixy U Gimbal",
+    "manufacturer": "Gremsy",
+    "category": "sensors",
+    "subcategory": "gimbal",
+    "country_of_origin": "vietnam",
+    "axes": 3,
+    "protocol": [
+      "MAVLink",
+      "SBUS"
+    ],
+    "price_usd": 1579,
+    "description": "3-axis gimbal stabilizer for compact UAS.",
+    "source": "Frontier Precision / Gremsy dealer price list 2022",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "pid": "SENS-0035",
+    "name": "Gremsy Pixy WP Gimbal",
+    "manufacturer": "Gremsy",
+    "category": "sensors",
+    "subcategory": "gimbal",
+    "country_of_origin": "vietnam",
+    "axes": 3,
+    "protocol": [
+      "MAVLink",
+      "SBUS"
+    ],
+    "price_usd": 1895,
+    "description": "3-axis weatherproof gimbal stabilizer for outdoor/harsh-environment UAS operations.",
+    "source": "Frontier Precision / Gremsy dealer price list 2022",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "pid": "SENS-0036",
+    "name": "GVI LiAir X3 LiDAR Mapping System",
+    "manufacturer": "GVI (Green Valley International)",
+    "category": "sensors",
+    "subcategory": "lidar",
+    "country_of_origin": "china",
+    "point_rate_kpts_s": 240,
+    "camera_mp": 26,
+    "imu_integrated": true,
+    "gnss_integrated": true,
+    "weight_kg": 1.25,
+    "compatible_platforms": [
+      "DJI M300 RTK"
+    ],
+    "description": "Integrated LiDAR + INS + 26MP camera for UAS mapping. 240k pts/s, AirPilot L3 autonomous flight, powerline inspection. Compatible with DJI M300 RTK.",
+    "source": "Frontier Precision / GVI LiAir X3 datasheet 2022",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "pid": "SENS-0037",
+    "category": "sensors",
+    "name": "American Robotics Kestrel \u2014 Airspace Management & C-UAS Software",
+    "manufacturer": "American Robotics (Ondas Holdings ONDS)",
+    "description": "Kestrel is American Robotics' integrated airspace management and counter-UAS software solution. Combines passive airspace awareness (SenHive \u2014 ADS-B, AIS, Flarm, Remote ID, Mode-S), short-range radar (Echodyne EchoGuard micro-Doppler FMCW \u2014 detects aircraft, ships, ground vehicles), and operational platform integration (ANRA SIOP \u2014 NOTAMs, Blue Force tracking, first responder detection, flight planning, deconfliction). Integrated with the Optimus-1EX to enable FAA BVLOS approval over people and moving vehicles without visual observers. Also provides C-UAS alerting and airspace awareness for Drone-as-First-Responder (DFR) programs.",
+    "link": "https://www.american-robotics.com/",
+    "approx_price": "Included with Optimus System",
+    "subcategory": "airspace_management_cuas_software",
+    "specs": {
+      "detection_stack": [
+        "SenHive_ADS-B_AIS_Flarm_RemoteID_ModeS",
+        "Echodyne_EchoGuard_FMCW_radar",
+        "ANRA_SIOP_operational_picture"
+      ],
+      "capabilities": [
+        "passive_airspace_awareness",
+        "active_radar_detection",
+        "NOTAM_integration",
+        "Blue_Force_tracking",
+        "flight_planning",
+        "deconfliction",
+        "C-UAS_alerting"
+      ],
+      "bvlos_enabling": true,
+      "visual_observer_required": false,
+      "use_with": [
+        "Optimus-1EX (MDL-2177)",
+        "Scout System (MDL-2173)"
+      ]
+    },
+    "weight_g": 0,
+    "power_w": null,
+    "interface": "Software / API",
+    "country": "USA",
+    "compliance": [
+      "ndaa",
+      "bvlos_enabling",
+      "faa_approved"
+    ],
+    "tags": [
+      "airspace_management",
+      "BVLOS",
+      "ADS-B",
+      "RemoteID",
+      "radar",
+      "NOTAM",
+      "Blue_Force",
+      "deconfliction",
+      "C-UAS",
+      "DFR",
+      "american_robotics",
+      "ondas",
+      "USA"
+    ],
+    "schema_data": {
+      "weight_g": 0
+    },
+    "manufacturer_country": "USA",
+    "price_usd": null,
+    "links": [
+      "https://www.american-robotics.com/"
+    ],
     "ndaa_compliant": true,
-    "manufacturer_country": "Japan"
+    "ndaa_note": "American Robotics, Sparks, MD. US-developed software. NDAA compliant.",
+    "parent_company": "Ondas Holdings (NASDAQ: ONDS)",
+    "origin": "USA"
   }
 ]
