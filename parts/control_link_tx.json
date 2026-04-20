@@ -6,7 +6,7 @@
     "manufacturer": "\u0427\u0414\u0411",
     "country": "Ukraine",
     "approx_price_usd": 82.93,
-    "approx_price_uah": 3400.0,
+    "approx_price_uah": 3400,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -27,7 +27,7 @@
     ],
     "approx_price": 82.93,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 82.93,
@@ -42,7 +42,7 @@
     "manufacturer": "\u0427\u0414\u0411",
     "country": "Ukraine",
     "approx_price_usd": 60.98,
-    "approx_price_uah": 2500.0,
+    "approx_price_uah": 2500,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -63,7 +63,7 @@
     ],
     "approx_price": 60.98,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.98,
@@ -78,7 +78,7 @@
     "manufacturer": "\u0427\u0414\u0411",
     "country": "Ukraine",
     "approx_price_usd": 60.98,
-    "approx_price_uah": 2500.0,
+    "approx_price_uah": 2500,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -99,7 +99,7 @@
     ],
     "approx_price": 60.98,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 60.98,
@@ -114,7 +114,7 @@
     "manufacturer": "\u0427\u0414\u0411",
     "country": "Ukraine",
     "approx_price_usd": 82.93,
-    "approx_price_uah": 3400.0,
+    "approx_price_uah": 3400,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -135,7 +135,7 @@
     ],
     "approx_price": 82.93,
     "description": "Radio transmitter by \u0427\u0414\u0411. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 82.93,
@@ -150,7 +150,7 @@
     "manufacturer": "COALAS systems",
     "country": "Ukraine",
     "approx_price_usd": 282.93,
-    "approx_price_uah": 11600.0,
+    "approx_price_uah": 11600,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -171,7 +171,7 @@
     ],
     "approx_price": 282.93,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 282.93,
@@ -186,7 +186,7 @@
     "manufacturer": "COALAS systems",
     "country": "Ukraine",
     "approx_price_usd": 168.29,
-    "approx_price_uah": 6900.0,
+    "approx_price_uah": 6900,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -207,7 +207,7 @@
     ],
     "approx_price": 168.29,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 168.29,
@@ -222,7 +222,7 @@
     "manufacturer": "COALAS systems",
     "country": "Ukraine",
     "approx_price_usd": 287.8,
-    "approx_price_uah": 11800.0,
+    "approx_price_uah": 11800,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -243,7 +243,7 @@
     ],
     "approx_price": 287.8,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 287.8,
@@ -257,8 +257,8 @@
     "name": "X62.TX",
     "manufacturer": "COALAS systems",
     "country": "Ukraine",
-    "approx_price_usd": 240.0,
-    "approx_price_uah": 9840.0,
+    "approx_price_usd": 240,
+    "approx_price_uah": 9840,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -277,12 +277,12 @@
       "ew-resistant",
       "ndaa"
     ],
-    "approx_price": 240.0,
+    "approx_price": 240,
     "description": "Radio transmitter by COALAS systems. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
-    "price_usd": 240.0,
+    "price_usd": 240,
     "interface": "RF Proprietary",
     "weight_g": 800,
     "origin": "Unknown"
@@ -294,7 +294,7 @@
     "manufacturer": "LEADER Tech",
     "country": "Ukraine",
     "approx_price_usd": 60.95,
-    "approx_price_uah": 2499.0,
+    "approx_price_uah": 2499,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -330,7 +330,7 @@
     "manufacturer": "KODKOD",
     "country": "Ukraine",
     "approx_price_usd": 73.17,
-    "approx_price_uah": 3000.0,
+    "approx_price_uah": 3000,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -351,7 +351,7 @@
     ],
     "approx_price": 73.17,
     "description": "Radio transmitter by KODKOD. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 73.17,
@@ -366,7 +366,7 @@
     "manufacturer": "Radion",
     "country": "Ukraine",
     "approx_price_usd": 153.66,
-    "approx_price_uah": 6300.0,
+    "approx_price_uah": 6300,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -387,7 +387,7 @@
     ],
     "approx_price": 153.66,
     "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 153.66,
@@ -401,8 +401,8 @@
     "name": "MaxLink TX Dual Band 2W",
     "manufacturer": "Radion",
     "country": "Ukraine",
-    "approx_price_usd": 200.0,
-    "approx_price_uah": 8200.0,
+    "approx_price_usd": 200,
+    "approx_price_uah": 8200,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -421,48 +421,12 @@
       "ew-resistant",
       "ndaa"
     ],
-    "approx_price": 200.0,
+    "approx_price": 200,
     "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
-    "price_usd": 200.0,
-    "interface": "RF Proprietary",
-    "weight_g": 800,
-    "origin": "Unknown"
-  },
-  {
-    "pid": "TX-UA-Radion-MaxLink-TX-D",
-    "category": "control_link_tx",
-    "name": "MaxLink TX Dual Band 25",
-    "manufacturer": "Radion",
-    "country": "Ukraine",
-    "approx_price_usd": 487.8,
-    "approx_price_uah": 20000.0,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian control link TX. Non-standard frequency operation."
-    },
-    "tags": [
-      "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
-      "control_link",
-      "elrs",
-      "sub_ghz",
-      "ew-resistant",
-      "ndaa"
-    ],
-    "approx_price": 487.8,
-    "description": "Radio transmitter by Radion. protocol. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 487.8,
+    "price_usd": 200,
     "interface": "RF Proprietary",
     "weight_g": 800,
     "origin": "Unknown"
@@ -474,7 +438,7 @@
     "manufacturer": "Aeronetix",
     "country": "Ukraine",
     "approx_price_usd": 243.9,
-    "approx_price_uah": 10000.0,
+    "approx_price_uah": 10000,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -510,7 +474,7 @@
     "manufacturer": "Ariadna",
     "country": "Ukraine",
     "approx_price_usd": 255.07,
-    "approx_price_uah": 10458.0,
+    "approx_price_uah": 10458,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -531,7 +495,7 @@
     ],
     "approx_price": 255.07,
     "description": "Radio transmitter by Ariadna. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 255.07,
@@ -875,57 +839,6 @@
     "approx_price": 101,
     "schema_data": {
       "weight_g": 346
-    },
-    "description": "Radio transmitter by AERONETIX. protocol. band.",
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 101,
-    "interface": "RF Proprietary",
-    "weight_g": 800,
-    "origin": "Ukraine"
-  },
-  {
-    "pid": "TX-MAFIA-AERONETI-lr1121_5w_",
-    "category": "control_link_tx",
-    "name": "AERONETIX LR1121 5W 450-750 V1 TX",
-    "manufacturer": "AERONETIX",
-    "country": "Ukraine",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "450 MHz (non-standard)",
-    "freq_band_raw": "dual",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_LR1121_TX",
-    "lua_name": "LR1121 5W 450-750 V1 TX",
-    "layout_file": "Aeronetix LR1121 5W 450-750 V1.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.4.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture. MafiaLRS combat-adapted firmware."
-    },
-    "tags": [
-      "dual_band",
-      "ukraine",
-      "mafi\u0430\u043brs_compatible",
-      "combat-proven",
-      "wideband_150_2100mhz",
-      "elrs",
-      "non-chinese",
-      "ew-resistant",
-      "non_standard_freq",
-      "lr1121",
-      "ndaa"
-    ],
-    "approx_price": 101,
-    "schema_data": {
-      "weight_g": 350
     },
     "description": "Radio transmitter by AERONETIX. protocol. band.",
     "ndaa_compliant": true,
@@ -1451,96 +1364,6 @@
     "origin": "China"
   },
   {
-    "pid": "TX-MAFIA-BETAFPV-micro400v1",
-    "category": "control_link_tx",
-    "name": "BETAFPV 400MHz Micro TX V1.1 370-440MHz",
-    "manufacturer": "BETAFPV",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "400 MHz (non-standard)",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "TX 400 v1.1 370",
-    "layout_file": "BETAFPV 400 Micro V1.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.4.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": false,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Non-standard frequency operation for EW evasion."
-    },
-    "tags": [
-      "elrs",
-      "non_standard_freq",
-      "mafi\u0430\u043brs_compatible",
-      "ew-resistant",
-      "non-ndaa"
-    ],
-    "approx_price": 96,
-    "schema_data": {
-      "weight_g": 342
-    },
-    "description": "Radio transmitter by BETAFPV. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 96,
-    "interface": "RF Proprietary",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-BETAFPV-micro400v1",
-    "category": "control_link_tx",
-    "name": "BETAFPV 400MHz Micro TX V1.1 440-560MHz",
-    "manufacturer": "BETAFPV",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "560 MHz (non-standard)",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "TX 400 v1.1 440",
-    "layout_file": "BETAFPV 400 Micro V1.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.4.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": false,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Non-standard frequency operation for EW evasion."
-    },
-    "tags": [
-      "elrs",
-      "non_standard_freq",
-      "mafi\u0430\u043brs_compatible",
-      "ew-resistant",
-      "non-ndaa"
-    ],
-    "approx_price": 96,
-    "schema_data": {
-      "weight_g": 357
-    },
-    "description": "Radio transmitter by BETAFPV. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 96,
-    "interface": "RF Proprietary",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
     "pid": "TX-MAFIA-BETAFPV-nano2g4",
     "category": "control_link_tx",
     "name": "BETAFPV 2.4GHz Nano TX",
@@ -1573,49 +1396,6 @@
     "approx_price": 95,
     "schema_data": {
       "weight_g": 340
-    },
-    "description": "Radio transmitter by BETAFPV. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 95,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-BETAFPV-nanov2",
-    "category": "control_link_tx",
-    "name": "BETAFPV 2.4GHz Nano TX V2",
-    "manufacturer": "BETAFPV",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "BETAFPV 2G4Nano",
-    "layout_file": "BETAFPV 2400 Nano V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": false,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "non-ndaa"
-    ],
-    "approx_price": 95,
-    "schema_data": {
-      "weight_g": 356
     },
     "description": "Radio transmitter by BETAFPV. protocol. band.",
     "ndaa_compliant": false,
@@ -2359,92 +2139,6 @@
     "origin": "China"
   },
   {
-    "pid": "TX-MAFIA-EMAX-plain",
-    "category": "control_link_tx",
-    "name": "EMAX OLED 2.4GHz TX",
-    "manufacturer": "EMAX",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "EMAX 2400TX",
-    "layout_file": "EMAX 2400 OLED.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.0.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 97,
-    "schema_data": {
-      "weight_g": 351
-    },
-    "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 97,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-EMAX-nano",
-    "category": "control_link_tx",
-    "name": "EMAX Nano 2.4GHz TX",
-    "manufacturer": "EMAX",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "EMAX NANO 2G4TX",
-    "layout_file": "EMAX 2400 Nano.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.0.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 100,
-    "schema_data": {
-      "weight_g": 342
-    },
-    "description": "Radio transmitter by EMAX. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 100,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
     "pid": "TX-MAFIA-FOXEER-tx790",
     "category": "control_link_tx",
     "name": "FOXEER OLED 790MHz TX",
@@ -2702,96 +2396,6 @@
     "manufacturer_country": "International",
     "price_usd": 95,
     "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "Unknown"
-  },
-  {
-    "pid": "TX-MAFIA-GENERIC-gemini",
-    "category": "control_link_tx",
-    "name": "Generic ESP32 2.4Ghz Gemini TX",
-    "manufacturer": "Generic targets used as a base",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "Gemini 2.4TX",
-    "layout_file": "Generic 2400 Gemini.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.2.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 95,
-    "schema_data": {
-      "weight_g": 359
-    },
-    "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 95,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "Unknown"
-  },
-  {
-    "pid": "TX-MAFIA-GENERIC-gemini",
-    "category": "control_link_tx",
-    "name": "Gemini XrossBand 2.4/900 TX",
-    "manufacturer": "Generic targets used as a base",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "Dual Band (900/2400)",
-    "freq_band_raw": "dual",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_LR1121_TX",
-    "lua_name": "GemX TX",
-    "layout_file": "Generic LR1121 Gemini.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.4.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "dual_band",
-      "mafi\u0430\u043brs_compatible",
-      "wideband_150_2100mhz",
-      "elrs",
-      "lr1121",
-      "ndaa"
-    ],
-    "approx_price": 95,
-    "schema_data": {
-      "weight_g": 352
-    },
-    "description": "Radio transmitter by Generic targets used as a base. protocol. band.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 95,
-    "interface": "RF 900MHz",
     "weight_g": 800,
     "origin": "Unknown"
   },
@@ -3548,92 +3152,6 @@
     "origin": "China"
   },
   {
-    "pid": "TX-MAFIA-IFLIGHT-plain",
-    "category": "control_link_tx",
-    "name": "iFlight 2.4GHz TX",
-    "manufacturer": "iFlight",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "iFlight 2400TX",
-    "layout_file": "iFlight 2400.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.0.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": false,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "non-ndaa"
-    ],
-    "approx_price": 104,
-    "schema_data": {
-      "weight_g": 342
-    },
-    "description": "Radio transmitter by iFlight. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 104,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-IFLIGHT-v2",
-    "category": "control_link_tx",
-    "name": "iFlight 2.4GHz TX V2",
-    "manufacturer": "iFlight",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "2.4 GHz",
-    "freq_band_raw": "2400",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_2400_TX",
-    "lua_name": "iFlight 2400TX",
-    "layout_file": "iFlight 2400 V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": false,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "non-ndaa"
-    ],
-    "approx_price": 97,
-    "schema_data": {
-      "weight_g": 353
-    },
-    "description": "Radio transmitter by iFlight. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 97,
-    "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
     "pid": "TX-MAFIA-IMRC-ghost",
     "category": "control_link_tx",
     "name": "Ghost 2.4GHz TX",
@@ -4199,270 +3717,6 @@
     "manufacturer_country": "International",
     "price_usd": 78,
     "interface": "RF 2.4GHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-20",
-    "category": "control_link_tx",
-    "name": "Jumper AION T-20 900M TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-20 900 TX",
-    "layout_file": "Jumper T-20 900.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 77,
-    "schema_data": {
-      "weight_g": 351
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 77,
-    "interface": "RF 900MHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-20-v2",
-    "category": "control_link_tx",
-    "name": "Jumper AION T-20 900M V2 TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-20 900 V2 TX",
-    "layout_file": "Jumper T-20 900 V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 79,
-    "schema_data": {
-      "weight_g": 357
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 79,
-    "interface": "RF 900MHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-15",
-    "category": "control_link_tx",
-    "name": "Jumper AION T-15 900M TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-15 900 TX",
-    "layout_file": "Jumper T-20 900 V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 76,
-    "schema_data": {
-      "weight_g": 357
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 76,
-    "interface": "RF 900MHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-pros",
-    "category": "control_link_tx",
-    "name": "Jumper T-ProS 900M TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-ProS 900 TX",
-    "layout_file": "Jumper T-20 900 V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 78,
-    "schema_data": {
-      "weight_g": 358
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 78,
-    "interface": "RF 900MHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-14",
-    "category": "control_link_tx",
-    "name": "Jumper AION T-14 900M TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-14 900 TX",
-    "layout_file": "Jumper T-20 900 V2.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 84,
-    "schema_data": {
-      "weight_g": 344
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 84,
-    "interface": "RF 900MHz",
-    "weight_g": 800,
-    "origin": "China"
-  },
-  {
-    "pid": "TX-MAFIA-JUMPER-t-pro",
-    "category": "control_link_tx",
-    "name": "Jumper T-Pro 900M TX",
-    "manufacturer": "Jumper",
-    "country": "International",
-    "protocol": "MafiaLRS / ELRS",
-    "frequency": "868/915 MHz",
-    "freq_band_raw": "900",
-    "platform": "esp32",
-    "firmware": "Unified_ESP32_900_TX",
-    "lua_name": "T-Pro 900 TX",
-    "layout_file": "Jumper T-20 900.json",
-    "upload_methods": [
-      "uart",
-      "wifi",
-      "etx"
-    ],
-    "min_fw_version": "3.3.0",
-    "source": "BUSHA/targets@mafia-targets (vtx.in.ua)",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": false,
-      "note": "MafiaLRS compatible target."
-    },
-    "tags": [
-      "elrs",
-      "mafi\u0430\u043brs_compatible",
-      "ndaa"
-    ],
-    "approx_price": 79,
-    "schema_data": {
-      "weight_g": 357
-    },
-    "description": "Radio transmitter by Jumper. protocol. band.",
-    "ndaa_compliant": false,
-    "blue_uas": false,
-    "manufacturer_country": "International",
-    "price_usd": 79,
-    "interface": "RF 900MHz",
     "weight_g": 800,
     "origin": "China"
   },
@@ -5594,7 +4848,7 @@
       "weight_g": 349
     },
     "description": "Radio transmitter by Vantac. protocol. band.",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "International",
     "price_usd": 99,
@@ -5642,7 +4896,7 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by FPV Mafia targets. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 98,
@@ -5690,7 +4944,7 @@
       "weight_g": 348
     },
     "description": "Radio transmitter by FPV Mafia targets. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 96,
@@ -5738,7 +4992,7 @@
       "weight_g": 341
     },
     "description": "Radio transmitter by Edifier. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 97,
@@ -5786,7 +5040,7 @@
       "weight_g": 340
     },
     "description": "Radio transmitter by BelinRC. protocol. band.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 102,
@@ -5979,5 +5233,261 @@
     "interface": "AFHDS 2A",
     "weight_g": 800,
     "origin": "China"
+  },
+  {
+    "name": "RadioMaster Boxer MAX Radio Transmitter - ELRS 2.4GHz M2",
+    "manufacturer": "RadioMaster",
+    "description": "The RadioMaster Boxer Max improves an already stellar radio with extra features like AG01 hall gimbals pre-installed, quality CNC buttons, and comfortable leather grips for excellent ergonomics.",
+    "link": "https://www.getfpv.com/radiomaster-boxer-max-radio-transmitter-elrs-2-4ghz-m2.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "21174",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1000",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RadioMaster Boxer Radio Transmitter - 4-in-1 Multi-Protocol/CC2500/ELRS 2.4GHz",
+    "manufacturer": "RadioMaster",
+    "description": "The RadioMaster Boxer Radio Transmitter is compact, ergonomic, and powerful. Available in 4-in-1 Multi-Protocol, CC2500, or ELRS 2.4GHz options.",
+    "link": "https://www.getfpv.com/radiomaster-boxer-radio-transmitter-4-in-1-multi-protocol-cc2500-elrs-2-ghz.html",
+    "image_file": "",
+    "approx_price": 337.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "19966",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1001",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RadioMaster Zorro Max Lumenier Edition Radio Controller - 4-in-1 Multi-Protocol/ELRS 2.GHz",
+    "manufacturer": "RadioMaster",
+    "description": "Lumenier has officially teamed up with RadioMaster to bring you the Lumenier Edition Zorro Max Radio Controller. Available in ELRS or 4-in-1 Multi-Protocol options.",
+    "link": "https://www.getfpv.com/radiomaster-zorro-max-lumenier-edition-radio-controller-4-in-1-multi-protocol-elrs-2-ghz.html",
+    "image_file": "",
+    "approx_price": 129.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "19916",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1002",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "TBS Tango 2 PRO FPV RC Radio Controller",
+    "manufacturer": "TBS",
+    "description": "The TBS Tango 2 PRO comes with full-size\u00a0folding HAL sensor gimbals, full-featured FreedomTX (temporary OpenTX fork), the lowest end-to-end latency of any remote and transmission system, and more!",
+    "link": "https://www.getfpv.com/tbs-tango-2-pro-fpv-rc-radio-controller.html",
+    "image_file": "",
+    "approx_price": 258.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "12026",
+      "UPC (GTIN)": "032733838803",
+      "Manufacturer": "Team BlackSheep",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "868/915Mhz",
+      "Radio Controller Style": "Gamepad",
+      "Radio Protocol": "Crossfire"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1003",
+    "source": "getfpv.com",
+    "origin": "Germany",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "RadioMaster AX12 Android Radio Controller - ELRS 2.4GHz",
+    "manufacturer": "RadioMaster",
+    "description": "Where Precision Meets Possibility - RadioMaster AX12 Android Radio Controller.",
+    "link": "https://www.getfpv.com/radiomaster-ax12-radio-controller-elrs-2-4ghz.html",
+    "image_file": "",
+    "approx_price": 389.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24325CN1Z",
+      "UPC (GTIN)": "723326373817",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1004",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RadioMaster TX16S MK3 MAX Radio Controller - ELRS Dual-Band",
+    "manufacturer": "RadioMaster",
+    "description": "The RadioMaster TX16S MK3 MAX Radio Controller builds on the globally trusted TX16S legacy, continuing its commitment to open-source RC innovation.",
+    "link": "https://www.getfpv.com/radiomaster-tx16s-mk3-max-radio-controller-elrs-dual-band.html",
+    "image_file": "",
+    "approx_price": 299.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24216CN1Z",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "900MHz/2.4GHz",
+      "Radio Protocol": "ExpressLRS"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1005",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RadioMaster TX16S MK3 Radio Controller - ELRS Dual-Band",
+    "manufacturer": "RadioMaster",
+    "description": "RadioMaster TX16S MK3 Radio Controller - ELRS Dual-Band continues to lead open-source RC innovation, building on the trusted global legacy of the TX16S series.",
+    "link": "https://www.getfpv.com/radiomaster-tx16s-mk3-radio-controller-elrs-dual-band.html",
+    "image_file": "",
+    "approx_price": 310.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24203CN1Z",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "900MHz/2.4GHz",
+      "Radio Controller Style": "Full-Size",
+      "Radio Protocol": "ExpressLRS"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1006",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "CubePilot Herelink Blue Controller V1.1",
+    "manufacturer": "CubePilot",
+    "description": "The Herelink Blue Controller V1.1 is an all-in-one remote control and ground station designed for long-range drone operation, combining RC control, HD video, and telemetry into a single portable unit.",
+    "link": "https://www.getfpv.com/cubepilot-herelink-blue-controller-v1-1.html",
+    "image_file": "",
+    "approx_price": 229.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24169US1Z",
+      "UPC (GTIN)": "723326378973",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1007",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "name": "RadioMaster TX16S MKII MAX PRO Radio Transmitter w/ AG01 Gimbals - Lumenier Edition - ELRS 2.4GHz",
+    "manufacturer": "RadioMaster",
+    "description": "Lumenier has officially teamed up with RadioMaster to bring you the Lumenier Edition TX16S MKII MAX PRO Radio Transmitter.",
+    "link": "https://www.getfpv.com/radiomaster-tx16s-mkii-max-pro-radio-transmitter-w-ag01-gimbals-lumenier-edition-elrs-2-4ghz.html",
+    "image_file": "",
+    "approx_price": 2699.0,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "22574",
+      "UPC (GTIN)": "723326369513",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size",
+      "Radio Protocol": "ExpressLRS"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1008",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "CubePilot Herelink Blue Bundle V1.1",
+    "manufacturer": "CubePilot",
+    "description": "The Herelink Blue V1.1 Bundle is an integrated remote controller, ground station, and wireless digital transmission system assembled and supported in the USA by NW Blue LLC.",
+    "link": "https://www.getfpv.com/cubepilot-herelink-blue-bundle-v1-1.html",
+    "image_file": "",
+    "approx_price": 2699.0,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24166US1Z",
+      "UPC (GTIN)": "789270120938",
+      "Manufacturer": "CubePilot",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "System Type": "Digital",
+      "Mounting Pattern": "N/A",
+      "Voltage": "3S",
+      "Tx Frequencies": "2.4GHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1009",
+    "source": "getfpv.com",
+    "origin": "USA",
+    "ndaa_compliant": true
   }
 ]
