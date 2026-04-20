@@ -44,7 +44,7 @@
     },
     "manufacturer_country": "Australia",
     "price_usd": 30000,
-    "weight_g": 7300.0,
+    "weight_g": 7300,
     "links": [
       "https://www.droneshield.com/c-uas-products/dronegun-mk4"
     ],
@@ -140,7 +140,7 @@
     "links": [
       "https://dzyne.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DZYNE Technologies, Irvine CA. US manufacturer. NDAA compliant.",
     "weight_g": 500,
     "origin": "Unknown"
@@ -189,11 +189,11 @@
     ],
     "schema_data": {},
     "manufacturer_country": "Israel",
-    "price_usd": 200.0,
+    "price_usd": 200,
     "links": [
       "https://d-fendsolutions.com/enforceair/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "D-Fend Solutions, Ra'anana, Israel. Allied-nation NDAA compliant.",
     "weight_g": 500,
     "origin": "Unknown"
@@ -237,7 +237,7 @@
     "links": [
       "https://ntservice.lt/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "NT Service, Ukraine. EW/C-UAS developer. Allied-nation NDAA compliant.",
     "weight_g": 85,
     "origin": "Unknown"
@@ -334,7 +334,7 @@
     "price_usd": null,
     "weight_g": 5000,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "EW-0008",
@@ -471,9 +471,9 @@
     "links": [
       "https://www.rtx.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Raytheon Technologies (RTX), Arlington VA. US defense prime (NYSE: RTX). NDAA compliant.",
-    "weight_g": 18.0,
+    "weight_g": 18,
     "price_note": "Contact for pricing",
     "price_usd": null,
     "origin": "Unknown"
