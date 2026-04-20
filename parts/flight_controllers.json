@@ -17,7 +17,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 8,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 34.8,
       "mcu_family": "F4",
       "imu": null,
@@ -723,7 +723,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -888,7 +888,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": "ICM42688",
@@ -950,7 +950,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -1001,7 +1001,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/axisflying-argus-f745-aio-f745-fc-40a-4-6s-am32-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/x/axisflying_f745_40a_aio_flight_controller_-_1.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 4,
     "cell_count_max": 6,
     "esc_current_a": 40,
@@ -1009,11 +1009,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 4,
       "cell_count_max": 6,
-      "voltage_min_v": 12.0,
+      "voltage_min_v": 12,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -1129,11 +1129,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-lux-mini-f7-v2-flight-controller-_thumbnail_1_.jpg",
     "mcu_family": "F7",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -1175,7 +1175,7 @@
     "ndaa_compliant": true,
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5.0,
+    "weight_g": 5,
     "origin": "USA"
   },
   {
@@ -1295,70 +1295,6 @@
     "origin": "USA"
   },
   {
-    "pid": "FC-1027",
-    "category": "flight_controllers",
-    "name": "Flycolor SpeedyPizza CrustCore Stack - F7 FC + 60A 3-6S BLHeli_32 4-in-1 ESC - ICM42688 - 20x20 ",
-    "manufacturer": "FlyColor",
-    "description": "The Flycolor SpeedyPizza CrustCore Stack delivers high-performance flight control and powerful ESC capabilities in a compact 20x20mm form factor. Featuring an F7 flight controller with the ICM42688 gyro, this stack ensures ultra-precise handling and smooth performance.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flycolor-speedypizza-crustcore-stack-f7-fc-60a-3-6s-blheli-32-4-in-1-esc-icm42688-20x20.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/fle153_1.jpg",
-    "mcu_family": "F7",
-    "imu": "ICM42688",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 60,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": "ICM42688",
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 60,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "approx_price": 34,
-    "schema_data": {
-      "weight_g": 15
-    },
-    "price_usd": 34,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flycolor-speedypizza-crustcore-stack-f7-fc-60a-3-6s-blheli-32-4-in-1-esc-icm42688-20x20.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "FlyColor \u2014 Chinese FC manufacturer. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1028",
     "category": "flight_controllers",
     "name": "HDZero Halo H743 Flight Controller - MPU6000 - 20x20",
@@ -1368,11 +1304,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-halo-h743-flight-controller-_mpu6000_-_image-1_1_.jpg",
     "mcu_family": "H7",
     "imu": "MPU6000",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -1427,11 +1363,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero-halo-h743-flight-controller-_icm42688_-_image-1__1.jpg",
     "mcu_family": "H7",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -1497,7 +1433,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 8,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 34.8,
       "mcu_family": "F7",
       "imu": null,
@@ -1562,7 +1498,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "G4",
       "imu": "MPU6000",
@@ -1808,7 +1744,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": "MPU6000",
@@ -1870,7 +1806,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -1993,7 +1929,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -2045,11 +1981,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-lucid-freestyle-f4-flight-controller---icm42688---20x20-_image-1_.jpg",
     "mcu_family": "F4",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -2172,7 +2108,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -2235,7 +2171,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -2299,7 +2235,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -2362,7 +2298,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -2486,7 +2422,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": "MPU6000",
@@ -2549,7 +2485,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 4,
       "cell_count_max": 6,
-      "voltage_min_v": 12.0,
+      "voltage_min_v": 12,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": "MPU6000",
@@ -2611,7 +2547,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -2662,10 +2598,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-h7-mini-flight-controller-hd-analog-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-h7-mini-flight-controller-_hd_analog_---20x20.jpg",
     "mcu_family": "H7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -2937,7 +2873,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -3116,7 +3052,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -3179,7 +3115,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -3221,69 +3157,6 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "USA"
-  },
-  {
-    "pid": "FC-1072",
-    "category": "flight_controllers",
-    "name": "GEPRC F722 AIO - F722 FC+ 35A 2S-6S BLS ESC",
-    "manufacturer": "GEPRC",
-    "description": "The GEPRC F722 AIO is equipped with an F722 FC and 35A 2S-6S BLS ESC. This AIO stack adopts MCU STM32F722, which gives a powerful performance and higher computing speed.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/geprc-f722-aio-f722-fc-35a-2s-6s-bls-esc.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc_f722_aio_1.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 25.5,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 35,
-    "esc_firmware": "BLHeli_S",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 25.5,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 35,
-      "esc_firmware": "BLHeli_S"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "25.5x25.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 43,
-    "schema_data": {
-      "weight_g": 8
-    },
-    "manufacturer_country": "China",
-    "price_usd": 43,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/geprc-f722-aio-f722-fc-35a-2s-6s-bls-esc.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
   },
   {
     "pid": "FC-1073",
@@ -3366,7 +3239,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -3425,7 +3298,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -3502,69 +3375,6 @@
     "origin": "USA"
   },
   {
-    "pid": "FC-1082",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU Pro Mini Stack - F7 FC + 45A 2-6S AM32 4-in-1 ESC - ICM42688 - 20x20",
-    "manufacturer": "Flywoo",
-    "description": "The Flywoo GOKU Pro Mini Stack is a high-performance 20x20mm flight stack featuring an F7 flight controller and a 45A 2-6S AM32 4-in-1 ESC.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-pro-mini-stack-f7-fc-45a-2-6s-am32-4-in-1-esc-icm42688-20x20.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-pro-mini-stack---f7-fc-_-45a-2-6s-am32-4-in-1-esc---icm42688---20x20-_image--1_.jpg",
-    "mcu_family": "F7",
-    "imu": "ICM42688",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 45,
-    "esc_firmware": "AM32",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": "ICM42688",
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 45,
-      "esc_firmware": "AM32"
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "approx_price": 35,
-    "schema_data": {
-      "weight_g": 8
-    },
-    "manufacturer_country": "China",
-    "price_usd": 35,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-pro-mini-stack-f7-fc-45a-2-6s-am32-4-in-1-esc-icm42688-20x20.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1084",
     "category": "flight_controllers",
     "name": "HDZero AIO15 - G4 FC + 15A ESC + ELRS 2.4GHz RX + 200mW VTX",
@@ -3584,8 +3394,8 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 3,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 13.0,
+      "voltage_min_v": 6,
+      "voltage_max_v": 13,
       "mcu_family": "G4",
       "imu": null,
       "_compat_hard": [
@@ -3648,7 +3458,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -3733,11 +3543,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/b/tbs-lucid-freestyle-f4-flight-controller---icm42688---20x20-_image-1__1.jpg",
     "mcu_family": "F4",
     "imu": "MPU6000",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -3781,69 +3591,6 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Germany"
-  },
-  {
-    "pid": "FC-1089",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU Stack - F722 FC (ICM42688) + 55A AM32 2-6S ESC - 30x30",
-    "manufacturer": "Flywoo",
-    "description": "The new GOKU Pro V2 F722 AM32 55A BLS Stack\u00a0from FLYWOO offers a compact size, high-performance main control, and multiple motor outputs.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-f722-fc-icm42688-55a-2-6s-esc-30x30.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-f722-pro-v2-50a-bls-stack-_image-1_.jpg",
-    "mcu_family": "F7",
-    "imu": "ICM42688",
-    "mounting_pattern_mm": 30.5,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 55,
-    "esc_firmware": "AM32",
-    "is_aio": true,
-    "mounting_hole_size": "M3",
-    "compatibility": {
-      "mounting_pattern_mm": 30.5,
-      "mounting_hole_size": "M3",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": "ICM42688",
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 55,
-      "esc_firmware": "AM32"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "30.5x30.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "approx_price": 38,
-    "schema_data": {
-      "weight_g": -1
-    },
-    "manufacturer_country": "China",
-    "price_usd": 38,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-f722-fc-icm42688-55a-2-6s-esc-30x30.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
   },
   {
     "pid": "FC-1091",
@@ -4032,11 +3779,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-f722-pro-v2-mini-flight-controller-_image-1__1.jpg",
     "mcu_family": "F7",
     "imu": "ICM42688",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -4101,7 +3848,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -4141,7 +3888,7 @@
     "ndaa_compliant": false,
     "ndaa_note": "HAKRC \u2014 Chinese FC manufacturer. Non-NDAA.",
     "interface": "CAN / USB",
-    "weight_g": 7.0,
+    "weight_g": 7,
     "origin": "China"
   },
   {
@@ -4165,7 +3912,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -4306,17 +4053,17 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/skystars-f722-mini-hd-pro-3-6s-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars-f722-mini-hd-pro-3-6s-flight-controller---20x20.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -4364,11 +4111,11 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hobbywing-xrotor-f7-convertible-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/hobbywing_xrotor_f7_fc_3.jpeg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -4435,7 +4182,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -4544,11 +4291,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-hex-hd-stack---f4-fc-_-20a-2-4s-6-in-1-blheli_s-esc-w-led---16x16-_image-4__3.jpg",
     "mcu_family": "F4",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 16.0,
+    "mounting_pattern_mm": 16,
     "firmware_targets": "INAV",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 16.0,
+      "mounting_pattern_mm": 16,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -4613,7 +4360,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 8,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 34.8,
       "mcu_family": "G2",
       "imu": null,
@@ -4739,7 +4486,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -4963,7 +4710,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hdzero-gamma-aio-g473-fc-45a-am32-esc-elrs-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/d/hdzero_gamma_aio-2.jpg",
     "mcu_family": "G4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "esc_current_a": 45,
@@ -4971,11 +4718,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -5211,11 +4958,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-borg-5s-rx-flight-controller---20x20-_image-1_.jpg",
     "mcu_family": "F4",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -5381,70 +5128,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1124",
-    "category": "flight_controllers",
-    "name": "Axisflying Argus Pro Plug-n-Play Stack - F7 FC + 65A 3-6S BLHeli_32 ESC w/ Heatsink - 30x30",
-    "manufacturer": "Axisflying",
-    "description": "The Axisflying Argus Pro series combines durability and performance with an aluminum-wrapped, IP54-rated design to protect its PCB from dust and water.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/axisflying-argus-pro-plug-n-play-stack-f7-fc-65a-3-6s-blheli-32-esc-w-heatsink-30x30.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/x/axisflying-argus-pro-plug-n-play-stack---f7-fc-_-65a-3-6s-blheli_32-esc-w-heatsink-_image-1_.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 30.5,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 65,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M3",
-    "compatibility": {
-      "mounting_pattern_mm": 30.5,
-      "mounting_hole_size": "M3",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 65,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "30.5x30.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 32,
-    "schema_data": {
-      "weight_g": 13
-    },
-    "price_usd": 32,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/axisflying-argus-pro-plug-n-play-stack-f7-fc-65a-3-6s-blheli-32-esc-w-heatsink-30x30.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "Axisflying \u2014 Chinese FC/stack manufacturer (Shenzhen). Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1125",
     "category": "flight_controllers",
     "name": "SpeedyBee AIO - F4 FC + 40A 3-6S 4-in-1 Bluejay ESC - 25x25",
@@ -5465,7 +5148,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -5758,7 +5441,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -5880,7 +5563,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -5991,11 +5674,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/i/f/iflight-blitz-f745-mini-flight-controller-_image-2__1.jpg",
     "mcu_family": "F7",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV/Ardupilot",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -6060,7 +5743,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -6289,11 +5972,11 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-specter-f722-mini-hd-flight-controller---mpu6000.jpg",
     "mcu_family": "F7",
     "imu": "MPU6000",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -6358,7 +6041,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -6579,69 +6262,6 @@
     "ndaa_compliant": true
   },
   {
-    "pid": "FC-1164",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU Stack - GN405S FC (ICM42688) 20A ESC AIO + HM850 850MW Microphone VTX",
-    "manufacturer": "Flywoo",
-    "description": "The Flywoo Goku Stack is a high-performance, all-in-one solution for your FPV drone.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-stack---gn405s-fc-_icm42688_-20a-esc-aio-_-hm850-850mw-microphone-vtx.jpg",
-    "mcu_family": "F4",
-    "imu": "ICM42688",
-    "mounting_pattern_mm": 25.5,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 20,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 25.5,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F4",
-      "imu": "ICM42688",
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 20,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f4",
-      "25.5x25.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "approx_price": 34,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "manufacturer_country": "China",
-    "price_usd": 34,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 4,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1165",
     "category": "flight_controllers",
     "name": "SpeedyBee F405 V4 Flight Controller - 30x30",
@@ -6836,7 +6456,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -6957,7 +6577,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -7021,7 +6641,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7085,7 +6705,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7149,7 +6769,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7252,7 +6872,7 @@
     ],
     "ndaa_compliant": false,
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 250.0,
+    "weight_g": 250,
     "origin": "China"
   },
   {
@@ -7315,7 +6935,7 @@
     ],
     "ndaa_compliant": false,
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 250.0,
+    "weight_g": 250,
     "origin": "China"
   },
   {
@@ -7339,7 +6959,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -7577,7 +7197,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7752,7 +7372,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -7815,7 +7435,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7866,7 +7486,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hakrc-f7220-aio-f722-fc-40a-blheli-32-2-6s-esc-5v-3a-10v-2-5a-bec.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/a/hakrc_f7220_aio_-_f722_fc_40a_blheli_32_2-6s_esc_5v_3a_10v_2.5a_bec_1.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 2,
     "cell_count_max": 6,
     "esc_current_a": 40,
@@ -7874,11 +7494,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -7930,10 +7550,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/zeez-f7-2020-v3-flight-controller-mini-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/e/zeez-f7-2020-v3-flight-controller---mini-20x20-_1000_-_4_.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -7977,7 +7597,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1192",
@@ -8101,10 +7721,10 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_mk4_f405_mini_flight_controller_icm42688p_.jpg",
     "mcu_family": "F4",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -8159,10 +7779,10 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_mk4_f722_mini_flight_controller_icm42688p_.jpg",
     "mcu_family": "F7",
     "imu": "ICM42688P",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -8216,17 +7836,17 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/skystars-f405-mini-hd-2-dji-3-6s-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/k/skystars-f405-mini-hd-2-dji-3-6s-flight-controller---20x20_1.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "firmware_targets": "Betaflight/INAV",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -8286,7 +7906,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -8350,7 +7970,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": "MPU6000",
@@ -8413,7 +8033,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": "MPU6000",
@@ -8463,10 +8083,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/foxeer-f722-v4-pro-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer_f722_v4_pro_flight_controller7.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -8567,7 +8187,7 @@
     ],
     "ndaa_compliant": false,
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 10.0,
+    "weight_g": 10,
     "origin": "China"
   },
   {
@@ -8821,7 +8441,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -9021,10 +8641,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/foxeer-mini-f722-v3-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/o/foxeer-mini-f722-v3-flight-controller---20x20-_3_.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9092,7 +8712,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": "BMI270",
@@ -9210,7 +8830,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -9247,7 +8867,7 @@
     "interface": "USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1222",
@@ -9305,7 +8925,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1225",
@@ -9328,7 +8948,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -9552,12 +9172,12 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fettec-g4-n-v1-7-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/e/fettec-g4-n--v17-flight-controller.jpg",
     "mcu_family": "G4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "esc_firmware": "FETtec",
     "firmware_targets": "FETtec Alpha",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9674,13 +9294,13 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fettec-g4-35a-aio-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/e/fettec-35a-aio-fc_5_.jpg",
     "mcu_family": "G4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "esc_current_a": 35,
     "esc_firmware": "FETtec",
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9738,10 +9358,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/jhemcu-f7-xsd-pro-dji-flight-controller-mini-20x20-standard.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/j/h/jhemcu-f7-xsd-pro-dji-flight-controller---mini-20x20---standard-main.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9797,10 +9417,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/jhemcu-noxe-f411-dji-v2-3-6s-flight-controller-mini-20x20-standard.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/j/h/jhemcu-noxe-f411-v2-dji-flight-controller---mini-20x20---standard-main.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9856,10 +9476,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/jhemcu-noxe-f411-v2-dji-flight-controller-mini-20x20-deluxe.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/j/h/jhemcu-noxe-f4-v2-deluxe-dji-flight-controller---mini-20x20-main-2.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -9926,7 +9546,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": null,
@@ -10094,10 +9714,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/axisflying-f722-dji-flight-controller-mini-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/x/axisflying_f7_fcaxisflying-f7-low_res-width-1000px.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -10164,7 +9784,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -10227,7 +9847,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -10278,18 +9898,18 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn722-hd-evo-40a-bl-s-aio-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-gn722-40a-aio-fc_3_.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 2,
     "cell_count_max": 6,
     "esc_current_a": 40,
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -10341,10 +9961,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-mini-racer-20x20-f7-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor_mini_racer_f7miniracer-main_-_copy-low_res-width-1000px.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -10413,7 +10033,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "H7",
       "imu": "BMI270",
@@ -10463,17 +10083,17 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hglrc-dji-zeus-f722-mini-3-6s-f7-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-dji-zeus-f722-mini-3-6s-f7-flight-controller-main.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "firmware_targets": "Betaflight",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -10592,7 +10212,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": "MPU6000",
@@ -10704,12 +10324,12 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fettec-fc-g4-v1-7-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/e/fettec-g4-v17-flight-controller.jpg",
     "mcu_family": "G4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "esc_firmware": "FETtec",
     "firmware_targets": "FETtec Alpha",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -10764,10 +10384,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/diatone-mamba-dji-f722-mk2-flight-controller-mini-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_dji_f722_mini_mk2_flight_controller_2.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -10822,10 +10442,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/diatone-mamba-basic-f405-mini-mk3-5-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/i/diatone_mamba_basic_f405_mini_mk3.5_flight_controller.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -10880,7 +10500,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/fettec-kiss-g4-n-aio-board-g4-n-fc-35a-32bit-3-6s-esc.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/u/n/untitled_design_10__1.png",
     "mcu_family": "G4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "esc_current_a": 35,
@@ -10888,11 +10508,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -10956,7 +10576,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -11020,7 +10640,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -11061,70 +10681,6 @@
     "ndaa_note": "JHEMCU \u2014 Chinese FC manufacturer (Shenzhen). Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 7.2,
-    "origin": "China"
-  },
-  {
-    "pid": "FC-1260",
-    "category": "flight_controllers",
-    "name": "Hobbywing XRotor Micro Combo Stack - F7 FC + 60A 4-in-1 BLHeli_32 ESC",
-    "manufacturer": "Hobbywing",
-    "description": "The XRotor Micro Combo from Hobbywing continues to impress with its latest iteration. The Micro Combo features a 60A 4-in-1 ESC along with an updated F7 Flight Controller. This new FC is similar to other versions with its OSD, and voltage monitoring, but the F7 now comes with an all-new 5V & 12V dual BEC Circuit and a special interface for the DJI image transmission system.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/hobbywing-xrotor-micro-combo-stack-f7-fc-60a-4-in-1-blheli-32-esc.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/hobbywing_xrotor_micro_combo_stack_-_f7_fc_60a_4-in-1_blheli_32_escuntitled-1-standard-width-1000px.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 60,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 60,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 32,
-    "schema_data": {
-      "weight_g": 11
-    },
-    "price_usd": 32,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/hobbywing-xrotor-micro-combo-stack-f7-fc-60a-4-in-1-blheli-32-esc.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "Hobbywing Technology Co., Ltd., Shenzhen, China. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 4,
     "origin": "China"
   },
   {
@@ -11208,7 +10764,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -11319,16 +10875,16 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/zeez-v2-f7-3-6s-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/e/zeez2020f7fcv2-main1000x1000.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -11366,7 +10922,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1266",
@@ -11388,7 +10944,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -11439,10 +10995,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-hex-f411-16x16-flight-controller-for-hexacopter.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0227_1_1.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 16.0,
+    "mounting_pattern_mm": 16,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 16.0,
+      "mounting_pattern_mm": 16,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -11489,68 +11045,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1268",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU HD745 EVO 40A AIO Stack + HM600 VTX",
-    "manufacturer": "Flywoo",
-    "description": "FLYWOO's new EVO series aims to make AIOs the new hot thing in FPV - and looking at the features, it is hard to resist everything on one board!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-hdf745-evo-aio-40a-stack-hm600-vtx.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-hdf745-evo-aio-40a-stack-_-hm600-vtx-main1000x1000.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
-    "esc_current_a": 40,
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": null,
-      "cell_count_max": null,
-      "voltage_min_v": null,
-      "voltage_max_v": null,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 40,
-      "esc_firmware": null
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "imu": "ICM42688P",
-    "firmware_targets": "Betaflight",
-    "approx_price": 37,
-    "schema_data": {
-      "weight_g": 2
-    },
-    "manufacturer_country": "China",
-    "price_usd": 37,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-hdf745-evo-aio-40a-stack-hm600-vtx.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1269",
     "category": "flight_controllers",
     "name": "BETAFPV Toothpick F405 V4.0 AIO Board - F405 2-6S FC + 20A BLHeli_32 ESC",
@@ -11571,7 +11065,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -11614,69 +11108,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1270",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU GN745 AIO 40A BL32 Stack + HM600 VTX",
-    "manufacturer": "Flywoo",
-    "description": "The GOKU GNF745 40A FC Stack is one of the most integrated and powerful whoop/toothpick AIO boards on the market! Perfect for ultralight quads and toothpicks.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn745-aio-40a-bl32-stack-hm600-vtx.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/o/goku-gn745.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 25.5,
-    "esc_current_a": 40,
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 25.5,
-      "mounting_hole_size": "M2",
-      "cell_count_min": null,
-      "cell_count_max": null,
-      "voltage_min_v": null,
-      "voltage_max_v": null,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 40,
-      "esc_firmware": null
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "25.5x25.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_firmware": "BLHeli_32",
-    "imu": "ICM42688P",
-    "approx_price": 52,
-    "schema_data": {
-      "weight_g": 5
-    },
-    "manufacturer_country": "China",
-    "price_usd": 52,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn745-aio-40a-bl32-stack-hm600-vtx.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1271",
     "category": "flight_controllers",
     "name": "Happymodel CrazybeeX V2.2 5A 1-2S AIO Flight Controller",
@@ -11694,7 +11125,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "Not Listed",
       "imu": null,
@@ -11719,7 +11150,7 @@
       "non-ndaa",
       "china"
     ],
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "approx_price": 31,
     "schema_data": {
@@ -11754,7 +11185,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 3,
       "cell_count_max": 4,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -11780,7 +11211,7 @@
       "china"
     ],
     "firmware_targets": "Betaflight",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "imu": "BMI270",
     "approx_price": 24,
@@ -11792,7 +11223,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/hom-fpv-f411-20a-3-4s-blheli-s-aio-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "HOM FPV \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -11807,7 +11238,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hom-fpv-f405-blheli-s-2-4s-20a-aio-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/homfpv-f405-blheli_s-20a-aio-controller-homfpv-1609388112_1024x1024_2x_1.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 2,
     "cell_count_max": 4,
     "esc_current_a": 20,
@@ -11815,11 +11246,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -11856,7 +11287,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/hom-fpv-f405-blheli-s-2-4s-20a-aio-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "ndaa_note": "HOM FPV \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -11944,7 +11375,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -11995,10 +11426,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-f411-v2-1-16x16-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo_goku_f411_16x16_flight_controller_v2.1_2_.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 16.0,
+    "mounting_pattern_mm": 16,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 16.0,
+      "mounting_pattern_mm": 16,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -12113,16 +11544,16 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/skystars-f405hd-mini-3-6s-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/-/1-2010251k243v6.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -12180,7 +11611,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -12218,7 +11649,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1281",
@@ -12229,16 +11660,16 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/skystars-f7-3-6s-20x20-hd-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0286_1.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -12296,7 +11727,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -12357,7 +11788,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -12584,7 +12015,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hakrc-f4120-35a-3-6s-blheli-s-aio-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/a/hakrc_f4120_aio_fc_35a_3-6s_blheli_s_4-in-1_20x20_esc_2_.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "esc_current_a": 35,
@@ -12592,11 +12023,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -12707,7 +12138,7 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/jhemcu-ghf420aio-20a-blheli-s-2-6s-aio-whoop-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/j/h/jhemcu_ghf420aio_20a_blheli_s_2-6s_aio_whoop_flight_controller.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 2,
     "cell_count_max": 6,
     "esc_current_a": 20,
@@ -12715,11 +12146,11 @@
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -12783,7 +12214,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -12835,10 +12266,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/zeez-design-f7-2020-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/z/e/zeez_design_f7_2020_flight_controller_2_.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -12882,7 +12313,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1298",
@@ -13078,7 +12509,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -13115,7 +12546,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/v-good-rc-aio-flight-controller-f7-osd-40a-6s-blheli32-esc-bec-curr-dji-black-box.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "ndaa_note": "V-Good RC \u2014 Chinese manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -13189,16 +12620,16 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hakrc-f722-dm-mini-3-6s-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/a/hakrc-f722-dm-mini-3-6s-20x20-flight-controller-5.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 3,
     "cell_count_max": 6,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F7",
       "imu": null,
@@ -13257,7 +12688,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F3 + F4",
       "imu": null,
@@ -13318,7 +12749,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F0",
       "imu": null,
@@ -13370,16 +12801,16 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/hglrc-forward-f722-mini-2-6s-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/g/hglrc-forward-f722-mini-2-6s-20x20-flight-controller.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "cell_count_min": 2,
     "cell_count_max": 6,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "F722",
       "imu": null,
@@ -13420,70 +12851,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1309",
-    "category": "flight_controllers",
-    "name": "T-Motor Mini F7  Stack + F45A 3-6S BLHeli_32 4-in-1 ESC",
-    "manufacturer": "Tiger Motors",
-    "description": "Get a better flying experience with the T-Motor Mini F45 + Mini F7 Stack! This stack brings lots of power all in a small package!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-mini-f7-stack-f45a-3-6s-blheli-32-4-in-1-esc.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-mini-f7--stack--f45a-3-6s-blheli_32-4-in-1-esc.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 45,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 45,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 26,
-    "schema_data": {
-      "weight_g": -2
-    },
-    "price_usd": 26,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/t-motor-mini-f7-stack-f45a-3-6s-blheli-32-4-in-1-esc.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "T-Motor (Tiger Motor Co., Ltd.), Guangzhou, China. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1310",
     "category": "flight_controllers",
     "name": "T-Motor Mini F7 20x20 Flight Controller (HD+VTX+ VTX Switch)",
@@ -13492,10 +12859,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-mini-f7-20x20-flight-controller-hd-vtx-vtx-switch.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-mini-f7-20x20-flight-controller.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -13559,7 +12926,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -13585,7 +12952,7 @@
       "china"
     ],
     "firmware_targets": "Betaflight",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "imu": "MPU6000",
     "approx_price": 27,
@@ -13619,7 +12986,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -13645,7 +13012,7 @@
       "china"
     ],
     "firmware_targets": "Betaflight",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "imu": "MPU6000",
     "approx_price": 33,
@@ -13656,64 +13023,6 @@
     "price_usd": 33,
     "links": [
       "https://www.getfpv.com/electronics/flight-controllers/happymodel-crazybee-f4-pro-v3-0-2-4s-aio-flight-controller-flysky.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
-    "pid": "FC-1315",
-    "category": "flight_controllers",
-    "name": "Flywoo GOKU GN413S 13A 2-4S AIO Toothpick FC + VTX625 Stack",
-    "manufacturer": "Flywoo",
-    "description": "The Flywoo GOKU GN413S AIO Toothpick FC combined with the GOKU VTX625 VTX brings lots of cool features to your small builds!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/o/goku-gn413s-stack-aio-toothpick-13a-vtx625-2.jpg",
-    "cell_count_min": 2,
-    "cell_count_max": 4,
-    "esc_current_a": 13,
-    "is_aio": true,
-    "compatibility": {
-      "mounting_pattern_mm": null,
-      "mounting_hole_size": null,
-      "cell_count_min": 2,
-      "cell_count_max": 4,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 17.4,
-      "mcu_family": null,
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 13,
-      "esc_firmware": null
-    },
-    "size_class": "3_inch",
-    "tags": [
-      "3in",
-      "non-ndaa",
-      "china"
-    ],
-    "mounting_pattern_mm": 20.0,
-    "mounting_hole_size": "M2",
-    "imu": "ICM42688P",
-    "approx_price": 33,
-    "schema_data": {
-      "weight_g": 11
-    },
-    "manufacturer_country": "China",
-    "price_usd": 33,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html"
     ],
     "ndaa_compliant": false,
     "interface": "UART / SPI / I2C / USB",
@@ -13774,7 +13083,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1318",
@@ -13947,196 +13256,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1322",
-    "category": "flight_controllers",
-    "name": "GEPRC STABLE F411 Stack - F411 FC + 12A BLHeli_S 4-in-1 ESC + 5.8GHz VTX - 16x16 ",
-    "manufacturer": "GEPRC",
-    "description": "The STABLE F411 VTX Stack by GEPRC comes with a STABLE F411  Flight Controller, 12A BLheli_32 4-in-1 ESC, and 200mW 5.8GHz VTX.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/geprc-stable-f411-16x16-vtx-stack-f411-flight-controller-12a-blheli-s-4-in-1-esc.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/0/1/01-3807104443.jpg",
-    "mcu_family": "F4",
-    "mounting_pattern_mm": 16.0,
-    "cell_count_min": 2,
-    "cell_count_max": 4,
-    "esc_current_a": 12,
-    "esc_firmware": "BLHeli_S",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 16.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 4,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 17.4,
-      "mcu_family": "F4",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 12,
-      "esc_firmware": "BLHeli_S"
-    },
-    "size_class": "3_inch",
-    "tags": [
-      "stm32f4",
-      "16.0mm",
-      "3in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "BMI270",
-    "approx_price": 21,
-    "schema_data": {
-      "weight_g": 8
-    },
-    "manufacturer_country": "China",
-    "price_usd": 21,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/geprc-stable-f411-16x16-vtx-stack-f411-flight-controller-12a-blheli-s-4-in-1-esc.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 2,
-    "origin": "China"
-  },
-  {
-    "pid": "FC-1323",
-    "category": "flight_controllers",
-    "name": "T-Motor F7 Stack - F7 FC + F55A PRO II 3-6S 4-in-1 ESC",
-    "manufacturer": "Tiger Motors",
-    "description": "T-Motor's powerful F7 Flight Controller\u00a0combined with the F55A Pro II 3-6S 4-in-1 ESC\u00a0will give you optimized performance and seamless integration in your electronics stack.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0380_1.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 30.5,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 55,
-    "esc_firmware": "BLHeli_32",
-    "is_aio": true,
-    "mounting_hole_size": "M3",
-    "compatibility": {
-      "mounting_pattern_mm": 30.5,
-      "mounting_hole_size": "M3",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 55,
-      "esc_firmware": "BLHeli_32"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "30.5x30.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 32,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "price_usd": 32,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "T-Motor (Tiger Motor Co., Ltd.), Guangzhou, China. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
-    "pid": "FC-1324",
-    "category": "flight_controllers",
-    "name": "Lumenier LUX Mini F7 20x20 Stack (45A 2-6S Pro ESC, F7 FC, 800mW VTX)",
-    "manufacturer": "Lumenier",
-    "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-pro-f7-20x20-stack.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/a/razor-pro-stack-main.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 45,
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 45,
-      "esc_firmware": null
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "ndaa",
-      "usa"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 39,
-    "schema_data": {
-      "weight_g": 2
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 39,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-pro-f7-20x20-stack.html"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "USA"
-  },
-  {
     "pid": "FC-1325",
     "category": "flight_controllers",
     "name": "BETAFPV F4 1S Brushless Flight Controller V2.2 - Frsky",
@@ -14193,69 +13312,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1326",
-    "category": "flight_controllers",
-    "name": "Lumenier LUX Mini F7 20x20 Stack (30A 2-6S ESC, F7 FC, 800mW VTX)",
-    "manufacturer": "Lumenier",
-    "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-f7-20x20-stack.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lux-20-stack-1.jpg",
-    "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 2,
-    "cell_count_max": 6,
-    "esc_current_a": 30,
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 2,
-      "cell_count_max": 6,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F7",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 30,
-      "esc_firmware": null
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f7",
-      "20x20mm",
-      "3.5in",
-      "ndaa",
-      "usa"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "ICM42688P",
-    "approx_price": 34,
-    "schema_data": {
-      "weight_g": 1
-    },
-    "manufacturer_country": "USA",
-    "price_usd": 34,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-f7-20x20-stack.html"
-    ],
-    "ndaa_compliant": true,
-    "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "USA"
-  },
-  {
     "pid": "FC-1327",
     "category": "flight_controllers",
     "name": "Lumenier LUX MINI F7 Flight Controller",
@@ -14264,10 +13320,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-f7-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lux-f7-mini-main.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -14324,10 +13380,10 @@
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/7/_/7_0d6be978-745b-4103-a9ad-e16536492680_1024x1024.jpg",
     "mcu_family": "F7",
     "imu": "MPU6000",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -14449,7 +13505,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -14489,7 +13545,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1333",
@@ -14571,7 +13627,7 @@
       "mounting_hole_size": "M3",
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -14623,10 +13679,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/heli-nation-talon-f7-fusion-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/e/resizerimage5000x2812.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -14670,7 +13726,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1336",
@@ -14747,7 +13803,7 @@
       "mounting_hole_size": null,
       "cell_count_min": 3,
       "cell_count_max": 6,
-      "voltage_min_v": 9.0,
+      "voltage_min_v": 9,
       "voltage_max_v": 26.1,
       "mcu_family": "F4",
       "imu": null,
@@ -14956,7 +14012,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1343",
@@ -15012,7 +14068,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1344",
@@ -15185,7 +14241,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1353",
@@ -15426,10 +14482,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/heli-nation-talon-f7-v2-20x20-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/r/e/resizerimage5000x2812_3_1.jpg",
     "mcu_family": "F7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -15473,7 +14529,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1362",
@@ -15584,7 +14640,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1364",
@@ -15649,10 +14705,10 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/emax-f3-babyhawk-femto-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/b/a/babyhawk-femto-f3-fc-main.jpg",
     "mcu_family": "F3",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -15749,7 +14805,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/cl-racing-f4-mini-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "ndaa_note": "CL_Racing \u2014 Chinese FC manufacturer. Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 4,
@@ -15806,7 +14862,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/dalrc-f405-flight-controller.html"
     ],
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "ndaa_note": "DALRC \u2014 Chinese FC manufacturer (Shenzhen). Non-NDAA.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -15866,7 +14922,7 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 4,
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "FC-1377",
@@ -15890,7 +14946,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 1,
       "cell_count_max": 2,
-      "voltage_min_v": 3.0,
+      "voltage_min_v": 3,
       "voltage_max_v": 8.7,
       "mcu_family": "F4",
       "imu": "ICM42688",
@@ -16130,7 +15186,7 @@
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 6,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 26.1,
       "mcu_family": "G4",
       "imu": null,
@@ -16180,13 +15236,13 @@
     "description": "The incredibly small and powerful Lumenier tinyFISH Power Stack F3 16x16mm Flight Controller + 4A 4-in-1 ESC + FrSky Rx .",
     "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-tinyfish-power-stack-f3-16x16mm-flight-controller-4a-4-in-1-esc-frsky-rx.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/l/u/lumenier-tinyfish-power-stack.jpg",
-    "mounting_pattern_mm": 16.0,
+    "mounting_pattern_mm": 16,
     "esc_current_a": 4,
     "is_aio": true,
     "mcu_family": "F3",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 16.0,
+      "mounting_pattern_mm": 16,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -16346,7 +15402,7 @@
       "https://www.getfpv.com/electronics/flight-controllers/brainfpv-radix-2-h7-flight-controller-analog.html"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Manufactured Portland, Oregon USA. NDAA compliant. Confirmed on brainfpv.com product pages.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
@@ -16704,18 +15760,18 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/jhemcu-ghf13aio-f4-13a-2-4s-bl-s-4-in-1-brushless-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/1/_/1_30d04ca1-f52d-4ad7-87e4-055fb5633af3_1200x1200.png",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 16.0,
+    "mounting_pattern_mm": 16,
     "cell_count_min": 2,
     "cell_count_max": 4,
     "esc_current_a": 13,
     "is_aio": true,
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 16.0,
+      "mounting_pattern_mm": 16,
       "mounting_hole_size": "M2",
       "cell_count_min": 2,
       "cell_count_max": 4,
-      "voltage_min_v": 6.0,
+      "voltage_min_v": 6,
       "voltage_max_v": 17.4,
       "mcu_family": "F4",
       "imu": null,
@@ -17046,67 +16102,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1405",
-    "category": "flight_controllers",
-    "name": "Flycolor X-Tower F4 FC + 40A BLHeli32 4-in-1 ESC Stack",
-    "manufacturer": "FlyColor",
-    "description": "The Flycolor F4 40A Stack gives you all the essentials you need to get in the air and fly with the best components.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/flycolor-x-tower-f4-fc-40a-blheli32-4-in-1-esc-stack.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flycolor-x-tower-omnibus-f4-with-arm-32bit-4in1-40a-esc-pdb-osd-1.jpg",
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 40,
-    "is_aio": true,
-    "mcu_family": "F4",
-    "compatibility": {
-      "mounting_pattern_mm": null,
-      "mounting_hole_size": null,
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F4",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 40,
-      "esc_firmware": null
-    },
-    "size_class": "universal",
-    "tags": [
-      "stm32f4",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "mounting_pattern_mm": 30.5,
-    "mounting_hole_size": "M3",
-    "imu": "MPU6000",
-    "approx_price": 34,
-    "schema_data": {
-      "weight_g": 2
-    },
-    "price_usd": 34,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/flycolor-x-tower-f4-fc-40a-blheli32-4-in-1-esc-stack.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "FlyColor \u2014 Chinese FC manufacturer. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1408",
     "category": "flight_controllers",
     "name": "FETtec KISS F7 Flight Controller",
@@ -17173,11 +16168,11 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/mateksys-f405-minite-flight-controller-mini-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys-f405-minite-flight-controller---mini-20x20-main.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV/Ardupilot",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -17231,11 +16226,11 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/mateksys-h743-mini-v3-flight-controller.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/m/a/mateksys_h743-mini_v3_flight_controller_2_.jpg",
     "mcu_family": "H7",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV/Ardupilot",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -17337,69 +16332,6 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1412",
-    "category": "flight_controllers",
-    "name": "SpeedyBee F405 Mini Stack - F405 V3 FC + 35A 3-6S BLHeli_S 4-in-1 ESC - 20x20",
-    "manufacturer": "SpeedyBee",
-    "description": "Flight controller by SpeedyBee. MCU. mounting.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/s/p/speedybee_f405_mini_stack_4_.jpg",
-    "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
-    "cell_count_min": 3,
-    "cell_count_max": 6,
-    "esc_current_a": 35,
-    "esc_firmware": "BLHeli_S",
-    "is_aio": true,
-    "mounting_hole_size": "M2",
-    "compatibility": {
-      "mounting_pattern_mm": 20.0,
-      "mounting_hole_size": "M2",
-      "cell_count_min": 3,
-      "cell_count_max": 6,
-      "voltage_min_v": 9.0,
-      "voltage_max_v": 26.1,
-      "mcu_family": "F4",
-      "imu": null,
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 35,
-      "esc_firmware": "BLHeli_S"
-    },
-    "size_class": "3.5_inch",
-    "tags": [
-      "stm32f4",
-      "20x20mm",
-      "3.5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "imu": "BMI270",
-    "approx_price": 31,
-    "schema_data": {
-      "weight_g": 3
-    },
-    "manufacturer_country": "China",
-    "price_usd": 31,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html"
-    ],
-    "ndaa_compliant": false,
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5,
-    "origin": "China"
-  },
-  {
     "pid": "FC-1413",
     "category": "flight_controllers",
     "name": "SpeedyBee F405 Mini Flight Controller - 20x20",
@@ -17408,11 +16340,11 @@
     "link": "https://www.getfpv.com/electronics/flight-controllers/speedybee-f405-mini-flight-controller-20x20.html",
     "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/s/p/speedybee-f405-mini-20x20-flight-controller.jpg",
     "mcu_family": "F4",
-    "mounting_pattern_mm": 20.0,
+    "mounting_pattern_mm": 20,
     "firmware_targets": "Betaflight/INAV",
     "mounting_hole_size": "M2",
     "compatibility": {
-      "mounting_pattern_mm": 20.0,
+      "mounting_pattern_mm": 20,
       "mounting_hole_size": "M2",
       "cell_count_min": null,
       "cell_count_max": null,
@@ -17510,75 +16442,11 @@
       "https://www.getfpv.com/electronics/flight-controllers/brainfpv-radix-2-hd-h7-flight-controller.html"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Manufactured Portland, Oregon USA. NDAA compliant. Confirmed on brainfpv.com product pages.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "Unknown"
-  },
-  {
-    "pid": "FC-1419",
-    "category": "flight_controllers",
-    "name": "DYS F7 Stack - F722 FC + 65A 2-8S AM32 4-in-1 ESC - ICM42688P - 30x30",
-    "manufacturer": "DYS",
-    "description": "The DYS F7 Stack combines the advanced DYS F722 Flight Controller with the high-performance 65A AM32 4-in-1 ESC.",
-    "link": "https://www.getfpv.com/electronics/flight-controllers/dys-f7-stack-f722-fc-65a-2-8s-am-32-4-in-1-esc-icm42688p-30x30.html",
-    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/y/dys-stack---f7-fc-_-65a-2-8s-am_32-4-in-1-esc---icm42688p---30x30-_image-1_1_.jpg",
-    "mcu_family": "F7",
-    "imu": "ICM42688P",
-    "mounting_pattern_mm": 30.5,
-    "cell_count_min": 2,
-    "cell_count_max": 8,
-    "esc_current_a": 65,
-    "esc_firmware": "AM32",
-    "is_aio": true,
-    "mounting_hole_size": "M3",
-    "compatibility": {
-      "mounting_pattern_mm": 30.5,
-      "mounting_hole_size": "M3",
-      "cell_count_min": 2,
-      "cell_count_max": 8,
-      "voltage_min_v": 6.0,
-      "voltage_max_v": 34.8,
-      "mcu_family": "F7",
-      "imu": "ICM42688P",
-      "_compat_hard": [
-        "mounting_pattern_mm"
-      ],
-      "_compat_soft": [
-        "mounting_hole_size",
-        "cell_count_min",
-        "cell_count_max",
-        "voltage_min_v",
-        "voltage_max_v"
-      ],
-      "is_aio": true,
-      "esc_current_a": 65,
-      "esc_firmware": "AM32"
-    },
-    "size_class": "5_inch",
-    "tags": [
-      "stm32f7",
-      "30.5x30.5mm",
-      "5in",
-      "non-ndaa",
-      "china"
-    ],
-    "firmware_targets": "Betaflight",
-    "approx_price": 44,
-    "schema_data": {
-      "weight_g": 8
-    },
-    "price_usd": 44,
-    "links": [
-      "https://www.getfpv.com/electronics/flight-controllers/dys-f7-stack-f722-fc-65a-2-8s-am-32-4-in-1-esc-icm42688p-30x30.html"
-    ],
-    "manufacturer_country": "China",
-    "ndaa_compliant": false,
-    "ndaa_note": "DYS Electronics, Shenzhen, China. Non-NDAA.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "China"
   },
   {
     "pid": "FC-1420",
@@ -17730,7 +16598,7 @@
     "origin": "Croatia"
   },
   {
-    "pid": "FC-1297",
+    "pid": "FC-2055",
     "category": "flight_controllers",
     "name": "Holybro Pixhawk 6X Pro",
     "manufacturer": "Holybro",
@@ -17751,7 +16619,7 @@
       "ArduPilot",
       "PX4"
     ],
-    "weight_g": 40.0,
+    "weight_g": 40,
     "price_usd": 68,
     "tags": [
       "pixhawk",
@@ -17778,7 +16646,7 @@
     "origin": "China"
   },
   {
-    "pid": "FC-1298",
+    "pid": "FC-2056",
     "category": "flight_controllers",
     "name": "UAV Navigation POLAR-300",
     "manufacturer": "UAV Navigation (Grupo Oes\u00eda)",
@@ -17817,12 +16685,12 @@
       "https://www.uavnavigation.com"
     ],
     "manufacturer_country": "Spain",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "UAV Navigation S.L., Madrid, Spain. EU/NATO allied-nation manufacturer. Part of Grupo Oes\u00eda defense group.",
     "origin": "Unknown"
   },
   {
-    "pid": "FC-1299",
+    "pid": "FC-2057",
     "category": "flight_controllers",
     "name": "Inertial Labs INS-P",
     "manufacturer": "Inertial Labs (VIAVI Solutions)",
@@ -17864,87 +16732,13 @@
     "origin": "USA"
   },
   {
-    "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v2",
-    "category": "flight_controllers",
-    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v2",
-    "manufacturer": "603700",
-    "country": "Ukraine",
-    "approx_price_usd": 29.27,
-    "approx_price_uah": 1200.0,
-    "size_class": "7_inch",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture."
-    },
-    "tags": [
-      "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
-      "fc",
-      "7_inch",
-      "ndaa"
-    ],
-    "approx_price": 29.27,
-    "description": "Flight controller by 603700. MCU. mounting.",
-    "is_aio": false,
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 29.27,
-    "ndaa_note": "Ukrainian FPV FC manufacturer. Allied-nation NDAA compliant.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "Unknown"
-  },
-  {
-    "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
-    "category": "flight_controllers",
-    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v3",
-    "manufacturer": "603700",
-    "country": "Ukraine",
-    "approx_price_usd": 30.73,
-    "approx_price_uah": 1260.0,
-    "size_class": "10_inch",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture."
-    },
-    "tags": [
-      "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
-      "fc",
-      "10_inch",
-      "ndaa"
-    ],
-    "approx_price": 30.73,
-    "description": "Flight controller by 603700. MCU. mounting.",
-    "is_aio": false,
-    "ndaa_compliant": true,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 30.73,
-    "ndaa_note": "Ukrainian FPV FC manufacturer. Allied-nation NDAA compliant.",
-    "interface": "UART / SPI / I2C / USB",
-    "weight_g": 8,
-    "origin": "Unknown"
-  },
-  {
     "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v4",
     "category": "flight_controllers",
     "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v4",
     "manufacturer": "603700",
     "country": "Ukraine",
     "approx_price_usd": 40.98,
-    "approx_price_uah": 1680.0,
+    "approx_price_uah": 1680,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -17965,7 +16759,7 @@
     "approx_price": 40.98,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 40.98,
@@ -17981,7 +16775,7 @@
     "manufacturer": "603700",
     "country": "Ukraine",
     "approx_price_usd": 50.49,
-    "approx_price_uah": 2070.0,
+    "approx_price_uah": 2070,
     "size_class": "fixed_wing",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18002,7 +16796,7 @@
     "approx_price": 50.49,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 50.49,
@@ -18018,7 +16812,7 @@
     "manufacturer": "603700",
     "country": "Ukraine",
     "approx_price_usd": 57.8,
-    "approx_price_uah": 2370.0,
+    "approx_price_uah": 2370,
     "size_class": "fixed_wing",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18039,7 +16833,7 @@
     "approx_price": 57.8,
     "description": "Flight controller by 603700. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 57.8,
@@ -18055,7 +16849,7 @@
     "manufacturer": "Stingbee",
     "country": "Ukraine",
     "approx_price_usd": 32.93,
-    "approx_price_uah": 1350.0,
+    "approx_price_uah": 1350,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18094,7 +16888,7 @@
     "manufacturer": "Stingbee",
     "country": "Ukraine",
     "approx_price_usd": 56.1,
-    "approx_price_uah": 2300.0,
+    "approx_price_uah": 2300,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18133,7 +16927,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 24.39,
-    "approx_price_uah": 1000.0,
+    "approx_price_uah": 1000,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18170,7 +16964,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 24.39,
-    "approx_price_uah": 1000.0,
+    "approx_price_uah": 1000,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18207,7 +17001,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 24.39,
-    "approx_price_uah": 1000.0,
+    "approx_price_uah": 1000,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18244,7 +17038,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 26.83,
-    "approx_price_uah": 1100.0,
+    "approx_price_uah": 1100,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18281,7 +17075,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 58.54,
-    "approx_price_uah": 2400.0,
+    "approx_price_uah": 2400,
     "size_class": "heavy_lift",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18318,7 +17112,7 @@
     "manufacturer": "Flytex",
     "country": "Ukraine",
     "approx_price_usd": 41.46,
-    "approx_price_uah": 1700.0,
+    "approx_price_uah": 1700,
     "size_class": "fixed_wing",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18355,7 +17149,7 @@
     "manufacturer": "DiFly",
     "country": "Ukraine",
     "approx_price_usd": 24.39,
-    "approx_price_uah": 1000.0,
+    "approx_price_uah": 1000,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18392,7 +17186,7 @@
     "manufacturer": "DiFly",
     "country": "Ukraine",
     "approx_price_usd": 41.46,
-    "approx_price_uah": 1700.0,
+    "approx_price_uah": 1700,
     "size_class": "fixed_wing",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18429,7 +17223,7 @@
     "manufacturer": "Kiwi",
     "country": "Ukraine",
     "approx_price_usd": 39.02,
-    "approx_price_uah": 1600.0,
+    "approx_price_uah": 1600,
     "size_class": "7_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18466,7 +17260,7 @@
     "manufacturer": "Kiwi",
     "country": "Ukraine",
     "approx_price_usd": 68.29,
-    "approx_price_uah": 2800.0,
+    "approx_price_uah": 2800,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18503,7 +17297,7 @@
     "manufacturer": "Kiwi",
     "country": "Ukraine",
     "approx_price_usd": 45.85,
-    "approx_price_uah": 1880.0,
+    "approx_price_uah": 1880,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18540,7 +17334,7 @@
     "manufacturer": "Kiwi",
     "country": "Ukraine",
     "approx_price_usd": 39.02,
-    "approx_price_uah": 1600.0,
+    "approx_price_uah": 1600,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18577,7 +17371,7 @@
     "manufacturer": "Bloomtech",
     "country": "Ukraine",
     "approx_price_usd": 107.12,
-    "approx_price_uah": 4392.0,
+    "approx_price_uah": 4392,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18598,7 +17392,7 @@
     "approx_price": 107.12,
     "description": "Flight controller by Bloomtech. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 107.12,
@@ -18614,7 +17408,7 @@
     "manufacturer": "FT",
     "country": "Ukraine",
     "approx_price_usd": 56.78,
-    "approx_price_uah": 2328.0,
+    "approx_price_uah": 2328,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18635,7 +17429,7 @@
     "approx_price": 56.78,
     "description": "Flight controller by. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 56.78,
@@ -18651,7 +17445,7 @@
     "manufacturer": "FT",
     "country": "Ukraine",
     "approx_price_usd": 47.71,
-    "approx_price_uah": 1956.0,
+    "approx_price_uah": 1956,
     "size_class": "10_inch",
     "source": "vtx.in.ua",
     "compliance": {
@@ -18672,7 +17466,7 @@
     "approx_price": 47.71,
     "description": "Flight controller by. MCU. mounting.",
     "is_aio": false,
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "blue_uas": false,
     "manufacturer_country": "Ukraine",
     "price_usd": 47.71,
@@ -18776,7 +17570,7 @@
     ],
     "manufacturer_country": "USA",
     "ndaa_note": "EchoMAV \u2014 US company (Madison, WI). Autopilot/FC maker. Likely NDAA compliant but not formally verified in DB.",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 3,
     "origin": "Unknown"
@@ -18838,14 +17632,14 @@
       "country": "USA"
     },
     "manufacturer_country": "USA",
-    "price_usd": 400.0,
+    "price_usd": 400,
     "links": [
       "https://arkelectron.com/product/arkv6x/"
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Designed and manufactured USA. Full NDAA compliance documentation available at arkelectron.com.",
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 5.0,
+    "weight_g": 5,
     "origin": "USA"
   },
   {
@@ -18905,14 +17699,14 @@
       "country": "USA"
     },
     "manufacturer_country": "USA",
-    "price_usd": 450.0,
+    "price_usd": 450,
     "links": [
       "https://arkelectron.com/product/arkv6x-iim-42653/"
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Designed and manufactured USA. Full NDAA compliance documentation available at arkelectron.com.",
     "interface": "UART / SPI / I2C / USB",
-    "weight_g": 32.0,
+    "weight_g": 32,
     "origin": "USA"
   },
   {
@@ -19050,14 +17844,1062 @@
       "country": "USA"
     },
     "manufacturer_country": "USA",
-    "price_usd": 665.0,
+    "price_usd": 665,
     "links": [
       "https://arkelectron.com/product/ark-pi6x/"
     ],
     "ndaa_compliant": true,
     "ndaa_note": "Designed and manufactured USA. Full NDAA compliance documentation available at arkelectron.com.",
     "interface": "UART / CAN / USB",
-    "weight_g": 41.0,
+    "weight_g": 41,
     "origin": "USA"
+  },
+  {
+    "pid": "FC-1027",
+    "category": "flight_controllers",
+    "name": "Flycolor SpeedyPizza CrustCore Stack - F7 FC + 60A 3-6S BLHeli_32 4-in-1 ESC - ICM42688 - 20x20 ",
+    "manufacturer": "FlyColor",
+    "description": "The Flycolor SpeedyPizza CrustCore Stack delivers high-performance flight control and powerful ESC capabilities in a compact 20x20mm form factor. Featuring an F7 flight controller with the ICM42688 gyro, this stack ensures ultra-precise handling and smooth performance.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flycolor-speedypizza-crustcore-stack-f7-fc-60a-3-6s-blheli-32-4-in-1-esc-icm42688-20x20.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/fle153_1.jpg",
+    "mcu_family": "F7",
+    "imu": "ICM42688",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 60,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": "ICM42688",
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 60,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 15
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1072",
+    "category": "flight_controllers",
+    "name": "GEPRC F722 AIO - F722 FC+ 35A 2S-6S BLS ESC",
+    "manufacturer": "GEPRC",
+    "description": "The GEPRC F722 AIO is equipped with an F722 FC and 35A 2S-6S BLS ESC. This AIO stack adopts MCU STM32F722, which gives a powerful performance and higher computing speed.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/geprc-f722-aio-f722-fc-35a-2s-6s-bls-esc.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/e/geprc_f722_aio_1.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 25.5,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 35,
+    "esc_firmware": "BLHeli_S",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 25.5,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 35,
+      "esc_firmware": "BLHeli_S"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "25.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 43,
+    "schema_data": {
+      "weight_g": 8
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1082",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU Pro Mini Stack - F7 FC + 45A 2-6S AM32 4-in-1 ESC - ICM42688 - 20x20",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo GOKU Pro Mini Stack is a high-performance 20x20mm flight stack featuring an F7 flight controller and a 45A 2-6S AM32 4-in-1 ESC.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-pro-mini-stack-f7-fc-45a-2-6s-am32-4-in-1-esc-icm42688-20x20.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-pro-mini-stack---f7-fc-_-45a-2-6s-am32-4-in-1-esc---icm42688---20x20-_image--1_.jpg",
+    "mcu_family": "F7",
+    "imu": "ICM42688",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 45,
+    "esc_firmware": "AM32",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": "ICM42688",
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 45,
+      "esc_firmware": "AM32"
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "approx_price": 35,
+    "schema_data": {
+      "weight_g": 8
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1089",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU Stack - F722 FC (ICM42688) + 55A AM32 2-6S ESC - 30x30",
+    "manufacturer": "Flywoo",
+    "description": "The new GOKU Pro V2 F722 AM32 55A BLS Stack\u00a0from FLYWOO offers a compact size, high-performance main control, and multiple motor outputs.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-f722-fc-icm42688-55a-2-6s-esc-30x30.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-f722-pro-v2-50a-bls-stack-_image-1_.jpg",
+    "mcu_family": "F7",
+    "imu": "ICM42688",
+    "mounting_pattern_mm": 30.5,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 55,
+    "esc_firmware": "AM32",
+    "is_aio": true,
+    "mounting_hole_size": "M3",
+    "compatibility": {
+      "mounting_pattern_mm": 30.5,
+      "mounting_hole_size": "M3",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": "ICM42688",
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 55,
+      "esc_firmware": "AM32"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "30.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "approx_price": 38,
+    "schema_data": {
+      "weight_g": -1
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1124",
+    "category": "flight_controllers",
+    "name": "Axisflying Argus Pro Plug-n-Play Stack - F7 FC + 65A 3-6S BLHeli_32 ESC w/ Heatsink - 30x30",
+    "manufacturer": "Axisflying",
+    "description": "The Axisflying Argus Pro series combines durability and performance with an aluminum-wrapped, IP54-rated design to protect its PCB from dust and water.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/axisflying-argus-pro-plug-n-play-stack-f7-fc-65a-3-6s-blheli-32-esc-w-heatsink-30x30.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/a/x/axisflying-argus-pro-plug-n-play-stack---f7-fc-_-65a-3-6s-blheli_32-esc-w-heatsink-_image-1_.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 30.5,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 65,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M3",
+    "compatibility": {
+      "mounting_pattern_mm": 30.5,
+      "mounting_hole_size": "M3",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 65,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "30.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 13
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1164",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU Stack - GN405S FC (ICM42688) 20A ESC AIO + HM850 850MW Microphone VTX",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo Goku Stack is a high-performance, all-in-one solution for your FPV drone.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-stack-gn405s-fc-icm42688-20a-esc-aio-hm850-850mw-microphone-vtx.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-stack---gn405s-fc-_icm42688_-20a-esc-aio-_-hm850-850mw-microphone-vtx.jpg",
+    "mcu_family": "F4",
+    "imu": "ICM42688",
+    "mounting_pattern_mm": 25.5,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 20,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 25.5,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F4",
+      "imu": "ICM42688",
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 20,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F4",
+      "25.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1260",
+    "category": "flight_controllers",
+    "name": "Hobbywing XRotor Micro Combo Stack - F7 FC + 60A 4-in-1 BLHeli_32 ESC",
+    "manufacturer": "Hobbywing",
+    "description": "The XRotor Micro Combo from Hobbywing continues to impress with its latest iteration. The Micro Combo features a 60A 4-in-1 ESC along with an updated F7 Flight Controller. This new FC is similar to other versions with its OSD, and voltage monitoring, but the F7 now comes with an all-new 5V & 12V dual BEC Circuit and a special interface for the DJI image transmission system.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/hobbywing-xrotor-micro-combo-stack-f7-fc-60a-4-in-1-blheli-32-esc.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/h/o/hobbywing_xrotor_micro_combo_stack_-_f7_fc_60a_4-in-1_blheli_32_escuntitled-1-standard-width-1000px.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 60,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 60,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 11
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1268",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU HD745 EVO 40A AIO Stack + HM600 VTX",
+    "manufacturer": "Flywoo",
+    "description": "FLYWOO's new EVO series aims to make AIOs the new hot thing in FPV - and looking at the features, it is hard to resist everything on one board!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-hdf745-evo-aio-40a-stack-hm600-vtx.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flywoo-goku-hdf745-evo-aio-40a-stack-_-hm600-vtx-main1000x1000.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 20.0,
+    "esc_current_a": 40,
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": null,
+      "cell_count_max": null,
+      "voltage_min_v": null,
+      "voltage_max_v": null,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 40,
+      "esc_firmware": null
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "imu": "ICM42688P",
+    "firmware_targets": "Betaflight",
+    "approx_price": 37,
+    "schema_data": {
+      "weight_g": 2
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1270",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU GN745 AIO 40A BL32 Stack + HM600 VTX",
+    "manufacturer": "Flywoo",
+    "description": "The GOKU GNF745 40A FC Stack is one of the most integrated and powerful whoop/toothpick AIO boards on the market! Perfect for ultralight quads and toothpicks.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn745-aio-40a-bl32-stack-hm600-vtx.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/o/goku-gn745.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 25.5,
+    "esc_current_a": 40,
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 25.5,
+      "mounting_hole_size": "M2",
+      "cell_count_min": null,
+      "cell_count_max": null,
+      "voltage_min_v": null,
+      "voltage_max_v": null,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 40,
+      "esc_firmware": null
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "25.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_firmware": "BLHeli_32",
+    "imu": "ICM42688P",
+    "approx_price": 52,
+    "schema_data": {
+      "weight_g": 5
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1309",
+    "category": "flight_controllers",
+    "name": "T-Motor Mini F7  Stack + F45A 3-6S BLHeli_32 4-in-1 ESC",
+    "manufacturer": "Tiger Motors",
+    "description": "Get a better flying experience with the T-Motor Mini F45 + Mini F7 Stack! This stack brings lots of power all in a small package!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-mini-f7-stack-f45a-3-6s-blheli-32-4-in-1-esc.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/t/-/t-motor-mini-f7--stack--f45a-3-6s-blheli_32-4-in-1-esc.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 45,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 45,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 26,
+    "schema_data": {
+      "weight_g": -2
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1315",
+    "category": "flight_controllers",
+    "name": "Flywoo GOKU GN413S 13A 2-4S AIO Toothpick FC + VTX625 Stack",
+    "manufacturer": "Flywoo",
+    "description": "The Flywoo GOKU GN413S AIO Toothpick FC combined with the GOKU VTX625 VTX brings lots of cool features to your small builds!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flywoo-goku-gn413s-13a-2-4s-aio-toothpick-fc-vtx625-stack.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/g/o/goku-gn413s-stack-aio-toothpick-13a-vtx625-2.jpg",
+    "cell_count_min": 2,
+    "cell_count_max": 4,
+    "esc_current_a": 13,
+    "is_aio": true,
+    "compatibility": {
+      "mounting_pattern_mm": null,
+      "mounting_hole_size": null,
+      "cell_count_min": 2,
+      "cell_count_max": 4,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 17.4,
+      "mcu_family": null,
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 13,
+      "esc_firmware": null
+    },
+    "size_class": "3_inch",
+    "tags": [
+      "3 inch"
+    ],
+    "mounting_pattern_mm": 20.0,
+    "mounting_hole_size": "M2",
+    "imu": "ICM42688P",
+    "approx_price": 33,
+    "schema_data": {
+      "weight_g": 11
+    },
+    "mcu_family": "STM32F411",
+    "firmware_targets": "Betaflight",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1322",
+    "category": "flight_controllers",
+    "name": "GEPRC STABLE F411 Stack - F411 FC + 12A BLHeli_S 4-in-1 ESC + 5.8GHz VTX - 16x16 ",
+    "manufacturer": "GEPRC",
+    "description": "The STABLE F411 VTX Stack by GEPRC comes with a STABLE F411  Flight Controller, 12A BLheli_32 4-in-1 ESC, and 200mW 5.8GHz VTX.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/geprc-stable-f411-16x16-vtx-stack-f411-flight-controller-12a-blheli-s-4-in-1-esc.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/0/1/01-3807104443.jpg",
+    "mcu_family": "F4",
+    "mounting_pattern_mm": 16.0,
+    "cell_count_min": 2,
+    "cell_count_max": 4,
+    "esc_current_a": 12,
+    "esc_firmware": "BLHeli_S",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 16.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 4,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 17.4,
+      "mcu_family": "F4",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 12,
+      "esc_firmware": "BLHeli_S"
+    },
+    "size_class": "3_inch",
+    "tags": [
+      "F4",
+      "16.0mm",
+      "3 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "BMI270",
+    "approx_price": 21,
+    "schema_data": {
+      "weight_g": 8
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1323",
+    "category": "flight_controllers",
+    "name": "T-Motor F7 Stack - F7 FC + F55A PRO II 3-6S 4-in-1 ESC",
+    "manufacturer": "Tiger Motors",
+    "description": "T-Motor's powerful F7 Flight Controller\u00a0combined with the F55A Pro II 3-6S 4-in-1 ESC\u00a0will give you optimized performance and seamless integration in your electronics stack.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/t-motor-f7-stack-f7-fc-f55a-pro-ii-3-6s-4-in-1-esc-combo.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/s/dsc_0380_1.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 30.5,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 55,
+    "esc_firmware": "BLHeli_32",
+    "is_aio": true,
+    "mounting_hole_size": "M3",
+    "compatibility": {
+      "mounting_pattern_mm": 30.5,
+      "mounting_hole_size": "M3",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 55,
+      "esc_firmware": "BLHeli_32"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "30.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 32,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1324",
+    "category": "flight_controllers",
+    "name": "Lumenier LUX Mini F7 20x20 Stack (45A 2-6S Pro ESC, F7 FC, 800mW VTX)",
+    "manufacturer": "Lumenier",
+    "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-pro-f7-20x20-stack.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/r/a/razor-pro-stack-main.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 45,
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 45,
+      "esc_firmware": null
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 39,
+    "schema_data": {
+      "weight_g": 2
+    },
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "pid": "FC-1326",
+    "category": "flight_controllers",
+    "name": "Lumenier LUX Mini F7 20x20 Stack (30A 2-6S ESC, F7 FC, 800mW VTX)",
+    "manufacturer": "Lumenier",
+    "description": "The Lumenier F7 Mini Stack gives you premium components in a featured-packed platform, all in a 20x20 stack!",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/lumenier-lux-mini-f7-20x20-stack.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/l/u/lux-20-stack-1.jpg",
+    "mcu_family": "F7",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 2,
+    "cell_count_max": 6,
+    "esc_current_a": 30,
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 2,
+      "cell_count_max": 6,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F7",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 30,
+      "esc_firmware": null
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F7",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "ICM42688P",
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 1
+    },
+    "origin": "USA",
+    "ndaa_compliant": true
+  },
+  {
+    "pid": "FC-1405",
+    "category": "flight_controllers",
+    "name": "Flycolor X-Tower F4 FC + 40A BLHeli32 4-in-1 ESC Stack",
+    "manufacturer": "FlyColor",
+    "description": "The Flycolor F4 40A Stack gives you all the essentials you need to get in the air and fly with the best components.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/flycolor-x-tower-f4-fc-40a-blheli32-4-in-1-esc-stack.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/f/l/flycolor-x-tower-omnibus-f4-with-arm-32bit-4in1-40a-esc-pdb-osd-1.jpg",
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 40,
+    "is_aio": true,
+    "mcu_family": "F4",
+    "compatibility": {
+      "mounting_pattern_mm": null,
+      "mounting_hole_size": null,
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F4",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 40,
+      "esc_firmware": null
+    },
+    "size_class": "universal",
+    "tags": [
+      "F4"
+    ],
+    "firmware_targets": "Betaflight",
+    "mounting_pattern_mm": 30.5,
+    "mounting_hole_size": "M3",
+    "imu": "MPU6000",
+    "approx_price": 34,
+    "schema_data": {
+      "weight_g": 2
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1412",
+    "category": "flight_controllers",
+    "name": "SpeedyBee F405 Mini Stack - F405 V3 FC + 35A 3-6S BLHeli_S 4-in-1 ESC - 20x20",
+    "manufacturer": "SpeedyBee",
+    "description": "Flight controller by SpeedyBee. MCU. mounting.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/cache/05bc89904627dbee2e1afef9cd2d4128/s/p/speedybee_f405_mini_stack_4_.jpg",
+    "mcu_family": "F4",
+    "mounting_pattern_mm": 20.0,
+    "cell_count_min": 3,
+    "cell_count_max": 6,
+    "esc_current_a": 35,
+    "esc_firmware": "BLHeli_S",
+    "is_aio": true,
+    "mounting_hole_size": "M2",
+    "compatibility": {
+      "mounting_pattern_mm": 20.0,
+      "mounting_hole_size": "M2",
+      "cell_count_min": 3,
+      "cell_count_max": 6,
+      "voltage_min_v": 9.0,
+      "voltage_max_v": 26.1,
+      "mcu_family": "F4",
+      "imu": null,
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 35,
+      "esc_firmware": "BLHeli_S"
+    },
+    "size_class": "3.5_inch",
+    "tags": [
+      "F4",
+      "20.0mm",
+      "3.5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "imu": "BMI270",
+    "approx_price": 31,
+    "schema_data": {
+      "weight_g": 3
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-1419",
+    "category": "flight_controllers",
+    "name": "DYS F7 Stack - F722 FC + 65A 2-8S AM32 4-in-1 ESC - ICM42688P - 30x30",
+    "manufacturer": "DYS",
+    "description": "The DYS F7 Stack combines the advanced DYS F722 Flight Controller with the high-performance 65A AM32 4-in-1 ESC.",
+    "link": "https://www.getfpv.com/electronics/flight-controllers/dys-f7-stack-f722-fc-65a-2-8s-am-32-4-in-1-esc-icm42688p-30x30.html",
+    "image_file": "https://cdn-v2.getfpv.com/media/catalog/product/d/y/dys-stack---f7-fc-_-65a-2-8s-am_32-4-in-1-esc---icm42688p---30x30-_image-1_1_.jpg",
+    "mcu_family": "F7",
+    "imu": "ICM42688P",
+    "mounting_pattern_mm": 30.5,
+    "cell_count_min": 2,
+    "cell_count_max": 8,
+    "esc_current_a": 65,
+    "esc_firmware": "AM32",
+    "is_aio": true,
+    "mounting_hole_size": "M3",
+    "compatibility": {
+      "mounting_pattern_mm": 30.5,
+      "mounting_hole_size": "M3",
+      "cell_count_min": 2,
+      "cell_count_max": 8,
+      "voltage_min_v": 6.0,
+      "voltage_max_v": 34.8,
+      "mcu_family": "F7",
+      "imu": "ICM42688P",
+      "_compat_hard": [
+        "mounting_pattern_mm"
+      ],
+      "_compat_soft": [
+        "mounting_hole_size",
+        "cell_count_min",
+        "cell_count_max",
+        "voltage_min_v",
+        "voltage_max_v"
+      ],
+      "is_aio": true,
+      "esc_current_a": 65,
+      "esc_firmware": "AM32"
+    },
+    "size_class": "5_inch",
+    "tags": [
+      "F7",
+      "30.5mm",
+      "5 inch"
+    ],
+    "firmware_targets": "Betaflight",
+    "approx_price": 44,
+    "schema_data": {
+      "weight_g": 8
+    },
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Products",
+    "manufacturer": "SpeedyBee",
+    "description": "Flight controller by SpeedyBee. MCU. mounting.",
+    "link": "https://www.speedybee.com/products/",
+    "image_file": "",
+    "approx_price": null,
+    "category": "flight_controllers",
+    "country": "China",
+    "source": "SpeedyBee",
+    "tags": [
+      "flight controllers",
+      "Betaflight",
+      "INAV"
+    ],
+    "pid": "FC-2058",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v2",
+    "category": "flight_controllers",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v2",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 29.27,
+    "approx_price_uah": 1200.0,
+    "size_class": "7_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "fc",
+      "7_inch"
+    ],
+    "approx_price": 29.27,
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false,
+    "imu": "ICM42688P",
+    "mcu_family": "STM32F405",
+    "firmware_targets": "Betaflight",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "pid": "FC-UA-603700-\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430-v3",
+    "category": "flight_controllers",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 v3",
+    "manufacturer": "603700",
+    "country": "Ukraine",
+    "approx_price_usd": 30.73,
+    "approx_price_uah": 1260.0,
+    "size_class": "10_inch",
+    "source": "vtx.in.ua",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "combat_proven": true,
+      "note": "Ukrainian manufacture."
+    },
+    "tags": [
+      "ukraine",
+      "combat_proven",
+      "ndaa_adjacent",
+      "non_chinese_supply_chain",
+      "fc",
+      "10_inch"
+    ],
+    "approx_price": 30.73,
+    "description": "Flight controller by 603700. MCU. mounting.",
+    "is_aio": false,
+    "imu": "ICM42688P",
+    "mcu_family": "STM32F405",
+    "firmware_targets": "Betaflight",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   }
 ]

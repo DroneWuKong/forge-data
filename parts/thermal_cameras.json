@@ -49,7 +49,7 @@
       "weight_g": 95
     },
     "manufacturer_country": "USA",
-    "price_usd": 3000.0,
+    "price_usd": 3000,
     "links": [
       "https://oem.flir.com/products/boson"
     ],
@@ -106,7 +106,7 @@
       "weight_g": 99
     },
     "manufacturer_country": "USA",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://oem.flir.com/products/boson"
     ],
@@ -158,7 +158,7 @@
       "weight_g": 101
     },
     "manufacturer_country": "USA",
-    "price_usd": 1500.0,
+    "price_usd": 1500,
     "links": [
       "https://oem.flir.com/products/boson"
     ],
@@ -211,7 +211,7 @@
       "weight_g": 105
     },
     "manufacturer_country": "USA",
-    "price_usd": 200.0,
+    "price_usd": 200,
     "links": [
       "https://oem.flir.com/products/lepton"
     ],
@@ -258,7 +258,7 @@
       "weight_g": 97
     },
     "manufacturer_country": "USA",
-    "price_usd": 50000.0,
+    "price_usd": 50000,
     "links": [
       "https://www.flir.com/products/neutrino-sx8/"
     ],
@@ -306,7 +306,7 @@
       "weight_g": 106
     },
     "manufacturer_country": "USA",
-    "price_usd": 8000.0,
+    "price_usd": 8000,
     "links": [
       "https://www.flir.com/products/vue-tz20-r/"
     ],
@@ -358,11 +358,11 @@
       "weight_g": 93
     },
     "manufacturer_country": "USA",
-    "price_usd": 15000.0,
+    "price_usd": 15000,
     "links": [
       "https://sierraolympia.com/product/vayu-hd/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -409,11 +409,11 @@
       "weight_g": 104
     },
     "manufacturer_country": "USA",
-    "price_usd": 18000.0,
+    "price_usd": 18000,
     "links": [
       "https://sierraolympia.com/product/vayu-hd-industrial/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Sierra-Olympic Technologies, Hood River OR. US manufacturer of thermal cameras for defense/commercial UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -457,7 +457,7 @@
       "weight_g": 106
     },
     "manufacturer_country": "USA",
-    "price_usd": 200000.0,
+    "price_usd": 200000,
     "links": [
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
@@ -506,7 +506,7 @@
       "weight_g": 96
     },
     "manufacturer_country": "USA",
-    "price_usd": 1000000.0,
+    "price_usd": 1000000,
     "links": [
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
@@ -556,7 +556,7 @@
       "weight_g": 93
     },
     "manufacturer_country": "USA",
-    "price_usd": 2000000.0,
+    "price_usd": 2000000,
     "links": [
       "https://www.l3harris.com/all-capabilities/wescam-mx-series"
     ],
@@ -602,11 +602,11 @@
       "weight_g": 93
     },
     "manufacturer_country": "USA",
-    "price_usd": 15000.0,
+    "price_usd": 15000,
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -649,11 +649,11 @@
       "weight_g": 99
     },
     "manufacturer_country": "USA",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://trilliumeng.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Trillium Engineering, Yucaipa CA. US manufacturer of EO/IR gimbals and payloads for UAS. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -697,11 +697,11 @@
       "weight_g": 94
     },
     "manufacturer_country": "USA",
-    "price_usd": 500.0,
+    "price_usd": 500,
     "links": [
       "https://www.thermal.com/drone-core.html"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Seek Thermal, Santa Barbara CA. US manufacturer. Consumer/commercial thermal cameras. NDAA compliant.",
     "origin": "Unknown"
   },
@@ -743,11 +743,11 @@
       "weight_g": 101
     },
     "manufacturer_country": "Israel",
-    "price_usd": 20000.0,
+    "price_usd": 20000,
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -789,11 +789,11 @@
       "weight_g": 97
     },
     "manufacturer_country": "Israel",
-    "price_usd": 40000.0,
+    "price_usd": 40000,
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -839,11 +839,11 @@
       "weight_g": 90
     },
     "manufacturer_country": "Israel",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://www.controp.com/family/stamp-family/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Controp Precision Technologies, Yehud, Israel. Allied-nation manufacturer. Israel is a major US defense partner. NDAA compliant under allied-nation supply chain.",
     "origin": "Unknown"
   },
@@ -885,11 +885,11 @@
       "weight_g": 102
     },
     "manufacturer_country": "Israel",
-    "price_usd": 150000.0,
+    "price_usd": 150000,
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
     "origin": "Unknown"
   },
@@ -930,11 +930,11 @@
       "weight_g": 93
     },
     "manufacturer_country": "Israel",
-    "price_usd": 80000.0,
+    "price_usd": 80000,
     "links": [
       "https://elbitsystems.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Elbit Systems, Haifa, Israel. Major Israeli defense contractor and direct US DoD supplier. Allied-nation NDAA compliant. US subsidiary: Elbit Systems of America.",
     "origin": "Unknown"
   },
@@ -977,7 +977,7 @@
       "weight_g": 105
     },
     "manufacturer_country": "Israel",
-    "price_usd": 500000.0,
+    "price_usd": 500000,
     "links": [
       "https://www.rafael.co.il/"
     ],
@@ -1022,7 +1022,7 @@
       "weight_g": 108
     },
     "manufacturer_country": "Turkey",
-    "price_usd": 300000.0,
+    "price_usd": 300000,
     "links": [
       "https://www.aselsan.com.tr/"
     ],
@@ -1067,7 +1067,7 @@
       "weight_g": 108
     },
     "manufacturer_country": "Turkey",
-    "price_usd": 100000.0,
+    "price_usd": 100000,
     "links": [
       "https://www.aselsan.com.tr/"
     ],
@@ -1120,11 +1120,11 @@
       "weight_g": 102
     },
     "manufacturer_country": "Czech Republic",
-    "price_usd": 8000.0,
+    "price_usd": 8000,
     "links": [
       "https://workswell.eu/thermal-drone-camera-inspection-wiris-pro/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1172,11 +1172,11 @@
       "weight_g": 94
     },
     "manufacturer_country": "Czech Republic",
-    "price_usd": 12000.0,
+    "price_usd": 12000,
     "links": [
       "https://workswell.eu/thermal-drone-camera-research-wiris-pro-sc/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1224,11 +1224,11 @@
       "weight_g": 106
     },
     "manufacturer_country": "Czech Republic",
-    "price_usd": 10000.0,
+    "price_usd": 10000,
     "links": [
       "https://workswell.eu/infrared-drone-camera-inspection-wiris-enterprise/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Workswell s.r.o., Prague, Czech Republic. EU/NATO member. Allied-nation NDAA compliant.",
     "origin": "Unknown"
   },
@@ -1268,7 +1268,7 @@
       "weight_g": 98
     },
     "manufacturer_country": "Vietnam",
-    "price_usd": 12000.0,
+    "price_usd": 12000,
     "links": [
       "https://gremsy.com/"
     ],
@@ -1313,11 +1313,11 @@
       "weight_g": 95
     },
     "manufacturer_country": "France",
-    "price_usd": 1000.0,
+    "price_usd": 1000,
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
     "origin": "Unknown"
   },
@@ -1360,11 +1360,11 @@
       "weight_g": 91
     },
     "manufacturer_country": "France",
-    "price_usd": 5000.0,
+    "price_usd": 5000,
     "links": [
       "https://www.lynred.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Lynred (formerly Sofradir-EC), Palaiseau, France. Joint venture Thales/Safran \u2014 major French defense companies. EU/NATO allied-nation NDAA compliant. Supplies FPAs to FLIR, L3Harris, and others.",
     "origin": "Unknown"
   },
@@ -1408,11 +1408,11 @@
       "weight_g": 92
     },
     "manufacturer_country": "USA",
-    "price_usd": 10000.0,
+    "price_usd": 10000,
     "links": [
       "https://www.leonardodrs.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Leonardo DRS, Arlington VA. US subsidiary of Leonardo S.p.A. (Italy). DoD prime contractor. NDAA compliant \u2014 US-based operations and supply chain.",
     "origin": "Unknown"
   },
@@ -1454,11 +1454,11 @@
       "weight_g": 104
     },
     "manufacturer_country": "China",
-    "price_usd": 800.0,
+    "price_usd": 800,
     "links": [
       "https://www.infiray.com/"
     ],
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "origin": "Unknown"
   },
   {
@@ -1504,7 +1504,7 @@
       "weight_g": 109
     },
     "manufacturer_country": "China",
-    "price_usd": 10000.0,
+    "price_usd": 10000,
     "links": [
       "https://www.dji.com/zenmuse-h30"
     ],
@@ -1518,7 +1518,7 @@
     "manufacturer": "Seek UAV",
     "country": "Ukraine",
     "approx_price_usd": 207.32,
-    "approx_price_uah": 8500.0,
+    "approx_price_uah": 8500,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -1544,45 +1544,13 @@
     "origin": "Unknown"
   },
   {
-    "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-U",
-    "category": "thermal_cameras",
-    "name": "\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440 UAV 256 Duo",
-    "manufacturer": "Seek UAV",
-    "country": "Ukraine",
-    "approx_price_usd": 292.68,
-    "approx_price_uah": 12000.0,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture."
-    },
-    "tags": [
-      "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
-      "thermal",
-      "ndaa"
-    ],
-    "approx_price": 292.68,
-    "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 292.68,
-    "weight_g": 80,
-    "origin": "Unknown"
-  },
-  {
     "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
     "category": "thermal_cameras",
     "name": "\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440 Seek UAV 384",
     "manufacturer": "Seek UAV",
     "country": "Ukraine",
     "approx_price_usd": 390.24,
-    "approx_price_uah": 16000.0,
+    "approx_price_uah": 16000,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -1608,45 +1576,13 @@
     "origin": "Unknown"
   },
   {
-    "pid": "CAM-UA-Seek-UAV-\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440-S",
-    "category": "thermal_cameras",
-    "name": "\u0422\u0435\u043f\u043b\u043e\u0432\u0456\u0437\u043e\u0440 Seek UAV 640",
-    "manufacturer": "Seek UAV",
-    "country": "Ukraine",
-    "approx_price_usd": 536.59,
-    "approx_price_uah": 22000.0,
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture."
-    },
-    "tags": [
-      "ukraine",
-      "combat-proven",
-      "ndaa-adjacent",
-      "non-chinese",
-      "thermal",
-      "ndaa"
-    ],
-    "approx_price": 536.59,
-    "description": "Thermal camera by Seek UAV. mK NETD.",
-    "ndaa_compliant": null,
-    "blue_uas": false,
-    "manufacturer_country": "Ukraine",
-    "price_usd": 536.59,
-    "weight_g": 80,
-    "origin": "Unknown"
-  },
-  {
     "pid": "CAM-UA-Odd-Syst-\u041a\u0443\u0440\u0431\u0430\u0441-256",
     "category": "thermal_cameras",
     "name": "\u041a\u0443\u0440\u0431\u0430\u0441-256",
     "manufacturer": "Odd Systems",
     "country": "Ukraine",
     "approx_price_usd": 243.9,
-    "approx_price_uah": 10000.0,
+    "approx_price_uah": 10000,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -1678,7 +1614,7 @@
     "manufacturer": "Odd Systems",
     "country": "Ukraine",
     "approx_price_usd": 426.83,
-    "approx_price_uah": 17500.0,
+    "approx_price_uah": 17500,
     "source": "vtx.in.ua",
     "compliance": {
       "ndaa_compliant": true,
@@ -1848,7 +1784,7 @@
     "blue_uas": false,
     "manufacturer_country": "USA",
     "price_usd": 800,
-    "weight_g": 25.0,
+    "weight_g": 25,
     "origin": "USA"
   },
   {
@@ -2141,7 +2077,7 @@
       "spectral_response": "7.8\u201314 \u00b5m",
       "hfov_deg": 35,
       "vfov_deg": 26,
-      "focal_length_mm": 4.0,
+      "focal_length_mm": 4,
       "f_number": "f/1.0",
       "focus": "Fixed",
       "detection_range_m": 333,
@@ -2169,7 +2105,7 @@
     },
     "ndaa_compliant": null,
     "manufacturer_country": "USA",
-    "price_usd": 1495.0,
+    "price_usd": 1495,
     "links": [
       "https://echomav.com/products/echotherm-module"
     ],
@@ -2198,114 +2134,18 @@
       "non_chinese_supply_chain",
       "thermal",
       "ukraine"
-    ]
-  },
-  {
-    "pid": "CAT-3200",
-    "name": "Colibri 212 Gimballed EO/IR",
-    "manufacturer": "Censys Technologies (integrated)",
-    "type": "Gimballed EO/IR Payload",
-    "thermal_resolution": "640x480",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
     ],
-    "notes": "Integrated payload for Sentaero universal housing",
-    "source": "https://www.censys-tech.com/sentaero"
-  },
-  {
-    "pid": "CAT-3201",
-    "name": "Workswell Wiris Pro Radiometric (Sentaero)",
-    "manufacturer": "Workswell / Censys Technologies",
-    "type": "Radiometric Thermal Payload",
-    "orientations": "Nadir, 60deg aft",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
-    ],
-    "notes": "Integrated for Sentaero universal payload housing",
-    "source": "https://workswell-thermal-camera.com/wiris-pro",
-    "ndaa_compliant": true,
-    "manufacturer_country": "Czech Republic"
-  },
-  {
-    "pid": "TCAM-0045",
-    "category": "thermal_cameras",
-    "name": "Teledyne FLIR Vue Pro 336 30Hz",
-    "manufacturer": "Teledyne FLIR",
-    "description": "FLIR sUAS thermal payload. 336x256 @ 30Hz. ECCN 6A003.b.4.b.",
-    "specs": {
-      "resolution": "336x256",
-      "frame_rate_hz": 30,
-      "eccn": "6A003.b.4.b"
-    },
-    "price_msrp_usd": 3920,
-    "link": "https://www.flir.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "TCAM-0046",
-    "category": "thermal_cameras",
-    "name": "Teledyne FLIR Vue Pro 640 30Hz",
-    "manufacturer": "Teledyne FLIR",
-    "description": "FLIR sUAS thermal payload. 640x512 @ 30Hz. ECCN 6A003.b.4.b.",
-    "specs": {
-      "resolution": "640x512",
-      "frame_rate_hz": 30,
-      "eccn": "6A003.b.4.b"
-    },
-    "price_msrp_usd": 4360,
-    "link": "https://www.flir.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "TCAM-0047",
-    "category": "thermal_cameras",
-    "name": "Teledyne FLIR Hadron 320",
-    "manufacturer": "Teledyne FLIR",
-    "description": "FLIR sUAS thermal payload. 320x256 @ 30Hz. ECCN 6A003.b.4.b.",
-    "specs": {
-      "resolution": "320x256",
-      "frame_rate_hz": 30,
-      "eccn": "6A003.b.4.b"
-    },
-    "price_msrp_usd": 3788,
-    "link": "https://www.flir.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "TCAM-0048",
-    "category": "thermal_cameras",
-    "name": "Teledyne FLIR Hadron 640R",
-    "manufacturer": "Teledyne FLIR",
-    "description": "FLIR sUAS thermal payload. 640x512 @ 30Hz. ECCN 6A003.b.4.b.",
-    "specs": {
-      "resolution": "640x512",
-      "frame_rate_hz": 30,
-      "eccn": "6A003.b.4.b"
-    },
-    "price_msrp_usd": 3872,
-    "link": "https://www.flir.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "TCAM-0049",
-    "category": "thermal_cameras",
-    "name": "Teledyne FLIR Zenmuse XT2 640",
-    "manufacturer": "Teledyne FLIR",
-    "description": "FLIR sUAS thermal payload. 640x512 @ 30Hz. ECCN 6A003.b.4.b.",
-    "specs": {
-      "resolution": "640x512",
-      "frame_rate_hz": 30,
-      "eccn": "6A003.b.4.b"
-    },
-    "price_msrp_usd": 6000,
-    "link": "https://www.flir.com",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "lens_fov_deg": 45,
+    "frame_rate_hz": 25,
+    "interface": "USB / MIPI",
+    "netd_mk": 35,
+    "pixel_pitch_um": 12,
+    "spectral_band": "LWIR (8-14\u03bcm)",
+    "resolution_h": 640,
+    "resolution_v": 480,
+    "power_w": 3.0,
+    "origin": "Unknown",
+    "ndaa_compliant": null,
+    "description": "Thermal camera by Odd Systems. mK NETD."
   }
 ]
