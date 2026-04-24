@@ -43,7 +43,7 @@
     "links": [
       "https://uavionix.com/product/microlink/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -99,7 +99,7 @@
     "links": [
       "https://uavionix.com/products/skyline/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "uAvionix Corporation, Bigfork MT. US avionics company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -324,7 +324,7 @@
     "links": [
       "https://www.ultra.group/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Ultra Electronics, UK. Allied-nation NDAA compliant. Part of Cobham Advanced Electronic Systems.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -370,7 +370,7 @@
     "links": [
       "https://www.performancedroneworx.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Performance Drone Works, Sarasota FL. US UAS C2 manufacturer. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -411,7 +411,7 @@
     "links": [
       "https://kuttatech.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Kutta Technologies, Phoenix AZ. US DoD C2 software company. NDAA compliant.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -470,11 +470,11 @@
     "schema_data": {
       "weight_g": 90
     },
-    "manufacturer_country": "Australia",
+    "manufacturer_country": "USA",
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -516,14 +516,14 @@
     "schema_data": {
       "weight_g": 60
     },
-    "manufacturer_country": "Australia",
+    "manufacturer_country": "USA",
     "links": [
       "https://domotactical.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC (Codan Communications), Adelaide, Australia. Allied-nation NDAA compliant. Major MANET supplier to Five Eyes nations.",
     "interface": "Ethernet / Serial / RF",
-    "weight_g": 60.0,
+    "weight_g": 60,
     "price_note": "Contact for pricing",
     "price_usd": null,
     "origin": "Unknown"
@@ -602,7 +602,7 @@
     "links": [
       "https://xtend.me/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "XTEND, Tel Aviv, Israel. Allied-nation NDAA compliant. XOS tactical drone OS.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -646,7 +646,7 @@
     "links": [
       "https://shield.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Shield AI, San Diego CA. US AI autonomy company. NDAA compliant. DoD prime contractor.",
     "interface": "Ethernet / Serial / RF",
     "price_note": "Contact for pricing",
@@ -655,76 +655,74 @@
     "origin": "Unknown"
   },
   {
-    "pid": "CAT-3206",
-    "name": "Censys 6-mile 2.4GHz Datalink Upgrade",
-    "manufacturer": "Censys Technologies",
-    "type": "Datalink Upgrade",
-    "frequency": "2.4 GHz",
-    "range_miles": 6,
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "pid": "C2DL-0014",
+    "category": "c2_datalinks",
+    "name": "Ondas Networks FullMAX \u2014 IEEE 802.16t Mission-Critical Private Wireless",
+    "manufacturer": "Ondas Networks (Ondas Holdings ONDS)",
+    "manufacturer_hq": "Sunnyvale, CA",
+    "description": "FullMAX is a software-defined radio (SDR) broadband platform based on the IEEE 802.16t ('dot16') standard \u2014 the first open standard designed specifically for mission-critical industrial private wireless networks. Enables secure, high-bandwidth, low-latency connectivity for railroads (HOT/EOT telemetry, PTC, CTC), utilities, oil & gas, transportation, government, and drone operators. In April 2025 the Association of American Railroads (AAR) selected 802.16t for next-generation Head-of-Train/End-of-Train (NGHE) upgrades across 25,000+ locomotives and 45,000+ EOT devices. Deployed in 450 MHz and 900 MHz A Block spectrum. Chicago Class I railroad first 900MHz A Block buildout completed July 2025 with Siemens Mobility as deployment partner. Also relevant for drone operator connectivity in industrial and rail environments.",
+    "link": "https://www.ondasnetworks.com/",
+    "approx_price": "Program-dependent",
+    "frequency_band": "450 MHz, 900 MHz A Block, 160 MHz",
+    "mimo": false,
+    "datalink_type": "private_licensed_broadband_SDR",
+    "c2_standard": "IEEE 802.16t",
+    "link_diversity": true,
+    "path_diversity": true,
+    "encryption": "Yes \u2014 enhanced OTA security vs legacy HOT/EOT",
+    "fleet_management": true,
+    "form_factor": "base_station_wayside_units_mobile_radios",
+    "weight_g": null,
+    "country": "USA",
+    "compliance": [
+      "ndaa",
+      "fcc_licensed_spectrum",
+      "802.16t_standard"
     ],
-    "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "CAT-3207",
-    "name": "Censys 10-mile 2.4GHz Datalink Upgrade",
-    "manufacturer": "Censys Technologies",
-    "type": "Datalink Upgrade",
-    "frequency": "2.4 GHz",
-    "range_miles": 10,
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "tags": [
+      "802.16t",
+      "dot16",
+      "private_wireless",
+      "railroad",
+      "HOT_EOT",
+      "NGHE",
+      "PTC",
+      "CTC",
+      "SDR",
+      "software_defined_radio",
+      "licensed_spectrum",
+      "450MHz",
+      "900MHz",
+      "mission_critical_IoT",
+      "siemens_mobility",
+      "AAR_selected",
+      "ondas_networks",
+      "USA"
     ],
-    "source": "https://www.censys-tech.com/sentaero",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "CAT-3208",
-    "name": "Censys Cellular Datalink Upgrade",
-    "manufacturer": "Censys Technologies",
-    "type": "Cellular C2 Datalink",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "schema_data": {
+      "weight_g": 0
+    },
+    "manufacturer_country": "USA",
+    "links": [
+      "https://www.ondasnetworks.com/"
     ],
-    "notes": "Primary C2 for BVLOS. Range dependent on cellular coverage.",
-    "source": "https://www.censys-tech.com/sentaero",
     "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "CAT-3209",
-    "name": "CASIA Long Range DAA (12-month activation)",
-    "manufacturer": "Iris Automation / Censys Technologies",
-    "type": "Detect-and-Avoid System",
-    "license": "12-month subscription",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
+    "ndaa_note": "Ondas Networks, Sunnyvale CA. US-developed 802.16t SDR platform. NDAA compliant.",
+    "use_cases": [
+      "railroad_HOT_EOT",
+      "PTC",
+      "CTC",
+      "utilities",
+      "oil_gas",
+      "drone_operators",
+      "government"
     ],
-    "notes": "Forward-facing EO + ADS-B. Required for BVLOS waivers.",
-    "source": "https://www.irisautomation.co/casia",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
-  },
-  {
-    "pid": "CAT-3210",
-    "name": "CASIA Long Range DAA (perpetual activation)",
-    "manufacturer": "Iris Automation / Censys Technologies",
-    "type": "Detect-and-Avoid System",
-    "license": "Perpetual",
-    "compatible_platforms": [
-      "Censys Sentaero 5",
-      "Censys Sentaero 6"
-    ],
-    "source": "https://www.irisautomation.co/casia",
-    "ndaa_compliant": true,
-    "manufacturer_country": "USA"
+    "addressable_installed_base": {
+      "locomotives_HOT": 25000,
+      "EOT_devices": 45000
+    },
+    "deployment_partner": "Siemens Mobility",
+    "parent_company": "Ondas Holdings (NASDAQ: ONDS)",
+    "origin": "USA"
   }
 ]
