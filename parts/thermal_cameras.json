@@ -28,11 +28,11 @@
     "power_w": 0.6,
     "subcategory": "oem_core",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar_free",
-      "ear_6a003"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar_free": true,
+      "ear_6a003": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -86,10 +86,10 @@
     "power_w": 0.6,
     "subcategory": "oem_core",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar_free"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar_free": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -139,10 +139,10 @@
     "power_w": 0.5,
     "subcategory": "oem_core",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar_free"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar_free": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -191,10 +191,10 @@
     "power_w": 0.15,
     "subcategory": "oem_core",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar_free"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar_free": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -239,10 +239,10 @@
     "power_w": 15,
     "subcategory": "defense_isr",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "insb",
       "cooled",
@@ -289,9 +289,9 @@
     "power_w": 8,
     "subcategory": "integrated_payload",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "dual_sensor",
       "radiometric",
@@ -338,9 +338,9 @@
     "power_w": 5,
     "subcategory": "integrated_payload",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -390,9 +390,9 @@
     "power_w": 6,
     "subcategory": "integrated_payload",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "vox",
       "uncooled",
@@ -437,11 +437,11 @@
     "power_w": 200,
     "subcategory": "gimbal",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "mil_std"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "mil_std": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -485,11 +485,11 @@
     "power_w": 350,
     "subcategory": "gimbal",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "mil_std"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "mil_std": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -534,12 +534,12 @@
     "power_w": 600,
     "subcategory": "gimbal",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "mil_std",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "mil_std": true,
+      "combat_proven": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -584,10 +584,10 @@
     "power_w": 8,
     "subcategory": "gimbal",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -630,11 +630,11 @@
     "power_w": 60,
     "subcategory": "gimbal",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "stanag_3733"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "stanag_3733": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -680,9 +680,9 @@
     "power_w": 0.35,
     "subcategory": "oem_core",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -725,9 +725,9 @@
     "power_w": 5,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -771,9 +771,9 @@
     "power_w": 12,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -820,9 +820,9 @@
     "power_w": 35,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -867,9 +867,9 @@
     "power_w": 40,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -913,9 +913,9 @@
     "power_w": 20,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -958,9 +958,9 @@
     "power_w": 300,
     "subcategory": "gimbal",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -1005,9 +1005,9 @@
     "power_w": 350,
     "subcategory": "gimbal",
     "country": "Turkey",
-    "compliance": [
-      "nato_member"
-    ],
+    "compliance": {
+      "nato_member": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -1050,10 +1050,10 @@
     "power_w": 120,
     "subcategory": "gimbal",
     "country": "Turkey",
-    "compliance": [
-      "combat_proven",
-      "nato_member"
-    ],
+    "compliance": {
+      "combat_proven": true,
+      "nato_member": true
+    },
     "tags": [
       "cooled",
       "mwir",
@@ -1100,9 +1100,9 @@
     "power_w": 6,
     "subcategory": "integrated_payload",
     "country": "Czech Republic",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1153,9 +1153,9 @@
     "power_w": 6,
     "subcategory": "integrated_payload",
     "country": "Czech Republic",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1205,9 +1205,9 @@
     "power_w": 7,
     "subcategory": "integrated_payload",
     "country": "Czech Republic",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1252,9 +1252,9 @@
     "power_w": 15,
     "subcategory": "gimbal",
     "country": "Vietnam",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "flir_boson_640",
       "4k_zoom_20x",
@@ -1296,10 +1296,10 @@
     "power_w": 0.3,
     "subcategory": "oem_core",
     "country": "France",
-    "compliance": [
-      "ndaa",
-      "eu_sovereign"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "eu_sovereign": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1341,10 +1341,10 @@
     "power_w": 0.5,
     "subcategory": "oem_core",
     "country": "France",
-    "compliance": [
-      "ndaa",
-      "eu_sovereign"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "eu_sovereign": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1388,10 +1388,10 @@
     "power_w": null,
     "subcategory": "defense_isr",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "cooled",
       "uncooled",
@@ -1436,9 +1436,9 @@
     "power_w": 0.4,
     "subcategory": "oem_core",
     "country": "China",
-    "compliance": [
-      "not_ndaa"
-    ],
+    "compliance": {
+      "not_ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",
@@ -1484,9 +1484,9 @@
     "power_w": 18,
     "subcategory": "integrated_payload",
     "country": "China",
-    "compliance": [
-      "not_ndaa"
-    ],
+    "compliance": {
+      "not_ndaa": true
+    },
     "tags": [
       "uncooled",
       "lwir",

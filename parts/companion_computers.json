@@ -27,10 +27,10 @@
     "form_factor_mm": "70 x 36",
     "subcategory": "integrated_autopilot_companion",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "qrb5165",
       "15_tops",
@@ -84,10 +84,10 @@
     "form_factor_mm": "42 x 42 (30.5mm mount)",
     "subcategory": "integrated_autopilot_companion",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "qrb5165",
       "15_tops",
@@ -142,10 +142,10 @@
     "form_factor_mm": null,
     "subcategory": "carrier_board",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "jetson_orin",
       "75v_battery_input",
@@ -196,10 +196,10 @@
     "form_factor_mm": null,
     "subcategory": "carrier_board",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "jetson_orin_nx",
       "157_tops",
@@ -252,10 +252,10 @@
     "form_factor_mm": null,
     "subcategory": "carrier_board",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "voxl2",
       "rtk_gnss",
@@ -307,9 +307,9 @@
     "form_factor_mm": "100 x 87 (module)",
     "subcategory": "standalone_companion",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "275_tops",
       "ampere_gpu",
@@ -362,9 +362,9 @@
     "form_factor_mm": "70 x 45 (SO-DIMM module)",
     "subcategory": "standalone_companion",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "157_tops",
       "ampere_gpu",
@@ -416,9 +416,9 @@
     "form_factor_mm": "70 x 45 (SO-DIMM module)",
     "subcategory": "standalone_companion",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "67_tops",
       "entry_level",
@@ -466,9 +466,9 @@
     "form_factor_mm": null,
     "subcategory": "standalone_companion",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "2070_tflops",
       "next_gen",
@@ -513,7 +513,7 @@
     "form_factor_mm": "M.2 2242",
     "subcategory": "ai_accelerator",
     "country": "Israel",
-    "compliance": [],
+    "compliance": {},
     "tags": [
       "26_tops",
       "2.5w",
@@ -560,7 +560,7 @@
     "form_factor_mm": "M.2 2280",
     "subcategory": "ai_accelerator",
     "country": "Israel",
-    "compliance": [],
+    "compliance": {},
     "tags": [
       "40_tops",
       "2.5w",
@@ -612,9 +612,9 @@
     "form_factor_mm": null,
     "subcategory": "standalone_companion",
     "country": "Taiwan",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "jetson_orin_nx",
       "100_tops",
@@ -668,9 +668,9 @@
     "form_factor_mm": null,
     "subcategory": "carrier_board",
     "country": "Turkey",
-    "compliance": [
-      "nato_member"
-    ],
+    "compliance": {
+      "nato_member": true
+    },
     "tags": [
       "jetson_orin_nx",
       "mil_temp",
@@ -722,9 +722,9 @@
     "form_factor_mm": null,
     "subcategory": "carrier_board",
     "country": "Turkey",
-    "compliance": [
-      "nato_member"
-    ],
+    "compliance": {
+      "nato_member": true
+    },
     "tags": [
       "jetson_orin_nx",
       "mil_temp",
@@ -774,9 +774,9 @@
     "form_factor_mm": null,
     "subcategory": "standalone_companion",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "qrb5165",
       "15_tops",

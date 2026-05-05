@@ -19,9 +19,9 @@
     "power_w": 18,
     "interface": "Ethernet (UDP)",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "digital_lidar",
       "360_fov",
@@ -65,9 +65,9 @@
     "power_w": 18,
     "interface": "Ethernet (UDP)",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "digital_lidar",
       "wide_vfov_90deg",
@@ -109,9 +109,9 @@
     "power_w": 18,
     "interface": "Ethernet (UDP)",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "digital_lidar",
       "long_range",
@@ -151,10 +151,10 @@
     "power_w": 30,
     "interface": "Ethernet / USB",
     "country": "Austria",
-    "compliance": [
-      "ndaa",
-      "nato_aligned"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato_aligned": true
+    },
     "tags": [
       "survey_grade",
       "airborne",
@@ -196,10 +196,10 @@
     "power_w": 40,
     "interface": "Ethernet",
     "country": "Austria",
-    "compliance": [
-      "ndaa",
-      "nato_aligned"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato_aligned": true
+    },
     "tags": [
       "survey_grade",
       "1.8mhz",
@@ -240,9 +240,9 @@
     "power_w": 45,
     "interface": "Ethernet",
     "country": "France",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "integrated_solution",
       "riegl_scanner",
@@ -292,9 +292,9 @@
     "power_w": 9,
     "interface": "Ethernet",
     "country": "China",
-    "compliance": [
-      "not_ndaa"
-    ],
+    "compliance": {
+      "not_ndaa": true
+    },
     "tags": [
       "budget",
       "265g",
@@ -335,10 +335,10 @@
     "power_w": 2,
     "interface": "UART / CAN",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar_free"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar_free": true
+    },
     "tags": [
       "radar_altimeter",
       "24ghz",
@@ -380,9 +380,9 @@
     "power_w": 50,
     "interface": "Ethernet",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "metamaterial_esa",
       "no_moving_parts",
@@ -424,9 +424,9 @@
     "power_w": 150,
     "interface": "Ethernet",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "metamaterial_esa",
       "360_coverage",
@@ -464,10 +464,10 @@
     "power_w": 1.5,
     "interface": "serial / SPI",
     "country": "Australia",
-    "compliance": [
-      "ndaa",
-      "five_eyes"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "five_eyes": true
+    },
     "tags": [
       "mems_breakthrough",
       "0.2_deg_hr",
@@ -506,10 +506,10 @@
     "power_w": 1,
     "interface": "serial / Ethernet",
     "country": "France",
-    "compliance": [
-      "ndaa",
-      "eu_sovereign"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "eu_sovereign": true
+    },
     "tags": [
       "tactical_grade",
       "0.8_deg_hr",
@@ -547,10 +547,10 @@
     "power_w": 0.3,
     "interface": "serial / SPI",
     "country": "France",
-    "compliance": [
-      "ndaa",
-      "eu_sovereign"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "eu_sovereign": true
+    },
     "tags": [
       "ultra_miniature",
       "12g",
@@ -590,10 +590,10 @@
     "power_w": 1.5,
     "interface": "serial / Ethernet / CAN",
     "country": "France",
-    "compliance": [
-      "ndaa",
-      "eu_sovereign"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "eu_sovereign": true
+    },
     "tags": [
       "dual_antenna",
       "rtk",
@@ -632,9 +632,9 @@
     "power_w": 0.5,
     "interface": "serial / SPI",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "ahrs",
       "compact",
@@ -672,9 +672,9 @@
     "power_w": 0.7,
     "interface": "serial / SPI",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "gps_ins",
       "kalman_filter",
@@ -711,9 +711,9 @@
     "power_w": 1,
     "interface": "serial / SPI / Ethernet",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "dual_antenna",
       "gps_ins",
@@ -751,9 +751,9 @@
     "power_w": 3,
     "interface": "serial / Ethernet / CAN",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "defense_grade",
       "dual_antenna",
@@ -788,10 +788,10 @@
     "power_w": 0.5,
     "interface": "CAN / I2C",
     "country": "United States",
-    "compliance": [
-      "blue_uas",
-      "ndaa"
-    ],
+    "compliance": {
+      "blue_uas": true,
+      "ndaa": true
+    },
     "tags": [
       "optical_flow",
       "gps_denied",
@@ -830,10 +830,10 @@
     "power_w": 10,
     "interface": "serial / Ethernet",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "fog",
       "0.05_deg_hr",
@@ -873,10 +873,10 @@
     "power_w": 8,
     "interface": "Ethernet / serial / WiFi",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "diu_approved"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "diu_approved": true
+    },
     "tags": [
       "5_band",
       "panchromatic",
@@ -917,9 +917,9 @@
     "power_w": 10,
     "interface": "Ethernet / serial / WiFi",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "6_band",
       "multispectral_plus_thermal",
@@ -958,10 +958,10 @@
     "power_w": 8,
     "interface": "serial / USB",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "diu_approved"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "diu_approved": true
+    },
     "tags": [
       "6_sensor",
       "multispectral",
@@ -1982,11 +1982,11 @@
     "power_w": null,
     "interface": "Software / API",
     "country": "USA",
-    "compliance": [
-      "ndaa",
-      "bvlos_enabling",
-      "faa_approved"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "bvlos_enabling": true,
+      "faa_approved": true
+    },
     "tags": [
       "airspace_management",
       "BVLOS",
