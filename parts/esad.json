@@ -17,9 +17,9 @@
     "platform_class": "fpv_strike",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "leefi",
       "fpv_strike",
@@ -60,10 +60,10 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "heritage",
       "nsi_derivative",
@@ -104,10 +104,10 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "energetics",
       "detonators",
@@ -149,10 +149,10 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "leefi",
       "blue_chip",
@@ -195,10 +195,10 @@
     "platform_class": "loitering_munition",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true
+    },
     "tags": [
       "complete_module",
       "safety_logic",
@@ -240,11 +240,11 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "combat_proven": true
+    },
     "tags": [
       "precision_guided",
       "heritage",
@@ -282,9 +282,9 @@
     "platform_class": "loitering_munition",
     "known_integrations": [],
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "israeli_defense",
       "loitering_munition",
@@ -318,9 +318,9 @@
     "platform_class": "fpv_strike",
     "known_integrations": [],
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "fuse_board",
       "compact",
@@ -358,7 +358,7 @@
     "platform_class": "loitering_munition",
     "known_integrations": [],
     "country": "United Arab Emirates",
-    "compliance": [],
+    "compliance": {},
     "tags": [
       "uae_indigenous",
       "edge_group",
@@ -396,11 +396,11 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "United Kingdom",
-    "compliance": [
-      "ndaa",
-      "nato",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato": true,
+      "combat_proven": true
+    },
     "tags": [
       "energetics",
       "nato_heritage",
@@ -441,11 +441,11 @@
     "platform_class": "tactical_missile",
     "known_integrations": [],
     "country": "Germany",
-    "compliance": [
-      "ndaa",
-      "nato",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato": true,
+      "combat_proven": true
+    },
     "tags": [
       "precision_fuze",
       "diehl_defence",
@@ -486,11 +486,11 @@
     "platform_class": "gun_launched_munition",
     "known_integrations": [],
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "itar",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "itar": true,
+      "combat_proven": true
+    },
     "tags": [
       "micro_miniature",
       "shock_hardened",
