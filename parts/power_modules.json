@@ -24,7 +24,8 @@
       "dronecan",
       "12s",
       "digital"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "PM-1001",
@@ -51,7 +52,8 @@
       "6s",
       "bec",
       "pixhawk"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "PM-1002",
@@ -77,7 +79,8 @@
       "12s",
       "pdb",
       "high-current"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "PM-1003",
@@ -105,7 +108,8 @@
       "usa-made",
       "12s",
       "high-current"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "PM-1004",
@@ -131,7 +135,8 @@
       "14s",
       "high-voltage",
       "90a"
-    ]
+    ],
+    "origin": "China"
   },
   {
     "pid": "PM-1005",
@@ -158,14 +163,15 @@
       "ndaa",
       "usa-made",
       "12s"
-    ]
+    ],
+    "origin": "USA"
   },
   {
     "pid": "PM-1006",
     "name": "Zubax Myxa / Babel Smart Power \u2014 DroneCAN BMS",
     "manufacturer": "Zubax Robotics",
     "manufacturer_country": "Germany",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "price_usd": 149,
     "source": "https://zubax.com",
     "interface": "DroneCAN (CAN)",
@@ -182,14 +188,15 @@
       "ndaa",
       "germany",
       "smart-battery"
-    ]
+    ],
+    "origin": "Unknown"
   },
   {
     "pid": "PM-1007",
     "name": "Tattu Plus Smart Battery 16000mAh 6S",
     "manufacturer": "Grepow",
     "manufacturer_country": "China",
-    "ndaa_compliant": false,
+    "ndaa_compliant": null,
     "price_usd": 299,
     "source": "https://www.grepow.com/products/tattu-plus",
     "interface": "Smart BMS (CAN/UART)",
@@ -207,6 +214,7 @@
       "bms",
       "6s",
       "china"
-    ]
+    ],
+    "origin": "Unknown"
   }
 ]

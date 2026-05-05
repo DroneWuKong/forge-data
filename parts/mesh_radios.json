@@ -443,7 +443,7 @@
       "ndaa",
       "usa"
     ],
-    "frequency_ghz": 5.0,
+    "frequency_ghz": 5,
     "encryption": "AES-256",
     "max_throughput_mbps": 150,
     "mesh_protocol": "Wave Relay (proprietary)",
@@ -508,7 +508,7 @@
       "ndaa",
       "usa"
     ],
-    "frequency_ghz": 5.0,
+    "frequency_ghz": 5,
     "encryption": "AES-256",
     "max_throughput_mbps": 150,
     "mesh_protocol": "Wave Relay (proprietary)",
@@ -715,14 +715,14 @@
       "https://www.rajant.com/"
     ],
     "manufacturer_country": "USA",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Rajant Corporation, Malvern PA. US kinetic mesh radio manufacturer. NDAA compliant. DoD/mining/enterprise deployments.",
     "interface": "RF Mesh / Ethernet",
     "weight_g": 120,
     "origin": "Unknown"
   },
   {
-    "pid": "MESH-1013",
+    "pid": "MESH-5003",
     "category": "mesh_radios",
     "name": "DTC BluSDR-90-UL",
     "manufacturer": "DTC (Codan)",
@@ -775,13 +775,13 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"
   },
   {
-    "pid": "MESH-1014",
+    "pid": "MESH-5004",
     "category": "mesh_radios",
     "name": "DTC BluSDR-30",
     "manufacturer": "DTC (Codan)",
@@ -833,13 +833,13 @@
       "https://www.domotactical.com"
     ],
     "manufacturer_country": "Australia",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "DTC/Codan, Adelaide, Australia. Allied-nation NDAA compliant.",
-    "weight_g": 110.0,
+    "weight_g": 110,
     "origin": "Unknown"
   },
   {
-    "pid": "MESH-1015",
+    "pid": "MESH-5005",
     "category": "mesh_radios",
     "name": "Simpulse SL200",
     "manufacturer": "Simpulse",
@@ -890,7 +890,7 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"
@@ -946,7 +946,7 @@
       "https://www.simpulse.fr"
     ],
     "manufacturer_country": "France",
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Simpulse, France. EU/NATO allied-nation manufacturer. NDAA compliant.",
     "weight_g": 80,
     "origin": "Unknown"
@@ -1064,7 +1064,7 @@
     "manufacturer_country": "Germany",
     "ndaa_compliant": null,
     "ndaa_note": "Meshmerize GmbH, Germany. EU/NATO allied-nation NDAA compliant. Mesh networking software.",
-    "weight_g": 5.0,
+    "weight_g": 5,
     "origin": "Unknown"
   },
   {
@@ -1129,7 +1129,7 @@
     "origin": "Unknown"
   },
   {
-    "pid": "MESH-1020",
+    "pid": "MESH-5006",
     "category": "mesh_radios",
     "name": "Horizon31 MobileMesh Radio",
     "manufacturer": "Horizon31",
@@ -1322,7 +1322,7 @@
     "form_factor": "Modular (WisBlock)",
     "weight_g": 8,
     "tx_power_dbm": 22,
-    "sleep_current_ua": 2.0,
+    "sleep_current_ua": 2,
     "ndaa_compliant": null,
     "open_source": true,
     "use_cases": [
@@ -1387,7 +1387,7 @@
     ],
     "ndaa_note": "Doodle Labs, Los Angeles CA. US mesh radio manufacturer. NDAA compliant.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 56.0,
+    "weight_g": 56,
     "tags": [
       "ndaa",
       "usa"
@@ -1536,7 +1536,7 @@
     ],
     "ndaa_note": "Silvus Technologies, Los Angeles CA. US MANET radio manufacturer. NDAA compliant. Multiple DoD contracts.",
     "interface": "RF Mesh / Ethernet",
-    "weight_g": 160.0,
+    "weight_g": 160,
     "tags": [
       "ndaa",
       "usa"

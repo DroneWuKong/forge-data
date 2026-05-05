@@ -49,7 +49,7 @@
       "weight_g": 31
     },
     "manufacturer_country": "USA",
-    "price_usd": 449.0,
+    "price_usd": 449,
     "links": [
       "https://www.modalai.com/products/voxl-2"
     ],
@@ -104,7 +104,7 @@
       "weight_g": 32
     },
     "manufacturer_country": "USA",
-    "price_usd": 1170.0,
+    "price_usd": 1170,
     "links": [
       "https://www.modalai.com/products/voxl-2-mini"
     ],
@@ -159,7 +159,7 @@
       "weight_g": 40
     },
     "manufacturer_country": "USA",
-    "price_usd": 300.0,
+    "price_usd": 300,
     "links": [
       "https://arkelectron.com/"
     ],
@@ -216,7 +216,7 @@
       "weight_g": 48
     },
     "manufacturer_country": "USA",
-    "price_usd": 600.0,
+    "price_usd": 600,
     "links": [
       "https://arkelectron.com/"
     ],
@@ -269,7 +269,7 @@
       "weight_g": 42
     },
     "manufacturer_country": "USA",
-    "price_usd": 1500.0,
+    "price_usd": 1500,
     "links": [
       "https://arkelectron.com/"
     ],
@@ -324,7 +324,7 @@
       "weight_g": 49
     },
     "manufacturer_country": "USA",
-    "price_usd": 999.0,
+    "price_usd": 999,
     "links": [
       "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
     ],
@@ -379,7 +379,7 @@
       "weight_g": 44
     },
     "manufacturer_country": "USA",
-    "price_usd": 399.0,
+    "price_usd": 399,
     "links": [
       "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
     ],
@@ -431,7 +431,7 @@
       "weight_g": 35
     },
     "manufacturer_country": "USA",
-    "price_usd": 199.0,
+    "price_usd": 199,
     "links": [
       "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/"
     ],
@@ -528,11 +528,11 @@
       "weight_g": 48
     },
     "manufacturer_country": "Israel",
-    "price_usd": 70.0,
+    "price_usd": 70,
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
     "origin": "Unknown"
@@ -576,11 +576,11 @@
       "weight_g": 37
     },
     "manufacturer_country": "Israel",
-    "price_usd": 100.0,
+    "price_usd": 100,
     "links": [
       "https://hailo.ai/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
     "origin": "Unknown"
@@ -631,11 +631,11 @@
       "weight_g": 32
     },
     "manufacturer_country": "Taiwan",
-    "price_usd": 1000.0,
+    "price_usd": 1000,
     "links": [
       "https://www.neousys-tech.com/"
     ],
-    "ndaa_compliant": true,
+    "ndaa_compliant": null,
     "ndaa_note": "Neousys Technology, New Taipei City, Taiwan. Allied-nation NDAA compliant. Rugged embedded computing.",
     "interface": "USB / Ethernet / UART",
     "origin": "Unknown"
@@ -682,14 +682,14 @@
       "weight_g": 42
     },
     "manufacturer_country": "Turkey",
-    "price_usd": 200.0,
+    "price_usd": 200,
     "links": [
       "https://www.forecr.io/"
     ],
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
     "interface": "Ethernet / USB / UART / PCIe",
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "COMP-0014",
@@ -737,14 +737,14 @@
       "weight_g": 33
     },
     "manufacturer_country": "Turkey",
-    "price_usd": 300.0,
+    "price_usd": 300,
     "links": [
       "https://www.forecr.io/"
     ],
     "ndaa_note": "Forecr, Turkey. NATO member but Turkey has complex US relationship. NDAA status uncertain \u2014 verify per contract.",
     "interface": "Ethernet / USB / UART / PCIe",
     "origin": "Unknown",
-    "ndaa_compliant": true
+    "ndaa_compliant": null
   },
   {
     "pid": "COMP-0015",
@@ -757,7 +757,7 @@
     "processor": "Qualcomm QRB5165",
     "ai_compute_tops": 15,
     "ram_gb": 8,
-    "weight_g": 5.0,
+    "weight_g": 5,
     "power_w": 6,
     "camera_inputs": 7,
     "camera_interface": "MIPI-CSI",
@@ -790,7 +790,7 @@
       "weight_g": 36
     },
     "manufacturer_country": "USA",
-    "price_usd": 500.0,
+    "price_usd": 500,
     "links": [
       "https://www.qualcomm.com/products/internet-of-things/industrial/drones/flight-rb5"
     ],
@@ -1073,7 +1073,7 @@
       "MAVLink UART",
       "MAVLink TCP/UDP"
     ],
-    "battery_input_v_max": 5.0,
+    "battery_input_v_max": 5,
     "flight_controller_integration": "MAVLink v2 (ArduPilot / PX4 / any MAVLink FC)",
     "form_factor_mm": "Depends on SBC \u2014 RPi Zero W: 65 x 30 x 5",
     "country": "Australia / International (open source)",
