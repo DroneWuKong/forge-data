@@ -14,10 +14,10 @@
     "form_factor": "tube-launched interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "jet_interceptor",
       "370mph",
@@ -57,9 +57,9 @@
     "form_factor": "quadcopter interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "cv_guided",
       "200mph",
@@ -97,9 +97,9 @@
     "form_factor": "VTOL jet interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "vtol",
       "reusable",
@@ -138,10 +138,10 @@
     "form_factor": "fixed / mobile sensor",
     "subcategory": "rf_detection",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "passive_rf",
       "700_systems",
@@ -178,10 +178,10 @@
     "form_factor": "backpack / handheld (3 lbs)",
     "subcategory": "jammer_ew",
     "country": "United States",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "backpack",
       "3lbs",
@@ -219,10 +219,10 @@
     "form_factor": "fixed / vehicle / portable",
     "subcategory": "cyber_takeover",
     "country": "Israel",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "protocol_takeover",
       "no_jamming",
@@ -261,9 +261,9 @@
     "form_factor": "integrated system",
     "subcategory": "cyber_takeover",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "protocol_manipulation",
       "no_preloaded_libraries",
@@ -300,9 +300,9 @@
     "form_factor": "fixed-site integrated system",
     "subcategory": "integrated_system",
     "country": "Israel",
-    "compliance": [
-      "combat_proven"
-    ],
+    "compliance": {
+      "combat_proven": true
+    },
     "tags": [
       "rada_radar",
       "c_guard_jammer",
@@ -342,10 +342,10 @@
     "form_factor": "rifle / handheld",
     "subcategory": "jammer_ew",
     "country": "Australia",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "rifle_jammer",
       "7.3kg",
@@ -385,9 +385,9 @@
     "form_factor": "wearable body-worn",
     "subcategory": "rf_detection",
     "country": "Australia",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "tags": [
       "wearable",
       "passive_rf",
@@ -426,10 +426,10 @@
     "form_factor": "fixed-site modular",
     "subcategory": "integrated_system",
     "country": "Australia",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "tags": [
       "fixed_site",
       "modular",
@@ -468,11 +468,11 @@
     "form_factor": "fixed / vehicle-mounted radar",
     "subcategory": "radar",
     "country": "Germany",
-    "compliance": [
-      "ndaa",
-      "nato",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato": true,
+      "combat_proven": true
+    },
     "tags": [
       "aesa",
       "3d_radar",
@@ -512,11 +512,11 @@
     "form_factor": "vehicle / fixed-site",
     "subcategory": "jammer_ew",
     "country": "Germany",
-    "compliance": [
-      "ndaa",
-      "nato",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato": true,
+      "combat_proven": true
+    },
     "tags": [
       "gapless",
       "400mhz_6ghz",
@@ -555,10 +555,10 @@
     "form_factor": "fixed / portable radar",
     "subcategory": "radar",
     "country": "Netherlands",
-    "compliance": [
-      "ndaa",
-      "nato"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "nato": true
+    },
     "tags": [
       "micro_doppler",
       "bird_drone_classification",
@@ -596,10 +596,10 @@
     "form_factor": "vehicle-mounted integrated",
     "subcategory": "integrated_system",
     "country": "Turkey",
-    "compliance": [
-      "nato_member",
-      "combat_proven"
-    ],
+    "compliance": {
+      "nato_member": true,
+      "combat_proven": true
+    },
     "tags": [
       "integrated",
       "radar",
@@ -658,10 +658,10 @@
     "defeat_method": "protocol takeover (non-jamming)",
     "defeat_range_km": 4.0,
     "form_factor": "fixed / vehicle / portable",
-    "compliance": [
-      "ndaa",
-      "combat_proven"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "combat_proven": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -693,9 +693,9 @@
     "defeat_method": "directional RF jamming (multi-band)",
     "defeat_range_km": 3.0,
     "form_factor": "rifle / handheld",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -729,9 +729,9 @@
     "defeat_method": "RF jamming + GNSS denial (wideband)",
     "defeat_range_km": 5.0,
     "form_factor": "vehicle / fixed-site",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -763,9 +763,9 @@
     "defeat_method": "RF jamming (covert audio-spectrum masking)",
     "defeat_range_km": 2.0,
     "form_factor": "portable / fixed",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -795,9 +795,9 @@
     ],
     "defeat_method": "AESA radar detection + tracking",
     "form_factor": "vehicle-mounted / fixed-site radar",
-    "compliance": [
-      "nato_member"
-    ],
+    "compliance": {
+      "nato_member": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -829,9 +829,9 @@
     "defeat_method": "RF detection + jamming + CV tracking",
     "defeat_range_km": 3.0,
     "form_factor": "portable integrated system",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -863,9 +863,9 @@
     "defeat_method": "kinetic interceptor (net capture)",
     "defeat_range_km": 2.0,
     "form_factor": "launcher / fixed-site",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "Unknown",
     "ndaa_compliant": null
   },
@@ -896,9 +896,9 @@
     ],
     "defeat_method": "EO/IR detection + tracking",
     "form_factor": "turret / fixed-site EO/IR",
-    "compliance": [
-      "ndaa"
-    ],
+    "compliance": {
+      "ndaa": true
+    },
     "origin": "China",
     "ndaa_compliant": false
   },
@@ -923,12 +923,12 @@
     "launch": "autonomous_from_stationary_dock",
     "navigation": "radar_guided_then_ai_computer_vision",
     "neutralization": "net_capture_parachute",
-    "compliance": [
-      "combat_proven",
-      "ndaa_allied",
-      "no_jamming",
-      "gps_independent"
-    ],
+    "compliance": {
+      "combat_proven": true,
+      "ndaa_allied": true,
+      "no_jamming": true,
+      "gps_independent": true
+    },
     "cuas_layer": "Layer 2 kinetic",
     "stack_integration": "Sentrycs CoRF (L1 detect) \u2192 Iron Drone Raider (L2 kinetic) \u2192 Insight Sensors (L3 optical)",
     "contracts": [
@@ -993,9 +993,9 @@
     "form_factor": "handheld_portable",
     "subcategory": "cyber_takeover_portable",
     "country": "Israel",
-    "compliance": [
-      "ndaa_allied"
-    ],
+    "compliance": {
+      "ndaa_allied": true
+    },
     "tags": [
       "handheld",
       "portable",
@@ -1039,9 +1039,9 @@
     "form_factor": "software_layer",
     "subcategory": "ai_detection_software",
     "country": "Israel",
-    "compliance": [
-      "ndaa_allied"
-    ],
+    "compliance": {
+      "ndaa_allied": true
+    },
     "tags": [
       "AI",
       "adaptive",
