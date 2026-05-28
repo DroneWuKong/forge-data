@@ -5389,7 +5389,7 @@
     "description": "RadioMaster TX16S MK3 Radio Controller - ELRS Dual-Band continues to lead open-source RC innovation, building on the trusted global legacy of the TX16S series.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mk3-radio-controller-elrs-dual-band.html",
     "image_file": "",
-    "approx_price": 310.99,
+    "approx_price": 389.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24203CN1Z",
@@ -5441,7 +5441,7 @@
     "description": "Lumenier has officially teamed up with RadioMaster to bring you the Lumenier Edition TX16S MKII MAX PRO Radio Transmitter.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mkii-max-pro-radio-transmitter-w-ag01-gimbals-lumenier-edition-elrs-2-4ghz.html",
     "image_file": "",
-    "approx_price": 3999.0,
+    "approx_price": 139.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "22574",
@@ -5496,7 +5496,7 @@
     "description": "The iFlight Commando 14 GemX Radio Transmitter is your reliable companion for uncompromised signal performance.",
     "link": "https://www.getfpv.com/iflight-commando-14-gemx-radio-transmitter.html",
     "image_file": "",
-    "approx_price": 3999.0,
+    "approx_price": 2699.0,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24069CN1Z",
@@ -5565,5 +5565,30 @@
     "source": "getfpv.com",
     "origin": "China",
     "ndaa_compliant": false
+  },
+  {
+    "name": "Orqa FPV.Ace Chapter 1 - Radio Controller Kit",
+    "manufacturer": "Orqa",
+    "description": "Master the art of flying with Orqa FPV.Ace Chapter 1 - Radio Controller Kit",
+    "link": "https://www.getfpv.com/orqa-fpv-ace-chapter-1-radio-controller-kit.html",
+    "image_file": "",
+    "approx_price": 394.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G23875HR1Z",
+      "UPC (GTIN)": "7012204897426",
+      "Manufacturer": "Orqa",
+      "Country of Manufacture": "Croatia",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "N/A"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1013",
+    "source": "getfpv.com",
+    "origin": "Croatia",
+    "ndaa_compliant": true
   }
 ]

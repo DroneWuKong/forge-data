@@ -586,11 +586,11 @@
     "anti_jam": true,
     "form_factor": "fiber_optic_spool_two_variants",
     "country": "USA / Israel",
-    "compliance": [
-      "ndaa_compliant",
-      "combat_proven",
-      "buy_american"
-    ],
+    "compliance": {
+      "ndaa_compliant": true,
+      "combat_proven": true,
+      "buy_american": true
+    },
     "specs": {
       "variants": [
         {

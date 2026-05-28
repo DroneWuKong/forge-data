@@ -1,0 +1,233 @@
+[
+  {
+    "pid": "SIMULATORS-VENDOR-001",
+    "name": "SensorOps",
+    "manufacturer": "SensorOps",
+    "category": "simulators",
+    "link": "https://www.sensorops.io/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-002",
+    "name": "YouTube - SensorOps",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40sensorops/videos",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-003",
+    "name": "HAVIK",
+    "manufacturer": "HAVIK",
+    "category": "simulators",
+    "link": "https://www.havik.us/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-004",
+    "name": "YouTube - HAVIK",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40HAVIKSolutions",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-005",
+    "name": "Simtech Solutions (Ukrainian Fight Drone Simulator - UFDS)",
+    "manufacturer": "Simtech Solutions",
+    "category": "simulators",
+    "link": "https://ukrainianfightdronesimulator.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-006",
+    "name": "YouTube - Simtech Solutions (Ukrainian Fight Drone Simulator - UFDS)",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/channel/UC2jx-xk8e-4AnBYRuWiwILA",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-007",
+    "name": "Obriy",
+    "manufacturer": "Obriy",
+    "category": "simulators",
+    "link": "https://obriy.airforce/en",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-008",
+    "name": "YouTube - Obriy",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40obriy-m5u",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-009",
+    "name": "VelociDrone",
+    "manufacturer": "VelociDrone",
+    "category": "simulators",
+    "link": "https://www.velocidrone.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-010",
+    "name": "YouTube - VelociDrone",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40Velocidrone",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-011",
+    "name": "Zephyr",
+    "manufacturer": "Zephyr",
+    "category": "simulators",
+    "link": "https://zephyr-sim.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-012",
+    "name": "YouTube - Zephyr",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40littlearmsstudios549",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-013",
+    "name": "DRL Sim",
+    "manufacturer": "DRL Sim",
+    "category": "simulators",
+    "link": "https://www.drl.io/drlsim",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-014",
+    "name": "YouTube - DRL Sim",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40Thedroneracingleague/playlists",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-015",
+    "name": "Liftoff!",
+    "manufacturer": "Liftoff!",
+    "category": "simulators",
+    "link": "https://www.liftoff-game.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-016",
+    "name": "YouTube - Liftoff",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40liftoffgame5834",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-017",
+    "name": "Real Flight",
+    "manufacturer": "Real Flight",
+    "category": "simulators",
+    "link": "https://www.realflight.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-018",
+    "name": "YouTube - Real Flight",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/watch?v=m4MqFw74I7c&list=PLzhSE7i0WnqQeyBsjNQIKiKF33-YdrlOh",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-019",
+    "name": "Bohemia Interactive Simulations (VBS 4)",
+    "manufacturer": "Bohemia Interactive Simulations",
+    "category": "simulators",
+    "link": "https://bisimulations.com/products/vbs4/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-020",
+    "name": "YouTube - Bohemia Interactive Simulations (VBS 4)",
+    "manufacturer": "YouTube",
+    "category": "simulators",
+    "link": "https://www.youtube.com/%40bisimmedia",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "SIMULATORS-VENDOR-021",
+    "name": "Airbus (SE-RPAS)",
+    "manufacturer": "Airbus",
+    "category": "simulators",
+    "link": "https://www.airbus.com/en/products-services/defence/uas/uas-solutions/uas-simulation-trainer-se-rpas",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  }
+]
