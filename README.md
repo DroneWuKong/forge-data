@@ -1,6 +1,6 @@
-# Forge Data — AI Wingman Public Parts & Platform Database
+# Forge Data — Prismo Public Parts & Platform Database
 
-Static JSON API serving the [AI Wingman](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
+Static JSON API serving the [Prismo](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
 
 **3,312 components** across 16 categories + **151 drone platforms**.
 
