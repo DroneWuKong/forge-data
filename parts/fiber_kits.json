@@ -1,0 +1,90 @@
+[
+  {
+    "pid": "FIBER-KITS-VENDOR-001",
+    "name": "Avenge Angel",
+    "manufacturer": "Avenge Angel",
+    "category": "fiber_kits",
+    "link": "https://avengeangel.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-002",
+    "name": "Drone Reaper",
+    "manufacturer": "Drone Reaper",
+    "category": "fiber_kits",
+    "link": "https://dronereaper.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-003",
+    "name": "SCI Technology",
+    "manufacturer": "SCI Technology",
+    "category": "fiber_kits",
+    "link": "https://www.sci.com/fiber-optics/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-004",
+    "name": "Fiber Optic Drone",
+    "manufacturer": "Fiber Optic Drone",
+    "category": "fiber_kits",
+    "link": "https://www.fiberopticdrone.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-005",
+    "name": "HA Airforce",
+    "manufacturer": "HA Airforce",
+    "category": "fiber_kits",
+    "link": "https://hsairforce.com/fpv-anti-jamming/fiber-optic-control",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-006",
+    "name": "Sky Walker FPV",
+    "manufacturer": "Sky Walker FPV",
+    "category": "fiber_kits",
+    "link": "https://skywalkerfpv.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-007",
+    "name": "Strategic Logix",
+    "manufacturer": "Strategic Logix",
+    "category": "fiber_kits",
+    "link": "https://strategic-logix.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  },
+  {
+    "pid": "FIBER-KITS-VENDOR-008",
+    "name": "Cloud walker",
+    "manufacturer": "Cloud walker",
+    "category": "fiber_kits",
+    "link": "https://cloudwalkeruav.com/",
+    "tags": [
+      "vendor-seed"
+    ],
+    "source": "COTS Links SEP2025 V1.1.xlsx"
+  }
+]

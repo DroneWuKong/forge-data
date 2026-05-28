@@ -674,11 +674,11 @@
     "form_factor": "base_station_wayside_units_mobile_radios",
     "weight_g": null,
     "country": "USA",
-    "compliance": [
-      "ndaa",
-      "fcc_licensed_spectrum",
-      "802.16t_standard"
-    ],
+    "compliance": {
+      "ndaa": true,
+      "fcc_licensed_spectrum": true,
+      "802.16t_standard": true
+    },
     "tags": [
       "802.16t",
       "dot16",
