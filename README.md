@@ -2,7 +2,7 @@
 
 Static JSON API serving the [Prismo](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
 
-**3,312 components** across 16 categories + **151 drone platforms**.
+**4,459 components** across 45 categories + **279 drone platforms**.
 
 ---
 
@@ -58,7 +58,7 @@ GET /schema/drone_parts_schema_v3.json
 
 ## Platforms
 
-151 drone platforms with public specs, compliance data, and manufacturer info. Contract details, funding data, and operational intelligence are excluded from this public dataset.
+279 drone platforms with public specs, compliance data, and manufacturer info. Contract details, funding data, and operational intelligence are excluded from this public dataset.
 
 ---
 
