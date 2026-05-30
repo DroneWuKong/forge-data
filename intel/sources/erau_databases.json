@@ -1,0 +1,89 @@
+{
+  "source": "Embry-Riddle Aeronautical University — UAS Research Guide",
+  "source_url": "https://guides.erau.edu/uas/databases",
+  "generated": "2026-05-30",
+  "description": "Curated registry of research databases referenced by ERAU's UAS guide. Most are subscription resources (no automated mining); the public ones (DTIC, NTRL, HSDL) are viable enrichment targets for technical reports, program data, and citations.",
+  "databases": [
+    {
+      "name": "DTIC Online: Public Technical Reports",
+      "url": "https://discover.dtic.mil/",
+      "category": "technical_reports",
+      "content": "Declassified DoD and government-funded technical documents",
+      "access": "public",
+      "mineable": true,
+      "notes": "Free public search + bulk APIs. High-value for platform program history and test reports."
+    },
+    {
+      "name": "National Technical Reports Library (NTRL)",
+      "url": "https://ntrl.ntis.gov/",
+      "category": "technical_reports",
+      "content": "U.S. government-funded scientific and technical information from 200+ agencies",
+      "access": "public",
+      "mineable": true,
+      "notes": "Free public access. Good for cross-referencing program names and contractors."
+    },
+    {
+      "name": "Homeland Security Digital Library (HSDL)",
+      "url": "https://www.hsdl.org/",
+      "category": "policy_reports",
+      "content": "Security and cybersecurity policy documents from government and institutional sources",
+      "access": "public_limited",
+      "mineable": true,
+      "notes": "Public collection is open; some items require an account. Relevant to counter-UAS / DFR policy."
+    },
+    {
+      "name": "Janes",
+      "url": "https://www.janes.com/",
+      "category": "defense_specs",
+      "content": "Aircraft specifications, defense reviews, aerospace publications",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "Authoritative platform specs but paywalled. Use as a manual cross-check citation only."
+    },
+    {
+      "name": "Advanced Technologies & Aerospace Database",
+      "url": "https://guides.erau.edu/az/advanced-technologies-and-aerospace-database",
+      "category": "articles",
+      "content": "Citations, abstracts, and some full text for aeronautics, astronautics, computing, and technical reports",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "ProQuest. Citation enrichment via institutional access only."
+    },
+    {
+      "name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/",
+      "category": "articles",
+      "content": "Scholarly journals and ebooks in engineering and physical sciences",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "Elsevier. Some open-access articles are individually mineable; bulk is paywalled."
+    },
+    {
+      "name": "Scopus",
+      "url": "https://www.scopus.com/",
+      "category": "citations",
+      "content": "Abstracts and citations across life, health, physical, and social sciences",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "Elsevier. API exists but requires an institutional key."
+    },
+    {
+      "name": "Business Source Complete",
+      "url": "https://guides.erau.edu/az/business-source-complete",
+      "category": "market_research",
+      "content": "Industry journals, trade publications, market research, business analysis",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "EBSCO. Useful for company/market intel but paywalled."
+    },
+    {
+      "name": "International Security & Counter Terrorism Reference Center",
+      "url": "https://guides.erau.edu/az/international-security-and-counter-terrorism-reference-center",
+      "category": "security_reports",
+      "content": "Articles and reports on security and terrorism, military and economic perspectives",
+      "access": "subscription",
+      "mineable": false,
+      "notes": "EBSCO. Relevant to grayzone/counter-UAS doctrine."
+    }
+  ]
+}

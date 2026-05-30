@@ -1,0 +1,4436 @@
+{
+  "source": "CNAS World of Drones",
+  "source_url": "https://drones.cnas.org/drones/",
+  "license": "CNAS public research dataset — cite CNAS World of Drones",
+  "generated": "2026-05-30",
+  "count": 153,
+  "platforms": [
+    {
+      "pid": "CNAS-0001",
+      "name": "500 X4",
+      "manufacturer": "GyroFly",
+      "country": "Brazil",
+      "specs": {
+        "endurance_hr": 0.5,
+        "range_km": 2,
+        "payload_kg": 1,
+        "max_speed_kmh": 54,
+        "ceiling_m": 1000,
+        "mtow_kg": null,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/500-x4/",
+      "sources": [
+        {
+          "title": "GyroFly",
+          "url": "http://www.gyrofly.com.br/en/gyro-500-x4"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0002",
+      "name": "AAI Aerosonde Mark 4.7",
+      "manufacturer": "Aerosonde",
+      "country": "Australia",
+      "specs": {
+        "endurance_hr": 14,
+        "range_km": 140,
+        "payload_kg": 9,
+        "max_speed_kmh": 148,
+        "ceiling_m": 4500,
+        "mtow_kg": 36,
+        "width_m": 3.6,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Textron_Aerosonde_at_Paris_Air_Show_2013_3.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/aerosonde-aerosonde-mark-4-7/",
+      "sources": [
+        {
+          "title": "Aerosonde",
+          "url": "http://www.aerosonde.com/pdfs/aerosonde-mark-47.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0003",
+      "name": "Ababil 3",
+      "manufacturer": "Ghods Aviation Industries",
+      "country": "Iran",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 100,
+        "payload_kg": null,
+        "max_speed_kmh": 200,
+        "ceiling_m": 5000,
+        "mtow_kg": null,
+        "width_m": 5,
+        "length_m": 3.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/ababil.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/ababil-3/",
+      "sources": [
+        {
+          "title": "Military Edge",
+          "url": "http://militaryedge.sabradesign.net/armaments/ababil-3/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0004",
+      "name": "Aerostar",
+      "manufacturer": "Aeronautics Defense",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 250,
+        "payload_kg": 50,
+        "max_speed_kmh": 200,
+        "ceiling_m": 5500,
+        "mtow_kg": 230,
+        "width_m": 8.7,
+        "length_m": 4.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Aerostar.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/aerostar/",
+      "sources": [
+        {
+          "title": "Aeronautics Defense",
+          "url": "http://www.aeronautics-sys.com/home-page/page-systems/page-systems-aerostar-tuas/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0005",
+      "name": "Aibot",
+      "manufacturer": "Aibotix",
+      "country": "Germany",
+      "specs": {
+        "endurance_hr": 0.4,
+        "range_km": null,
+        "payload_kg": 2,
+        "max_speed_kmh": 40,
+        "ceiling_m": 1000,
+        "mtow_kg": 6.6,
+        "width_m": 1.1,
+        "length_m": 1.1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/aibot.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/aibotix/",
+      "sources": [
+        {
+          "title": "Aibotix",
+          "url": "https://www.aibotix.com/en/overview-aibot-uav.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0006",
+      "name": "AL-150",
+      "manufacturer": "Aeroland UAV",
+      "country": "Hong Kong",
+      "specs": {
+        "endurance_hr": 16,
+        "range_km": 750,
+        "payload_kg": 40,
+        "max_speed_kmh": 140,
+        "ceiling_m": 5000,
+        "mtow_kg": 150,
+        "width_m": 8,
+        "length_m": 3.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/al-150/",
+      "sources": [
+        {
+          "title": "Aeroland",
+          "url": "http://aerolanduav1.blogspot.com/2010/11/aeroland-al-150.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0007",
+      "name": "Altius MkII",
+      "manufacturer": "Aurora Integrated Systems",
+      "country": "India",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": 350,
+        "payload_kg": 20,
+        "max_speed_kmh": 160,
+        "ceiling_m": 3675,
+        "mtow_kg": 80,
+        "width_m": 5.5,
+        "length_m": 3.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/altius-mkii/",
+      "sources": [
+        {
+          "title": "Aurora",
+          "url": "http://aurora-is.com/index.php?pg-uav&uavld-altiusmk2"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0008",
+      "name": "Aludra MKI",
+      "manufacturer": "Composite Technology Research Malaysia",
+      "country": "Malaysia",
+      "specs": {
+        "endurance_hr": 3,
+        "range_km": 100,
+        "payload_kg": 25,
+        "max_speed_kmh": 220,
+        "ceiling_m": 3657,
+        "mtow_kg": 200,
+        "width_m": 6,
+        "length_m": 4.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Aludramk_01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/aldura-mki/",
+      "sources": [
+        {
+          "title": "Composite Technology",
+          "url": "http://www.ctrm.com.my/ps_alu_mk1.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0009",
+      "name": "Aludra SR-08",
+      "manufacturer": "Composite Technology Research Malaysia",
+      "country": "Malaysia",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 15,
+        "payload_kg": null,
+        "max_speed_kmh": 130,
+        "ceiling_m": 4000,
+        "mtow_kg": 2,
+        "width_m": 0.8,
+        "length_m": 0.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/aludra-sr-08/",
+      "sources": [
+        {
+          "title": "Composite Technologies",
+          "url": "http://www.ctrm.com.my/ps_alu_sr.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0010",
+      "name": "Anka",
+      "manufacturer": "Turkish Aerospace Industries",
+      "country": "Turkey",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 200,
+        "payload_kg": 200,
+        "max_speed_kmh": 217,
+        "ceiling_m": 9144,
+        "mtow_kg": 1600,
+        "width_m": 17,
+        "length_m": 8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/TAI-ANKA.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/tai-anka-male/",
+      "sources": [
+        {
+          "title": "Turkish Aerospace Industries",
+          "url": "https://www.tai.com.tr/en/project/anka-medium-altitude-long-endurance-uav-system"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0011",
+      "name": "Apex",
+      "manufacturer": "L-3",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 7,
+        "range_km": 100,
+        "payload_kg": null,
+        "max_speed_kmh": 130,
+        "ceiling_m": 5486,
+        "mtow_kg": 28,
+        "width_m": 4.2,
+        "length_m": 1.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/apex/",
+      "sources": [
+        {
+          "title": "L-3",
+          "url": "http://www2.l-3com.com/uas/products/r_apex.htm"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0012",
+      "name": "Apid 60",
+      "manufacturer": "CybAero",
+      "country": "Sweden",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": null,
+        "payload_kg": 55,
+        "max_speed_kmh": 110,
+        "ceiling_m": 3000,
+        "mtow_kg": 160,
+        "width_m": 3.3,
+        "length_m": 4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/CybAero-Apid.png",
+      "photo_credit": "CybAero/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/apid-60/",
+      "sources": [
+        {
+          "title": "CybAero",
+          "url": "https://www.uvsr.org/docs/Cybaero_APID60.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0013",
+      "name": "AR.Drone",
+      "manufacturer": "Parrot",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 0.2,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 40,
+        "ceiling_m": 100,
+        "mtow_kg": 0.4,
+        "width_m": 0.5,
+        "length_m": 0.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/AR.Drone_.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/ar-drone/",
+      "sources": [
+        {
+          "title": "Parrot",
+          "url": "http://www.parrot.com/usa/products/ardrone-2/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0014",
+      "name": "AR4",
+      "manufacturer": "Tekever Autonomous Systems",
+      "country": "Portugal",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 20,
+        "payload_kg": 1,
+        "max_speed_kmh": 80,
+        "ceiling_m": null,
+        "mtow_kg": 5,
+        "width_m": 1.8,
+        "length_m": 1.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Tekever-AR4.png",
+      "photo_credit": "Tekever",
+      "detail_url": "https://drones.cnas.org/drones/ar4/",
+      "sources": [
+        {
+          "title": "Tekever",
+          "url": "http://airray.tekever.com/ar4-evo/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0015",
+      "name": "Asio-B",
+      "manufacturer": "Selex ES",
+      "country": "Italy",
+      "specs": {
+        "endurance_hr": 0.5,
+        "range_km": 10,
+        "payload_kg": null,
+        "max_speed_kmh": 29,
+        "ceiling_m": 2100,
+        "mtow_kg": 8.5,
+        "width_m": 1.4,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/asio-b/",
+      "sources": [
+        {
+          "title": "Selex ES",
+          "url": "http://www.finmeccanica.com/en/-/asio-b-1"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0016",
+      "name": "ASN-206",
+      "manufacturer": "Xi'an ASN Technology Group",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 150,
+        "payload_kg": 50,
+        "max_speed_kmh": 210,
+        "ceiling_m": 6000,
+        "mtow_kg": 222,
+        "width_m": 6,
+        "length_m": 3.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/ASN-206-1.png",
+      "photo_credit": "Henri Kenhmann/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/asn-206/",
+      "sources": [
+        {
+          "title": "Air Force World",
+          "url": "http://www.airforceworld.com/pla/asn-206-uav-china.htm"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0017",
+      "name": "ASN-209",
+      "manufacturer": "Xi'an ASN Technology Group",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": 200,
+        "payload_kg": 50,
+        "max_speed_kmh": 180,
+        "ceiling_m": 5000,
+        "mtow_kg": 320,
+        "width_m": 7.5,
+        "length_m": 4.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/asn-209/",
+      "sources": [
+        {
+          "title": "Chinese Military Review",
+          "url": "https://chinesemilitaryreview.blogspot.com/2011/10/chinese-asn-209-tactical-unmanned_20.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0018",
+      "name": "Atlante",
+      "manufacturer": "Airbus",
+      "country": "Spain",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": 200,
+        "payload_kg": 100,
+        "max_speed_kmh": 200,
+        "ceiling_m": 6000,
+        "mtow_kg": 570,
+        "width_m": 8,
+        "length_m": 5.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/11/hqdefault.jpg",
+      "photo_credit": "GMV",
+      "detail_url": "https://drones.cnas.org/drones/atlante/",
+      "sources": [
+        {
+          "title": "Airbus",
+          "url": "https://airbusdefenceandspace.com/wp-content/uploads/2016/07/atlante-brochure.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0019",
+      "name": "B-3",
+      "manufacturer": "Soko",
+      "country": "Croatia",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": 150,
+        "payload_kg": 20,
+        "max_speed_kmh": 180,
+        "ceiling_m": 4500,
+        "mtow_kg": null,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/b-3/",
+      "sources": [
+        {
+          "title": "FlightGlobal",
+          "url": "https://www.flightglobal.com/news/articles/soko-designs-new-uavs-180070/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0020",
+      "name": "Bat",
+      "manufacturer": "Northrop Grumman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 18,
+        "range_km": null,
+        "payload_kg": 56.6,
+        "max_speed_kmh": 170,
+        "ceiling_m": 5181,
+        "mtow_kg": 159,
+        "width_m": 4.3,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Bat.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/bat/",
+      "sources": [
+        {
+          "title": "Northrop Grumman",
+          "url": "http://www.northropgrumman.com/Capabilities/BATUAS/Pages/default.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0021",
+      "name": "Bayraktar TB2",
+      "manufacturer": "Kale-Baykar",
+      "country": "Turkey",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": 150,
+        "payload_kg": 55,
+        "max_speed_kmh": 130,
+        "ceiling_m": 6858,
+        "mtow_kg": 630,
+        "width_m": 12,
+        "length_m": 6.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Bayraktar-TB2.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/bayraktar-tb2/",
+      "sources": [
+        {
+          "title": "Baykar",
+          "url": "http://baykarmakina.com/en/sistemler-2/bayraktar-taktik-iha/#1458637130929-195f09d3-ff5a"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0022",
+      "name": "Berkut 2E",
+      "manufacturer": "AGAT",
+      "country": "Belarus",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 35,
+        "payload_kg": null,
+        "max_speed_kmh": 100,
+        "ceiling_m": 3000,
+        "mtow_kg": 10,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/berkut-2e/",
+      "sources": [
+        {
+          "title": "AGAT",
+          "url": "http://www.agat.by/products/air-and-ground-robotic-platform/unmanned-aircraft-complex/berkut-2-2/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0023",
+      "name": "Beta 1-A",
+      "manufacturer": "Aerovantech",
+      "country": "Mexico",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": null,
+        "payload_kg": 15,
+        "max_speed_kmh": null,
+        "ceiling_m": null,
+        "mtow_kg": 100,
+        "width_m": 5.2,
+        "length_m": 3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Aerovantech.png",
+      "photo_credit": "ELNORTE Videos",
+      "detail_url": "https://drones.cnas.org/drones/beta-1-a/",
+      "sources": [
+        {
+          "title": "Aerovantech",
+          "url": "http://aerovantech.weebly.com/beta-1a-specs.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0024",
+      "name": "Bird-Eye 650",
+      "manufacturer": "Speck Systems",
+      "country": "India",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 20,
+        "payload_kg": 1.2,
+        "max_speed_kmh": 120,
+        "ceiling_m": 2000,
+        "mtow_kg": 11,
+        "width_m": 3,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Birdseye-650.png",
+      "photo_credit": "Defense Update",
+      "detail_url": "https://drones.cnas.org/drones/bird-eye-650/",
+      "sources": [
+        {
+          "title": "Speck Systems",
+          "url": "http://www.specksystems.com/sub-links/sanchar/uav-businessofferings-products.html#a3"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0025",
+      "name": "Black Hornet",
+      "manufacturer": "Prox Dynamics",
+      "country": "Norway",
+      "specs": {
+        "endurance_hr": 0.45,
+        "range_km": 1.6,
+        "payload_kg": null,
+        "max_speed_kmh": 18,
+        "ceiling_m": null,
+        "mtow_kg": 1.3,
+        "width_m": 12,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Black_Hornet_Nano_Helicopter_UAV.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/robot-aviation-sky-robot-fx450/",
+      "sources": [
+        {
+          "title": "Proxy Dynamics",
+          "url": "https://www.marlboroughcomms.com/media/9427/black-hornet-uas.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0026",
+      "name": "Blackjack",
+      "manufacturer": "Insitu",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 16,
+        "range_km": null,
+        "payload_kg": 17,
+        "max_speed_kmh": 167,
+        "ceiling_m": 5791,
+        "mtow_kg": 61,
+        "width_m": 4.9,
+        "length_m": 2.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Blackjack.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/blackjack/",
+      "sources": [
+        {
+          "title": "Insitu",
+          "url": "http://www.insitu.com/images/uploads/pdfs/RQ-21ABlackjack_v2_ProductCard_PR120115.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0027",
+      "name": "Bramor C4EYE",
+      "manufacturer": "C-Astral",
+      "country": "Slovenia",
+      "specs": {
+        "endurance_hr": 3,
+        "range_km": 40,
+        "payload_kg": null,
+        "max_speed_kmh": 108,
+        "ceiling_m": 5000,
+        "mtow_kg": 4.5,
+        "width_m": 2.3,
+        "length_m": 1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/maxresdefault.jpg",
+      "photo_credit": "AIRBOYD/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/c-astral-bramor-c4eye/",
+      "sources": [
+        {
+          "title": "C-Astral",
+          "url": "http://www.c-astral.com/en/products"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0028",
+      "name": "BXAP15",
+      "manufacturer": "BHE Bonn Hungary",
+      "country": "Hungary",
+      "specs": {
+        "endurance_hr": 1.8,
+        "range_km": 15,
+        "payload_kg": 3,
+        "max_speed_kmh": 100,
+        "ceiling_m": 4000,
+        "mtow_kg": 17,
+        "width_m": 3.7,
+        "length_m": 1.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/BXAP-15.png",
+      "photo_credit": "gondolaportal/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/bxap15/",
+      "sources": [
+        {
+          "title": "BHE",
+          "url": "http://www.bhe-mw.eu/product/20140516/bxap15-unmanned-aerial-vehicle-uav"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0029",
+      "name": "BZK-005",
+      "manufacturer": "Harbin Aircraft Industry",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 40,
+        "range_km": null,
+        "payload_kg": 150,
+        "max_speed_kmh": 180,
+        "ceiling_m": 8000,
+        "mtow_kg": 1250,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Harbin_BZK-005_high_altitude_long_range_UAV.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/bzk-005-harbin/",
+      "sources": [
+        {
+          "title": "Chinese Military Aviation",
+          "url": "http://chinese-military-aviation.blogspot.com/p/uav.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0030",
+      "name": "Cabure III",
+      "manufacturer": "Nostromo Defensa",
+      "country": "Argentina",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": 15,
+        "payload_kg": null,
+        "max_speed_kmh": 105,
+        "ceiling_m": 4000,
+        "mtow_kg": 5,
+        "width_m": 2.2,
+        "length_m": 1.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/cabure-iii/",
+      "sources": [
+        {
+          "title": "Nostromo Defense",
+          "url": "http://nostromo-group.com/product-sets/uav-engineering-products/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0031",
+      "name": "Camcopter S-100",
+      "manufacturer": "Schiebel",
+      "country": "Austria",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": 200,
+        "payload_kg": 50,
+        "max_speed_kmh": 240,
+        "ceiling_m": 5486,
+        "mtow_kg": 200,
+        "width_m": 3.4,
+        "length_m": 3.1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Schiebel_Camcopter_S-100_at_ILA_2010.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/scheibel-camcopter/",
+      "sources": [
+        {
+          "title": "Scheibel",
+          "url": "https://schiebel.net/products/camcopter-s-100/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0032",
+      "name": "Cardinal II",
+      "manufacturer": "National Chung-Shan Institute of Science and Technology",
+      "country": "Taiwan",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 55,
+        "ceiling_m": null,
+        "mtow_kg": 5.5,
+        "width_m": 1.9,
+        "length_m": 1.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/cardinal-ii/",
+      "sources": [
+        {
+          "title": "NCSIST",
+          "url": "http://www.ncsist.org.tw/eng/csistdup/products/product.aspx?product_id=268&catalog=41"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0033",
+      "name": "CH-4",
+      "manufacturer": "China Aerospace Science and Technology Corporation (CASC)",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 38,
+        "range_km": 3500,
+        "payload_kg": 345,
+        "max_speed_kmh": 180,
+        "ceiling_m": 8000,
+        "mtow_kg": 1330,
+        "width_m": 18,
+        "length_m": 8.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/CH-4.png",
+      "photo_credit": "defenseupdate",
+      "detail_url": "https://drones.cnas.org/drones/ch-4/",
+      "sources": [
+        {
+          "title": "Air Force Technology",
+          "url": "http://www.airforce-technology.com/news/newschinas-new-rainbow-no4-uav-completes-maiden-flight-4360747"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0034",
+      "name": "Chi-7 Helicoptero UAV",
+      "manufacturer": "Aerodreams",
+      "country": "Argentina",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": null,
+        "payload_kg": 230,
+        "max_speed_kmh": 190,
+        "ceiling_m": 4500,
+        "mtow_kg": 450,
+        "width_m": 6,
+        "length_m": 7.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/chi-7-helicoptero-uav/",
+      "sources": [
+        {
+          "title": "Aerodreams",
+          "url": "http://www.aerodreams-uav.com/images/banner-01.jpg"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0035",
+      "name": "Clairvoyance",
+      "manufacturer": "Zhuhai Zingyu Aviation Technology Company",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": null,
+        "payload_kg": 10,
+        "max_speed_kmh": 140,
+        "ceiling_m": 4500,
+        "mtow_kg": 40.5,
+        "width_m": 3.9,
+        "length_m": 2.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/clairvoyance/",
+      "sources": [
+        {
+          "title": "XY Aviation",
+          "url": "http://www.xy-aviation.com/en/uav_show.aspx?id=16"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0036",
+      "name": "Copter 4",
+      "manufacturer": "Survey Copter",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 2.5,
+        "range_km": 40,
+        "payload_kg": 8.5,
+        "max_speed_kmh": 54,
+        "ceiling_m": 2500,
+        "mtow_kg": 30,
+        "width_m": 2.2,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/copter-4/",
+      "sources": [
+        {
+          "title": "Survey",
+          "url": "https://www.survey-copter.com/en/produits/copter-4/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0037",
+      "name": "Coyote",
+      "manufacturer": "Raytheon",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": 32,
+        "payload_kg": null,
+        "max_speed_kmh": 157,
+        "ceiling_m": 6096,
+        "mtow_kg": 6.4,
+        "width_m": 1.5,
+        "length_m": 0.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Coyote.jpg",
+      "photo_credit": "Raytheon",
+      "detail_url": "https://drones.cnas.org/drones/coyote/",
+      "sources": [
+        {
+          "title": "Raytheon",
+          "url": "http://www.raytheon.com/capabilities/products/coyote/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0038",
+      "name": "Cutlass",
+      "manufacturer": "L-3",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 56,
+        "payload_kg": 1.4,
+        "max_speed_kmh": 157,
+        "ceiling_m": null,
+        "mtow_kg": 6.8,
+        "width_m": 1.4,
+        "length_m": 0.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Cutlass.png",
+      "photo_credit": "TilTuli/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/cutlass/",
+      "sources": [
+        {
+          "title": "L-3",
+          "url": "http://www.uadrones.net/military/research/acrobat/100910.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0039",
+      "name": "Delta Y",
+      "manufacturer": "Delta Drone",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 0.75,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 50,
+        "ceiling_m": null,
+        "mtow_kg": 2,
+        "width_m": 1.5,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Delta-Drone.png",
+      "photo_credit": "Delta Drone/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/delta-y/",
+      "sources": [
+        {
+          "title": "Delta Drone",
+          "url": "http://www.deltadrone.com/en/systems/droneuav-systems/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0040",
+      "name": "DVF 2000",
+      "manufacturer": "Survey Copter",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 50,
+        "payload_kg": 1,
+        "max_speed_kmh": 97,
+        "ceiling_m": 2500,
+        "mtow_kg": 11,
+        "width_m": 3,
+        "length_m": 1.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/dvf-2000/",
+      "sources": [
+        {
+          "title": "Survey Copter",
+          "url": "https://www.survey-copter.com/en/produits/drone-dvfcard/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0041",
+      "name": "E-7",
+      "manufacturer": "Fuji Imvac",
+      "country": "Japan",
+      "specs": {
+        "endurance_hr": 15,
+        "range_km": 1600,
+        "payload_kg": 6,
+        "max_speed_kmh": 125,
+        "ceiling_m": 2500,
+        "mtow_kg": 15,
+        "width_m": 5.6,
+        "length_m": 3.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/a-4/",
+      "sources": [
+        {
+          "title": "Fuji Imvac",
+          "url": "http://www.fuji-imvac.jp/product/index.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0042",
+      "name": "eBee",
+      "manufacturer": "SenseFly",
+      "country": "Switzerland",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": 3,
+        "payload_kg": null,
+        "max_speed_kmh": 90,
+        "ceiling_m": null,
+        "mtow_kg": 0.7,
+        "width_m": 1,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/maxresdefault-1.jpg",
+      "photo_credit": "Notebook Italia/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/sensefly-ebee-micro/",
+      "sources": [
+        {
+          "title": "SenseFly",
+          "url": "https://www.sensefly.com/drones/ebee.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0043",
+      "name": "Ehecatl",
+      "manufacturer": "Hydra Technologies",
+      "country": "Mexico",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": null,
+        "payload_kg": 9,
+        "max_speed_kmh": 167,
+        "ceiling_m": 4572,
+        "mtow_kg": 55,
+        "width_m": 3.7,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Ehecatl.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/ehecatl/",
+      "sources": [
+        {
+          "title": "Flight Global",
+          "url": "https://www.flightglobal.com/news/articles/mexico-throws-its-hat-into-the-ring-with-ehecatl-214770/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0044",
+      "name": "EWG-2",
+      "manufacturer": "Hubei Ewatt Technologies",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 200,
+        "payload_kg": 3,
+        "max_speed_kmh": 110,
+        "ceiling_m": 3000,
+        "mtow_kg": 15,
+        "width_m": 1.6,
+        "length_m": 2.24
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/ewg-2/",
+      "sources": [
+        {
+          "title": "Ewatt",
+          "url": "http://ewatt.en.alibaba.com/product/60271582244-218980805/EWATT_Unmanned_Aerial_Vehicle_Fixed_Wing_UAV_EWG_2_Unmanned_Drones.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0045",
+      "name": "eXom",
+      "manufacturer": "SenseFly",
+      "country": "Switzerland",
+      "specs": {
+        "endurance_hr": 0.4,
+        "range_km": 1,
+        "payload_kg": null,
+        "max_speed_kmh": 43,
+        "ceiling_m": null,
+        "mtow_kg": 1.8,
+        "width_m": 0.8,
+        "length_m": 0.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/eXom.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/exom/",
+      "sources": [
+        {
+          "title": "SenseFly",
+          "url": "https://www.sensefly.com/drones/exom.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0046",
+      "name": "F-720",
+      "manufacturer": "UMS Skeldar",
+      "country": "Switzerland",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 200,
+        "payload_kg": 70,
+        "max_speed_kmh": 200,
+        "ceiling_m": 4900,
+        "mtow_kg": 250,
+        "width_m": 7.2,
+        "length_m": 4.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/ums-aero-group-f-720-mtuas/",
+      "sources": [
+        {
+          "title": "UMS Aero Group",
+          "url": "http://umsskeldar.aero/products/fixed-wing-systems/f-720/system-overview/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0047",
+      "name": "Falco EVO",
+      "manufacturer": "Selex ES",
+      "country": "Italy",
+      "specs": {
+        "endurance_hr": 18,
+        "range_km": 200,
+        "payload_kg": 100,
+        "max_speed_kmh": 220,
+        "ceiling_m": 6000,
+        "mtow_kg": 650,
+        "width_m": 12.5,
+        "length_m": 6.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Falco-EVO.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/falco-evo/",
+      "sources": [
+        {
+          "title": "Selex ES",
+          "url": "http://www.aiad.it/aiad_res/cms/documents/FalcoEVO_Selex2013.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0048",
+      "name": "Falcon Eye",
+      "manufacturer": "Innocon",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 3500,
+        "payload_kg": 150,
+        "max_speed_kmh": 260,
+        "ceiling_m": 5486,
+        "mtow_kg": 600,
+        "width_m": 12,
+        "length_m": 7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/falcon-eye/",
+      "sources": [
+        {
+          "title": "Innocon",
+          "url": "http://www.innoconltd.com/?CategoryID=182&ArticleID=108"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0049",
+      "name": "Fire Bee",
+      "manufacturer": "Kadet Defence Systems",
+      "country": "India",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 10,
+        "payload_kg": 1,
+        "max_speed_kmh": null,
+        "ceiling_m": null,
+        "mtow_kg": 7,
+        "width_m": 2.4,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/fire-bee/",
+      "sources": [
+        {
+          "title": "Kadet",
+          "url": "http://www.kadet-uav.com/media/pdf/FireBee%20UAV.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0050",
+      "name": "Fire Scout (MQ-8C)",
+      "manufacturer": "Northrop Grumman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 2272,
+        "payload_kg": 227,
+        "max_speed_kmh": 250,
+        "ceiling_m": 4877,
+        "mtow_kg": 2721,
+        "width_m": 10.7,
+        "length_m": 12.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Fire-Scout.jpeg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/fire-scout-mq-8c/",
+      "sources": [
+        {
+          "title": "Northrup Grumman",
+          "url": "http://www.northropgrumman.com/Capabilities/FireScout/Pages/default.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0051",
+      "name": "Flamingo",
+      "manufacturer": "SATUMA",
+      "country": "Pakistan",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 200,
+        "payload_kg": 35,
+        "max_speed_kmh": 130,
+        "ceiling_m": 4267,
+        "mtow_kg": 245,
+        "width_m": 6.61,
+        "length_m": 5.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/flamingo/",
+      "sources": [],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0052",
+      "name": "Flexrotor",
+      "manufacturer": "Aerovel",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 40,
+        "range_km": 3400,
+        "payload_kg": 1.5,
+        "max_speed_kmh": 158,
+        "ceiling_m": 7315,
+        "mtow_kg": 21.5,
+        "width_m": 3,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Aerovel-Flexrotor.png",
+      "photo_credit": "Aerovel/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/flexrotor/",
+      "sources": [
+        {
+          "title": "Aerovel",
+          "url": "http://aerovelco.com/flexrotor/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0053",
+      "name": "FlyEye",
+      "manufacturer": "FlyTronic",
+      "country": "Poland",
+      "specs": {
+        "endurance_hr": 3,
+        "range_km": 200,
+        "payload_kg": 4,
+        "max_speed_kmh": 120,
+        "ceiling_m": 4000,
+        "mtow_kg": 11,
+        "width_m": 3.6,
+        "length_m": 1.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/FlyEye.png",
+      "photo_credit": "WB Electronics/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/flytronic-flyeye/",
+      "sources": [
+        {
+          "title": "FlyTronic",
+          "url": "http://www.flytronic.pl/en/Areas-of-Activity/Offer/FlyEyeSpec.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0054",
+      "name": "Fulmar",
+      "manufacturer": "Wake Engineering",
+      "country": "Spain",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 800,
+        "payload_kg": 8,
+        "max_speed_kmh": 100,
+        "ceiling_m": 4000,
+        "mtow_kg": 20,
+        "width_m": 3,
+        "length_m": 1.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/hqdefault-1.jpg",
+      "photo_credit": "172Baton/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/fulmar-2/",
+      "sources": [
+        {
+          "title": "Wake Engineering",
+          "url": "http://www.wake-eng.com/#!fulmar/c1ew4"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0055",
+      "name": "Ghost",
+      "manufacturer": "Israel Aerospace Industries",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 0.6,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 65,
+        "ceiling_m": null,
+        "mtow_kg": 4.8,
+        "width_m": 0.8,
+        "length_m": 1.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Ghost.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/iai-ghost-micro/",
+      "sources": [
+        {
+          "title": "IAI",
+          "url": "http://www.iai.co.il/Sip_Storage/FILES/3/39223.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0056",
+      "name": "Global Hawk",
+      "manufacturer": "Northrop Grumman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 32,
+        "range_km": 22780,
+        "payload_kg": 1360,
+        "max_speed_kmh": 629,
+        "ceiling_m": 18288,
+        "mtow_kg": 14628,
+        "width_m": 40,
+        "length_m": 14.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Global-Hawk-Block-40.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/global-hawk-block-40/",
+      "sources": [
+        {
+          "title": "Northrop Grumman",
+          "url": "http://www.northropgrumman.com/Capabilities/GlobalHawk/Pages/default.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0057",
+      "name": "Gozcu",
+      "manufacturer": "Turkish Aerospace Industries",
+      "country": "Turkey",
+      "specs": {
+        "endurance_hr": 2.5,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 259,
+        "ceiling_m": 3658,
+        "mtow_kg": 85,
+        "width_m": 3.8,
+        "length_m": 2.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Gozcu.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/gozcu/",
+      "sources": [
+        {
+          "title": "Defence Turkey",
+          "url": "http://defenceturkey.com/www/dergi/50fe85470f0cc_38.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0058",
+      "name": "Gray Eagle",
+      "manufacturer": "General Atomics",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 25,
+        "range_km": null,
+        "payload_kg": 261,
+        "max_speed_kmh": 309,
+        "ceiling_m": 8839,
+        "mtow_kg": 1633,
+        "width_m": 17,
+        "length_m": 9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Improved-Gray-Eagle.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/improved-gray-eagle/",
+      "sources": [
+        {
+          "title": "General Atomics",
+          "url": "http://www.ga-asi.com/gray-eagle"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0059",
+      "name": "Guardian",
+      "manufacturer": "DraganFly Innovations",
+      "country": "Canada",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": null,
+        "payload_kg": 0.4,
+        "max_speed_kmh": 50,
+        "ceiling_m": 2438,
+        "mtow_kg": 1.3,
+        "width_m": 0.5,
+        "length_m": 0.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Draganflyer-Guardian.png",
+      "photo_credit": "Roswell Flight Test Crew/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/guardian/",
+      "sources": [
+        {
+          "title": "DraganFly Innovations",
+          "url": "http://www.draganfly.com/uav-helicopter/draganflyer-guardian/specifications/guardian_technical_specs_v3.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0060",
+      "name": "Gull 68",
+      "manufacturer": "Warrior (Aero-Marine)",
+      "country": "UK",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": 2081,
+        "payload_kg": 94,
+        "max_speed_kmh": 185,
+        "ceiling_m": null,
+        "mtow_kg": 250,
+        "width_m": 7.6,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Gull-68.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/gull-68/",
+      "sources": [
+        {
+          "title": "Warrior Aero",
+          "url": "http://www.warrioraero.com/GULL/specifications.htm"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0061",
+      "name": "HAES 90",
+      "manufacturer": "Hacker",
+      "country": "Czech Republic",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 10,
+        "payload_kg": null,
+        "max_speed_kmh": 90,
+        "ceiling_m": 300,
+        "mtow_kg": null,
+        "width_m": 2.4,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/haes-90/",
+      "sources": [
+        {
+          "title": "Hacker",
+          "url": "http://www.hacker-model.com/eng/haes90.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0062",
+      "name": "Harfang",
+      "manufacturer": "Airbus",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": null,
+        "payload_kg": 250,
+        "max_speed_kmh": 204,
+        "ceiling_m": 7620,
+        "mtow_kg": 1250,
+        "width_m": 16.6,
+        "length_m": 9.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Harfang.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/harfang/",
+      "sources": [
+        {
+          "title": "Airbus",
+          "url": "https://airbusdefenceandspace.com/wp-content/uploads/2016/07/harfang-brochure.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0063",
+      "name": "Harpy",
+      "manufacturer": "Israel Aerospace Industries",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": 500,
+        "payload_kg": 32,
+        "max_speed_kmh": 185,
+        "ceiling_m": null,
+        "mtow_kg": 135,
+        "width_m": 3,
+        "length_m": 2.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Harpy.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/harpy/",
+      "sources": [
+        {
+          "title": "Dror Aero",
+          "url": "http://www.dror-aero.com/ac/iclean/iclean_fr.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0064",
+      "name": "HEF30",
+      "manufacturer": "High Eye",
+      "country": "Netherlands",
+      "specs": {
+        "endurance_hr": 4.5,
+        "range_km": 50,
+        "payload_kg": 5,
+        "max_speed_kmh": 130,
+        "ceiling_m": 6000,
+        "mtow_kg": 21,
+        "width_m": 1.8,
+        "length_m": 1.76
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/high-eye-hef30-micro/",
+      "sources": [
+        {
+          "title": "High Eye",
+          "url": "http://higheye.nl/hef-30/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0065",
+      "name": "Hermes 900",
+      "manufacturer": "Elbit",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 36,
+        "range_km": null,
+        "payload_kg": 350,
+        "max_speed_kmh": 222,
+        "ceiling_m": 9100,
+        "mtow_kg": 1180,
+        "width_m": 15,
+        "length_m": 9.1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Elbit-Hermes-900-male.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/elbit-hermes-900-male/",
+      "sources": [
+        {
+          "title": "Elbit",
+          "url": "http://www.elbitsystems.com/Elbitmain/files/Hermes_900.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0066",
+      "name": "Herti",
+      "manufacturer": "BAE Systems",
+      "country": "UK",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": null,
+        "payload_kg": 150,
+        "max_speed_kmh": 231,
+        "ceiling_m": 6100,
+        "mtow_kg": 450,
+        "width_m": 12,
+        "length_m": 5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Herti.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/herti/",
+      "sources": [
+        {
+          "title": "Air Force Technology",
+          "url": "http://www.airforce-technology.com/projects/hertiuav/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0067",
+      "name": "Hover Mast 100",
+      "manufacturer": "Sky Sapience",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": null,
+        "payload_kg": 6,
+        "max_speed_kmh": null,
+        "ceiling_m": 50,
+        "mtow_kg": null,
+        "width_m": 1.8,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Hovermast.png",
+      "photo_credit": "iHLS Israel Homeland Security iHLS/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/hover-mast-100/",
+      "sources": [
+        {
+          "title": "Sky Sapience",
+          "url": "http://www.skysapience.com/products/the-hovermast-100"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0068",
+      "name": "Hunter",
+      "manufacturer": "Northrop Grumman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 21,
+        "range_km": null,
+        "payload_kg": 227,
+        "max_speed_kmh": 222,
+        "ceiling_m": 5486,
+        "mtow_kg": 885,
+        "width_m": 10.4,
+        "length_m": 7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Hunter.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/hunterhunter/",
+      "sources": [
+        {
+          "title": "Northrop Grumman",
+          "url": "http://www.northropgrumman.com/Capabilities/MQ5BHunter/Pages/default.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0069",
+      "name": "I.N. Sky",
+      "manufacturer": "Indela UAV",
+      "country": "Belarus",
+      "specs": {
+        "endurance_hr": 5,
+        "range_km": null,
+        "payload_kg": 25,
+        "max_speed_kmh": 37,
+        "ceiling_m": 1500,
+        "mtow_kg": 125,
+        "width_m": 3.1,
+        "length_m": 3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Indela-IN-Sky.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/indela-uav-i-n-sky/",
+      "sources": [
+        {
+          "title": "Indela",
+          "url": "http://www.indelauav.com/eng_lang/product_insky.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0070",
+      "name": "IA-17 Manta",
+      "manufacturer": "IDS",
+      "country": "Italy",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 20,
+        "payload_kg": 7.5,
+        "max_speed_kmh": 200,
+        "ceiling_m": 6000,
+        "mtow_kg": 17,
+        "width_m": 2.8,
+        "length_m": 1.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/11/IA-17-Manta.png",
+      "photo_credit": "Ingegneria Dei Sistemi/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/ia-17-manta/",
+      "sources": [
+        {
+          "title": "IDS Corporation",
+          "url": "https://www.idscorporation.com/drones/ids-drones/item/123-ia-17-manta"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0071",
+      "name": "Indago",
+      "manufacturer": "Lockheed Martin",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": 10,
+        "payload_kg": 0.2,
+        "max_speed_kmh": null,
+        "ceiling_m": 152,
+        "mtow_kg": 1.8,
+        "width_m": 0.8,
+        "length_m": 0.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Indago.png",
+      "photo_credit": "Lockheed Martin/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/indago/",
+      "sources": [
+        {
+          "title": "Lockheed Martin",
+          "url": "http://lockheedmartin.com/content/dam/lockheed/data/ms2/documents/procerus/Indago-brochure.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0072",
+      "name": "Inspire 1 Pro",
+      "manufacturer": "DJI",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 0.3,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 65,
+        "ceiling_m": 4500,
+        "mtow_kg": 3.5,
+        "width_m": 0.4,
+        "length_m": 4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Inspire-1-Pro.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/inspire-1-pro/",
+      "sources": [
+        {
+          "title": "DJI",
+          "url": "http://www.dji.com/product/inspire-1-pro-and-raw"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0073",
+      "name": "Intisar 100",
+      "manufacturer": "Composite Technology Research Malaysia",
+      "country": "Malaysia",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 2,
+        "payload_kg": 5,
+        "max_speed_kmh": 80,
+        "ceiling_m": 244,
+        "mtow_kg": 13,
+        "width_m": 1.5,
+        "length_m": 1.3
+      },
+      "image_url": "",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/intisar-100/",
+      "sources": [
+        {
+          "title": "Composite Technologies",
+          "url": "http://www.ctrm.com.my/ps_int.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0074",
+      "name": "Intisar 300",
+      "manufacturer": "Composite Technology Research Malaysia",
+      "country": "Malaysia",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": 15,
+        "payload_kg": 2,
+        "max_speed_kmh": 70,
+        "ceiling_m": 2000,
+        "mtow_kg": null,
+        "width_m": 1.8,
+        "length_m": 0.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/intisar-300/",
+      "sources": [
+        {
+          "title": "Composite Technologies",
+          "url": "http://www.ctrm.com.my/ps_int_300.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0075",
+      "name": "Irkut 3",
+      "manufacturer": "Irkut",
+      "country": "Russia",
+      "specs": {
+        "endurance_hr": 1.25,
+        "range_km": 15,
+        "payload_kg": 0.5,
+        "max_speed_kmh": 90,
+        "ceiling_m": 3000,
+        "mtow_kg": 3,
+        "width_m": 2,
+        "length_m": 0.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Irkut-3-1.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/irkut-3/",
+      "sources": [
+        {
+          "title": "Irkut",
+          "url": "http://irkut.basecent.com/admin/resources/images/4/4/1644.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0076",
+      "name": "K-Max",
+      "manufacturer": "Kaman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 1852,
+        "payload_kg": null,
+        "max_speed_kmh": 185,
+        "ceiling_m": null,
+        "mtow_kg": 5443,
+        "width_m": 14.7,
+        "length_m": 15.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/K-Max.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/k-max/",
+      "sources": [
+        {
+          "title": "Lockheed Martin",
+          "url": "http://www.lockheedmartin.com/content/dam/lockheed/data/ms2/documents/K-MAX-brochure.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0077",
+      "name": "KUS-FT",
+      "manufacturer": "Korean Air",
+      "country": "South Korea",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": null,
+        "ceiling_m": null,
+        "mtow_kg": 150,
+        "width_m": 4.2,
+        "length_m": 3.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/kus-ft/",
+      "sources": [
+        {
+          "title": "Jane's",
+          "url": "http://www.janes.com/article/57160/korean-air-wins-rok-army-uav-contract"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0078",
+      "name": "Linea Watupa LEX-300",
+      "manufacturer": "AeroFoundry",
+      "country": "Brazil",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": 210,
+        "payload_kg": 4,
+        "max_speed_kmh": null,
+        "ceiling_m": 2000,
+        "mtow_kg": 14,
+        "width_m": 2.1,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/linea-watupa-lex-300/",
+      "sources": [
+        {
+          "title": "AeroFoundry",
+          "url": "http://www.aerofoundry.com/en/2015.vant.htm"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0079",
+      "name": "LP500",
+      "manufacturer": "Lehmann Aviation",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 75,
+        "range_km": 3,
+        "payload_kg": 0.4,
+        "max_speed_kmh": 80,
+        "ceiling_m": 3500,
+        "mtow_kg": 1.3,
+        "width_m": 1.16,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/lp960/",
+      "sources": [
+        {
+          "title": "Lehmann",
+          "url": "http://www.lehmannaviation.com/download/Features.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0080",
+      "name": "Luna",
+      "manufacturer": "EMT",
+      "country": "Germany",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 100,
+        "payload_kg": null,
+        "max_speed_kmh": 70,
+        "ceiling_m": 5000,
+        "mtow_kg": 40,
+        "width_m": 4.2,
+        "length_m": 2.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/LUNA_UAV.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/emt-luna/",
+      "sources": [
+        {
+          "title": "EMT",
+          "url": "http://www.emt-penzberg.de/en/produkte/drohnensystem/luna.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0081",
+      "name": "M3",
+      "manufacturer": "Lipan",
+      "country": "Argentina",
+      "specs": {
+        "endurance_hr": 5,
+        "range_km": 40,
+        "payload_kg": null,
+        "max_speed_kmh": 180,
+        "ceiling_m": 1800,
+        "mtow_kg": 60,
+        "width_m": 4.6,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Lipan.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/m3/",
+      "sources": [
+        {
+          "title": "Lipan",
+          "url": "http://www.infodefensa.com/es/2011/12/13/noticia-el-ejercito-argentino-presenta-formalmente-los-uav-lipan-m3-y-simulador-de-tiro-sitaran-ii-2.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0082",
+      "name": "Mantarraya",
+      "manufacturer": "R.M.S.S.A",
+      "country": "Chile",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 100,
+        "payload_kg": 15,
+        "max_speed_kmh": 240,
+        "ceiling_m": 3000,
+        "mtow_kg": 60,
+        "width_m": 2.5,
+        "length_m": 1.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Mantarraya.png",
+      "photo_credit": "patomccoll/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/mantarraya/",
+      "sources": [
+        {
+          "title": "RMSSA",
+          "url": "http://www.rms.co.cl/pdfs.MANTAesp.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0083",
+      "name": "MASS Mini-UAV",
+      "manufacturer": "Patria",
+      "country": "Finland",
+      "specs": {
+        "endurance_hr": 1.25,
+        "range_km": 20,
+        "payload_kg": 0.5,
+        "max_speed_kmh": 120,
+        "ceiling_m": 150,
+        "mtow_kg": 3.5,
+        "width_m": 1.5,
+        "length_m": 1.1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/mass-mini-uav/",
+      "sources": [
+        {
+          "title": "Patria",
+          "url": "https://www.uvsr.org/docs/Patria_Finland_Mass.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0084",
+      "name": "Maveric",
+      "manufacturer": "Prioria Robotics",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 15,
+        "payload_kg": null,
+        "max_speed_kmh": 101,
+        "ceiling_m": 7620,
+        "mtow_kg": 1.6,
+        "width_m": 75,
+        "length_m": 0.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Maveric_InFlight.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/maveric/",
+      "sources": [
+        {
+          "title": "Prioria",
+          "url": "http://www.prioria.com/maveric/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0085",
+      "name": "Mercury-1",
+      "manufacturer": "Siam UAV Industries",
+      "country": "Thailand",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": null,
+        "payload_kg": 13,
+        "max_speed_kmh": null,
+        "ceiling_m": 2000,
+        "mtow_kg": 25,
+        "width_m": 11,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/mercury-1/",
+      "sources": [
+        {
+          "title": "Siam UAV",
+          "url": "http://siamuav.com/mercury1.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0086",
+      "name": "Micro Falcon LE",
+      "manufacturer": "Innocon",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 40,
+        "payload_kg": 2,
+        "max_speed_kmh": 120,
+        "ceiling_m": 4572,
+        "mtow_kg": 10,
+        "width_m": 2,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/micro-falcon-le/",
+      "sources": [
+        {
+          "title": "Innocon",
+          "url": "http://www.innoconltd.com/?CategoryID=179&ArticleID=104"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0087",
+      "name": "Mohajer 4",
+      "manufacturer": "Ghods Aviation Industries",
+      "country": "Iran",
+      "specs": {
+        "endurance_hr": 5,
+        "range_km": 150,
+        "payload_kg": null,
+        "max_speed_kmh": 180,
+        "ceiling_m": 4500,
+        "mtow_kg": 175,
+        "width_m": 5.3,
+        "length_m": 3.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Mohajer-4.png",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/mohajer-4/",
+      "sources": [
+        {
+          "title": "The Arkenstone",
+          "url": "http://thearkenstone.blogspot.com/2015/03/mohajer-uav.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0088",
+      "name": "Mukhbar",
+      "manufacturer": "SATUMA",
+      "country": "Pakistan",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": 50,
+        "payload_kg": 5,
+        "max_speed_kmh": 120,
+        "ceiling_m": 2134,
+        "mtow_kg": 40,
+        "width_m": 3.6,
+        "length_m": 2.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/mukhbar/",
+      "sources": [],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0089",
+      "name": "Navig8 Electric",
+      "manufacturer": "4Front Robotics",
+      "country": "Canada",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": null,
+        "payload_kg": 10,
+        "max_speed_kmh": 83,
+        "ceiling_m": null,
+        "mtow_kg": 25,
+        "width_m": 1.3,
+        "length_m": 1.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/11/Navig8.png",
+      "photo_credit": "UAE Drones for Good/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/navig8-electric/",
+      "sources": [
+        {
+          "title": "4Front Robotics",
+          "url": "https://media.wix.com/ugd/34579f_49d1b67e32224fdc82d928c4e00400c7.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0090",
+      "name": "Nishant",
+      "manufacturer": "Defence Research & Development Organisation",
+      "country": "India",
+      "specs": {
+        "endurance_hr": 4.5,
+        "range_km": 160,
+        "payload_kg": 45,
+        "max_speed_kmh": 185,
+        "ceiling_m": 3600,
+        "mtow_kg": 275,
+        "width_m": 6.6,
+        "length_m": 4.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Nishant.png",
+      "photo_credit": "IDP Sentinel/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/nishant/",
+      "sources": [
+        {
+          "title": "Aermech",
+          "url": "http://aermech.in/drdo-nishant-unmanned-aerial-vehicle-uavindian-armed-forces/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0091",
+      "name": "Nomad B",
+      "manufacturer": "Oqualia",
+      "country": "Singapore",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": null,
+        "payload_kg": 10,
+        "max_speed_kmh": 130,
+        "ceiling_m": null,
+        "mtow_kg": 22,
+        "width_m": 3.3,
+        "length_m": 2.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/nomad-b/",
+      "sources": [
+        {
+          "title": "Oqualia",
+          "url": "http://www.oqualia.com/uploads/3/4/5/8/3458037/oqualia_endurance_uavs.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0092",
+      "name": "Orbiter 3",
+      "manufacturer": "Aeronautics Defense",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 7,
+        "range_km": 150,
+        "payload_kg": 5.5,
+        "max_speed_kmh": 130,
+        "ceiling_m": 5486,
+        "mtow_kg": 30,
+        "width_m": 4.4,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/11/Screen-Shot-2017-01-13-at-3.28.18-PM.png",
+      "photo_credit": "Aeronautics/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/orbiter-3/",
+      "sources": [
+        {
+          "title": "Aeronautics Defense",
+          "url": "http://www.aeronautics-sys.com/home-page/page-systems/page-systems-orbiter-3-stuas/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0093",
+      "name": "Orion",
+      "manufacturer": "Aurora",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 120,
+        "range_km": 24140,
+        "payload_kg": 1179,
+        "max_speed_kmh": 222,
+        "ceiling_m": 9144,
+        "mtow_kg": 5080,
+        "width_m": 40,
+        "length_m": 15
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Aurora-Orion.png",
+      "photo_credit": "theworacle/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/orion/",
+      "sources": [
+        {
+          "title": "Aurora",
+          "url": "http://www.aurora.aero/wp-content/uploads/2015/10/Orion-Brochure_web_X3.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0094",
+      "name": "Orlan 50",
+      "manufacturer": "Orlan",
+      "country": "Russia",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 500,
+        "payload_kg": 15,
+        "max_speed_kmh": 180,
+        "ceiling_m": 5000,
+        "mtow_kg": 50,
+        "width_m": 3.8,
+        "length_m": 2.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/640px-UAV_Orlan-10.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/orlan-10/",
+      "sources": [
+        {
+          "title": "Jane's",
+          "url": "http://www.janes.com/article/58072/russia-unveils-two-new-orlan-unmanned-aerial-vehicles"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0095",
+      "name": "Panther",
+      "manufacturer": "Israel Aerospace Industries",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 60,
+        "payload_kg": 10,
+        "max_speed_kmh": null,
+        "ceiling_m": 914,
+        "mtow_kg": 65,
+        "width_m": 8,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/IAI_Panther.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/iai-panther/",
+      "sources": [
+        {
+          "title": "IAI",
+          "url": "http://www.iai.co.il/Sip_Storage//FILES/8/38198.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0096",
+      "name": "Patroller",
+      "manufacturer": "Sagem",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": 180,
+        "payload_kg": 250,
+        "max_speed_kmh": 200,
+        "ceiling_m": 6000,
+        "mtow_kg": 660,
+        "width_m": 18,
+        "length_m": 8.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Sagem.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/patroller/",
+      "sources": [
+        {
+          "title": "Sagem",
+          "url": "http://www.safran-electronics-defense.com/sites/sagem/files/patroller_homeland_security.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0097",
+      "name": "Penguin C",
+      "manufacturer": "UAV Factory",
+      "country": "Latvia",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": 100,
+        "payload_kg": null,
+        "max_speed_kmh": 115,
+        "ceiling_m": 4500,
+        "mtow_kg": 23,
+        "width_m": 3.3,
+        "length_m": 2.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Penguin-C.png",
+      "photo_credit": "UAVFACTORY/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/uav-fac/",
+      "sources": [
+        {
+          "title": "UAV",
+          "url": "http://www.uavfactory.com/product/74"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0098",
+      "name": "Petrel II",
+      "manufacturer": "R.M.S.S.A.",
+      "country": "Chile",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 110,
+        "payload_kg": 31,
+        "max_speed_kmh": 796,
+        "ceiling_m": 12000,
+        "mtow_kg": 183,
+        "width_m": 1.7,
+        "length_m": 3.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/petrel-ii/",
+      "sources": [
+        {
+          "title": "RMSSA",
+          "url": "http://www.rms.co.cl/pdfs/PETREL2esp.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0099",
+      "name": "Phaethon J",
+      "manufacturer": "BSK Defense",
+      "country": "Greece",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 100,
+        "payload_kg": null,
+        "max_speed_kmh": 460,
+        "ceiling_m": 6096,
+        "mtow_kg": 23,
+        "width_m": 2.2,
+        "length_m": 2.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/phaethon-j/",
+      "sources": [
+        {
+          "title": "BSK Defense",
+          "url": "http://www.bsk-defense.com/phaethonj.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0100",
+      "name": "Phantom 3",
+      "manufacturer": "DJI",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 0.4,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 58,
+        "ceiling_m": 6000,
+        "mtow_kg": 1.2,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Phantom-3.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/phantom3/",
+      "sources": [
+        {
+          "title": "DJI",
+          "url": "http://www.dji.com/product/phantom-3-standard/info#specs"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0101",
+      "name": "Phantom Eye",
+      "manufacturer": "Boeing",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 96,
+        "range_km": null,
+        "payload_kg": 204,
+        "max_speed_kmh": 370,
+        "ceiling_m": 19812,
+        "mtow_kg": 4445,
+        "width_m": 46,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/maxresdefault-2.jpg",
+      "photo_credit": "Boeing/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/phantomeye/",
+      "sources": [
+        {
+          "title": "Boeing",
+          "url": "http://www.boeing.com/defense/phantom-eye/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0102",
+      "name": "Predator XP",
+      "manufacturer": "General Atomics",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 35,
+        "range_km": null,
+        "payload_kg": 147,
+        "max_speed_kmh": 222,
+        "ceiling_m": 7620,
+        "mtow_kg": 1157,
+        "width_m": 17,
+        "length_m": 8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Predator-XP.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/predatorxp/",
+      "sources": [
+        {
+          "title": "General Atomics",
+          "url": "http://www.ga-asi.com/predator-xp"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0103",
+      "name": "Puma AE",
+      "manufacturer": "AeroVironment",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 3,
+        "range_km": 15,
+        "payload_kg": null,
+        "max_speed_kmh": 83,
+        "ceiling_m": null,
+        "mtow_kg": 6.3,
+        "width_m": 2.8,
+        "length_m": 1.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Puma-AE.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/puma-ae/",
+      "sources": [
+        {
+          "title": "AVINC",
+          "url": "https://www.avinc.com/uas/small_uas/puma/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0104",
+      "name": "Q01",
+      "manufacturer": "Reiner Stemme",
+      "country": "Germany",
+      "specs": {
+        "endurance_hr": 50,
+        "range_km": 8334,
+        "payload_kg": 600,
+        "max_speed_kmh": 333,
+        "ceiling_m": 9144,
+        "mtow_kg": 2750,
+        "width_m": 20,
+        "length_m": 10.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/q01/",
+      "sources": [
+        {
+          "title": "Reiner Stemme",
+          "url": "http://www.rs-uas.com/products/q01-airborne-platform/technical-specs/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0105",
+      "name": "Raven",
+      "manufacturer": "AeroVironment",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": 10,
+        "payload_kg": null,
+        "max_speed_kmh": 81,
+        "ceiling_m": 4267,
+        "mtow_kg": 1.9,
+        "width_m": 1.4,
+        "length_m": 1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Raven.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/raven/",
+      "sources": [
+        {
+          "title": "AVINC",
+          "url": "https://www.avinc.com/uas/small_uas/raven/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0106",
+      "name": "Reaper",
+      "manufacturer": "General Atomics",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 27,
+        "range_km": 1851,
+        "payload_kg": 386,
+        "max_speed_kmh": 445,
+        "ceiling_m": 15240,
+        "mtow_kg": 4763,
+        "width_m": 20,
+        "length_m": 11
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Reaper.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/reaper/",
+      "sources": [
+        {
+          "title": "General Atomics",
+          "url": "http://www.ga-asi.com/predator-b"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0107",
+      "name": "RedKite",
+      "manufacturer": "Blue Bear Systems Research",
+      "country": "UK",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 50,
+        "payload_kg": null,
+        "max_speed_kmh": null,
+        "ceiling_m": null,
+        "mtow_kg": 21.5,
+        "width_m": 3.3,
+        "length_m": 2.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/11/Redkite.png",
+      "photo_credit": "Blue Bear Systems/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/redkite/",
+      "sources": [
+        {
+          "title": "Blue Bear",
+          "url": "http://www.bbsr.co.uk/products/RedKite-fixed-wing-UAV/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0108",
+      "name": "Rheinmetall KZO",
+      "manufacturer": "Cassidian Airborne Solutions",
+      "country": "Germany",
+      "specs": {
+        "endurance_hr": 5.5,
+        "range_km": 140,
+        "payload_kg": 35,
+        "max_speed_kmh": 220,
+        "ceiling_m": 4000,
+        "mtow_kg": 161,
+        "width_m": 3.4,
+        "length_m": 2.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Rheinmetall-KZO.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/rheinmetall-kzo/",
+      "sources": [
+        {
+          "title": "Airbus",
+          "url": "https://airbusdefenceandspace.com/our-portfolio/military-aircraft/uav/kzo/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0109",
+      "name": "RMAX",
+      "manufacturer": "Yamaha Corporation",
+      "country": "Japan",
+      "specs": {
+        "endurance_hr": 1,
+        "range_km": 0.4,
+        "payload_kg": 28,
+        "max_speed_kmh": 72,
+        "ceiling_m": 120,
+        "mtow_kg": 94,
+        "width_m": 3.1,
+        "length_m": 2.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/RMAX.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/rmax/",
+      "sources": [
+        {
+          "title": "Yamaha Motor",
+          "url": "http://rmax.yamaha-motor.com.au/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0110",
+      "name": "RQ-84Z Aerohawk",
+      "manufacturer": "Hawkeye UAV",
+      "country": "New Zealand",
+      "specs": {
+        "endurance_hr": 1.5,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 60,
+        "ceiling_m": null,
+        "mtow_kg": 5.5,
+        "width_m": 2.6,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/rq-84z-aerohawk/",
+      "sources": [
+        {
+          "title": "Hawkeye UAS",
+          "url": "http://www.hawkuas.com/aerial-systems/areohawk.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0111",
+      "name": "ScanEagle",
+      "manufacturer": "Insitu",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": null,
+        "payload_kg": 3.4,
+        "max_speed_kmh": 148,
+        "ceiling_m": 5944,
+        "mtow_kg": 22,
+        "width_m": 3.1,
+        "length_m": 1.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/ScanEagle.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/scaneagle/",
+      "sources": [
+        {
+          "title": "Insitu",
+          "url": "http://www.insitu.com/images/uploads/pdfs/ScanEagle_SubFolder_Digital_PR080315.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0112",
+      "name": "Searcher MK III",
+      "manufacturer": "Israel Aerospace Industries",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 18,
+        "range_km": 250,
+        "payload_kg": 120,
+        "max_speed_kmh": 204,
+        "ceiling_m": 7010,
+        "mtow_kg": 450,
+        "width_m": 8.6,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/IAI_Searcher_III.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/iai-searcher-mk2/",
+      "sources": [
+        {
+          "title": "IAI",
+          "url": "http://www.iai.co.il/Sip_Storage/FILES/1/38201.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0113",
+      "name": "Seeker 400",
+      "manufacturer": "Denel Dynamics",
+      "country": "South Africa",
+      "specs": {
+        "endurance_hr": 16,
+        "range_km": 250,
+        "payload_kg": 100,
+        "max_speed_kmh": 222,
+        "ceiling_m": 5486,
+        "mtow_kg": 450,
+        "width_m": 10,
+        "length_m": 5.8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Seeker-400.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/seeker-400/",
+      "sources": [
+        {
+          "title": "Denel Dynamics",
+          "url": "http://www.deneldynamics.co.za/products/uas/reconnaissance-systems/seeker-400-uas#"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0114",
+      "name": "Shadow V2",
+      "manufacturer": "AAI Corporation",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 9,
+        "range_km": 125,
+        "payload_kg": 43,
+        "max_speed_kmh": 200,
+        "ceiling_m": 5486,
+        "mtow_kg": 212,
+        "width_m": 6,
+        "length_m": 3.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Shadow-600.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/shadow-600/",
+      "sources": [
+        {
+          "title": "Textron Systems",
+          "url": "http://www.textronsystems.com/products/unmanned/shadow"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0115",
+      "name": "Shahed 129",
+      "manufacturer": "Shahed Aviation Industries Research Center",
+      "country": "Iran",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 1700,
+        "payload_kg": null,
+        "max_speed_kmh": null,
+        "ceiling_m": 7315,
+        "mtow_kg": null,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Screen-Shot-2016-12-02-at-13.19.00.png",
+      "photo_credit": "IR Iran/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/shahed-129/",
+      "sources": [
+        {
+          "title": "Fars News",
+          "url": "http://en.farsnews.com/newstext.aspx?nn=13941115000734"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0116",
+      "name": "Shahpar",
+      "manufacturer": "Global Industrial & Defence Solutions",
+      "country": "Pakistan",
+      "specs": {
+        "endurance_hr": 7,
+        "range_km": 250,
+        "payload_kg": 50,
+        "max_speed_kmh": 150,
+        "ceiling_m": 5000,
+        "mtow_kg": 480,
+        "width_m": 6.6,
+        "length_m": 4.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Shahpar.png",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/shahpar/",
+      "sources": [
+        {
+          "title": "GIDS",
+          "url": "http://gids.com.pk/shahpar"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0117",
+      "name": "Shrike",
+      "manufacturer": "AeroVironment",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 0.6,
+        "range_km": 5,
+        "payload_kg": null,
+        "max_speed_kmh": 56,
+        "ceiling_m": null,
+        "mtow_kg": 2.5,
+        "width_m": 9,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Shrike.png",
+      "photo_credit": "AeroVironment/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/shrike/",
+      "sources": [
+        {
+          "title": "AVINC",
+          "url": "https://www.avinc.com/downloads/Shrike_DS0613.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0118",
+      "name": "Sisuar",
+      "manufacturer": "INAV Aviation Institute",
+      "country": "Romania",
+      "specs": {
+        "endurance_hr": null,
+        "range_km": 200,
+        "payload_kg": 40,
+        "max_speed_kmh": 200,
+        "ceiling_m": null,
+        "mtow_kg": 150,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/sisuar/",
+      "sources": [
+        {
+          "title": "INAV",
+          "url": "http://www.inav.ro/securitate_sisuar.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0119",
+      "name": "Skyblade IV",
+      "manufacturer": "ST Aerospace",
+      "country": "Singapore",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 70,
+        "payload_kg": 10,
+        "max_speed_kmh": 148,
+        "ceiling_m": 4572,
+        "mtow_kg": 70,
+        "width_m": 3.7,
+        "length_m": 2.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/SkyBlade-IV.png",
+      "photo_credit": "cyberpioneertv/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/skyblade-iv/",
+      "sources": [
+        {
+          "title": "ST Aero",
+          "url": "https://www.staero.aero/www/keyoffering.aspx?serkeyid=ODAwMDAwMTk"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0120",
+      "name": "Skylark I-LE",
+      "manufacturer": "Elbit",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 3,
+        "range_km": 15,
+        "payload_kg": 1.2,
+        "max_speed_kmh": null,
+        "ceiling_m": 4572,
+        "mtow_kg": 7.5,
+        "width_m": 2,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Elbit-Skylark-micro-2.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/elbit-skylark-micro/",
+      "sources": [
+        {
+          "title": "Elbit",
+          "url": "http://elbitsystems.com/products/uas/skylark-i-lex/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0121",
+      "name": "SkyRanger",
+      "manufacturer": "Aeryon Labs",
+      "country": "Canada",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": 10,
+        "payload_kg": null,
+        "max_speed_kmh": 65,
+        "ceiling_m": 450,
+        "mtow_kg": 2.4,
+        "width_m": 1,
+        "length_m": 1
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/SUAS_-_Aeryon_Scout.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/skyranger/",
+      "sources": [
+        {
+          "title": "Aeryon",
+          "url": "https://aeryon.com/aeryon-skyranger"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0122",
+      "name": "Sniper",
+      "manufacturer": "Alpha Unmanned Systems",
+      "country": "Spain",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": null,
+        "payload_kg": 2,
+        "max_speed_kmh": 70,
+        "ceiling_m": 3000,
+        "mtow_kg": 15,
+        "width_m": 1.8,
+        "length_m": 1.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Sniper.png",
+      "photo_credit": "Alpha Unmanned Systems/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/sniper/",
+      "sources": [
+        {
+          "title": "Alpha Unmanned",
+          "url": "http://www.alphaunmannedsystems.com/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0123",
+      "name": "Snowgoose B",
+      "manufacturer": "MMIST",
+      "country": "Canada",
+      "specs": {
+        "endurance_hr": 15,
+        "range_km": 800,
+        "payload_kg": 260,
+        "max_speed_kmh": 61,
+        "ceiling_m": 5486,
+        "mtow_kg": 600,
+        "width_m": 1,
+        "length_m": 2.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/MMist-CQ-10-Snowgoose-BRAVO.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/snowgoose-b/",
+      "sources": [
+        {
+          "title": "MMIST",
+          "url": "http://www.mmist.ca/pg_ProductsSnowGooseOverview.php"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0124",
+      "name": "Solo",
+      "manufacturer": "3D Robotics",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 8,
+        "payload_kg": 4,
+        "max_speed_kmh": 89,
+        "ceiling_m": 122,
+        "mtow_kg": 1.8,
+        "width_m": null,
+        "length_m": 5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Screen-Shot-2017-01-13-at-3.50.50-PM.png",
+      "photo_credit": "3D Robotics",
+      "detail_url": "https://drones.cnas.org/drones/solo/",
+      "sources": [
+        {
+          "title": "3DR",
+          "url": "https://3dr.com/solo-gopro-drone-specs/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0125",
+      "name": "Sperwer Mk II",
+      "manufacturer": "Sagem",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 200,
+        "payload_kg": 50,
+        "max_speed_kmh": 166,
+        "ceiling_m": 4572,
+        "mtow_kg": null,
+        "width_m": 4.2,
+        "length_m": 3.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Sperwer-Mk-II.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/sperwer-mk-ii/",
+      "sources": [
+        {
+          "title": "Sagem",
+          "url": "http://www.safran-electronics-defense.com/land-defense/tactical-uav-systems/sperwer-system"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0126",
+      "name": "SpyLite",
+      "manufacturer": "Bluebird",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 4,
+        "range_km": 80,
+        "payload_kg": null,
+        "max_speed_kmh": 120,
+        "ceiling_m": 9100,
+        "mtow_kg": 10,
+        "width_m": 2.8,
+        "length_m": 1.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/SpyLite.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/spylite/",
+      "sources": [
+        {
+          "title": "Bluebird",
+          "url": "http://www.bluebird-uav.com/spylite/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0127",
+      "name": "Stalker XE",
+      "manufacturer": "Lockheed Martin",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": null,
+        "payload_kg": 2.5,
+        "max_speed_kmh": 72,
+        "ceiling_m": 4572,
+        "mtow_kg": 10,
+        "width_m": 3.7,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/stalker-xe/",
+      "sources": [
+        {
+          "title": "Lockheed Martin",
+          "url": "http://www.lockheedmartin.com/us/products/stalker-uas.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0128",
+      "name": "Stardust",
+      "manufacturer": "Idetec",
+      "country": "Chile",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 20,
+        "payload_kg": 1,
+        "max_speed_kmh": 65,
+        "ceiling_m": 5000,
+        "mtow_kg": 4.5,
+        "width_m": null,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Stardust.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/stardust/",
+      "sources": [
+        {
+          "title": "Idetec",
+          "url": "http://www.stardust-uas.com/#!specifications/c164h"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0129",
+      "name": "Super Bat DA-50",
+      "manufacturer": "Martin UAV",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": 643,
+        "payload_kg": 2,
+        "max_speed_kmh": 120,
+        "ceiling_m": 3048,
+        "mtow_kg": 21,
+        "width_m": 2.6,
+        "length_m": 1.6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Super-Bat-DA-50.png",
+      "photo_credit": "Bathawk Recon/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/super-bat-da-50-uav/",
+      "sources": [
+        {
+          "title": "Martin UAV",
+          "url": "http://martinuav.com/wp-content/uploads/2016/01/Super%20Bat%20DA%2050%20-%20MARTIN%20UAV.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0130",
+      "name": "Super Heron",
+      "manufacturer": "Israel Aerospace Industries",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 45,
+        "range_km": 1000,
+        "payload_kg": 450,
+        "max_speed_kmh": 278,
+        "ceiling_m": 9144,
+        "mtow_kg": 1450,
+        "width_m": 17,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Heron_UAV_2009.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/iai-super-heron-male/",
+      "sources": [
+        {
+          "title": "IAI",
+          "url": "http://www.iai.co.il/2013/18900-45847-en/BusinessAreas_UnmannedAirSystems_HeronFamily.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0131",
+      "name": "Swamp Fox",
+      "manufacturer": "Skycam UAV",
+      "country": "New Zealand",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": 100,
+        "ceiling_m": null,
+        "mtow_kg": 4.5,
+        "width_m": 1.8,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/swamp-fox/",
+      "sources": [
+        {
+          "title": "Skycam UAV",
+          "url": "http://www.kahunet.co.nz/swampfox-uav.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0132",
+      "name": "Tactical UAV",
+      "manufacturer": "Korea Aerospace Industries",
+      "country": "South Korea",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 80,
+        "payload_kg": 75,
+        "max_speed_kmh": 185,
+        "ceiling_m": 4500,
+        "mtow_kg": 300,
+        "width_m": 6.4,
+        "length_m": 4.7
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/uav/",
+      "sources": [
+        {
+          "title": "Korea Aerospace",
+          "url": "http://www.koreaaero.com/english/product/uav.asp"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0133",
+      "name": "Tanan 300",
+      "manufacturer": "Airbus",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 12,
+        "range_km": 180,
+        "payload_kg": 80,
+        "max_speed_kmh": 150,
+        "ceiling_m": 4000,
+        "mtow_kg": 350,
+        "width_m": 6.3,
+        "length_m": 5.2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Tanan.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/tanan/",
+      "sources": [
+        {
+          "title": "Airbus",
+          "url": "http://militaryaircraft-airbusds.com/portals/0/Aircraft/Docs/UAV/Tanan_datasheet_en.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0134",
+      "name": "Theia",
+      "manufacturer": "Threod Systems",
+      "country": "Estonia",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 120,
+        "payload_kg": 25,
+        "max_speed_kmh": 150,
+        "ceiling_m": 5000,
+        "mtow_kg": 75,
+        "width_m": 4.2,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Theia.png",
+      "photo_credit": "Therod Systems/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/theia/",
+      "sources": [
+        {
+          "title": "Therod",
+          "url": "http://www.threod.com/products/uas-theia/theia-description#theia-technical-details"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0135",
+      "name": "Thunder B",
+      "manufacturer": "Bluebird",
+      "country": "Israel",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 100,
+        "payload_kg": 3.5,
+        "max_speed_kmh": 134,
+        "ceiling_m": 4870,
+        "mtow_kg": 28,
+        "width_m": 4,
+        "length_m": 1.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Bluebird.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/thunder-b/",
+      "sources": [
+        {
+          "title": "Bluebird",
+          "url": "http://www.bluebird-uav.com/thunderb-2/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0136",
+      "name": "Trauco III",
+      "manufacturer": "R.M.S.S.A.",
+      "country": "Chile",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": 110,
+        "payload_kg": 20,
+        "max_speed_kmh": 360,
+        "ceiling_m": 8200,
+        "mtow_kg": 210,
+        "width_m": 4,
+        "length_m": 3.9
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/trauco-iii/",
+      "sources": [
+        {
+          "title": "RMSSA",
+          "url": "http://www.rms.co.cl/pdfs/Trauco3esp.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0137",
+      "name": "Triton",
+      "manufacturer": "Northrop Grumman",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 24,
+        "range_km": 15814,
+        "payload_kg": 1452,
+        "max_speed_kmh": 613,
+        "ceiling_m": 17221,
+        "mtow_kg": 14628,
+        "width_m": 40,
+        "length_m": 14.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Triton.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/triton/",
+      "sources": [
+        {
+          "title": "Northrop Grumman",
+          "url": "http://www.northropgrumman.com/Capabilities/Triton/Pages/default.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0138",
+      "name": "Typhoon H",
+      "manufacturer": "Yuneec",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 0.4,
+        "range_km": null,
+        "payload_kg": 3,
+        "max_speed_kmh": 70,
+        "ceiling_m": null,
+        "mtow_kg": 1.95,
+        "width_m": 0.5,
+        "length_m": 0.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Typhoon-H.png",
+      "photo_credit": "MW Technology/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/typhoon-h/",
+      "sources": [
+        {
+          "title": "Youneec",
+          "url": "http://www.yuneec.com/Typhoon-H"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0139",
+      "name": "Typhoon Q500",
+      "manufacturer": "Yuneec",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 0.4,
+        "range_km": null,
+        "payload_kg": null,
+        "max_speed_kmh": null,
+        "ceiling_m": 122,
+        "mtow_kg": 1.1,
+        "width_m": 0.4,
+        "length_m": 0.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Typhoon_Q500_–_CeBIT_2016_01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/typhoon/",
+      "sources": [
+        {
+          "title": "Yuneec",
+          "url": "http://www.yuneec.com/Specifications-Typhoon-Q500plus"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0140",
+      "name": "UAV Strix",
+      "manufacturer": "Aerodreams",
+      "country": "Argentina",
+      "specs": {
+        "endurance_hr": 15,
+        "range_km": null,
+        "payload_kg": 18,
+        "max_speed_kmh": 160,
+        "ceiling_m": 4000,
+        "mtow_kg": 48,
+        "width_m": 3.6,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/1473/",
+      "sources": [
+        {
+          "title": "Aerodreams",
+          "url": "http://www.aerodreams-uav.com/es-uav-strix.html"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0141",
+      "name": "UX5 HP",
+      "manufacturer": "Trimble",
+      "country": "Belgium",
+      "specs": {
+        "endurance_hr": 0.5,
+        "range_km": 52,
+        "payload_kg": null,
+        "max_speed_kmh": 140,
+        "ceiling_m": 5000,
+        "mtow_kg": 2.9,
+        "width_m": 1,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/UX5.png",
+      "photo_credit": "Monsen Engineering, Inc./YouTube",
+      "detail_url": "https://drones.cnas.org/drones/ux5-hp/",
+      "sources": [
+        {
+          "title": "Trimble",
+          "url": "http://uas.trimble.com/specifications"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0142",
+      "name": "V Bat",
+      "manufacturer": "Martin UAV",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": 563,
+        "payload_kg": 2.3,
+        "max_speed_kmh": 166,
+        "ceiling_m": 4572,
+        "mtow_kg": 35,
+        "width_m": 4.3,
+        "length_m": 2
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/V-Bat.png",
+      "photo_credit": "Stephen Morris/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/v-bat/",
+      "sources": [
+        {
+          "title": "Martin UAV",
+          "url": "http://martinuav.com/wp-content/uploads/2016/01/V-Bat%20-%20MARTIN%20UAV.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0143",
+      "name": "V-200",
+      "manufacturer": "UMS Skeldar",
+      "country": "Switzerland",
+      "specs": {
+        "endurance_hr": 5,
+        "range_km": 90,
+        "payload_kg": 40,
+        "max_speed_kmh": 140,
+        "ceiling_m": 3000,
+        "mtow_kg": 235,
+        "width_m": 4.6,
+        "length_m": 4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Swiss_UAV_NEO_S-300.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/saab-skeldar-v-200/",
+      "sources": [
+        {
+          "title": "UMS Skeldar",
+          "url": "http://umsskeldar.aero/products/vtol-systems/skeldar-v-200/technical-specifications/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0144",
+      "name": "Vigilant",
+      "manufacturer": "Kadet Defence Systems",
+      "country": "India",
+      "specs": {
+        "endurance_hr": 2,
+        "range_km": 80,
+        "payload_kg": null,
+        "max_speed_kmh": 140,
+        "ceiling_m": 3000,
+        "mtow_kg": 20,
+        "width_m": 3.2,
+        "length_m": 2.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/vigilant/",
+      "sources": [
+        {
+          "title": "Kadet",
+          "url": "http://kadet-uav.com/media/pdf/vigilant%20Product%20Card%202%20of%202.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0145",
+      "name": "Viking 400",
+      "manufacturer": "L-3",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 10,
+        "range_km": null,
+        "payload_kg": 35,
+        "max_speed_kmh": 167,
+        "ceiling_m": null,
+        "mtow_kg": 245,
+        "width_m": 6,
+        "length_m": 4.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/10/Drones-database-generic-02-01.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/viking-400/",
+      "sources": [
+        {
+          "title": "L-3",
+          "url": "http://www.uadrones.net/military/research/acrobat/100722-b.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0146",
+      "name": "Wasp",
+      "manufacturer": "AeroVironment",
+      "country": "USA",
+      "specs": {
+        "endurance_hr": 0.8,
+        "range_km": 5,
+        "payload_kg": null,
+        "max_speed_kmh": 83,
+        "ceiling_m": null,
+        "mtow_kg": 1.3,
+        "width_m": 1,
+        "length_m": 8
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Wasp.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/wasp/",
+      "sources": [
+        {
+          "title": "AVINC",
+          "url": "https://www.avinc.com/uas/small_uas/waspAE/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0147",
+      "name": "Watchkeeper (WK180)",
+      "manufacturer": "Thales",
+      "country": "France",
+      "specs": {
+        "endurance_hr": 16,
+        "range_km": 200,
+        "payload_kg": 150,
+        "max_speed_kmh": 175,
+        "ceiling_m": 4876,
+        "mtow_kg": 450,
+        "width_m": 10.5,
+        "length_m": 6
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Watchkeeper_Remote_Piloted_Air_System_MOD_45156635.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/watchkeeper/",
+      "sources": [
+        {
+          "title": "Thales",
+          "url": "https://www.thalesgroup.com/sites/default/files/asset/document/3862_tha_watchkeeper_brochure_2013_.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0148",
+      "name": "Wing Loong II",
+      "manufacturer": "Chengdu Aircraft Industry Group",
+      "country": "China",
+      "specs": {
+        "endurance_hr": 20,
+        "range_km": null,
+        "payload_kg": 480,
+        "max_speed_kmh": 370,
+        "ceiling_m": 9000,
+        "mtow_kg": 4200,
+        "width_m": 20.5,
+        "length_m": 11
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Wing_Loong.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/wing-loong-ii/",
+      "sources": [
+        {
+          "title": "Jane's",
+          "url": "http://www.janes.com/article/54648/china-unveils-next-gen-wing-loong-ii-uav"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0149",
+      "name": "Wulung",
+      "manufacturer": "BPPT PUNA",
+      "country": "Indonesia",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 150,
+        "payload_kg": null,
+        "max_speed_kmh": 128,
+        "ceiling_m": 2438,
+        "mtow_kg": 120,
+        "width_m": 6,
+        "length_m": 4.3
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Wulung.png",
+      "photo_credit": "INDOCOPTER/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/wulung/",
+      "sources": [
+        {
+          "title": "Jane's",
+          "url": "http://www.janes.com/article/45405/wulung-uav-gets-stronger-and-lighter-id14d2"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0150",
+      "name": "Yarara W",
+      "manufacturer": "Nostromo Defensa",
+      "country": "Argentina",
+      "specs": {
+        "endurance_hr": 6,
+        "range_km": 30,
+        "payload_kg": 9,
+        "max_speed_kmh": 163,
+        "ceiling_m": 3000,
+        "mtow_kg": 15.6,
+        "width_m": 4,
+        "length_m": 2.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Nostromo_Yarará.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/yarara-w/",
+      "sources": [
+        {
+          "title": "Nostromo Defense",
+          "url": "http://nostromo-group.com/wp-content/uploads/2015/05/Nostromo_UAV_Technologies_Summary.pdf"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0151",
+      "name": "Zala 421-08M",
+      "manufacturer": "Zala Aero Group",
+      "country": "Russia",
+      "specs": {
+        "endurance_hr": 1.4,
+        "range_km": 25,
+        "payload_kg": 0.3,
+        "max_speed_kmh": 130,
+        "ceiling_m": 3600,
+        "mtow_kg": 2.5,
+        "width_m": 0.8,
+        "length_m": 0.4
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/06/Zala-Aero-Group-Zala-421-08M-micro-2-1-1.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/zala-aero-group-zala-421-08m/",
+      "sources": [
+        {
+          "title": "Zala Aero",
+          "url": "http://zala.aero/zala-421-08/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0152",
+      "name": "Zala 421-20",
+      "manufacturer": "Zala Aero Group",
+      "country": "Russia",
+      "specs": {
+        "endurance_hr": 8,
+        "range_km": null,
+        "payload_kg": 50,
+        "max_speed_kmh": 220,
+        "ceiling_m": 5000,
+        "mtow_kg": 200,
+        "width_m": 6,
+        "length_m": 5.5
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/Zala-421-20.jpg",
+      "photo_credit": "",
+      "detail_url": "https://drones.cnas.org/drones/zala-421-20/",
+      "sources": [
+        {
+          "title": "Zala Aero",
+          "url": "http://zala.aero/zala-421-20/"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    },
+    {
+      "pid": "CNAS-0153",
+      "name": "Zephyr",
+      "manufacturer": "Airbus",
+      "country": "UK",
+      "specs": {
+        "endurance_hr": 336,
+        "range_km": null,
+        "payload_kg": 10,
+        "max_speed_kmh": null,
+        "ceiling_m": 21562,
+        "mtow_kg": 100,
+        "width_m": 23,
+        "length_m": null
+      },
+      "image_url": "https://drones.cnas.org/wp-content/uploads/2016/07/sddefault.jpg",
+      "photo_credit": "AIRetCOSMOS/YouTube",
+      "detail_url": "https://drones.cnas.org/drones/zephyr/",
+      "sources": [
+        {
+          "title": "Airbus",
+          "url": "http://www.militaryaircraft-airbusds.com/Aircraft/UAV/Zephyr.aspx"
+        }
+      ],
+      "source_db": "CNAS World of Drones",
+      "source_url": "https://drones.cnas.org/drones/",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30"
+    }
+  ]
+}
