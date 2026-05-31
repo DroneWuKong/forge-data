@@ -2,7 +2,7 @@
   "source": "CNAS World of Drones",
   "source_url": "https://drones.cnas.org/drones/",
   "license": "CNAS public research dataset — cite CNAS World of Drones",
-  "generated": "2026-05-30",
+  "generated": "2026-05-31",
   "count": 153,
   "platforms": [
     {
@@ -10,6 +10,7 @@
       "name": "500 X4",
       "manufacturer": "GyroFly",
       "country": "Brazil",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 0.5,
         "range_km": 2,
@@ -31,14 +32,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0002",
       "name": "AAI Aerosonde Mark 4.7",
       "manufacturer": "Aerosonde",
       "country": "Australia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 14,
         "range_km": 140,
@@ -60,14 +62,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0003",
       "name": "Ababil 3",
       "manufacturer": "Ghods Aviation Industries",
       "country": "Iran",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 4,
         "range_km": 100,
@@ -89,14 +92,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0004",
       "name": "Aerostar",
       "manufacturer": "Aeronautics Defense",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 12,
         "range_km": 250,
@@ -118,14 +122,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0005",
       "name": "Aibot",
       "manufacturer": "Aibotix",
       "country": "Germany",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.4,
         "range_km": null,
@@ -147,14 +152,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0006",
       "name": "AL-150",
       "manufacturer": "Aeroland UAV",
       "country": "Hong Kong",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 16,
         "range_km": 750,
@@ -176,14 +182,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0007",
       "name": "Altius MkII",
       "manufacturer": "Aurora Integrated Systems",
       "country": "India",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": 350,
@@ -205,14 +212,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0008",
       "name": "Aludra MKI",
       "manufacturer": "Composite Technology Research Malaysia",
       "country": "Malaysia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 3,
         "range_km": 100,
@@ -234,14 +242,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0009",
       "name": "Aludra SR-08",
       "manufacturer": "Composite Technology Research Malaysia",
       "country": "Malaysia",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1,
         "range_km": 15,
@@ -263,14 +272,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0010",
       "name": "Anka",
       "manufacturer": "Turkish Aerospace Industries",
       "country": "Turkey",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 24,
         "range_km": 200,
@@ -292,14 +302,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0011",
       "name": "Apex",
       "manufacturer": "L-3",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 7,
         "range_km": 100,
@@ -321,14 +332,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0012",
       "name": "Apid 60",
       "manufacturer": "CybAero",
       "country": "Sweden",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 6,
         "range_km": null,
@@ -350,14 +362,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0013",
       "name": "AR.Drone",
       "manufacturer": "Parrot",
       "country": "France",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.2,
         "range_km": null,
@@ -379,14 +392,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0014",
       "name": "AR4",
       "manufacturer": "Tekever Autonomous Systems",
       "country": "Portugal",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 2,
         "range_km": 20,
@@ -408,14 +422,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0015",
       "name": "Asio-B",
       "manufacturer": "Selex ES",
       "country": "Italy",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.5,
         "range_km": 10,
@@ -437,14 +452,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0016",
       "name": "ASN-206",
       "manufacturer": "Xi'an ASN Technology Group",
       "country": "China",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": 150,
@@ -466,14 +482,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0017",
       "name": "ASN-209",
       "manufacturer": "Xi'an ASN Technology Group",
       "country": "China",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": 200,
@@ -495,14 +512,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0018",
       "name": "Atlante",
       "manufacturer": "Airbus",
       "country": "Spain",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": 200,
@@ -524,14 +542,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0019",
       "name": "B-3",
       "manufacturer": "Soko",
       "country": "Croatia",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": null,
         "range_km": 150,
@@ -553,14 +572,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0020",
       "name": "Bat",
       "manufacturer": "Northrop Grumman",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 18,
         "range_km": null,
@@ -582,14 +602,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0021",
       "name": "Bayraktar TB2",
       "manufacturer": "Kale-Baykar",
       "country": "Turkey",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 20,
         "range_km": 150,
@@ -611,14 +632,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0022",
       "name": "Berkut 2E",
       "manufacturer": "AGAT",
       "country": "Belarus",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": 35,
@@ -640,14 +662,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0023",
       "name": "Beta 1-A",
       "manufacturer": "Aerovantech",
       "country": "Mexico",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": null,
         "range_km": null,
@@ -669,14 +692,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0024",
       "name": "Bird-Eye 650",
       "manufacturer": "Speck Systems",
       "country": "India",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": 20,
@@ -698,14 +722,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0025",
       "name": "Black Hornet",
       "manufacturer": "Prox Dynamics",
       "country": "Norway",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.45,
         "range_km": 1.6,
@@ -727,14 +752,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0026",
       "name": "Blackjack",
       "manufacturer": "Insitu",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 16,
         "range_km": null,
@@ -756,14 +782,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0027",
       "name": "Bramor C4EYE",
       "manufacturer": "C-Astral",
       "country": "Slovenia",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 3,
         "range_km": 40,
@@ -785,14 +812,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0028",
       "name": "BXAP15",
       "manufacturer": "BHE Bonn Hungary",
       "country": "Hungary",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 1.8,
         "range_km": 15,
@@ -814,14 +842,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0029",
       "name": "BZK-005",
       "manufacturer": "Harbin Aircraft Industry",
       "country": "China",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 40,
         "range_km": null,
@@ -843,14 +872,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0030",
       "name": "Cabure III",
       "manufacturer": "Nostromo Defensa",
       "country": "Argentina",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": 15,
@@ -872,14 +902,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0031",
       "name": "Camcopter S-100",
       "manufacturer": "Schiebel",
       "country": "Austria",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": 200,
@@ -901,14 +932,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0032",
       "name": "Cardinal II",
       "manufacturer": "National Chung-Shan Institute of Science and Technology",
       "country": "Taiwan",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1,
         "range_km": null,
@@ -930,14 +962,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0033",
       "name": "CH-4",
       "manufacturer": "China Aerospace Science and Technology Corporation (CASC)",
       "country": "China",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 38,
         "range_km": 3500,
@@ -959,14 +992,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0034",
       "name": "Chi-7 Helicoptero UAV",
       "manufacturer": "Aerodreams",
       "country": "Argentina",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": null,
@@ -988,14 +1022,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0035",
       "name": "Clairvoyance",
       "manufacturer": "Zhuhai Zingyu Aviation Technology Company",
       "country": "China",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 2,
         "range_km": null,
@@ -1017,14 +1052,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0036",
       "name": "Copter 4",
       "manufacturer": "Survey Copter",
       "country": "France",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 2.5,
         "range_km": 40,
@@ -1046,14 +1082,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0037",
       "name": "Coyote",
       "manufacturer": "Raytheon",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": 32,
@@ -1075,14 +1112,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0038",
       "name": "Cutlass",
       "manufacturer": "L-3",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1,
         "range_km": 56,
@@ -1104,14 +1142,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0039",
       "name": "Delta Y",
       "manufacturer": "Delta Drone",
       "country": "France",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.75,
         "range_km": null,
@@ -1133,14 +1172,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0040",
       "name": "DVF 2000",
       "manufacturer": "Survey Copter",
       "country": "France",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": 50,
@@ -1162,14 +1202,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0041",
       "name": "E-7",
       "manufacturer": "Fuji Imvac",
       "country": "Japan",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 15,
         "range_km": 1600,
@@ -1191,14 +1232,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0042",
       "name": "eBee",
       "manufacturer": "SenseFly",
       "country": "Switzerland",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": 3,
@@ -1220,14 +1262,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0043",
       "name": "Ehecatl",
       "manufacturer": "Hydra Technologies",
       "country": "Mexico",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": null,
@@ -1249,14 +1292,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0044",
       "name": "EWG-2",
       "manufacturer": "Hubei Ewatt Technologies",
       "country": "China",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": 200,
@@ -1278,14 +1322,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0045",
       "name": "eXom",
       "manufacturer": "SenseFly",
       "country": "Switzerland",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.4,
         "range_km": 1,
@@ -1307,14 +1352,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0046",
       "name": "F-720",
       "manufacturer": "UMS Skeldar",
       "country": "Switzerland",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 12,
         "range_km": 200,
@@ -1336,14 +1382,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0047",
       "name": "Falco EVO",
       "manufacturer": "Selex ES",
       "country": "Italy",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 18,
         "range_km": 200,
@@ -1365,14 +1412,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0048",
       "name": "Falcon Eye",
       "manufacturer": "Innocon",
       "country": "Israel",
+      "dod_uas_group": 4,
       "specs": {
         "endurance_hr": 24,
         "range_km": 3500,
@@ -1394,14 +1442,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0049",
       "name": "Fire Bee",
       "manufacturer": "Kadet Defence Systems",
       "country": "India",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1,
         "range_km": 10,
@@ -1423,14 +1472,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0050",
       "name": "Fire Scout (MQ-8C)",
       "manufacturer": "Northrop Grumman",
       "country": "USA",
+      "dod_uas_group": 4,
       "specs": {
         "endurance_hr": 12,
         "range_km": 2272,
@@ -1452,14 +1502,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0051",
       "name": "Flamingo",
       "manufacturer": "SATUMA",
       "country": "Pakistan",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": 200,
@@ -1476,14 +1527,15 @@
       "sources": [],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0052",
       "name": "Flexrotor",
       "manufacturer": "Aerovel",
       "country": "USA",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 40,
         "range_km": 3400,
@@ -1505,14 +1557,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0053",
       "name": "FlyEye",
       "manufacturer": "FlyTronic",
       "country": "Poland",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 3,
         "range_km": 200,
@@ -1534,14 +1587,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0054",
       "name": "Fulmar",
       "manufacturer": "Wake Engineering",
       "country": "Spain",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 12,
         "range_km": 800,
@@ -1563,14 +1617,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0055",
       "name": "Ghost",
       "manufacturer": "Israel Aerospace Industries",
       "country": "Israel",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.6,
         "range_km": null,
@@ -1592,14 +1647,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0056",
       "name": "Global Hawk",
       "manufacturer": "Northrop Grumman",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 32,
         "range_km": 22780,
@@ -1621,14 +1677,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0057",
       "name": "Gozcu",
       "manufacturer": "Turkish Aerospace Industries",
       "country": "Turkey",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 2.5,
         "range_km": null,
@@ -1650,14 +1707,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0058",
       "name": "Gray Eagle",
       "manufacturer": "General Atomics",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 25,
         "range_km": null,
@@ -1679,14 +1737,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0059",
       "name": "Guardian",
       "manufacturer": "DraganFly Innovations",
       "country": "Canada",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": null,
         "range_km": null,
@@ -1708,14 +1767,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0060",
       "name": "Gull 68",
       "manufacturer": "Warrior (Aero-Marine)",
       "country": "UK",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": null,
         "range_km": 2081,
@@ -1737,14 +1797,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0061",
       "name": "HAES 90",
       "manufacturer": "Hacker",
       "country": "Czech Republic",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 1,
         "range_km": 10,
@@ -1766,14 +1827,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0062",
       "name": "Harfang",
       "manufacturer": "Airbus",
       "country": "France",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 24,
         "range_km": null,
@@ -1795,14 +1857,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0063",
       "name": "Harpy",
       "manufacturer": "Israel Aerospace Industries",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": null,
         "range_km": 500,
@@ -1824,14 +1887,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0064",
       "name": "HEF30",
       "manufacturer": "High Eye",
       "country": "Netherlands",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 4.5,
         "range_km": 50,
@@ -1853,14 +1917,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0065",
       "name": "Hermes 900",
       "manufacturer": "Elbit",
       "country": "Israel",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 36,
         "range_km": null,
@@ -1882,14 +1947,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0066",
       "name": "Herti",
       "manufacturer": "BAE Systems",
       "country": "UK",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 20,
         "range_km": null,
@@ -1911,14 +1977,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0067",
       "name": "Hover Mast 100",
       "manufacturer": "Sky Sapience",
       "country": "Israel",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": null,
         "range_km": null,
@@ -1940,14 +2007,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0068",
       "name": "Hunter",
       "manufacturer": "Northrop Grumman",
       "country": "USA",
+      "dod_uas_group": 4,
       "specs": {
         "endurance_hr": 21,
         "range_km": null,
@@ -1969,14 +2037,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0069",
       "name": "I.N. Sky",
       "manufacturer": "Indela UAV",
       "country": "Belarus",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 5,
         "range_km": null,
@@ -1998,14 +2067,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0070",
       "name": "IA-17 Manta",
       "manufacturer": "IDS",
       "country": "Italy",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 8,
         "range_km": 20,
@@ -2027,14 +2097,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0071",
       "name": "Indago",
       "manufacturer": "Lockheed Martin",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": 10,
@@ -2056,14 +2127,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0072",
       "name": "Inspire 1 Pro",
       "manufacturer": "DJI",
       "country": "China",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.3,
         "range_km": null,
@@ -2085,14 +2157,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0073",
       "name": "Intisar 100",
       "manufacturer": "Composite Technology Research Malaysia",
       "country": "Malaysia",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 1,
         "range_km": 2,
@@ -2114,14 +2187,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0074",
       "name": "Intisar 300",
       "manufacturer": "Composite Technology Research Malaysia",
       "country": "Malaysia",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": 15,
@@ -2143,14 +2217,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0075",
       "name": "Irkut 3",
       "manufacturer": "Irkut",
       "country": "Russia",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.25,
         "range_km": 15,
@@ -2172,14 +2247,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0076",
       "name": "K-Max",
       "manufacturer": "Kaman",
       "country": "USA",
+      "dod_uas_group": 4,
       "specs": {
         "endurance_hr": 12,
         "range_km": 1852,
@@ -2201,14 +2277,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0077",
       "name": "KUS-FT",
       "manufacturer": "Korean Air",
       "country": "South Korea",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 24,
         "range_km": null,
@@ -2230,14 +2307,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0078",
       "name": "Linea Watupa LEX-300",
       "manufacturer": "AeroFoundry",
       "country": "Brazil",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": null,
         "range_km": 210,
@@ -2259,14 +2337,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0079",
       "name": "LP500",
       "manufacturer": "Lehmann Aviation",
       "country": "France",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 75,
         "range_km": 3,
@@ -2288,14 +2367,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0080",
       "name": "Luna",
       "manufacturer": "EMT",
       "country": "Germany",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": 100,
@@ -2317,14 +2397,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0081",
       "name": "M3",
       "manufacturer": "Lipan",
       "country": "Argentina",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 5,
         "range_km": 40,
@@ -2346,14 +2427,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0082",
       "name": "Mantarraya",
       "manufacturer": "R.M.S.S.A",
       "country": "Chile",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 4,
         "range_km": 100,
@@ -2375,14 +2457,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0083",
       "name": "MASS Mini-UAV",
       "manufacturer": "Patria",
       "country": "Finland",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.25,
         "range_km": 20,
@@ -2404,14 +2487,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0084",
       "name": "Maveric",
       "manufacturer": "Prioria Robotics",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1,
         "range_km": 15,
@@ -2433,14 +2517,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0085",
       "name": "Mercury-1",
       "manufacturer": "Siam UAV Industries",
       "country": "Thailand",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 12,
         "range_km": null,
@@ -2462,14 +2547,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0086",
       "name": "Micro Falcon LE",
       "manufacturer": "Innocon",
       "country": "Israel",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 4,
         "range_km": 40,
@@ -2491,14 +2577,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0087",
       "name": "Mohajer 4",
       "manufacturer": "Ghods Aviation Industries",
       "country": "Iran",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 5,
         "range_km": 150,
@@ -2520,14 +2607,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0088",
       "name": "Mukhbar",
       "manufacturer": "SATUMA",
       "country": "Pakistan",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": 50,
@@ -2544,14 +2632,15 @@
       "sources": [],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0089",
       "name": "Navig8 Electric",
       "manufacturer": "4Front Robotics",
       "country": "Canada",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": null,
@@ -2573,14 +2662,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0090",
       "name": "Nishant",
       "manufacturer": "Defence Research & Development Organisation",
       "country": "India",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 4.5,
         "range_km": 160,
@@ -2602,14 +2692,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0091",
       "name": "Nomad B",
       "manufacturer": "Oqualia",
       "country": "Singapore",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 20,
         "range_km": null,
@@ -2631,14 +2722,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0092",
       "name": "Orbiter 3",
       "manufacturer": "Aeronautics Defense",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 7,
         "range_km": 150,
@@ -2660,14 +2752,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0093",
       "name": "Orion",
       "manufacturer": "Aurora",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 120,
         "range_km": 24140,
@@ -2689,14 +2782,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0094",
       "name": "Orlan 50",
       "manufacturer": "Orlan",
       "country": "Russia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": 500,
@@ -2718,14 +2812,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0095",
       "name": "Panther",
       "manufacturer": "Israel Aerospace Industries",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 4,
         "range_km": 60,
@@ -2747,14 +2842,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0096",
       "name": "Patroller",
       "manufacturer": "Sagem",
       "country": "France",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 20,
         "range_km": 180,
@@ -2776,14 +2872,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0097",
       "name": "Penguin C",
       "manufacturer": "UAV Factory",
       "country": "Latvia",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 20,
         "range_km": 100,
@@ -2805,14 +2902,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0098",
       "name": "Petrel II",
       "manufacturer": "R.M.S.S.A.",
       "country": "Chile",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 1,
         "range_km": 110,
@@ -2834,14 +2932,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0099",
       "name": "Phaethon J",
       "manufacturer": "BSK Defense",
       "country": "Greece",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 1,
         "range_km": 100,
@@ -2863,14 +2962,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0100",
       "name": "Phantom 3",
       "manufacturer": "DJI",
       "country": "China",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.4,
         "range_km": null,
@@ -2892,14 +2992,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0101",
       "name": "Phantom Eye",
       "manufacturer": "Boeing",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 96,
         "range_km": null,
@@ -2921,14 +3022,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0102",
       "name": "Predator XP",
       "manufacturer": "General Atomics",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 35,
         "range_km": null,
@@ -2950,14 +3052,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0103",
       "name": "Puma AE",
       "manufacturer": "AeroVironment",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 3,
         "range_km": 15,
@@ -2979,14 +3082,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0104",
       "name": "Q01",
       "manufacturer": "Reiner Stemme",
       "country": "Germany",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 50,
         "range_km": 8334,
@@ -3008,14 +3112,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0105",
       "name": "Raven",
       "manufacturer": "AeroVironment",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": 10,
@@ -3037,14 +3142,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0106",
       "name": "Reaper",
       "manufacturer": "General Atomics",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 27,
         "range_km": 1851,
@@ -3066,14 +3172,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0107",
       "name": "RedKite",
       "manufacturer": "Blue Bear Systems Research",
       "country": "UK",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 6,
         "range_km": 50,
@@ -3095,14 +3202,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0108",
       "name": "Rheinmetall KZO",
       "manufacturer": "Cassidian Airborne Solutions",
       "country": "Germany",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 5.5,
         "range_km": 140,
@@ -3124,14 +3232,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0109",
       "name": "RMAX",
       "manufacturer": "Yamaha Corporation",
       "country": "Japan",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 1,
         "range_km": 0.4,
@@ -3153,14 +3262,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0110",
       "name": "RQ-84Z Aerohawk",
       "manufacturer": "Hawkeye UAV",
       "country": "New Zealand",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.5,
         "range_km": null,
@@ -3182,14 +3292,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0111",
       "name": "ScanEagle",
       "manufacturer": "Insitu",
       "country": "USA",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 24,
         "range_km": null,
@@ -3211,14 +3322,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0112",
       "name": "Searcher MK III",
       "manufacturer": "Israel Aerospace Industries",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 18,
         "range_km": 250,
@@ -3240,14 +3352,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0113",
       "name": "Seeker 400",
       "manufacturer": "Denel Dynamics",
       "country": "South Africa",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 16,
         "range_km": 250,
@@ -3269,14 +3382,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0114",
       "name": "Shadow V2",
       "manufacturer": "AAI Corporation",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 9,
         "range_km": 125,
@@ -3298,14 +3412,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0115",
       "name": "Shahed 129",
       "manufacturer": "Shahed Aviation Industries Research Center",
       "country": "Iran",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 24,
         "range_km": 1700,
@@ -3327,14 +3442,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0116",
       "name": "Shahpar",
       "manufacturer": "Global Industrial & Defence Solutions",
       "country": "Pakistan",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 7,
         "range_km": 250,
@@ -3356,14 +3472,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0117",
       "name": "Shrike",
       "manufacturer": "AeroVironment",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.6,
         "range_km": 5,
@@ -3385,14 +3502,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0118",
       "name": "Sisuar",
       "manufacturer": "INAV Aviation Institute",
       "country": "Romania",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": null,
         "range_km": 200,
@@ -3414,14 +3532,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0119",
       "name": "Skyblade IV",
       "manufacturer": "ST Aerospace",
       "country": "Singapore",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 6,
         "range_km": 70,
@@ -3443,14 +3562,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0120",
       "name": "Skylark I-LE",
       "manufacturer": "Elbit",
       "country": "Israel",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 3,
         "range_km": 15,
@@ -3472,14 +3592,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0121",
       "name": "SkyRanger",
       "manufacturer": "Aeryon Labs",
       "country": "Canada",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": 10,
@@ -3501,14 +3622,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0122",
       "name": "Sniper",
       "manufacturer": "Alpha Unmanned Systems",
       "country": "Spain",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": null,
@@ -3530,14 +3652,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0123",
       "name": "Snowgoose B",
       "manufacturer": "MMIST",
       "country": "Canada",
+      "dod_uas_group": 4,
       "specs": {
         "endurance_hr": 15,
         "range_km": 800,
@@ -3559,14 +3682,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0124",
       "name": "Solo",
       "manufacturer": "3D Robotics",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 4,
         "range_km": 8,
@@ -3588,14 +3712,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0125",
       "name": "Sperwer Mk II",
       "manufacturer": "Sagem",
       "country": "France",
+      "dod_uas_group": null,
       "specs": {
         "endurance_hr": 6,
         "range_km": 200,
@@ -3617,14 +3742,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0126",
       "name": "SpyLite",
       "manufacturer": "Bluebird",
       "country": "Israel",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 4,
         "range_km": 80,
@@ -3646,14 +3772,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0127",
       "name": "Stalker XE",
       "manufacturer": "Lockheed Martin",
       "country": "USA",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 8,
         "range_km": null,
@@ -3675,14 +3802,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0128",
       "name": "Stardust",
       "manufacturer": "Idetec",
       "country": "Chile",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 2,
         "range_km": 20,
@@ -3704,14 +3832,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0129",
       "name": "Super Bat DA-50",
       "manufacturer": "Martin UAV",
       "country": "USA",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 10,
         "range_km": 643,
@@ -3733,14 +3862,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0130",
       "name": "Super Heron",
       "manufacturer": "Israel Aerospace Industries",
       "country": "Israel",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 45,
         "range_km": 1000,
@@ -3762,14 +3892,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0131",
       "name": "Swamp Fox",
       "manufacturer": "Skycam UAV",
       "country": "New Zealand",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": null,
@@ -3791,14 +3922,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0132",
       "name": "Tactical UAV",
       "manufacturer": "Korea Aerospace Industries",
       "country": "South Korea",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 6,
         "range_km": 80,
@@ -3820,14 +3952,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0133",
       "name": "Tanan 300",
       "manufacturer": "Airbus",
       "country": "France",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 12,
         "range_km": 180,
@@ -3849,14 +3982,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0134",
       "name": "Theia",
       "manufacturer": "Threod Systems",
       "country": "Estonia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 24,
         "range_km": 120,
@@ -3878,14 +4012,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0135",
       "name": "Thunder B",
       "manufacturer": "Bluebird",
       "country": "Israel",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 24,
         "range_km": 100,
@@ -3907,14 +4042,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0136",
       "name": "Trauco III",
       "manufacturer": "R.M.S.S.A.",
       "country": "Chile",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": 110,
@@ -3936,14 +4072,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0137",
       "name": "Triton",
       "manufacturer": "Northrop Grumman",
       "country": "USA",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 24,
         "range_km": 15814,
@@ -3965,14 +4102,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0138",
       "name": "Typhoon H",
       "manufacturer": "Yuneec",
       "country": "China",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.4,
         "range_km": null,
@@ -3994,14 +4132,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0139",
       "name": "Typhoon Q500",
       "manufacturer": "Yuneec",
       "country": "China",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.4,
         "range_km": null,
@@ -4023,14 +4162,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0140",
       "name": "UAV Strix",
       "manufacturer": "Aerodreams",
       "country": "Argentina",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 15,
         "range_km": null,
@@ -4052,14 +4192,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0141",
       "name": "UX5 HP",
       "manufacturer": "Trimble",
       "country": "Belgium",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.5,
         "range_km": 52,
@@ -4081,14 +4222,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0142",
       "name": "V Bat",
       "manufacturer": "Martin UAV",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": 563,
@@ -4110,14 +4252,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0143",
       "name": "V-200",
       "manufacturer": "UMS Skeldar",
       "country": "Switzerland",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 5,
         "range_km": 90,
@@ -4139,14 +4282,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0144",
       "name": "Vigilant",
       "manufacturer": "Kadet Defence Systems",
       "country": "India",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 2,
         "range_km": 80,
@@ -4168,14 +4312,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0145",
       "name": "Viking 400",
       "manufacturer": "L-3",
       "country": "USA",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 10,
         "range_km": null,
@@ -4197,14 +4342,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0146",
       "name": "Wasp",
       "manufacturer": "AeroVironment",
       "country": "USA",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 0.8,
         "range_km": 5,
@@ -4226,14 +4372,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0147",
       "name": "Watchkeeper (WK180)",
       "manufacturer": "Thales",
       "country": "France",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 16,
         "range_km": 200,
@@ -4255,14 +4402,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0148",
       "name": "Wing Loong II",
       "manufacturer": "Chengdu Aircraft Industry Group",
       "country": "China",
+      "dod_uas_group": 5,
       "specs": {
         "endurance_hr": 20,
         "range_km": null,
@@ -4284,14 +4432,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0149",
       "name": "Wulung",
       "manufacturer": "BPPT PUNA",
       "country": "Indonesia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 6,
         "range_km": 150,
@@ -4313,14 +4462,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0150",
       "name": "Yarara W",
       "manufacturer": "Nostromo Defensa",
       "country": "Argentina",
+      "dod_uas_group": 2,
       "specs": {
         "endurance_hr": 6,
         "range_km": 30,
@@ -4342,14 +4492,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0151",
       "name": "Zala 421-08M",
       "manufacturer": "Zala Aero Group",
       "country": "Russia",
+      "dod_uas_group": 1,
       "specs": {
         "endurance_hr": 1.4,
         "range_km": 25,
@@ -4371,14 +4522,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0152",
       "name": "Zala 421-20",
       "manufacturer": "Zala Aero Group",
       "country": "Russia",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 8,
         "range_km": null,
@@ -4400,14 +4552,15 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     },
     {
       "pid": "CNAS-0153",
       "name": "Zephyr",
       "manufacturer": "Airbus",
       "country": "UK",
+      "dod_uas_group": 3,
       "specs": {
         "endurance_hr": 336,
         "range_km": null,
@@ -4429,8 +4582,8 @@
       ],
       "source_db": "CNAS World of Drones",
       "source_url": "https://drones.cnas.org/drones/",
-      "first_seen": "2026-05-30",
-      "last_updated": "2026-05-30"
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31"
     }
   ]
 }

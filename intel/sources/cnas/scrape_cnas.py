@@ -54,6 +54,27 @@ def _num(value: str):
     return int(num) if num.is_integer() else num
 
 
+def dod_uas_group(mtow_kg, ceiling_m, speed_kmh):
+    """Classify into the DoD UAS Group (1-5) per the JCIDS size taxonomy.
+
+    Primarily weight-driven, with altitude separating Group 4 from 5. Returns
+    None when MTOW is unknown (weight is the controlling parameter). This is a
+    heuristic: the official taxonomy also bounds Groups 1-3 by altitude/speed,
+    but CNAS weight coverage is the most complete field (145/153).
+    """
+    if mtow_kg is None:
+        return None
+    lb = mtow_kg / 0.453592
+    ft = (ceiling_m / 0.3048) if ceiling_m else None
+    if lb > 1320:
+        return 5 if (ft is not None and ft >= 18000) else 4
+    if lb <= 20:
+        return 1
+    if lb <= 55:
+        return 2
+    return 3
+
+
 class DroneBoxParser(HTMLParser):
     """Streaming parser that collects one record per drone-box div."""
 
@@ -171,12 +192,15 @@ def normalize(records: list[dict]) -> list[dict]:
     named = sorted((r for r in records if r.get("name")), key=lambda x: x["name"].lower())
     out = []
     for i, r in enumerate(named, start=1):
+        specs = r["specs"]
         out.append({
             "pid": f"CNAS-{i:04d}",
             "name": r["name"],
             "manufacturer": r.get("manufacturer", ""),
             "country": r.get("country", ""),
-            "specs": r["specs"],
+            "dod_uas_group": dod_uas_group(
+                specs.get("mtow_kg"), specs.get("ceiling_m"), specs.get("max_speed_kmh")),
+            "specs": specs,
             "image_url": r.get("image_url", ""),
             "photo_credit": r.get("photo_credit", ""),
             "detail_url": r.get("detail_url", ""),

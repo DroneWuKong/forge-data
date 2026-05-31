@@ -10,6 +10,26 @@
 This pass is **additive only**. Nothing in `platforms/platforms.json`, `intel/platforms.json`,
 or `parts/*` was modified. New artifacts live under `intel/sources/`.
 
+> **Update (deeper audit):** the sources were re-audited end-to-end and mined for everything
+> usable across the whole ecosystem. CNAS detail pages were confirmed to add no structured data
+> beyond the cards (JS-rendered), so the card mine is canonical. Derived artifacts were added:
+> DoD UAS Group classification, a 109-company manufacturer registry, a 47-country index, a
+> forge-schema transform, and an open-resource library from the ERAU *Websites*/*Journals* tabs.
+> See [`ECOSYSTEM_MAP.md`](ECOSYSTEM_MAP.md) for the repo-by-repo breakdown.
+
+### Artifact index
+| File | What |
+|------|------|
+| `cnas/scrape_cnas.py` | Re-runnable CNAS scraper (now also classifies DoD UAS Group) |
+| `cnas/cnas_platforms.json` | 153 platforms — specs, UAS Group, sources |
+| `cnas/derive.py` | Derives the registries + forge transform below |
+| `cnas/cnas_companies.json` | 109 manufacturers (country + platform rollups) |
+| `cnas/cnas_countries.json` | 47-country index |
+| `cnas/cnas_platforms_forge.json` | 153 platforms mapped to `platforms/platforms.json` schema |
+| `erau_databases.json` | 9 research databases (access + mineable flags) |
+| `erau_resources.json` | 14 open/public resources, tagged by consuming repo |
+| `ECOSYSTEM_MAP.md` | Which repo can use what |
+
 ---
 
 ## 1. CNAS "World of Drones" — MINED ✅

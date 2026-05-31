@@ -1,0 +1,443 @@
+{
+  "source": "CNAS World of Drones",
+  "source_url": "https://drones.cnas.org/drones/",
+  "generated": "2026-05-31",
+  "count": 47,
+  "countries": [
+    {
+      "country": "USA",
+      "platform_count": 29,
+      "platforms": [
+        "Apex",
+        "Bat",
+        "Blackjack",
+        "Coyote",
+        "Cutlass",
+        "Fire Scout (MQ-8C)",
+        "Flexrotor",
+        "Global Hawk",
+        "Gray Eagle",
+        "Hunter",
+        "Indago",
+        "K-Max",
+        "Maveric",
+        "Orion",
+        "Phantom Eye",
+        "Predator XP",
+        "Puma AE",
+        "Raven",
+        "Reaper",
+        "ScanEagle",
+        "Shadow V2",
+        "Shrike",
+        "Solo",
+        "Stalker XE",
+        "Super Bat DA-50",
+        "Triton",
+        "V Bat",
+        "Viking 400",
+        "Wasp"
+      ]
+    },
+    {
+      "country": "Israel",
+      "platform_count": 14,
+      "platforms": [
+        "Aerostar",
+        "Falcon Eye",
+        "Ghost",
+        "Harpy",
+        "Hermes 900",
+        "Hover Mast 100",
+        "Micro Falcon LE",
+        "Orbiter 3",
+        "Panther",
+        "Searcher MK III",
+        "Skylark I-LE",
+        "SpyLite",
+        "Super Heron",
+        "Thunder B"
+      ]
+    },
+    {
+      "country": "China",
+      "platform_count": 11,
+      "platforms": [
+        "ASN-206",
+        "ASN-209",
+        "BZK-005",
+        "CH-4",
+        "Clairvoyance",
+        "EWG-2",
+        "Inspire 1 Pro",
+        "Phantom 3",
+        "Typhoon H",
+        "Typhoon Q500",
+        "Wing Loong II"
+      ]
+    },
+    {
+      "country": "France",
+      "platform_count": 10,
+      "platforms": [
+        "AR.Drone",
+        "Copter 4",
+        "DVF 2000",
+        "Delta Y",
+        "Harfang",
+        "LP500",
+        "Patroller",
+        "Sperwer Mk II",
+        "Tanan 300",
+        "Watchkeeper (WK180)"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "platform_count": 5,
+      "platforms": [
+        "Cabure III",
+        "Chi-7 Helicoptero UAV",
+        "M3",
+        "UAV Strix",
+        "Yarara W"
+      ]
+    },
+    {
+      "country": "India",
+      "platform_count": 5,
+      "platforms": [
+        "Altius MkII",
+        "Bird-Eye 650",
+        "Fire Bee",
+        "Nishant",
+        "Vigilant"
+      ]
+    },
+    {
+      "country": "Canada",
+      "platform_count": 4,
+      "platforms": [
+        "Guardian",
+        "Navig8 Electric",
+        "SkyRanger",
+        "Snowgoose B"
+      ]
+    },
+    {
+      "country": "Chile",
+      "platform_count": 4,
+      "platforms": [
+        "Mantarraya",
+        "Petrel II",
+        "Stardust",
+        "Trauco III"
+      ]
+    },
+    {
+      "country": "Germany",
+      "platform_count": 4,
+      "platforms": [
+        "Aibot",
+        "Luna",
+        "Q01",
+        "Rheinmetall KZO"
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "platform_count": 4,
+      "platforms": [
+        "Aludra MKI",
+        "Aludra SR-08",
+        "Intisar 100",
+        "Intisar 300"
+      ]
+    },
+    {
+      "country": "Russia",
+      "platform_count": 4,
+      "platforms": [
+        "Irkut 3",
+        "Orlan 50",
+        "Zala 421-08M",
+        "Zala 421-20"
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "platform_count": 4,
+      "platforms": [
+        "F-720",
+        "V-200",
+        "eBee",
+        "eXom"
+      ]
+    },
+    {
+      "country": "UK",
+      "platform_count": 4,
+      "platforms": [
+        "Gull 68",
+        "Herti",
+        "RedKite",
+        "Zephyr"
+      ]
+    },
+    {
+      "country": "Iran",
+      "platform_count": 3,
+      "platforms": [
+        "Ababil 3",
+        "Mohajer 4",
+        "Shahed 129"
+      ]
+    },
+    {
+      "country": "Italy",
+      "platform_count": 3,
+      "platforms": [
+        "Asio-B",
+        "Falco EVO",
+        "IA-17 Manta"
+      ]
+    },
+    {
+      "country": "Pakistan",
+      "platform_count": 3,
+      "platforms": [
+        "Flamingo",
+        "Mukhbar",
+        "Shahpar"
+      ]
+    },
+    {
+      "country": "Spain",
+      "platform_count": 3,
+      "platforms": [
+        "Atlante",
+        "Fulmar",
+        "Sniper"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "platform_count": 3,
+      "platforms": [
+        "Anka",
+        "Bayraktar TB2",
+        "Gozcu"
+      ]
+    },
+    {
+      "country": "Belarus",
+      "platform_count": 2,
+      "platforms": [
+        "Berkut 2E",
+        "I.N. Sky"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "platform_count": 2,
+      "platforms": [
+        "500 X4",
+        "Linea Watupa LEX-300"
+      ]
+    },
+    {
+      "country": "Japan",
+      "platform_count": 2,
+      "platforms": [
+        "E-7",
+        "RMAX"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "platform_count": 2,
+      "platforms": [
+        "Beta 1-A",
+        "Ehecatl"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "platform_count": 2,
+      "platforms": [
+        "RQ-84Z Aerohawk",
+        "Swamp Fox"
+      ]
+    },
+    {
+      "country": "Singapore",
+      "platform_count": 2,
+      "platforms": [
+        "Nomad B",
+        "Skyblade IV"
+      ]
+    },
+    {
+      "country": "South Korea",
+      "platform_count": 2,
+      "platforms": [
+        "KUS-FT",
+        "Tactical UAV"
+      ]
+    },
+    {
+      "country": "Australia",
+      "platform_count": 1,
+      "platforms": [
+        "AAI Aerosonde Mark 4.7"
+      ]
+    },
+    {
+      "country": "Austria",
+      "platform_count": 1,
+      "platforms": [
+        "Camcopter S-100"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "platform_count": 1,
+      "platforms": [
+        "UX5 HP"
+      ]
+    },
+    {
+      "country": "Croatia",
+      "platform_count": 1,
+      "platforms": [
+        "B-3"
+      ]
+    },
+    {
+      "country": "Czech Republic",
+      "platform_count": 1,
+      "platforms": [
+        "HAES 90"
+      ]
+    },
+    {
+      "country": "Estonia",
+      "platform_count": 1,
+      "platforms": [
+        "Theia"
+      ]
+    },
+    {
+      "country": "Finland",
+      "platform_count": 1,
+      "platforms": [
+        "MASS Mini-UAV"
+      ]
+    },
+    {
+      "country": "Greece",
+      "platform_count": 1,
+      "platforms": [
+        "Phaethon J"
+      ]
+    },
+    {
+      "country": "Hong Kong",
+      "platform_count": 1,
+      "platforms": [
+        "AL-150"
+      ]
+    },
+    {
+      "country": "Hungary",
+      "platform_count": 1,
+      "platforms": [
+        "BXAP15"
+      ]
+    },
+    {
+      "country": "Indonesia",
+      "platform_count": 1,
+      "platforms": [
+        "Wulung"
+      ]
+    },
+    {
+      "country": "Latvia",
+      "platform_count": 1,
+      "platforms": [
+        "Penguin C"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "platform_count": 1,
+      "platforms": [
+        "HEF30"
+      ]
+    },
+    {
+      "country": "Norway",
+      "platform_count": 1,
+      "platforms": [
+        "Black Hornet"
+      ]
+    },
+    {
+      "country": "Poland",
+      "platform_count": 1,
+      "platforms": [
+        "FlyEye"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "platform_count": 1,
+      "platforms": [
+        "AR4"
+      ]
+    },
+    {
+      "country": "Romania",
+      "platform_count": 1,
+      "platforms": [
+        "Sisuar"
+      ]
+    },
+    {
+      "country": "Slovenia",
+      "platform_count": 1,
+      "platforms": [
+        "Bramor C4EYE"
+      ]
+    },
+    {
+      "country": "South Africa",
+      "platform_count": 1,
+      "platforms": [
+        "Seeker 400"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "platform_count": 1,
+      "platforms": [
+        "Apid 60"
+      ]
+    },
+    {
+      "country": "Taiwan",
+      "platform_count": 1,
+      "platforms": [
+        "Cardinal II"
+      ]
+    },
+    {
+      "country": "Thailand",
+      "platform_count": 1,
+      "platforms": [
+        "Mercury-1"
+      ]
+    }
+  ]
+}
