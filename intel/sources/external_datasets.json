@@ -114,6 +114,17 @@
       "notes": "Search-and-rescue: detects PEOPLE (pedestrian class) from drone imagery, not drones. 1365 images, 4733 boxes, VOC/XML, DJI Mavic/Phantom at 50-100 m. Relevant only if a SAR/person-detection capability is added — no current ecosystem home."
     },
     {
+      "name": "Tyto Robotics Propulsion Database",
+      "url": "https://database.tytorobotics.com/",
+      "type": "component_performance_test_data",
+      "license": "Terms of Service (community-uploaded; NOT a clear open license — verify before any extraction)",
+      "mineable": "high-value-pending-access",
+      "status": "candidate",
+      "landed": "registry only — NOT scraped (ToS/access unverified)",
+      "ecosystem_use": ["forge-data parts-db (motors, propellers, escs)", "Ai-Project (Forge build planner thrust/efficiency)"],
+      "notes": "STRONGEST build-planner fit since DroneRF: 1,513 propulsion systems, 364 components (120 motors, 189 propellers, 55 ESCs), 174,426 measured samples (thrust/RPM/current/voltage, g/W efficiency). Would enrich motors/propellers/escs with real measured performance + thrust curves. BLOCKERS: community-uploaded data under ToS (not open-licensed); CSV/API bulk export unconfirmed. Action: confirm ToS permits reuse + whether an export/API exists before mining. Do not scrape without that."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
