@@ -48,6 +48,17 @@
       "notes": "Real FPV flights: camera + IMU + event camera + Leica ground truth, up to 100 km/h. Raw multi-GB rosbags for VIO/state-estimation R&D, not structured facts. NC license blocks commercial/product use — usable as a research benchmark only."
     },
     {
+      "name": "Mid-Air Dataset (Fonder & Van Droogenbroeck, 2019)",
+      "url": "https://midair.ulg.ac.be/",
+      "type": "vio_slam_benchmark_synthetic",
+      "license": "CC BY-NC-SA 4.0 (non-commercial)",
+      "mineable": false,
+      "status": "reference_only",
+      "landed": "registry only — not ingested",
+      "ecosystem_use": ["Ai-Project (rl-pilot / APB / avp perception benchmark)"],
+      "notes": "Synthetic low-altitude drone flights: 420k frames, 3 RGB cams + depth/normals/semantics/stereo disparity + simulated IMU/GPS, across 7 climates. For VIO/SLAM/depth/semantic R&D. Synthetic + NC license -> research benchmark only, not product data. Same class as UZH-FPV."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
