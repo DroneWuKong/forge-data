@@ -4606,5 +4606,60 @@
     "sources": [],
     "data_source": "CNAS World of Drones",
     "last_updated": "2026-05-31"
+  },
+  {
+    "cid": "CMP-0133",
+    "name": "Ondas Holdings (ONDS)",
+    "countries": [
+      "USA",
+      "Israel",
+      "Germany"
+    ],
+    "programs": [
+      "US Army loitering munitions ($982M program, prime via Mistral acquisition)",
+      "Autonomous border-protection system (prime contractor; thousands of drones planned)",
+      "Israeli border barrier / demining ($1.7B program, 4M Defense; >$50M + $30M awards)",
+      "FIFA World Cup 2026 counter-UAS venue protection (Sentrycs)",
+      "ONBERG Autonomous Systems JV (HD Advanced Technologies — Germany/Ukraine)"
+    ],
+    "tags": [
+      "counter-UAS",
+      "loitering munition",
+      "ISR",
+      "autonomy",
+      "border security",
+      "acquisition",
+      "defense",
+      "drone",
+      "consolidation"
+    ],
+    "sources": [
+      {
+        "date": "2026-05-18",
+        "site": "247wallst",
+        "title": "Drone Maker Ondas Is On a Spending Spree: All 6 Companies Acquired in 2026",
+        "url": "https://247wallst.com/investing/2026/05/18/drone-maker-ondas-is-on-a-spending-spree-here-are-all-6-companies-it-has-acquired-in-2026/"
+      },
+      {
+        "date": "2026-04-20",
+        "site": "stockstotrade",
+        "title": "Ondas Stock Pops As Defense Contracts And Drone JV Build Momentum",
+        "url": "https://stockstotrade.com/news/ondas-inc-onds-news-2026_04_20/"
+      },
+      {
+        "date": "",
+        "site": "stocktitan",
+        "title": "Ondas Wins Prime Government Tender for Autonomous Border Drones",
+        "url": "https://www.stocktitan.net/news/ONDS/ondas-wins-strategic-government-tender-to-develop-and-deploy-z7woqx5xjxco.html"
+      },
+      {
+        "date": "",
+        "site": "ondas",
+        "title": "Ondas Secures $10 Million in New Autonomous Systems Orders",
+        "url": "https://www.ondas.com/post/ondas-secures-10-million-in-new-autonomous-systems-orders-as-global-demand-for-multi-domain-defense"
+      }
+    ],
+    "data_source": "market intel 2026-05 (Ondas Autonomous Systems = American Robotics 'Optimus' + Airobotics + Iron Drone 'Raider' c-UAS; FY rev guidance >=$390M, backlog ~$457M, ~$1.03B cash)",
+    "last_updated": "2026-05-31"
   }
 ]
