@@ -136,6 +136,17 @@
       "notes": "Self-described 'most comprehensive drone database' spanning research/consumer/enterprise/military. JS-rendered SPA (no data in raw HTML), no documented public API, terms/license unknown. Scope OVERLAPS what we already hold (CNAS = 150 military; build-planner = 274 consumer/FPV) — marginal value is mostly consumer/enterprise breadth. NOT the open-source dronedb.app (geospatial tooling). Action: check for a public API + reuse terms before any extraction; do not scrape a closed aggregator otherwise."
     },
     {
+      "name": "open-dronelog (arpanghosh8453)",
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "type": "tool_reference",
+      "license": "AGPL-3.0 (strong copyleft)",
+      "mineable": false,
+      "status": "tool_not_dataset",
+      "landed": "registry only — it's a tool, ships no data",
+      "ecosystem_use": ["Ai-Project (Prismo GCS — same Rust+Tauri v2 stack; flight-log analysis feature reference)", "drone-integration-handbook (field/blackbox.md)", "Command (telemetry)"],
+      "notes": "Flight-log analysis app (desktop/web): parses DJI .txt, Litchi/Airdata CSV, Dronelink, DroneDeploy; 3D replay, battery health, maintenance tracking; export CSV/JSON/GPX/KML/PDF. Stack: Rust + Tauri v2 + React + DuckDB (mirrors Prismo). NOT a dataset and NOT mineable. AGPL-3.0 = do NOT copy code into the proprietary stack; useful only as a feature/parser-format reference and competitive study. Mineable fact = the set of log formats worth supporting."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
