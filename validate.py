@@ -9,9 +9,12 @@ with the parts/*.json files (and the README). This validator closes that gap.
 
 Checks (all must pass; exit 1 on any failure):
   1. Every JSON file in the repo is well-formed.
-  2. Every category in manifest.parts points at a file that exists, and that
-     file's item count matches the manifest's `count`.
-  3. manifest.total_parts == sum of all category counts.
+  2. Every category in manifest.parts points at a file that exists. For counted
+     categories (declared count > 0) the file's item count must match the
+     manifest's `count`. A declared count of 0 marks an intentionally-uncounted
+     ASSET category (e.g. platform_images, a platform->image lookup) — its file
+     must exist + parse, but its record count is not asserted.
+  3. manifest.total_parts == sum of the (non-zero) declared category counts.
   4. The platforms file exists and its count matches manifest.platforms.count.
   5. The README headline figures (components / categories / platforms) match
      the manifest — so the front-door numbers can't silently drift.
@@ -75,8 +78,11 @@ def main() -> int:
         errors.append("manifest.parts missing or empty")
         parts = {}
 
-    # 2 + 3: per-category file existence + count match, and total
-    running_total = 0
+    # 2 + 3: per-category file existence + count match, and the declared total.
+    # declared count 0 = intentionally-uncounted asset category: file must exist
+    # and parse (checked above + below), but its record count is not asserted and
+    # it does not contribute to total_parts.
+    declared_sum = 0
     for cat, entry in parts.items():
         rel = entry.get("file")
         declared = entry.get("count")
@@ -92,14 +98,17 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             errors.append(str(e))
             continue
+        if declared == 0:
+            continue  # asset category — existence/parse is enough
         if actual != declared:
             errors.append(f"count drift: {cat} manifest={declared} file={actual}")
-        running_total += actual
+        declared_sum += declared
 
     declared_total = manifest.get("total_parts")
-    if declared_total != running_total:
+    if declared_total != declared_sum:
         errors.append(
-            f"total_parts drift: manifest={declared_total} sum-of-files={running_total}"
+            f"total_parts drift: manifest={declared_total} "
+            f"sum-of-declared-counts={declared_sum}"
         )
 
     # 4: platforms file
@@ -117,7 +126,8 @@ def main() -> int:
                 plat_count = _count_items(ppath)
                 if plat_count != plat.get("count"):
                     errors.append(
-                        f"platforms count drift: manifest={plat.get('count')} file={plat_count}"
+                        f"platforms count drift: manifest={plat.get('count')} "
+                        f"file={plat_count}"
                     )
             except Exception as e:  # noqa: BLE001
                 errors.append(str(e))
@@ -135,10 +145,12 @@ def main() -> int:
                     f"README components={val} != manifest.total_parts={declared_total}"
                 )
         if n_categories:
+            # README "45 categories" counts every manifest.parts entry, including
+            # the asset category (platform_images) — i.e. the full key count.
             val = int(n_categories.group(1))
             if val != len(parts):
                 errors.append(
-                    f"README categories={val} != manifest category count={len(parts)}"
+                    f"README categories={val} != manifest.parts entries={len(parts)}"
                 )
         if n_platforms and isinstance(plat, dict):
             val = int(n_platforms.group(1))
