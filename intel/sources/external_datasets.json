@@ -147,6 +147,28 @@
       "notes": "Flight-log analysis app (desktop/web): parses DJI .txt, Litchi/Airdata CSV, Dronelink, DroneDeploy; 3D replay, battery health, maintenance tracking; export CSV/JSON/GPX/KML/PDF. Stack: Rust + Tauri v2 + React + DuckDB (mirrors Prismo). NOT a dataset and NOT mineable. AGPL-3.0 = do NOT copy code into the proprietary stack; useful only as a feature/parser-format reference and competitive study. Mineable fact = the set of log formats worth supporting."
     },
     {
+      "name": "DroneDetectionDataset (Maciullo)",
+      "url": "https://github.com/Maciullo/DroneDetectionDataset",
+      "type": "cv_drone_detection_training",
+      "license": "MIT (labels); source frames = public YouTube",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": ["Ai-Project (apb / counter-UAS visual)"],
+      "notes": "51,446 train + 5,375 test 640x480 RGB, single 'drone' class, XML/Haar labels + trained Haar/ANN models, ~5GB externally hosted. ORIGINAL of the pathikg HF dataset (same Pawelczyk & Wojtyra YouTube-frame source, reformatted to COCO) -> DEDUPE, don't count twice. Permissive (MIT)."
+    },
+    {
+      "name": "Roboflow Universe — class:drone",
+      "url": "https://universe.roboflow.com/search?q=class%3Adrone",
+      "type": "discovery_portal",
+      "license": "per-dataset (CC BY 4.0 common on Roboflow Universe)",
+      "mineable": false,
+      "status": "discovery_method",
+      "landed": "n/a — portal of many CV datasets",
+      "ecosystem_use": ["Ai-Project (apb / counter-UAS visual)"],
+      "notes": "Search index of community CV datasets carrying a 'drone' class; YOLO/COCO export + API (key required; anonymous fetch = 403). Most are CC BY 4.0. Triage each dataset's license individually before use."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
