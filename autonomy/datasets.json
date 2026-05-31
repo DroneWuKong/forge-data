@@ -64,8 +64,8 @@
       "task": "CV detection",
       "license": "MIT",
       "license_class": "permissive",
-      "status": "trainable_corpus",
-      "verdict": "usable",
+      "status": "training_wired",
+      "verdict": "integrated",
       "ecosystem_use": [
         "Ai-Project (apb on-board AI / counter-UAS visual detector)"
       ],
@@ -90,8 +90,8 @@
       "task": "CV detection",
       "license": "CC BY 4.0",
       "license_class": "permissive",
-      "status": "trainable_corpus",
-      "verdict": "usable",
+      "status": "training_wired",
+      "verdict": "integrated",
       "ecosystem_use": [
         "Ai-Project (apb on-board AI / counter-UAS visual detector)"
       ],
@@ -176,7 +176,7 @@
         "NeedleNThread",
         "ESP32-Based-RF-Detector"
       ],
-      "note": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration pending review."
+      "note": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration DONE (B2): 3 consumer sigs in db[]."
     },
     {
       "name": "DTIC — Defense Technical Information Center",

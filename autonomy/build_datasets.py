@@ -54,6 +54,8 @@ def usable(license_cls: str, status: str) -> str:
     """One-word verdict for the page badge."""
     if status in ("mined",):
         return "integrated"
+    if status == "training_wired":
+        return "integrated"
     if status == "candidate_blocked":
         return "blocked"
     if status in ("candidate", "different_task", "tool_not_dataset", "discovery_method"):

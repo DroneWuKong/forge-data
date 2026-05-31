@@ -40,12 +40,12 @@
       "license": "code Apache-2.0; data CC BY 4.0",
       "mineable": true,
       "status": "mined",
-      "landed": "NeedleNThread data/dronerf_signatures.json + docs/SIGNATURES.md (reference section)",
+      "landed": "NeedleNThread: data/dronerf_signatures.json + docs/SIGNATURES.md + FOLDED INTO FIRMWARE (tactical_rf_detector.ino, category 'Con', 3 sigs)",
       "ecosystem_use": [
         "NeedleNThread",
         "ESP32-Based-RF-Detector"
       ],
-      "notes": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration pending review."
+      "notes": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration DONE (B2): 3 consumer sigs in db[]."
     },
     {
       "name": "UZH-FPV Drone Racing Dataset",
@@ -79,8 +79,8 @@
       "type": "cv_drone_detection_training",
       "license": "CC BY 4.0",
       "mineable": false,
-      "status": "trainable_corpus",
-      "landed": "registry only — training data, not structured facts",
+      "status": "training_wired",
+      "landed": "Ai-Project apb/detector/training (prepare_drone_det.py + DRONE_DET.md) — primary source for the drone detector",
       "ecosystem_use": [
         "Ai-Project (apb on-board AI / counter-UAS visual detector)"
       ],
@@ -92,8 +92,8 @@
       "type": "cv_drone_detection_training",
       "license": "MIT",
       "mineable": false,
-      "status": "trainable_corpus",
-      "landed": "registry only — training data",
+      "status": "training_wired",
+      "landed": "Ai-Project apb/detector/training (prepare_drone_det.py) — COCO->YOLO, secondary source",
       "ecosystem_use": [
         "Ai-Project (apb on-board AI / counter-UAS visual detector)"
       ],
