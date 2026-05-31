@@ -118,11 +118,11 @@
       "url": "https://database.tytorobotics.com/",
       "type": "component_performance_test_data",
       "license": "Terms of Service (community-uploaded; NOT a clear open license — verify before any extraction)",
-      "mineable": "high-value-pending-access",
-      "status": "candidate",
-      "landed": "registry only — NOT scraped (ToS/access unverified)",
+      "mineable": "high-value-pending-permission",
+      "status": "candidate_blocked",
+      "landed": "registry only — NOT scraped; ToS checked, no reuse grant",
       "ecosystem_use": ["forge-data parts-db (motors, propellers, escs)", "Ai-Project (Forge build planner thrust/efficiency)"],
-      "notes": "STRONGEST build-planner fit since DroneRF: 1,513 propulsion systems, 364 components (120 motors, 189 propellers, 55 ESCs), 174,426 measured samples (thrust/RPM/current/voltage, g/W efficiency). Would enrich motors/propellers/escs with real measured performance + thrust curves. BLOCKERS: community-uploaded data under ToS (not open-licensed); CSV/API bulk export unconfirmed. Action: confirm ToS permits reuse + whether an export/API exists before mining. Do not scrape without that."
+      "notes": "STRONGEST build-planner fit since DroneRF: 1,513 propulsion systems, 364 components (120 motors, 189 propellers, 55 ESCs), 174,426 measured samples (thrust/RPM/current/voltage, g/W efficiency). Would enrich motors/propellers/escs with real measured performance + thrust curves. BLOCKERS: community-uploaded data under ToS (not open-licensed); CSV/API bulk export unconfirmed. UPDATE: their public Terms of Service is silent on data ownership/reuse/export — so reuse rights CANNOT be assumed. Blocked pending explicit written permission (info@tytorobotics.com). Do not scrape. Highest-value add IF permission is granted."
     },
     {
       "name": "DroneDB.com",
