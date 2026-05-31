@@ -59,6 +59,61 @@
       "notes": "Synthetic low-altitude drone flights: 420k frames, 3 RGB cams + depth/normals/semantics/stereo disparity + simulated IMU/GPS, across 7 climates. For VIO/SLAM/depth/semantic R&D. Synthetic + NC license -> research benchmark only, not product data. Same class as UZH-FPV."
     },
     {
+      "name": "Seraphim Drone Detection Dataset",
+      "url": "https://huggingface.co/datasets/lgrzybowski/seraphim-drone-detection-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "CC BY 4.0",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data, not structured facts",
+      "ecosystem_use": ["Ai-Project (apb on-board AI / counter-UAS visual detector)"],
+      "notes": "83k YOLO-format images (640x640), single 'drone' class, 9.14 GB. Curated from 23 open sets; mixed real/synthetic. Permissive license -> usable to train a visual drone detector if/when one exists."
+    },
+    {
+      "name": "Drone Detection Dataset (pathikg)",
+      "url": "https://huggingface.co/datasets/pathikg/drone-detection-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "MIT",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": ["Ai-Project (apb on-board AI / counter-UAS visual detector)"],
+      "notes": "54k COCO-format images (640x480), single 'drone' class, 4.65 GB. From YouTube frames (Pawelczyk & Wojtyra). Permissive license -> trainable."
+    },
+    {
+      "name": "Birds vs Drone Dataset (harshwalia)",
+      "url": "https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset",
+      "type": "cv_cuas_discrimination",
+      "license": "see Kaggle page (unconfirmed)",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": ["Ai-Project (counter-UAS visual)", "drone-integration-handbook (counter-uas component reference)"],
+      "notes": "Bird-vs-drone classification — addresses the real C-UAS false-positive problem (telling birds from drones). Confirm license on Kaggle before any use."
+    },
+    {
+      "name": "Drone Dataset (toolazycoder)",
+      "url": "https://www.kaggle.com/datasets/toolazycoder/drone-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "see Kaggle page (unconfirmed)",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": ["Ai-Project (apb / counter-UAS visual)"],
+      "notes": "Generic drone-image set; details/license not confirmed via fetch. Verify on Kaggle before use."
+    },
+    {
+      "name": "LADD — Lacmus Drone Dataset",
+      "url": "https://datasetninja.com/lacmus-drone-dataset",
+      "type": "cv_sar_person_detection",
+      "license": "see Lacmus Foundation (unconfirmed)",
+      "mineable": false,
+      "status": "different_task",
+      "landed": "registry only — NOT drone detection",
+      "ecosystem_use": [],
+      "notes": "Search-and-rescue: detects PEOPLE (pedestrian class) from drone imagery, not drones. 1365 images, 4733 boxes, VOC/XML, DJI Mavic/Phantom at 50-100 m. Relevant only if a SAR/person-detection capability is added — no current ecosystem home."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
