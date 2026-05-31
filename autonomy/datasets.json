@@ -35,7 +35,7 @@
       "name": "Birds vs Drone Dataset (harshwalia)",
       "url": "https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset",
       "task": "CV detection",
-      "license": "see Kaggle page (unconfirmed)",
+      "license": "Kaggle — unconfirmed (not retrievable via anonymous fetch; reCAPTCHA-gated)",
       "license_class": "unconfirmed",
       "status": "trainable_corpus",
       "verdict": "reference",
@@ -43,20 +43,20 @@
         "Ai-Project (counter-UAS visual)",
         "drone-integration-handbook (counter-uas component reference)"
       ],
-      "note": "Bird-vs-drone classification — addresses the real C-UAS false-positive problem (telling birds from drones). Confirm license on Kaggle before any use."
+      "note": "Bird-vs-drone classification — addresses the real C-UAS false-positive problem (telling birds from drones). Confirm license on Kaggle before any use. License verification attempted 2026-05-31: Kaggle "
     },
     {
       "name": "Drone Dataset (toolazycoder)",
       "url": "https://www.kaggle.com/datasets/toolazycoder/drone-dataset",
       "task": "CV detection",
-      "license": "see Kaggle page (unconfirmed)",
+      "license": "Kaggle — unconfirmed (not retrievable via anonymous fetch; reCAPTCHA-gated)",
       "license_class": "unconfirmed",
       "status": "trainable_corpus",
       "verdict": "reference",
       "ecosystem_use": [
         "Ai-Project (apb / counter-UAS visual)"
       ],
-      "note": "Generic drone-image set; details/license not confirmed via fetch. Verify on Kaggle before use."
+      "note": "Generic drone-image set; details/license not confirmed via fetch. Verify on Kaggle before use. License verification attempted 2026-05-31: Kaggle dataset page is JS/reCAPTCHA-gated, license not machine"
     },
     {
       "name": "Drone Detection Dataset (pathikg)",
