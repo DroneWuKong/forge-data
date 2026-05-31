@@ -29,7 +29,7 @@
       "blocked"
     ]
   },
-  "count": 16,
+  "count": 17,
   "datasets": [
     {
       "name": "Birds vs Drone Dataset (harshwalia)",
@@ -177,6 +177,21 @@
         "ESP32-Based-RF-Detector"
       ],
       "note": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration pending review."
+    },
+    {
+      "name": "DTIC — Defense Technical Information Center",
+      "url": "https://discover.dtic.mil/",
+      "task": "Resources",
+      "license": "US Government works — public domain (DTIC public release)",
+      "license_class": "other",
+      "status": "mined",
+      "verdict": "integrated",
+      "ecosystem_use": [
+        "drone-integration-handbook (grayzone/research refs)",
+        "PlzHelp (RAG corpus)",
+        "Ai-Project (intel)"
+      ],
+      "note": "Public, free, mineable. Curated 10 real UAS technical reports (verified accession numbers) on counter-UAS, swarm autonomy, RL tactics, EW. Public domain -> reusable. Highest-value PUBLIC source from t"
     },
     {
       "name": "ERAU UAS Research Guide",

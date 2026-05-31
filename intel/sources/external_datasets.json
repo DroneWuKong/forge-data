@@ -206,6 +206,21 @@
       "notes": "Search index of community CV datasets carrying a 'drone' class; YOLO/COCO export + API (key required; anonymous fetch = 403). Most are CC BY 4.0. Triage each dataset's license individually before use."
     },
     {
+      "name": "DTIC — Defense Technical Information Center",
+      "url": "https://discover.dtic.mil/",
+      "type": "resource_index",
+      "license": "US Government works — public domain (DTIC public release)",
+      "mineable": true,
+      "status": "mined",
+      "landed": "intel/sources/dtic_reports.json (10 curated UAS/counter-UAS/swarm reports)",
+      "ecosystem_use": [
+        "drone-integration-handbook (grayzone/research refs)",
+        "PlzHelp (RAG corpus)",
+        "Ai-Project (intel)"
+      ],
+      "notes": "Public, free, mineable. Curated 10 real UAS technical reports (verified accession numbers) on counter-UAS, swarm autonomy, RL tactics, EW. Public domain -> reusable. Highest-value PUBLIC source from the ERAU list; can be expanded via DTIC public search."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
