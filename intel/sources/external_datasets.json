@@ -125,6 +125,17 @@
       "notes": "STRONGEST build-planner fit since DroneRF: 1,513 propulsion systems, 364 components (120 motors, 189 propellers, 55 ESCs), 174,426 measured samples (thrust/RPM/current/voltage, g/W efficiency). Would enrich motors/propellers/escs with real measured performance + thrust curves. BLOCKERS: community-uploaded data under ToS (not open-licensed); CSV/API bulk export unconfirmed. Action: confirm ToS permits reuse + whether an export/API exists before mining. Do not scrape without that."
     },
     {
+      "name": "DroneDB.com",
+      "url": "https://dronedb.com/en",
+      "type": "drone_specs_aggregator",
+      "license": "unknown (closed commercial site; no stated open license)",
+      "mineable": "pending-access",
+      "status": "candidate",
+      "landed": "registry only — NOT scraped (closed SPA, no public API/terms)",
+      "ecosystem_use": ["forge-data intel/platforms.json + platforms/platforms.json (consumer/enterprise/military specs)"],
+      "notes": "Self-described 'most comprehensive drone database' spanning research/consumer/enterprise/military. JS-rendered SPA (no data in raw HTML), no documented public API, terms/license unknown. Scope OVERLAPS what we already hold (CNAS = 150 military; build-planner = 274 consumer/FPV) — marginal value is mostly consumer/enterprise breadth. NOT the open-source dronedb.app (geospatial tooling). Action: check for a public API + reuse terms before any extraction; do not scrape a closed aggregator otherwise."
+    },
+    {
       "name": "Google Dataset Search — 'drone'",
       "url": "https://datasetsearch.research.google.com/search?query=drone",
       "type": "discovery_portal",
