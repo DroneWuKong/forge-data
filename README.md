@@ -2,7 +2,7 @@
 
 Static JSON API serving the [Prismo](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
 
-**4,459 components** across 45 categories + **335 drone platforms**.
+**4,476 components** across 46 categories + **335 drone platforms**.
 
 ---
 
@@ -49,6 +49,7 @@ GET /schema/drone_parts_schema_v3.json
 | `fpv_cameras` | 199 | FPV and payload cameras |
 | `frames` | 490 | Drone frames and kits |
 | `gps_modules` | 74 | GPS/GNSS receivers |
+| `lidar_payloads` | 17 | Survey/mapping LiDAR payloads |
 | `mesh_radios` | 13 | Mesh networking radios |
 | `motors` | 275 | Brushless motors |
 | `propellers` | 471 | Props across all sizes |

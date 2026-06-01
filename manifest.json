@@ -103,6 +103,10 @@
       "file": "parts/lidar_rangefinders.json",
       "count": 13
     },
+    "lidar_payloads": {
+      "file": "parts/lidar_payloads.json",
+      "count": 17
+    },
     "mesh_radios": {
       "file": "parts/mesh_radios.json",
       "count": 29
@@ -191,7 +195,7 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4459,
+  "total_parts": 4476,
   "autonomy_datasets": {
     "file": "autonomy/datasets.json",
     "count": 16
