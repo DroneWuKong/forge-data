@@ -1,0 +1,29 @@
+name: Validate data
+
+# Forge Data is the canonical parts/platforms dataset for the Forge build
+# planner and Prismo. This gate keeps manifest.json, the parts/*.json files,
+# the platforms file, and the README headline figures from drifting apart.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+# One run per ref; a newer push cancels an in-flight one.
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: manifest / files / README consistency
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run validator
+        run: python3 validate.py
