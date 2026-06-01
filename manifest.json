@@ -4,7 +4,7 @@
   "last_updated": "2026-06-01",
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 314
+    "count": 335
   },
   "parts": {
     "ai_accelerators": {
