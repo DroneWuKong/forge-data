@@ -1,0 +1,1821 @@
+{
+  "source": "CNAS World of Drones",
+  "source_url": "https://drones.cnas.org/drones/",
+  "generated": "2026-05-31",
+  "count": 109,
+  "companies": [
+    {
+      "cid": "CNAS-CMP-0001",
+      "name": "3D Robotics",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0124",
+          "name": "Solo"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0002",
+      "name": "4Front Robotics",
+      "countries": [
+        "Canada"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0089",
+          "name": "Navig8 Electric"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0003",
+      "name": "AAI Corporation",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0114",
+          "name": "Shadow V2"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0004",
+      "name": "AGAT",
+      "countries": [
+        "Belarus"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0022",
+          "name": "Berkut 2E"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0005",
+      "name": "AeroFoundry",
+      "countries": [
+        "Brazil"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0078",
+          "name": "Linea Watupa LEX-300"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0006",
+      "name": "AeroVironment",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 4,
+      "platforms": [
+        {
+          "pid": "CNAS-0103",
+          "name": "Puma AE"
+        },
+        {
+          "pid": "CNAS-0105",
+          "name": "Raven"
+        },
+        {
+          "pid": "CNAS-0117",
+          "name": "Shrike"
+        },
+        {
+          "pid": "CNAS-0146",
+          "name": "Wasp"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0007",
+      "name": "Aerodreams",
+      "countries": [
+        "Argentina"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0034",
+          "name": "Chi-7 Helicoptero UAV"
+        },
+        {
+          "pid": "CNAS-0140",
+          "name": "UAV Strix"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0008",
+      "name": "Aeroland UAV",
+      "countries": [
+        "Hong Kong"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0006",
+          "name": "AL-150"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0009",
+      "name": "Aeronautics Defense",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0004",
+          "name": "Aerostar"
+        },
+        {
+          "pid": "CNAS-0092",
+          "name": "Orbiter 3"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0010",
+      "name": "Aerosonde",
+      "countries": [
+        "Australia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0002",
+          "name": "AAI Aerosonde Mark 4.7"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0011",
+      "name": "Aerovantech",
+      "countries": [
+        "Mexico"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0023",
+          "name": "Beta 1-A"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0012",
+      "name": "Aerovel",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0052",
+          "name": "Flexrotor"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0013",
+      "name": "Aeryon Labs",
+      "countries": [
+        "Canada"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0121",
+          "name": "SkyRanger"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0014",
+      "name": "Aibotix",
+      "countries": [
+        "Germany"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0005",
+          "name": "Aibot"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0015",
+      "name": "Airbus",
+      "countries": [
+        "France",
+        "Spain",
+        "UK"
+      ],
+      "platform_count": 4,
+      "platforms": [
+        {
+          "pid": "CNAS-0018",
+          "name": "Atlante"
+        },
+        {
+          "pid": "CNAS-0062",
+          "name": "Harfang"
+        },
+        {
+          "pid": "CNAS-0133",
+          "name": "Tanan 300"
+        },
+        {
+          "pid": "CNAS-0153",
+          "name": "Zephyr"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0016",
+      "name": "Alpha Unmanned Systems",
+      "countries": [
+        "Spain"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0122",
+          "name": "Sniper"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0017",
+      "name": "Aurora",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0093",
+          "name": "Orion"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0018",
+      "name": "Aurora Integrated Systems",
+      "countries": [
+        "India"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0007",
+          "name": "Altius MkII"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0019",
+      "name": "BAE Systems",
+      "countries": [
+        "UK"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0066",
+          "name": "Herti"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0020",
+      "name": "BHE Bonn Hungary",
+      "countries": [
+        "Hungary"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0028",
+          "name": "BXAP15"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0021",
+      "name": "BPPT PUNA",
+      "countries": [
+        "Indonesia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0149",
+          "name": "Wulung"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0022",
+      "name": "BSK Defense",
+      "countries": [
+        "Greece"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0099",
+          "name": "Phaethon J"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0023",
+      "name": "Blue Bear Systems Research",
+      "countries": [
+        "UK"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0107",
+          "name": "RedKite"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0024",
+      "name": "Bluebird",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0126",
+          "name": "SpyLite"
+        },
+        {
+          "pid": "CNAS-0135",
+          "name": "Thunder B"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0025",
+      "name": "Boeing",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0101",
+          "name": "Phantom Eye"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0026",
+      "name": "C-Astral",
+      "countries": [
+        "Slovenia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0027",
+          "name": "Bramor C4EYE"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0027",
+      "name": "Cassidian Airborne Solutions",
+      "countries": [
+        "Germany"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0108",
+          "name": "Rheinmetall KZO"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0028",
+      "name": "Chengdu Aircraft Industry Group",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0148",
+          "name": "Wing Loong II"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0029",
+      "name": "China Aerospace Science and Technology Corporation (CASC)",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0033",
+          "name": "CH-4"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0030",
+      "name": "Composite Technology Research Malaysia",
+      "countries": [
+        "Malaysia"
+      ],
+      "platform_count": 4,
+      "platforms": [
+        {
+          "pid": "CNAS-0008",
+          "name": "Aludra MKI"
+        },
+        {
+          "pid": "CNAS-0009",
+          "name": "Aludra SR-08"
+        },
+        {
+          "pid": "CNAS-0073",
+          "name": "Intisar 100"
+        },
+        {
+          "pid": "CNAS-0074",
+          "name": "Intisar 300"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0031",
+      "name": "CybAero",
+      "countries": [
+        "Sweden"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0012",
+          "name": "Apid 60"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0032",
+      "name": "DJI",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0072",
+          "name": "Inspire 1 Pro"
+        },
+        {
+          "pid": "CNAS-0100",
+          "name": "Phantom 3"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0033",
+      "name": "Defence Research & Development Organisation",
+      "countries": [
+        "India"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0090",
+          "name": "Nishant"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0034",
+      "name": "Delta Drone",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0039",
+          "name": "Delta Y"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0035",
+      "name": "Denel Dynamics",
+      "countries": [
+        "South Africa"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0113",
+          "name": "Seeker 400"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0036",
+      "name": "DraganFly Innovations",
+      "countries": [
+        "Canada"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0059",
+          "name": "Guardian"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0037",
+      "name": "EMT",
+      "countries": [
+        "Germany"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0080",
+          "name": "Luna"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0038",
+      "name": "Elbit",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0065",
+          "name": "Hermes 900"
+        },
+        {
+          "pid": "CNAS-0120",
+          "name": "Skylark I-LE"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0039",
+      "name": "FlyTronic",
+      "countries": [
+        "Poland"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0053",
+          "name": "FlyEye"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0040",
+      "name": "Fuji Imvac",
+      "countries": [
+        "Japan"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0041",
+          "name": "E-7"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0041",
+      "name": "General Atomics",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 3,
+      "platforms": [
+        {
+          "pid": "CNAS-0058",
+          "name": "Gray Eagle"
+        },
+        {
+          "pid": "CNAS-0102",
+          "name": "Predator XP"
+        },
+        {
+          "pid": "CNAS-0106",
+          "name": "Reaper"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0042",
+      "name": "Ghods Aviation Industries",
+      "countries": [
+        "Iran"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0003",
+          "name": "Ababil 3"
+        },
+        {
+          "pid": "CNAS-0087",
+          "name": "Mohajer 4"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0043",
+      "name": "Global Industrial & Defence Solutions",
+      "countries": [
+        "Pakistan"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0116",
+          "name": "Shahpar"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0044",
+      "name": "GyroFly",
+      "countries": [
+        "Brazil"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0001",
+          "name": "500 X4"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0045",
+      "name": "Hacker",
+      "countries": [
+        "Czech Republic"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0061",
+          "name": "HAES 90"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0046",
+      "name": "Harbin Aircraft Industry",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0029",
+          "name": "BZK-005"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0047",
+      "name": "Hawkeye UAV",
+      "countries": [
+        "New Zealand"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0110",
+          "name": "RQ-84Z Aerohawk"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0048",
+      "name": "High Eye",
+      "countries": [
+        "Netherlands"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0064",
+          "name": "HEF30"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0049",
+      "name": "Hubei Ewatt Technologies",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0044",
+          "name": "EWG-2"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0050",
+      "name": "Hydra Technologies",
+      "countries": [
+        "Mexico"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0043",
+          "name": "Ehecatl"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0051",
+      "name": "IDS",
+      "countries": [
+        "Italy"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0070",
+          "name": "IA-17 Manta"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0052",
+      "name": "INAV Aviation Institute",
+      "countries": [
+        "Romania"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0118",
+          "name": "Sisuar"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0053",
+      "name": "Idetec",
+      "countries": [
+        "Chile"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0128",
+          "name": "Stardust"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0054",
+      "name": "Indela UAV",
+      "countries": [
+        "Belarus"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0069",
+          "name": "I.N. Sky"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0055",
+      "name": "Innocon",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0048",
+          "name": "Falcon Eye"
+        },
+        {
+          "pid": "CNAS-0086",
+          "name": "Micro Falcon LE"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0056",
+      "name": "Insitu",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0026",
+          "name": "Blackjack"
+        },
+        {
+          "pid": "CNAS-0111",
+          "name": "ScanEagle"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0057",
+      "name": "Irkut",
+      "countries": [
+        "Russia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0075",
+          "name": "Irkut 3"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0058",
+      "name": "Israel Aerospace Industries",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 5,
+      "platforms": [
+        {
+          "pid": "CNAS-0055",
+          "name": "Ghost"
+        },
+        {
+          "pid": "CNAS-0063",
+          "name": "Harpy"
+        },
+        {
+          "pid": "CNAS-0095",
+          "name": "Panther"
+        },
+        {
+          "pid": "CNAS-0112",
+          "name": "Searcher MK III"
+        },
+        {
+          "pid": "CNAS-0130",
+          "name": "Super Heron"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0059",
+      "name": "Kadet Defence Systems",
+      "countries": [
+        "India"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0049",
+          "name": "Fire Bee"
+        },
+        {
+          "pid": "CNAS-0144",
+          "name": "Vigilant"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0060",
+      "name": "Kale-Baykar",
+      "countries": [
+        "Turkey"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0021",
+          "name": "Bayraktar TB2"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0061",
+      "name": "Kaman",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0076",
+          "name": "K-Max"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0062",
+      "name": "Korea Aerospace Industries",
+      "countries": [
+        "South Korea"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0132",
+          "name": "Tactical UAV"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0063",
+      "name": "Korean Air",
+      "countries": [
+        "South Korea"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0077",
+          "name": "KUS-FT"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0064",
+      "name": "L-3",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 3,
+      "platforms": [
+        {
+          "pid": "CNAS-0011",
+          "name": "Apex"
+        },
+        {
+          "pid": "CNAS-0038",
+          "name": "Cutlass"
+        },
+        {
+          "pid": "CNAS-0145",
+          "name": "Viking 400"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0065",
+      "name": "Lehmann Aviation",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0079",
+          "name": "LP500"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0066",
+      "name": "Lipan",
+      "countries": [
+        "Argentina"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0081",
+          "name": "M3"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0067",
+      "name": "Lockheed Martin",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0071",
+          "name": "Indago"
+        },
+        {
+          "pid": "CNAS-0127",
+          "name": "Stalker XE"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0068",
+      "name": "MMIST",
+      "countries": [
+        "Canada"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0123",
+          "name": "Snowgoose B"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0069",
+      "name": "Martin UAV",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0129",
+          "name": "Super Bat DA-50"
+        },
+        {
+          "pid": "CNAS-0142",
+          "name": "V Bat"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0070",
+      "name": "National Chung-Shan Institute of Science and Technology",
+      "countries": [
+        "Taiwan"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0032",
+          "name": "Cardinal II"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0071",
+      "name": "Northrop Grumman",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 5,
+      "platforms": [
+        {
+          "pid": "CNAS-0020",
+          "name": "Bat"
+        },
+        {
+          "pid": "CNAS-0050",
+          "name": "Fire Scout (MQ-8C)"
+        },
+        {
+          "pid": "CNAS-0056",
+          "name": "Global Hawk"
+        },
+        {
+          "pid": "CNAS-0068",
+          "name": "Hunter"
+        },
+        {
+          "pid": "CNAS-0137",
+          "name": "Triton"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0072",
+      "name": "Nostromo Defensa",
+      "countries": [
+        "Argentina"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0030",
+          "name": "Cabure III"
+        },
+        {
+          "pid": "CNAS-0150",
+          "name": "Yarara W"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0073",
+      "name": "Oqualia",
+      "countries": [
+        "Singapore"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0091",
+          "name": "Nomad B"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0074",
+      "name": "Orlan",
+      "countries": [
+        "Russia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0094",
+          "name": "Orlan 50"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0075",
+      "name": "Parrot",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0013",
+          "name": "AR.Drone"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0076",
+      "name": "Patria",
+      "countries": [
+        "Finland"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0083",
+          "name": "MASS Mini-UAV"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0077",
+      "name": "Prioria Robotics",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0084",
+          "name": "Maveric"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0078",
+      "name": "Prox Dynamics",
+      "countries": [
+        "Norway"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0025",
+          "name": "Black Hornet"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0079",
+      "name": "R.M.S.S.A",
+      "countries": [
+        "Chile"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0082",
+          "name": "Mantarraya"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0080",
+      "name": "R.M.S.S.A.",
+      "countries": [
+        "Chile"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0098",
+          "name": "Petrel II"
+        },
+        {
+          "pid": "CNAS-0136",
+          "name": "Trauco III"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0081",
+      "name": "Raytheon",
+      "countries": [
+        "USA"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0037",
+          "name": "Coyote"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0082",
+      "name": "Reiner Stemme",
+      "countries": [
+        "Germany"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0104",
+          "name": "Q01"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0083",
+      "name": "SATUMA",
+      "countries": [
+        "Pakistan"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0051",
+          "name": "Flamingo"
+        },
+        {
+          "pid": "CNAS-0088",
+          "name": "Mukhbar"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0084",
+      "name": "ST Aerospace",
+      "countries": [
+        "Singapore"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0119",
+          "name": "Skyblade IV"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0085",
+      "name": "Sagem",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0096",
+          "name": "Patroller"
+        },
+        {
+          "pid": "CNAS-0125",
+          "name": "Sperwer Mk II"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0086",
+      "name": "Schiebel",
+      "countries": [
+        "Austria"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0031",
+          "name": "Camcopter S-100"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0087",
+      "name": "Selex ES",
+      "countries": [
+        "Italy"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0015",
+          "name": "Asio-B"
+        },
+        {
+          "pid": "CNAS-0047",
+          "name": "Falco EVO"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0088",
+      "name": "SenseFly",
+      "countries": [
+        "Switzerland"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0042",
+          "name": "eBee"
+        },
+        {
+          "pid": "CNAS-0045",
+          "name": "eXom"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0089",
+      "name": "Shahed Aviation Industries Research Center",
+      "countries": [
+        "Iran"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0115",
+          "name": "Shahed 129"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0090",
+      "name": "Siam UAV Industries",
+      "countries": [
+        "Thailand"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0085",
+          "name": "Mercury-1"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0091",
+      "name": "Sky Sapience",
+      "countries": [
+        "Israel"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0067",
+          "name": "Hover Mast 100"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0092",
+      "name": "Skycam UAV",
+      "countries": [
+        "New Zealand"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0131",
+          "name": "Swamp Fox"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0093",
+      "name": "Soko",
+      "countries": [
+        "Croatia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0019",
+          "name": "B-3"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0094",
+      "name": "Speck Systems",
+      "countries": [
+        "India"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0024",
+          "name": "Bird-Eye 650"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0095",
+      "name": "Survey Copter",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0036",
+          "name": "Copter 4"
+        },
+        {
+          "pid": "CNAS-0040",
+          "name": "DVF 2000"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0096",
+      "name": "Tekever Autonomous Systems",
+      "countries": [
+        "Portugal"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0014",
+          "name": "AR4"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0097",
+      "name": "Thales",
+      "countries": [
+        "France"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0147",
+          "name": "Watchkeeper (WK180)"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0098",
+      "name": "Threod Systems",
+      "countries": [
+        "Estonia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0134",
+          "name": "Theia"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0099",
+      "name": "Trimble",
+      "countries": [
+        "Belgium"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0141",
+          "name": "UX5 HP"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0100",
+      "name": "Turkish Aerospace Industries",
+      "countries": [
+        "Turkey"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0010",
+          "name": "Anka"
+        },
+        {
+          "pid": "CNAS-0057",
+          "name": "Gozcu"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0101",
+      "name": "UAV Factory",
+      "countries": [
+        "Latvia"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0097",
+          "name": "Penguin C"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0102",
+      "name": "UMS Skeldar",
+      "countries": [
+        "Switzerland"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0046",
+          "name": "F-720"
+        },
+        {
+          "pid": "CNAS-0143",
+          "name": "V-200"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0103",
+      "name": "Wake Engineering",
+      "countries": [
+        "Spain"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0054",
+          "name": "Fulmar"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0104",
+      "name": "Warrior (Aero-Marine)",
+      "countries": [
+        "UK"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0060",
+          "name": "Gull 68"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0105",
+      "name": "Xi'an ASN Technology Group",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0016",
+          "name": "ASN-206"
+        },
+        {
+          "pid": "CNAS-0017",
+          "name": "ASN-209"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0106",
+      "name": "Yamaha Corporation",
+      "countries": [
+        "Japan"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0109",
+          "name": "RMAX"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0107",
+      "name": "Yuneec",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0138",
+          "name": "Typhoon H"
+        },
+        {
+          "pid": "CNAS-0139",
+          "name": "Typhoon Q500"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0108",
+      "name": "Zala Aero Group",
+      "countries": [
+        "Russia"
+      ],
+      "platform_count": 2,
+      "platforms": [
+        {
+          "pid": "CNAS-0151",
+          "name": "Zala 421-08M"
+        },
+        {
+          "pid": "CNAS-0152",
+          "name": "Zala 421-20"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    },
+    {
+      "cid": "CNAS-CMP-0109",
+      "name": "Zhuhai Zingyu Aviation Technology Company",
+      "countries": [
+        "China"
+      ],
+      "platform_count": 1,
+      "platforms": [
+        {
+          "pid": "CNAS-0035",
+          "name": "Clairvoyance"
+        }
+      ],
+      "source_db": "CNAS World of Drones"
+    }
+  ]
+}

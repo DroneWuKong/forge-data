@@ -1,0 +1,235 @@
+{
+  "description": "Master registry of external data sources evaluated in the drone-data-mining effort. Classifies each by what it is, license, whether it is bulk-mineable, where it landed (or why it didn't), and which ecosystem repo it serves. New sources get appended here.",
+  "generated": "2026-05-31",
+  "sources": [
+    {
+      "name": "CNAS World of Drones",
+      "url": "https://drones.cnas.org/drones/",
+      "type": "structured_platform_db",
+      "license": "CNAS public research dataset (cite)",
+      "mineable": true,
+      "status": "mined",
+      "landed": "intel/platforms.json (+150), intel/companies.json (+102); Ai-Project intel-db synced",
+      "ecosystem_use": [
+        "forge-data",
+        "Ai-Project",
+        "droneclear_Forge",
+        "Command"
+      ],
+      "notes": "153 military/gov platforms; full specs + DoD UAS Group. See cnas/."
+    },
+    {
+      "name": "ERAU UAS Research Guide",
+      "url": "https://guides.erau.edu/uas",
+      "type": "resource_index",
+      "license": "mixed (links to third-party resources)",
+      "mineable": "partial",
+      "status": "cataloged",
+      "landed": "erau_databases.json, erau_resources.json; handbook Appendix F",
+      "ecosystem_use": [
+        "drone-integration-handbook",
+        "PlzHelp"
+      ],
+      "notes": "Open resources (FAA, NCSL, ASIAS, AUVSI) usable; subscription DBs (Janes, Scopus) reference-only."
+    },
+    {
+      "name": "DroneRF dataset (Al-Sa'd et al. 2019)",
+      "url": "https://github.com/Al-Sad/DroneRF",
+      "doi": "10.17632/f4c2b4n755.1",
+      "type": "rf_signature_dataset",
+      "license": "code Apache-2.0; data CC BY 4.0",
+      "mineable": true,
+      "status": "mined",
+      "landed": "NeedleNThread: data/dronerf_signatures.json + docs/SIGNATURES.md + FOLDED INTO FIRMWARE (tactical_rf_detector.ino, category 'Con', 3 sigs)",
+      "ecosystem_use": [
+        "NeedleNThread",
+        "ESP32-Based-RF-Detector"
+      ],
+      "notes": "3 consumer drones (Parrot Bebop, AR 2.0, DJI Phantom 3) across 2.4 GHz ISM. Closes the RF gap. Firmware integration DONE (B2): 3 consumer sigs in db[]."
+    },
+    {
+      "name": "UZH-FPV Drone Racing Dataset",
+      "url": "https://fpv.ifi.uzh.ch/",
+      "type": "vio_benchmark_raw_sensor",
+      "license": "CC BY-NC-SA 3.0 (non-commercial)",
+      "mineable": false,
+      "status": "reference_only",
+      "landed": "registry only — not ingested",
+      "ecosystem_use": [
+        "Ai-Project (rl-pilot / APB autonomy benchmark)"
+      ],
+      "notes": "Real FPV flights: camera + IMU + event camera + Leica ground truth, up to 100 km/h. Raw multi-GB rosbags for VIO/state-estimation R&D, not structured facts. NC license blocks commercial/product use — usable as a research benchmark only."
+    },
+    {
+      "name": "Mid-Air Dataset (Fonder & Van Droogenbroeck, 2019)",
+      "url": "https://midair.ulg.ac.be/",
+      "type": "vio_slam_benchmark_synthetic",
+      "license": "CC BY-NC-SA 4.0 (non-commercial)",
+      "mineable": false,
+      "status": "reference_only",
+      "landed": "registry only — not ingested",
+      "ecosystem_use": [
+        "Ai-Project (rl-pilot / APB / avp perception benchmark)"
+      ],
+      "notes": "Synthetic low-altitude drone flights: 420k frames, 3 RGB cams + depth/normals/semantics/stereo disparity + simulated IMU/GPS, across 7 climates. For VIO/SLAM/depth/semantic R&D. Synthetic + NC license -> research benchmark only, not product data. Same class as UZH-FPV."
+    },
+    {
+      "name": "Seraphim Drone Detection Dataset",
+      "url": "https://huggingface.co/datasets/lgrzybowski/seraphim-drone-detection-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "CC BY 4.0",
+      "mineable": false,
+      "status": "training_wired",
+      "landed": "Ai-Project apb/detector/training (prepare_drone_det.py + DRONE_DET.md) — primary source for the drone detector",
+      "ecosystem_use": [
+        "Ai-Project (apb on-board AI / counter-UAS visual detector)"
+      ],
+      "notes": "83k YOLO-format images (640x640), single 'drone' class, 9.14 GB. Curated from 23 open sets; mixed real/synthetic. Permissive license -> usable to train a visual drone detector if/when one exists."
+    },
+    {
+      "name": "Drone Detection Dataset (pathikg)",
+      "url": "https://huggingface.co/datasets/pathikg/drone-detection-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "MIT",
+      "mineable": false,
+      "status": "training_wired",
+      "landed": "Ai-Project apb/detector/training (prepare_drone_det.py) — COCO->YOLO, secondary source",
+      "ecosystem_use": [
+        "Ai-Project (apb on-board AI / counter-UAS visual detector)"
+      ],
+      "notes": "54k COCO-format images (640x480), single 'drone' class, 4.65 GB. From YouTube frames (Pawelczyk & Wojtyra). Permissive license -> trainable."
+    },
+    {
+      "name": "Birds vs Drone Dataset (harshwalia)",
+      "url": "https://www.kaggle.com/datasets/harshwalia/birds-vs-drone-dataset",
+      "type": "cv_cuas_discrimination",
+      "license": "Kaggle — unconfirmed (not retrievable via anonymous fetch; reCAPTCHA-gated)",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": [
+        "Ai-Project (counter-UAS visual)",
+        "drone-integration-handbook (counter-uas component reference)"
+      ],
+      "notes": "Bird-vs-drone classification — addresses the real C-UAS false-positive problem (telling birds from drones). Confirm license on Kaggle before any use. License verification attempted 2026-05-31: Kaggle dataset page is JS/reCAPTCHA-gated, license not machine-readable — confirm on the page before any use."
+    },
+    {
+      "name": "Drone Dataset (toolazycoder)",
+      "url": "https://www.kaggle.com/datasets/toolazycoder/drone-dataset",
+      "type": "cv_drone_detection_training",
+      "license": "Kaggle — unconfirmed (not retrievable via anonymous fetch; reCAPTCHA-gated)",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": [
+        "Ai-Project (apb / counter-UAS visual)"
+      ],
+      "notes": "Generic drone-image set; details/license not confirmed via fetch. Verify on Kaggle before use. License verification attempted 2026-05-31: Kaggle dataset page is JS/reCAPTCHA-gated, license not machine-readable — confirm on the page before any use."
+    },
+    {
+      "name": "LADD — Lacmus Drone Dataset",
+      "url": "https://datasetninja.com/lacmus-drone-dataset",
+      "type": "cv_sar_person_detection",
+      "license": "see Lacmus Foundation (unconfirmed)",
+      "mineable": false,
+      "status": "different_task",
+      "landed": "registry only — NOT drone detection",
+      "ecosystem_use": [],
+      "notes": "Search-and-rescue: detects PEOPLE (pedestrian class) from drone imagery, not drones. 1365 images, 4733 boxes, VOC/XML, DJI Mavic/Phantom at 50-100 m. Relevant only if a SAR/person-detection capability is added — no current ecosystem home."
+    },
+    {
+      "name": "Tyto Robotics Propulsion Database",
+      "url": "https://database.tytorobotics.com/",
+      "type": "component_performance_test_data",
+      "license": "Terms of Service (community-uploaded; NOT a clear open license — verify before any extraction)",
+      "mineable": "high-value-pending-permission",
+      "status": "candidate_blocked",
+      "landed": "registry only — NOT scraped; ToS checked, no reuse grant",
+      "ecosystem_use": [
+        "forge-data parts-db (motors, propellers, escs)",
+        "Ai-Project (Forge build planner thrust/efficiency)"
+      ],
+      "notes": "STRONGEST build-planner fit since DroneRF: 1,513 propulsion systems, 364 components (120 motors, 189 propellers, 55 ESCs), 174,426 measured samples (thrust/RPM/current/voltage, g/W efficiency). Would enrich motors/propellers/escs with real measured performance + thrust curves. BLOCKERS: community-uploaded data under ToS (not open-licensed); CSV/API bulk export unconfirmed. UPDATE: their public Terms of Service is silent on data ownership/reuse/export — so reuse rights CANNOT be assumed. Blocked pending explicit written permission (info@tytorobotics.com). Do not scrape. Highest-value add IF permission is granted."
+    },
+    {
+      "name": "DroneDB.com",
+      "url": "https://dronedb.com/en",
+      "type": "drone_specs_aggregator",
+      "license": "unknown (closed commercial site; no stated open license)",
+      "mineable": "pending-access",
+      "status": "candidate",
+      "landed": "registry only — NOT scraped (closed SPA, no public API/terms)",
+      "ecosystem_use": [
+        "forge-data intel/platforms.json + platforms/platforms.json (consumer/enterprise/military specs)"
+      ],
+      "notes": "Self-described 'most comprehensive drone database' spanning research/consumer/enterprise/military. JS-rendered SPA (no data in raw HTML), no documented public API, terms/license unknown. Scope OVERLAPS what we already hold (CNAS = 150 military; build-planner = 274 consumer/FPV) — marginal value is mostly consumer/enterprise breadth. NOT the open-source dronedb.app (geospatial tooling). Action: check for a public API + reuse terms before any extraction; do not scrape a closed aggregator otherwise."
+    },
+    {
+      "name": "open-dronelog (arpanghosh8453)",
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "type": "tool_reference",
+      "license": "AGPL-3.0 (strong copyleft)",
+      "mineable": false,
+      "status": "tool_not_dataset",
+      "landed": "registry only — it's a tool, ships no data",
+      "ecosystem_use": [
+        "Ai-Project (Prismo GCS — same Rust+Tauri v2 stack; flight-log analysis feature reference)",
+        "drone-integration-handbook (field/blackbox.md)",
+        "Command (telemetry)"
+      ],
+      "notes": "Flight-log analysis app (desktop/web): parses DJI .txt, Litchi/Airdata CSV, Dronelink, DroneDeploy; 3D replay, battery health, maintenance tracking; export CSV/JSON/GPX/KML/PDF. Stack: Rust + Tauri v2 + React + DuckDB (mirrors Prismo). NOT a dataset and NOT mineable. AGPL-3.0 = do NOT copy code into the proprietary stack; useful only as a feature/parser-format reference and competitive study. Mineable fact = the set of log formats worth supporting."
+    },
+    {
+      "name": "DroneDetectionDataset (Maciullo)",
+      "url": "https://github.com/Maciullo/DroneDetectionDataset",
+      "type": "cv_drone_detection_training",
+      "license": "MIT (labels); source frames = public YouTube",
+      "mineable": false,
+      "status": "trainable_corpus",
+      "landed": "registry only — training data",
+      "ecosystem_use": [
+        "Ai-Project (apb / counter-UAS visual)"
+      ],
+      "notes": "51,446 train + 5,375 test 640x480 RGB, single 'drone' class, XML/Haar labels + trained Haar/ANN models, ~5GB externally hosted. ORIGINAL of the pathikg HF dataset (same Pawelczyk & Wojtyra YouTube-frame source, reformatted to COCO) -> DEDUPE, don't count twice. Permissive (MIT)."
+    },
+    {
+      "name": "Roboflow Universe — class:drone",
+      "url": "https://universe.roboflow.com/search?q=class%3Adrone",
+      "type": "discovery_portal",
+      "license": "per-dataset (CC BY 4.0 common on Roboflow Universe)",
+      "mineable": false,
+      "status": "discovery_method",
+      "landed": "n/a — portal of many CV datasets",
+      "ecosystem_use": [
+        "Ai-Project (apb / counter-UAS visual)"
+      ],
+      "notes": "Search index of community CV datasets carrying a 'drone' class; YOLO/COCO export + API (key required; anonymous fetch = 403). Most are CC BY 4.0. Triage each dataset's license individually before use."
+    },
+    {
+      "name": "DTIC — Defense Technical Information Center",
+      "url": "https://discover.dtic.mil/",
+      "type": "resource_index",
+      "license": "US Government works — public domain (DTIC public release)",
+      "mineable": true,
+      "status": "mined",
+      "landed": "intel/sources/dtic_reports.json (10 curated UAS/counter-UAS/swarm reports)",
+      "ecosystem_use": [
+        "drone-integration-handbook (grayzone/research refs)",
+        "PlzHelp (RAG corpus)",
+        "Ai-Project (intel)"
+      ],
+      "notes": "Public, free, mineable. Curated 10 real UAS technical reports (verified accession numbers) on counter-UAS, swarm autonomy, RL tactics, EW. Public domain -> reusable. Highest-value PUBLIC source from the ERAU list; can be expanded via DTIC public search."
+    },
+    {
+      "name": "Google Dataset Search — 'drone'",
+      "url": "https://datasetsearch.research.google.com/search?query=drone",
+      "type": "discovery_portal",
+      "license": "n/a (index of third-party datasets)",
+      "mineable": false,
+      "status": "discovery_method",
+      "landed": "n/a — portal, not a dataset",
+      "ecosystem_use": [],
+      "notes": "A search index, not a dataset. Use it to FIND candidate datasets; each hit must be evaluated on its own license/format before mining. Candidates to triage on request."
+    }
+  ]
+}

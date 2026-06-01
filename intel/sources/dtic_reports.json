@@ -1,0 +1,80 @@
+{
+  "source": "DTIC — Defense Technical Information Center (public technical reports)",
+  "source_url": "https://discover.dtic.mil/",
+  "license": "US Government works — public domain (DTIC public release). Cite DTIC + accession number.",
+  "method": "Curated from DTIC public search (apps.dtic.mil), 2026-05-31. Not bulk-scraped; records verified to real accession numbers. Each is a public-release report.",
+  "generated": "2026-05-31",
+  "count": 10,
+  "reports": [
+    {
+      "accession": "AD1047506",
+      "title": "Technology Trends in Small Unmanned Aircraft Systems (sUAS) and Counter-UAS: A Five Year Outlook",
+      "date": "2017-11-01",
+      "url": "https://apps.dtic.mil/sti/pdfs/AD1047506.pdf",
+      "topics": ["sUAS", "counter-UAS", "autonomy", "swarming", "trends"]
+    },
+    {
+      "accession": "AD1212947",
+      "title": "Countering Small Unmanned Aircraft Systems With Advanced Data Analysis and Machine Learning",
+      "date": "2023-03-01",
+      "url": "https://apps.dtic.mil/sti/html/trecms/AD1212947/index.html",
+      "topics": ["counter-UAS", "machine learning", "autonomy", "swarm", "electronic warfare"]
+    },
+    {
+      "accession": "AD1169689",
+      "title": "Department of Defense Counter-Unmanned Aircraft Systems",
+      "date": "2021-01-11",
+      "url": "https://apps.dtic.mil/sti/html/trecms/AD1169689/index.html",
+      "topics": ["counter-UAS", "doctrine", "air defense", "ISR"]
+    },
+    {
+      "accession": "AD1070941",
+      "title": "Swarming Autonomous Unmanned Aerial Systems",
+      "date": "2019-05-01",
+      "url": "https://apps.dtic.mil/sti/pdfs/AD1070941.pdf",
+      "topics": ["swarm", "autonomy", "monograph"]
+    },
+    {
+      "accession": "AD1152139",
+      "title": "New Generation of Counter UAS Systems to Defeat Low, Slow and Small Aerial Threats",
+      "date": "2021-05-01",
+      "url": "https://apps.dtic.mil/sti/pdfs/AD1152139.pdf",
+      "topics": ["counter-UAS", "LSS", "detection"]
+    },
+    {
+      "accession": "AD1114696",
+      "title": "Feasibility of Indirect Fire for Countering Swarms of Small Unmanned Aircraft Systems",
+      "date": "2020-12-01",
+      "url": "https://apps.dtic.mil/sti/trecms/pdf/AD1114696.pdf",
+      "topics": ["counter-UAS", "swarm", "indirect fire", "electronic warfare"]
+    },
+    {
+      "accession": "AD1039921",
+      "title": "Drone Swarms",
+      "date": "2017-06-01",
+      "url": "https://apps.dtic.mil/sti/html/tr/AD1039921/",
+      "topics": ["swarm", "doctrine", "great-power competition"]
+    },
+    {
+      "accession": "AD1149672",
+      "title": "Drone Swarming Tactics Using Reinforcement Learning and Policy Optimization",
+      "date": "2021-06-01",
+      "url": "https://apps.dtic.mil/sti/html/trecms/AD1149672/index.html",
+      "topics": ["swarm", "reinforcement learning", "autonomy", "tactics"]
+    },
+    {
+      "accession": "AD1059885",
+      "title": "Employment of Intelligence, Surveillance, and Reconnaissance Drone Swarms to Enhance Ground Combat Operations",
+      "date": "2018-06-01",
+      "url": "https://apps.dtic.mil/sti/html/tr/AD1059885/index.html",
+      "topics": ["swarm", "ISR", "ground combat"]
+    },
+    {
+      "accession": "AD1053392",
+      "title": "Defensive Swarm: An Agent Based Modeling Analysis",
+      "date": "2018-03-01",
+      "url": "https://apps.dtic.mil/sti/trecms/pdf/AD1053392.pdf",
+      "topics": ["counter-UAS", "swarm", "agent-based modeling"]
+    }
+  ]
+}
