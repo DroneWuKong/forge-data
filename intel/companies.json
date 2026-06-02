@@ -4620,7 +4620,8 @@
       "Autonomous border-protection system (prime contractor; thousands of drones planned)",
       "Israeli border barrier / demining ($1.7B program, 4M Defense; >$50M + $30M awards)",
       "FIFA World Cup 2026 counter-UAS venue protection (Sentrycs)",
-      "ONBERG Autonomous Systems JV (HD Advanced Technologies — Germany/Ukraine)"
+      "ONBERG Autonomous Systems JV (HD Advanced Technologies — Germany/Ukraine)",
+      "Q2-2026 order momentum: >$110M total orders QTD (>$30M in May 2026) across air defense, counter-drone, loitering munitions, ISR, UGVs; Q1 rev $50.1M, backlog ~$457M"
     ],
     "tags": [
       "counter-UAS",
@@ -4631,7 +4632,10 @@
       "acquisition",
       "defense",
       "drone",
-      "consolidation"
+      "consolidation",
+      "air defense",
+      "UGV",
+      "backlog growth"
     ],
     "sources": [
       {
@@ -4657,9 +4661,15 @@
         "site": "ondas",
         "title": "Ondas Secures $10 Million in New Autonomous Systems Orders",
         "url": "https://www.ondas.com/post/ondas-secures-10-million-in-new-autonomous-systems-orders-as-global-demand-for-multi-domain-defense"
+      },
+      {
+        "date": "2026-06-01",
+        "site": "yahoo/zacks",
+        "title": "Ondas (ONDS) Wins $110M in Q2 Orders",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/onds-wins-110m-q2-orders-125700581.html"
       }
     ],
     "data_source": "market intel 2026-05 (Ondas Autonomous Systems = American Robotics 'Optimus' + Airobotics + Iron Drone 'Raider' c-UAS; FY rev guidance >=$390M, backlog ~$457M, ~$1.03B cash)",
-    "last_updated": "2026-05-31"
+    "last_updated": "2026-06-01"
   }
 ]
