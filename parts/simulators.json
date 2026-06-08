@@ -8,7 +8,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "SensorOps by SensorOps.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-002",
@@ -19,7 +22,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - SensorOps by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-003",
@@ -30,7 +36,9 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-004",
@@ -41,7 +49,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - HAVIK by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-005",
@@ -52,7 +63,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Simtech Solutions (Ukrainian Fight Drone Simulator - UFDS) by Simtech Solutions.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-006",
@@ -63,7 +77,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Simtech Solutions (Ukrainian Fight Drone Simulator - UFDS) by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-007",
@@ -74,7 +91,9 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-008",
@@ -85,7 +104,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Obriy by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-009",
@@ -96,7 +118,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "VelociDrone by VelociDrone.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-010",
@@ -107,7 +132,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - VelociDrone by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-011",
@@ -118,7 +146,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Zephyr by Zephyr.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-012",
@@ -129,7 +160,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Zephyr by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-013",
@@ -140,7 +174,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "DRL Sim by DRL Sim.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-014",
@@ -151,7 +188,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - DRL Sim by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-015",
@@ -162,7 +202,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Liftoff! by Liftoff!.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-016",
@@ -173,7 +216,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Liftoff by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-017",
@@ -184,7 +230,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Real Flight by Real Flight.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-018",
@@ -195,7 +244,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Real Flight by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-019",
@@ -206,7 +258,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Bohemia Interactive Simulations (VBS 4) by Bohemia Interactive Simulations.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-020",
@@ -217,7 +272,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "YouTube - Bohemia Interactive Simulations (VBS 4) by YouTube.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "SIMULATORS-VENDOR-021",
@@ -228,6 +286,9 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Airbus (SE-RPAS) by Airbus.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   }
 ]

@@ -14,10 +14,10 @@
     "form_factor": "tube-launched interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "jet_interceptor",
       "370mph",
@@ -57,9 +57,9 @@
     "form_factor": "quadcopter interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": {
-      "ndaa": true
-    },
+    "compliance": [
+      "ndaa"
+    ],
     "tags": [
       "cv_guided",
       "200mph",
@@ -97,9 +97,9 @@
     "form_factor": "VTOL jet interceptor",
     "subcategory": "kinetic_interceptor",
     "country": "United States",
-    "compliance": {
-      "ndaa": true
-    },
+    "compliance": [
+      "ndaa"
+    ],
     "tags": [
       "vtol",
       "reusable",
@@ -138,10 +138,10 @@
     "form_factor": "fixed / mobile sensor",
     "subcategory": "rf_detection",
     "country": "United States",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "passive_rf",
       "700_systems",
@@ -178,10 +178,10 @@
     "form_factor": "backpack / handheld (3 lbs)",
     "subcategory": "jammer_ew",
     "country": "United States",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "backpack",
       "3lbs",
@@ -219,10 +219,10 @@
     "form_factor": "fixed / vehicle / portable",
     "subcategory": "cyber_takeover",
     "country": "Israel",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "protocol_takeover",
       "no_jamming",
@@ -261,9 +261,9 @@
     "form_factor": "integrated system",
     "subcategory": "cyber_takeover",
     "country": "Israel",
-    "compliance": {
-      "combat_proven": true
-    },
+    "compliance": [
+      "combat_proven"
+    ],
     "tags": [
       "protocol_manipulation",
       "no_preloaded_libraries",
@@ -300,9 +300,9 @@
     "form_factor": "fixed-site integrated system",
     "subcategory": "integrated_system",
     "country": "Israel",
-    "compliance": {
-      "combat_proven": true
-    },
+    "compliance": [
+      "combat_proven"
+    ],
     "tags": [
       "rada_radar",
       "c_guard_jammer",
@@ -342,10 +342,10 @@
     "form_factor": "rifle / handheld",
     "subcategory": "jammer_ew",
     "country": "Australia",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "rifle_jammer",
       "7.3kg",
@@ -385,9 +385,9 @@
     "form_factor": "wearable body-worn",
     "subcategory": "rf_detection",
     "country": "Australia",
-    "compliance": {
-      "ndaa": true
-    },
+    "compliance": [
+      "ndaa"
+    ],
     "tags": [
       "wearable",
       "passive_rf",
@@ -426,10 +426,10 @@
     "form_factor": "fixed-site modular",
     "subcategory": "integrated_system",
     "country": "Australia",
-    "compliance": {
-      "ndaa": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "combat_proven"
+    ],
     "tags": [
       "fixed_site",
       "modular",
@@ -468,11 +468,11 @@
     "form_factor": "fixed / vehicle-mounted radar",
     "subcategory": "radar",
     "country": "Germany",
-    "compliance": {
-      "ndaa": true,
-      "nato": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "nato",
+      "combat_proven"
+    ],
     "tags": [
       "aesa",
       "3d_radar",
@@ -512,11 +512,11 @@
     "form_factor": "vehicle / fixed-site",
     "subcategory": "jammer_ew",
     "country": "Germany",
-    "compliance": {
-      "ndaa": true,
-      "nato": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "ndaa",
+      "nato",
+      "combat_proven"
+    ],
     "tags": [
       "gapless",
       "400mhz_6ghz",
@@ -555,10 +555,10 @@
     "form_factor": "fixed / portable radar",
     "subcategory": "radar",
     "country": "Netherlands",
-    "compliance": {
-      "ndaa": true,
-      "nato": true
-    },
+    "compliance": [
+      "ndaa",
+      "nato"
+    ],
     "tags": [
       "micro_doppler",
       "bird_drone_classification",
@@ -596,10 +596,10 @@
     "form_factor": "vehicle-mounted integrated",
     "subcategory": "integrated_system",
     "country": "Turkey",
-    "compliance": {
-      "nato_member": true,
-      "combat_proven": true
-    },
+    "compliance": [
+      "nato_member",
+      "combat_proven"
+    ],
     "tags": [
       "integrated",
       "radar",
