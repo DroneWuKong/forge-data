@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-06-02",
+  "last_updated": "2026-06-08",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 279
@@ -195,5 +195,11 @@
   "autonomy_datasets": {
     "file": "autonomy/datasets.json",
     "count": 17
+  },
+  "tools": {
+    "circuit_forge_kb": {
+      "file": "circuit_forge_kb.json",
+      "desc": "Circuit Forge component pinout + catalog-hint knowledge base (powers the AI hardware design tool at uas-forge.com/circuit-forge/)"
+    }
   }
 }

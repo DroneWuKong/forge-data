@@ -34,6 +34,14 @@ GET /platforms/platforms.json
 GET /schema/drone_parts_schema_v3.json
 ```
 
+### Fetch the Circuit Forge knowledge base
+Component pinouts + catalog-hint map that grounds the [Circuit Forge](https://uas-forge.com/circuit-forge/)
+AI hardware design tool. Keyed by component name; each entry carries `pins`, render
+`shape`/`color`, and an optional `catalog` hint mapping it to a parts category here.
+```
+GET /circuit_forge_kb.json
+```
+
 ---
 
 ## Categories
