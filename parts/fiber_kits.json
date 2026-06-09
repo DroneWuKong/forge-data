@@ -8,7 +8,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Avenge Angel by Avenge Angel.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-002",
@@ -19,7 +22,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Drone Reaper by Drone Reaper.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-003",
@@ -30,7 +36,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "SCI Technology by SCI Technology.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-004",
@@ -41,7 +50,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Fiber Optic Drone by Fiber Optic Drone.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-005",
@@ -52,7 +64,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "HA Airforce by HA Airforce.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-006",
@@ -63,7 +78,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Sky Walker FPV by Sky Walker FPV.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-007",
@@ -74,7 +92,10 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Strategic Logix by Strategic Logix.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   },
   {
     "pid": "FIBER-KITS-VENDOR-008",
@@ -85,6 +106,9 @@
     "tags": [
       "vendor-seed"
     ],
-    "source": "COTS Links SEP2025 V1.1.xlsx"
+    "source": "COTS Links SEP2025 V1.1.xlsx",
+    "description": "Cloud walker by Cloud walker.",
+    "origin": "Unknown",
+    "ndaa_compliant": null
   }
 ]

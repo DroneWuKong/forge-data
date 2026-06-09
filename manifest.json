@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-08",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 335
@@ -45,7 +45,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 274
+      "count": 330
     },
     "esad": {
       "file": "parts/esad.json",
@@ -69,7 +69,7 @@
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
-      "count": 379
+      "count": 387
     },
     "fpv_detectors": {
       "file": "parts/fpv_detectors.json",
@@ -99,13 +99,13 @@
       "file": "parts/lidar.json",
       "count": 25
     },
-    "lidar_rangefinders": {
-      "file": "parts/lidar_rangefinders.json",
-      "count": 13
-    },
     "lidar_payloads": {
       "file": "parts/lidar_payloads.json",
       "count": 17
+    },
+    "lidar_rangefinders": {
+      "file": "parts/lidar_rangefinders.json",
+      "count": 13
     },
     "mesh_radios": {
       "file": "parts/mesh_radios.json",
@@ -189,15 +189,11 @@
     },
     "video_transmitters": {
       "file": "parts/video_transmitters.json",
-      "count": 128
+      "count": 131
     }
   },
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4476,
-  "autonomy_datasets": {
-    "file": "autonomy/datasets.json",
-    "count": 16
-  }
+  "total_parts": 4543
 }
