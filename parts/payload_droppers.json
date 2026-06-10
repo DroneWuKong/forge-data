@@ -434,35 +434,6 @@
     "origin": "Unknown"
   },
   {
-    "pid": "DROP-UA-LEADER-T-",
-    "category": "payload_droppers",
-    "name": "",
-    "manufacturer": "LEADER Tech",
-    "country": "Ukraine",
-    "approx_price_usd": 14.61,
-    "approx_price_uah": 599.0,
-    "compatible_platform": "",
-    "source": "vtx.in.ua",
-    "compliance": {
-      "ndaa_compliant": true,
-      "blue_uas": false,
-      "combat_proven": true,
-      "note": "Ukrainian manufacture."
-    },
-    "tags": [
-      "ukraine",
-      "combat_proven",
-      "ndaa_adjacent",
-      "non_chinese_supply_chain",
-      "dropper",
-      "payload_release",
-      "delivery"
-    ],
-    "approx_price": 14.61,
-    "origin": "USA",
-    "ndaa_compliant": true
-  },
-  {
     "category": "payload_droppers",
     "name": "Carrier Electronics FPV Dropper v1.3",
     "manufacturer": "Carrier Electronics",

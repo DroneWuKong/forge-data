@@ -23201,5 +23201,163 @@
     },
     "handbook_profile": null,
     "status": "discontinued"
+  },
+  {
+    "pid": "DM-2080",
+    "name": "KrattWorks Ghost Dragon",
+    "manufacturer": "KrattWorks",
+    "description": "KrattWorks Ghost Dragon. Tactical Isr from Estonia.",
+    "vehicle_type": "ISR quadcopter with neural-net GPS-denied navigation",
+    "build_class": "commercial",
+    "category": "tactical_isr",
+    "image_file": "https://static.wixstatic.com/media/9cdd6e_8072fafb478943cdbeb23e0a6a7868ca~mv2.jpg/v1/fill/w_940,h_564,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9cdd6e_8072fafb478943cdbeb23e0a6a7868ca~mv2.jpg",
+    "relations": {},
+    "country": "Estonia",
+    "compliance": {
+      "ndaa_compliant": true,
+      "blue_uas": false,
+      "note": "Allied/partner nation (Estonia)"
+    },
+    "specs": {
+      "type": "ISR quadcopter with neural-net GPS-denied navigation",
+      "gps_denied_capable": true,
+      "mtow_kg": 25,
+      "endurance_hr": 5,
+      "range_km": 100,
+      "speed_max_kmh": 130,
+      "wingspan_m": 4.5,
+      "ceiling_m": 4000,
+      "payload_kg": 5,
+      "note": "Fixed-wing tactical ISR"
+    },
+    "combat_proven": false,
+    "status": "production",
+    "tags": [
+      "isr",
+      "quadcopter",
+      "gps-denied",
+      "ai-navigation",
+      "baltic"
+    ],
+    "industry_data": {
+      "contracts": null,
+      "funding": null,
+      "production": {
+        "revenue_usd": 22200000
+      },
+      "gcs": null,
+      "variants": [],
+      "manufacturer_hq": "Estonia",
+      "manufacturer_url": null,
+      "image_url": "https://static.wixstatic.com/media/9cdd6e_8072fafb478943cdbeb23e0a6a7868ca~mv2.jpg/v1/fill/w_940,h_564,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9cdd6e_8072fafb478943cdbeb23e0a6a7868ca~mv2.jpg"
+    }
+  },
+  {
+    "pid": "DM-2081",
+    "name": "Censys Technologies Censys Sentaero 5",
+    "manufacturer": "Censys Technologies",
+    "description": "US-manufactured. All critical data components US-sourced. Sentaero 6 announced Feb 2025 with 80+ mile range and onboard AI.",
+    "vehicle_type": "fixed_wing",
+    "build_class": "commercial",
+    "category": "Commercial",
+    "image_file": "",
+    "relations": {},
+    "country": "USA",
+    "compliance": {},
+    "specs": {},
+    "combat_proven": false,
+    "status": "production",
+    "tags": [],
+    "industry_data": {
+      "contracts": {},
+      "funding": {},
+      "production": {},
+      "gcs": {},
+      "variants": [],
+      "manufacturer_hq": "",
+      "manufacturer_url": "https://censystech.com",
+      "image_url": ""
+    }
+  },
+  {
+    "pid": "DM-2082",
+    "name": "Censys Technologies Censys Sentaero 6",
+    "manufacturer": "Censys Technologies",
+    "description": "Evolutionary upgrade over Sentaero 5. VegCens vegetation management AI. Partnership with STRIXDRONES USA for AEP Texas utility network.",
+    "vehicle_type": "fixed_wing",
+    "build_class": "commercial",
+    "category": "Commercial",
+    "image_file": "",
+    "relations": {},
+    "country": "USA",
+    "compliance": {},
+    "specs": {},
+    "combat_proven": false,
+    "status": "production",
+    "tags": [],
+    "industry_data": {
+      "contracts": {},
+      "funding": {},
+      "production": {},
+      "gcs": {},
+      "variants": [],
+      "manufacturer_hq": "",
+      "manufacturer_url": "https://censystech.com",
+      "image_url": ""
+    }
+  },
+  {
+    "pid": "DM-2083",
+    "name": "Censys Technologies Censys Sentourion Sprinter MCC",
+    "manufacturer": "Censys Technologies",
+    "description": "Sprinter Van configuration. Dual-redundant systems.",
+    "vehicle_type": "fixed_wing",
+    "build_class": "commercial",
+    "category": "Commercial",
+    "image_file": "",
+    "relations": {},
+    "country": "USA",
+    "compliance": {},
+    "specs": {},
+    "combat_proven": false,
+    "status": "production",
+    "tags": [],
+    "industry_data": {
+      "contracts": {},
+      "funding": {},
+      "production": {},
+      "gcs": {},
+      "variants": [],
+      "manufacturer_hq": "",
+      "manufacturer_url": "https://censystech.com",
+      "image_url": ""
+    }
+  },
+  {
+    "pid": "DM-2084",
+    "name": "Censys Technologies Censys Sentourion F350 MCC",
+    "manufacturer": "Censys Technologies",
+    "description": "Ford F350 configuration.",
+    "vehicle_type": "fixed_wing",
+    "build_class": "commercial",
+    "category": "Commercial",
+    "image_file": "",
+    "relations": {},
+    "country": "USA",
+    "compliance": {},
+    "specs": {},
+    "combat_proven": false,
+    "status": "production",
+    "tags": [],
+    "industry_data": {
+      "contracts": {},
+      "funding": {},
+      "production": {},
+      "gcs": {},
+      "variants": [],
+      "manufacturer_hq": "",
+      "manufacturer_url": "https://censystech.com",
+      "image_url": ""
+    }
   }
 ]
