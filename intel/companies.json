@@ -19,7 +19,7 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
@@ -31,7 +31,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/allies-push-back-on-trumps-demand-they-send-warships-to-strait-of-hormuz",
-        "title": "Allies Push Back On Trump’s Demand They Send Warships To Strait Of Hormuz (Updated)",
+        "title": "Allies Push Back On Trump\u2019s Demand They Send Warships To Strait Of Hormuz (Updated)",
         "date": "2026-03-16",
         "site": "twz"
       },
@@ -43,7 +43,7 @@
       },
       {
         "url": "https://dronelife.com/2026/02/05/drone-dominance-program-phase-i-vendors/",
-        "title": "The Companies Tapped for the Pentagon’s Drone Dominance Push",
+        "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
       },
@@ -87,13 +87,13 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
       {
         "url": "https://dronelife.com/2026/02/05/drone-dominance-program-phase-i-vendors/",
-        "title": "The Companies Tapped for the Pentagon’s Drone Dominance Push",
+        "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
       },
@@ -122,13 +122,13 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
       {
         "url": "https://www.defensenews.com/news/your-military/2026/04/01/infrastructure-is-the-weapon-inside-the-race-to-build-portable-interceptor-factories/",
-        "title": "‘Infrastructure is the weapon’: Inside the race to build portable interceptor factories",
+        "title": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories",
         "date": "2026-04-01",
         "site": "defensenews"
       },
@@ -155,7 +155,7 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       }
@@ -180,7 +180,7 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
@@ -192,7 +192,7 @@
       },
       {
         "url": "https://dronelife.com/2026/02/05/drone-dominance-program-phase-i-vendors/",
-        "title": "The Companies Tapped for the Pentagon’s Drone Dominance Push",
+        "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
       }
@@ -213,7 +213,7 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       }
@@ -233,18 +233,20 @@
       "AI",
       "acquisition",
       "attritable",
-      "autonomy"
+      "autonomy",
+      "FPV",
+      "doctrine"
     ],
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
       {
         "url": "https://dronelife.com/2026/02/05/drone-dominance-program-phase-i-vendors/",
-        "title": "The Companies Tapped for the Pentagon’s Drone Dominance Push",
+        "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
       },
@@ -253,9 +255,21 @@
         "title": "Top 100 Drone Defense Companies in 2025",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
+        "title": "At French Army FPV competition, NATO soldiers race drones and swap tips",
+        "date": "2026-05-29",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
+        "title": "US Marine Corps tests using helicopter as mobile drone command center",
+        "date": "2026-05-22",
+        "site": "defensenews"
       }
     ],
-    "last_updated": "2026-04-09"
+    "last_updated": "2026-06-01"
   },
   {
     "cid": "CMP-0008",
@@ -279,13 +293,13 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results",
-        "title": "British company tops leaderboard for Pentagon’s Drone Dominance Program",
+        "title": "British company tops leaderboard for Pentagon\u2019s Drone Dominance Program",
         "date": "2026-03-09",
         "site": "defensescoop"
       },
       {
         "url": "https://www.defensenews.com/news/your-military/2026/03/10/trumps-sons-invest-in-companies-vying-to-fill-gaps-in-us-drone-industry/",
-        "title": "Trump’s sons invest in companies vying to fill gaps in US drone industry",
+        "title": "Trump\u2019s sons invest in companies vying to fill gaps in US drone industry",
         "date": "2026-03-10",
         "site": "defensenews"
       },
@@ -433,7 +447,7 @@
       },
       {
         "url": "https://defensescoop.com/2026/03/18/army-munitions-stockpiles-prsm-dark-eagle-missiles",
-        "title": "Army to ‘ramp up all munitions across the board,’ general says, including specialized missiles",
+        "title": "Army to \u2018ramp up all munitions across the board,\u2019 general says, including specialized missiles",
         "date": "2026-03-18",
         "site": "defensescoop"
       },
@@ -463,7 +477,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/03/06/pentagon-says-it-is-labeling-anthropic-a-supply-chain-risk-effective-immediately/",
-        "title": "Pentagon says it is labeling Anthropic a supply chain risk ‘effective immediately’",
+        "title": "Pentagon says it is labeling Anthropic a supply chain risk \u2018effective immediately\u2019",
         "date": "2026-03-06",
         "site": "defensenews"
       },
@@ -493,7 +507,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/01/brits-shortlist-seven-firms-in-search-for-helicopter-drone-wingmen-for-apaches/",
-        "title": "Brits shortlist seven firms in search for helicopter drone ‘wingmen’ for Apaches",
+        "title": "Brits shortlist seven firms in search for helicopter drone \u2018wingmen\u2019 for Apaches",
         "date": "2026-01-27",
         "site": "breakingdefense"
       },
@@ -517,13 +531,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/sponsored-content/general-atomics-is-turning-the-mq-9-reaper-family-of-drones-into-cruise-missile-trucks",
-        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into “Cruise Missile Trucks”",
+        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into \u201cCruise Missile Trucks\u201d",
         "date": "2026-02-24",
         "site": "twz"
       },
@@ -571,7 +585,7 @@
       },
       {
         "url": "https://www.twz.com/air/f-22-b-52-flight-testing-over-the-mojave-showcases-advanced-usaf-developments",
-        "title": "F-22 Raptor “2.0” Spotted Undergoing Flight Testing",
+        "title": "F-22 Raptor \u201c2.0\u201d Spotted Undergoing Flight Testing",
         "date": "2026-03-23",
         "site": "twz"
       },
@@ -631,7 +645,7 @@
       },
       {
         "url": "https://www.defensenews.com/air/2026/01/26/critics-see-chilling-effect-of-dod-crackdown-on-8a-small-biz-deals/",
-        "title": "Critics see ‘chilling effect’ of DOD crackdown on 8(a) small-biz deals",
+        "title": "Critics see \u2018chilling effect\u2019 of DOD crackdown on 8(a) small-biz deals",
         "date": "2026-01-26",
         "site": "defensenews"
       },
@@ -661,7 +675,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/golden-dome-ships-and-missiles-top-trumps-15-trillion-defense-wish-list/",
-        "title": "Golden Dome, ships and missiles top Trump’s $1.5 trillion defense wish list",
+        "title": "Golden Dome, ships and missiles top Trump\u2019s $1.5 trillion defense wish list",
         "date": "2026-04-02",
         "site": "defensenews"
       },
@@ -673,13 +687,13 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/06/ukraine-missile-maker-targets-game-changer-air-defense-system-by-2027/",
-        "title": "Ukraine missile maker targets ‘game changer’ air defense system by 2027",
+        "title": "Ukraine missile maker targets \u2018game changer\u2019 air defense system by 2027",
         "date": "2026-04-06",
         "site": "defensenews"
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -727,7 +741,7 @@
       },
       {
         "url": "https://thedefensepost.com/2025/02/04/us-navy-helios-laser/",
-        "title": "US Navy’s Burke-Class Destroyer Unleashes HELIOS Laser in Breathtaking New Photo",
+        "title": "US Navy\u2019s Burke-Class Destroyer Unleashes HELIOS Laser in Breathtaking New Photo",
         "date": "",
         "site": "defensepost"
       },
@@ -781,7 +795,7 @@
       },
       {
         "url": "https://www.defensenews.com/air/2025/05/16/pentagon-silent-aviation-experts-baffled-by-trumps-fighter-comments/",
-        "title": "Pentagon silent, aviation experts baffled by Trump’s fighter comments",
+        "title": "Pentagon silent, aviation experts baffled by Trump\u2019s fighter comments",
         "date": "2025-05-16",
         "site": "defensenews"
       },
@@ -835,7 +849,7 @@
       },
       {
         "url": "https://en.defence-ua.com/weapon_and_tech/lockheed_martins_quadstar_stinger_replacement_passes_seeker_tests_ahead_of_schedule-18468.html",
-        "title": "Lockheed Martin's QuadStar Stinger Replacement Passes Seeker Tests — Ahead of Schedule",
+        "title": "Lockheed Martin's QuadStar Stinger Replacement Passes Seeker Tests \u2014 Ahead of Schedule",
         "date": "",
         "site": "defenseexpress"
       },
@@ -847,12 +861,60 @@
       },
       {
         "url": "https://united24media.com/world/javelins-new-lightweight-launcher-arrives-after-ukraine-made-the-weapon-famous-19232",
-        "title": "Javelin’s New Lightweight Launcher Arrives After Ukraine Made the Weapon Famous",
+        "title": "Javelin\u2019s New Lightweight Launcher Arrives After Ukraine Made the Weapon Famous",
         "date": "May 27, 2026 15:47 3 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/us-arms-sales-pause-would-push-taiwan-toward-asymmetric-defense-tech-analysts/",
+        "title": "US arms sales pause would push Taiwan toward asymmetric-defense tech: Analysts",
+        "date": "2026-05-29",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/",
+        "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
+        "date": "2026-05-28",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+        "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+        "date": "2026-05-27",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/severity-of-americas-depleted-advanced-weapons-stockpiles-detailed-in-new-report",
+        "title": "Severity Of America\u2019s Depleted Advanced Weapons Stockpiles Detailed In New Report",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/25/embraer-greece-c-390-sustainment/",
+        "title": "Embraer, Greece Explore Potential In-Country C-390 Sustainment Capability",
+        "date": "May 25, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/06/01/canada-thales-sonar/",
+        "title": "Canada Selects Thales Anti-Stealth Sub Sonar for River-Class Destroyers",
+        "date": "June 1, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/lockheed-martin-uses-containerized-integrated-c-uas-launcher-system-to-down-group-3-attack-drone/",
+        "title": "Lockheed Martin uses containerized, integrated C-UAS launcher system to down Group 3 attack drone",
+        "date": "2026-06-03",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-05-27",
+    "last_updated": "2026-06-07",
     "countries": [
       "USA"
     ]
@@ -894,7 +956,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/your-air-force/2026/03/12/b-21-raider-completed-close-proximity-flight-with-kc-135-tanker-us-air-force-confirms/",
-        "title": "B-21 Raider completed ‘close-proximity flight’ with KC-135 tanker, US Air Force confirms",
+        "title": "B-21 Raider completed \u2018close-proximity flight\u2019 with KC-135 tanker, US Air Force confirms",
         "date": "2026-03-12",
         "site": "defensenews"
       },
@@ -936,19 +998,19 @@
       },
       {
         "url": "https://breakingdefense.com/2024/12/anduril-openai-enter-strategic-partnership-to-use-ai-against-drones/",
-        "title": "Anduril, OpenAI enter ‘strategic partnership’ to use AI against drones",
+        "title": "Anduril, OpenAI enter \u2018strategic partnership\u2019 to use AI against drones",
         "date": "2024-12-05",
         "site": "breakingdefense"
       },
       {
         "url": "https://breakingdefense.com/2024/10/northrop-grumman-adds-ai-to-armys-command-system-for-counter-drone-defense/",
-        "title": "Northrop Grumman adds AI to Army’s command system for counter-drone defense",
+        "title": "Northrop Grumman adds AI to Army\u2019s command system for counter-drone defense",
         "date": "2024-10-07",
         "site": "breakingdefense"
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -1002,7 +1064,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
-        "title": "The US Navy brought a ‘one-of-a-kind’ laser weapon back from the dead",
+        "title": "The US Navy brought a \u2018one-of-a-kind\u2019 laser weapon back from the dead",
         "date": "2026-03-31",
         "site": "defensenews"
       },
@@ -1014,7 +1076,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1026,7 +1088,7 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/08/b21-raider-guide/",
-        "title": "B-21 Raider: Inside America’s Next-Generation Strategic Bomber",
+        "title": "B-21 Raider: Inside America\u2019s Next-Generation Strategic Bomber",
         "date": "",
         "site": "defensepost"
       },
@@ -1044,7 +1106,7 @@
       },
       {
         "url": "https://www.defensenews.com/global/europe/2026/04/08/polish-firm-teams-with-northrop-st-engineering-to-tap-polands-massive-ammo-spending/",
-        "title": "Polish firm teams with Northrop, ST Engineering to tap Poland’s massive ammo spending",
+        "title": "Polish firm teams with Northrop, ST Engineering to tap Poland\u2019s massive ammo spending",
         "date": "2026-04-08",
         "site": "defensenews"
       },
@@ -1056,7 +1118,7 @@
       },
       {
         "url": "https://www.twz.com/air/navy-mq-4c-tritons-fate-unknown-after-disappearing-from-flight-tracking-over-persian-gulf",
-        "title": "Navy MQ-4C Triton’s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
+        "title": "Navy MQ-4C Triton\u2019s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
         "date": "2026-04-09",
         "site": "twz"
       },
@@ -1098,7 +1160,7 @@
       },
       {
         "url": "https://www.twz.com/air/new-vc-25b-air-force-one-bridge-aircraft-now-fully-modified-and-flight-tested",
-        "title": "New VC-25B Air Force One “Bridge” Aircraft Now Fully Modified And Flight Tested",
+        "title": "New VC-25B Air Force One \u201cBridge\u201d Aircraft Now Fully Modified And Flight Tested",
         "date": "2026-05-01",
         "site": "twz"
       },
@@ -1140,12 +1202,42 @@
       },
       {
         "url": "https://united24media.com/world/meet-the-us-armys-next-bradley-successor-xm30-combat-vehicles-unveiled-19172",
-        "title": "Meet The US Army’s Next Bradley Successor: XM30 Combat Vehicles Unveiled",
+        "title": "Meet The US Army\u2019s Next Bradley Successor: XM30 Combat Vehicles Unveiled",
         "date": "May 26, 2026 11:24 Updated May 26, 2026 13:08 3 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+        "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+        "date": "2026-05-27",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/29/e2d-hawkeye-ai-maintenance/",
+        "title": "America\u2019s E-2D Hawkeye Gains AI-Driven Maintenance, Virtual Training Systems",
+        "date": "May 29, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/28/raytheon-northrop-darpa-rocket-motor/",
+        "title": "Raytheon and Northrop Move Forward on US Adaptive Rocket Motor Effort",
+        "date": "May 28, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+        "title": "The New Era of Air and Missile Defense",
+        "date": "2026-05-14",
+        "site": "warontherocks"
       }
     ],
-    "last_updated": "2026-05-26",
+    "last_updated": "2026-06-01",
     "countries": [
       "USA"
     ]
@@ -1160,7 +1252,8 @@
       "DIU",
       "ACT",
       "Safer Skies Act",
-      "Replicator"
+      "Replicator",
+      "DAWG"
     ],
     "tags": [
       "AI",
@@ -1175,7 +1268,8 @@
       "ISR",
       "loitering munition",
       "FPV",
-      "VTOL"
+      "VTOL",
+      "attritable"
     ],
     "sources": [
       {
@@ -1198,7 +1292,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/",
-        "title": "US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot",
+        "title": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot",
         "date": "2026-03-20",
         "site": "defensenews"
       },
@@ -1210,7 +1304,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/03/army-awards-anduril-counter-drone-task-order-as-first-in-new-20b-contract-vehicle/",
-        "title": "Army awards Anduril counter-drone task order as first in new $20B ‘contract vehicle’",
+        "title": "Army awards Anduril counter-drone task order as first in new $20B \u2018contract vehicle\u2019",
         "date": "2026-03-16",
         "site": "breakingdefense"
       },
@@ -1228,7 +1322,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/01/brits-shortlist-seven-firms-in-search-for-helicopter-drone-wingmen-for-apaches/",
-        "title": "Brits shortlist seven firms in search for helicopter drone ‘wingmen’ for Apaches",
+        "title": "Brits shortlist seven firms in search for helicopter drone \u2018wingmen\u2019 for Apaches",
         "date": "2026-01-27",
         "site": "breakingdefense"
       },
@@ -1240,13 +1334,13 @@
       },
       {
         "url": "https://breakingdefense.com/2024/12/anduril-openai-enter-strategic-partnership-to-use-ai-against-drones/",
-        "title": "Anduril, OpenAI enter ‘strategic partnership’ to use AI against drones",
+        "title": "Anduril, OpenAI enter \u2018strategic partnership\u2019 to use AI against drones",
         "date": "2024-12-05",
         "site": "breakingdefense"
       },
       {
         "url": "https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/",
-        "title": "High-power microwave ‘force field’ knocks drone swarms from sky",
+        "title": "High-power microwave \u2018force field\u2019 knocks drone swarms from sky",
         "date": "2025-02-18",
         "site": "breakingdefense"
       },
@@ -1258,13 +1352,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -1372,7 +1466,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
-        "title": "Air Force unit executes test of Anduril’s semiautonomous combat drone",
+        "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
         "date": "2026-04-17",
         "site": "defensenews"
       },
@@ -1399,9 +1493,39 @@
         "title": "Australia Explores Domestic Solid Rocket Motor Production With Northrop Grumman",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/",
+        "title": "Air Force dubs MQ-9 the \u2018MVP\u2019 of Epic Fury as lawmakers press manned-unmanned future",
+        "date": "2026-05-21",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/f-a-18-super-hornets-eyed-to-replace-navys-remaining-f-5-adversaries",
+        "title": "F/A-18 Super Hornets Eyed To Replace Navy\u2019s Remaining F-5 Adversaries",
+        "date": "2026-05-27",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-spending-on-counter-uas-systems-reach-usd12-6-billion-this-year/",
+        "title": "Global spending on counter-UAS systems will reach USD12.6 billion this year",
+        "date": "2026-06-03",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-government-approves-sale-of-c-uas-systems-worth-usd1-98-million-to-kuwait/",
+        "title": "US government approves sale of C-UAS systems worth USD1.98 million to Kuwait",
+        "date": "2026-06-08",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-08"
   },
   {
     "cid": "CMP-0013",
@@ -1472,7 +1596,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/02/boeings-block-3-mq-28-ghost-bat-to-gain-weapons-bays-longer-wings/",
-        "title": "Boeing’s Block 3 MQ-28 Ghost Bat to gain weapons bays, longer wings",
+        "title": "Boeing\u2019s Block 3 MQ-28 Ghost Bat to gain weapons bays, longer wings",
         "date": "2026-02-05",
         "site": "breakingdefense"
       },
@@ -1532,7 +1656,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/03/ukraine-attacks-on-oil-and-gas-to-be-painful-for-russian-economy-official/",
-        "title": "Ukraine attacks on oil and gas to be ‘painful’ for Russian economy: Official",
+        "title": "Ukraine attacks on oil and gas to be \u2018painful\u2019 for Russian economy: Official",
         "date": "2026-03-31",
         "site": "breakingdefense"
       },
@@ -1550,7 +1674,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
-        "title": "The US Navy brought a ‘one-of-a-kind’ laser weapon back from the dead",
+        "title": "The US Navy brought a \u2018one-of-a-kind\u2019 laser weapon back from the dead",
         "date": "2026-03-31",
         "site": "defensenews"
       },
@@ -1562,13 +1686,13 @@
       },
       {
         "url": "https://www.twz.com/space/worlds-most-secretive-737-is-supporting-nasas-historic-artemis-ii-launch",
-        "title": "World’s Most Secretive 737 Is Supporting NASA’s Historic Artemis II Launch",
+        "title": "World\u2019s Most Secretive 737 Is Supporting NASA\u2019s Historic Artemis II Launch",
         "date": "2026-04-01",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/shadowy-rat55-radar-test-bed-737-has-begun-the-next-phase-of-its-career",
-        "title": "Secretive 737 Radar Jet ‘RAT55’ Has Begun “The Next Phase Of Its Career”",
+        "title": "Secretive 737 Radar Jet \u2018RAT55\u2019 Has Begun \u201cThe Next Phase Of Its Career\u201d",
         "date": "2026-04-01",
         "site": "twz"
       },
@@ -1580,7 +1704,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1616,13 +1740,13 @@
       },
       {
         "url": "https://www.defensenews.com/air/2025/05/16/pentagon-silent-aviation-experts-baffled-by-trumps-fighter-comments/",
-        "title": "Pentagon silent, aviation experts baffled by Trump’s fighter comments",
+        "title": "Pentagon silent, aviation experts baffled by Trump\u2019s fighter comments",
         "date": "2025-05-16",
         "site": "defensenews"
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/",
-        "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+        "title": "US military eyes high-energy \u2018laser dome\u2019 for domestic air defense",
         "date": "2026-04-13",
         "site": "defensenews"
       },
@@ -1652,7 +1776,7 @@
       },
       {
         "url": "https://www.twz.com/air/israels-first-kc-46-tanker-is-now-flying",
-        "title": "Israel’s First KC-46 Tanker Is Now Flying",
+        "title": "Israel\u2019s First KC-46 Tanker Is Now Flying",
         "date": "2026-05-04",
         "site": "twz"
       },
@@ -1664,7 +1788,7 @@
       },
       {
         "url": "https://www.twz.com/air/new-vc-25b-air-force-one-bridge-aircraft-now-fully-modified-and-flight-tested",
-        "title": "New VC-25B Air Force One “Bridge” Aircraft Now Fully Modified And Flight Tested",
+        "title": "New VC-25B Air Force One \u201cBridge\u201d Aircraft Now Fully Modified And Flight Tested",
         "date": "2026-05-01",
         "site": "twz"
       },
@@ -1676,7 +1800,7 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/30/f18-super-hornet-guide/",
-        "title": "F/A‑18E/F Super Hornet Explained: The US Navy’s Workhorse Fighter",
+        "title": "F/A\u201118E/F Super Hornet Explained: The US Navy\u2019s Workhorse Fighter",
         "date": "",
         "site": "defensepost"
       },
@@ -1718,12 +1842,54 @@
       },
       {
         "url": "https://united24media.com/war-in-ukraine/kyivs-oldest-mcdonalds-reopens-three-days-after-russian-strike-19230",
-        "title": "Kyiv’s Oldest McDonald’s Reopens Three Days After Russian Strike",
+        "title": "Kyiv\u2019s Oldest McDonald\u2019s Reopens Three Days After Russian Strike",
         "date": "May 27, 2026 16:23 3 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/19/mq-25a-stingray-cleared-for-deployment-says-cao/",
+        "title": "MQ-25A Stingray cleared for deployment, says Cao",
+        "date": "2026-05-19",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+        "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+        "date": "2026-05-27",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/airbus-looks-to-swedens-saab-as-europes-sixth-gen-fighter-plans-unravel",
+        "title": "Airbus Looks To Sweden\u2019s Saab As Europe\u2019s Sixth-Gen Fighter Plans Unravel",
+        "date": "2026-05-27",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/26/boeing-intellisense-c-17/",
+        "title": "Boeing Taps Intellisense for Avionics Components in C-17 Flight Deck Replacement Program",
+        "date": "May 26, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.dailysabah.com/business/economy/several-injured-as-lufthansa-jet-tips-onto-its-nose-in-frankfurt",
+        "title": "Several injured as Lufthansa jet tips onto its nose in Frankfurt",
+        "date": "2026-06-04",
+        "site": "dailysabah"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/02/combatant-commanders-tour-snc-rocky-mountain-campus-c2-modernization/",
+        "title": "Combatant commanders tour SNC\u2019s Rocky Mountain Campus for updates on C2, comms protocols",
+        "date": "2026-06-02",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-05-28",
+    "last_updated": "2026-06-07",
     "countries": [
       "USA"
     ]
@@ -1781,7 +1947,7 @@
       },
       {
         "url": "https://dronelife.com/2025/12/22/fcc-adds-foreign-made-drones-and-components-to-covered-list-citing-national-security-risks/",
-        "title": "FCC Adds Foreign-Made Drones and Components to Covered List, Citing National Security Risks: the “DJI Ban”",
+        "title": "FCC Adds Foreign-Made Drones and Components to Covered List, Citing National Security Risks: the \u201cDJI Ban\u201d",
         "date": "2025-12-23",
         "site": "dronelife"
       },
@@ -1823,7 +1989,7 @@
       },
       {
         "url": "https://dronelife.com/2026/04/09/inside-the-coachella-valleys-plan-to-centralize-dfr-operations/",
-        "title": "Inside the Coachella Valley’s Plan to Centralize Drone First Responder Operations",
+        "title": "Inside the Coachella Valley\u2019s Plan to Centralize Drone First Responder Operations",
         "date": "2026-04-09",
         "site": "dronelife"
       },
@@ -1841,7 +2007,7 @@
       },
       {
         "url": "https://dronelife.com/2026/04/09/inside-the-coachella-valleys-plan-to-centralize-dfr-operations/#respond/",
-        "title": "Inside the Coachella Valley’s Plan to Centralize Drone First Responder Operations",
+        "title": "Inside the Coachella Valley\u2019s Plan to Centralize Drone First Responder Operations",
         "date": "2026-04-09",
         "site": "dronelife"
       },
@@ -1865,12 +2031,18 @@
       },
       {
         "url": "https://united24media.com/war-in-ukraine/ukraines-fsv-app-introduces-tool-to-map-drone-signal-coverage-before-missions-18981",
-        "title": "Ukraine’s FSV App Introduces Tool to Map Drone Signal Coverage Before Missions",
+        "title": "Ukraine\u2019s FSV App Introduces Tool to Map Drone Signal Coverage Before Missions",
         "date": "May 19, 2026 20:16 2 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/uncategorized/drone-integration-demonstration-set-for-lanseria-international-airport/",
+        "title": "Drone integration demonstration set for Lanseria International Airport",
+        "date": "2026-06-08",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-05-20",
+    "last_updated": "2026-06-08",
     "countries": [
       "China"
     ]
@@ -1905,7 +2077,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/01/lowental-hybrid-to-provide-israels-elbit-systems-with-propulsion-systems-for-tactical-uavs/",
-        "title": "Lowental Hybrid to provide Israel’s Elbit with propulsion systems for tactical UAVs",
+        "title": "Lowental Hybrid to provide Israel\u2019s Elbit with propulsion systems for tactical UAVs",
         "date": "2026-01-29",
         "site": "breakingdefense"
       },
@@ -1959,7 +2131,7 @@
       },
       {
         "url": "https://www.twz.com/air/new-vc-25b-air-force-one-bridge-aircraft-now-fully-modified-and-flight-tested",
-        "title": "New VC-25B Air Force One “Bridge” Aircraft Now Fully Modified And Flight Tested",
+        "title": "New VC-25B Air Force One \u201cBridge\u201d Aircraft Now Fully Modified And Flight Tested",
         "date": "2026-05-01",
         "site": "twz"
       },
@@ -1977,12 +2149,24 @@
       },
       {
         "url": "https://united24media.com/world/meet-the-us-armys-next-bradley-successor-xm30-combat-vehicles-unveiled-19172",
-        "title": "Meet The US Army’s Next Bradley Successor: XM30 Combat Vehicles Unveiled",
+        "title": "Meet The US Army\u2019s Next Bradley Successor: XM30 Combat Vehicles Unveiled",
         "date": "May 26, 2026 11:24 Updated May 26, 2026 13:08 3 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.twz.com/news-features/usafs-new-turbocharged-ultra-surveillance-drones-are-heading-to-the-middle-east",
+        "title": "USAF\u2019s New Turbocharged ULTRA Surveillance Drones Are Heading To The Middle East",
+        "date": "2026-05-25",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/06/01/elbit-tank-upgrades-contract/",
+        "title": "Elbit Wins $350M Contract for Tank Fire Control and Sensor Upgrades",
+        "date": "June 1, 2026",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-05-26"
+    "last_updated": "2026-06-01"
   },
   {
     "cid": "CMP-0016",
@@ -2035,19 +2219,19 @@
       },
       {
         "url": "https://www.twz.com/air/rc-135-rivet-joint-surveillance-jet-caught-in-the-nude-in-texas",
-        "title": "RC-135 Rivet Joint Surveillance Jet Caught ‘In The Nude’ In Texas",
+        "title": "RC-135 Rivet Joint Surveillance Jet Caught \u2018In The Nude\u2019 In Texas",
         "date": "2026-04-02",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/land/thaad-kill-vehicles-infrared-seeker-appears-to-have-been-found-in-syria-intact",
-        "title": "THAAD Kill Vehicle’s Infrared Seeker Appears To Have Been Found In Syria Intact",
+        "title": "THAAD Kill Vehicle\u2019s Infrared Seeker Appears To Have Been Found In Syria Intact",
         "date": "2026-04-06",
         "site": "twz"
       },
       {
         "url": "https://thedefensepost.com/2026/03/31/canada-husky-l3harris-airbus/",
-        "title": "L3Harris, Airbus Nab $1B Support Deals for Canada’s CC-330 Husky Fleet",
+        "title": "L3Harris, Airbus Nab $1B Support Deals for Canada\u2019s CC-330 Husky Fleet",
         "date": "",
         "site": "defensepost"
       },
@@ -2101,13 +2285,13 @@
       },
       {
         "url": "https://www.twz.com/air/new-vc-25b-air-force-one-bridge-aircraft-now-fully-modified-and-flight-tested",
-        "title": "New VC-25B Air Force One “Bridge” Aircraft Now Fully Modified And Flight Tested",
+        "title": "New VC-25B Air Force One \u201cBridge\u201d Aircraft Now Fully Modified And Flight Tested",
         "date": "2026-05-01",
         "site": "twz"
       },
       {
         "url": "https://thedefensepost.com/2026/05/02/hades-isr-system-guide/",
-        "title": "HADES System: The US Army’s High-Altitude Intelligence Leap",
+        "title": "HADES System: The US Army\u2019s High-Altitude Intelligence Leap",
         "date": "",
         "site": "defensepost"
       },
@@ -2116,9 +2300,33 @@
         "title": "SOCOM Plans MQ-9 Drone Mothership as Armed Overwatch Fleet Shrinks",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+        "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+        "date": "2026-05-27",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/28/l3harris-poland-pac3-missile-component/",
+        "title": "L3Harris Selects Polish Firm to Produce Patriot PAC-3 Missile Components",
+        "date": "May 28, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/06/01/l3harris-tactical-comms-system/",
+        "title": "L3Harris Debuts Tactical Comms System With \u2018No Single Point of Failure\u2019",
+        "date": "June 1, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/04/hegseth-launches-project-patriot-pipeline-portal/",
+        "title": "Hegseth launches \u2018patriot pipeline\u2019 portal",
+        "date": "2026-06-04",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-07"
   },
   {
     "cid": "CMP-0017",
@@ -2258,7 +2466,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/",
-        "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+        "title": "US military eyes high-energy \u2018laser dome\u2019 for domestic air defense",
         "date": "2026-04-13",
         "site": "defensenews"
       },
@@ -2282,18 +2490,24 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/30/aerovironment-halo-shield-tile/",
-        "title": "AeroVironment Debuts ‘Halo_Shield’: A Tile-Based Counter-UAS Solution",
+        "title": "AeroVironment Debuts \u2018Halo_Shield\u2019: A Tile-Based Counter-UAS Solution",
         "date": "",
         "site": "defensepost"
       },
       {
         "url": "https://united24media.com/war-in-ukraine/russias-rare-mi-8-electronic-warfare-helicopter-reportedly-lost-under-mysterious-circumstances-18946",
-        "title": "Russia’s Rare Mi-8 Electronic Warfare Helicopter Reportedly Lost Under Mysterious Circumstances",
+        "title": "Russia\u2019s Rare Mi-8 Electronic Warfare Helicopter Reportedly Lost Under Mysterious Circumstances",
         "date": "May 19, 2026 10:45 2 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress",
+        "title": "Containerized Variant Of Navy\u2019s Drone-Swatting HELIOS Laser Being Pushed By Congress",
+        "date": "2026-05-29",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-05-19",
+    "last_updated": "2026-06-01",
     "countries": [
       "USA"
     ]
@@ -2320,7 +2534,7 @@
       },
       {
         "url": "https://breakingdefense.com/2024/01/at-emirati-unmanned-show-local-defense-giant-edge-group-positions-itself-as-key-autonomy-player/",
-        "title": "At Emirati unmanned show, local defense giant EDGE Group positions itself as ‘key’ autonomy player",
+        "title": "At Emirati unmanned show, local defense giant EDGE Group positions itself as \u2018key\u2019 autonomy player",
         "date": "2024-01-25",
         "site": "breakingdefense"
       },
@@ -2344,7 +2558,7 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/14/navantia-turkey-anadolu-maintenance/",
-        "title": "Navantia to Maintain Turkey’s Anadolu Assault Ship",
+        "title": "Navantia to Maintain Turkey\u2019s Anadolu Assault Ship",
         "date": "",
         "site": "defensepost"
       },
@@ -2368,7 +2582,7 @@
       },
       {
         "url": "https://www.dailysabah.com/business/defense/baykar-aims-to-begin-serial-deliveries-of-kizilelma-this-year",
-        "title": "Baykar aims to begin serial deliveries of Kızılelma this year",
+        "title": "Baykar aims to begin serial deliveries of K\u0131z\u0131lelma this year",
         "date": "2026-05-10",
         "site": "dailysabah"
       },
@@ -2380,7 +2594,7 @@
       },
       {
         "url": "https://www.dailysabah.com/business/defense/turkiyes-baykar-signs-deal-to-sell-unmanned-fighter-jet-to-indonesia",
-        "title": "Türkiye's Baykar signs deal to sell unmanned fighter jet to Indonesia",
+        "title": "T\u00fcrkiye's Baykar signs deal to sell unmanned fighter jet to Indonesia",
         "date": "2026-05-06",
         "site": "dailysabah"
       },
@@ -2398,7 +2612,7 @@
       },
       {
         "url": "https://united24media.com/war-in-ukraine/how-a-crowdfunded-ukrainian-satellite-became-a-nightmare-for-russias-war-machine-19224",
-        "title": "How a Crowdfunded Ukrainian Satellite Became a Nightmare for Russia’s War Machine",
+        "title": "How a Crowdfunded Ukrainian Satellite Became a Nightmare for Russia\u2019s War Machine",
         "date": "May 27, 2026 13:50 Updated May 27, 2026 14:28 4 min read Prefer U24 Media on Google",
         "site": "united24"
       }
@@ -2425,7 +2639,9 @@
       "ISR",
       "FPV",
       "VTOL",
-      "doctrine"
+      "doctrine",
+      "attritable",
+      "NDAA"
     ],
     "sources": [
       {
@@ -2454,19 +2670,19 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/sponsored-content/general-atomics-is-turning-the-mq-9-reaper-family-of-drones-into-cruise-missile-trucks",
-        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into “Cruise Missile Trucks”",
+        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into \u201cCruise Missile Trucks\u201d",
         "date": "2026-02-24",
         "site": "twz"
       },
@@ -2496,7 +2712,7 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/08/canada-mq9-limited-capability/",
-        "title": "Canada’s Future MQ-9 Drone Fleet to Launch With Limited Capability",
+        "title": "Canada\u2019s Future MQ-9 Drone Fleet to Launch With Limited Capability",
         "date": "",
         "site": "defensepost"
       },
@@ -2544,7 +2760,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
-        "title": "Air Force unit executes test of Anduril’s semiautonomous combat drone",
+        "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
         "date": "2026-04-17",
         "site": "defensenews"
       },
@@ -2565,9 +2781,39 @@
         "title": "SOCOM Plans MQ-9 Drone Mothership as Armed Overwatch Fleet Shrinks",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/",
+        "title": "Air Force dubs MQ-9 the \u2018MVP\u2019 of Epic Fury as lawmakers press manned-unmanned future",
+        "date": "2026-05-21",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/sea/congress-moves-to-block-trump-class-battleship-work-until-its-key-weapons-are-mature",
+        "title": "Congress Moves To Block Trump Class Battleship Work Until Its Key Weapons Are Mature",
+        "date": "2026-05-27",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/29/do228-nxt-utility-aircraft/",
+        "title": "Classic Dornier Utility Aircraft Returns as the Next-Gen \u2018Do228 NXT\u2019",
+        "date": "May 29, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/28/us-f35-directs-mq20/",
+        "title": "F-35 Directs MQ-20 Drone in New Collaborative Combat Aircraft Test",
+        "date": "May 28, 2026",
+        "site": "defensepost"
       }
     ],
-    "last_updated": "2026-05-05",
+    "last_updated": "2026-06-01",
     "countries": [
       "USA"
     ]
@@ -2577,7 +2823,9 @@
     "name": "Shield AI",
     "programs": [
       "CCA",
-      "Hivemind"
+      "Hivemind",
+      "ACT",
+      "Golden Dome"
     ],
     "tags": [
       "autonomy",
@@ -2588,12 +2836,14 @@
       "acquisition",
       "electronic warfare",
       "loitering munition",
-      "AI"
+      "AI",
+      "mesh network",
+      "one-way attack"
     ],
     "sources": [
       {
         "url": "https://breakingdefense.com/2026/02/how-to-operate-drones-in-a-battlespace-where-gps-cant-be-trusted/",
-        "title": "How to operate drones in a battlespace where GPS can’t be trusted",
+        "title": "How to operate drones in a battlespace where GPS can\u2019t be trusted",
         "date": "2026-02-12",
         "site": "breakingdefense"
       },
@@ -2605,7 +2855,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/x-bat-drone-fighter-will-begin-vtol-flight-testing-in-kansas-this-year",
-        "title": "X-BAT Drone ‘Fighter’ Will Begin VTOL Flight Testing In Kansas This Year",
+        "title": "X-BAT Drone \u2018Fighter\u2019 Will Begin VTOL Flight Testing In Kansas This Year",
         "date": "2026-02-24",
         "site": "twz"
       },
@@ -2644,9 +2894,15 @@
         "title": "Shield AI's Hivemind Is Coming to America's Shahed Equivalent, One Operator, One Swarm, Real-Time Coordination",
         "date": "",
         "site": "defenseexpress"
+      },
+      {
+        "url": "https://www.twz.com/news-features/cost-to-link-lucas-kamikaze-drones-to-starlink-highlights-pentagons-ever-growing-dependence-on-spacex",
+        "title": "Cost To Link LUCAS Kamikaze Drones To Starlink Highlights Pentagon\u2019s Ever-Growing Dependence On SpaceX",
+        "date": "2026-05-26",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-05-20"
+    "last_updated": "2026-06-01"
   },
   {
     "cid": "CMP-0021",
@@ -2783,7 +3039,7 @@
       },
       {
         "url": "https://dronelife.com/2026/02/05/drone-dominance-program-phase-i-vendors/",
-        "title": "The Companies Tapped for the Pentagon’s Drone Dominance Push",
+        "title": "The Companies Tapped for the Pentagon\u2019s Drone Dominance Push",
         "date": "2026-02-05",
         "site": "dronelife"
       },
@@ -2828,9 +3084,15 @@
         "title": "Kratos Tests J85-Powered Firejet Drone for US Army",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.twz.com/air/airbus-looks-to-swedens-saab-as-europes-sixth-gen-fighter-plans-unravel",
+        "title": "Airbus Looks To Sweden\u2019s Saab As Europe\u2019s Sixth-Gen Fighter Plans Unravel",
+        "date": "2026-05-27",
+        "site": "twz"
       }
     ],
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "cid": "CMP-0023",
@@ -2854,13 +3116,13 @@
     "sources": [
       {
         "url": "https://breakingdefense.com/2026/02/as-dems-push-for-briefing-on-el-paso-incident-experts-warn-it-could-be-the-tip-of-the-iceberg/",
-        "title": "As Dems push for briefing on El Paso incident, experts warn it could be the ‘tip of the iceberg’",
+        "title": "As Dems push for briefing on El Paso incident, experts warn it could be the \u2018tip of the iceberg\u2019",
         "date": "2026-02-20",
         "site": "breakingdefense"
       },
       {
         "url": "https://breakingdefense.com/2024/12/anduril-openai-enter-strategic-partnership-to-use-ai-against-drones/",
-        "title": "Anduril, OpenAI enter ‘strategic partnership’ to use AI against drones",
+        "title": "Anduril, OpenAI enter \u2018strategic partnership\u2019 to use AI against drones",
         "date": "2024-12-05",
         "site": "breakingdefense"
       },
@@ -2891,7 +3153,8 @@
       "electronic warfare",
       "swarming",
       "C2",
-      "AI"
+      "AI",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -2902,7 +3165,7 @@
       },
       {
         "url": "https://breakingdefense.com/2024/11/nets-jamming-and-cyber-scalpels-pentagon-weighs-homeland-counter-drone-tech-in-mountain-tests/",
-        "title": "Nets, jamming and ‘cyber scalpels’: Pentagon weighs homeland counter-drone tech in mountain tests",
+        "title": "Nets, jamming and \u2018cyber scalpels\u2019: Pentagon weighs homeland counter-drone tech in mountain tests",
         "date": "2024-11-20",
         "site": "breakingdefense"
       },
@@ -2923,16 +3186,24 @@
         "title": "Global government spending on C-UAS reaches USD29 billion in first months of 2026",
         "date": "2026-04-05",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/lockheed-martin-uses-containerized-integrated-c-uas-launcher-system-to-down-group-3-attack-drone/",
+        "title": "Lockheed Martin uses containerized, integrated C-UAS launcher system to down Group 3 attack drone",
+        "date": "2026-06-03",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-04-05"
+    "last_updated": "2026-06-07"
   },
   {
     "cid": "CMP-0025",
     "name": "DroneShield",
     "programs": [
       "ACT",
-      "Safer Skies Act"
+      "Safer Skies Act",
+      "DAWG",
+      "Lattice"
     ],
     "tags": [
       "C2",
@@ -2947,7 +3218,7 @@
     "sources": [
       {
         "url": "https://breakingdefense.com/2025/07/threat-detectors-australia-issues-first-batch-of-counter-uas-system-contracts/",
-        "title": "‘Threat detectors’: Australia issues first batch of counter-UAS system contracts",
+        "title": "\u2018Threat detectors\u2019: Australia issues first batch of counter-UAS system contracts",
         "date": "2025-07-24",
         "site": "breakingdefense"
       },
@@ -2995,12 +3266,18 @@
       },
       {
         "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/oleg-vornik-steps-down-as-droneshield-ceo-angus-bean-named-as-replacement/",
-        "title": "Oleg Vornik steps down as DroneShield CEO – Angus Bean named as replacement",
+        "title": "Oleg Vornik steps down as DroneShield CEO \u2013 Angus Bean named as replacement",
         "date": "2026-04-08",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/global-spending-on-counter-uas-systems-reach-usd12-6-billion-this-year/",
+        "title": "Global spending on counter-UAS systems will reach USD12.6 billion this year",
+        "date": "2026-06-03",
         "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-04-08"
+    "last_updated": "2026-06-07"
   },
   {
     "cid": "CMP-0026",
@@ -3031,7 +3308,7 @@
       },
       {
         "url": "https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/",
-        "title": "High-power microwave ‘force field’ knocks drone swarms from sky",
+        "title": "High-power microwave \u2018force field\u2019 knocks drone swarms from sky",
         "date": "2025-02-18",
         "site": "breakingdefense"
       },
@@ -3091,7 +3368,7 @@
     "sources": [
       {
         "url": "https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/",
-        "title": "High-power microwave ‘force field’ knocks drone swarms from sky",
+        "title": "High-power microwave \u2018force field\u2019 knocks drone swarms from sky",
         "date": "2025-02-18",
         "site": "breakingdefense"
       },
@@ -3112,9 +3389,27 @@
         "title": "Army tests autonomous strike drone featuring AI-enabled targeting capabilities",
         "date": "2026-04-01",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/06/01/us-musv-sea-trials/",
+        "title": "US Navy Shortlists Seven Contenders for MUSV Sea Trials",
+        "date": "June 1, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.navalnews.com/naval-news/2026/05/saronic-launches-first-marauder-medium-unmanned-surface-vessel/",
+        "title": "Saronic Launches First Marauder Medium Unmanned Surface Vessel",
+        "date": "",
+        "site": "navalnews"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/03/transcom-leaders-briefed-west-coast-maritime-drone-demo/",
+        "title": "Transcom leaders briefed on recent West Coast maritime drone demo",
+        "date": "2026-06-03",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-04-02"
+    "last_updated": "2026-06-07"
   },
   {
     "cid": "CMP-0028",
@@ -3140,7 +3435,7 @@
     "sources": [
       {
         "url": "https://breakingdefense.com/2024/11/nets-jamming-and-cyber-scalpels-pentagon-weighs-homeland-counter-drone-tech-in-mountain-tests/",
-        "title": "Nets, jamming and ‘cyber scalpels’: Pentagon weighs homeland counter-drone tech in mountain tests",
+        "title": "Nets, jamming and \u2018cyber scalpels\u2019: Pentagon weighs homeland counter-drone tech in mountain tests",
         "date": "2024-11-20",
         "site": "breakingdefense"
       },
@@ -3158,7 +3453,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/navy-f-a-18s-close-call-with-an-iranian-sam-highlights-remaining-risks-to-epic-fury-aviators",
-        "title": "Navy F/A-18’s Close Call With An Iranian SAM Highlights Remaining Risks To Epic Fury Aviators (Updated)",
+        "title": "Navy F/A-18\u2019s Close Call With An Iranian SAM Highlights Remaining Risks To Epic Fury Aviators (Updated)",
         "date": "2026-03-26",
         "site": "twz"
       },
@@ -3221,7 +3516,7 @@
     "sources": [
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -4620,7 +4915,7 @@
       "Autonomous border-protection system (prime contractor; thousands of drones planned)",
       "Israeli border barrier / demining ($1.7B program, 4M Defense; >$50M + $30M awards)",
       "FIFA World Cup 2026 counter-UAS venue protection (Sentrycs)",
-      "ONBERG Autonomous Systems JV (HD Advanced Technologies — Germany/Ukraine)",
+      "ONBERG Autonomous Systems JV (HD Advanced Technologies \u2014 Germany/Ukraine)",
       "Q2-2026 order momentum: >$110M total orders QTD (>$30M in May 2026) across air defense, counter-drone, loitering munitions, ISR, UGVs; Q1 rev $50.1M, backlog ~$457M"
     ],
     "tags": [
@@ -4632,10 +4927,7 @@
       "acquisition",
       "defense",
       "drone",
-      "consolidation",
-      "air defense",
-      "UGV",
-      "backlog growth"
+      "consolidation"
     ],
     "sources": [
       {
