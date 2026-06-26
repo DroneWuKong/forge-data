@@ -12,7 +12,8 @@
       "Golden Dome",
       "ORIENT",
       "DIU",
-      "Replicator"
+      "Replicator",
+      "Hivemind"
     ],
     "tags": [
       "AI",
@@ -46,19 +47,19 @@
       },
       {
         "url": "https://defensescoop.com/2026/03/19/drone-incursion-strategic-us-military-base",
-        "title": "U.S. Northern Command says it thwarted a drone threat over a ‘strategic’ installation hours into the Iran war",
+        "title": "U.S. Northern Command says it thwarted a drone threat over a \u2018strategic\u2019 installation hours into the Iran war",
         "date": "2026-03-19",
         "site": "defensescoop"
       },
       {
         "url": "https://defensescoop.com/2026/03/17/lucas-drone-production-emil-michael-operation-epic-fury",
-        "title": "DOD’s arsenal of LUCAS drones ‘in the dozens’ amid their combat debut",
+        "title": "DOD\u2019s arsenal of LUCAS drones \u2018in the dozens\u2019 amid their combat debut",
         "date": "2026-03-17",
         "site": "defensescoop"
       },
       {
         "url": "https://defensescoop.com/2026/03/13/iranian-attack-drones-hegseth-gen-caine-operation-epic-fury",
-        "title": "Iran’s drone assaults ‘down 95%’ as Hegseth declares Operation Epic Fury is still ‘ramping up’",
+        "title": "Iran\u2019s drone assaults \u2018down 95%\u2019 as Hegseth declares Operation Epic Fury is still \u2018ramping up\u2019",
         "date": "2026-03-13",
         "site": "defensescoop"
       },
@@ -76,13 +77,13 @@
       },
       {
         "url": "https://defensescoop.com/2026/03/18/army-munitions-stockpiles-prsm-dark-eagle-missiles",
-        "title": "Army to ‘ramp up all munitions across the board,’ general says, including specialized missiles",
+        "title": "Army to \u2018ramp up all munitions across the board,\u2019 general says, including specialized missiles",
         "date": "2026-03-18",
         "site": "defensescoop"
       },
       {
         "url": "https://defensescoop.com/2026/03/01/cyber-command-message-iran-location-services-apps-operation-epic-fury",
-        "title": "Cybercom didn’t tell troops to disable location services or uninstall apps, military officials say, after viral message spread amid Iran operation",
+        "title": "Cybercom didn\u2019t tell troops to disable location services or uninstall apps, military officials say, after viral message spread amid Iran operation",
         "date": "2026-03-01",
         "site": "defensescoop"
       },
@@ -112,7 +113,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/",
-        "title": "US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot",
+        "title": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot",
         "date": "2026-03-20",
         "site": "defensenews"
       },
@@ -160,7 +161,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/",
-        "title": "UK Navy buys 20 USVs to act as unmanned ‘proving ground’",
+        "title": "UK Navy buys 20 USVs to act as unmanned \u2018proving ground\u2019",
         "date": "2026-03-13",
         "site": "breakingdefense"
       },
@@ -178,7 +179,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -190,13 +191,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/lucas-kamikaze-drones-lauded-as-indispensable-by-u-s-admiral-in-charge-of-iran-war",
-        "title": "LUCAS Kamikaze Drones Lauded As “Indispensable” By U.S. Admiral In Charge Of Iran War",
+        "title": "LUCAS Kamikaze Drones Lauded As \u201cIndispensable\u201d By U.S. Admiral In Charge Of Iran War",
         "date": "2026-03-05",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -232,7 +233,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/irans-energy-infrastructure-is-now-on-the-targeting-list",
-        "title": "Iran’s Energy Infrastructure Is Now On The Targeting List (Updated)",
+        "title": "Iran\u2019s Energy Infrastructure Is Now On The Targeting List (Updated)",
         "date": "2026-03-18",
         "site": "twz"
       },
@@ -244,7 +245,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/allies-push-back-on-trumps-demand-they-send-warships-to-strait-of-hormuz",
-        "title": "Allies Push Back On Trump’s Demand They Send Warships To Strait Of Hormuz (Updated)",
+        "title": "Allies Push Back On Trump\u2019s Demand They Send Warships To Strait Of Hormuz (Updated)",
         "date": "2026-03-16",
         "site": "twz"
       },
@@ -256,7 +257,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/former-centcom-commanders-candid-take-on-the-situation-in-the-strait-of-hormuz",
-        "title": "Former CENTCOM Commander’s Candid Take On The Situation In The Strait Of Hormuz",
+        "title": "Former CENTCOM Commander\u2019s Candid Take On The Situation In The Strait Of Hormuz",
         "date": "2026-03-19",
         "site": "twz"
       },
@@ -286,7 +287,7 @@
       },
       {
         "url": "https://defensescoop.com/2026/03/24/cyber-workforce-military-hiring-training-retention",
-        "title": "‘The fight is on’ as top cyber officials try to revamp the military’s digital workforce",
+        "title": "\u2018The fight is on\u2019 as top cyber officials try to revamp the military\u2019s digital workforce",
         "date": "2026-03-24",
         "site": "defensescoop"
       },
@@ -340,7 +341,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/03/ocean-aero-tritons-minesweepers-are-ready-now/",
-        "title": "Ocean Aero Triton’s Minesweepers are ready now",
+        "title": "Ocean Aero Triton\u2019s Minesweepers are ready now",
         "date": "2026-03-25",
         "site": "breakingdefense"
       },
@@ -370,19 +371,19 @@
       },
       {
         "url": "https://www.twz.com/news-features/after-nearly-a-month-of-epic-fury-theres-no-off-ramp-in-clear-sight",
-        "title": "After Nearly A Month Of Epic Fury There’s No Off-Ramp In Clear Sight",
+        "title": "After Nearly A Month Of Epic Fury There\u2019s No Off-Ramp In Clear Sight",
         "date": "2026-03-25",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/veteran-kc-135-base-commanders-view-of-epic-furys-strain-on-the-tanker-force",
-        "title": "Veteran KC-135 Base Commander’s View Of Epic Fury’s Strain On The Tanker Force",
+        "title": "Veteran KC-135 Base Commander\u2019s View Of Epic Fury\u2019s Strain On The Tanker Force",
         "date": "2026-03-26",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/news-features/navy-f-a-18s-close-call-with-an-iranian-sam-highlights-remaining-risks-to-epic-fury-aviators",
-        "title": "Navy F/A-18’s Close Call With An Iranian SAM Highlights Remaining Risks To Epic Fury Aviators (Updated)",
+        "title": "Navy F/A-18\u2019s Close Call With An Iranian SAM Highlights Remaining Risks To Epic Fury Aviators (Updated)",
         "date": "2026-03-26",
         "site": "twz"
       },
@@ -424,7 +425,7 @@
       },
       {
         "url": "https://www.defensenews.com/global/asia-pacific/2026/03/30/japanese-destroyer-can-now-fire-tomahawk-missiles-extending-nations-combat-punch/",
-        "title": "Japanese destroyer can now fire Tomahawk missiles, extending nation’s combat punch",
+        "title": "Japanese destroyer can now fire Tomahawk missiles, extending nation\u2019s combat punch",
         "date": "2026-03-30",
         "site": "defensenews"
       },
@@ -442,7 +443,7 @@
       },
       {
         "url": "https://defensescoop.com/2026/03/31/iran-war-casualties-force-protection-operation-epic-fury",
-        "title": "Pentagon eyes ‘more and more bunkers’ and other tech to shield troops in Operation Epic Fury",
+        "title": "Pentagon eyes \u2018more and more bunkers\u2019 and other tech to shield troops in Operation Epic Fury",
         "date": "2026-03-31",
         "site": "defensescoop"
       },
@@ -472,7 +473,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/",
-        "title": "Is the US running out of Tomahawk missiles? Here’s what the experts say",
+        "title": "Is the US running out of Tomahawk missiles? Here\u2019s what the experts say",
         "date": "2026-04-01",
         "site": "defensenews"
       },
@@ -556,13 +557,13 @@
       },
       {
         "url": "https://defensescoop.com/2026/04/06/us-deployed-more-than-150-aircraft-rescue-downed-aviator-iran",
-        "title": "U.S. deployed ‘armada’ with more than 150 aircraft to recover downed aviator in Iran",
+        "title": "U.S. deployed \u2018armada\u2019 with more than 150 aircraft to recover downed aviator in Iran",
         "date": "2026-04-06",
         "site": "defensescoop"
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -592,19 +593,19 @@
       },
       {
         "url": "https://defensescoop.com/2026/04/07/us-launches-more-attack-drones-iran-epic-fury-adm-cooper-centcom",
-        "title": "Centcom commander says ‘hundreds’ of U.S. drones are involved in Iran war",
+        "title": "Centcom commander says \u2018hundreds\u2019 of U.S. drones are involved in Iran war",
         "date": "2026-04-07",
         "site": "defensescoop"
       },
       {
         "url": "https://defensescoop.com/2026/04/08/hegseth-gen-caine-iran-drone-arsenal-damage-operation-epic-fury",
-        "title": "Pentagon brass tout destruction of Iran’s drone arsenal, but questions linger about what’s left",
+        "title": "Pentagon brass tout destruction of Iran\u2019s drone arsenal, but questions linger about what\u2019s left",
         "date": "2026-04-08",
         "site": "defensescoop"
       },
       {
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/08/us-forces-will-be-hanging-around-middle-east-after-iran-ceasefire-hegseth-says/",
-        "title": "US forces will be ‘hanging around’ Middle East after Iran ceasefire, Hegseth says",
+        "title": "US forces will be \u2018hanging around\u2019 Middle East after Iran ceasefire, Hegseth says",
         "date": "2026-04-08",
         "site": "defensenews"
       },
@@ -634,13 +635,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war",
-        "title": "How America’s Shahed-136 Kamikaze Drone Clone Suddenly Became An “Indispensable” Weapon Of War",
+        "title": "How America\u2019s Shahed-136 Kamikaze Drone Clone Suddenly Became An \u201cIndispensable\u201d Weapon Of War",
         "date": "2026-04-09",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/news-features/irans-chokehold-on-hormuz-remains-on-the-eve-of-peace-talks-in-pakistan",
-        "title": "Iran’s Chokehold On Hormuz Remains On The Eve Of Peace Talks In Pakistan (Updated)",
+        "title": "Iran\u2019s Chokehold On Hormuz Remains On The Eve Of Peace Talks In Pakistan (Updated)",
         "date": "2026-04-10",
         "site": "twz"
       },
@@ -670,13 +671,13 @@
       },
       {
         "url": "https://www.defensenews.com/global/europe/2026/04/13/turkey-pushes-for-larger-role-in-europes-defense-as-trump-questions-nato/",
-        "title": "Turkey pushes for larger role in Europe’s defense as Trump questions NATO",
+        "title": "Turkey pushes for larger role in Europe\u2019s defense as Trump questions NATO",
         "date": "2026-04-13",
         "site": "defensenews"
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/",
-        "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+        "title": "US military eyes high-energy \u2018laser dome\u2019 for domestic air defense",
         "date": "2026-04-13",
         "site": "defensenews"
       },
@@ -688,7 +689,7 @@
       },
       {
         "url": "https://united24media.com/world/us-targets-irans-shadow-banking-networks-in-latest-sanctions-move-18412",
-        "title": "US Targets Iran’s Shadow Banking Networks in Latest Sanctions Move",
+        "title": "US Targets Iran\u2019s Shadow Banking Networks in Latest Sanctions Move",
         "date": "May 01, 2026 22:31 2 min read",
         "site": "united24"
       },
@@ -700,7 +701,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
-        "title": "Air Force unit executes test of Anduril’s semiautonomous combat drone",
+        "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
         "date": "2026-04-17",
         "site": "defensenews"
       },
@@ -712,7 +713,7 @@
       },
       {
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/30/ceasefire-stops-war-powers-clock-on-iran-hegseth-claims/",
-        "title": "Ceasefire ‘stops’ War Powers clock on Iran, Hegseth claims",
+        "title": "Ceasefire \u2018stops\u2019 War Powers clock on Iran, Hegseth claims",
         "date": "2026-04-30",
         "site": "defensenews"
       },
@@ -736,7 +737,7 @@
       },
       {
         "url": "https://www.twz.com/sea/china-is-americas-military-equal-now-and-in-any-future-fight-marine-general-warns",
-        "title": "China is America’s Military Equal Now And In Any Future Fight, Marine General Warns",
+        "title": "China is America\u2019s Military Equal Now And In Any Future Fight, Marine General Warns",
         "date": "2026-04-29",
         "site": "twz"
       },
@@ -751,10 +752,94 @@
         "title": "Fury annihilates Wilder in heavyweight title rematch",
         "date": "2020-02-23",
         "site": "dailysabah"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/",
+        "title": "Air Force dubs MQ-9 the \u2018MVP\u2019 of Epic Fury as lawmakers press manned-unmanned future",
+        "date": "2026-05-21",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
+        "title": "US Navy to explore powering shore installations with aircraft carriers",
+        "date": "2026-05-29",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+        "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+        "date": "2026-05-27",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/news-features/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
+        "title": "Trump Declares He Is Lifting The Naval Blockade On Iran (Updated)",
+        "date": "2026-05-29",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/severity-of-americas-depleted-advanced-weapons-stockpiles-detailed-in-new-report",
+        "title": "Severity Of America\u2019s Depleted Advanced Weapons Stockpiles Detailed In New Report",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/cost-to-link-lucas-kamikaze-drones-to-starlink-highlights-pentagons-ever-growing-dependence-on-spacex",
+        "title": "Cost To Link LUCAS Kamikaze Drones To Starlink Highlights Pentagon\u2019s Ever-Growing Dependence On SpaceX",
+        "date": "2026-05-26",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/another-day-of-uncertainty-in-the-strait-after-u-s-claims-strikes-on-iranian-minelayers",
+        "title": "Another Day Of Uncertainty In The Strait After U.S. Claims Strikes On Iranian Minelayers",
+        "date": "2026-05-26",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/another-battle-damaged-kc-135-tanker-seen-passing-through-raf-mildenhall",
+        "title": "Another Battle Damaged KC-135 Tanker Seen Passing Through RAF Mildenhall",
+        "date": "2026-05-25",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/usafs-new-turbocharged-ultra-surveillance-drones-are-heading-to-the-middle-east",
+        "title": "USAF\u2019s New Turbocharged ULTRA Surveillance Drones Are Heading To The Middle East",
+        "date": "2026-05-25",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/iran-now-trying-to-cement-long-term-control-over-strait-via-fees",
+        "title": "Iran Now Trying To Cement Long-Term Control Over Strait Via Fees",
+        "date": "2026-05-22",
+        "site": "twz"
+      },
+      {
+        "url": "https://warontherocks.com/when-refusal-doesnt-matter-operation-epic-fury-and-the-erosion-of-host-nation-consent/",
+        "title": "When Refusal Doesn\u2019t Matter: Operation Epic Fury and the Erosion of Host Nation Consent",
+        "date": "2026-05-19",
+        "site": "warontherocks"
+      },
+      {
+        "url": "https://warontherocks.com/the-adversarial-maximalist-demands-victory-day-and-a-summit/",
+        "title": "Maximalist Demands, Victory Day, and a Summit",
+        "date": "2026-05-14",
+        "site": "warontherocks"
+      },
+      {
+        "url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+        "title": "The Pentagon Needs a Playbook for Munitions Surge Production",
+        "date": "2026-05-07",
+        "site": "warontherocks"
+      },
+      {
+        "url": "https://warontherocks.com/economic-fury-and-claims-of-victory/",
+        "title": "Economic Fury and Claims of Victory",
+        "date": "2026-04-30",
+        "site": "warontherocks"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0002",
@@ -777,7 +862,7 @@
     "sources": [
       {
         "url": "https://defensescoop.com/2026/03/11/ai-system-testing-dod-intelligence-agencies",
-        "title": "Pentagon, IC want industry to provide an ‘evaluation harness’ to standardize testing of AI systems",
+        "title": "Pentagon, IC want industry to provide an \u2018evaluation harness\u2019 to standardize testing of AI systems",
         "date": "2026-03-11",
         "site": "defensescoop"
       },
@@ -822,10 +907,16 @@
         "title": "First USMC MQ-58 Valkyrie CCA Drones To Arrive In 2029",
         "date": "2026-04-29",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/airbus-looks-to-swedens-saab-as-europes-sixth-gen-fighter-plans-unravel",
+        "title": "Airbus Looks To Sweden\u2019s Saab As Europe\u2019s Sixth-Gen Fighter Plans Unravel",
+        "date": "2026-05-27",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0003",
@@ -869,7 +960,7 @@
       },
       {
         "url": "https://breakingdefense.com/2026/02/boeings-block-3-mq-28-ghost-bat-to-gain-weapons-bays-longer-wings/",
-        "title": "Boeing’s Block 3 MQ-28 Ghost Bat to gain weapons bays, longer wings",
+        "title": "Boeing\u2019s Block 3 MQ-28 Ghost Bat to gain weapons bays, longer wings",
         "date": "2026-02-05",
         "site": "breakingdefense"
       },
@@ -881,7 +972,7 @@
       },
       {
         "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/drone-defence-mismatched-to-domestic-extremist-threats-australian-think-tank/",
-        "title": "“Drone defence mismatched to domestic extremist threats” – Australian think-tank",
+        "title": "\u201cDrone defence mismatched to domestic extremist threats\u201d \u2013 Australian think-tank",
         "date": "2026-03-24",
         "site": "unmannedairspace"
       },
@@ -899,7 +990,7 @@
       },
       {
         "url": "https://www.twz.com/air/shadowy-rat55-radar-test-bed-737-has-begun-the-next-phase-of-its-career",
-        "title": "Secretive 737 Radar Jet ‘RAT55’ Has Begun “The Next Phase Of Its Career”",
+        "title": "Secretive 737 Radar Jet \u2018RAT55\u2019 Has Begun \u201cThe Next Phase Of Its Career\u201d",
         "date": "2026-04-01",
         "site": "twz"
       },
@@ -917,13 +1008,13 @@
       },
       {
         "url": "https://www.twz.com/air/inside-the-air-forces-elite-ghost-tanker-unit",
-        "title": "Inside The Air Force’s Elite Ghost Tanker Unit",
+        "title": "Inside The Air Force\u2019s Elite Ghost Tanker Unit",
         "date": "2026-04-09",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/navy-mq-4c-tritons-fate-unknown-after-disappearing-from-flight-tracking-over-persian-gulf",
-        "title": "Navy MQ-4C Triton’s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
+        "title": "Navy MQ-4C Triton\u2019s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
         "date": "2026-04-09",
         "site": "twz"
       },
@@ -941,13 +1032,25 @@
       },
       {
         "url": "https://united24media.com/world/estonian-border-town-to-unveil-putin-hitler-poster-on-may-9-18471",
-        "title": "Estonian Border Town to Unveil “Putin–Hitler” Poster on May 9",
+        "title": "Estonian Border Town to Unveil \u201cPutin\u2013Hitler\u201d Poster on May 9",
         "date": "May 04, 2026 23:56 3 min read",
         "site": "united24"
+      },
+      {
+        "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+        "title": "MQ-28 Ghost Bat Now Flying Over The Pacific From U.S. Navy Base",
+        "date": "2026-05-28",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/airbus-looks-to-swedens-saab-as-europes-sixth-gen-fighter-plans-unravel",
+        "title": "Airbus Looks To Sweden\u2019s Saab As Europe\u2019s Sixth-Gen Fighter Plans Unravel",
+        "date": "2026-05-27",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0004",
@@ -955,7 +1058,8 @@
     "manufacturer": "Anduril Industries",
     "programs": [
       "JIATF-401",
-      "Lattice"
+      "Lattice",
+      "ACT"
     ],
     "tags": [
       "counter-UAS",
@@ -963,12 +1067,13 @@
       "autonomy",
       "loitering munition",
       "C2",
-      "swarming"
+      "swarming",
+      "doctrine"
     ],
     "sources": [
       {
         "url": "https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/",
-        "title": "US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot",
+        "title": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot",
         "date": "2026-03-20",
         "site": "defensenews"
       },
@@ -983,10 +1088,22 @@
         "title": "U.S. military reveals more details about drone incursions at strategic base",
         "date": "2026-03-24",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/29/t2com-integration-challenge/",
+        "title": "Merging Commands Is Easier Than Merging Cultures: T2COM\u2019s Real Integration Challenge",
+        "date": "May 29, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-government-approves-sale-of-c-uas-systems-worth-usd1-98-million-to-kuwait/",
+        "title": "US government approves sale of C-UAS systems worth USD1.98 million to Kuwait",
+        "date": "2026-06-08",
+        "site": "unmannedairspace"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-03-25"
+    "last_updated": "2026-06-08"
   },
   {
     "pid": "PLT-0005",
@@ -1013,7 +1130,7 @@
     "sources": [
       {
         "url": "https://www.defensenews.com/news/your-air-force/2026/03/12/b-21-raider-completed-close-proximity-flight-with-kc-135-tanker-us-air-force-confirms/",
-        "title": "B-21 Raider completed ‘close-proximity flight’ with KC-135 tanker, US Air Force confirms",
+        "title": "B-21 Raider completed \u2018close-proximity flight\u2019 with KC-135 tanker, US Air Force confirms",
         "date": "2026-03-12",
         "site": "defensenews"
       },
@@ -1037,7 +1154,7 @@
       },
       {
         "url": "https://www.twz.com/air/f-22-b-52-flight-testing-over-the-mojave-showcases-advanced-usaf-developments",
-        "title": "F-22 Raptor “2.0” Spotted Undergoing Flight Testing",
+        "title": "F-22 Raptor \u201c2.0\u201d Spotted Undergoing Flight Testing",
         "date": "2026-03-23",
         "site": "twz"
       },
@@ -1055,7 +1172,7 @@
       },
       {
         "url": "https://militarnyi.com/en/news/u-s-eyes-larger-fleet-of-b-21-raider-bombers-generals-signal-need-for-145-aircraft/",
-        "title": "U.S. Eyes Larger Fleet of B-21 Raider Bombers – Generals Signal Need for 145 Aircraft",
+        "title": "U.S. Eyes Larger Fleet of B-21 Raider Bombers \u2013 Generals Signal Need for 145 Aircraft",
         "date": "",
         "site": "militarnyi"
       },
@@ -1079,7 +1196,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1091,13 +1208,13 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/08/b21-raider-guide/",
-        "title": "B-21 Raider: Inside America’s Next-Generation Strategic Bomber",
+        "title": "B-21 Raider: Inside America\u2019s Next-Generation Strategic Bomber",
         "date": "",
         "site": "defensepost"
       },
       {
         "url": "https://www.twz.com/air/inside-the-air-forces-elite-ghost-tanker-unit",
-        "title": "Inside The Air Force’s Elite Ghost Tanker Unit",
+        "title": "Inside The Air Force\u2019s Elite Ghost Tanker Unit",
         "date": "2026-04-09",
         "site": "twz"
       },
@@ -1109,7 +1226,7 @@
       },
       {
         "url": "https://www.defensenews.com/air/2025/05/16/pentagon-silent-aviation-experts-baffled-by-trumps-fighter-comments/",
-        "title": "Pentagon silent, aviation experts baffled by Trump’s fighter comments",
+        "title": "Pentagon silent, aviation experts baffled by Trump\u2019s fighter comments",
         "date": "2025-05-16",
         "site": "defensenews"
       },
@@ -1130,10 +1247,16 @@
         "title": "B-1B Seen Carrying ARRW Hypersonic Missile For The First Time",
         "date": "2026-04-30",
         "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/25/us-nuclear-triad-guide/",
+        "title": "What Is the US Nuclear Triad? A Guide to America\u2019s Ultimate Deterrent",
+        "date": "May 25, 2026",
+        "site": "defensepost"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0006",
@@ -1196,7 +1319,7 @@
       },
       {
         "url": "https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come",
-        "title": "Drone Attack On Parked U.S. Army Black Hawk In Iraq A Harbinger Of What’s To Come",
+        "title": "Drone Attack On Parked U.S. Army Black Hawk In Iraq A Harbinger Of What\u2019s To Come",
         "date": "2026-03-25",
         "site": "twz"
       },
@@ -1232,13 +1355,13 @@
       },
       {
         "url": "https://breakingdefense.com/2026/04/golden-dome-out-years-and-lots-of-missiles-details-of-trumps-1-5t-defense-budget-request/",
-        "title": "Golden Dome, out-years and lots of missiles: Details of Trump’s $1.5T defense budget request",
+        "title": "Golden Dome, out-years and lots of missiles: Details of Trump\u2019s $1.5T defense budget request",
         "date": "2026-04-03",
         "site": "breakingdefense"
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1268,19 +1391,37 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/30/f18-super-hornet-guide/",
-        "title": "F/A‑18E/F Super Hornet Explained: The US Navy’s Workhorse Fighter",
+        "title": "F/A\u201118E/F Super Hornet Explained: The US Navy\u2019s Workhorse Fighter",
         "date": "",
         "site": "defensepost"
       },
       {
         "url": "https://thedefensepost.com/2026/04/30/aerovironment-halo-shield-tile/",
-        "title": "AeroVironment Debuts ‘Halo_Shield’: A Tile-Based Counter-UAS Solution",
+        "title": "AeroVironment Debuts \u2018Halo_Shield\u2019: A Tile-Based Counter-UAS Solution",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://united24media.com/world/canada-and-ukraine-forge-strategic-alliance-to-manufacture-advanced-reconnaissance-drones-19328",
+        "title": "Canada and Ukraine Forge Strategic Alliance to Manufacture Advanced Reconnaissance Drones",
+        "date": "May 29, 2026 23:49 Updated May 31, 2026 11:35 2 min read Prefer U24 Media on Google",
+        "site": "united24"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/25/us-nuclear-triad-guide/",
+        "title": "What Is the US Nuclear Triad? A Guide to America\u2019s Ultimate Deterrent",
+        "date": "May 25, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://warontherocks.com/cogs-of-war/synthetic-biology-drones-and-ai-the-risks-of-dual-use-technologies/",
+        "title": "Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies",
+        "date": "2026-05-27",
+        "site": "warontherocks"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0007",
@@ -1330,13 +1471,13 @@
       },
       {
         "url": "https://breakingdefense.com/2024/10/army-putting-significant-emphasis-on-air-and-missile-defense-with-looming-investments/",
-        "title": "Army putting ‘significant … emphasis’ on air and missile defense with looming investments",
+        "title": "Army putting \u2018significant \u2026 emphasis\u2019 on air and missile defense with looming investments",
         "date": "2024-10-14",
         "site": "breakingdefense"
       },
       {
         "url": "https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come",
-        "title": "Drone Attack On Parked U.S. Army Black Hawk In Iraq A Harbinger Of What’s To Come",
+        "title": "Drone Attack On Parked U.S. Army Black Hawk In Iraq A Harbinger Of What\u2019s To Come",
         "date": "2026-03-25",
         "site": "twz"
       },
@@ -1388,13 +1529,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -1468,13 +1609,13 @@
       },
       {
         "url": "https://www.twz.com/news-features/talon-blue-is-the-new-name-for-northrop-grummans-yfq-48a-fighter-drone",
-        "title": "Talon Blue Is The New Name For Northrop Grumman’s YFQ-48A ‘Fighter Drone’",
+        "title": "Talon Blue Is The New Name For Northrop Grumman\u2019s YFQ-48A \u2018Fighter Drone\u2019",
         "date": "2026-02-23",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/air/dark-merlin-is-now-general-atomics-yfq-42a-fighter-drones-nickname",
-        "title": "Dark Merlin Is The Name Of General Atomics’ YFQ-42A Fighter Drone",
+        "title": "Dark Merlin Is The Name Of General Atomics\u2019 YFQ-42A Fighter Drone",
         "date": "2026-02-23",
         "site": "twz"
       },
@@ -1504,7 +1645,7 @@
       },
       {
         "url": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
-        "title": "Air Force unit executes test of Anduril’s semiautonomous combat drone",
+        "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
         "date": "2026-04-17",
         "site": "defensenews"
       },
@@ -1548,7 +1689,7 @@
       },
       {
         "url": "https://breakingdefense.com/2024/11/nets-jamming-and-cyber-scalpels-pentagon-weighs-homeland-counter-drone-tech-in-mountain-tests/",
-        "title": "Nets, jamming and ‘cyber scalpels’: Pentagon weighs homeland counter-drone tech in mountain tests",
+        "title": "Nets, jamming and \u2018cyber scalpels\u2019: Pentagon weighs homeland counter-drone tech in mountain tests",
         "date": "2024-11-20",
         "site": "breakingdefense"
       },
@@ -1653,7 +1794,10 @@
       "Golden Dome"
     ],
     "tags": [
-      "one-way attack"
+      "one-way attack",
+      "FPV",
+      "acquisition",
+      "doctrine"
     ],
     "sources": [
       {
@@ -1664,7 +1808,7 @@
       },
       {
         "url": "https://militarnyi.com/en/news/suspect-arson-archer-facility-slovakia/",
-        "title": "Suspect in the Arson of Ukrainian Company Archer’s Facility in the Czech Republic Detained in Slovakia",
+        "title": "Suspect in the Arson of Ukrainian Company Archer\u2019s Facility in the Czech Republic Detained in Slovakia",
         "date": "",
         "site": "militarnyi"
       },
@@ -1676,7 +1820,7 @@
       },
       {
         "url": "https://militarnyi.com/en/news/czech-republic-detain-activist-archer-arson/",
-        "title": "Czech Republic Detains “Pro-Palestinian Activists” Over Archer Factory Arson – Face 20+ Years",
+        "title": "Czech Republic Detains \u201cPro-Palestinian Activists\u201d Over Archer Factory Arson \u2013 Face 20+ Years",
         "date": "",
         "site": "militarnyi"
       },
@@ -1691,10 +1835,22 @@
         "title": "Rheinmetall to Supply Ukraine With 100,000 Long-Range Artillery Shells Annually",
         "date": "May 07, 2026 21:52 2 min read",
         "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
+        "title": "At French Army FPV competition, NATO soldiers race drones and swap tips",
+        "date": "2026-05-29",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
+        "title": "US Marine Corps tests using helicopter as mobile drone command center",
+        "date": "2026-05-22",
+        "site": "defensenews"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-09"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0014",
@@ -1714,12 +1870,13 @@
       "electronic warfare",
       "AI",
       "C2",
-      "swarming"
+      "swarming",
+      "attritable"
     ],
     "sources": [
       {
         "url": "https://www.twz.com/sponsored-content/general-atomics-is-turning-the-mq-9-reaper-family-of-drones-into-cruise-missile-trucks",
-        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into “Cruise Missile Trucks”",
+        "title": "General Atomics Is Turning The MQ-9 Reaper Family Of Drones Into \u201cCruise Missile Trucks\u201d",
         "date": "2026-02-24",
         "site": "twz"
       },
@@ -1731,7 +1888,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/allies-push-back-on-trumps-demand-they-send-warships-to-strait-of-hormuz",
-        "title": "Allies Push Back On Trump’s Demand They Send Warships To Strait Of Hormuz (Updated)",
+        "title": "Allies Push Back On Trump\u2019s Demand They Send Warships To Strait Of Hormuz (Updated)",
         "date": "2026-03-16",
         "site": "twz"
       },
@@ -1773,7 +1930,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1785,7 +1942,7 @@
       },
       {
         "url": "https://defensescoop.com/2026/04/07/us-launches-more-attack-drones-iran-epic-fury-adm-cooper-centcom",
-        "title": "Centcom commander says ‘hundreds’ of U.S. drones are involved in Iran war",
+        "title": "Centcom commander says \u2018hundreds\u2019 of U.S. drones are involved in Iran war",
         "date": "2026-04-07",
         "site": "defensescoop"
       },
@@ -1797,7 +1954,7 @@
       },
       {
         "url": "https://thedefensepost.com/2026/04/08/canada-mq9-limited-capability/",
-        "title": "Canada’s Future MQ-9 Drone Fleet to Launch With Limited Capability",
+        "title": "Canada\u2019s Future MQ-9 Drone Fleet to Launch With Limited Capability",
         "date": "",
         "site": "defensepost"
       },
@@ -1839,7 +1996,7 @@
       },
       {
         "url": "https://www.twz.com/land/marines-realizing-they-cant-depend-on-army-alone-for-ballistic-missile-defense",
-        "title": "Marines Realize They Can’t Depend On Army For Ballistic Missile Defense",
+        "title": "Marines Realize They Can\u2019t Depend On Army For Ballistic Missile Defense",
         "date": "2026-04-29",
         "site": "twz"
       },
@@ -1854,10 +2011,28 @@
         "title": "Iran claims downing US MQ-9 Reaper drone over Persian Gulf",
         "date": "2026-05-26",
         "site": "dailysabah"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/",
+        "title": "Air Force dubs MQ-9 the \u2018MVP\u2019 of Epic Fury as lawmakers press manned-unmanned future",
+        "date": "2026-05-21",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/news-features/usafs-new-turbocharged-ultra-surveillance-drones-are-heading-to-the-middle-east",
+        "title": "USAF\u2019s New Turbocharged ULTRA Surveillance Drones Are Heading To The Middle East",
+        "date": "2026-05-25",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/25/us-reapers-long-range-strike/",
+        "title": "US Air Force MQ-9 Reapers Gain Long-Range Precision Strike Capability",
+        "date": "May 25, 2026",
+        "site": "defensepost"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-26"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0015",
@@ -1884,7 +2059,7 @@
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1896,13 +2071,19 @@
       },
       {
         "url": "https://www.twz.com/air/massive-chinese-stealth-flying-wings-spotted-together-at-secretive-drone-test-base",
-        "title": "China’s Massive Stealth Flying Wings Spotted Together At Secretive Test Base",
+        "title": "China\u2019s Massive Stealth Flying Wings Spotted Together At Secretive Test Base",
         "date": "2026-05-01",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/usafs-new-turbocharged-ultra-surveillance-drones-are-heading-to-the-middle-east",
+        "title": "USAF\u2019s New Turbocharged ULTRA Surveillance Drones Are Heading To The Middle East",
+        "date": "2026-05-25",
         "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-01"
   },
   {
     "pid": "PLT-0016",
@@ -1962,13 +2143,13 @@
     "sources": [
       {
         "url": "https://www.twz.com/space/worlds-most-secretive-737-is-supporting-nasas-historic-artemis-ii-launch",
-        "title": "World’s Most Secretive 737 Is Supporting NASA’s Historic Artemis II Launch",
+        "title": "World\u2019s Most Secretive 737 Is Supporting NASA\u2019s Historic Artemis II Launch",
         "date": "2026-04-01",
         "site": "twz"
       },
       {
         "url": "https://www.twz.com/news-features/rq-180s-likely-role-over-iran-foreshadowed-by-secret-cold-war-stealth-drone-program",
-        "title": "RQ-180’s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
+        "title": "RQ-180\u2019s Likely Role Over Iran Foreshadowed By Secret Cold War Stealth Drone Program",
         "date": "2026-04-06",
         "site": "twz"
       },
@@ -1980,7 +2161,7 @@
       },
       {
         "url": "https://www.twz.com/air/navy-mq-4c-tritons-fate-unknown-after-disappearing-from-flight-tracking-over-persian-gulf",
-        "title": "Navy MQ-4C Triton’s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
+        "title": "Navy MQ-4C Triton\u2019s Fate Unknown After Disappearing From Flight Tracking Over Persian Gulf",
         "date": "2026-04-09",
         "site": "twz"
       },
@@ -2059,7 +2240,8 @@
     "manufacturer": "AeroVironment",
     "programs": [],
     "tags": [
-      "acquisition"
+      "acquisition",
+      "autonomy"
     ],
     "sources": [
       {
@@ -2067,10 +2249,22 @@
         "title": "Romania Approves $1B Airbus H225M Caracal Helicopter Procurement",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/05/25/uk-helicopter-drone-tactics/",
+        "title": "UK Tests Helicopter-Drone Tactics in Norwegian Fjord Drills",
+        "date": "May 25, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://united24media.com/world/russia-sues-rheinmetall-for-eur47-million-over-a-contract-canceled-because-of-its-own-crimea-occupation-19497",
+        "title": "Russia Sues Rheinmetall for \u20ac47 Million Over a Contract Canceled Because of Its Own Crimea Occupation",
+        "date": "Jun 04, 2026 12:38 Updated Jun 04, 2026 13:12 2 min read Prefer U24 Media on Google",
+        "site": "united24"
       }
     ],
     "first_seen": "2026-05-05",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-06-05"
   },
   {
     "pid": "PLT-0021",
