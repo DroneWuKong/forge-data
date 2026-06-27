@@ -836,10 +836,22 @@
         "title": "Economic Fury and Claims of Victory",
         "date": "2026-04-30",
         "site": "warontherocks"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/12/genai-mil-usage-pentagon-cto-emil-michael/",
+        "title": "1.5M people use GenAI.mil, Pentagon CTO says",
+        "date": "2026-06-12",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/trump-says-iranian-bomb-lodged-in-us-military-helicopter-didnt-explode/",
+        "title": "Trump recounts how Army pilots involved in helicopter crash and drone boat rescue were \u2018very lucky\u2019",
+        "date": "2026-06-10",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-14"
   },
   {
     "pid": "PLT-0002",
@@ -1418,10 +1430,22 @@
         "title": "Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies",
         "date": "2026-05-27",
         "site": "warontherocks"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/16/alpine-eagle-origin-robotics-integrated-counter-drone-system/",
+        "title": "European Defense Firms Partner on Sensor-to-Interceptor Counter-Drone Network",
+        "date": "2026-06-16",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/eurosatory-2026-alpine-eagle-and-origin-robotics-to-integrate-their-c-uas-technologies/",
+        "title": "Eurosatory 2026 \u2013 Alpine Eagle and Origin Robotics to integrate their C-UAS technologies",
+        "date": "2026-06-16",
+        "site": "unmannedairspace"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-17"
   },
   {
     "pid": "PLT-0007",
