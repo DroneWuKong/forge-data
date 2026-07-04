@@ -836,10 +836,34 @@
         "title": "Economic Fury and Claims of Victory",
         "date": "2026-04-30",
         "site": "warontherocks"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/12/genai-mil-usage-pentagon-cto-emil-michael/",
+        "title": "1.5M people use GenAI.mil, Pentagon CTO says",
+        "date": "2026-06-12",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/trump-says-iranian-bomb-lodged-in-us-military-helicopter-didnt-explode/",
+        "title": "Trump recounts how Army pilots involved in helicopter crash and drone boat rescue were \u2018very lucky\u2019",
+        "date": "2026-06-10",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/25/trump-budget-supplemental-includes-billions-for-munitions-emerging-tech/",
+        "title": "Trump\u2019s budget supplemental would secure billions for munitions, emerging defense tech",
+        "date": "2026-06-25",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/aws-anduril-debut-new-tactical-data-center-cloud-offering/",
+        "title": "AWS, Anduril debut new tactical data center offering listed on DOD\u2019s cloud marketplace",
+        "date": "2026-07-01",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-07-03"
   },
   {
     "pid": "PLT-0002",
@@ -1418,10 +1442,22 @@
         "title": "Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies",
         "date": "2026-05-27",
         "site": "warontherocks"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/16/alpine-eagle-origin-robotics-integrated-counter-drone-system/",
+        "title": "European Defense Firms Partner on Sensor-to-Interceptor Counter-Drone Network",
+        "date": "2026-06-16",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/eurosatory-2026-alpine-eagle-and-origin-robotics-to-integrate-their-c-uas-technologies/",
+        "title": "Eurosatory 2026 \u2013 Alpine Eagle and Origin Robotics to integrate their C-UAS technologies",
+        "date": "2026-06-16",
+        "site": "unmannedairspace"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-17"
   },
   {
     "pid": "PLT-0007",
@@ -1767,7 +1803,8 @@
       "loitering munition",
       "C2",
       "acquisition",
-      "swarming"
+      "swarming",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -1781,10 +1818,16 @@
         "title": "SOCOM Plans MQ-9 Drone Mothership as Armed Overwatch Fleet Shrinks",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/30/socom-interested-in-developing-long-range-kamikaze-drones/",
+        "title": "SOCOM interested in developing long-range kamikaze drones",
+        "date": "2026-06-30",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-07-03"
   },
   {
     "pid": "PLT-0013",
@@ -1797,7 +1840,9 @@
       "one-way attack",
       "FPV",
       "acquisition",
-      "doctrine"
+      "doctrine",
+      "autonomy",
+      "counter-UAS"
     ],
     "sources": [
       {
@@ -1847,10 +1892,16 @@
         "title": "US Marine Corps tests using helicopter as mobile drone command center",
         "date": "2026-05-22",
         "site": "defensenews"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/sky-spy-and-orqa-demonstrate-portable-drone-based-sigint-system-during-nato-exercise/",
+        "title": "Sky Spy and Orqa demonstrate portable drone-based SIGINT system during NATO exercise",
+        "date": "2026-06-29",
+        "site": "unmannedairspace"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-29"
   },
   {
     "pid": "PLT-0014",
@@ -2029,10 +2080,16 @@
         "title": "US Air Force MQ-9 Reapers Gain Long-Range Precision Strike Capability",
         "date": "May 25, 2026",
         "site": "defensepost"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/25/trump-budget-supplemental-includes-billions-for-munitions-emerging-tech/",
+        "title": "Trump\u2019s budget supplemental would secure billions for munitions, emerging defense tech",
+        "date": "2026-06-25",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-29"
   },
   {
     "pid": "PLT-0015",
