@@ -17,7 +17,9 @@
       "General Atomics",
       "Kratos Defense",
       "Northrop Grumman",
-      "Textron Systems"
+      "Textron Systems",
+      "Saronic",
+      "AeroVironment"
     ],
     "tags": [
       "one-way attack",
@@ -179,9 +181,39 @@
         "title": "Pentagon turns to AI targeting to help troops shoot drones",
         "date": "2026-05-07",
         "site": "defensenews"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/trump-says-iranian-bomb-lodged-in-us-military-helicopter-didnt-explode/",
+        "title": "Trump recounts how Army pilots involved in helicopter crash and drone boat rescue were \u2018very lucky\u2019",
+        "date": "2026-06-10",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/wilsbach-famm-low-cost-cruise-missile-to-begin-production-this-fall/",
+        "title": "Wilsbach: FAMM low-cost cruise missile to begin production this fall",
+        "date": "2026-06-10",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/23/space-force-victus-haze-launch-rocket-lab/",
+        "title": "Space Force sets another record with rapid launch of Victus Haze mission",
+        "date": "2026-06-23",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+        "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/02/military-drone-oversight-office/",
+        "title": "Department of War Creates Central Office to Oversee U.S. Military Unmanned Systems",
+        "date": "2026-07-02",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0002",
@@ -412,9 +444,27 @@
         "title": "Pentagon eyes drone testing ground in Mississippi",
         "date": "2026-05-27",
         "site": "defensenews"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/11/senate-pushes-dod-to-create-new-combatant-command-for-unmanned-systems/",
+        "title": "Senate pushes DOD to create new combatant command for unmanned systems",
+        "date": "2026-06-11",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/12/federal-drone-policies-summer-2026/",
+        "title": "5 Federal Drone Policies Flying Under the Radar This Summer",
+        "date": "2026-06-12",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+        "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss",
+        "date": "2026-07-01",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0003",
@@ -436,7 +486,8 @@
       "DJI",
       "Kratos Defense",
       "Teledyne FLIR",
-      "Shield AI"
+      "Shield AI",
+      "Autel Robotics"
     ],
     "tags": [
       "C2",
@@ -1289,9 +1340,111 @@
         "title": "Congress Introduces GUARD Act, Extending FCC Covered List Framework to Robotics",
         "date": "2026-06-04",
         "site": "dronelife"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/12/sasc-proposes-reorganization-of-pentagons-it-cyber-leadership/",
+        "title": "SASC proposes reorganization of Pentagon\u2019s IT, cyber leadership",
+        "date": "2026-06-12",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/11/senate-pushes-dod-to-create-new-combatant-command-for-unmanned-systems/",
+        "title": "Senate pushes DOD to create new combatant command for unmanned systems",
+        "date": "2026-06-11",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/wilsbach-famm-low-cost-cruise-missile-to-begin-production-this-fall/",
+        "title": "Wilsbach: FAMM low-cost cruise missile to begin production this fall",
+        "date": "2026-06-10",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/12/federal-drone-policies-summer-2026/",
+        "title": "5 Federal Drone Policies Flying Under the Radar This Summer",
+        "date": "2026-06-12",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/12/adversarial-patents-act-drone-industry/",
+        "title": "Proposed Patent Bill Could Have Major Implications for Drone Industry Intellectual Property",
+        "date": "2026-06-12",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/11/pdw-drone-communications-resilience-vanteon-acquisition/",
+        "title": "DRONELIFE Exclusive Interview: Inside PDW\u2019s Strategy to Build Drones That Can Operate When GPS and Communications Fail",
+        "date": "2026-06-11",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/16/predictable-surprise-counter-uas-authority-faster-deployment/",
+        "title": "From \u201cPredictable Surprise\u201d to Policy Priority: The Push for Faster Counter-Drone Deployment",
+        "date": "2026-06-16",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/eurosatory-2026-openworks-announces-hgh-partnership-and-downselect-for-australian-c-uas-programme/",
+        "title": "Eurosatory 2026 \u2013 OpenWorks announces HGH partnership and downselect for Australian C-UAS programme",
+        "date": "2026-06-17",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/25/trump-budget-supplemental-includes-billions-for-munitions-emerging-tech/",
+        "title": "Trump\u2019s budget supplemental would secure billions for munitions, emerging defense tech",
+        "date": "2026-06-25",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/25/pentagon-pqc-strategy-post-quantum-cryptography/",
+        "title": "Uncertain quantum future presents \u2018existential threat\u2019 to US military missions, DOD warns",
+        "date": "2026-06-25",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/24/pentagon-casepoint-ai-products-enhance-classified-legal-ops/",
+        "title": "Pentagon taps Casepoint\u2019s AI products to enhance classified legal ops",
+        "date": "2026-06-24",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/25/autonomous-drone-inspection-software-percepto/",
+        "title": "Beyond the Drone: Percepto\u2019s New Platform Brings AI to Infrastructure Inspections",
+        "date": "2026-06-25",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/24/prodrone-debuts-all-japanese-industrial-drone/",
+        "title": "Prodrone Debuts All-Japanese Industrial Drone",
+        "date": "2026-06-24",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/air-force-space-force-combine-ai-tools-in-battle-management-experiment/",
+        "title": "Air Force, Space Force combine multiple AI tools in latest battle management experiment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/01/faa-section-2209-rule-comment-period/",
+        "title": "Nearly One Million Comments Underscore Stakes of FAA\u2019s Section 2209 Rule",
+        "date": "2026-07-01",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/01/fy27-ndaa-military-drones/",
+        "title": "House FY27 NDAA Signals Drones Have Become Core Military Infrastructure",
+        "date": "2026-07-01",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-government-gives-wider-responsibilities-to-local-authorities-for-c-uas-training-certification/",
+        "title": "US government gives wider responsibilities to local authorities for C-UAS training, certification",
+        "date": "2026-07-02",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0004",
@@ -1466,7 +1619,8 @@
       "swarming",
       "FPV",
       "one-way attack",
-      "doctrine"
+      "doctrine",
+      "mesh network"
     ],
     "sources": [
       {
@@ -1630,9 +1784,39 @@
         "title": "US Army turns resupply drone into rocket launcher in new test",
         "date": "2026-05-28",
         "site": "defensenews"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/11/senate-pushes-dod-to-create-new-combatant-command-for-unmanned-systems/",
+        "title": "Senate pushes DOD to create new combatant command for unmanned systems",
+        "date": "2026-06-11",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/picogrid-open-systems-integration-tech-connects-ukrainian-c-uas-interceptors-into-us-air-defence-systems/",
+        "title": "Picogrid open-systems integration tech \u201cconnects Ukrainian C-UAS interceptors into US air defence systems\u201d",
+        "date": "2026-06-11",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/pentagon-awards-500m-contract-aerovironment-counter-drone-technology/",
+        "title": "Pentagon awards $500M contract for counter-drone tech to AeroVironment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+        "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/02/military-drone-oversight-office/",
+        "title": "Department of War Creates Central Office to Oversee U.S. Military Unmanned Systems",
+        "date": "2026-07-02",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0006",
@@ -1654,7 +1838,9 @@
       "counter-UAS",
       "autonomy",
       "electronic warfare",
-      "swarming"
+      "swarming",
+      "one-way attack",
+      "mesh network"
     ],
     "sources": [
       {
@@ -1722,9 +1908,21 @@
         "title": "US government approves sale of C-UAS systems worth USD1.98 million to Kuwait",
         "date": "2026-06-08",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/12/defense-companies-built-drone-killer-robot-at-army-operation-jailbreak/",
+        "title": "Two days, one drone killer: How defense companies built a wheeled counter-UAS robot at the Army\u2019s Operation Jailbreak",
+        "date": "2026-06-12",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/picogrid-open-systems-integration-tech-connects-ukrainian-c-uas-interceptors-into-us-air-defence-systems/",
+        "title": "Picogrid open-systems integration tech \u201cconnects Ukrainian C-UAS interceptors into US air defence systems\u201d",
+        "date": "2026-06-11",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-06-08"
+    "last_updated": "2026-06-14"
   },
   {
     "pgid": "PGM-0007",
@@ -2176,9 +2374,21 @@
         "title": "COUNTER Act and Secure Our Skies: New Mexico Congressman Pushes New Drone Bills",
         "date": "2026-04-10",
         "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/16/predictable-surprise-counter-uas-authority-faster-deployment/",
+        "title": "From \u201cPredictable Surprise\u201d to Policy Priority: The Push for Faster Counter-Drone Deployment",
+        "date": "2026-06-16",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-government-gives-wider-responsibilities-to-local-authorities-for-c-uas-training-certification/",
+        "title": "US government gives wider responsibilities to local authorities for C-UAS training, certification",
+        "date": "2026-07-02",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-04-11"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0010",
@@ -2202,7 +2412,8 @@
       "electronic warfare",
       "swarming",
       "DIU",
-      "LUCAS"
+      "LUCAS",
+      "NDAA"
     ],
     "sources": [
       {
@@ -2270,9 +2481,15 @@
         "title": "House lawmakers propose $1.3 billion for Pentagon innovation",
         "date": "2024-06-04",
         "site": "defensenews"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/11/senate-pushes-dod-to-create-new-combatant-command-for-unmanned-systems/",
+        "title": "Senate pushes DOD to create new combatant command for unmanned systems",
+        "date": "2026-06-11",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-01",
+    "last_updated": "2026-06-14",
     "history": {
       "launched": "2023-08-28 (DepSecDef Kathleen Hicks, NDIA Emerging Tech conf)",
       "objective": "Rapidly field multiple thousands of attritable autonomous systems across domains; ~$1B over 2 FYs; 18-24 month delivery",
@@ -2382,9 +2599,15 @@
         "title": "The truly spooky munitions shortage for the Pentagon: Silver bullets",
         "date": "2024-10-31",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/air-force-space-force-combine-ai-tools-in-battle-management-experiment/",
+        "title": "Air Force, Space Force combine multiple AI tools in latest battle management experiment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-03-23"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0013",
@@ -2418,14 +2641,17 @@
     "name": "DAWG",
     "participants": [
       "Anduril Industries",
-      "DroneShield"
+      "DroneShield",
+      "AeroVironment"
     ],
     "tags": [
       "autonomy",
       "AI",
       "acquisition",
       "counter-UAS",
-      "electronic warfare"
+      "electronic warfare",
+      "NDAA",
+      "swarming"
     ],
     "sources": [
       {
@@ -2439,9 +2665,33 @@
         "title": "Global spending on counter-UAS systems will reach USD12.6 billion this year",
         "date": "2026-06-03",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/11/senate-pushes-dod-to-create-new-combatant-command-for-unmanned-systems/",
+        "title": "Senate pushes DOD to create new combatant command for unmanned systems",
+        "date": "2026-06-11",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/15/lawmaker-questions-pentagons-plan-to-revise-autonomous-weapons-policy/",
+        "title": "Senator questions Pentagon\u2019s plan to revise autonomous weapons policy",
+        "date": "2026-06-15",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+        "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/02/military-drone-oversight-office/",
+        "title": "Department of War Creates Central Office to Oversee U.S. Military Unmanned Systems",
+        "date": "2026-07-02",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-07-03"
   },
   {
     "pgid": "PGM-0015",
@@ -2461,5 +2711,41 @@
       }
     ],
     "last_updated": "2026-05-05"
+  },
+  {
+    "pgid": "PGM-0016",
+    "name": "ABMS",
+    "participants": [],
+    "tags": [
+      "AI",
+      "C2"
+    ],
+    "sources": [
+      {
+        "url": "https://defensescoop.com/2026/07/02/air-force-space-force-combine-ai-tools-in-battle-management-experiment/",
+        "title": "Air Force, Space Force combine multiple AI tools in latest battle management experiment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      }
+    ],
+    "last_updated": "2026-07-03"
+  },
+  {
+    "pgid": "PGM-0017",
+    "name": "Orchestrator",
+    "participants": [],
+    "tags": [
+      "AI",
+      "C2"
+    ],
+    "sources": [
+      {
+        "url": "https://defensescoop.com/2026/07/02/air-force-space-force-combine-ai-tools-in-battle-management-experiment/",
+        "title": "Air Force, Space Force combine multiple AI tools in latest battle management experiment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      }
+    ],
+    "last_updated": "2026-07-03"
   }
 ]

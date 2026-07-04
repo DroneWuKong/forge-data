@@ -351,7 +351,8 @@
       "electronic warfare",
       "autonomy",
       "GPS-denied",
-      "swarming"
+      "swarming",
+      "NDAA"
     ],
     "sources": [
       {
@@ -401,9 +402,21 @@
         "title": "Pentagon Tests Ukraine-Style Drone Swarm Attack in Florida, Exposing Gaps in US Defenses",
         "date": "Apr 25, 2026 17:59 3 min read",
         "site": "united24"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/11/hoverair-uk-launch-consumer-drone-market-us/",
+        "title": "HOVERAir\u2019s UK Launch Raises a Bigger Question: Who Will Serve America\u2019s Consumer Drone Market?",
+        "date": "2026-06-11",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/10/airdata-uav-and-leosight-bring-live-drone-data-for-dfr-programs/",
+        "title": "AirData UAV and LeoSight Bring Live Drone Data for DFR Programs",
+        "date": "2026-06-10",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-04-26"
+    "last_updated": "2026-06-14"
   },
   {
     "cid": "CMP-0010",
@@ -912,9 +925,15 @@
         "title": "Lockheed Martin uses containerized, integrated C-UAS launcher system to down Group 3 attack drone",
         "date": "2026-06-03",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/24/boeing-awarded-space-force-contract-muos-satellites/",
+        "title": "Boeing awarded $2B deal to build next-gen comms sats for Space Force",
+        "date": "2026-06-24",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-29",
     "countries": [
       "USA"
     ]
@@ -1235,9 +1254,15 @@
         "title": "The New Era of Air and Missile Defense",
         "date": "2026-05-14",
         "site": "warontherocks"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/navy-seeks-new-radar-killer-missiles/",
+        "title": "Navy seeks new radar-killer missiles",
+        "date": "2026-07-02",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-01",
+    "last_updated": "2026-07-03",
     "countries": [
       "USA"
     ]
@@ -1269,7 +1294,8 @@
       "loitering munition",
       "FPV",
       "VTOL",
-      "attritable"
+      "attritable",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -1523,9 +1549,45 @@
         "title": "US government approves sale of C-UAS systems worth USD1.98 million to Kuwait",
         "date": "2026-06-08",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/12/defense-companies-built-drone-killer-robot-at-army-operation-jailbreak/",
+        "title": "Two days, one drone killer: How defense companies built a wheeled counter-UAS robot at the Army\u2019s Operation Jailbreak",
+        "date": "2026-06-12",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/wilsbach-famm-low-cost-cruise-missile-to-begin-production-this-fall/",
+        "title": "Wilsbach: FAMM low-cost cruise missile to begin production this fall",
+        "date": "2026-06-10",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/anduril-to-supply-us-customs-and-border-protection-with-200-extended-range-sentry-towers/",
+        "title": "Anduril to supply US Customs and Border Protection with 200 Extended Range Sentry Towers",
+        "date": "2026-06-14",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/aws-anduril-debut-new-tactical-data-center-cloud-offering/",
+        "title": "AWS, Anduril debut new tactical data center offering listed on DOD\u2019s cloud marketplace",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/30/socom-interested-in-developing-long-range-kamikaze-drones/",
+        "title": "SOCOM interested in developing long-range kamikaze drones",
+        "date": "2026-06-30",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/30/trump-administration-announces-war-force-effort/",
+        "title": "Trump administration announces \u2018War Force\u2019 effort",
+        "date": "2026-06-30",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-08"
+    "last_updated": "2026-07-03"
   },
   {
     "cid": "CMP-0013",
@@ -1887,9 +1949,27 @@
         "title": "Combatant commanders tour SNC\u2019s Rocky Mountain Campus for updates on C2, comms protocols",
         "date": "2026-06-02",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/26/army-establishes-new-branch-dedicated-to-space-operations/",
+        "title": "Army establishes new branch dedicated to space operations",
+        "date": "2026-06-26",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/24/boeing-awarded-space-force-contract-muos-satellites/",
+        "title": "Boeing awarded $2B deal to build next-gen comms sats for Space Force",
+        "date": "2026-06-24",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/navy-seeks-new-radar-killer-missiles/",
+        "title": "Navy seeks new radar-killer missiles",
+        "date": "2026-07-02",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-07-03",
     "countries": [
       "USA"
     ]
@@ -2040,9 +2120,45 @@
         "title": "Drone integration demonstration set for Lanseria International Airport",
         "date": "2026-06-08",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/12/adversarial-patents-act-drone-industry/",
+        "title": "Proposed Patent Bill Could Have Major Implications for Drone Industry Intellectual Property",
+        "date": "2026-06-12",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/11/hoverair-uk-launch-consumer-drone-market-us/",
+        "title": "HOVERAir\u2019s UK Launch Raises a Bigger Question: Who Will Serve America\u2019s Consumer Drone Market?",
+        "date": "2026-06-11",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/10/airdata-uav-and-leosight-bring-live-drone-data-for-dfr-programs/",
+        "title": "AirData UAV and LeoSight Bring Live Drone Data for DFR Programs",
+        "date": "2026-06-10",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/uncategorized/new-commercial-drone-market-forecasts-suggest-huge-potential-but-regulations-continue-to-hamper-growth/",
+        "title": "New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth",
+        "date": "2026-06-16",
+        "site": "unmannedairspace"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/24/prodrone-debuts-all-japanese-industrial-drone/",
+        "title": "Prodrone Debuts All-Japanese Industrial Drone",
+        "date": "2026-06-24",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/24/uruguayan-government-announces-new-drone-dispatch-program/",
+        "title": "Uruguayan Government Announces New Drone Dispatch Program",
+        "date": "2026-06-24",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-29",
     "countries": [
       "China"
     ]
@@ -2324,9 +2440,15 @@
         "title": "Hegseth launches \u2018patriot pipeline\u2019 portal",
         "date": "2026-06-04",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/l3-harris-to-provide-us-army-with-vampire-c-uas-interceptors-in-usd106-million-deal/",
+        "title": "L3 Harris to provide US Army with VAMPIRE C-UAS interceptors in USD106 million deal",
+        "date": "2026-06-14",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-06-15"
   },
   {
     "cid": "CMP-0017",
@@ -2338,7 +2460,9 @@
       "Drone Dominance",
       "JIATF-401",
       "Lattice",
-      "Replicator"
+      "Replicator",
+      "DAWG",
+      "DIU"
     ],
     "tags": [
       "C2",
@@ -2505,9 +2629,51 @@
         "title": "Containerized Variant Of Navy\u2019s Drone-Swatting HELIOS Laser Being Pushed By Congress",
         "date": "2026-05-29",
         "site": "twz"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/pentagon-awards-500m-contract-aerovironment-counter-drone-technology/",
+        "title": "Pentagon awards $500M contract for counter-drone tech to AeroVironment",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/02/navy-seeks-new-radar-killer-missiles/",
+        "title": "Navy seeks new radar-killer missiles",
+        "date": "2026-07-02",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+        "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/07/01/aws-anduril-debut-new-tactical-data-center-cloud-offering/",
+        "title": "AWS, Anduril debut new tactical data center offering listed on DOD\u2019s cloud marketplace",
+        "date": "2026-07-01",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/30/socom-interested-in-developing-long-range-kamikaze-drones/",
+        "title": "SOCOM interested in developing long-range kamikaze drones",
+        "date": "2026-06-30",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/30/trump-administration-announces-war-force-effort/",
+        "title": "Trump administration announces \u2018War Force\u2019 effort",
+        "date": "2026-06-30",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/aerovironment-awarded-usd-500m-us-army-contract/",
+        "title": "AeroVironment awarded USD 500M US Army contract",
+        "date": "2026-07-03",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-06-01",
+    "last_updated": "2026-07-03",
     "countries": [
       "USA"
     ]
@@ -2615,9 +2781,15 @@
         "title": "How a Crowdfunded Ukrainian Satellite Became a Nightmare for Russia\u2019s War Machine",
         "date": "May 27, 2026 13:50 Updated May 27, 2026 14:28 4 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://militarnyi.com/en/news/leonardo-and-baykar-test-control-of-kizilelma-ucav-from-m-346/?utm_source=rss&utm_medium=rss&utm_campaign=leonardo-and-baykar-test-control-of-kizilelma-ucav-from-m-346",
+        "title": "Leonardo and Baykar Test Control of KIZILELMA UCAV From M-346",
+        "date": "2026-06-28",
+        "site": "militarnyi"
       }
     ],
-    "last_updated": "2026-05-27"
+    "last_updated": "2026-06-29"
   },
   {
     "cid": "CMP-0019",
@@ -3131,9 +3303,15 @@
         "title": "Hundreds of drone incursions reported at military installations over past few years: NORTHCOM",
         "date": "2024-10-29",
         "site": "breakingdefense"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/24/pentagon-casepoint-ai-products-enhance-classified-legal-ops/",
+        "title": "Pentagon taps Casepoint\u2019s AI products to enhance classified legal ops",
+        "date": "2026-06-24",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-03-23"
+    "last_updated": "2026-06-29"
   },
   {
     "cid": "CMP-0024",
@@ -3275,9 +3453,15 @@
         "title": "Global spending on counter-UAS systems will reach USD12.6 billion this year",
         "date": "2026-06-03",
         "site": "unmannedairspace"
+      },
+      {
+        "url": "https://www.unmannedairspace.info/counter-uas-systems-and-policies/eurosatory-2026-droneshield-extends-c-uas-partnerships-adding-parsons-corp-and-defenture/",
+        "title": "Eurosatory 2026 \u2013 DroneShield extends C-UAS partnerships, adding Parsons Corp and Defenture",
+        "date": "2026-06-17",
+        "site": "unmannedairspace"
       }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-06-17"
   },
   {
     "cid": "CMP-0026",
@@ -3350,7 +3534,8 @@
     "name": "Saronic",
     "programs": [
       "CCA",
-      "Drone Dominance"
+      "Drone Dominance",
+      "DIU"
     ],
     "tags": [
       "C2",
@@ -3407,9 +3592,15 @@
         "title": "Transcom leaders briefed on recent West Coast maritime drone demo",
         "date": "2026-06-03",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://defensescoop.com/2026/06/10/trump-says-iranian-bomb-lodged-in-us-military-helicopter-didnt-explode/",
+        "title": "Trump recounts how Army pilots involved in helicopter crash and drone boat rescue were \u2018very lucky\u2019",
+        "date": "2026-06-10",
+        "site": "defensescoop"
       }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-06-14"
   },
   {
     "cid": "CMP-0028",
@@ -3498,9 +3689,21 @@
         "title": "Teledyne Releases New AI Software for Sub-Pixel Drone Detection",
         "date": "",
         "site": "defensepost"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/10/teledyne-flir-boson-sx8-ndaa-compliant-thermal-camera/",
+        "title": "New Boson SX8 Brings High-Resolution Thermal Imaging to NDAA-Compliant Drone Payloads",
+        "date": "2026-06-10",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/07/01/world-first-drone-mouse-eradication-passes-six-month-check-on-browse-island/",
+        "title": "World-First Drone Mouse Eradication Passes Six-Month Check on Browse Island",
+        "date": "2026-07-01",
+        "site": "dronelife"
       }
     ],
-    "last_updated": "2026-05-05"
+    "last_updated": "2026-07-03"
   },
   {
     "cid": "CMP-0029",
@@ -4963,5 +5166,30 @@
     ],
     "data_source": "market intel 2026-05 (Ondas Autonomous Systems = American Robotics 'Optimus' + Airobotics + Iron Drone 'Raider' c-UAS; FY rev guidance >=$390M, backlog ~$457M, ~$1.03B cash)",
     "last_updated": "2026-06-01"
+  },
+  {
+    "cid": "CMP-0134",
+    "name": "Autel Robotics",
+    "programs": [
+      "ACT"
+    ],
+    "tags": [
+      "NDAA"
+    ],
+    "sources": [
+      {
+        "url": "https://dronelife.com/2026/06/12/adversarial-patents-act-drone-industry/",
+        "title": "Proposed Patent Bill Could Have Major Implications for Drone Industry Intellectual Property",
+        "date": "2026-06-12",
+        "site": "dronelife"
+      },
+      {
+        "url": "https://dronelife.com/2026/06/10/airdata-uav-and-leosight-bring-live-drone-data-for-dfr-programs/",
+        "title": "AirData UAV and LeoSight Bring Live Drone Data for DFR Programs",
+        "date": "2026-06-10",
+        "site": "dronelife"
+      }
+    ],
+    "last_updated": "2026-06-14"
   }
 ]
