@@ -5338,7 +5338,7 @@
     "description": "Where Precision Meets Possibility - RadioMaster AX12 Android Radio Controller.",
     "link": "https://www.getfpv.com/radiomaster-ax12-radio-controller-elrs-2-4ghz.html",
     "image_file": "",
-    "approx_price": 389.99,
+    "approx_price": 29.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24325CN1Z",
@@ -5364,7 +5364,7 @@
     "description": "The RadioMaster TX16S MK3 MAX Radio Controller builds on the globally trusted TX16S legacy, continuing its commitment to open-source RC innovation.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mk3-max-radio-controller-elrs-dual-band.html",
     "image_file": "",
-    "approx_price": 389.99,
+    "approx_price": 299.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24216CN1Z",
@@ -5389,7 +5389,7 @@
     "description": "RadioMaster TX16S MK3 Radio Controller - ELRS Dual-Band continues to lead open-source RC innovation, building on the trusted global legacy of the TX16S series.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mk3-radio-controller-elrs-dual-band.html",
     "image_file": "",
-    "approx_price": 389.99,
+    "approx_price": 310.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24203CN1Z",
@@ -5441,7 +5441,7 @@
     "description": "Lumenier has officially teamed up with RadioMaster to bring you the Lumenier Edition TX16S MKII MAX PRO Radio Transmitter.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mkii-max-pro-radio-transmitter-w-ag01-gimbals-lumenier-edition-elrs-2-4ghz.html",
     "image_file": "",
-    "approx_price": 139.99,
+    "approx_price": 649.98,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "22574",
@@ -5590,5 +5590,111 @@
     "source": "getfpv.com",
     "origin": "Croatia",
     "ndaa_compliant": true
+  },
+  {
+    "name": "GEPRC ELRS Dual 915M PA500 True Diversity Receiver - 915MHz",
+    "manufacturer": "ELRS",
+    "description": "Boost your signal reliability with the GEPRC Dual 915M PA500 True Diversity Receiver, powered by the open-source ExpressLRS project.",
+    "link": "https://www.getfpv.com/geprc-elrs-dual-915m-pa500-diversity-receiver-915mhz.html",
+    "image_file": "",
+    "approx_price": 213.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24708CN1Z",
+      "UPC (GTIN)": "723326381232",
+      "Manufacturer": "GEPRC",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Radio Receiver Protocol": "ELRS",
+      "RX Frequency": "915MHz",
+      "Antenna Mode": "True Diversity",
+      "Antenna Connector / Length": "IPEX-1",
+      "Antenna Frequency": "915/868MHz"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1014",
+    "source": "getfpv.com",
+    "origin": "Unknown",
+    "ndaa_compliant": null
+  },
+  {
+    "name": "RadioMaster GX15 Max Radio Controller - ELRS 2.4GHz M2",
+    "manufacturer": "RadioMaster",
+    "description": "RadioMaster proudly presents the new GX15 MAX Radio Controller! Available in multiple colors -- designed to inspire and excite.",
+    "link": "https://www.getfpv.com/radiomaster-gx15-max-radio-controller-elrs-2-4ghz-m2.html",
+    "image_file": "",
+    "approx_price": 389.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G25123CN1Z",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size",
+      "Radio Protocol": "ExpressLRS"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1015",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "RadioMaster GX15 Radio Controller - ELRS 2.4GHz M2",
+    "manufacturer": "RadioMaster",
+    "description": "RadioMaster proudly presents the new GX15\u00a0radio transmitter! Available in multiple colors -- designed to inspire and excite.",
+    "link": "https://www.getfpv.com/radiomaster-gx15-radio-controller-elrs-2-4ghz-m2.html",
+    "image_file": "",
+    "approx_price": 269.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G25115CN1Z",
+      "Manufacturer": "RadioMaster",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1016",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "FrSky Tandem X20RS Radio Transmitter - Olive Drab",
+    "manufacturer": "FrSky",
+    "description": "The FrSky Tandem X20RS represents the flagship of the ETHOS transmitter lineup and is now available in a limited-edition matte Olive Drab (Army Green) finish.",
+    "link": "https://www.getfpv.com/frsky-tandem-x20rs-radio-transmitter-olive-drab.html",
+    "image_file": "",
+    "approx_price": 29.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G24656CN1Z",
+      "UPC (GTIN)": "723326381720",
+      "Manufacturer": "FrSky",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "900MHz/2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1017",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
   }
 ]
