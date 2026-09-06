@@ -2,7 +2,7 @@
 
 Static JSON API serving the [Prismo](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
 
-**4,543 components** across 46 categories + **335 drone platforms**.
+**4,621 components** across 46 categories + **342 drone platforms**.
 
 ---
 
@@ -55,17 +55,17 @@ GET /circuit_forge_kb.json
 | `build_guides` | 3 | Step-by-step assembly guides |
 | `c2_datalinks` | 14 | Command & control datalinks |
 | `companion_computers` | 25 | Onboard companion computers |
-| `control_link_tx` | 134 | Control link transmitters |
+| `control_link_tx` | 138 | Control link transmitters |
 | `counter_uas` | 26 | Counter-UAS systems |
-| `drone_models` | 330 | Complete drone platforms |
+| `drone_models` | 342 | Complete drone platforms |
 | `esad` | 12 | Electronic safe & arm devices |
 | `escs` | 165 | Electronic speed controllers |
 | `ew_systems` | 14 | Electronic warfare systems |
 | `fiber_kits` | 8 | Fiber-optic control kits |
 | `flight_controllers` | 328 | Flight controller boards |
-| `fpv_cameras` | 387 | FPV and payload cameras |
+| `fpv_cameras` | 422 | FPV and payload cameras |
 | `fpv_detectors` | 30 | FPV signal detectors |
-| `frames` | 632 | Drone frames and kits |
+| `frames` | 635 | Drone frames and kits |
 | `gimbals` | 12 | Camera gimbals |
 | `gps_modules` | 78 | GPS/GNSS receivers |
 | `ground_control_stations` | 14 | Ground control stations |
@@ -78,14 +78,14 @@ GET /circuit_forge_kb.json
 | `motors` | 303 | Brushless motors |
 | `navigation_pnt` | 13 | Navigation / PNT systems |
 | `optical_flow` | 16 | Optical flow sensors |
-| `payload_droppers` | 12 | Payload release mechanisms |
+| `payload_droppers` | 11 | Payload release mechanisms |
 | `platform_images` | 0 | Platform image lookup (asset) |
 | `power_modules` | 8 | Power distribution / sensing modules |
 | `propellers` | 484 | Props across all sizes |
 | `propulsion` | 17 | Propulsion systems |
 | `receivers` | 359 | RC receivers |
 | `remote_id` | 7 | Remote ID modules |
-| `sensors` | 44 | Misc sensors |
+| `sensors` | 64 | Misc sensors |
 | `simulators` | 21 | Flight simulators |
 | `stacks` | 115 | FC + ESC stack combos |
 | `swarm_software` | 10 | Swarm coordination software |
@@ -93,11 +93,11 @@ GET /circuit_forge_kb.json
 | `thermal_cameras` | 43 | Thermal imaging cameras |
 | `uas_nexus_syndicate` | 1 | UAS Nexus Syndicate reference |
 | `video_scramblers` | 5 | Video scramblers |
-| `video_transmitters` | 131 | Analog and digital VTx |
+| `video_transmitters` | 136 | Analog and digital VTx |
 
 ## Platforms
 
-335 drone platforms with public specs, compliance data, and manufacturer info. Contract details, funding data, and operational intelligence are excluded from this public dataset.
+342 drone platforms with public specs, compliance data, and manufacturer info. Contract details, funding data, and operational intelligence are excluded from this public dataset.
 
 ---
 
