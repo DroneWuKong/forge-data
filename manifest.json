@@ -1,10 +1,10 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-09-06",
   "platforms": {
     "file": "platforms/platforms.json",
-    "count": 335
+    "count": 342
   },
   "parts": {
     "ai_accelerators": {
@@ -37,7 +37,7 @@
     },
     "control_link_tx": {
       "file": "parts/control_link_tx.json",
-      "count": 134
+      "count": 138
     },
     "counter_uas": {
       "file": "parts/counter_uas.json",
@@ -45,7 +45,7 @@
     },
     "drone_models": {
       "file": "parts/drone_models.json",
-      "count": 335
+      "count": 342
     },
     "esad": {
       "file": "parts/esad.json",
@@ -69,7 +69,7 @@
     },
     "fpv_cameras": {
       "file": "parts/fpv_cameras.json",
-      "count": 387
+      "count": 422
     },
     "fpv_detectors": {
       "file": "parts/fpv_detectors.json",
@@ -77,7 +77,7 @@
     },
     "frames": {
       "file": "parts/frames.json",
-      "count": 632
+      "count": 635
     },
     "gimbals": {
       "file": "parts/gimbals.json",
@@ -157,7 +157,7 @@
     },
     "sensors": {
       "file": "parts/sensors.json",
-      "count": 44
+      "count": 64
     },
     "simulators": {
       "file": "parts/simulators.json",
@@ -189,11 +189,11 @@
     },
     "video_transmitters": {
       "file": "parts/video_transmitters.json",
-      "count": 131
+      "count": 136
     }
   },
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4547
+  "total_parts": 4621
 }
