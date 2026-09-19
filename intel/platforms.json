@@ -31,7 +31,8 @@
       "loitering munition",
       "doctrine",
       "attritable",
-      "VTOL"
+      "VTOL",
+      "NDAA"
     ],
     "sources": [
       {
@@ -1071,10 +1072,196 @@
         "title": "Memo outlines new policies for military families affected by war-triggered evacuation from Bahrain",
         "date": "2026-09-01",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster/",
+        "title": "After \u2018concerning\u2019 losses, Air Force pushes to replace Reaper faster",
+        "date": "2026-09-03",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
+        "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+        "date": "2026-09-09",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/pentagons-1-5b-reprogramming-would-shift-money-to-ai-center-mv-75-tiltrotor/",
+        "title": "Pentagon\u2019s $1.5B reprogramming would shift money to AI center, MV-75 tiltrotor",
+        "date": "2026-09-09",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
+        "title": "First Look At General Atomics\u2019 Wildfire, Its Successor To The MQ-9 Reaper (Updated)",
+        "date": "2026-09-09",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/saudis-remaining-energy-lifeline-to-the-world-under-threat-after-successful-houthi-strikes",
+        "title": "Saudi\u2019s Remaining Energy Lifeline To The World Under Threat After Successful Houthi Strikes (Updated)",
+        "date": "2026-09-08",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/08/media-trust-ai-phishing/",
+        "title": "Phishing Campaign Targets 99% of US Military Bases During Heightened US-Iran Tensions",
+        "date": "September 8, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://united24media.com/world/us-patriot-batteries-go-into-machine-gun-mode-against-iranian-ballistic-missile-attack-video-22399",
+        "title": "US Patriot Batteries Go Into \u201cMachine-Gun Mode\u201d Against Iranian Ballistic Missile Attack, Video",
+        "date": "Sep 09, 2026 14:01 Updated Sep 09, 2026 16:08 3 min read Prefer U24 Media on Google",
+        "site": "united24"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/08/us-militarys-anduril-dive-ld-drone-captured-by-iran/",
+        "title": "U.S. military\u2019s Anduril Dive-LD drone was \u2018dead in the water\u2019 before Iran nabbed it",
+        "date": "2026-09-08",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger",
+        "title": "Houthis\u2019 Stranglehold On Strategic Bab Al-Mandab Strait Grows Stronger",
+        "date": "2026-09-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
+        "title": "The Outlook Is Getting Grimmer By The Day For Oil Exports From The Red Sea",
+        "date": "2026-09-11",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/vengeance-and-fury-us-air-force-names-new-ccas-amid-ambitious-production-goal/",
+        "title": "Vengeance and Fury: US Air Force names new CCAs amid ambitious production goal",
+        "date": "2026-09-14",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/",
+        "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
+        "date": "2026-09-14",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://www.twz.com/air/andurils-yfq-44a-fury-cca-has-flown-alongside-f-35s",
+        "title": "Anduril\u2019s YFQ-44A Fury CCA Has Flown Alongside F-35s",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/airmen-under-fire-stories-from-iranian-barrages-on-u-s-bases",
+        "title": "Airmen Under Fire: Stories From Iranian Barrages On U.S. Bases",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/fleet-of-at-least-500-collaborative-combat-aircraft-by-2032-now-in-usafs-plans",
+        "title": "Fleet Of At Least 500 Collaborative Combat Aircraft By 2032 Now In USAF\u2019s Plans",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/everything-we-just-learned-about-the-vectis-collaborative-combat-aircraft-from-the-skunk-works",
+        "title": "Everything We Just Learned About The Vectis Collaborative Combat Aircraft From The Skunk Works",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.dailysabah.com/world/europe/fury-after-russian-strike-on-ukraine-train-nearly-catches-dignitaries",
+        "title": "Fury after Russian strike on Ukraine train nearly catches dignitaries",
+        "date": "2026-09-14",
+        "site": "dailysabah"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/14/air-force-plans-to-field-500-cca-drones-by-2032/",
+        "title": "Air Force plans to field 500 CCA drones by 2032",
+        "date": "2026-09-14",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
+        "title": "Tanker fleet modernization will continue for decades, US Air Force officials say",
+        "date": "2026-09-15",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
+        "title": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
+        "date": "2026-09-15",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
+        "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+        "date": "2026-09-15",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
+        "title": "F-35 proved combat readiness during Middle East deployments, Air Force officials say",
+        "date": "2026-09-15",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/usafs-fighter-drones-to-make-debut-in-a-large-scale-exercise",
+        "title": "USAF\u2019s Fighter Drones To Make Debut In A Large Scale Exercise",
+        "date": "2026-09-15",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/space/new-details-on-how-space-force-has-waged-electronic-warfare-against-iran",
+        "title": "New Details On How Space Force Has Waged Electronic Warfare Against Iran",
+        "date": "2026-09-15",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/yfq-44a-fury-has-been-fit-checked-with-air-to-ground-munitions",
+        "title": "YFQ-44A Fury Has Been Fit Checked With Air-To-Ground Munitions",
+        "date": "2026-09-15",
+        "site": "twz"
+      },
+      {
+        "url": "https://defence-blog.com/anduril-shows-off-new-weapons-for-its-fury-fighter-drone/",
+        "title": "Anduril shows off new weapons for its Fury \u2018fighter drone\u2019",
+        "date": "2026-09-16",
+        "site": "defence_blog"
+      },
+      {
+        "url": "https://www.twz.com/air/how-the-air-force-patched-up-a-shrapnel-damaged-kc-135",
+        "title": "How The Air Force Patched Up A Shrapnel-Damaged KC-135",
+        "date": "2026-09-16",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/usaf-assessing-feasibility-of-restarting-c-17-production-as-part-of-its-future-airlift-vision",
+        "title": "USAF Assessing Feasibility Of Restarting C-17 Production As Part Of Its Future Airlift Vision",
+        "date": "2026-09-16",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/how-the-air-force-is-preparing-for-allied-ccas-to-join-the-fight",
+        "title": "How The USAF Is Preparing For European Allies To Join The Collaborative Combat Aircraft Club",
+        "date": "2026-09-16",
+        "site": "twz"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
+        "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
+        "date": "2026-09-16",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.twz.com/sea/usmc-used-its-expeditionary-operations-playbook-in-combat-for-first-time-during-epic-fury",
+        "title": "USMC Used Its Expeditionary Operations Playbook In Combat For First Time During Epic Fury",
+        "date": "2026-09-17",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0002",
@@ -1191,7 +1378,8 @@
       "doctrine",
       "one-way attack",
       "swarming",
-      "VTOL"
+      "VTOL",
+      "attritable"
     ],
     "sources": [
       {
@@ -1349,10 +1537,40 @@
         "title": "Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital",
         "date": "2026-08-29",
         "site": "twz"
+      },
+      {
+        "url": "https://defence-blog.com/japan-weighs-ghost-bat-drone-for-its-coastal-defense-plan/",
+        "title": "Japan weighs Ghost Bat drone for its coastal defense plan",
+        "date": "2026-09-07",
+        "site": "defence_blog"
+      },
+      {
+        "url": "https://www.twz.com/sea/everything-we-know-about-the-u-s-navys-submersible-drone-iran-just-captured",
+        "title": "Everything We Know About The U.S. Navy\u2019s Submersible Drone Iran Just Captured",
+        "date": "2026-09-08",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+        "title": "Iran likely to reverse-engineer captured US underwater drone",
+        "date": "2026-09-10",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/air/usafs-fighter-drones-to-make-debut-in-a-large-scale-exercise",
+        "title": "USAF\u2019s Fighter Drones To Make Debut In A Large Scale Exercise",
+        "date": "2026-09-15",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/pentagon-cuts-new-aim-260-air-to-air-missile-production-deal-testing-accelerating",
+        "title": "Pentagon Cuts New AIM-260 Air-To-Air Missile Production Deal, Testing Accelerating",
+        "date": "2026-09-17",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0004",
@@ -1428,7 +1646,8 @@
       "counter-UAS",
       "electronic warfare",
       "swarming",
-      "one-way attack"
+      "one-way attack",
+      "attritable"
     ],
     "sources": [
       {
@@ -1574,10 +1793,34 @@
         "title": "China\u2019s Huge WZ-X Stealth Drone\u2019s Strange Wing Configuration Confirmed",
         "date": "2026-09-04",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/sponsored-content/u-s-nuclear-control-mission-could-dramatically-evolve-under-looking-glass-next",
+        "title": "U.S. Nuclear Control Mission Could Dramatically Evolve Under Looking Glass-Next",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/everything-we-just-learned-about-the-vectis-collaborative-combat-aircraft-from-the-skunk-works",
+        "title": "Everything We Just Learned About The Vectis Collaborative Combat Aircraft From The Skunk Works",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
+        "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
+        "date": "2026-09-17",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/17/us-b21-hangar-whiteman/",
+        "title": "Conti, Kight to Build B-21 Stealth Bomber Hangar at Whiteman Base",
+        "date": "September 17, 2026",
+        "site": "defensepost"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0006",
@@ -1587,7 +1830,8 @@
       "JIATF-401",
       "ACT",
       "CCA",
-      "Golden Dome"
+      "Golden Dome",
+      "DIU"
     ],
     "tags": [
       "acquisition",
@@ -1601,7 +1845,8 @@
       "C2",
       "autonomy",
       "VTOL",
-      "doctrine"
+      "doctrine",
+      "attritable"
     ],
     "sources": [
       {
@@ -1795,10 +2040,46 @@
         "title": "U.S.-Iran Fight Heats Up With Mutual Strikes On Infrastructure Targets",
         "date": "2026-07-17",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/sea/everything-we-know-about-the-u-s-navys-submersible-drone-iran-just-captured",
+        "title": "Everything We Know About The U.S. Navy\u2019s Submersible Drone Iran Just Captured",
+        "date": "2026-09-08",
+        "site": "twz"
+      },
+      {
+        "url": "https://defence-blog.com/silent-israeli-spy-drone-impresses-romania-in-exercise-demo/",
+        "title": "Silent Israeli spy drone impresses Romania in exercise demo",
+        "date": "2026-09-09",
+        "site": "defence_blog"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+        "title": "Iran likely to reverse-engineer captured US underwater drone",
+        "date": "2026-09-10",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://united24media.com/world/ukraine-and-canada-sign-historic-100-year-partnership-declaration-22455",
+        "title": "Ukraine and Canada Sign Historic 100-Year Partnership Declaration",
+        "date": "Sep 10, 2026 21:32 Updated Sep 11, 2026 10:50 3 min read Prefer U24 Media on Google",
+        "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
+        "title": "US military must focus on \u2018right mix\u2019 of weapons amid stockpile concerns: Official",
+        "date": "2026-09-14",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/sponsored-content/u-s-nuclear-control-mission-could-dramatically-evolve-under-looking-glass-next",
+        "title": "U.S. Nuclear Control Mission Could Dramatically Evolve Under Looking Glass-Next",
+        "date": "2026-09-14",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-09-15"
   },
   {
     "pid": "PLT-0007",
@@ -1821,7 +2102,8 @@
       "swarming",
       "FPV",
       "one-way attack",
-      "loitering munition"
+      "loitering munition",
+      "doctrine"
     ],
     "sources": [
       {
@@ -1901,10 +2183,16 @@
         "title": "General Dynamics Delivers XM30 Wolf to US Army for Bradley Replacement Testing",
         "date": "September 4, 2026",
         "site": "defensepost"
+      },
+      {
+        "url": "https://www.twz.com/air/air-force-announces-new-plans-to-take-over-defending-its-own-bases-from-aerial-attack",
+        "title": "Air Force Announces New Plans To Take Over Defending Its Own Bases From Aerial Attack",
+        "date": "2026-09-15",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-16"
   },
   {
     "pid": "PLT-0008",
@@ -1923,7 +2211,8 @@
       "electronic warfare",
       "ISR",
       "AI",
-      "counter-UAS"
+      "counter-UAS",
+      "attritable"
     ],
     "sources": [
       {
@@ -2021,10 +2310,16 @@
         "title": "Navy Sounds Like It Now Wants The Air Combat Drone It Notoriously Passed Over A Decade Ago",
         "date": "2026-09-01",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/yfq-44a-fury-has-been-fit-checked-with-air-to-ground-munitions",
+        "title": "YFQ-44A Fury Has Been Fit Checked With Air-To-Ground Munitions",
+        "date": "2026-09-15",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-16"
   },
   {
     "pid": "PLT-0009",
@@ -2044,7 +2339,9 @@
       "counter-UAS",
       "swarming",
       "doctrine",
-      "attritable"
+      "attritable",
+      "C2",
+      "one-way attack"
     ],
     "sources": [
       {
@@ -2160,10 +2457,28 @@
         "title": "Navy Sounds Like It Now Wants The Air Combat Drone It Notoriously Passed Over A Decade Ago",
         "date": "2026-09-01",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/andurils-yfq-44a-fury-cca-has-flown-alongside-f-35s",
+        "title": "Anduril\u2019s YFQ-44A Fury CCA Has Flown Alongside F-35s",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/yfq-44a-fury-has-been-fit-checked-with-air-to-ground-munitions",
+        "title": "YFQ-44A Fury Has Been Fit Checked With Air-To-Ground Munitions",
+        "date": "2026-09-15",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/how-the-air-force-is-preparing-for-allied-ccas-to-join-the-fight",
+        "title": "How The USAF Is Preparing For European Allies To Join The Collaborative Combat Aircraft Club",
+        "date": "2026-09-16",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-17"
   },
   {
     "pid": "PLT-0010",
@@ -2480,10 +2795,40 @@
         "title": "HIMARS Wipes Out Russian Air Defense Element, Video",
         "date": "Sep 03, 2026 22:55 2 min read Prefer U24 Media on Google",
         "site": "united24"
+      },
+      {
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
+        "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
+        "date": "2026-09-08",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.twz.com/land/ukraines-new-shershen-sam-can-fire-a-wild-mix-of-adapted-air-to-air-missiles",
+        "title": "Ukraine\u2019s New Shershen SAM Can Fire A Wild Mix Of Adapted Air-To-Air Missiles",
+        "date": "2026-09-10",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/10/sweden-himars-procurement/",
+        "title": "Sweden Approves $727-Million HIMARS Procurement",
+        "date": "September 10, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://defence-blog.com/latvia-buys-morana-howitzers-passing-on-swedens-archer/",
+        "title": "Latvia buys Morana howitzers, passing on Sweden\u2019s Archer",
+        "date": "2026-09-17",
+        "site": "defence_blog"
+      },
+      {
+        "url": "https://militarnyi.com/en/news/latvia-chooses-czech-morana-over-swedish-archer-self-propelled-howitzer/?utm_source=rss&utm_medium=rss&utm_campaign=latvia-chooses-czech-morana-over-swedish-archer-self-propelled-howitzer",
+        "title": "Latvia Chooses Czech Morana Over Swedish Archer Self-Propelled Howitzer",
+        "date": "2026-09-18",
+        "site": "militarnyi"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0014",
@@ -2494,7 +2839,8 @@
       "ACT",
       "CCA",
       "DIU",
-      "Lattice"
+      "Lattice",
+      "Replicator"
     ],
     "tags": [
       "ISR",
@@ -2794,10 +3140,172 @@
         "title": "\u200bHow U.S. Hunted Iran's Ballistic Missile Launchers, Losing 25% of All MQ-9 Reaper UAVs, What Will Replace Them",
         "date": "",
         "site": "defenseexpress"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster/",
+        "title": "After \u2018concerning\u2019 losses, Air Force pushes to replace Reaper faster",
+        "date": "2026-09-03",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://en.defence-ua.com/news/defense_express_weekly_review_perus_f_16_training_reaper_losses_russias_starlink_rival_and_armenias_break_with_moscow-19698.html",
+        "title": "Defense Express Weekly Review: Peru's F-16 Training, Reaper Losses, russia's Starlink Rival and Armenia's Break with Moscow\u200b",
+        "date": "",
+        "site": "defenseexpress"
+      },
+      {
+        "url": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
+        "title": "First Look At General Atomics\u2019 Wildfire, Its Successor To The MQ-9 Reaper (Updated)",
+        "date": "2026-09-09",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/09/italy-reapers-mediterranean-surveillance/",
+        "title": "Italy Orders Two More MQ-9A Reapers for Mediterranean Surveillance",
+        "date": "September 9, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.defenseone.com/technology/2026/09/after-heavy-reaper-drone-loses-iran-air-force-accelerates-affordable-future-replacement/415852/",
+        "title": "USAF speed up Reaper replacement after heavy losses in Iran",
+        "date": "2026-09-08",
+        "site": "defenseone"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/08/us-militarys-anduril-dive-ld-drone-captured-by-iran/",
+        "title": "U.S. military\u2019s Anduril Dive-LD drone was \u2018dead in the water\u2019 before Iran nabbed it",
+        "date": "2026-09-08",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://uasmagazine.com/articles/ga-asi-and-fujitsu-sign-mou-to-support-mq-9b-operations-in-japan",
+        "title": "GA-ASI and Fujitsu sign MOU to support Mq-9B operations in Japan",
+        "date": "2026-08-27T14:05:19.451Z",
+        "site": "uasmagazine"
+      },
+      {
+        "url": "https://uasmagazine.com/articles/ga-asi-marks-10-years-of-flight-test-training-operations-in-north-dakota",
+        "title": "GA-ASI marks 10 years of flight test, training operations in North Dakota",
+        "date": "2026-08-06T19:21:18.429Z",
+        "site": "uasmagazine"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper/",
+        "title": "General Atomics unveils \u2018Wildfire\u2019 drone to replace Reaper",
+        "date": "2026-09-10",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://uasmagazine.com/articles/ga-asi-unveils-wildfire-uncrewed-aircraft-for-military-civil-and-commercial-roles",
+        "title": "GA-ASI unveils Wildfire uncrewed aircraft for military, civil and commercial roles",
+        "date": "2026-09-10T21:19:38.090Z",
+        "site": "uasmagazine"
+      },
+      {
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/vengeance-and-fury-us-air-force-names-new-ccas-amid-ambitious-production-goal/",
+        "title": "Vengeance and Fury: US Air Force names new CCAs amid ambitious production goal",
+        "date": "2026-09-14",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
+        "title": "Drone maker unveils \u2018low-cost\u2019 alternative to MQ-9 Reaper",
+        "date": "2026-09-14",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper/",
+        "title": "Swarm Aero debuts Gamera drone in bid to succeed Reaper",
+        "date": "2026-09-14",
+        "site": "breakingdefense"
+      },
+      {
+        "url": "https://www.twz.com/air/airmen-under-fire-stories-from-iranian-barrages-on-u-s-bases",
+        "title": "Airmen Under Fire: Stories From Iranian Barrages On U.S. Bases",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/cheaper-reaper-swarm-aero-unveils-gamera",
+        "title": "Cheaper Reaper? Swarm Aero Unveils Gamera",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/news-features/fleet-of-at-least-500-collaborative-combat-aircraft-by-2032-now-in-usafs-plans",
+        "title": "Fleet Of At Least 500 Collaborative Combat Aircraft By 2032 Now In USAF\u2019s Plans",
+        "date": "2026-09-14",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/14/wildfire-reaper-successor/",
+        "title": "The MQ-9 Reaper\u2019s Proposed Successor Emerges: Meet \u2018Wildfire\u2019",
+        "date": "September 14, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.militarytimes.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
+        "title": "Drone maker unveils \u2018low-cost\u2019 alternative to MQ-9 Reaper",
+        "date": "2026-09-14",
+        "site": "militarytimes"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/14/air-force-plans-to-field-500-cca-drones-by-2032/",
+        "title": "Air Force plans to field 500 CCA drones by 2032",
+        "date": "2026-09-14",
+        "site": "defensescoop"
+      },
+      {
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
+        "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+        "date": "2026-09-15",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://dronexl.co/2026/09/15/pentagon-ig-30-reapers-iran-epic-fury/",
+        "title": "Pentagon Counts 30 Reapers Lost in Iran War, No Line to Rebuild",
+        "date": "2026-09-15",
+        "site": "dronexl"
+      },
+      {
+        "url": "https://www.twz.com/air/houthis-claim-saudi-f-15-kill-over-yemen",
+        "title": "Houthis Claim Saudi F-15 Kill Over Yemen",
+        "date": "2026-09-16",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/sponsored-content/fq-42-vengeance-fighter-drone-program-update",
+        "title": "FQ-42 Vengeance Fighter Drone Program Update",
+        "date": "2026-09-16",
+        "site": "twz"
+      },
+      {
+        "url": "https://thedefensepost.com/2026/09/16/swarm-aero-gamera-drone/",
+        "title": "Swarm Aero\u2019s Missile-Carrying \u2018Gamera\u2019 Drone Joins Race to Replace MQ-9 Reaper",
+        "date": "September 16, 2026",
+        "site": "defensepost"
+      },
+      {
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash/",
+        "title": "Japanese Global Hawk drone splashes down in crash",
+        "date": "2026-09-17",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://uasmagazine.com/articles/ga-asi-to-open-new-innovation-hub-near-wright-patterson-air-force-base",
+        "title": "GA-ASI to open new innovation hub near Wright-Patterson Air Force Base",
+        "date": "2026-09-17T14:47:40.350Z",
+        "site": "uasmagazine"
+      },
+      {
+        "url": "https://defensescoop.com/2026/09/17/space-force-advancing-on-orbit-tracking-for-airborne-and-ground-based-targets/",
+        "title": "Space Force advancing on-orbit tracking for airborne and ground-based targets",
+        "date": "2026-09-17",
+        "site": "defensescoop"
       }
     ],
     "first_seen": "2026-03-23",
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0015",
@@ -2922,7 +3430,8 @@
       "acquisition",
       "autonomy",
       "electronic warfare",
-      "one-way attack"
+      "one-way attack",
+      "counter-UAS"
     ],
     "sources": [
       {
@@ -2972,10 +3481,40 @@
         "title": "Kratos Lands $400M for US Hypersonic, National Security Programs",
         "date": "July 17, 2026",
         "site": "defensepost"
+      },
+      {
+        "url": "https://uasmagazine.com/articles/2026-uas-summit-expo-announces-expanded-agenda-for-landmark-20th-annual-event",
+        "title": "2026 UAS Summit & Expo announces expanded agenda for landmark 20th annual event",
+        "date": "2026-08-06T15:39:31.052Z",
+        "site": "uasmagazine"
+      },
+      {
+        "url": "https://militarnyi.com/en/news/japan-loses-one-of-its-three-rq-4b-global-hawk-drones/?utm_source=rss&utm_medium=rss&utm_campaign=japan-loses-one-of-its-three-rq-4b-global-hawk-drones",
+        "title": "Japan Loses One of Its Three RQ-4B Global Hawk Drones",
+        "date": "2026-09-15",
+        "site": "militarnyi"
+      },
+      {
+        "url": "https://dronexl.co/2026/09/16/japan-global-hawk-crash-tottori/",
+        "title": "Japan's $110M Global Hawk Drone Crashes on Undisclosed Mission",
+        "date": "2026-09-16",
+        "site": "dronexl"
+      },
+      {
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash/",
+        "title": "Japanese Global Hawk drone splashes down in crash",
+        "date": "2026-09-17",
+        "site": "defensenews"
+      },
+      {
+        "url": "https://www.c4isrnet.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash/",
+        "title": "Japanese Global Hawk drone splashes down in crash",
+        "date": "2026-09-17",
+        "site": "c4isrnet"
       }
     ],
     "first_seen": "2026-04-02",
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0018",
@@ -3091,10 +3630,22 @@
         "title": "Marine regiment tests AeroVironment\u2019s JUMP 20-X system for the first time, but faces lack of Group 3 drone operators",
         "date": "2026-07-20",
         "site": "defensescoop"
+      },
+      {
+        "url": "https://united24media.com/culture/netflixs-the-gentlemen-features-ukrainian-jewelry-brand-sova-in-season-2-22410",
+        "title": "Netflix\u2019s \u201cThe Gentlemen\u201d Features Ukrainian Jewelry Brand SOVA in Season 2",
+        "date": "Sep 09, 2026 17:26 2 min read Prefer U24 Media on Google",
+        "site": "united24"
+      },
+      {
+        "url": "https://united24media.com/world/mercedes-g-class-gets-a-military-makeover-in-rheinmetalls-new-timber-wolf-and-silver-wolf-22648",
+        "title": "Mercedes G-Class Gets a Military Makeover in Rheinmetall\u2019s New Timber Wolf and Silver Wolf",
+        "date": "Sep 17, 2026 19:53 3 min read Prefer U24 Media on Google",
+        "site": "united24"
       }
     ],
     "first_seen": "2026-05-05",
-    "last_updated": "2026-07-21"
+    "last_updated": "2026-09-18"
   },
   {
     "pid": "PLT-0021",
@@ -7650,9 +8201,21 @@
         "title": "New Jets, Drones Will Transform Fort Hood Into Army\u2019s Aerial Intel Hub",
         "date": "2026-07-13",
         "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
+        "title": "First Look At General Atomics\u2019 Wildfire, Its Successor To The MQ-9 Reaper (Updated)",
+        "date": "2026-09-09",
+        "site": "twz"
+      },
+      {
+        "url": "https://www.twz.com/sea/usmc-used-its-expeditionary-operations-playbook-in-combat-for-first-time-during-epic-fury",
+        "title": "USMC Used Its Expeditionary Operations Playbook In Combat For First Time During Epic Fury",
+        "date": "2026-09-17",
+        "site": "twz"
       }
     ],
     "first_seen": "2026-07-22",
-    "last_updated": "2026-07-22"
+    "last_updated": "2026-09-18"
   }
 ]

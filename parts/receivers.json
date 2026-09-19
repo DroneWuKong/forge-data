@@ -35,7 +35,14 @@
     ],
     "interface": "ELRS (CRSF/UART)",
     "weight_g": 4,
-    "origin": "China"
+    "origin": "China",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 34.49,
+      "retrieved_at": "2026-09-12T11:40:12.772544+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1005",
@@ -73,7 +80,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 88.99,
+      "retrieved_at": "2026-09-12T11:39:22.685653+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1014",
@@ -111,7 +125,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-12T11:39:25.129025+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1016",
@@ -149,7 +170,14 @@
     ],
     "interface": "ELRS (CRSF/UART)",
     "weight_g": 1,
-    "origin": "China"
+    "origin": "China",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 15.99,
+      "retrieved_at": "2026-09-12T11:40:14.392137+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1018",
@@ -491,7 +519,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 59.99,
+      "retrieved_at": "2026-09-12T11:39:26.963077+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1032",
@@ -529,7 +564,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 38.99,
+      "retrieved_at": "2026-09-12T11:39:29.225061+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1033",
@@ -833,7 +875,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 45.49,
+      "retrieved_at": "2026-09-12T11:39:30.855356+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1043",
@@ -1137,7 +1186,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 42.99,
+      "retrieved_at": "2026-09-12T11:39:34.051379+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1052",
@@ -1289,7 +1345,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 0.6,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 32.99,
+      "retrieved_at": "2026-09-12T11:39:35.582708+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1056",
@@ -1365,7 +1428,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 38.99,
+      "retrieved_at": "2026-09-12T11:39:37.940433+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1059",
@@ -1668,7 +1738,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 6.49,
+      "retrieved_at": "2026-09-12T11:39:40.303098+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1069",
@@ -1706,7 +1783,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 4,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 12.99,
+      "retrieved_at": "2026-09-12T11:39:42.523559+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1070",
@@ -1744,7 +1828,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 4,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 161.49,
+      "retrieved_at": "2026-09-12T11:39:44.792642+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1071",
@@ -1782,7 +1873,14 @@
     ],
     "interface": "CRSF (UART)",
     "weight_g": 1.5,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 77.99,
+      "retrieved_at": "2026-09-12T11:39:46.823807+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1072",
@@ -2616,7 +2714,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 76.99,
+      "retrieved_at": "2026-09-12T11:39:49.290980+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1102",
@@ -2920,7 +3025,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 54.99,
+      "retrieved_at": "2026-09-12T11:39:50.943836+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1112",
@@ -3186,7 +3298,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 1,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 10.99,
+      "retrieved_at": "2026-09-12T11:39:55.849272+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1119",
@@ -3412,7 +3531,14 @@
     ],
     "interface": "SBUS / CRSF / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 441.99,
+      "retrieved_at": "2026-09-12T11:39:57.904054+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1126",
@@ -3450,7 +3576,14 @@
     ],
     "interface": "DSM / UART",
     "weight_g": 1.5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-12T11:40:03.440096+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1127",
@@ -4133,7 +4266,14 @@
     ],
     "interface": "DSM / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 59.99,
+      "retrieved_at": "2026-09-12T11:40:06.103332+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1146",
@@ -4171,7 +4311,14 @@
     ],
     "interface": "DSM / UART",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 109.99,
+      "retrieved_at": "2026-09-12T11:40:08.521382+00:00",
+      "available": true
+    }
   },
   {
     "pid": "RCV-1147",

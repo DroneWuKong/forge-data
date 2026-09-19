@@ -1,7 +1,7 @@
 {
   "api_version": "2.0",
   "base_url": "https://dronewukong.github.io/forge-data",
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-18",
   "platforms": {
     "file": "platforms/platforms.json",
     "count": 342
@@ -77,7 +77,7 @@
     },
     "frames": {
       "file": "parts/frames.json",
-      "count": 635
+      "count": 640
     },
     "gimbals": {
       "file": "parts/gimbals.json",
@@ -195,5 +195,5 @@
   "schema": {
     "file": "schema/drone_parts_schema_v3.json"
   },
-  "total_parts": 4621
+  "total_parts": 4626
 }

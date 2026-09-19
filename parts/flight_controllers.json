@@ -261,7 +261,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "CAN",
     "weight_g": 5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 71.99,
+      "retrieved_at": "2026-09-11T11:39:25.101997+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1006",
@@ -297,7 +304,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 71.99,
+      "retrieved_at": "2026-09-11T11:39:26.599700+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1007",
@@ -333,7 +347,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-11T11:39:29.384594+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1008",
@@ -420,7 +441,14 @@
     "ndaa_note": "Orqa d.o.o., Zagreb, Croatia. EU-manufactured. Allied-nation NDAA compliant. Confirmed via Orqa official docs.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "Croatia"
+    "origin": "Croatia",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 189.99,
+      "retrieved_at": "2026-09-11T11:39:31.997606+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1009",
@@ -479,7 +507,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 4,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 148.99,
+      "retrieved_at": "2026-09-11T11:39:33.580063+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1010",
@@ -641,7 +676,14 @@
     "ndaa_note": "Orqa d.o.o., Zagreb, Croatia. EU-manufactured. Allied-nation NDAA compliant. Confirmed via Orqa official docs.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "Croatia"
+    "origin": "Croatia",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 159.99,
+      "retrieved_at": "2026-09-11T11:39:35.954895+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1012",
@@ -700,7 +742,14 @@
     "ndaa_note": "NDAA versions made in USA. TBS NDAA product line confirmed on getfpv.com, rotorriot.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 59.95,
+      "retrieved_at": "2026-09-11T11:39:37.459009+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1014",
@@ -763,7 +812,14 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 79.99,
+      "retrieved_at": "2026-09-11T11:39:39.092853+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1015",
@@ -801,7 +857,14 @@
     "ndaa_note": "NDAA versions made in USA. TBS NDAA product line confirmed on getfpv.com, rotorriot.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 82.99,
+      "retrieved_at": "2026-09-11T11:39:40.693726+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1016",
@@ -1176,7 +1239,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 71.49,
+      "retrieved_at": "2026-09-11T11:39:42.290604+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1025",
@@ -1292,7 +1362,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 89.99,
+      "retrieved_at": "2026-09-11T11:39:45.668285+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1028",
@@ -1474,7 +1551,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 129.99,
+      "retrieved_at": "2026-09-11T11:39:47.119566+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1032",
@@ -1537,7 +1621,14 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 2.4,
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 128.99,
+      "retrieved_at": "2026-09-11T11:39:48.910559+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1033",
@@ -1783,7 +1874,14 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 6,
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 168.99,
+      "retrieved_at": "2026-09-11T11:39:50.479735+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1037",
@@ -1847,7 +1945,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 116.99,
+      "retrieved_at": "2026-09-11T11:39:52.111840+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1038",
@@ -2028,7 +2133,14 @@
     "ndaa_note": "NDAA versions made in USA. TBS NDAA product line confirmed on getfpv.com, rotorriot.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-11T11:39:53.809275+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1041",
@@ -2461,7 +2573,14 @@
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 194.99,
+      "retrieved_at": "2026-09-11T11:39:55.411370+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1054",
@@ -2762,7 +2881,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 363.99,
+      "retrieved_at": "2026-09-11T11:39:56.946127+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1063",
@@ -2972,7 +3098,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 72.99,
+      "retrieved_at": "2026-09-11T11:39:58.630227+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1069",
@@ -3156,7 +3289,14 @@
     "ndaa_note": "US-designed/assembled (GetFPV, St. Petersburg FL). NDAA-compliant product line verified on lumenier.com and getfpv.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 116.99,
+      "retrieved_at": "2026-09-11T11:40:00.328513+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1073",
@@ -3372,7 +3512,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 201.49,
+      "retrieved_at": "2026-09-11T11:40:01.865162+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1084",
@@ -3590,7 +3737,14 @@
     "ndaa_note": "NDAA versions made in USA. TBS NDAA product line confirmed on getfpv.com, rotorriot.com.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-11T11:40:03.608932+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1091",
@@ -4583,7 +4737,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 440.99,
+      "retrieved_at": "2026-09-11T11:40:08.609084+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1114",
@@ -4699,7 +4860,14 @@
     "ndaa_note": "Manufactured Taiwan. 2024 NDAA compliant \u2014 all chips and components sourced/assembled in allied nations. Blue UAS Framework listed. CubePilot PTY LTD is Australian-owned.",
     "interface": "UART / SPI / I2C / USB",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 545.99,
+      "retrieved_at": "2026-09-11T11:40:10.249977+00:00",
+      "available": true
+    }
   },
   {
     "pid": "FC-1116",

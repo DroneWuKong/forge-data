@@ -2,7 +2,7 @@
   "database_meta": {
     "name": "AI Wingman Forge \u2014 Platform Database",
     "description": "Merged platform data for the Forge build planner.",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-18",
     "platform_count": 342,
     "sources": [
       "data/parts-db/drone_models.json",
@@ -1690,7 +1690,108 @@
         "flight_controllers": [],
         "escs": [],
         "propellers": [],
-        "batteries": [],
+        "batteries": [
+          {
+            "pid": "BAT-1000",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1001",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1002",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1003",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1004",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1005",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1006",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1007",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1017",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1018",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1020",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1021",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1022",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1023",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1055",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1096",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1105",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1110",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1137",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1138",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          }
+        ],
         "fpv_cameras": [],
         "video_transmitters": [],
         "receivers": [],
@@ -1761,7 +1862,16 @@
         "mapping",
         "blue-uas"
       ],
-      "origin": "USA"
+      "origin": "USA",
+      "compliance_sources": {
+        "doc_found": true,
+        "doc_url": "https://docs.freeflysystems.com/",
+        "compliance_statements": [
+          "NDAA approved payload everyone has been waiting for.",
+          "NDAA compliant, the Ouster OS1 is ready to scan your critical infrastructure."
+        ],
+        "last_checked": "2026-09-18T11:33:16.345394+00:00"
+      }
     },
     {
       "pid": "MDL-2005",
@@ -1789,17 +1899,122 @@
       "handbook_profile": "platforms/blue-uas/inspired-flight-if1200a.md",
       "relations": {
         "frames": [],
-        "motors": [],
+        "motors": [
+          {
+            "pid": "MTR-1011",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1012",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1065",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1137",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1146",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1147",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1153",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "MTR-1154",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          }
+        ],
         "stacks": [],
         "flight_controllers": [],
         "escs": [],
         "propellers": [],
-        "batteries": [],
+        "batteries": [
+          {
+            "pid": "BAT-1157",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "BAT-1158",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          }
+        ],
         "fpv_cameras": [],
         "video_transmitters": [],
         "receivers": [],
         "antennas": [],
-        "gps_modules": []
+        "gps_modules": [
+          {
+            "pid": "GPS-FF-RTK-GND",
+            "confidence": 1.0,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-FF-ANT-RTK",
+            "confidence": 1.0,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-1010",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-1000",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-1035",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-1043",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "GPS-1045",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          }
+        ],
+        "cameras": [
+          {
+            "pid": "CAM-1215",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "CAM-1362",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          },
+          {
+            "pid": "CAM-1364",
+            "confidence": 0.9,
+            "source": "blue_uas_doc_miner"
+          }
+        ]
       },
       "country": "USA",
       "compliance": {
@@ -1857,7 +2072,17 @@
       "propulsion": "Electric hex",
       "manufacturer_url": "https://inspiredflight.com",
       "doc_url": "https://www.dji.com/agras-t40",
-      "origin": "Unknown"
+      "origin": "Unknown",
+      "compliance_sources": {
+        "doc_found": true,
+        "doc_url": "https://freeflysystems.com/wp-content/uploads/2021/05/Alta-6_8-NDAA-Component-Origin-Compliance.pdf",
+        "compliance_statements": [
+          "NDAA sec.",
+          "NDAA Compliance of Critical Components Alta X DIU Blue Package (SKU: 950-00113-Blue) GitBook Assistant Previous Flight Testing Next Manufacturing Workflow Last updated 2 years ago Canada Alta X NDAA s",
+          "NDAA/Blue List) JOIN OUR TEAM!"
+        ],
+        "last_checked": "2026-09-18T11:33:16.345415+00:00"
+      }
     },
     {
       "pid": "MDL-2006",
