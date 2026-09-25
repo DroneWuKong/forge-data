@@ -814,7 +814,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-6000mah-4s-35c-lipo-battery-xt60.html"
     ],
     "weight_g": 1080,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 175.49,
+      "retrieved_at": "2026-09-13T11:40:05.055690+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1014",
@@ -933,7 +940,14 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "weight_g": 338,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 47.49,
+      "retrieved_at": "2026-09-13T11:40:06.576564+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1016",
@@ -1050,7 +1064,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60.html"
     ],
     "weight_g": 540,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 67.49,
+      "retrieved_at": "2026-09-13T11:40:08.117637+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1018",
@@ -1108,7 +1129,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-4s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
     "weight_g": 540,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 199.99,
+      "retrieved_at": "2026-09-13T11:40:09.653634+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1019",
@@ -1168,7 +1196,14 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "weight_g": 270,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 115.49,
+      "retrieved_at": "2026-09-13T11:40:11.125040+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1020",
@@ -1226,7 +1261,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60.html"
     ],
     "weight_g": 1620,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 188.99,
+      "retrieved_at": "2026-09-13T11:40:12.618284+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1021",
@@ -1284,7 +1326,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
     "weight_g": 810,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 279.99,
+      "retrieved_at": "2026-09-14T11:43:02.713489+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1022",
@@ -1342,7 +1391,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-6000mah-6s-lithium-ion-battery-xt60-3-pack-bundle.html"
     ],
     "weight_g": 1620,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 558.99,
+      "retrieved_at": "2026-09-14T11:43:05.479022+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1023",
@@ -1400,7 +1456,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-nav-3000mah-6s-lithium-ion-battery-xt60.html"
     ],
     "weight_g": 810,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 94.49,
+      "retrieved_at": "2026-09-14T11:43:07.592778+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1024",
@@ -1635,7 +1698,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1400mah-4s-150c-lipo-battery-xt-60.html"
     ],
     "weight_g": 252,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-14T11:43:09.778528+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1028",
@@ -1694,7 +1764,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-750mah-6s-100c-lipo-battery-xt-30.html"
     ],
     "weight_g": 202,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 32.99,
+      "retrieved_at": "2026-09-14T11:43:12.315078+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1029",
@@ -1753,7 +1830,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-4500mah-120c-6s-cinelifter-lipo-battery-as150.html"
     ],
     "weight_g": 1215,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 202.49,
+      "retrieved_at": "2026-09-14T11:43:14.873872+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1030",
@@ -1812,7 +1896,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-5200mah-4s-120c-cinelifter-lipo-battery-as150.html"
     ],
     "weight_g": 936,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 121.49,
+      "retrieved_at": "2026-09-15T11:42:13.596565+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1031",
@@ -1929,7 +2020,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery.html"
     ],
     "weight_g": 153,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 26.99,
+      "retrieved_at": "2026-09-15T11:42:15.105061+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1033",
@@ -1988,7 +2086,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-850mah-4s-45c-lipo-battery-xt-30-3-pack-bundle.html"
     ],
     "weight_g": 153,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 79.99,
+      "retrieved_at": "2026-09-15T11:42:16.631865+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1034",
@@ -2376,7 +2481,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1550mah-4s-150c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
     "weight_g": 279,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 199.99,
+      "retrieved_at": "2026-09-15T11:42:18.273260+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1041",
@@ -2435,7 +2547,14 @@
       "https://www.getfpv.com/batteries/mini-quad-batteries/lumenier-n2o-feather-lite-1300mah-6s-150c-lipo-battery-xt-60-3-pack-bundle.html"
     ],
     "weight_g": 351,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 227.99,
+      "retrieved_at": "2026-09-15T11:42:19.815329+00:00",
+      "available": true
+    }
   },
   {
     "pid": "BAT-1042",
