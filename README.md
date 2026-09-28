@@ -2,7 +2,7 @@
 
 Static JSON API serving the [Prismo](https://github.com/DroneWuKong/Ai-Project) Forge build planner.
 
-**4,621 components** across 46 categories + **342 drone platforms**.
+**4,814 components** across 47 categories + **342 drone platforms**.
 
 ---
 
@@ -55,17 +55,18 @@ GET /circuit_forge_kb.json
 | `build_guides` | 3 | Step-by-step assembly guides |
 | `c2_datalinks` | 14 | Command & control datalinks |
 | `companion_computers` | 25 | Onboard companion computers |
-| `control_link_tx` | 138 | Control link transmitters |
+| `control_link_tx` | 140 | Control link transmitters |
 | `counter_uas` | 26 | Counter-UAS systems |
 | `drone_models` | 342 | Complete drone platforms |
 | `esad` | 12 | Electronic safe & arm devices |
 | `escs` | 165 | Electronic speed controllers |
 | `ew_systems` | 14 | Electronic warfare systems |
 | `fiber_kits` | 8 | Fiber-optic control kits |
-| `flight_controllers` | 328 | Flight controller boards |
-| `fpv_cameras` | 422 | FPV and payload cameras |
+| `flight_controllers` | 365 | Flight controller boards |
+| `fpv_cameras` | 423 | FPV and payload cameras |
 | `fpv_detectors` | 30 | FPV signal detectors |
-| `frames` | 635 | Drone frames and kits |
+| `frames` | 642 | Drone frames and kits |
+| `getfpv_retail` | 124 | Public GetFPV retail catalog records |
 | `gimbals` | 12 | Camera gimbals |
 | `gps_modules` | 78 | GPS/GNSS receivers |
 | `ground_control_stations` | 14 | Ground control stations |
@@ -75,7 +76,7 @@ GET /circuit_forge_kb.json
 | `lidar_rangefinders` | 13 | LiDAR rangefinders |
 | `mesh_radios` | 29 | Mesh networking radios |
 | `military_firmware` | 8 | Military/defense firmware |
-| `motors` | 303 | Brushless motors |
+| `motors` | 325 | Brushless motors |
 | `navigation_pnt` | 13 | Navigation / PNT systems |
 | `optical_flow` | 16 | Optical flow sensors |
 | `payload_droppers` | 11 | Payload release mechanisms |
