@@ -1464,7 +1464,14 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/runcam-phoenix-2-1000tvl-2-1mm-fpv-camera-lumenier-edition-silver.html"
     ],
     "weight_g": 10,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 45.49,
+      "retrieved_at": "2026-09-21T11:42:50.091608+00:00",
+      "available": true
+    }
   },
   {
     "pid": "CAM-1044",
@@ -4212,7 +4219,14 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "weight_g": 5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 19.99,
+      "retrieved_at": "2026-09-21T11:42:55.312477+00:00",
+      "available": true
+    }
   },
   {
     "pid": "CAM-1121",
@@ -4250,7 +4264,14 @@
     ],
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "weight_g": 5,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 0.0,
+      "retrieved_at": "2026-09-21T11:42:57.639058+00:00",
+      "available": true
+    }
   },
   {
     "pid": "CAM-1123",
@@ -6309,7 +6330,14 @@
       "https://www.getfpv.com/fpv/cameras/flight-cameras/tbs-tiny-camera.html"
     ],
     "weight_g": 5,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 23.49,
+      "retrieved_at": "2026-09-21T11:42:59.697827+00:00",
+      "available": true
+    }
   },
   {
     "pid": "CAM-1179",
@@ -7075,7 +7103,7 @@
     "description": "The HISINGY Easy Copter FPV Camera + VTX is a replacement camera and VTX for the Hisingy Firefly SMART and Firefly quadcopters.",
     "link": "https://www.getfpv.com/fpv/cameras/hisingy-easy-copter-fpv-camera-vtx.html",
     "image_file": "",
-    "approx_price": 66.99,
+    "approx_price": 9.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24327CN1Z",
@@ -7101,7 +7129,7 @@
     "description": "The\u00a0WalleFPV Naked O4 Pro ND Filter Set contains four ultra-lightweight filters designed for the DJI O4 Pro lens.",
     "link": "https://www.getfpv.com/fpv/cameras/wallefpv-naked-o4-pro-nd-filter-set-uv-nd8-nd16-nd32.html",
     "image_file": "",
-    "approx_price": 27.99,
+    "approx_price": 34.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24173CN1Z",
@@ -7172,7 +7200,7 @@
     "description": "These pro-quality Camera Butter ND Filters for the DJI Osmo Nano offer tool-free installation, unmatched durability with Gorilla glass and anodized aluminum, and ultra-clear Black Diamond optics with nanocoating to reduce glare and repel water and fingerprints.",
     "link": "https://www.getfpv.com/fpv/cameras/camera-butter-dji-osmo-nano-nd-filter-pack-nd4-8-16-32.html",
     "image_file": "",
-    "approx_price": 11.99,
+    "approx_price": 7.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24115CA1Z",
@@ -7423,7 +7451,7 @@
     "description": "Enhance your DJI O4 Air Unit footage with the Axisflying ND Filter Set. This set includes ND4, ND8, ND16, and ND32 filters, allowing you to control light exposure and achieve smoother, more cinematic video in various lighting conditions.",
     "link": "https://www.getfpv.com/fpv/cameras/axisflying-nd-filter-set-for-dji-o4-air-unit-nd4-8-16-32.html",
     "image_file": "",
-    "approx_price": 14.49,
+    "approx_price": 79.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "22895",
@@ -7805,7 +7833,7 @@
     "description": "The\u00a0Patrios 2-in-1 XBright redefines compact illumination for demanding environments.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-xbright-2-in-1-tactical-led.html",
     "image_file": "",
-    "approx_price": 349.99,
+    "approx_price": 21.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24164US1Z",
@@ -7829,7 +7857,7 @@
     "description": "The\u00a0Patrios 4-IR MaxBright Tactical LED sets a new benchmark for compact infrared illumination.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-4-ir-maxbright-tactical-led.html",
     "image_file": "",
-    "approx_price": 399.99,
+    "approx_price": 349.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24165US1Z",
@@ -7853,7 +7881,7 @@
     "description": "The US-made Patrios MicroBright 2-in-1 Tactical LED is ideal for low/no-light, internal & external clearance\u00a0missions, eliminating the need for\u00a0costly thermal cameras.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/patrios-microbright-2-in-1-tactical-led.html",
     "image_file": "",
-    "approx_price": 21.99,
+    "approx_price": 399.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24162US1Z",
@@ -7893,7 +7921,14 @@
     "pid": "CAM-1232",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 15.99,
+      "retrieved_at": "2026-09-22T11:40:42.128758+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot Herelink Blue Bundle V1.1",
@@ -7901,7 +7936,7 @@
     "description": "The Herelink Blue V1.1 Bundle is an integrated remote controller, ground station, and wireless digital transmission system assembled and supported in the USA by NW Blue LLC.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-herelink-blue-bundle-v1-1.html",
     "image_file": "",
-    "approx_price": 1399.0,
+    "approx_price": 15.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24166US1Z",
@@ -7921,7 +7956,14 @@
     "pid": "CAM-1233",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 3999.0,
+      "retrieved_at": "2026-09-22T11:40:44.478491+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot Herelink Blue Controller V1.1",
@@ -7947,7 +7989,14 @@
     "pid": "CAM-1234",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 2699.0,
+      "retrieved_at": "2026-09-22T11:40:46.916498+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot The Cube Orange+ Mini Set",
@@ -7974,7 +8023,14 @@
     "pid": "CAM-1235",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 456.99,
+      "retrieved_at": "2026-09-22T11:40:48.577974+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot Cubenode ETH",
@@ -7998,7 +8054,14 @@
     "pid": "CAM-1236",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 71.99,
+      "retrieved_at": "2026-09-23T11:41:43.119127+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot CubeNode V3",
@@ -8022,7 +8085,14 @@
     "pid": "CAM-1237",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-23T11:41:45.366892+00:00",
+      "available": true
+    }
   },
   {
     "name": "Lumenier LUX H743 Flight Controller - NDAA",
@@ -8050,7 +8120,14 @@
     "pid": "CAM-1238",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 148.99,
+      "retrieved_at": "2026-09-23T11:41:46.898431+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot The Cube Orange+ Standard Set",
@@ -8076,7 +8153,14 @@
     "pid": "CAM-1239",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 545.99,
+      "retrieved_at": "2026-09-23T11:41:48.393037+00:00",
+      "available": true
+    }
   },
   {
     "name": "Orqa 3030 Lite F405 Flight Controller - NDAA",
@@ -8084,7 +8168,7 @@
     "description": "The Orqa 3030 Lite F405 Flight Controller offers high-performance features and is made in the EU with full NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-3030-lite-f405-flight-controller-ndaa.html",
     "image_file": "",
-    "approx_price": 199.99,
+    "approx_price": 545.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24082HR1Z",
@@ -8104,7 +8188,14 @@
     "pid": "CAM-1240",
     "source": "getfpv.com",
     "origin": "Croatia",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 159.99,
+      "retrieved_at": "2026-09-24T11:42:37.016707+00:00",
+      "available": true
+    }
   },
   {
     "name": "TBS Lucid 90A 3-12S AM32 ESC - NDAA",
@@ -8133,7 +8224,14 @@
     "pid": "CAM-1241",
     "source": "getfpv.com",
     "origin": "Germany",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 71.95,
+      "retrieved_at": "2026-09-24T11:42:38.697425+00:00",
+      "available": true
+    }
   },
   {
     "name": "TBS Lucid H7 Flight Controller - ICM42688 - NDAA",
@@ -8217,7 +8315,14 @@
     "pid": "CAM-1244",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 99.99,
+      "retrieved_at": "2026-09-25T11:42:56.432859+00:00",
+      "available": true
+    }
   },
   {
     "name": "Lumenier LUX F765 Flight Controller - NDAA",
@@ -8244,7 +8349,14 @@
     "pid": "CAM-1245",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 89.99,
+      "retrieved_at": "2026-09-25T11:42:57.975308+00:00",
+      "available": true
+    }
   },
   {
     "name": "TBS Crossfire Nano Rx Pro - NDAA",
@@ -8271,7 +8383,14 @@
     "pid": "CAM-1246",
     "source": "getfpv.com",
     "origin": "Germany",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 59.99,
+      "retrieved_at": "2026-09-26T11:40:09.147495+00:00",
+      "available": true
+    }
   },
   {
     "name": "CubePilot Here4 Base",
@@ -8296,7 +8415,14 @@
     "pid": "CAM-1247",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 194.99,
+      "retrieved_at": "2026-09-26T11:40:11.602376+00:00",
+      "available": true
+    }
   },
   {
     "name": "Lumenier SAM-M10Q GPS Module - NDAA",
@@ -8321,7 +8447,14 @@
     "pid": "CAM-1248",
     "source": "getfpv.com",
     "origin": "USA",
-    "ndaa_compliant": true
+    "ndaa_compliant": true,
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 79.99,
+      "retrieved_at": "2026-09-27T11:40:40.878083+00:00",
+      "available": true
+    }
   },
   {
     "name": "TBS Crossfire Nano SE LR Receiver w/ Immortal-T V2 Antenna - NDAA",
@@ -8677,7 +8810,7 @@
     "description": "The CubePilot CubeLAN 8-Port Switch is a miniature Ethernet switch that can connect up to eight Ethernet devices.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-cubelan-8-port-switch.html",
     "image_file": "",
-    "approx_price": 47.99,
+    "approx_price": 59.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G23801TW1Z",
@@ -8811,7 +8944,7 @@
     "description": "The Cube Orange+ is an advanced flight controller autopilot module. This is the Cube only and needs to be paired with a carrier board.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/cubepilot-the-cube-orange.html",
     "image_file": "",
-    "approx_price": 159.99,
+    "approx_price": 299.0,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "22371",
@@ -9953,7 +10086,7 @@
     "description": "The Orqa H7 WingCore is an NDAA-compliant flight controller designed specifically for fixed-wing drones, VTOL craft, and UAVs.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-h7-wingcore-flight-controller.html",
     "image_file": "",
-    "approx_price": 289.99,
+    "approx_price": 980.0,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24079HR1Z",
@@ -9981,7 +10114,7 @@
     "description": "The RunCam O4 / O4 Pro Coaxial Cable -\u00a0 90\u00b0 to 90\u00b0 is a high-quality replacement or spare cable designed for the DJI O4 and O4 Pro Air Units.",
     "link": "https://www.getfpv.com/fpv/cameras/runcam-o4-o4-pro-coaxial-cable-90-to-90.html",
     "image_file": "",
-    "approx_price": 11.99,
+    "approx_price": 12.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "23533",
@@ -10005,7 +10138,7 @@
     "description": "Introducing the new NDAA-compliant Fat Shark HDO+ FPV Analog Goggles in Midnight Black, with Berry-compliant head strap.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/fat-shark-hdo-fpv-goggles-ndaa-midnight-black.html",
     "image_file": "",
-    "approx_price": 201.98,
+    "approx_price": 321.98,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24736US3Z",
@@ -10373,7 +10506,7 @@
     "description": "These TrueRC X-AIR 5.8GHz MK II Antennas are compatible with the DJI Goggles 2.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/truerc-x-air-5-8ghz-mk-ii-antenna-set-of-2-dji-goggles-2-lhcp-blackout.html",
     "image_file": "",
-    "approx_price": 399.99,
+    "approx_price": 3999.0,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "20821",
@@ -10400,7 +10533,7 @@
     "description": "The TrueRC Singularity 915MHz SMA Antenna (RHCP) is the next evolution of the beloved Singularity antenna, now more compact, durable, and performance-optimized than ever. Designed for 915MHz systems, this antenna features a robust, space-saving SMA connector that\u2019s perfect for tight builds and clean installations.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/truerc-singularity-915mhz-sma-antenna-rhcp.html",
     "image_file": "",
-    "approx_price": 299.0,
+    "approx_price": 314.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "23349",
@@ -11373,7 +11506,7 @@
     "description": "The Singularity 5.8 antenna is TrueRC's most advanced antenna yet. Reducing size yet again, while keeping performance at the top of the pack.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/truerc-singularity-5-8-sma-long-antenna-lhcp.html",
     "image_file": "",
-    "approx_price": 49.99,
+    "approx_price": 19.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "11099",
@@ -11505,7 +11638,7 @@
     "description": "The VIFLY Cam Switcher allows you to quickly switch between two FPV cameras on a single VTX.",
     "link": "https://www.getfpv.com/fpv/cameras/vifly-cam-switcher.html",
     "image_file": "",
-    "approx_price": 199.99,
+    "approx_price": 66.95,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G23908CN1Z",
@@ -11745,7 +11878,7 @@
     "description": "The Heaviside Handheld Spectrum Analyzer Battery is a lithium-ion rechargeable battery custom-designed for the MOTH system.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/heaviside-battery-for-handheld-spectrum-analyzer.html",
     "image_file": "",
-    "approx_price": 14.99,
+    "approx_price": 169.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24743US1Z",
@@ -11851,7 +11984,7 @@
     "description": "The Lumenier Siege 100A 3-8S AM32 Single ESC features some of the latest power-electronics technology, including best-in-class 60V power transistors.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-siege-100a-3-8s-am32-single-esc-ndaa.html",
     "image_file": "",
-    "approx_price": 19.99,
+    "approx_price": 71.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G23444US1Z",
@@ -11880,7 +12013,7 @@
     "description": "The\u00a0Lumenier Siege 80A ESC features some of the latest technology in power electronics, including best-in-class power transistors.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-siege-80a-3-8s-am32-4-in-1-esc-ndaa.html",
     "image_file": "",
-    "approx_price": 311.99,
+    "approx_price": 819.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G23445US1Z",
@@ -12024,7 +12157,7 @@
     "description": "The\u00a0Lumenier NAV 21700 Lithium-Ion Battery series, specially designed for long-range pilots seeking unparalleled performance, is now available with NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-nav-10000mah-6s-21700-lithium-ion-battery-xt60-ndaa.html",
     "image_file": "",
-    "approx_price": null,
+    "approx_price": 8.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24884IN1Z",
@@ -12052,7 +12185,7 @@
     "description": "The\u00a0Lumenier NAV 21700 Lithium-Ion Battery series, specially designed for long-range pilots seeking unparalleled performance, is now available with NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-nav-15000mah-8s-21700-lithium-ion-battery-xt60-ndaa.html",
     "image_file": "",
-    "approx_price": 249.99,
+    "approx_price": 139.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24881IN1Z",
@@ -12081,7 +12214,7 @@
     "description": "The\u00a0Lumenier NAV 21700 Lithium-Ion Battery series, specially designed for long-range pilots seeking unparalleled performance, is now available with NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-nav-5000mah-6s-21700-lithium-ion-battery-xt60-ndaa.html",
     "image_file": "",
-    "approx_price": 469.99,
+    "approx_price": 369.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24885IN1Z",
@@ -12110,7 +12243,7 @@
     "description": "The\u00a0Lumenier NAV 21700 Lithium-Ion Battery series, specially designed for long-range pilots seeking unparalleled performance, is now available with NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-nav-15000mah-6s-21700-lithium-ion-battery-xt60-ndaa.html",
     "image_file": "",
-    "approx_price": 139.99,
+    "approx_price": 249.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24883IN1Z",
@@ -12139,7 +12272,7 @@
     "description": "The\u00a0Lumenier NAV 21700 Lithium-Ion Battery series, specially designed for long-range pilots seeking unparalleled performance, is now available with NDAA compliance.",
     "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/lumenier-nav-20000mah-6s-21700-lithium-ion-battery-xt90-ndaa.html",
     "image_file": "",
-    "approx_price": 369.99,
+    "approx_price": 469.99,
     "category": "fpv_cameras",
     "schema_data": {
       "SKU": "G24882IN1Z",
@@ -12186,5 +12319,40 @@
     "source": "getfpv.com",
     "origin": "Unknown",
     "ndaa_compliant": null
+  },
+  {
+    "name": "Master Airscrew MR 8x4.5 Propeller CW - Black",
+    "manufacturer": "Master",
+    "description": "Designed for VTOL drones, long-range FPVs and slow flier airplanes, the Master Airscrew MR series is optimized for performance and outstanding efficiency in hover and forward flight.",
+    "link": "https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/master-airscrew-mr-8x4-5-propeller-cw-black.html",
+    "image_file": "",
+    "approx_price": null,
+    "category": "fpv_cameras",
+    "schema_data": {
+      "SKU": "G24906US1Z",
+      "UPC (GTIN)": "723326382147",
+      "Manufacturer": "Master Airscrew",
+      "Country of Manufacture": "United States",
+      "NDAA Compliant": "Yes",
+      "Popo Compatible": "No",
+      "Prop Length": "8\"",
+      "Pitch": "4.5\"",
+      "Number of Blades": "2 Blades",
+      "Material": "Glass Fiber Composite",
+      "Weight in Grams": "7.7",
+      "Color (Basic Prop Colors)": "Black",
+      "Rotation": "CW",
+      "Hub ID": "15.7mm",
+      "Hub thickness": "8mm",
+      "Includes": "1x CW Propeller"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CAM-1428",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
   }
 ]

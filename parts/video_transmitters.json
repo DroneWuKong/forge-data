@@ -33,7 +33,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 1399.0,
+      "retrieved_at": "2026-09-15T11:42:22.376268+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1002",
@@ -69,7 +76,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 3999.0,
+      "retrieved_at": "2026-09-16T11:42:31.245068+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1005",
@@ -107,7 +121,14 @@
     "ndaa_note": "HDZero \u2014 US-designed video system. FC hardware manufactured in China. Non-NDAA for FC hardware.",
     "interface": "MIPI CSI / UART",
     "weight_g": 8,
-    "origin": "China"
+    "origin": "China",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 63.99,
+      "retrieved_at": "2026-09-20T11:40:34.016197+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1006",
@@ -144,7 +165,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "China"
+    "origin": "China",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 220.99,
+      "retrieved_at": "2026-09-20T11:40:35.470105+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1007",
@@ -181,7 +209,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "China"
+    "origin": "China",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 0.0,
+      "retrieved_at": "2026-09-20T11:40:37.002649+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1008",
@@ -476,7 +511,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 89.99,
+      "retrieved_at": "2026-09-16T11:42:32.780428+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1017",
@@ -698,7 +740,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 818.99,
+      "retrieved_at": "2026-09-16T11:42:34.951928+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1027",
@@ -810,7 +859,14 @@
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "interface": "Analog / UART",
     "weight_g": 10,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 38.99,
+      "retrieved_at": "2026-09-16T11:42:38.151201+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1033",
@@ -847,7 +903,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 2,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 38.99,
+      "retrieved_at": "2026-09-16T11:42:39.748526+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1034",
@@ -884,7 +947,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-17T11:42:31.868293+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1035",
@@ -921,7 +991,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 38.99,
+      "retrieved_at": "2026-09-17T11:42:33.415976+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1036",
@@ -958,7 +1035,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-17T11:42:34.928111+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1038",
@@ -995,7 +1079,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-17T11:42:37.394852+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1039",
@@ -1032,7 +1123,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-17T11:42:39.640076+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1040",
@@ -1106,7 +1204,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-18T11:40:59.253903+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1042",
@@ -1218,7 +1323,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 5,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 51.99,
+      "retrieved_at": "2026-09-18T11:41:00.793835+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1049",
@@ -1958,7 +2070,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 76.99,
+      "retrieved_at": "2026-09-18T11:41:03.350039+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1073",
@@ -1994,7 +2113,14 @@
     ],
     "interface": "Digital / UART",
     "weight_g": 8,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 1839.99,
+      "retrieved_at": "2026-09-18T11:41:05.400952+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1074",
@@ -2441,7 +2567,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 1.01,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 32.99,
+      "retrieved_at": "2026-09-19T11:40:12.763689+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1099",
@@ -2516,7 +2649,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 10,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 55.99,
+      "retrieved_at": "2026-09-19T11:40:15.323742+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1101",
@@ -2664,7 +2804,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 8,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 77.99,
+      "retrieved_at": "2026-09-19T11:40:17.384685+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1106",
@@ -2701,7 +2848,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 3,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 25.99,
+      "retrieved_at": "2026-09-19T11:40:19.646598+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1107",
@@ -2738,7 +2892,14 @@
     ],
     "interface": "Analog / UART",
     "weight_g": 3,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 25.99,
+      "retrieved_at": "2026-09-20T11:40:32.551343+00:00",
+      "available": true
+    }
   },
   {
     "pid": "VTX-1109",
