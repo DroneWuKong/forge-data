@@ -51,7 +51,28 @@
     "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv, Israel. Allied-nation NDAA compliant.",
     "weight_g": 30,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "live_price": {
+      "available": true,
+      "query": "Hailo Technologies Hailo-8 M.2 AI Accelerator Module",
+      "unit_price_usd": 169.0,
+      "in_stock": true,
+      "stock_qty": 150,
+      "lead_time_weeks": "126 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/Hailo/HM218B1C2FAE?qs=KLj0QfLrw0FeXlyfEewJSA%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "HM218B1C2FAE",
+      "parts_found": 3,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 169.0,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-27T11:35:08.192889+00:00"
+    }
   },
   {
     "pid": "AIACCEL-0002",
@@ -469,7 +490,28 @@
     "ndaa_compliant": null,
     "ndaa_note": "Intel Corporation, Santa Clara CA. US company. NDAA compliant.",
     "weight_g": 20,
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "live_price": {
+      "available": true,
+      "query": "Intel Intel Movidius Myriad X VPU (Neural Compute Stick 2)",
+      "unit_price_usd": 195.0,
+      "in_stock": true,
+      "stock_qty": 1,
+      "lead_time_weeks": "0 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/NexCOBOT/10E000AIB05X0?qs=eP2BKZSCXI6VUUZZcVshog%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "10E000AIB05X0",
+      "parts_found": 2,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 195.0,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-27T11:35:08.192889+00:00"
+    }
   },
   {
     "pid": "AIACCEL-0011",
@@ -671,6 +713,27 @@
     ],
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
     "weight_g": 60,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson Orin NX TAA (16GB)",
+      "unit_price_usd": 2173.5,
+      "in_stock": false,
+      "stock_qty": null,
+      "lead_time_weeks": "0 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/ADLINK-Technology/DLAP-211-Orin-NX-16GB?qs=%252BXxaIXUDbq2bfmPJ44rN3A%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "DLAP-211-Orin NX 16GB",
+      "parts_found": 3,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 2173.5,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-27T11:35:08.192889+00:00"
+    }
   }
 ]

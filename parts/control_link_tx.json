@@ -5441,7 +5441,7 @@
     "description": "Lumenier has officially teamed up with RadioMaster to bring you the Lumenier Edition TX16S MKII MAX PRO Radio Transmitter.",
     "link": "https://www.getfpv.com/radiomaster-tx16s-mkii-max-pro-radio-transmitter-w-ag01-gimbals-lumenier-edition-elrs-2-4ghz.html",
     "image_file": "",
-    "approx_price": 649.98,
+    "approx_price": 164.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "22574",
@@ -5597,7 +5597,7 @@
     "description": "Boost your signal reliability with the GEPRC Dual 915M PA500 True Diversity Receiver, powered by the open-source ExpressLRS project.",
     "link": "https://www.getfpv.com/geprc-elrs-dual-915m-pa500-diversity-receiver-915mhz.html",
     "image_file": "",
-    "approx_price": 213.99,
+    "approx_price": 599.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G24708CN1Z",
@@ -5626,7 +5626,7 @@
     "description": "RadioMaster proudly presents the new GX15 MAX Radio Controller! Available in multiple colors -- designed to inspire and excite.",
     "link": "https://www.getfpv.com/radiomaster-gx15-max-radio-controller-elrs-2-4ghz-m2.html",
     "image_file": "",
-    "approx_price": 389.99,
+    "approx_price": 209.99,
     "category": "control_link_tx",
     "schema_data": {
       "SKU": "G25123CN1Z",
@@ -5693,6 +5693,58 @@
       "note": "Listed in GetFPV NDAA section"
     },
     "pid": "CTX-1017",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Jumper T15 Pro Radio Transmitter w/ Hall Gimbals - ELRS 2.4GHz",
+    "manufacturer": "Jumper",
+    "description": "Engineered for pilots who demand the absolute best, the Jumper T15 Pro stands as the pinnacle of Jumper's flagship transmitter platform.",
+    "link": "https://www.getfpv.com/jumper-t15-pro-radio-transmitter-w-hall-gimbals-elrs-2-4ghz.html",
+    "image_file": "",
+    "approx_price": 389.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G25339CN1Z",
+      "Manufacturer": "Jumper",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size",
+      "Radio Protocol": "ExpressLRS"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1018",
+    "source": "getfpv.com",
+    "origin": "China",
+    "ndaa_compliant": false
+  },
+  {
+    "name": "Jumper T20 V2 Radio Transmitter w/ Hall Gimbals - ELRS 2.4GHz",
+    "manufacturer": "Jumper",
+    "description": "The Jumper T20 V2 is a high-performance open-source radio transmitter built for FPV drone, fixed-wing, and multirotor pilots.",
+    "link": "https://www.getfpv.com/jumper-t20-v2-radio-transmitter-w-hall-gimbals-elrs-2-4ghz.html",
+    "image_file": "",
+    "approx_price": 213.99,
+    "category": "control_link_tx",
+    "schema_data": {
+      "SKU": "G25088CN1Z",
+      "UPC (GTIN)": "723326382475",
+      "Manufacturer": "Jumper",
+      "Country of Manufacture": "China",
+      "NDAA Compliant": "No",
+      "Tx Frequencies": "2.4GHz",
+      "Radio Controller Style": "Full-Size"
+    },
+    "compliance": {
+      "ndaa_compliant": true,
+      "note": "Listed in GetFPV NDAA section"
+    },
+    "pid": "CTX-1019",
     "source": "getfpv.com",
     "origin": "China",
     "ndaa_compliant": false

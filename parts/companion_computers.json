@@ -56,7 +56,63 @@
     "ndaa_compliant": true,
     "ndaa_note": "ModalAI Inc., San Diego CA. US-made VOXL 2 autopilot. Blue UAS Framework listed. NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "ModalAI ModalAI VOXL 2",
+      "unit_price_usd": 2.23,
+      "in_stock": true,
+      "stock_qty": 95,
+      "lead_time_weeks": "196 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/VOX-Power/LINK-VP2?qs=DJA8%252BIqD56U2yCdH3usD1g%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "LINK-VP2",
+      "parts_found": 2,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 2.23,
+          "currency": "USD"
+        },
+        {
+          "quantity": 5,
+          "price": 2.06,
+          "currency": "USD"
+        },
+        {
+          "quantity": 10,
+          "price": 1.98,
+          "currency": "USD"
+        },
+        {
+          "quantity": 25,
+          "price": 1.92,
+          "currency": "USD"
+        },
+        {
+          "quantity": 50,
+          "price": 1.85,
+          "currency": "USD"
+        },
+        {
+          "quantity": 100,
+          "price": 1.83,
+          "currency": "USD"
+        },
+        {
+          "quantity": 300,
+          "price": 1.58,
+          "currency": "USD"
+        },
+        {
+          "quantity": 500,
+          "price": 1.55,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0002",
@@ -331,7 +387,22 @@
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson AGX Orin 64GB",
+      "unit_price_usd": 4189.4,
+      "in_stock": false,
+      "stock_qty": 0,
+      "lead_time_weeks": "12",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/sparkfun-electronics/22099/24721913",
+      "mfr_pn": "22099",
+      "parts_found": 5,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0007",
@@ -386,7 +457,22 @@
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson Orin NX 16GB",
+      "unit_price_usd": 1630.0,
+      "in_stock": true,
+      "stock_qty": 32,
+      "lead_time_weeks": "5",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/110110145/17775453",
+      "mfr_pn": "110110145",
+      "parts_found": 9,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0008",
@@ -438,7 +524,22 @@
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson Orin Nano 8GB",
+      "unit_price_usd": 870.84,
+      "in_stock": true,
+      "stock_qty": 2,
+      "lead_time_weeks": "13",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/advantech-corporation/MIC-711D-ON3A1/21690529",
+      "mfr_pn": "MIC-711D-ON3A1",
+      "parts_found": 12,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0009",
@@ -488,7 +589,28 @@
     "ndaa_compliant": true,
     "ndaa_note": "NVIDIA Corporation, Santa Clara CA. US company (NASDAQ: NVDA). Fab: TSMC Taiwan. NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson AGX Thor",
+      "unit_price_usd": 38.56,
+      "in_stock": true,
+      "stock_qty": 63,
+      "lead_time_weeks": "74 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/Auvidea/70861-HF?qs=T%252BzbugeAwjhYb4RRDtvFww%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "70861-HF",
+      "parts_found": 3,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 38.56,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0010",
@@ -535,7 +657,22 @@
     "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "live_price": {
+      "available": true,
+      "query": "Hailo Hailo-8",
+      "unit_price_usd": 70.0,
+      "in_stock": true,
+      "stock_qty": 664,
+      "lead_time_weeks": "14",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/raspberry-pi/SC1785/25807415",
+      "mfr_pn": "SC1785",
+      "parts_found": 11,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0011",
@@ -583,7 +720,28 @@
     "ndaa_compliant": null,
     "ndaa_note": "Hailo Technologies, Tel Aviv. Allied-nation NDAA compliant.",
     "interface": "PCIe / USB / Ethernet",
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "live_price": {
+      "available": true,
+      "query": "Hailo Hailo-10H",
+      "unit_price_usd": 212.5,
+      "in_stock": false,
+      "stock_qty": null,
+      "lead_time_weeks": "28 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/Hailo/HM22HB2C2XBE?qs=KLj0QfLrw0Hf8avtQzfKHw%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "HM22HB2C2XBE",
+      "parts_found": 2,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 212.5,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "COMP-0012",
@@ -797,7 +955,28 @@
     "ndaa_compliant": null,
     "ndaa_note": "Qualcomm Technologies, San Diego CA. US semiconductor (NASDAQ: QCOM). NDAA compliant.",
     "interface": "USB / Ethernet / UART",
-    "origin": "Unknown"
+    "origin": "Unknown",
+    "live_price": {
+      "available": true,
+      "query": "Qualcomm Qualcomm Flight RB5 Platform",
+      "unit_price_usd": 122.48,
+      "in_stock": true,
+      "stock_qty": 3,
+      "lead_time_weeks": "182 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/Lantronix/QC-DB-J10004?qs=81r%252BiQLm7BQ%2F4HvkPa7QvQ%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "QC-DB-J10004",
+      "parts_found": 3,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 122.48,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "CC-0001",
@@ -1170,7 +1349,22 @@
       "usa"
     ],
     "weight_g": 20,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson Orin Nano",
+      "unit_price_usd": 32.54,
+      "in_stock": true,
+      "stock_qty": 93,
+      "lead_time_weeks": "10",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/advanced-thermal-solutions-inc/ATS-NVP-3281-C2-R1/26003711",
+      "mfr_pn": "ATS-NVP-3281-C2-R1",
+      "parts_found": 13,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-Orin-NX",
@@ -1205,7 +1399,22 @@
       "usa"
     ],
     "weight_g": 60,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson Orin NX",
+      "unit_price_usd": 32.54,
+      "in_stock": true,
+      "stock_qty": 93,
+      "lead_time_weeks": "10",
+      "source": "digikey",
+      "mouser_url": "",
+      "digikey_url": "https://www.digikey.com/en/products/detail/advanced-thermal-solutions-inc/ATS-NVP-3281-C2-R1/26003711",
+      "mfr_pn": "ATS-NVP-3281-C2-R1",
+      "parts_found": 13,
+      "price_breaks": [],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   },
   {
     "pid": "CMP-MFR-NVIDIA-Jetson-AGX-Orin",
@@ -1240,6 +1449,27 @@
       "usa"
     ],
     "weight_g": 60,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "available": true,
+      "query": "NVIDIA NVIDIA Jetson AGX Orin",
+      "unit_price_usd": 38.56,
+      "in_stock": true,
+      "stock_qty": 63,
+      "lead_time_weeks": "74 Days",
+      "source": "mouser",
+      "mouser_url": "https://www.mouser.com/en/ProductDetail/Auvidea/70861-HF?qs=T%252BzbugeAwjhYb4RRDtvFww%3D%3D",
+      "digikey_url": "",
+      "mfr_pn": "70861-HF",
+      "parts_found": 13,
+      "price_breaks": [
+        {
+          "quantity": 1,
+          "price": 38.56,
+          "currency": "USD"
+        }
+      ],
+      "retrieved_at": "2026-09-12T11:34:47.652214+00:00"
+    }
   }
 ]

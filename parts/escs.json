@@ -264,7 +264,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 89.99,
+      "retrieved_at": "2026-09-11T11:40:12.428395+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1004",
@@ -331,7 +338,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 77.99,
+      "retrieved_at": "2026-09-11T11:40:15.107520+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1005",
@@ -408,7 +422,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 35,
-    "origin": "Croatia"
+    "origin": "Croatia",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 199.99,
+      "retrieved_at": "2026-09-11T11:40:17.409192+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1006",
@@ -542,7 +563,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 35,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 299.0,
+      "retrieved_at": "2026-09-11T11:40:19.069107+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1008",
@@ -745,7 +773,14 @@
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 64.99,
+      "retrieved_at": "2026-09-11T11:40:21.523951+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1011",
@@ -812,7 +847,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 35,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 71.95,
+      "retrieved_at": "2026-09-11T11:40:23.231781+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1012",
@@ -944,7 +986,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 35,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 399.99,
+      "retrieved_at": "2026-09-11T11:40:24.904843+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1014",
@@ -1011,7 +1060,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 71.49,
+      "retrieved_at": "2026-09-11T11:40:27.288438+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1015",
@@ -1213,7 +1269,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 84.99,
+      "retrieved_at": "2026-09-11T11:40:30.117317+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1018",
@@ -1280,7 +1343,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 110.49,
+      "retrieved_at": "2026-09-11T11:40:32.591166+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1019",
@@ -1748,7 +1818,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 49.99,
+      "retrieved_at": "2026-09-11T11:40:34.583004+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1029",
@@ -1789,7 +1866,14 @@
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 141.99,
+      "retrieved_at": "2026-09-11T11:40:37.033550+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1030",
@@ -2056,7 +2140,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 142.99,
+      "retrieved_at": "2026-09-11T11:40:39.236022+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1034",
@@ -3588,7 +3679,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 110.49,
+      "retrieved_at": "2026-09-11T11:40:44.771629+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1059",
@@ -4121,7 +4219,14 @@
     "ndaa_note": "NewBeeDrone, Florida USA. US retailer/brand. Most FCs assembled in China (BrainFPV designs are USA-made exception). Verify NDAA per specific SKU.",
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 79.99,
+      "retrieved_at": "2026-09-11T11:40:50.286615+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1071",
@@ -5318,7 +5423,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 12,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": true,
+      "unit_price_usd": 116.99,
+      "retrieved_at": "2026-09-11T11:40:51.950312+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1102",
@@ -5385,7 +5497,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 97.49,
+      "retrieved_at": "2026-09-11T11:40:54.067197+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1104",
@@ -5784,7 +5903,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 25,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 97.49,
+      "retrieved_at": "2026-09-11T11:40:59.594280+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1113",
@@ -6233,7 +6359,14 @@
     "ndaa_note": "XILO \u2014 US brand (GetFPV subsidiary). FCs manufactured in China. Non-NDAA for hardware.",
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 94.99,
+      "retrieved_at": "2026-09-11T11:41:05.839390+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1122",
@@ -6794,7 +6927,14 @@
     "ndaa_note": "FlightOne, USA. US company. FC hardware origin unclear \u2014 verify per product.",
     "interface": "DSHOT / PWM",
     "weight_g": 12,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 85.99,
+      "retrieved_at": "2026-09-11T11:41:08.632949+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1131",
@@ -6853,7 +6993,14 @@
     "ndaa_note": "FlightOne, USA. US company. FC hardware origin unclear \u2014 verify per product.",
     "interface": "DSHOT / PWM",
     "weight_g": 12,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 83.49,
+      "retrieved_at": "2026-09-11T11:41:10.952027+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1132",
@@ -7050,7 +7197,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 12,
-    "origin": "USA"
+    "origin": "USA",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 46.99,
+      "retrieved_at": "2026-09-11T11:41:13.223205+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1135",
@@ -7338,7 +7492,14 @@
     ],
     "interface": "DSHOT / PWM",
     "weight_g": 18,
-    "origin": "Germany"
+    "origin": "Germany",
+    "live_price": {
+      "source": "getfpv",
+      "in_stock": false,
+      "unit_price_usd": 100.49,
+      "retrieved_at": "2026-09-11T11:41:15.564068+00:00",
+      "available": true
+    }
   },
   {
     "pid": "ESC-1140",
